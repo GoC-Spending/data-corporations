@@ -1,11 +1,9 @@
 const fs = require('fs')
 const path = require('path')
 const request = require('request-promise')
-const entries = require('lodash').entries
 const d3 = require('d3-queue')
 const chalk = require('chalk')
 const cheerio = require('cheerio')
-const unidecode = require('unidecode')
 const write = require('write-json-file')
 const load = require('load-json-file')
 
@@ -131,26 +129,12 @@ function findLinks (details) {
   const links = []
   $('a').each((index, link) => {
     const href = link.attribs.href
-    if (href.match(/docsCount/)) {
-      const name = cleanName(link.childNodes[0].data)
+    if (href.match(/docsCount/) && href.match(/estblmntNo/)) {
+      const name = href.match(/estblmntNo=(\d+)/)[1]
       links.push({href, name})
     }
   })
   return links
-}
-
-/**
- * Clean name
- *
- * @param {string} name
- * @returns {string} clean name
- */
-function cleanName (name) {
-  name = name.trim()
-  name = name.replace(/\//g, '-').replace(/\./g, '')
-  name = unidecode(name)
-  name = name.toUpperCase()
-  return name
 }
 
 /**
@@ -163,7 +147,8 @@ function getCorporations ({links, jar} = {}) {
   console.log('Get corporations:', Object.keys(links).length)
 
   const q = d3.queue(1)
-  for (const [name, href] of entries(links)) {
+  for (const name of Object.keys(links)) {
+    const href = links[name]
     q.defer(callback => {
       request.get('https://www.ic.gc.ca/app/ccc/srch/' + href, {headers, jar, timeout}).then(details => {
         // Parse title to check for errors
