@@ -4,10 +4,9 @@
   "version": "0.1.0",
   "description": "Data Corporations",
   "scripts": {
-    "scrape": "node scrapers/corporation-scraper.js",
-    "metadata": "node scrapers/corporation-metadata.js",
-    "json2csv": "json2csv -i corporations.json > corporations.csv",
-    "upload": "aws s3 cp corporations.csv s3://goc-spending/corporations.csv && aws s3 cp corporations.json s3://goc-spending/corporations.json"
+    "scraper": "node scrapers.js",
+    "metadata": "node metadata.js",
+    "json2csv": "json2csv -i corporations.json > corporations.csv"
   },
   "author": "Ottawa CivicTech",
   "license": "MIT",
