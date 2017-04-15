@@ -130,8 +130,8 @@ function findLinks (details) {
   $('a').each((index, link) => {
     const href = link.attribs.href
     if (href.match(/docsCount/) && href.match(/estblmntNo/)) {
-      const name = href.match(/estblmntNo=(\d+)/)[1]
-      links.push({href, name})
+      const unique = href.match(/estblmntNo=(\d+)/)
+      if (unique) links.push({href, name: unique[1]})
     }
   })
   return links
