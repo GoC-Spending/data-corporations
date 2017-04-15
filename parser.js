@@ -129,4 +129,5 @@ for (const filename of filenames) {
     if (count % 250 === 0) { bar.update(count / filenames.length) }
   }
 }
+bar.update(1)
 writer.end('\n]')
