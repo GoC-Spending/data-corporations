@@ -5,7 +5,7 @@
   "description": "Data Corporations",
   "scripts": {
     "start": "npm run metadata && npm run json2csv",
-    "scraper": "node scraper.js",
+    "download": "node download.js",
     "metadata": "node metadata.js",
     "json2csv": "json2csv -i data/corporations.json > data/corporations.csv"
   },

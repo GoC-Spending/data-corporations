@@ -8,10 +8,12 @@ NodeJS is required
 $ npm install
 ```
 
-## Run Scraper
+## Download Data
+
+- Download `html` from [Canadian Company Capabilities](https://www.ic.gc.ca/app/ccc/srch/).
 
 ```bash
-$ npm run scraper
+$ npm run download
 
 Login | retrieve new CookieJar
 Get details | offset: 34475
