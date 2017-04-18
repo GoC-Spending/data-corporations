@@ -1,8 +1,10 @@
-# Data Corporations
+# Detailed Canadian Companies
+
+> Find companies that can supply your organization with the goods, services and technology it needs.
 
 ## Install
 
-NodeJS is required
+[NodeJS](https://nodejs.org/en/) is required.
 
 ```bash
 $ npm install
