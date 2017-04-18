@@ -4,9 +4,10 @@
   "version": "0.1.0",
   "description": "Data Corporations",
   "scripts": {
+    "start": "npm run scraper",
     "scraper": "node scraper.js",
     "metadata": "node metadata.js",
-    "json2csv": "json2csv -i corporations.json > corporations.csv"
+    "json2csv": "json2csv -i data/corporations.json > data/corporations.csv"
   },
   "author": "Ottawa CivicTech",
   "license": "MIT",

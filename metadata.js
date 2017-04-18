@@ -3,7 +3,11 @@ const path = require('path')
 const ProgressBar = require('progress')
 
 // User Input
-const folder = path.join(__dirname, 'corporations')
+const folder = path.join(__dirname, 'html')
+
+// Create Writer
+const writer = fs.createWriteStream(path.join(__dirname, 'data', 'corporations.json'))
+writer.write('[\n')
 
 /**
  * Parse HTML
@@ -99,10 +103,6 @@ function parseHTML (html, filename) {
 
   return results
 }
-
-// Create Writer
-const writer = fs.createWriteStream(path.join(__dirname, 'corporations.json'))
-writer.write('[\n')
 
 // Loop each HTML
 let count = 0

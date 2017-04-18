@@ -14,6 +14,7 @@ const headers = {
 }
 const timeout = 10000
 const statusPath = path.join(__dirname, 'status.json')
+const corporationPath = path.join(__dirname, 'html')
 
 /**
  * Login it to receive session credentials
@@ -100,7 +101,7 @@ function parseLinks ({jar, details} = {}) {
   const results = {}
   const links = findLinks(details)
   for (let {href, name} of links) {
-    if (!fs.existsSync(path.join(__dirname, 'corporations', name + '.html'))) {
+    if (!fs.existsSync(path.join(corporationPath, name + '.html'))) {
       results[name] = href
     }
   }
@@ -158,7 +159,7 @@ function getCorporations ({links, jar} = {}) {
           callback(new Error('error in html'))
         } else {
           console.log(chalk.bgGreen.black('Saving HTML:', name))
-          fs.writeFileSync(path.join(__dirname, 'corporations', name + '.html'), details)
+          fs.writeFileSync(path.join(corporationPath, name + '.html'), details)
           callback(null)
         }
       }, error => {
@@ -186,7 +187,7 @@ function getCorporations ({links, jar} = {}) {
 
 function main (jar) {
   if (!fs.existsSync(statusPath)) {
-    write.sync(statusPath, {offset: 0})
+    write.sync(statusPath, {offset: 0, hitsPerPage: 25})
   }
   login(jar)
     .then(getDetails)
@@ -194,5 +195,4 @@ function main (jar) {
     .then(parseLinks)
     .then(getCorporations)
 }
-
 main()
