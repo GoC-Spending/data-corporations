@@ -25,17 +25,31 @@ Saving HTML: 234567151960
 Saving HTML: 234567067124
 ```
 
-## Parse Metadata
+## Process Data
+
+- Process HTML data to JSON
+- Convert JSON to CSV
 
 ```bash
-$ npm run metadata
+$ npm run start
 
-  processing [====================] 100% 1054/1054
+> data-corporations@0.1.0 start /Users/mac/Github/data-corporations
+> npm run metadata && npm run json2csv
+
+
+> data-corporations@0.1.0 metadata /Users/mac/Github/data-corporations
+> node metadata.js
+
+  processing [====================] 100% 51709/51709
+
+> data-corporations@0.1.0 json2csv /Users/mac/Github/data-corporations
+> json2csv -i data/corporations.json > data/corporations.csv
 ```
 
 ## Datasets
 
-- [corporations.json](https://github.com/GoC-Spending/data-corporations/blob/master/corporations.json)
+- [corporations.json](https://github.com/GoC-Spending/data-corporations/blob/master/data/corporations.json)
+- [corporations.csv](https://github.com/GoC-Spending/data-corporations/blob/master/data/corporations.csv)
 
 ```
 [
