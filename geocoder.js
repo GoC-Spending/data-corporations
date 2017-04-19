@@ -12,9 +12,9 @@ async function main() {
     const mailingAddress = corporation.mailingAddress
     const locationAddress = corporation.locationAddress
     let location = locationAddress || mailingAddress || ''
-    location = location.trim().toUpperCase()
+    location = location.trim().toUpperCase().replace(/\//g, '-')
 
-    const filename = path.join(__dirname, 'geocodes', 'bing', location + '.geojson')
+    const filename = path.join(__dirname, 'geocodes', location + '.geojson')
     if (location && !fs.existsSync(filename)) {
       const geojson = await geocoder.bing(location)
       if (geojson.features.length) {

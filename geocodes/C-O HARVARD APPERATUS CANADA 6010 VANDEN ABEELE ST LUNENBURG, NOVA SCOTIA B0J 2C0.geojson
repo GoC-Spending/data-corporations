@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Lunenburg, B0J 2C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a51f28061c824a7fbb3221d0fcc5d50d|BN20130447|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lunenburg, B0J 2C0, Canada",
+				"locality": "Lunenburg",
+				"postalCode": "B0J 2C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.2944259643555,
+					44.3849258422852
+				]
+			},
+			"bbox": [
+				-64.3016321516985,
+				44.3810631247145,
+				-64.2872197770124,
+				44.3887885598558
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "CountryRegion",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a51f28061c824a7fbb3221d0fcc5d50d|BN20130447|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Canada"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.9133224487305,
+					62.8329086303711
+				]
+			},
+			"bbox": [
+				-142.100006103516,
+				40.9000015258789,
+				-51.9000015258789,
+				73
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "52 Simcoe St N, Oshawa, ON L1G 4S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af36aa2d779a4b839767908e5bfa012f|BN20130442|7.7.0.0|",
+				"addressLine": "52 Simcoe St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "52 Simcoe St N, Oshawa, ON L1G 4S1, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Downtown Oshawa",
+				"postalCode": "L1G 4S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8644686,
+					43.8989773
+				]
+			},
+			"bbox": [
+				-78.8660287,
+				43.8978531,
+				-78.8629085,
+				43.9001014
+			]
+		}
+	]
+}

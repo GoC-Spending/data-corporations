@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Adelaide St E, Toronto, ON M5C 1H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "704cdeb604a34abfb55c810488919641|BN20320521|7.7.0.0|",
+				"addressLine": "6 Adelaide St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Adelaide St E, Toronto, ON M5C 1H6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 1H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37809,
+					43.65063
+				]
+			},
+			"bbox": [
+				-79.3796436,
+				43.6495058,
+				-79.3765364,
+				43.6517542
+			]
+		}
+	]
+}
