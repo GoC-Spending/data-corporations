@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2404 Guelph St, Vancouver, BC V5T 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8819df0dcc244fc995cf59884231797|BN20320521|7.7.0.0|",
+				"addressLine": "2404 Guelph St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2404 Guelph St, Vancouver, BC V5T 3P3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09465,
+					49.2632
+				]
+			},
+			"bbox": [
+				-123.0963726,
+				49.2620758,
+				-123.0929274,
+				49.2643242
+			]
+		}
+	]
+}

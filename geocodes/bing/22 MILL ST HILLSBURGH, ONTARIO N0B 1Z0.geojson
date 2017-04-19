@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Mill St, Erin, ON N0B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b694f917e0ce4ac69a6ef118c48e2d78|BN20121762|7.7.0.0|",
+				"addressLine": "22 Mill St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Mill St, Erin, ON N0B, Canada",
+				"locality": "Erin",
+				"neighborhood": "Hillsburgh",
+				"postalCode": "N0B 1Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.14172,
+					43.79413
+				]
+			},
+			"bbox": [
+				-80.1432774,
+				43.7930058,
+				-80.1401626,
+				43.7952542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "270 Britannia Rd E, Mississauga, ON L4Z 1S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f10b2b60081f4b988dcd9872776e8902|BN20200137|7.7.0.0|",
+				"addressLine": "270 Britannia Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "270 Britannia Rd E, Mississauga, ON L4Z 1S6, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Z 1S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67215,
+					43.63135
+				]
+			},
+			"bbox": [
+				-79.6737031,
+				43.6302258,
+				-79.6705969,
+				43.6324742
+			]
+		}
+	]
+}

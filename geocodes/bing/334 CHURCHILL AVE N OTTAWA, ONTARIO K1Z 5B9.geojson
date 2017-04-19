@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "334 Churchill Ave N, Ottawa, ON K1Z 5B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aefbd0d9e2d94f6796f1e22fcbf8c515|BN20181720|7.7.0.0|",
+				"addressLine": "334 Churchill Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "334 Churchill Ave N, Ottawa, ON K1Z 5B9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Westboro",
+				"postalCode": "K1Z 5B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.75539,
+					45.39417
+				]
+			},
+			"bbox": [
+				-75.7569908,
+				45.3930458,
+				-75.7537892,
+				45.3952942
+			]
+		}
+	]
+}

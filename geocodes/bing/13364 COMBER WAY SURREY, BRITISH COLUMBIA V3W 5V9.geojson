@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13364 Comber Way, Surrey, BC V3W 5V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1fa5a2c4a88f4ca8be9866edf1d2bc9b|BN20121763|7.7.0.0|",
+				"addressLine": "13364 Comber Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "13364 Comber Way, Surrey, BC V3W 5V9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 5V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8524568,
+					49.1354333
+				]
+			},
+			"bbox": [
+				-122.854175,
+				49.1343091,
+				-122.8507387,
+				49.1365574
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2469 Aviation Ln, London, ON N5V 3Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2016649d4e084f618dfd293022f8a6cc|BN20130621|7.7.0.0|",
+				"addressLine": "2469 Aviation Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2469 Aviation Ln, London, ON N5V 3Z9, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 3Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1561,
+					43.0312
+				]
+			},
+			"bbox": [
+				-81.1576379,
+				43.0300758,
+				-81.1545621,
+				43.0323242
+			]
+		}
+	]
+}

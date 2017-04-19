@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4703 52 Ave NW, Edmonton, AB T6B 3R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70a9722f336b4d538b05f89c2ae28502|BN20300154|7.7.0.0|",
+				"addressLine": "4703 52 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4703 52 Ave NW, Edmonton, AB T6B 3R6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Pylypow Industrial",
+				"postalCode": "T6B 3R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.41413,
+					53.48872
+				]
+			},
+			"bbox": [
+				-113.4160194,
+				53.4875958,
+				-113.4122406,
+				53.4898442
+			]
+		}
+	]
+}

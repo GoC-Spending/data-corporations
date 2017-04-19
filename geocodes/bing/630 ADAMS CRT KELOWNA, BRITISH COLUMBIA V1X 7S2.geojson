@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "630 Adams Ct, Kelowna, BC V1X 7S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8bd0d2b42f24673b33b06d1a2c253be|BN20290118|7.7.0.0|",
+				"addressLine": "630 Adams Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "630 Adams Ct, Kelowna, BC V1X 7S2, Canada",
+				"locality": "Kelowna",
+				"postalCode": "V1X 7S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.3883813,
+					49.9293901
+				]
+			},
+			"bbox": [
+				-119.3901276,
+				49.928266,
+				-119.386635,
+				49.9305143
+			]
+		}
+	]
+}

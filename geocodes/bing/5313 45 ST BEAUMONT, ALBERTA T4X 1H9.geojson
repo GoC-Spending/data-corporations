@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5313 45 St, Beaumont, AB T4X 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6282403223bf46a6ab0cbb1871a5c1fa|BN20131519|7.7.0.0|",
+				"addressLine": "5313 45 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5313 45 St, Beaumont, AB T4X 1H9, Canada",
+				"locality": "Beaumont",
+				"postalCode": "T4X 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.40878,
+					53.35591
+				]
+			},
+			"bbox": [
+				-113.4106635,
+				53.3547858,
+				-113.4068965,
+				53.3570342
+			]
+		}
+	]
+}

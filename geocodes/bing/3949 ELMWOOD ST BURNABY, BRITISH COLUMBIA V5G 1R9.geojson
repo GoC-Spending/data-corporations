@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3949 Elmwood St, Burnaby, BC V5G 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0eae530b2bb842faa258864db063246c|BN20280152|7.7.0.0|",
+				"addressLine": "3949 Elmwood St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3949 Elmwood St, Burnaby, BC V5G 1R9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Cascade-Schou",
+				"postalCode": "V5G 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.01646,
+					49.25118
+				]
+			},
+			"bbox": [
+				-123.0181822,
+				49.2500558,
+				-123.0147378,
+				49.2523042
+			]
+		}
+	]
+}

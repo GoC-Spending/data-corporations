@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "46 Grand Ave S, Cambridge, ON N1S 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a91c4ac8d543419080bfc25ee936176c|BN20130431|7.7.0.0|",
+				"addressLine": "46 Grand Ave S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "46 Grand Ave S, Cambridge, ON N1S 2L8, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Downtown Cambridge",
+				"postalCode": "N1S 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3184799,
+					43.35612
+				]
+			},
+			"bbox": [
+				-80.320026,
+				43.3549958,
+				-80.3169338,
+				43.3572442
+			]
+		}
+	]
+}

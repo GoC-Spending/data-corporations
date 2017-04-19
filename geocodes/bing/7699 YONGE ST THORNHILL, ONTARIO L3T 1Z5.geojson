@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7699 Yonge St, Thornhill, ON L3T 1Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f28938f91984821a01fbc30d42fa71a|BN20130632|7.7.0.0|",
+				"addressLine": "7699 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "7699 Yonge St, Thornhill, ON L3T 1Z5, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 1Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42383,
+					43.81526
+				]
+			},
+			"bbox": [
+				-79.4253879,
+				43.8141358,
+				-79.4222721,
+				43.8163842
+			]
+		}
+	]
+}

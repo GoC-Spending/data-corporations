@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7969 See Sea Pl, Saanichton, BC V8M 1L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6be4e2dc96c04e4aa93a1db52fae6377|BN20130431|7.7.0.0|",
+				"addressLine": "7969 See Sea Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "7969 See Sea Pl, Saanichton, BC V8M 1L4, Canada",
+				"locality": "Central Saanich",
+				"neighborhood": "Saanichton",
+				"postalCode": "V8M 1L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4153419,
+					48.5991907
+				]
+			},
+			"bbox": [
+				-123.4170418,
+				48.5980665,
+				-123.4136421,
+				48.6003148
+			]
+		}
+	]
+}

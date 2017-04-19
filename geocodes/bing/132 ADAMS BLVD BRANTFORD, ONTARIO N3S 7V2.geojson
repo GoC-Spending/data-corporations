@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 Adams Blvd, Brantford, ON N3S 7V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f7829c451ea48a595de25e2a61cff2e|BN20121762|7.7.0.0|",
+				"addressLine": "132 Adams Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 Adams Blvd, Brantford, ON N3S 7V2, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 7V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2268835,
+					43.164115
+				]
+			},
+			"bbox": [
+				-80.2284247,
+				43.1629908,
+				-80.2253422,
+				43.1652391
+			]
+		}
+	]
+}

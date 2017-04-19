@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "68 Bowie Ave, York, ON M6E 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7812cf8d97c4d238445d010f4e3259c|BN20210145|7.7.0.0|",
+				"addressLine": "68 Bowie Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "68 Bowie Ave, York, ON M6E 2P3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Briar Hill-Belgravia",
+				"postalCode": "M6E 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4546,
+					43.69704
+				]
+			},
+			"bbox": [
+				-79.4561548,
+				43.6959158,
+				-79.4530452,
+				43.6981642
+			]
+		}
+	]
+}

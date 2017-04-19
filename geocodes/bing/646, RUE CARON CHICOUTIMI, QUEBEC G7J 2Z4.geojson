@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "646 Rue Caron, Chicoutimi, QC G7J 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9003433a1e9941f490f837e9d4b63eec|BN20130632|7.7.0.0|",
+				"addressLine": "646 Rue Caron",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Saguenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "646 Rue Caron, Chicoutimi, QC G7J 2Z4, Canada",
+				"locality": "Saguenay",
+				"neighborhood": "Chicoutimi",
+				"postalCode": "G7J 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.07359,
+					48.42055
+				]
+			},
+			"bbox": [
+				-71.0752839,
+				48.4194258,
+				-71.0718961,
+				48.4216742
+			]
+		}
+	]
+}

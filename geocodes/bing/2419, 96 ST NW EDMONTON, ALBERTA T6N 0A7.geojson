@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2419 96 St NW, Edmonton, AB T6N 0A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7bab57a3459b42848a5abdb0a1140935|BN20280152|7.7.0.0|",
+				"addressLine": "2419 96 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2419 96 St NW, Edmonton, AB T6N 0A7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Parsons Industrial",
+				"postalCode": "T6N 0A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.47488,
+					53.45379
+				]
+			},
+			"bbox": [
+				-113.4767678,
+				53.4526658,
+				-113.4729922,
+				53.4549142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Maxwell St, North York, ON M3H 5B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56e7a8856ff14c42b447c10bdf150567|BN20130442|7.7.0.0|",
+				"addressLine": "205 Maxwell St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Maxwell St, North York, ON M3H 5B6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 5B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45,
+					43.76506
+				]
+			},
+			"bbox": [
+				-79.4515566,
+				43.7639358,
+				-79.4484434,
+				43.7661842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "944 S Service Rd, Stoney Creek, ON L8E 6A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48abc49cec154d9aadb77c00fa80dfb2|BN20130721|7.7.0.0|",
+				"addressLine": "944 S Service Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "944 S Service Rd, Stoney Creek, ON L8E 6A2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 6A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67128,
+					43.22475
+				]
+			},
+			"bbox": [
+				-79.6728227,
+				43.2236258,
+				-79.6697373,
+				43.2258742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "560 Romaine St, Peterborough, ON K9J 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d11ede2ca5a4473b882979c11bbe4ea6|BN20130431|7.7.0.0|",
+				"addressLine": "560 Romaine St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "560 Romaine St, Peterborough, ON K9J 2E3, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.32961,
+					44.28971
+				]
+			},
+			"bbox": [
+				-78.3311804,
+				44.2885858,
+				-78.3280396,
+				44.2908342
+			]
+		}
+	]
+}

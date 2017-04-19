@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11736 34 St NW, Edmonton, AB T5W 1Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ad9a633aa4a46bdb1f40b0b22dbd00f|BN20130533|7.7.0.0|",
+				"addressLine": "11736 34 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11736 34 St NW, Edmonton, AB T5W 1Z1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Beverly Heights",
+				"postalCode": "T5W 1Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.3953,
+					53.57007
+				]
+			},
+			"bbox": [
+				-113.397193,
+				53.5689458,
+				-113.393407,
+				53.5711942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2026 Oxford St E, London, ON N5V 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05777f24ed664f2e8320830f982ccffd|CO30276243|7.7.0.0|",
+				"addressLine": "2026 Oxford St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2026 Oxford St E, London, ON N5V 2Z8, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1717959,
+					43.019166
+				]
+			},
+			"bbox": [
+				-81.1733335,
+				43.0180419,
+				-81.1702584,
+				43.0202902
+			]
+		}
+	]
+}

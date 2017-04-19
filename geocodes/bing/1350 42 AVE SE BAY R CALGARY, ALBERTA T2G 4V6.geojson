@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1350 42 Ave SE, Calgary, AB T2G 4V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01c5139816b945ea83f8b0b9cefde490|BN20130442|7.7.0.0|",
+				"addressLine": "1350 42 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1350 42 Ave SE, Calgary, AB T2G 4V6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2G 4V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.033735,
+					51.0161949
+				]
+			},
+			"bbox": [
+				-114.0355219,
+				51.0150707,
+				-114.0319481,
+				51.0173191
+			]
+		}
+	]
+}

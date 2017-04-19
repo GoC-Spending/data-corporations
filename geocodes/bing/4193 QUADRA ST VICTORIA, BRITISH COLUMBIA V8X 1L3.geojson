@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4193 Quadra St, Victoria, BC V8X 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f4b070aa2464b7d83cf8c06ad28186b|BN20260231|7.7.0.0|",
+				"addressLine": "4193 Quadra St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4193 Quadra St, Victoria, BC V8X 1L3, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8X 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.37737,
+					48.48073
+				]
+			},
+			"bbox": [
+				-123.3790659,
+				48.4796058,
+				-123.3756741,
+				48.4818542
+			]
+		}
+	]
+}

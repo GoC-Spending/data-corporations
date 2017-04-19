@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5112 Boulevard Bourque, Sherbrooke, QC J1N 2K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be28dfecef7b4ed88c029ae4313862a5|BN20131519|7.7.0.0|",
+				"addressLine": "5112 Boulevard Bourque",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "5112 Boulevard Bourque, Sherbrooke, QC J1N 2K7, Canada",
+				"locality": "Sherbrooke",
+				"neighborhood": "Rock Forest",
+				"postalCode": "J1N 2K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.99215,
+					45.36819
+				]
+			},
+			"bbox": [
+				-71.9937501,
+				45.3670658,
+				-71.9905499,
+				45.3693142
+			]
+		}
+	]
+}

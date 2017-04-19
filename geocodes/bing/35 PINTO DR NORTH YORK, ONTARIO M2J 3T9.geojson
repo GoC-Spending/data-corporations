@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Pinto Dr, North York, ON M2J 3T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "903e8e0c579148dd91a58a307938520d|BN20200239|7.7.0.0|",
+				"addressLine": "35 Pinto Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Pinto Dr, North York, ON M2J 3T9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Pleasant View",
+				"postalCode": "M2J 3T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3395,
+					43.7917599
+				]
+			},
+			"bbox": [
+				-79.3410573,
+				43.7906357,
+				-79.3379427,
+				43.7928841
+			]
+		}
+	]
+}

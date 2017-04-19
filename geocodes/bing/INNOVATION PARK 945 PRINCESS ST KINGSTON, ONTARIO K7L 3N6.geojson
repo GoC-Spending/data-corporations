@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "945 Princess St, Kingston, ON K7L 0E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0279770b91b142aa8ea34ac5ba2ce5ac|BN20210145|7.7.0.0|",
+				"addressLine": "945 Princess St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "945 Princess St, Kingston, ON K7L 0E9, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Alcan",
+				"postalCode": "K7L 0E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.5132565,
+					44.242189
+				]
+			},
+			"bbox": [
+				-76.5148256,
+				44.2410649,
+				-76.5116873,
+				44.2433132
+			]
+		}
+	]
+}

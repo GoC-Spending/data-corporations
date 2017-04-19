@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Rue Lyons, Thurso, QC J0X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd8c876fcbd94fa2aaca26f050b1d73d|BN20130634|7.7.0.0|",
+				"addressLine": "340 Rue Lyons",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Papineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Rue Lyons, Thurso, QC J0X, Canada",
+				"locality": "Thurso",
+				"postalCode": "J0X 3B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.24505,
+					45.59934
+				]
+			},
+			"bbox": [
+				-75.2466567,
+				45.5982158,
+				-75.2434433,
+				45.6004642
+			]
+		}
+	]
+}

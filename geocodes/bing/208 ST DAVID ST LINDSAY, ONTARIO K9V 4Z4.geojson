@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 St David St, Lindsay, ON K9V 4Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47598f5e8d7248979651f5a83a57ae66|BN20130521|7.7.0.0|",
+				"addressLine": "208 St David St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 St David St, Lindsay, ON K9V 4Z4, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Lindsay",
+				"postalCode": "K9V 4Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7320458,
+					44.3727363
+				]
+			},
+			"bbox": [
+				-78.7336185,
+				44.3716121,
+				-78.7304732,
+				44.3738604
+			]
+		}
+	]
+}

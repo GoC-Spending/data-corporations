@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "314 Athlone Ave, Ottawa, ON K1Z 5M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ea1fef486124a2f8344c2a55d8d268a|BN20130625|7.7.0.0|",
+				"addressLine": "314 Athlone Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "314 Athlone Ave, Ottawa, ON K1Z 5M4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Westboro",
+				"postalCode": "K1Z 5M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.75252,
+					45.39564
+				]
+			},
+			"bbox": [
+				-75.7541209,
+				45.3945158,
+				-75.7509191,
+				45.3967642
+			]
+		}
+	]
+}

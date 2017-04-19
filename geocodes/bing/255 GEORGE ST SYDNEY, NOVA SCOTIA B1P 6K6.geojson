@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "255 George St, Sydney, NS B1P 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56d42d4e50cb432896d504a32e71118b|BN20171457|7.7.0.0|",
+				"addressLine": "255 George St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "255 George St, Sydney, NS B1P 1J7, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.19299,
+					46.14149
+				]
+			},
+			"bbox": [
+				-60.1946124,
+				46.1403658,
+				-60.1913676,
+				46.1426142
+			]
+		}
+	]
+}

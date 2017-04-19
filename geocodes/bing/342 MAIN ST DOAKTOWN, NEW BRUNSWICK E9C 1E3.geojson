@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "342 Main St, Doaktown, NB E9C 1E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6382238ba3441a28481b11725725b42|BN20290118|7.7.0.0|",
+				"addressLine": "342 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "342 Main St, Doaktown, NB E9C 1E3, Canada",
+				"locality": "Doaktown",
+				"postalCode": "E9C 1E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1355251,
+					46.5541368
+				]
+			},
+			"bbox": [
+				-66.1371599,
+				46.5530126,
+				-66.1338904,
+				46.5552609
+			]
+		}
+	]
+}

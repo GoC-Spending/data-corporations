@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Newport Dr, Port Moody, BC V3H 5H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6662663d87a41659ef0cc55c2b06e19|BN20130442|7.7.0.0|",
+				"addressLine": "131 Newport Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Newport Dr, Port Moody, BC V3H 5H1, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 5H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8288232,
+					49.282424
+				]
+			},
+			"bbox": [
+				-122.8305465,
+				49.2812998,
+				-122.8271,
+				49.2835481
+			]
+		}
+	]
+}

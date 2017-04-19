@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 Glendale Ave, St Catharines, ON L2T 2L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "72cc5c9499964727bc35e98bfde6ad88|BN20190642|7.7.0.0|",
+				"addressLine": "221 Glendale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 Glendale Ave, St Catharines, ON L2T 2L1, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Glenridge",
+				"postalCode": "L2T 2L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2249125,
+					43.1331317
+				]
+			},
+			"bbox": [
+				-79.226453,
+				43.1320075,
+				-79.2233721,
+				43.1342559
+			]
+		}
+	]
+}

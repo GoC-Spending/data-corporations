@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Belfield Rd, Etobicoke, ON M9W 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b84238321d8747cfbdca7773535606f4|BN20280152|7.7.0.0|",
+				"addressLine": "90 Belfield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Belfield Rd, Etobicoke, ON M9W 1G4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57178,
+					43.70374
+				]
+			},
+			"bbox": [
+				-79.573335,
+				43.7026158,
+				-79.570225,
+				43.7048642
+			]
+		}
+	]
+}

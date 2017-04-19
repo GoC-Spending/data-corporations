@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8800 1e Croissant, Montreal, QC H1J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "772b830deb01464d889a0f8762e2ab71|BN20130719|7.7.0.0|",
+				"addressLine": "8800 1e Croissant",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "8800 1e Croissant, Montreal, QC H1J, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 1C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.56516,
+					45.61901
+				]
+			},
+			"bbox": [
+				-73.5667672,
+				45.6178858,
+				-73.5635528,
+				45.6201342
+			]
+		}
+	]
+}

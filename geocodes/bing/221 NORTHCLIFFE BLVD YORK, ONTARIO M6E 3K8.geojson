@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 Northcliffe Blvd, York, ON M6E 3K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc31ef33560941cb995c8481f1f54b73|BN20130632|7.7.0.0|",
+				"addressLine": "221 Northcliffe Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 Northcliffe Blvd, York, ON M6E 3K8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakwood Village",
+				"postalCode": "M6E 3K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44232,
+					43.68281
+				]
+			},
+			"bbox": [
+				-79.4438745,
+				43.6816858,
+				-79.4407655,
+				43.6839342
+			]
+		}
+	]
+}

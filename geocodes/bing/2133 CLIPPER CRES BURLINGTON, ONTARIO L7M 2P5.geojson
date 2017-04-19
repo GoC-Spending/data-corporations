@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2133 Clipper Cres, Burlington, ON L7M 2P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6ad02139e30472bbf081c681c8bd247|BN20130719|7.7.0.0|",
+				"addressLine": "2133 Clipper Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2133 Clipper Cres, Burlington, ON L7M 2P5, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Headon Forest",
+				"postalCode": "L7M 2P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82204,
+					43.37638
+				]
+			},
+			"bbox": [
+				-79.8235866,
+				43.3752558,
+				-79.8204934,
+				43.3775042
+			]
+		}
+	]
+}

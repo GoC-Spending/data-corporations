@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Tippet Rd, Toronto, ON M3H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "415e2e480f0148f5b67677d081e163fd|BN20200137|7.7.0.0|",
+				"addressLine": "2 Tippet Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Tippet Rd, Toronto, ON M3H, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clanton Park",
+				"postalCode": "M3H 2V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4467899,
+					43.73189
+				]
+			},
+			"bbox": [
+				-79.4483456,
+				43.7307658,
+				-79.4452342,
+				43.7330142
+			]
+		}
+	]
+}

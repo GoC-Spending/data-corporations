@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Airport Rd, 100 Mile House, BC V0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "604856e210eb4ce0ae204ff5d538a06d|BN20171457|7.7.0.0|",
+				"addressLine": "123 Airport Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cariboo",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Airport Rd, 100 Mile House, BC V0K, Canada",
+				"locality": "100 Mile House",
+				"postalCode": "V0K 2E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.297475,
+					51.6420012
+				]
+			},
+			"bbox": [
+				-121.2992865,
+				51.6408771,
+				-121.2956635,
+				51.6431254
+			]
+		}
+	]
+}

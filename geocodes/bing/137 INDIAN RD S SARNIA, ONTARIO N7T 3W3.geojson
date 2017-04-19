@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "137 Indian Rd S, Sarnia, ON N7T 3W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "317d6f1dcc5f47b8963ef64791b4bfe1|BN20220145|7.7.0.0|",
+				"addressLine": "137 Indian Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "137 Indian Rd S, Sarnia, ON N7T 3W3, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 3W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3764649,
+					42.9609461
+				]
+			},
+			"bbox": [
+				-82.378001,
+				42.9598219,
+				-82.3749288,
+				42.9620702
+			]
+		}
+	]
+}

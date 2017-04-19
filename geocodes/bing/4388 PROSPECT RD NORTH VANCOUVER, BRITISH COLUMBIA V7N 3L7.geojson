@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4388 Prospect Rd, North Vancouver, BC V7N 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "09b3481b94504383a366985c3e624982|BN20190653|7.7.0.0|",
+				"addressLine": "4388 Prospect Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4388 Prospect Rd, North Vancouver, BC V7N 3L7, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Upper Delbrook",
+				"postalCode": "V7N 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07268,
+					49.3498
+				]
+			},
+			"bbox": [
+				-123.0744056,
+				49.3486758,
+				-123.0709544,
+				49.3509242
+			]
+		}
+	]
+}

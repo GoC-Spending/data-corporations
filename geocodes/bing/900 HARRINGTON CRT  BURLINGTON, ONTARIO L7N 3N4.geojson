@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "900 Harrington Ct, Burlington, ON L7N 3N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6640b815de7f44718243390f29e2fdcb|BN20181720|7.7.0.0|",
+				"addressLine": "900 Harrington Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "900 Harrington Ct, Burlington, ON L7N 3N4, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Dynes",
+				"postalCode": "L7N 3N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78894,
+					43.35879
+				]
+			},
+			"bbox": [
+				-79.7904861,
+				43.3576658,
+				-79.7873939,
+				43.3599142
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 George Craig Blvd NE, Calgary, AB T2E 7H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43ccb204acf74bb2986c5f19e4564340|BN20220145|7.7.0.0|",
+				"addressLine": "170 George Craig Blvd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 George Craig Blvd NE, Calgary, AB T2E 7H2, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 7H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0136127,
+					51.0961849
+				]
+			},
+			"bbox": [
+				-114.0154027,
+				51.0950607,
+				-114.0118227,
+				51.097309
+			]
+		}
+	]
+}

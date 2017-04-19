@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1108 Henderson Hwy, Winnipeg, MB R2G 1L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bfe39225269c4859aca6a41abd24dadb|BN20171457|7.7.0.0|",
+				"addressLine": "1108 Henderson Hwy",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1108 Henderson Hwy, Winnipeg, MB R2G 1L1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Kildonan Drive",
+				"postalCode": "R2G 1L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.09331,
+					49.93792
+				]
+			},
+			"bbox": [
+				-97.0950566,
+				49.9367958,
+				-97.0915634,
+				49.9390442
+			]
+		}
+	]
+}

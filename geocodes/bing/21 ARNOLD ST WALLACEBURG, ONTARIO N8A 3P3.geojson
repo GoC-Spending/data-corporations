@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Arnold St, Wallaceburg, ON N8A 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8123e6b734f64e20bafeceec0829e4e1|BN20190642|7.7.0.0|",
+				"addressLine": "21 Arnold St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Arnold St, Wallaceburg, ON N8A 3P3, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Wallaceburg",
+				"postalCode": "N8A 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.40018,
+					42.59154
+				]
+			},
+			"bbox": [
+				-82.401707,
+				42.5904158,
+				-82.398653,
+				42.5926642
+			]
+		}
+	]
+}

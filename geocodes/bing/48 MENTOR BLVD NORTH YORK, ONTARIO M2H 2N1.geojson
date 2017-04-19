@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Mentor Blvd, North York, ON M2H 2N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ef4532a0d5440298834965f83e2afee|BN20130620|7.7.0.0|",
+				"addressLine": "48 Mentor Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Mentor Blvd, North York, ON M2H 2N1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Hillcrest Village",
+				"postalCode": "M2H 2N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35034,
+					43.80197
+				]
+			},
+			"bbox": [
+				-79.3518976,
+				43.8008458,
+				-79.3487824,
+				43.8030942
+			]
+		}
+	]
+}

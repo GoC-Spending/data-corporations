@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 MacDonald Ave, Dartmouth, NS B3B 1T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "833c0ebccfb3462f94255c841407da63|BN20190642|7.7.0.0|",
+				"addressLine": "55 MacDonald Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 MacDonald Ave, Dartmouth, NS B3B 1T9, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3B 1T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.59129,
+					44.6970699
+				]
+			},
+			"bbox": [
+				-63.5928715,
+				44.6959457,
+				-63.5897085,
+				44.6981941
+			]
+		}
+	]
+}

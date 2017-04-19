@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7222 Rue Chouinard, La Salle, QC H8N 2Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a38018ae2d3a4c2f8a36a29f72063c08|BN20130632|7.7.0.0|",
+				"addressLine": "7222 Rue Chouinard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "7222 Rue Chouinard, La Salle, QC H8N 2Z5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8N 2Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.61461,
+					45.44149
+				]
+			},
+			"bbox": [
+				-73.6162122,
+				45.4403658,
+				-73.6130078,
+				45.4426142
+			]
+		}
+	]
+}

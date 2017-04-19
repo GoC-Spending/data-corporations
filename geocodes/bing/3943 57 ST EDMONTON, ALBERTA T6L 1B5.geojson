@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3943 57 St NW, Edmonton, AB T6L 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6eeb76724b7940dab23e0cd9687b4cb1|BN20130634|7.7.0.0|",
+				"addressLine": "3943 57 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3943 57 St NW, Edmonton, AB T6L 1B5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Greenview",
+				"postalCode": "T6L 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.42413,
+					53.47528
+				]
+			},
+			"bbox": [
+				-113.4260188,
+				53.4741558,
+				-113.4222412,
+				53.4764042
+			]
+		}
+	]
+}

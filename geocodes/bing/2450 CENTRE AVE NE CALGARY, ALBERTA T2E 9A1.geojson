@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2450 Centre Ave NE, Calgary, AB T2E 9A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7529043f6059498d86f0b6c25631d03a|BN20171457|7.7.0.0|",
+				"addressLine": "2450 Centre Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2450 Centre Ave NE, Calgary, AB T2E 9A1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Mayland Heights",
+				"postalCode": "T2E 9A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0029043,
+					51.0525294
+				]
+			},
+			"bbox": [
+				-114.0046926,
+				51.0514052,
+				-114.0011159,
+				51.0536535
+			]
+		}
+	]
+}

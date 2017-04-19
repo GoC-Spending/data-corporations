@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "370 Speedvale Ave W, Guelph, ON N1H 7M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "09d7611f8c474924a605fcc2e438eb8a|BN20130442|7.7.0.0|",
+				"addressLine": "370 Speedvale Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "370 Speedvale Ave W, Guelph, ON N1H 7M7, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1H 7M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2909899,
+					43.54117
+				]
+			},
+			"bbox": [
+				-80.2925407,
+				43.5400458,
+				-80.2894391,
+				43.5422942
+			]
+		}
+	]
+}

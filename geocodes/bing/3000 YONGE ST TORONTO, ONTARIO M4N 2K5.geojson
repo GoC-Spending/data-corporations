@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3000 Yonge St, Toronto, ON M4N 2K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71dc2740cc574c18ae940009b78a0fb4|BN20130620|7.7.0.0|",
+				"addressLine": "3000 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3000 Yonge St, Toronto, ON M4N 2K5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lawrence Park South",
+				"postalCode": "M4N 2K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40233,
+					43.72376
+				]
+			},
+			"bbox": [
+				-79.4038855,
+				43.7226358,
+				-79.4007745,
+				43.7248842
+			]
+		}
+	]
+}

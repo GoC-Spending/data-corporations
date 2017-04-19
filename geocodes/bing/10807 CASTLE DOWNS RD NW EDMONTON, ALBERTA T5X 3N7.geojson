@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10807 Castle Downs Rd NW, Edmonton, AB T5X 3N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e167388dc89d485580ad654dcac38f67|BN20210145|7.7.0.0|",
+				"addressLine": "10807 Castle Downs Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10807 Castle Downs Rd NW, Edmonton, AB T5X 3N7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Lorelei",
+				"postalCode": "T5X 3N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.50804,
+					53.6278099
+				]
+			},
+			"bbox": [
+				-113.5099356,
+				53.6266857,
+				-113.5061444,
+				53.6289341
+			]
+		}
+	]
+}

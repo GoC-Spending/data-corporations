@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 Main St, Middleton, NS B0S 1P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8aa7e02f3a79467a9fb1a19aef8c9bba|BN20130721|7.7.0.0|",
+				"addressLine": "106 Main St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Annapolis",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 Main St, Middleton, NS B0S 1P0, Canada",
+				"locality": "Middleton",
+				"postalCode": "B0S 1P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.0821532,
+					44.9354708
+				]
+			},
+			"bbox": [
+				-65.0837412,
+				44.9343466,
+				-65.0805652,
+				44.9365949
+			]
+		}
+	]
+}

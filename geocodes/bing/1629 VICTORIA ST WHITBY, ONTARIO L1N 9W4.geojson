@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1629 Victoria St E, Whitby, ON L1N 9W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73601c3f580740a387fa2137f880925a|BN20210145|7.7.0.0|",
+				"addressLine": "1629 Victoria St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1629 Victoria St E, Whitby, ON L1N 9W4, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 9W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9027128,
+					43.8660151
+				]
+			},
+			"bbox": [
+				-78.9042721,
+				43.8648909,
+				-78.9011536,
+				43.8671392
+			]
+		}
+	]
+}

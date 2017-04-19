@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "450 6th St, New Westminster, BC V3L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf1e60d6cc7e4a3c8ef3240dd6bf4e4e|BN20130521|7.7.0.0|",
+				"addressLine": "450 6th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "450 6th St, New Westminster, BC V3L, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Uptown",
+				"postalCode": "V3L 3B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9182035,
+					49.2112491
+				]
+			},
+			"bbox": [
+				-122.9199243,
+				49.2101249,
+				-122.9164827,
+				49.2123732
+			]
+		}
+	]
+}

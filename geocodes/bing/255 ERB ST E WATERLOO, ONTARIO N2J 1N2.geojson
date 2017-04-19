@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "255 Erb St E, Waterloo, ON N2J 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "042323ba6630489f9d8e2e58c6ec9c84|BN20130530|7.7.0.0|",
+				"addressLine": "255 Erb St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "255 Erb St E, Waterloo, ON N2J 1N2, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.50205,
+					43.47077
+				]
+			},
+			"bbox": [
+				-80.503599,
+				43.4696458,
+				-80.500501,
+				43.4718942
+			]
+		}
+	]
+}

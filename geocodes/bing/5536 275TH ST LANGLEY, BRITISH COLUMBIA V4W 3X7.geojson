@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5536 275 St, Langley, BC V4W 3X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb6962372a8a406196681acacde6668e|BN20130532|7.7.0.0|",
+				"addressLine": "5536 275 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5536 275 St, Langley, BC V4W 3X7, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V4W 3X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.46161,
+					49.10208
+				]
+			},
+			"bbox": [
+				-122.463327,
+				49.1009558,
+				-122.459893,
+				49.1032042
+			]
+		}
+	]
+}

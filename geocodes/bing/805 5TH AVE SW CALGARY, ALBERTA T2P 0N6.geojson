@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "805 5 Ave SW, Calgary, AB T2P 0N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21c412cea427407ca08e52f9b0c8a995|BN20250135|7.7.0.0|",
+				"addressLine": "805 5 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "805 5 Ave SW, Calgary, AB T2P 0N6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Downtown",
+				"postalCode": "T2P 0N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.08079,
+					51.04882
+				]
+			},
+			"bbox": [
+				-114.0825782,
+				51.0476958,
+				-114.0790018,
+				51.0499442
+			]
+		}
+	]
+}

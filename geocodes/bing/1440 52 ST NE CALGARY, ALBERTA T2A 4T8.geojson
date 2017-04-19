@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1440 52 St NE, Calgary, AB T2A 4T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db3932b97f6e4d3d984c4a7d5c10bd07|BN20250135|7.7.0.0|",
+				"addressLine": "1440 52 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1440 52 St NE, Calgary, AB T2A 4T8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Marlborough Park",
+				"postalCode": "T2A 4T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.95791,
+					51.06335
+				]
+			},
+			"bbox": [
+				-113.9596987,
+				51.0622258,
+				-113.9561213,
+				51.0644742
+			]
+		}
+	]
+}

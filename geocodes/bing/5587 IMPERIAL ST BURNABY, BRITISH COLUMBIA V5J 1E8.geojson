@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5587 Imperial St, Burnaby, BC V5J 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "431aa7d48c324e5ea706a3e7dda3a1ea|BN20130631|7.7.0.0|",
+				"addressLine": "5587 Imperial St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5587 Imperial St, Burnaby, BC V5J 1E8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Windsor",
+				"postalCode": "V5J 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.98348,
+					49.22195
+				]
+			},
+			"bbox": [
+				-122.9852012,
+				49.2208258,
+				-122.9817588,
+				49.2230742
+			]
+		}
+	]
+}

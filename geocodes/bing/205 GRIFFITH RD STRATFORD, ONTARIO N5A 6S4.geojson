@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Griffith Rd E, Stratford, ON N5A 6S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6406688160564e818c975885333c875d|BN20260231|7.7.0.0|",
+				"addressLine": "205 Griffith Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Griffith Rd E, Stratford, ON N5A 6S4, Canada",
+				"locality": "Stratford",
+				"postalCode": "N5A 6S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.98059,
+					43.35101
+				]
+			},
+			"bbox": [
+				-80.9821359,
+				43.3498858,
+				-80.9790441,
+				43.3521342
+			]
+		}
+	]
+}

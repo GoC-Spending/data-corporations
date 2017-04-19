@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "252 91 St SW, Edmonton, AB T6X 1W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9238d023f2449a8b47e76f19d327d59|BN20121763|7.7.0.0|",
+				"addressLine": "252 91 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "252 91 St SW, Edmonton, AB T6X 1W8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ellerslie Industrial",
+				"postalCode": "T6X 1W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4682349,
+					53.4319671
+				]
+			},
+			"bbox": [
+				-113.4701218,
+				53.430843,
+				-113.466348,
+				53.4330913
+			]
+		}
+	]
+}

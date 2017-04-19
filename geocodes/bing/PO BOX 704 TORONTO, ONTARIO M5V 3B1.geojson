@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Toronto, M5V 3B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b53d17fc83da4541a37543548337bbd1|BN20190642|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "Toronto, M5V 3B1, Canada",
+				"locality": "Toronto",
+				"postalCode": "M5V 3B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4023132324219,
+					43.6467094421387
+				]
+			},
+			"bbox": [
+				-79.4094302748538,
+				43.642846724568,
+				-79.3951961899899,
+				43.6505721597093
+			]
+		}
+	]
+}

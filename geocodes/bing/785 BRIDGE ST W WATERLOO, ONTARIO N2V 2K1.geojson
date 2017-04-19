@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "785 Bridge St W, Waterloo, ON N2V 2K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00cb23c5ee5b498297d5461ccb1b9c9f|BN20190642|7.7.0.0|",
+				"addressLine": "785 Bridge St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "785 Bridge St W, Waterloo, ON N2V 2K1, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 2K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52588,
+					43.51383
+				]
+			},
+			"bbox": [
+				-80.5274301,
+				43.5127058,
+				-80.5243299,
+				43.5149542
+			]
+		}
+	]
+}

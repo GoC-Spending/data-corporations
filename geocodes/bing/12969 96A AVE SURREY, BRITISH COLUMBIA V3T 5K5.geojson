@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12969 96A Ave, Surrey, BC V3T 5K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4cee885115a04e2a806e2ce94ebbad51|BN20181720|7.7.0.0|",
+				"addressLine": "12969 96A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12969 96A Ave, Surrey, BC V3T 5K5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3T 5K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.862882,
+					49.1782549
+				]
+			},
+			"bbox": [
+				-122.8646017,
+				49.1771307,
+				-122.8611624,
+				49.1793791
+			]
+		}
+	]
+}

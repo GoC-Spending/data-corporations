@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5247 Boulevard Lasalle, Verdun, QC H4H 1P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "84d520f06a644b69b0f267a3af94a1c0|BN20181720|7.7.0.0|",
+				"addressLine": "5247 Boulevard Lasalle",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "5247 Boulevard Lasalle, Verdun, QC H4H 1P1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4H 1P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5669099,
+					45.4540099
+				]
+			},
+			"bbox": [
+				-73.5685124,
+				45.4528857,
+				-73.5653074,
+				45.4551341
+			]
+		}
+	]
+}

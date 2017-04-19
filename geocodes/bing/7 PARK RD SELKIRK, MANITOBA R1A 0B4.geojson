@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Park Rd, Selkirk, MB R1A 0B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "11a9bb592da245b2b264d168ff1322e0|BN20290118|7.7.0.0|",
+				"addressLine": "7 Park Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Park Rd, Selkirk, MB R1A 0B4, Canada",
+				"locality": "Selkirk",
+				"postalCode": "R1A 0B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.8868316,
+					50.1291306
+				]
+			},
+			"bbox": [
+				-96.8885851,
+				50.1280065,
+				-96.885078,
+				50.1302548
+			]
+		}
+	]
+}

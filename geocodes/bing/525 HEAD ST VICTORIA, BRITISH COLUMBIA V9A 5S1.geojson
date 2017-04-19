@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "525 Head St, Victoria, BC V9A 5S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dba0c6131565474eb776a69fa971977f|BN20190642|7.7.0.0|",
+				"addressLine": "525 Head St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "525 Head St, Victoria, BC V9A 5S1, Canada",
+				"locality": "Esquimalt",
+				"neighborhood": "Victoria",
+				"postalCode": "V9A 5S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.39869,
+					48.42818
+				]
+			},
+			"bbox": [
+				-123.4003841,
+				48.4270558,
+				-123.3969959,
+				48.4293042
+			]
+		}
+	]
+}

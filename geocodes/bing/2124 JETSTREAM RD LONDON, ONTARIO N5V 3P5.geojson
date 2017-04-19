@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2124 Jetstream Rd, London, ON N5V 3P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7809d00cce554ac29adfa03aeb3adb7e|BN20130625|7.7.0.0|",
+				"addressLine": "2124 Jetstream Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2124 Jetstream Rd, London, ON N5V 3P5, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 3P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1641999,
+					43.0255
+				]
+			},
+			"bbox": [
+				-81.1657376,
+				43.0243758,
+				-81.1626622,
+				43.0266242
+			]
+		}
+	]
+}

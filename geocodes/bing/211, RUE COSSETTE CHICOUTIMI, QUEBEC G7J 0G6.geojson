@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 10,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rue Cossette, Chicoutimi, QC G7J 0G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bcc8d7594244cd3b44a61cd3c73ce0a|BN20130423|7.7.0.0|",
+				"addressLine": "Rue Cossette",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Saguenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rue Cossette, Chicoutimi, QC G7J 0G6, Canada",
+				"locality": "Saguenay",
+				"neighborhood": "Chicoutimi",
+				"postalCode": "G7J 0G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.10518,
+					48.39937
+				]
+			},
+			"bbox": [
+				-71.10518,
+				48.3985,
+				-71.10325,
+				48.39937
+			]
+		}
+	]
+}

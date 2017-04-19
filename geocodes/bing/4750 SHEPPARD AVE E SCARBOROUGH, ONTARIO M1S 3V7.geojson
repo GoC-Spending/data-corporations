@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4750 Sheppard Ave E, Scarborough, ON M1S 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64e6b7f0c07741f6a8c6a75cd89cf490|BN20121762|7.7.0.0|",
+				"addressLine": "4750 Sheppard Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4750 Sheppard Ave E, Scarborough, ON M1S 3V7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25456,
+					43.79162
+				]
+			},
+			"bbox": [
+				-79.2561173,
+				43.7904958,
+				-79.2530027,
+				43.7927442
+			]
+		}
+	]
+}

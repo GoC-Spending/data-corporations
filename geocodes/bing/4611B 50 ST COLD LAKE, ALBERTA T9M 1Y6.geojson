@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4611 50 St, Cold Lake, AB T9M 1Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fec663823b04626863bdfe6b47c32a3|BN20130634|7.7.0.0|",
+				"addressLine": "4611 50 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4611 50 St, Cold Lake, AB T9M 1Y6, Canada",
+				"locality": "Cold Lake",
+				"postalCode": "T9M 1Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.2045912,
+					54.4091836
+				]
+			},
+			"bbox": [
+				-110.2065228,
+				54.4080594,
+				-110.2026597,
+				54.4103077
+			]
+		}
+	]
+}

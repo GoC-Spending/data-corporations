@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "320 St Johns Rd, York, ON M6S 2K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75e60449c0ac41088c539e44ac5466d2|BN20121762|7.7.0.0|",
+				"addressLine": "320 St Johns Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "320 St Johns Rd, York, ON M6S 2K2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 2K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48259,
+					43.66373
+				]
+			},
+			"bbox": [
+				-79.484144,
+				43.6626058,
+				-79.481036,
+				43.6648542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Crang Ave, Toronto, ON M6E 3A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d5de1f4e4c0a47c6be8543de4d9f8407|BN20200239|7.7.0.0|",
+				"addressLine": "15 Crang Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Crang Ave, Toronto, ON M6E 3A1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakwood Village",
+				"postalCode": "M6E 3A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43659,
+					43.6800799
+				]
+			},
+			"bbox": [
+				-79.4381444,
+				43.6789557,
+				-79.4350356,
+				43.6812041
+			]
+		}
+	]
+}

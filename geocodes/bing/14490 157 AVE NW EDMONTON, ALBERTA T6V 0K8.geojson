@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14490 157 Ave NW, Edmonton, AB T6V 0K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d5f4fa0770447f48aeca4b220857378|BN20240423|7.7.0.0|",
+				"addressLine": "14490 157 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14490 157 Ave NW, Edmonton, AB T6V 0K8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Carlton",
+				"postalCode": "T6V 0K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5642017,
+					53.6178577
+				]
+			},
+			"bbox": [
+				-113.5660968,
+				53.6167335,
+				-113.5623065,
+				53.6189818
+			]
+		}
+	]
+}

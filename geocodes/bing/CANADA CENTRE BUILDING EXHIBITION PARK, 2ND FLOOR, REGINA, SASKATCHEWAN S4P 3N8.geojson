@@ -1,0 +1,112 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Regina, S4P 3N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3eba1d3dc4954b53a452eaceef90fa09|BN20160335|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Regina, S4P 3N8, Canada",
+				"locality": "Regina",
+				"postalCode": "S4P 3N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.595169067383,
+					50.4482498168945
+				]
+			},
+			"bbox": [
+				-104.603256493118,
+				50.4443870993239,
+				-104.587081641647,
+				50.4521125344652
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Centre, Nova Scotia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3eba1d3dc4954b53a452eaceef90fa09|BN20160335|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "Centre, Nova Scotia, Canada",
+				"locality": "Centre"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.3532333374023,
+					44.3759918212891
+				]
+			},
+			"bbox": [
+				-64.4072483533921,
+				44.3470214382965,
+				-64.2992183214126,
+				44.4049622042816
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Centre, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3eba1d3dc4954b53a452eaceef90fa09|BN20160335|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "Centre, Ontario, Canada",
+				"locality": "Centre"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.4199829101563,
+					44.0767097473145
+				]
+			},
+			"bbox": [
+				-77.4737242713401,
+				44.0477393643219,
+				-77.3662415489724,
+				44.105680130307
+			]
+		}
+	]
+}

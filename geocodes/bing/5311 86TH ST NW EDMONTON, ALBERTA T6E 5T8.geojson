@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5311 86 St NW, Edmonton, AB T6E 5T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "295077e858934c59916c7e0142a189b3|BN20131519|7.7.0.0|",
+				"addressLine": "5311 86 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5311 86 St NW, Edmonton, AB T6E 5T8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McIntyre Industrial",
+				"postalCode": "T6E 5T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45381,
+					53.49109
+				]
+			},
+			"bbox": [
+				-113.4556995,
+				53.4899658,
+				-113.4519205,
+				53.4922142
+			]
+		}
+	]
+}

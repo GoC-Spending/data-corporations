@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 W Georgia St, Vancouver, BC V6B 6B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2f19961e9ed44e969ae0fc515b1fb2fb|BN20121762|7.7.0.0|",
+				"addressLine": "350 W Georgia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 W Georgia St, Vancouver, BC V6B 6B1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 6B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1147572,
+					49.2801599
+				]
+			},
+			"bbox": [
+				-123.1164804,
+				49.2790358,
+				-123.113034,
+				49.2812841
+			]
+		}
+	]
+}

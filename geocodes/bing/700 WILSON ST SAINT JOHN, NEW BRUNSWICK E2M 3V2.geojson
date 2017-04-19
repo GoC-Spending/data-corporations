@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "700 Wilson St, Saint John, NB E2M 3V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c903d94698f441a1a6f0afa517b4667e|BN20260231|7.7.0.0|",
+				"addressLine": "700 Wilson St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "700 Wilson St, Saint John, NB E2M 3V2, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 3V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1003,
+					45.25357
+				]
+			},
+			"bbox": [
+				-66.1018969,
+				45.2524458,
+				-66.0987031,
+				45.2546942
+			]
+		}
+	]
+}

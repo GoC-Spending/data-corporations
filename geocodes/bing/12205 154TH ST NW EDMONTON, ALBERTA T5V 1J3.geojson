@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12205 154 St NW, Edmonton, AB T5V 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e9a25bdc89e4aecba48fb7fcb653c68|BN20121762|7.7.0.0|",
+				"addressLine": "12205 154 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12205 154 St NW, Edmonton, AB T5V 1J3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Mitchell Industrial",
+				"postalCode": "T5V 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.58679,
+					53.57581
+				]
+			},
+			"bbox": [
+				-113.5886833,
+				53.5746858,
+				-113.5848967,
+				53.5769342
+			]
+		}
+	]
+}

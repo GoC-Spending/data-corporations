@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1600 Osler St, Regina, SK S4P 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d24c7dbf06c406cbb6972aa6db5ba54|BN20130442|7.7.0.0|",
+				"addressLine": "1600 Osler St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1600 Osler St, Regina, SK S4P 1V6, Canada",
+				"locality": "Regina",
+				"neighborhood": "Core",
+				"postalCode": "S4P 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.60521,
+					50.4529
+				]
+			},
+			"bbox": [
+				-104.6069756,
+				50.4517758,
+				-104.6034444,
+				50.4540242
+			]
+		}
+	]
+}

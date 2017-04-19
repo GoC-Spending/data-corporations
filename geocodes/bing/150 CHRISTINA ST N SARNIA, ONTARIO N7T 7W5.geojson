@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Christina St N, Sarnia, ON N7T 7W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b0a9615825bd42c280b3b9da8fc7227a|BN20181720|7.7.0.0|",
+				"addressLine": "150 Christina St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Christina St N, Sarnia, ON N7T 7W5, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 7W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.407215,
+					42.9720356
+				]
+			},
+			"bbox": [
+				-82.4087514,
+				42.9709114,
+				-82.4056786,
+				42.9731597
+			]
+		}
+	]
+}

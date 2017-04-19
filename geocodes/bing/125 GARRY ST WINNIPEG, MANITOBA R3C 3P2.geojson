@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Garry St, Winnipeg, MB R3C 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3473979d9591487aa50503d60746b1c4|BN20130632|7.7.0.0|",
+				"addressLine": "125 Garry St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Garry St, Winnipeg, MB R3C 3P2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South Portage",
+				"postalCode": "R3C 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13785,
+					49.88944
+				]
+			},
+			"bbox": [
+				-97.1395949,
+				49.8883158,
+				-97.1361051,
+				49.8905642
+			]
+		}
+	]
+}

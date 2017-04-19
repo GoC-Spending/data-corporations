@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3114 Boundary Rd, Burnaby, BC V5M 4A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de4871d97df34ff1ab9bed7d9aed1952|BN20130634|7.7.0.0|",
+				"addressLine": "3114 Boundary Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3114 Boundary Rd, Burnaby, BC V5M 4A2, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Cascade-Schou",
+				"postalCode": "V5M 4A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0233851,
+					49.2562128
+				]
+			},
+			"bbox": [
+				-123.0251075,
+				49.2550887,
+				-123.0216627,
+				49.257337
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17509 109A Ave NW, Edmonton, AB T5S 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a76cb11b65d48059305abd9eea8e3f5|BN20280152|7.7.0.0|",
+				"addressLine": "17509 109A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17509 109A Ave NW, Edmonton, AB T5S 2W4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McNamara Industrial",
+				"postalCode": "T5S 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.62381,
+					53.55623
+				]
+			},
+			"bbox": [
+				-113.6257024,
+				53.5551058,
+				-113.6219176,
+				53.5573542
+			]
+		}
+	]
+}

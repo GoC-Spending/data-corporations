@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "92 Bridge St, Carleton Place, ON K7C 2V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "526d2b5a832c4cb6922d9aee36ac1fc2|BN20130442|7.7.0.0|",
+				"addressLine": "92 Bridge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "92 Bridge St, Carleton Place, ON K7C 2V3, Canada",
+				"locality": "Carleton Place",
+				"postalCode": "K7C 2V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.14514,
+					45.13847
+				]
+			},
+			"bbox": [
+				-76.1467336,
+				45.1373458,
+				-76.1435464,
+				45.1395942
+			]
+		}
+	]
+}

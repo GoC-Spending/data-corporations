@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "224 Catherine St, Fort Erie, ON L2A 0B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58697cf0b57a4950915ea8e0f6371fee|BN20130442|7.7.0.0|",
+				"addressLine": "224 Catherine St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "224 Catherine St, Fort Erie, ON L2A 0B1, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 0B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.92955,
+					42.91751
+				]
+			},
+			"bbox": [
+				-78.931085,
+				42.9163858,
+				-78.928015,
+				42.9186342
+			]
+		}
+	]
+}

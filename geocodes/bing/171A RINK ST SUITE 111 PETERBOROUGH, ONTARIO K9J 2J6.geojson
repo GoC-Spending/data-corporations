@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "171 Rink St, Peterborough, ON K9J 2J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94b6df48ca684cfab096dba184468fdd|BN20200137|7.7.0.0|",
+				"addressLine": "171 Rink St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "171 Rink St, Peterborough, ON K9J 2J6, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 2J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3199099,
+					44.2956
+				]
+			},
+			"bbox": [
+				-78.3214805,
+				44.2944758,
+				-78.3183393,
+				44.2967242
+			]
+		}
+	]
+}

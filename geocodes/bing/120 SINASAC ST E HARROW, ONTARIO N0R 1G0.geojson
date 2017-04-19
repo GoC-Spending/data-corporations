@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Sinasac St E, Essex, ON N0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1fc0809b2a04692abc4c93dc639f07b|BN20260231|7.7.0.0|",
+				"addressLine": "120 Sinasac St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Sinasac St E, Essex, ON N0R, Canada",
+				"locality": "Essex",
+				"neighborhood": "Harrow",
+				"postalCode": "N0R 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.9149867,
+					42.0388616
+				]
+			},
+			"bbox": [
+				-82.9165004,
+				42.0377375,
+				-82.9134731,
+				42.0399858
+			]
+		}
+	]
+}

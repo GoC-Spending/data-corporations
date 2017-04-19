@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Brooksmill Ln, Markham, ON L6C 2C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fe7fb8af72f41bbacf641c1d4d65157|BN20220145|7.7.0.0|",
+				"addressLine": "4 Brooksmill Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Brooksmill Ln, Markham, ON L6C 2C8, Canada",
+				"locality": "Markham",
+				"postalCode": "L6C 2C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29235,
+					43.88583
+				]
+			},
+			"bbox": [
+				-79.2939098,
+				43.8847058,
+				-79.2907902,
+				43.8869542
+			]
+		}
+	]
+}

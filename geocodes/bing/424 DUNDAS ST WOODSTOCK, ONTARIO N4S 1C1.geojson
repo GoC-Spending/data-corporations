@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "424 Dundas St, Woodstock, ON N4S 1C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1d1b7b500ef4ea5b4fb3fb3e2399125|BN20130530|7.7.0.0|",
+				"addressLine": "424 Dundas St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "424 Dundas St, Woodstock, ON N4S 1C1, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 1C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7589799,
+					43.12961
+				]
+			},
+			"bbox": [
+				-80.7605202,
+				43.1284858,
+				-80.7574396,
+				43.1307342
+			]
+		}
+	]
+}

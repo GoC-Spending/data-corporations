@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Turnbull Ct, Cambridge, ON N1T 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9218ef686eca42cfa1b0efcbee4dc7a5|BN20160335|7.7.0.0|",
+				"addressLine": "120 Turnbull Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Turnbull Ct, Cambridge, ON N1T 1H9, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Fiddlesticks",
+				"postalCode": "N1T 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30413,
+					43.40489
+				]
+			},
+			"bbox": [
+				-80.3056773,
+				43.4037658,
+				-80.3025827,
+				43.4060142
+			]
+		}
+	]
+}

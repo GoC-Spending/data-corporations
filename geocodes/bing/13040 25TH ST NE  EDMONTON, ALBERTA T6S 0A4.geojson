@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13040 25 St NW, Edmonton, AB T5A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af6eb294886a4607b8b16013b5918d18|BN20130533|7.7.0.0|",
+				"addressLine": "13040 25 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "13040 25 St NW, Edmonton, AB T5A, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Kernohan",
+				"postalCode": "T5A"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.3800141,
+					53.5891846
+				]
+			},
+			"bbox": [
+				-113.381908,
+				53.5880605,
+				-113.3781202,
+				53.5903088
+			]
+		}
+	]
+}

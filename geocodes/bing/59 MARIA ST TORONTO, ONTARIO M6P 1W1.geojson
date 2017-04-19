@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Maria St, Toronto, ON M6P 1W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c8eac850b3d46999e0d62c5ff079110|BN20260231|7.7.0.0|",
+				"addressLine": "59 Maria St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Maria St, Toronto, ON M6P 1W1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Junction Area",
+				"postalCode": "M6P 1W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4752199,
+					43.66615
+				]
+			},
+			"bbox": [
+				-79.4767739,
+				43.6650258,
+				-79.4736659,
+				43.6672742
+			]
+		}
+	]
+}

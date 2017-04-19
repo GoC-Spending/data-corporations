@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "129 Watson Rd S, Guelph, ON N1L 1E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03a8c3e4468f417aac4aeb4310f3ccf0|BN20130721|7.7.0.0|",
+				"addressLine": "129 Watson Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "129 Watson Rd S, Guelph, ON N1L 1E4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Old University",
+				"postalCode": "N1L 1E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.20175,
+					43.56119
+				]
+			},
+			"bbox": [
+				-80.2033013,
+				43.5600658,
+				-80.2001987,
+				43.5623142
+			]
+		}
+	]
+}

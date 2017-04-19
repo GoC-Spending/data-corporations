@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Simpson Rd, Bolton, ON L7E 1G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ebab64a5d5c54f4981efea6cc35cc51a|BN20260223|7.7.0.0|",
+				"addressLine": "6 Simpson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Simpson Rd, Bolton, ON L7E 1G9, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 1G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72751,
+					43.8614
+				]
+			},
+			"bbox": [
+				-79.7290691,
+				43.8602758,
+				-79.7259509,
+				43.8625242
+			]
+		}
+	]
+}

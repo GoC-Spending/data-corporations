@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "355 Oxford St E, London, ON N6A 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "670b9f63cf5b49c480c4e2e4297ba6f3|BN20130532|7.7.0.0|",
+				"addressLine": "355 Oxford St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "355 Oxford St E, London, ON N6A 1V6, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2467,
+					42.9971
+				]
+			},
+			"bbox": [
+				-81.248237,
+				42.9959758,
+				-81.245163,
+				42.9982242
+			]
+		}
+	]
+}

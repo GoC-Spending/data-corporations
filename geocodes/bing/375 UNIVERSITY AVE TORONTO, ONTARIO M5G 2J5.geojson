@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 University Ave, Toronto, ON M5G 2J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32b7ac4f34134080b03bc52d33f7614b|BN20130530|7.7.0.0|",
+				"addressLine": "375 University Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 University Ave, Toronto, ON M5G 2J5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5G 2J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38706,
+					43.65357
+				]
+			},
+			"bbox": [
+				-79.3886137,
+				43.6524458,
+				-79.3855063,
+				43.6546942
+			]
+		}
+	]
+}

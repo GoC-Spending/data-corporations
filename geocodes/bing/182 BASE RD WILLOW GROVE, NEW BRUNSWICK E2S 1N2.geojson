@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "182 Base Rd, Willow Grove, NB E2S 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5deeadbb68a74c02861cbe6543e676b0|BN20280152|7.7.0.0|",
+				"addressLine": "182 Base Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "182 Base Rd, Willow Grove, NB E2S 1N2, Canada",
+				"locality": "Simonds Saint John",
+				"neighborhood": "Willow Grove",
+				"postalCode": "E2S 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.81774,
+					45.32518
+				]
+			},
+			"bbox": [
+				-65.8193389,
+				45.3240558,
+				-65.8161411,
+				45.3263042
+			]
+		}
+	]
+}

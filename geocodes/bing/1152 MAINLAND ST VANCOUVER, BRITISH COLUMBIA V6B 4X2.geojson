@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1152 Mainland St, Vancouver, BC V6B 4X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "960703fc420c4e77bd565ed4a9a26010|BN20220145|7.7.0.0|",
+				"addressLine": "1152 Mainland St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1152 Mainland St, Vancouver, BC V6B 4X2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Yaletown",
+				"postalCode": "V6B 4X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12115,
+					49.2748599
+				]
+			},
+			"bbox": [
+				-123.122873,
+				49.2737357,
+				-123.119427,
+				49.2759841
+			]
+		}
+	]
+}

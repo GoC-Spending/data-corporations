@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2830 Aldwynd Rd, Langford, BC V9B 3S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8bfc754506f04d2b8ac524001faecee9|BN20250135|7.7.0.0|",
+				"addressLine": "2830 Aldwynd Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2830 Aldwynd Rd, Langford, BC V9B 3S7, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 3S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4954316,
+					48.4458373
+				]
+			},
+			"bbox": [
+				-123.4971264,
+				48.4447132,
+				-123.4937369,
+				48.4469615
+			]
+		}
+	]
+}

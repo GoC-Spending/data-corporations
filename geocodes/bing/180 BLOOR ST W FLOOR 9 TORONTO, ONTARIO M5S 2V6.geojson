@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "180 Bloor St W, Toronto, ON M5S 2V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "deb392a2d22b480fb61bda933b18cbb3|BN20190642|7.7.0.0|",
+				"addressLine": "180 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "180 Bloor St W, Toronto, ON M5S 2V6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5S 2V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39492,
+					43.6688
+				]
+			},
+			"bbox": [
+				-79.3964741,
+				43.6676758,
+				-79.3933659,
+				43.6699242
+			]
+		}
+	]
+}

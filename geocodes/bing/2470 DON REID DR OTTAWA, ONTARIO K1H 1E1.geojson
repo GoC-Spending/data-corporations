@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2470 Don Reid Dr, Ottawa, ON K1H 1E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a112d87aff843c8ad36e0a8e5f0ac32|BN20220145|7.7.0.0|",
+				"addressLine": "2470 Don Reid Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2470 Don Reid Dr, Ottawa, ON K1H 1E1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "South Keys-Heron Gate-Greenboro",
+				"postalCode": "K1H 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.63666,
+					45.37891
+				]
+			},
+			"bbox": [
+				-75.6382604,
+				45.3777858,
+				-75.6350596,
+				45.3800342
+			]
+		}
+	]
+}

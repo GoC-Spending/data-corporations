@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3593 Oxford St, Vancouver, BC V5K 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3755abb2f16844858e80d927074a72f0|BN20130431|7.7.0.0|",
+				"addressLine": "3593 Oxford St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3593 Oxford St, Vancouver, BC V5K 1P2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5K 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02618,
+					49.2858
+				]
+			},
+			"bbox": [
+				-123.0279034,
+				49.2846758,
+				-123.0244566,
+				49.2869242
+			]
+		}
+	]
+}

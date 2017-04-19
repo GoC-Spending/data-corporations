@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "180 Duncan Mill Rd, North York, ON M3B 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43500adfc1eb453192be5493443ece08|BN20200239|7.7.0.0|",
+				"addressLine": "180 Duncan Mill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "180 Duncan Mill Rd, North York, ON M3B 1Z6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M3B 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35402,
+					43.76255
+				]
+			},
+			"bbox": [
+				-79.3555765,
+				43.7614258,
+				-79.3524635,
+				43.7636742
+			]
+		}
+	]
+}

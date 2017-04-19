@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Arkona Dr, Scarborough, ON M1T 1X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da0faee569a145a398e5fea2d34d2d45|BN20190642|7.7.0.0|",
+				"addressLine": "20 Arkona Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Arkona Dr, Scarborough, ON M1T 1X3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Tam O'Shanter-Sullivan",
+				"postalCode": "M1T 1X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30504,
+					43.77357
+				]
+			},
+			"bbox": [
+				-79.3065968,
+				43.7724458,
+				-79.3034832,
+				43.7746942
+			]
+		}
+	]
+}

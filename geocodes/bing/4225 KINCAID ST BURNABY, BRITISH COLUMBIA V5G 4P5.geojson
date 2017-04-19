@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4225 Kincaid St, Burnaby, BC V5G 4P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ec247887be343a68d174c1c1f80c12b|BN20121762|7.7.0.0|",
+				"addressLine": "4225 Kincaid St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4225 Kincaid St, Burnaby, BC V5G 4P5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Cascade-Schou",
+				"postalCode": "V5G 4P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0115988,
+					49.2493993
+				]
+			},
+			"bbox": [
+				-123.0133209,
+				49.2482752,
+				-123.0098766,
+				49.2505235
+			]
+		}
+	]
+}

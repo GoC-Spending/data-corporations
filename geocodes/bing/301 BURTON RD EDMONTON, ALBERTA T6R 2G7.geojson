@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "301 Burton Rd NW, Edmonton, AB T6R 2G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6080fc1c125447fb63eafd81dc3c7cb|BN20171457|7.7.0.0|",
+				"addressLine": "301 Burton Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "301 Burton Rd NW, Edmonton, AB T6R 2G7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Bulyea Heights",
+				"postalCode": "T6R 2G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5643,
+					53.47718
+				]
+			},
+			"bbox": [
+				-113.5661889,
+				53.4760558,
+				-113.5624111,
+				53.4783042
+			]
+		}
+	]
+}

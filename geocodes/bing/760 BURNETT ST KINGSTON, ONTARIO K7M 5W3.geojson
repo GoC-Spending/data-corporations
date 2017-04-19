@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "760 Burnett St, Kingston, ON K7M 5W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6595c688ee5a4dc992384567d7804f68|BN20220145|7.7.0.0|",
+				"addressLine": "760 Burnett St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "760 Burnett St, Kingston, ON K7M 5W3, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Gardiners",
+				"postalCode": "K7M 5W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.57472,
+					44.24409
+				]
+			},
+			"bbox": [
+				-76.5762892,
+				44.2429658,
+				-76.5731508,
+				44.2452142
+			]
+		}
+	]
+}

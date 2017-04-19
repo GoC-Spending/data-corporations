@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1052 Davie St, Victoria, BC V8S 4E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cce8322962334a9aa4d0551ff8f33e58|BN20130431|7.7.0.0|",
+				"addressLine": "1052 Davie St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1052 Davie St, Victoria, BC V8S 4E3, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Gonzales",
+				"postalCode": "V8S 4E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3259665,
+					48.4249912
+				]
+			},
+			"bbox": [
+				-123.3276606,
+				48.423867,
+				-123.3242725,
+				48.4261153
+			]
+		}
+	]
+}

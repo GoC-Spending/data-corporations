@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Rue Piper, Kirkland, QC H9H 3J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3fadcbd905a24d3dafdbe72269ea650c|BN20200137|7.7.0.0|",
+				"addressLine": "33 Rue Piper",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Rue Piper, Kirkland, QC H9H 3J3, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9H 3J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.86182,
+					45.46199
+				]
+			},
+			"bbox": [
+				-73.8634228,
+				45.4608658,
+				-73.8602172,
+				45.4631142
+			]
+		}
+	]
+}

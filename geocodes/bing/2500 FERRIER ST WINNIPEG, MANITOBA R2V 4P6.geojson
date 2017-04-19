@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2500 Ferrier St, Winnipeg, MB R2V 4P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c771b2959d4b4768946b1be1d324bbc3|BN20130625|7.7.0.0|",
+				"addressLine": "2500 Ferrier St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "2500 Ferrier St, Winnipeg, MB R2V 4P6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "West Kildonan Industrial",
+				"postalCode": "R2V 4P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12564,
+					49.95621
+				]
+			},
+			"bbox": [
+				-97.1273873,
+				49.9550858,
+				-97.1238927,
+				49.9573342
+			]
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Stewart Rd, Gibsons, BC V0N 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3abfec64884d41c381a4185a15803c64|BN20220145|7.7.0.0|",
+				"addressLine": "Stewart Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "Stewart Rd, Gibsons, BC V0N 1V7, Canada",
+				"locality": "Sunshine Coast",
+				"neighborhood": "Gibsons",
+				"postalCode": "V0N 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.50783,
+					49.42654
+				]
+			},
+			"bbox": [
+				-123.50912,
+				49.41251,
+				-123.50709,
+				49.4270799
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "396 Stewart Rd, Gibsons, BC V0N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3abfec64884d41c381a4185a15803c64|BN20220145|7.7.0.0|",
+				"addressLine": "396 Stewart Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "396 Stewart Rd, Gibsons, BC V0N, Canada",
+				"locality": "Gibsons",
+				"postalCode": "V0N 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.51259,
+					49.39759
+				]
+			},
+			"bbox": [
+				-123.5143173,
+				49.3964658,
+				-123.5108627,
+				49.3987142
+			]
+		}
+	]
+}

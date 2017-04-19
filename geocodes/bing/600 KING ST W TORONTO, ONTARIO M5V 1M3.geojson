@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 King St W, Toronto, ON M5V 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcf61222bc744c9088f8230d5d5ebd6b|BN20130530|7.7.0.0|",
+				"addressLine": "600 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 King St W, Toronto, ON M5V 1M3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39992,
+					43.64474
+				]
+			},
+			"bbox": [
+				-79.4014735,
+				43.6436158,
+				-79.3983665,
+				43.6458642
+			]
+		}
+	]
+}

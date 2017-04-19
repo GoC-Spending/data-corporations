@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "390 Millen Rd, Stoney Creek, ON L8E 2P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf73b9dfbe924a4e812a9bd08345b75f|BN20130632|7.7.0.0|",
+				"addressLine": "390 Millen Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "390 Millen Rd, Stoney Creek, ON L8E 2P7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 2P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71634,
+					43.23228
+				]
+			},
+			"bbox": [
+				-79.7178829,
+				43.2311558,
+				-79.7147971,
+				43.2334042
+			]
+		}
+	]
+}

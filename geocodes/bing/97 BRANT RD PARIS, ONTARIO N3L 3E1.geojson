@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "97 Brant Rd, Paris, ON N3L 3E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e89dcaa9eb94928be842cd16fbe73b5|BN20130520|7.7.0.0|",
+				"addressLine": "97 Brant Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "97 Brant Rd, Paris, ON N3L 3E1, Canada",
+				"locality": "Brant",
+				"neighborhood": "Paris",
+				"postalCode": "N3L 3E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.28579,
+					43.22048
+				]
+			},
+			"bbox": [
+				-80.2873326,
+				43.2193558,
+				-80.2842474,
+				43.2216042
+			]
+		}
+	]
+}

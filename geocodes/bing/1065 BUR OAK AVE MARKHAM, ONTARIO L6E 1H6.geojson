@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1065 Bur Oak Ave, Markham, ON L6E 1H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5c717dc9e244fcb9efc61a4c674597a|BN20130625|7.7.0.0|",
+				"addressLine": "1065 Bur Oak Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "1065 Bur Oak Ave, Markham, ON L6E 1H6, Canada",
+				"locality": "Markham",
+				"postalCode": "L6E 1H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2722049,
+					43.8990563
+				]
+			},
+			"bbox": [
+				-79.273765,
+				43.8979322,
+				-79.2706448,
+				43.9001805
+			]
+		}
+	]
+}

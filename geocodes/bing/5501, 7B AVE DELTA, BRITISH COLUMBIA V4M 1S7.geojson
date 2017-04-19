@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5501 7B Ave, Delta, BC V4M 1S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a44544997614522a1c19979cecee867|BN20130532|7.7.0.0|",
+				"addressLine": "5501 7B Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5501 7B Ave, Delta, BC V4M 1S7, Canada",
+				"locality": "Delta",
+				"neighborhood": "Tsawwassen",
+				"postalCode": "V4M 1S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0718541,
+					49.0170524
+				]
+			},
+			"bbox": [
+				-123.0735682,
+				49.0159282,
+				-123.07014,
+				49.0181765
+			]
+		}
+	]
+}

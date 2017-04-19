@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "72 Rue du Port, Matane, QC G4W 3M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8874d6d5f4c84958886fc6437441b82c|BN20130532|7.7.0.0|",
+				"addressLine": "72 Rue du Port",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Matane",
+				"countryRegion": "Canada",
+				"formattedAddress": "72 Rue du Port, Matane, QC G4W 3M6, Canada",
+				"locality": "Matane",
+				"postalCode": "G4W 3M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-67.56896,
+					48.83339
+				]
+			},
+			"bbox": [
+				-67.5706678,
+				48.8322658,
+				-67.5672522,
+				48.8345142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "247 Main St W, Minto, ON N0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be5bfb5497544c30b257a50d477ed77b|BN20130632|7.7.0.0|",
+				"addressLine": "247 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "247 Main St W, Minto, ON N0G, Canada",
+				"locality": "Minto",
+				"neighborhood": "Palmerston",
+				"postalCode": "N0G 2P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.85033,
+					43.83433
+				]
+			},
+			"bbox": [
+				-80.8518884,
+				43.8332058,
+				-80.8487716,
+				43.8354542
+			]
+		}
+	]
+}

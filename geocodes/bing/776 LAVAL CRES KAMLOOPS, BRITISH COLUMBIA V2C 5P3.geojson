@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "776 Laval Cres, Kamloops, BC V2C 5P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55b0b15fe17d480ea3be311b9dbda738|BN20260223|7.7.0.0|",
+				"addressLine": "776 Laval Cres",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "776 Laval Cres, Kamloops, BC V2C 5P3, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "Southgate",
+				"postalCode": "V2C 5P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.3591266,
+					50.6620058
+				]
+			},
+			"bbox": [
+				-120.3609,
+				50.6608816,
+				-120.3573532,
+				50.6631299
+			]
+		}
+	]
+}

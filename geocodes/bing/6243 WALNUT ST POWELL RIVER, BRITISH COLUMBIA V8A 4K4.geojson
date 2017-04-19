@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6243 Walnut St, Powell River, BC V8A 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0896adcba7a4f0fa61837064ff8fd25|BN20240253|7.7.0.0|",
+				"addressLine": "6243 Walnut St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Powell River",
+				"countryRegion": "Canada",
+				"formattedAddress": "6243 Walnut St, Powell River, BC V8A 4K4, Canada",
+				"locality": "Powell River",
+				"postalCode": "V8A 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.55246,
+					49.87439
+				]
+			},
+			"bbox": [
+				-124.5542043,
+				49.8732658,
+				-124.5507157,
+				49.8755142
+			]
+		}
+	]
+}

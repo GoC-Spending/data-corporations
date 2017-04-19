@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "213 Arthur St, Morris-Turnberry, ON N0G 2W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95c8ae7cb8fa4d0db887a1b4771c6b60|BN20280152|7.7.0.0|",
+				"addressLine": "213 Arthur St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "213 Arthur St, Morris-Turnberry, ON N0G 2W0, Canada",
+				"locality": "Morris-Turnberry",
+				"postalCode": "N0G 2W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3143929,
+					43.8951135
+				]
+			},
+			"bbox": [
+				-81.3159529,
+				43.8939894,
+				-81.3128329,
+				43.8962377
+			]
+		}
+	]
+}

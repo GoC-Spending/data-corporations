@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "366 Denison St, Markham, ON L3R 1B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cdf66145fa1848f1842f279e4f5668a8|BN20171457|7.7.0.0|",
+				"addressLine": "366 Denison St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "366 Denison St, Markham, ON L3R 1B9, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34772,
+					43.82308
+				]
+			},
+			"bbox": [
+				-79.3492781,
+				43.8219558,
+				-79.3461619,
+				43.8242042
+			]
+		}
+	]
+}

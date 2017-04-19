@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1060 Chemin du Golf, Verdun, QC H3E 1H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a04facb91584516a66fc9cedd4863b5|BN20130719|7.7.0.0|",
+				"addressLine": "1060 Chemin du Golf",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1060 Chemin du Golf, Verdun, QC H3E 1H4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H3E 1H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.55517,
+					45.4645
+				]
+			},
+			"bbox": [
+				-73.5567728,
+				45.4633758,
+				-73.5535672,
+				45.4656242
+			]
+		}
+	]
+}

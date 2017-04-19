@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "192 McEwan Dr E, Bolton, ON L7E 4E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd6b04d84b874c8f83f1c6b43cb25ed4|BN20290118|7.7.0.0|",
+				"addressLine": "192 McEwan Dr E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "192 McEwan Dr E, Bolton, ON L7E 4E5, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 4E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70891,
+					43.86324
+				]
+			},
+			"bbox": [
+				-79.7104692,
+				43.8621158,
+				-79.7073508,
+				43.8643642
+			]
+		}
+	]
+}

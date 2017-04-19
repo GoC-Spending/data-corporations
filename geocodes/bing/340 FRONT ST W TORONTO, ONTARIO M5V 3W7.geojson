@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Front St W, Toronto, ON M5V 3W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49cb525d7c004e66a5d0baae82a272ef|BN20171457|7.7.0.0|",
+				"addressLine": "340 Front St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Front St W, Toronto, ON M5V 3W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 3W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3917699,
+					43.64358
+				]
+			},
+			"bbox": [
+				-79.3933234,
+				43.6424558,
+				-79.3902164,
+				43.6447042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "310 Henry St, Victoria, BC V9A 3J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03710632f3b942b2a30cd206f736b1fd|BN20130423|7.7.0.0|",
+				"addressLine": "310 Henry St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "310 Henry St, Victoria, BC V9A 3J2, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38513,
+					48.43195
+				]
+			},
+			"bbox": [
+				-123.3868243,
+				48.4308258,
+				-123.3834357,
+				48.4330742
+			]
+		}
+	]
+}

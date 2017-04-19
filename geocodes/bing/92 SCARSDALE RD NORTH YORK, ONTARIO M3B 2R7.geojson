@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "92 Scarsdale Rd, North York, ON M3B 2R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1fc1984f85b4c02a449eecda487ee5c|BN20130521|7.7.0.0|",
+				"addressLine": "92 Scarsdale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "92 Scarsdale Rd, North York, ON M3B 2R7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 2R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35579,
+					43.75116
+				]
+			},
+			"bbox": [
+				-79.3573462,
+				43.7500358,
+				-79.3542338,
+				43.7522842
+			]
+		}
+	]
+}

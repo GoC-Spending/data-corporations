@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3900 Viking Way, Richmond, BC V6V 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98ee206dd4034b27928c27e7a2211571|BN20130530|7.7.0.0|",
+				"addressLine": "3900 Viking Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3900 Viking Way, Richmond, BC V6V 1N6, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Cambie",
+				"postalCode": "V6V 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07222,
+					49.18572
+				]
+			},
+			"bbox": [
+				-123.0739399,
+				49.1845958,
+				-123.0705001,
+				49.1868442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "194 Main St S, Brampton, ON L6W 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd164e4cda9a4e7ba417ba50e974038c|BN20200137|7.7.0.0|",
+				"addressLine": "194 Main St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "194 Main St S, Brampton, ON L6W 2E2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Peel Village",
+				"postalCode": "L6W 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7458599,
+					43.67597
+				]
+			},
+			"bbox": [
+				-79.7474142,
+				43.6748458,
+				-79.7443056,
+				43.6770942
+			]
+		}
+	]
+}

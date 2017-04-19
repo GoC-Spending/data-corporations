@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1500 Rue Nobel, Boucherville, QC J4B 5H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa208eb8aa78499f833a53f1b09a01b7|BN20210145|7.7.0.0|",
+				"addressLine": "1500 Rue Nobel",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Longueuil",
+				"countryRegion": "Canada",
+				"formattedAddress": "1500 Rue Nobel, Boucherville, QC J4B 5H3, Canada",
+				"locality": "Boucherville",
+				"postalCode": "J4B 5H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.4182978,
+					45.5686051
+				]
+			},
+			"bbox": [
+				-73.4199036,
+				45.5674809,
+				-73.416692,
+				45.5697293
+			]
+		}
+	]
+}

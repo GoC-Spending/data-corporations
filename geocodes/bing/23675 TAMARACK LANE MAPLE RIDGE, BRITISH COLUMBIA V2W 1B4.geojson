@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23675 Tamarack Ln, Maple Ridge, BC V2W 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73e3754e43a94af489652942541861cd|BN20190653|7.7.0.0|",
+				"addressLine": "23675 Tamarack Ln",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "23675 Tamarack Ln, Maple Ridge, BC V2W 1B4, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2W 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.56545,
+					49.19608
+				]
+			},
+			"bbox": [
+				-122.5671703,
+				49.1949558,
+				-122.5637297,
+				49.1972042
+			]
+		}
+	]
+}

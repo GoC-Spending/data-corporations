@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7774 Royal Oak Ave, Burnaby, BC V5J 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "738e7bca61b04efb953374dbb1c975c4|BN20190653|7.7.0.0|",
+				"addressLine": "7774 Royal Oak Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7774 Royal Oak Ave, Burnaby, BC V5J 4K4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Clinton-Glenwood",
+				"postalCode": "V5J 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9883551,
+					49.2132287
+				]
+			},
+			"bbox": [
+				-122.990076,
+				49.2121046,
+				-122.9866342,
+				49.2143529
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5525 Turner Rd, Nanaimo, BC V9T 5M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2a158233d934201b2c49d2a8112f0a5|BN20190653|7.7.0.0|",
+				"addressLine": "5525 Turner Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "5525 Turner Rd, Nanaimo, BC V9T 5M4, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9T 5M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.03003,
+					49.23334
+				]
+			},
+			"bbox": [
+				-124.0317516,
+				49.2322158,
+				-124.0283084,
+				49.2344642
+			]
+		}
+	]
+}

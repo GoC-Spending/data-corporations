@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "832 Howard Ave, Nanaimo, BC V9R 3T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c8355369f3a4e45a870af2e5bf5e988|BN20300154|7.7.0.0|",
+				"addressLine": "832 Howard Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "832 Howard Ave, Nanaimo, BC V9R 3T2, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 3T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9553,
+					49.14581
+				]
+			},
+			"bbox": [
+				-123.9570185,
+				49.1446858,
+				-123.9535815,
+				49.1469342
+			]
+		}
+	]
+}

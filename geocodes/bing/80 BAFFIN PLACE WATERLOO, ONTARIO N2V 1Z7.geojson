@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Baffin Pl, Waterloo, ON N2V 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f881fd9f64d417d902702afc9b4420e|BN20181720|7.7.0.0|",
+				"addressLine": "80 Baffin Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Baffin Pl, Waterloo, ON N2V 1Z7, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.53072,
+					43.50685
+				]
+			},
+			"bbox": [
+				-80.5322699,
+				43.5057258,
+				-80.5291701,
+				43.5079742
+			]
+		}
+	]
+}

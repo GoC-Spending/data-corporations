@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Hansen Ave, Beaconsfield, QC H9W 5P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40d31ca3878b42f282b03fbe949b98df|BN20240253|7.7.0.0|",
+				"addressLine": "45 Hansen Ave",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Hansen Ave, Beaconsfield, QC H9W 5P4, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 5P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8357961,
+					45.4300639
+				]
+			},
+			"bbox": [
+				-73.8373979,
+				45.4289397,
+				-73.8341942,
+				45.431188
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Cowichan Way, Duncan, BC V9L 6P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a138368025d94310aa6cbca02dead317|BN20130634|7.7.0.0|",
+				"addressLine": "200 Cowichan Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Cowichan Way, Duncan, BC V9L 6P4, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.70227,
+					48.77318
+				]
+			},
+			"bbox": [
+				-123.7039757,
+				48.7720558,
+				-123.7005643,
+				48.7743042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Orion Ct, Dartmouth, NS B2Y 4W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d54bd3a6e57148588ad1e5067454663b|BN20130442|7.7.0.0|",
+				"addressLine": "24 Orion Ct",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Orion Ct, Dartmouth, NS B2Y 4W6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2Y 4W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.54,
+					44.65607
+				]
+			},
+			"bbox": [
+				-63.5415803,
+				44.6549458,
+				-63.5384197,
+				44.6571942
+			]
+		}
+	]
+}

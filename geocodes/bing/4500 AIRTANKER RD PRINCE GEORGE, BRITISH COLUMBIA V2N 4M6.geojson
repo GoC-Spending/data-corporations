@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4500 Air Tanker Rd, Prince George, BC V2N 4M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ac3714d0e8e4483bf673a41a23da602|BN20130625|7.7.0.0|",
+				"addressLine": "4500 Air Tanker Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "4500 Air Tanker Rd, Prince George, BC V2N 4M6, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2N 4M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6780986,
+					53.8798917
+				]
+			},
+			"bbox": [
+				-122.6800056,
+				53.8787676,
+				-122.6761916,
+				53.8810159
+			]
+		}
+	]
+}

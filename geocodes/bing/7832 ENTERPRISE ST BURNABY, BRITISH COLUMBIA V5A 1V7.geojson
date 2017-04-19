@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7832 Enterprise St, Burnaby, BC V5A 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b850f0e2a0164a78895c0b102139fc3f|BN20130632|7.7.0.0|",
+				"addressLine": "7832 Enterprise St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7832 Enterprise St, Burnaby, BC V5A 1V7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lake City",
+				"postalCode": "V5A 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.93679,
+					49.25504
+				]
+			},
+			"bbox": [
+				-122.9385123,
+				49.2539158,
+				-122.9350677,
+				49.2561642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "43 Dalhousie Cres, London, ON N6K 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ea30e4718ed456db8cfc438500bbc8c|BN20320521|7.7.0.0|",
+				"addressLine": "43 Dalhousie Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "43 Dalhousie Cres, London, ON N6K 1N7, Canada",
+				"locality": "London",
+				"neighborhood": "Westmount",
+				"postalCode": "N6K 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2907,
+					42.94
+				]
+			},
+			"bbox": [
+				-81.2922356,
+				42.9388758,
+				-81.2891644,
+				42.9411242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Mississaga St E, Orillia, ON L3V 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e26e6be7508f47d9a993ffee5f31f015|BN20130621|7.7.0.0|",
+				"addressLine": "82 Mississaga St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Mississaga St E, Orillia, ON L3V 1V7, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4175631,
+					44.6093096
+				]
+			},
+			"bbox": [
+				-79.4191421,
+				44.6081854,
+				-79.415984,
+				44.6104337
+			]
+		}
+	]
+}

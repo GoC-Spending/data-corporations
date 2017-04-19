@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "234 King St E, Cambridge, ON N3H 3M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae84241876ff4208ac5b34f25da15226|BN20121762|7.7.0.0|",
+				"addressLine": "234 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "234 King St E, Cambridge, ON N3H 3M6, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Preston Centre",
+				"postalCode": "N3H 3M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.36423,
+					43.3985
+				]
+			},
+			"bbox": [
+				-80.3657772,
+				43.3973758,
+				-80.3626828,
+				43.3996242
+			]
+		}
+	]
+}

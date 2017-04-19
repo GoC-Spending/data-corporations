@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Royal Orchard Blvd, Thornhill, ON L3T 3C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0942a1cf1d343bea23e576592d6183c|BN20290118|7.7.0.0|",
+				"addressLine": "1 Royal Orchard Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Royal Orchard Blvd, Thornhill, ON L3T 3C2, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 3C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42457,
+					43.8226299
+				]
+			},
+			"bbox": [
+				-79.4261281,
+				43.8215057,
+				-79.4230119,
+				43.8237541
+			]
+		}
+	]
+}

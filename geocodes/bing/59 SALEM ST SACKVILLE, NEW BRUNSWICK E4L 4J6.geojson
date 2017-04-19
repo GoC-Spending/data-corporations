@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Salem St, Sackville, NB E4L 4J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b973d4c9d97a44d8b7501dd01a103488|BN20290118|7.7.0.0|",
+				"addressLine": "59 Salem St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Salem St, Sackville, NB E4L 4J6, Canada",
+				"locality": "Sackville",
+				"postalCode": "E4L 4J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.3768599,
+					45.89619
+				]
+			},
+			"bbox": [
+				-64.3784752,
+				45.8950658,
+				-64.3752446,
+				45.8973142
+			]
+		}
+	]
+}

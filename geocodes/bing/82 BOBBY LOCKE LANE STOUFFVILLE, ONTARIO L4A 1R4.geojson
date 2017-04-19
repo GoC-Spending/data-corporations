@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Bobby Locke Ln, Stouffville, ON L4A 1R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc9bdbbb807e46a08b307300a9e67b88|BN20171457|7.7.0.0|",
+				"addressLine": "82 Bobby Locke Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Bobby Locke Ln, Stouffville, ON L4A 1R4, Canada",
+				"locality": "Whitchurch-Stouffville",
+				"neighborhood": "Stouffville",
+				"postalCode": "L4A 1R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2908099,
+					44.05032
+				]
+			},
+			"bbox": [
+				-79.292374,
+				44.0491958,
+				-79.2892458,
+				44.0514442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 McCleary Ct, Concord, ON L4K 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9332568c76df4920a74c8a66a61c8c02|BN20130532|7.7.0.0|",
+				"addressLine": "35 McCleary Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 McCleary Ct, Concord, ON L4K 3Y9, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.51526,
+					43.79693
+				]
+			},
+			"bbox": [
+				-79.5168174,
+				43.7958058,
+				-79.5137026,
+				43.7980542
+			]
+		}
+	]
+}

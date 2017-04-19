@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Traders Blvd E, Mississauga, ON L4Z 2H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4012f804110b42f88b77abecafb4a0af|BN20160335|7.7.0.0|",
+				"addressLine": "100 Traders Blvd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Traders Blvd E, Mississauga, ON L4Z 2H7, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Z 2H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67204,
+					43.62391
+				]
+			},
+			"bbox": [
+				-79.6735929,
+				43.6227858,
+				-79.6704871,
+				43.6250342
+			]
+		}
+	]
+}

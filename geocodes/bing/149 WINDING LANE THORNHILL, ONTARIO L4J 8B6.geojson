@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "149 Winding Ln, Thornhill, ON L4J 8B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44e89706930440c58767b8571ba97605|BN20131519|7.7.0.0|",
+				"addressLine": "149 Winding Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "149 Winding Ln, Thornhill, ON L4J 8B6, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 8B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43136,
+					43.80607
+				]
+			},
+			"bbox": [
+				-79.4329177,
+				43.8049458,
+				-79.4298023,
+				43.8071942
+			]
+		}
+	]
+}

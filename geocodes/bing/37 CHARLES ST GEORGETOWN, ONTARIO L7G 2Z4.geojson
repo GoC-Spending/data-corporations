@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Charles St, Georgetown, ON L7G 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f7ef3ef4c9f4b66a1e1baa4b6a472d9|BN20240253|7.7.0.0|",
+				"addressLine": "37 Charles St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Charles St, Georgetown, ON L7G 2Z4, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92596,
+					43.64495
+				]
+			},
+			"bbox": [
+				-79.9275135,
+				43.6438258,
+				-79.9244065,
+				43.6460742
+			]
+		}
+	]
+}

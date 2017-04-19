@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1082 Main St, Winnipeg, MB R2W 5J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38b740210f9946e5ab4918589ff5a8af|BN20260231|7.7.0.0|",
+				"addressLine": "1082 Main St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1082 Main St, Winnipeg, MB R2W 5J3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "William Whyte",
+				"postalCode": "R2W 5J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13217,
+					49.91619
+				]
+			},
+			"bbox": [
+				-97.1339158,
+				49.9150658,
+				-97.1304242,
+				49.9173142
+			]
+		}
+	]
+}

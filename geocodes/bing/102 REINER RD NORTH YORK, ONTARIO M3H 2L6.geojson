@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "102 Reiner Rd, North York, ON M3H 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3485616811274bf8a7aaa33c5a5b6f45|BN20130632|7.7.0.0|",
+				"addressLine": "102 Reiner Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 Reiner Rd, North York, ON M3H 2L6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clanton Park",
+				"postalCode": "M3H 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44508,
+					43.75104
+				]
+			},
+			"bbox": [
+				-79.4466362,
+				43.7499158,
+				-79.4435238,
+				43.7521642
+			]
+		}
+	]
+}

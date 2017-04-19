@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7112 Vedder Rd, Chilliwack, BC V2R 3T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3fdd5026ea14acc99e1e65eb07c8bbf|BN20160335|7.7.0.0|",
+				"addressLine": "7112 Vedder Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "7112 Vedder Rd, Chilliwack, BC V2R 3T6, Canada",
+				"locality": "Chilliwack",
+				"neighborhood": "Sardis",
+				"postalCode": "V2R 3T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.9597809,
+					49.1322272
+				]
+			},
+			"bbox": [
+				-121.9614989,
+				49.1311031,
+				-121.9580628,
+				49.1333514
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "880 Fort William Rd, Thunder Bay, ON P7B 2S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe4558b8dcb1474ea883db014e672ff9|BN20130522|7.7.0.0|",
+				"addressLine": "880 Fort William Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "880 Fort William Rd, Thunder Bay, ON P7B 2S4, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7B 2S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.2411307,
+					48.4064132
+				]
+			},
+			"bbox": [
+				-89.2428241,
+				48.405289,
+				-89.2394373,
+				48.4075373
+			]
+		}
+	]
+}

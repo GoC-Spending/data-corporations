@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Anne St S, Barrie, ON L4N 2C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de152ad26c5249b2ae3b5caf3dd88629|BN20260223|7.7.0.0|",
+				"addressLine": "20 Anne St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Anne St S, Barrie, ON L4N 2C6, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 2C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70481,
+					44.3814
+				]
+			},
+			"bbox": [
+				-79.7063829,
+				44.3802758,
+				-79.7032371,
+				44.3825242
+			]
+		}
+	]
+}

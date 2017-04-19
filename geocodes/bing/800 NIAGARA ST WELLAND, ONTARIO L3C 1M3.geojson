@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "800 Niagara St N, Welland, ON L3C 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9830436abb546fdbd47aa0ddb44f0f3|BN20240423|7.7.0.0|",
+				"addressLine": "800 Niagara St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "800 Niagara St N, Welland, ON L3C 1M3, Canada",
+				"locality": "Welland",
+				"postalCode": "L3C 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2497351,
+					43.0157929
+				]
+			},
+			"bbox": [
+				-79.2512726,
+				43.0146688,
+				-79.2481976,
+				43.0169171
+			]
+		}
+	]
+}

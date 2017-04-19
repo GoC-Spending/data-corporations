@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Pioneer Dr, Kitchener, ON N2P 2A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81790498a0d045408b6aa0251522c851|BN20130620|7.7.0.0|",
+				"addressLine": "123 Pioneer Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Pioneer Dr, Kitchener, ON N2P 2A3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Pioneer Park",
+				"postalCode": "N2P 2A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.43169,
+					43.39403
+				]
+			},
+			"bbox": [
+				-80.433237,
+				43.3929058,
+				-80.430143,
+				43.3951542
+			]
+		}
+	]
+}

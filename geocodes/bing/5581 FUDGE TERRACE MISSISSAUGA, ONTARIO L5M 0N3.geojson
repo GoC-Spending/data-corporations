@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5581 Fudge Terr, Mississauga, ON L5M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3306b46e25734539a92f8026c4d60385|BN20200137|7.7.0.0|",
+				"addressLine": "5581 Fudge Terr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "5581 Fudge Terr, Mississauga, ON L5M, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Erin Mills",
+				"postalCode": "L5M 0N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7309,
+					43.55719
+				]
+			},
+			"bbox": [
+				-79.7324512,
+				43.5560658,
+				-79.7293488,
+				43.5583142
+			]
+		}
+	]
+}

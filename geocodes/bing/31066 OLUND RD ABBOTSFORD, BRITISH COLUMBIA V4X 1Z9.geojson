@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31066 Olund Rd, Abbotsford, BC V4X 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2916aeb211c47d984e4e4dce219847b|BN20130521|7.7.0.0|",
+				"addressLine": "31066 Olund Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "31066 Olund Rd, Abbotsford, BC V4X 1Z9, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Bradner-Mt Lehman",
+				"postalCode": "V4X 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3626106,
+					49.0858617
+				]
+			},
+			"bbox": [
+				-122.3643271,
+				49.0847376,
+				-122.3608942,
+				49.0869859
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Michigan Ave, Point Edward, ON N7V 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8c98958c10143a0a6901ea35465d249|BN20130423|7.7.0.0|",
+				"addressLine": "120 Michigan Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Michigan Ave, Point Edward, ON N7V 1E6, Canada",
+				"locality": "Point Edward",
+				"postalCode": "N7V 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4167985,
+					42.9980593
+				]
+			},
+			"bbox": [
+				-82.4183355,
+				42.9969351,
+				-82.4152615,
+				42.9991834
+			]
+		}
+	]
+}

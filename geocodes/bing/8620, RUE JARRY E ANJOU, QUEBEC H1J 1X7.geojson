@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8620 Rue Jarry E, Anjou, QC H1J 1X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f9dd173b99ed4941bd1a20307e714b1c|BN20130620|7.7.0.0|",
+				"addressLine": "8620 Rue Jarry E",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "8620 Rue Jarry E, Anjou, QC H1J 1X7, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 1X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5631819,
+					45.615662
+				]
+			},
+			"bbox": [
+				-73.5647891,
+				45.6145379,
+				-73.5615747,
+				45.6167862
+			]
+		}
+	]
+}

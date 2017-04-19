@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "414 Princess St, Kingston, ON K7L 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a51a4d2b9f64b408b4939a9996dfab9|BN20130634|7.7.0.0|",
+				"addressLine": "414 Princess St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "414 Princess St, Kingston, ON K7L 1B8, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Downtown Kingston",
+				"postalCode": "K7L 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.49264,
+					44.23304
+				]
+			},
+			"bbox": [
+				-76.4942089,
+				44.2319158,
+				-76.4910711,
+				44.2341642
+			]
+		}
+	]
+}

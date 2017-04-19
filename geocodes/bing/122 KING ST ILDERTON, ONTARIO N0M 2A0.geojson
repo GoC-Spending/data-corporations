@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "122 King St, Middlesex Centre, ON N0M 2A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3142574a736d4cd7b2e5aa6d30739da3|BN20190642|7.7.0.0|",
+				"addressLine": "122 King St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "122 King St, Middlesex Centre, ON N0M 2A0, Canada",
+				"locality": "Middlesex Centre",
+				"neighborhood": "Ilderton",
+				"postalCode": "N0M 2A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3829556,
+					43.0776027
+				]
+			},
+			"bbox": [
+				-81.3844947,
+				43.0764786,
+				-81.3814166,
+				43.0787269
+			]
+		}
+	]
+}

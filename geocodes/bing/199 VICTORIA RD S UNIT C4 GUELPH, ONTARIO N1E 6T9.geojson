@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "199 Victoria Rd S, Guelph, ON N1E 6T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "11ff74ae1e70471c976b20096424d966|BN20190653|7.7.0.0|",
+				"addressLine": "199 Victoria Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "199 Victoria Rd S, Guelph, ON N1E 6T9, Canada",
+				"locality": "Guelph",
+				"neighborhood": "St Georges/St Patricks",
+				"postalCode": "N1E 6T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2239462,
+					43.5518104
+				]
+			},
+			"bbox": [
+				-80.2254973,
+				43.5506863,
+				-80.2223951,
+				43.5529346
+			]
+		}
+	]
+}

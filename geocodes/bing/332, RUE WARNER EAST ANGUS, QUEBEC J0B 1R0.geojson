@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "332 Rue Warner, East Angus, QC J0B 1R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fb660d6a84b4c5cb96725d99282058e|BN20130442|7.7.0.0|",
+				"addressLine": "332 Rue Warner",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Le Haut-St-François",
+				"countryRegion": "Canada",
+				"formattedAddress": "332 Rue Warner, East Angus, QC J0B 1R0, Canada",
+				"locality": "East Angus",
+				"postalCode": "J0B 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.6695919,
+					45.4816749
+				]
+			},
+			"bbox": [
+				-71.6711952,
+				45.4805507,
+				-71.6679885,
+				45.4827991
+			]
+		}
+	]
+}

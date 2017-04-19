@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "87 Williams St, New Hamburg, ON N3A 2C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "540ae0ffe3264cbfa78d34269de1ccee|BN20260231|7.7.0.0|",
+				"addressLine": "87 Williams St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "87 Williams St, New Hamburg, ON N3A 2C3, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "New Hamburg",
+				"postalCode": "N3A 2C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7142446,
+					43.3868115
+				]
+			},
+			"bbox": [
+				-80.7157915,
+				43.3856873,
+				-80.7126978,
+				43.3879356
+			]
+		}
+	]
+}

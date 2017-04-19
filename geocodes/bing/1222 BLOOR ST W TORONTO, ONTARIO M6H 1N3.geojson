@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1222 Bloor St W, Toronto, ON M6H 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8f036fcb5f14a6ca663bf3579447b9c|BN20240423|7.7.0.0|",
+				"addressLine": "1222 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1222 Bloor St W, Toronto, ON M6H 1N3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6H 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43919,
+					43.6593
+				]
+			},
+			"bbox": [
+				-79.4407439,
+				43.6581758,
+				-79.4376361,
+				43.6604242
+			]
+		}
+	]
+}

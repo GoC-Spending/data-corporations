@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2233 Hartley Ave, Coquitlam, BC V3K 6W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "142cf05e86014172beaac34e7ebb1333|BN20280152|7.7.0.0|",
+				"addressLine": "2233 Hartley Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2233 Hartley Ave, Coquitlam, BC V3K 6W9, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Mayfair/Pacific Reach",
+				"postalCode": "V3K 6W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.83255,
+					49.22604
+				]
+			},
+			"bbox": [
+				-122.8342713,
+				49.2249158,
+				-122.8308287,
+				49.2271642
+			]
+		}
+	]
+}

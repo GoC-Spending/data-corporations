@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "116 Milvan Dr, North York, ON M9L 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "531396216977443dbaac2d801865c2af|BN20260223|7.7.0.0|",
+				"addressLine": "116 Milvan Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "116 Milvan Dr, North York, ON M9L 1Z9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humber Summit",
+				"postalCode": "M9L 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56088,
+					43.75597
+				]
+			},
+			"bbox": [
+				-79.5624364,
+				43.7548458,
+				-79.5593236,
+				43.7570942
+			]
+		}
+	]
+}

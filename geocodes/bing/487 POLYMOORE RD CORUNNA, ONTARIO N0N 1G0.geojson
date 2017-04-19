@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "487 Polymoore Dr, St Clair, ON N0N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abf1d243391b468db69648f11435c674|BN20130521|7.7.0.0|",
+				"addressLine": "487 Polymoore Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "487 Polymoore Dr, St Clair, ON N0N, Canada",
+				"locality": "St Clair",
+				"neighborhood": "Corunna",
+				"postalCode": "N0N 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4206503,
+					42.8815423
+				]
+			},
+			"bbox": [
+				-82.4221844,
+				42.8804182,
+				-82.4191162,
+				42.8826665
+			]
+		}
+	]
+}

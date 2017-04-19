@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10104 105 St NW, Edmonton, AB T5J 1C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdedab871ebd457f9606fb45409c7f51|BN20130530|7.7.0.0|",
+				"addressLine": "10104 105 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10104 105 St NW, Edmonton, AB T5J 1C9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 1C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5015,
+					53.54188
+				]
+			},
+			"bbox": [
+				-113.5033918,
+				53.5407558,
+				-113.4996082,
+				53.5430042
+			]
+		}
+	]
+}

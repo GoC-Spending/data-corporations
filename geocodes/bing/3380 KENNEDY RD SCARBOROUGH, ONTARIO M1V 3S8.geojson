@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3380 Kennedy Rd, Scarborough, ON M1V 3S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c80652a9cae0475585bfe7f5dabbc299|BN20190642|7.7.0.0|",
+				"addressLine": "3380 Kennedy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3380 Kennedy Rd, Scarborough, ON M1V 3S8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Steeles",
+				"postalCode": "M1V 3S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30493,
+					43.81826
+				]
+			},
+			"bbox": [
+				-79.306488,
+				43.8171358,
+				-79.303372,
+				43.8193842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4821 78 St, Red Deer, AB T4P 1N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2546dd76d6046acb056b98724717f6c|BN20130625|7.7.0.0|",
+				"addressLine": "4821 78 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4821 78 St, Red Deer, AB T4P 1N5, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4P 1N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.80915,
+					52.3078999
+				]
+			},
+			"bbox": [
+				-113.8109886,
+				52.3067757,
+				-113.8073114,
+				52.3090241
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9896 Galaran Rd, Sidney, BC V8L 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b349f05ce6949d49e192ee1f2db9782|BN20200137|7.7.0.0|",
+				"addressLine": "9896 Galaran Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "9896 Galaran Rd, Sidney, BC V8L 4K4, Canada",
+				"locality": "Sidney",
+				"postalCode": "V8L 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4125149,
+					48.6514507
+				]
+			},
+			"bbox": [
+				-123.4142165,
+				48.6503266,
+				-123.4108133,
+				48.6525749
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1000 55 Ave NE, Calgary, AB T2E 6Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6cf1e89b3674a1b926982b96822e6ed|BN20130520|7.7.0.0|",
+				"addressLine": "1000 55 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1000 55 Ave NE, Calgary, AB T2E 6Y4, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 6Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.04011,
+					51.10237
+				]
+			},
+			"bbox": [
+				-114.0419002,
+				51.1012458,
+				-114.0383198,
+				51.1034942
+			]
+		}
+	]
+}

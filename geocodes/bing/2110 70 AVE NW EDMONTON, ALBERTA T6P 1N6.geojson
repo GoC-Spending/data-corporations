@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2110 70 Ave NW, Edmonton, AB T6P 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3042accc3247437f95f0eb8d70dc6a24|BN20121763|7.7.0.0|",
+				"addressLine": "2110 70 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2110 70 Ave NW, Edmonton, AB T6P 1N6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Southeast Industrial",
+				"postalCode": "T6P 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.37656,
+					53.50776
+				]
+			},
+			"bbox": [
+				-113.3784502,
+				53.5066358,
+				-113.3746698,
+				53.5088842
+			]
+		}
+	]
+}

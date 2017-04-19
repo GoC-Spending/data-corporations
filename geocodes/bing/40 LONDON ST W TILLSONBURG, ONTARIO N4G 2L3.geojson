@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 London St W, Tillsonburg, ON N4G 2L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "719f80f5a76e4c38a652e30663073729|BN20190642|7.7.0.0|",
+				"addressLine": "40 London St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 London St W, Tillsonburg, ON N4G 2L3, Canada",
+				"locality": "Tillsonburg",
+				"postalCode": "N4G 2L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.72662,
+					42.85809
+				]
+			},
+			"bbox": [
+				-80.7281535,
+				42.8569658,
+				-80.7250865,
+				42.8592142
+			]
+		}
+	]
+}

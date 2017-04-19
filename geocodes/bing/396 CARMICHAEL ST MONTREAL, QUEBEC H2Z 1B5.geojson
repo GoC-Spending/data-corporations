@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "396 Rue Carmichael, Montreal, QC H2Z 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c02791115b7e4cfdafab9a77370912fc|BN20210145|7.7.0.0|",
+				"addressLine": "396 Rue Carmichael",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "396 Rue Carmichael, Montreal, QC H2Z 1B5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Quartier International",
+				"postalCode": "H2Z 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.56448,
+					45.50423
+				]
+			},
+			"bbox": [
+				-73.566084,
+				45.5031058,
+				-73.562876,
+				45.5053542
+			]
+		}
+	]
+}

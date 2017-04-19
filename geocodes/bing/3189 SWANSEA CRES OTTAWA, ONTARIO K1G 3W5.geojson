@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3189 Swansea Cres, Ottawa, ON K1G 3W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "751bf831090e4e3b885f24725bf3baf5|BN20131519|7.7.0.0|",
+				"addressLine": "3189 Swansea Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3189 Swansea Cres, Ottawa, ON K1G 3W5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1G 3W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.60594,
+					45.38275
+				]
+			},
+			"bbox": [
+				-75.6075405,
+				45.3816258,
+				-75.6043395,
+				45.3838742
+			]
+		}
+	]
+}

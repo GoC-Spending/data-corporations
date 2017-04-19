@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1004 15 Ave, Nisku, AB T9E 7S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ba9a61bcc5543b38ed92f1a2136b512|BN20130721|7.7.0.0|",
+				"addressLine": "1004 15 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1004 15 Ave, Nisku, AB T9E 7S5, Canada",
+				"locality": "Leduc County",
+				"neighborhood": "Nisku",
+				"postalCode": "T9E 7S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.50642,
+					53.3213
+				]
+			},
+			"bbox": [
+				-113.508302,
+				53.3201758,
+				-113.504538,
+				53.3224242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "359 Richmond St W, Toronto, ON M5V 1X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45813721739e4b68ae3c11e0224e746b|BN20121763|7.7.0.0|",
+				"addressLine": "359 Richmond St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "359 Richmond St W, Toronto, ON M5V 1X3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39378,
+					43.64816
+				]
+			},
+			"bbox": [
+				-79.3953336,
+				43.6470358,
+				-79.3922264,
+				43.6492842
+			]
+		}
+	]
+}

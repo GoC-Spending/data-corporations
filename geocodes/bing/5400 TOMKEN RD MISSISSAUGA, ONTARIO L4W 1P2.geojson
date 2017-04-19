@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5400 Tomken Rd, Mississauga, ON L4W 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f35862629c584ee98a4218156ef36d3e|BN20181720|7.7.0.0|",
+				"addressLine": "5400 Tomken Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "5400 Tomken Rd, Mississauga, ON L4W 1P2, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Dixie",
+				"postalCode": "L4W 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64278,
+					43.63345
+				]
+			},
+			"bbox": [
+				-79.6443332,
+				43.6323258,
+				-79.6412268,
+				43.6345742
+			]
+		}
+	]
+}

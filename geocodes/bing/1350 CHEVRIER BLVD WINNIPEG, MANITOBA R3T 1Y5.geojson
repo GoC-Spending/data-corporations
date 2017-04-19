@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1350 Chevrier Blvd, Winnipeg, MB R3T 1Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ab29bb7b89743638d8bf2b5a6ae4c6e|BN20250135|7.7.0.0|",
+				"addressLine": "1350 Chevrier Blvd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1350 Chevrier Blvd, Winnipeg, MB R3T 1Y5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chevrier",
+				"postalCode": "R3T 1Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.16464,
+					49.82712
+				]
+			},
+			"bbox": [
+				-97.1663826,
+				49.8259958,
+				-97.1628974,
+				49.8282442
+			]
+		}
+	]
+}

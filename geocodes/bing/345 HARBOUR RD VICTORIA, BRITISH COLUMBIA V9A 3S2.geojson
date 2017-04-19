@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "345 Harbour Rd, Victoria, BC V9A 3S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "938cf153a1b14f3a8caf20f6a5aec224|BN20130632|7.7.0.0|",
+				"addressLine": "345 Harbour Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "345 Harbour Rd, Victoria, BC V9A 3S2, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.37657,
+					48.43109
+				]
+			},
+			"bbox": [
+				-123.3782642,
+				48.4299658,
+				-123.3748758,
+				48.4322142
+			]
+		}
+	]
+}

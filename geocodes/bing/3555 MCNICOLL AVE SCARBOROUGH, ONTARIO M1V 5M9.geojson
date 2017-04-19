@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3555 McNicoll Ave, Scarborough, ON M1V 5M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b69df6603c904c8e90990a89ea95b289|BN20131519|7.7.0.0|",
+				"addressLine": "3555 McNicoll Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3555 McNicoll Ave, Scarborough, ON M1V 5M9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 5M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2489,
+					43.82359
+				]
+			},
+			"bbox": [
+				-79.2504581,
+				43.8224658,
+				-79.2473419,
+				43.8247142
+			]
+		}
+	]
+}

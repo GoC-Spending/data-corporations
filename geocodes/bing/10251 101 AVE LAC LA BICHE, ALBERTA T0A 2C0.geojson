@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Alberta St, Lac La Biche County, AB T0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a15fccfbc2b42f9bff4da4ac2d5a442|BN20130423|7.7.0.0|",
+				"addressLine": "101 Alberta St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Alberta St, Lac La Biche County, AB T0A, Canada",
+				"locality": "Lac La Biche County",
+				"neighborhood": "Lac La Biche",
+				"postalCode": "T0A 2C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.9858683,
+					54.7670721
+				]
+			},
+			"bbox": [
+				-111.9878169,
+				54.765948,
+				-111.9839197,
+				54.7681963
+			]
+		}
+	]
+}

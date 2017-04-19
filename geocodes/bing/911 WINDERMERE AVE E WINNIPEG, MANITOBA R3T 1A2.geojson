@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "911 Windermere Ave, Winnipeg, MB R3T 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ce1724dbeb44990b820f379aa5c48c1|BN20130530|7.7.0.0|",
+				"addressLine": "911 Windermere Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "911 Windermere Ave, Winnipeg, MB R3T 1A2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Point Road",
+				"postalCode": "R3T 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14829,
+					49.84987
+				]
+			},
+			"bbox": [
+				-97.1500334,
+				49.8487458,
+				-97.1465466,
+				49.8509942
+			]
+		}
+	]
+}

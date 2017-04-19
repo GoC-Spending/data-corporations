@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "825 Rue Lippmann, Laval, QC H7S 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "940d279bf3e348589a3649de0abc462a|BN20200137|7.7.0.0|",
+				"addressLine": "825 Rue Lippmann",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "825 Rue Lippmann, Laval, QC H7S 1G3, Canada",
+				"locality": "Laval",
+				"postalCode": "H7S 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72427,
+					45.57963
+				]
+			},
+			"bbox": [
+				-73.7258761,
+				45.5785058,
+				-73.7226639,
+				45.5807542
+			]
+		}
+	]
+}

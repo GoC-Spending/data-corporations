@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff0fa966c6c54bd2bcb7de3770f889c9|BN20130632|7.7.0.0|",
+				"addressLine": "1 Blue Jays Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3906,
+					43.64203
+				]
+			},
+			"bbox": [
+				-79.3921534,
+				43.6409058,
+				-79.3890466,
+				43.6431542
+			]
+		}
+	]
+}

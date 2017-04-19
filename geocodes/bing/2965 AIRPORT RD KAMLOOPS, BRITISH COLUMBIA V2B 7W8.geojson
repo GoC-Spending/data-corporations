@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2965 Airport Rd, Kamloops, BC V2B 7W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "381cfbae3aff44bf8f15122704379a65|BN20121762|7.7.0.0|",
+				"addressLine": "2965 Airport Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "2965 Airport Rd, Kamloops, BC V2B 7W8, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "Tranquille",
+				"postalCode": "V2B 7W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.4382624,
+					50.7072366
+				]
+			},
+			"bbox": [
+				-120.4400375,
+				50.7061124,
+				-120.4364873,
+				50.7083607
+			]
+		}
+	]
+}

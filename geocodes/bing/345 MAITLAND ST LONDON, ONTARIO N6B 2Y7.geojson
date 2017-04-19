@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "345 Maitland St, London, ON N6B 2Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d6314b7a9b2492c8dc44678dee408b1|CO30276301|7.7.0.0|",
+				"addressLine": "345 Maitland St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "345 Maitland St, London, ON N6B 2Y7, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 2Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2362,
+					42.9854
+				]
+			},
+			"bbox": [
+				-81.2377367,
+				42.9842758,
+				-81.2346633,
+				42.9865242
+			]
+		}
+	]
+}

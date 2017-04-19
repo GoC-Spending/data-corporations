@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Redhill Ave, York, ON M6E 2C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82a7b767bcbc4c72a2abe5a9b078bc3e|BN20130530|7.7.0.0|",
+				"addressLine": "2 Redhill Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Redhill Ave, York, ON M6E 2C1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Caledonia-Fairbank",
+				"postalCode": "M6E 2C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45438,
+					43.69149
+				]
+			},
+			"bbox": [
+				-79.4559347,
+				43.6903658,
+				-79.4528253,
+				43.6926142
+			]
+		}
+	]
+}

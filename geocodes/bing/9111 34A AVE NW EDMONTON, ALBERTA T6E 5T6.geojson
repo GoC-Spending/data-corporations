@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9111 34A Ave NW, Edmonton, AB T6E 5T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64ab61a01c1444fd8a0ebfff61914d0c|BN20320521|7.7.0.0|",
+				"addressLine": "9111 34A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9111 34A Ave NW, Edmonton, AB T6E 5T6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 5T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46825,
+					53.46689
+				]
+			},
+			"bbox": [
+				-113.4701384,
+				53.4657658,
+				-113.4663616,
+				53.4680142
+			]
+		}
+	]
+}

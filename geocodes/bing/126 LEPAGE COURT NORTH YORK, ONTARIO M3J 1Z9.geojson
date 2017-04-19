@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "126 Le Page Ct, North York, ON M3J 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47fae23d81474d83a2d1cf21a748cf96|BN20130442|7.7.0.0|",
+				"addressLine": "126 Le Page Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "126 Le Page Ct, North York, ON M3J 1Z9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4820616,
+					43.7599464
+				]
+			},
+			"bbox": [
+				-79.483618,
+				43.7588222,
+				-79.4805051,
+				43.7610705
+			]
+		}
+	]
+}

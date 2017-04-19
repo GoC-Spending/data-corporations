@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2763 Beverly St, Duncan, BC V9L 6X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1158e1107f7a48c7a1d6d7b101f9084c|BN20190653|7.7.0.0|",
+				"addressLine": "2763 Beverly St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2763 Beverly St, Duncan, BC V9L 6X2, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.70797,
+					48.7858
+				]
+			},
+			"bbox": [
+				-123.7096762,
+				48.7846758,
+				-123.7062638,
+				48.7869242
+			]
+		}
+	]
+}

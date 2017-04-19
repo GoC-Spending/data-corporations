@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "563 Weatherston St, Kanata, ON K2W 1J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df6da20176d744acbb2be69e8bc89190|BN20130719|7.7.0.0|",
+				"addressLine": "563 Weatherston St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "563 Weatherston St, Kanata, ON K2W 1J1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2W 1J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.93411,
+					45.35498
+				]
+			},
+			"bbox": [
+				-75.9357097,
+				45.3538558,
+				-75.9325103,
+				45.3561042
+			]
+		}
+	]
+}

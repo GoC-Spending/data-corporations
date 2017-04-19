@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Greenfield Ave, North York, ON M2N 6N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1700abc41144f9fb9ec5bce4ae234e1|BN20130719|7.7.0.0|",
+				"addressLine": "30 Greenfield Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Greenfield Ave, North York, ON M2N 6N3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 6N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4105,
+					43.76418
+				]
+			},
+			"bbox": [
+				-79.4120566,
+				43.7630558,
+				-79.4089434,
+				43.7653042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Derry Rd E, Mississauga, ON L5T 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21d836989d6548ac90279aefd7626a18|BN20130533|7.7.0.0|",
+				"addressLine": "160 Derry Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Derry Rd E, Mississauga, ON L5T 2Y5, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5T 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70169,
+					43.64935
+				]
+			},
+			"bbox": [
+				-79.7032436,
+				43.6482258,
+				-79.7001364,
+				43.6504742
+			]
+		}
+	]
+}

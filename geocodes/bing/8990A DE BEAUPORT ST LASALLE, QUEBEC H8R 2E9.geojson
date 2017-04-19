@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8990 Rue de Beauport, La Salle, QC H8R 2E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ce56808e07a44a0c8cc76f4c524fccdf|BN20130532|7.7.0.0|",
+				"addressLine": "8990 Rue de Beauport",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "8990 Rue de Beauport, La Salle, QC H8R 2E9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8R 2E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.63031,
+					45.4217299
+				]
+			},
+			"bbox": [
+				-73.6319116,
+				45.4206057,
+				-73.6287084,
+				45.4228541
+			]
+		}
+	]
+}

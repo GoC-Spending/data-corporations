@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "117 Belleville Rd, Tyendinaga, ON K0K 1X0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd79db15188d4634a877c80a8e1a539c|BN20130533|7.7.0.0|",
+				"addressLine": "117 Belleville Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "117 Belleville Rd, Tyendinaga, ON K0K 1X0, Canada",
+				"locality": "Tyendinaga",
+				"postalCode": "K0K 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0991144,
+					44.2306256
+				]
+			},
+			"bbox": [
+				-77.1006832,
+				44.2295015,
+				-77.0975455,
+				44.2317498
+			]
+		}
+	]
+}

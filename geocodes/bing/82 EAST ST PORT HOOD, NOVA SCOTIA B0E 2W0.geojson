@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 East St, Port Hood, NS B0E 2W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "727c3fa454254085bbafbce79f93783e|BN20290118|7.7.0.0|",
+				"addressLine": "82 East St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Inverness",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 East St, Port Hood, NS B0E 2W0, Canada",
+				"locality": "Inverness",
+				"neighborhood": "Port Hood",
+				"postalCode": "B0E 2W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-61.5159276,
+					46.0159448
+				]
+			},
+			"bbox": [
+				-61.5175464,
+				46.0148207,
+				-61.5143089,
+				46.017069
+			]
+		}
+	]
+}

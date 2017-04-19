@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Exeter Rd, London, ON N6L 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4921509302904cce99fdc25eb2045eba|BN20130521|7.7.0.0|",
+				"addressLine": "300 Exeter Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Exeter Rd, London, ON N6L 1A3, Canada",
+				"locality": "London",
+				"neighborhood": "Longwoods",
+				"postalCode": "N6L 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2513,
+					42.9234
+				]
+			},
+			"bbox": [
+				-81.2528352,
+				42.9222758,
+				-81.2497648,
+				42.9245242
+			]
+		}
+	]
+}

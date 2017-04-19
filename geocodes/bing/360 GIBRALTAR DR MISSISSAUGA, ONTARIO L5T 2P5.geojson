@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "360 Gibraltar Dr, Mississauga, ON L5T 2P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5bd2a64befab4456a2f832f844124c7d|BN20130631|7.7.0.0|",
+				"addressLine": "360 Gibraltar Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "360 Gibraltar Dr, Mississauga, ON L5T 2P5, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5T 2P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69642,
+					43.65133
+				]
+			},
+			"bbox": [
+				-79.6979737,
+				43.6502058,
+				-79.6948663,
+				43.6524542
+			]
+		}
+	]
+}

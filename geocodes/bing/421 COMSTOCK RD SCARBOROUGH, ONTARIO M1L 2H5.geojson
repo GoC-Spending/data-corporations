@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "421 Comstock Rd, Scarborough, ON M1L 2H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dee8f96c341846e5abfbeef3689e11fb|BN20130422|7.7.0.0|",
+				"addressLine": "421 Comstock Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "421 Comstock Rd, Scarborough, ON M1L 2H5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1L 2H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27716,
+					43.72278
+				]
+			},
+			"bbox": [
+				-79.2787155,
+				43.7216558,
+				-79.2756045,
+				43.7239042
+			]
+		}
+	]
+}

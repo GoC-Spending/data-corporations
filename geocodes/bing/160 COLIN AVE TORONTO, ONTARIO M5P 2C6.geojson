@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Colin Ave, Toronto, ON M5P 2C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "832cd5876e8b4f37baf6a5abc6b2a62f|BN20190653|7.7.0.0|",
+				"addressLine": "160 Colin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Colin Ave, Toronto, ON M5P 2C6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yonge-Eglinton",
+				"postalCode": "M5P 2C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40234,
+					43.7043899
+				]
+			},
+			"bbox": [
+				-79.403895,
+				43.7032657,
+				-79.400785,
+				43.7055141
+			]
+		}
+	]
+}

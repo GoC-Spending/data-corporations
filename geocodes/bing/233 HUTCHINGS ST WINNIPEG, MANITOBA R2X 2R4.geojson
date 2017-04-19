@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "233 Hutchings St, Winnipeg, MB R2X 2R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf0a6cf141aa420e981c2e164a5b6509|BN20190653|7.7.0.0|",
+				"addressLine": "233 Hutchings St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "233 Hutchings St, Winnipeg, MB R2X 2R4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17982,
+					49.943
+				]
+			},
+			"bbox": [
+				-97.1815668,
+				49.9418758,
+				-97.1780732,
+				49.9441242
+			]
+		}
+	]
+}

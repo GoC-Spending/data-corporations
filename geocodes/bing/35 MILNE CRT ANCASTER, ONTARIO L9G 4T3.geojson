@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Milne Ct, Ancaster, ON L9G 4T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b751f8c5ce9844539dfd5fa878c54397|BN20121763|7.7.0.0|",
+				"addressLine": "35 Milne Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Milne Ct, Ancaster, ON L9G 4T3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9G 4T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.97341,
+					43.20398
+				]
+			},
+			"bbox": [
+				-79.9749522,
+				43.2028558,
+				-79.9718678,
+				43.2051042
+			]
+		}
+	]
+}

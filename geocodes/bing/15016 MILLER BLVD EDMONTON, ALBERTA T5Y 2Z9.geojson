@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15016 Miller Blvd NW, Edmonton, AB T5Y 2Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da0a1a180b8a49f7a75746baa2d26447|BN20121763|7.7.0.0|",
+				"addressLine": "15016 Miller Blvd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15016 Miller Blvd NW, Edmonton, AB T5Y 2Z9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Miller",
+				"postalCode": "T5Y 2Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.41147,
+					53.61257
+				]
+			},
+			"bbox": [
+				-113.4133649,
+				53.6114458,
+				-113.4095751,
+				53.6136942
+			]
+		}
+	]
+}

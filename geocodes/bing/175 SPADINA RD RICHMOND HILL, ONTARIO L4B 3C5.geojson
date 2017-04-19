@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "175 Spadina Rd, Richmond Hill, ON L4B 3C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7744d31acc64ba88284769efd2377ea|BN20130632|7.7.0.0|",
+				"addressLine": "175 Spadina Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "175 Spadina Rd, Richmond Hill, ON L4B 3C5, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4B 3C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40427,
+					43.87455
+				]
+			},
+			"bbox": [
+				-79.4058295,
+				43.8734258,
+				-79.4027105,
+				43.8756742
+			]
+		}
+	]
+}

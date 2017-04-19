@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Berens River Indian Reserve 13, R0B 0A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d348533417e4a19b364d143b90f8055|BN20130521|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Berens River Indian Reserve 13, R0B 0A0, Canada",
+				"locality": "Berens River Indian Reserve 13",
+				"postalCode": "R0B 0A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.9963836669922,
+					52.347770690918
+				]
+			},
+			"bbox": [
+				-97.004814043741,
+				52.3439079733473,
+				-96.9879532902434,
+				52.3516334084886
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Berens River, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d348533417e4a19b364d143b90f8055|BN20130521|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Berens River, Manitoba, Canada",
+				"locality": "Berens River"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0245895385742,
+					52.350212097168
+				]
+			},
+			"bbox": [
+				-97.0877849840032,
+				52.3212417141754,
+				-96.9613940931452,
+				52.3791824801605
+			]
+		}
+	]
+}

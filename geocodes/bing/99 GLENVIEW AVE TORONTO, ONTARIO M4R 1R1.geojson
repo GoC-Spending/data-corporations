@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Glenview Ave, Toronto, ON M4R 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb82b3514f0541cc9175f1d7b41cf83e|BN20130631|7.7.0.0|",
+				"addressLine": "99 Glenview Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Glenview Ave, Toronto, ON M4R 1R1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lawrence Park South",
+				"postalCode": "M4R 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40695,
+					43.71951
+				]
+			},
+			"bbox": [
+				-79.4085054,
+				43.7183858,
+				-79.4053946,
+				43.7206342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Torbay Rd, Markham, ON L3R 3W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec4b44f6da3348cf8242a7ae54d4ba41|BN20181720|7.7.0.0|",
+				"addressLine": "205 Torbay Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Torbay Rd, Markham, ON L3R 3W4, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 3W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34555,
+					43.81632
+				]
+			},
+			"bbox": [
+				-79.3471079,
+				43.8151958,
+				-79.3439921,
+				43.8174442
+			]
+		}
+	]
+}

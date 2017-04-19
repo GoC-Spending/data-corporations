@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "640 Mountain Rd, Moncton, NB E1C 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3372b9504ac94c98b8e6c47e47f19ba1|BN20130533|7.7.0.0|",
+				"addressLine": "640 Mountain Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "640 Mountain Rd, Moncton, NB E1C 2P3, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.79908,
+					46.09802
+				]
+			},
+			"bbox": [
+				-64.8007012,
+				46.0968958,
+				-64.7974588,
+				46.0991442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12634 82 Ave, Surrey, BC V3W 3G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60d7b222b9d24657bef2ca5c7011da81|BN20130721|7.7.0.0|",
+				"addressLine": "12634 82 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12634 82 Ave, Surrey, BC V3W 3G1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 3G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87255,
+					49.15175
+				]
+			},
+			"bbox": [
+				-122.8742687,
+				49.1506258,
+				-122.8708313,
+				49.1528742
+			]
+		}
+	]
+}

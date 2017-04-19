@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Priddis, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "509144f5c7a14b45a3d83a54426b1ef2|BN20121762|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Priddis, Alberta, Canada",
+				"locality": "Priddis"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.327453613281,
+					50.8832817077637
+				]
+			},
+			"bbox": [
+				-114.388640882751,
+				50.8543113247711,
+				-114.266266343812,
+				50.9122520907562
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Foothills No 31, T0L 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "509144f5c7a14b45a3d83a54426b1ef2|BN20121762|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Foothills No 31, T0L 1W0, Canada",
+				"locality": "Foothills No 31",
+				"postalCode": "T0L 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.386032104492,
+					50.9004592895508
+				]
+			},
+			"bbox": [
+				-114.394197811237,
+				50.8965965719801,
+				-114.377866397747,
+				50.9043220071215
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "649 McGregor Sdrd, Sarnia, ON N7T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "283c2570079a4bc4b37e90155b262c92|BN20130521|7.7.0.0|",
+				"addressLine": "649 McGregor Sdrd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "649 McGregor Sdrd, Sarnia, ON N7T, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 7H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3688027,
+					42.9542313
+				]
+			},
+			"bbox": [
+				-82.3703386,
+				42.9531071,
+				-82.3672668,
+				42.9553554
+			]
+		}
+	]
+}

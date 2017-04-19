@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "214 College St, Toronto, ON M5T 3A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "662d7cd720244ead84c6c861ab259c41|BN20131519|7.7.0.0|",
+				"addressLine": "214 College St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "214 College St, Toronto, ON M5T 3A1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "University",
+				"postalCode": "M5T 3A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39686,
+					43.65892
+				]
+			},
+			"bbox": [
+				-79.3984139,
+				43.6577958,
+				-79.3953061,
+				43.6600442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "999 W Hastings St, Vancouver, BC V6C 2W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68bc296e42864d6e87dae2e5f2ca8505|BN20300154|7.7.0.0|",
+				"addressLine": "999 W Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "999 W Hastings St, Vancouver, BC V6C 2W2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6C 2W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11606,
+					49.28722
+				]
+			},
+			"bbox": [
+				-123.1177835,
+				49.2860958,
+				-123.1143365,
+				49.2883442
+			]
+		}
+	]
+}

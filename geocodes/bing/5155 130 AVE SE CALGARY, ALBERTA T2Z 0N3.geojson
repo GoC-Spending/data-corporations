@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5155 130 Ave SE, Calgary, AB T2Z 0N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc9bf93f29e24ccdb34445eb31b30ac7|BN20200137|7.7.0.0|",
+				"addressLine": "5155 130 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5155 130 Ave SE, Calgary, AB T2Z 0N3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "McKenzie Towne",
+				"postalCode": "T2Z 0N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.96069,
+					50.93107
+				]
+			},
+			"bbox": [
+				-113.9624736,
+				50.9299458,
+				-113.9589064,
+				50.9321942
+			]
+		}
+	]
+}

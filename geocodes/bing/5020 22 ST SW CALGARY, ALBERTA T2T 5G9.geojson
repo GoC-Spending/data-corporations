@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5020 22 St SW, Calgary, AB T2T 5G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aed5bdfba74b4d07ab3ab79902458ad5|BN20130423|7.7.0.0|",
+				"addressLine": "5020 22 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5020 22 St SW, Calgary, AB T2T 5G9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Altadore",
+				"postalCode": "T2T 5G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.11491,
+					51.00924
+				]
+			},
+			"bbox": [
+				-114.1166967,
+				51.0081158,
+				-114.1131233,
+				51.0103642
+			]
+		}
+	]
+}

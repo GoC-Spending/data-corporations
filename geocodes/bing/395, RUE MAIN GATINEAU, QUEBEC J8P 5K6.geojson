@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "395 Rue Main, Gatineau, QC J8P 5K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "341de0b1163645dcbd6bc48e3a22a2b9|BN20130621|7.7.0.0|",
+				"addressLine": "395 Rue Main",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "395 Rue Main, Gatineau, QC J8P 5K6, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier du Lac-Beuchamp",
+				"postalCode": "J8P 5K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.65249,
+					45.49168
+				]
+			},
+			"bbox": [
+				-75.6540936,
+				45.4905558,
+				-75.6508864,
+				45.4928042
+			]
+		}
+	]
+}

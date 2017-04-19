@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2709 River Rd, Manotick, ON K4M 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4bb110608ef94d35848378cd0fd2b14f|BN20130447|7.7.0.0|",
+				"addressLine": "2709 River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2709 River Rd, Manotick, ON K4M 1B4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Manotick",
+				"postalCode": "K4M 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.62821,
+					45.16293
+				]
+			},
+			"bbox": [
+				-75.6298043,
+				45.1618058,
+				-75.6266157,
+				45.1640542
+			]
+		}
+	]
+}

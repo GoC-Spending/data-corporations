@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1392 Greendale Ter, Oakville, ON L6M 1W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f118af10945c4965a803f134dc566a7a|BN20130632|7.7.0.0|",
+				"addressLine": "1392 Greendale Ter",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1392 Greendale Ter, Oakville, ON L6M 1W5, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Glen Abbey",
+				"postalCode": "L6M 1W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72908,
+					43.44196
+				]
+			},
+			"bbox": [
+				-79.7306283,
+				43.4408358,
+				-79.7275317,
+				43.4430842
+			]
+		}
+	]
+}

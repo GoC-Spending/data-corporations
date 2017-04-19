@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Barr Rd, Ajax, ON L1S 3X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef10d3e583444d27a0c810e8b4d8a24e|BN20130625|7.7.0.0|",
+				"addressLine": "12 Barr Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Barr Rd, Ajax, ON L1S 3X9, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1S 3X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0223,
+					43.83236
+				]
+			},
+			"bbox": [
+				-79.0238584,
+				43.8312358,
+				-79.0207416,
+				43.8334842
+			]
+		}
+	]
+}

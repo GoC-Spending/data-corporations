@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "716 Cole Ave, Ottawa, ON K2A 2B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54d8e7eddcac48b9a12a0df78fa3bcbd|BN20260223|7.7.0.0|",
+				"addressLine": "716 Cole Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "716 Cole Ave, Ottawa, ON K2A 2B7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carlingwood-McKellar Pk-Laurentien",
+				"postalCode": "K2A 2B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.75183,
+					45.3803399
+				]
+			},
+			"bbox": [
+				-75.7534305,
+				45.3792157,
+				-75.7502295,
+				45.3814641
+			]
+		}
+	]
+}

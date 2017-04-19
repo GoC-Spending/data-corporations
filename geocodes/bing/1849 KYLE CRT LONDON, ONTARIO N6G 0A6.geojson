@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1849 Kyle Ct, London, ON N6G 0A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56306e60119846fe8870d67d26bffc2d|CO30276339|7.7.0.0|",
+				"addressLine": "1849 Kyle Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1849 Kyle Ct, London, ON N6G 0A6, Canada",
+				"locality": "London",
+				"neighborhood": "Hyde Park",
+				"postalCode": "N6G 0A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3253,
+					43.007
+				]
+			},
+			"bbox": [
+				-81.3268373,
+				43.0058758,
+				-81.3237627,
+				43.0081242
+			]
+		}
+	]
+}

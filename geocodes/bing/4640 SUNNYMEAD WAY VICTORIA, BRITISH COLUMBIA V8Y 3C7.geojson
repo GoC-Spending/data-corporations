@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4640 Sunnymead Way, Saanich, BC V8Y 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af466985511c4e129b2bd0b22c3e5515|BN20130431|7.7.0.0|",
+				"addressLine": "4640 Sunnymead Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4640 Sunnymead Way, Saanich, BC V8Y 3C7, Canada",
+				"locality": "Saanich",
+				"postalCode": "V8Y 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36311,
+					48.5058999
+				]
+			},
+			"bbox": [
+				-123.3648067,
+				48.5047757,
+				-123.3614133,
+				48.5070241
+			]
+		}
+	]
+}

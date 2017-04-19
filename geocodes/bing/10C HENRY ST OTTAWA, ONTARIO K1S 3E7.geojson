@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Henry St, Ottawa, ON K1S 3E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0ecf7e689ad4ff1a8a9cc36b5842f2c|BN20130422|7.7.0.0|",
+				"addressLine": "10 Henry St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Henry St, Ottawa, ON K1S 3E7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "West Centre Town-Little Italy-Civic",
+				"postalCode": "K1S 3E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70376,
+					45.40188
+				]
+			},
+			"bbox": [
+				-75.7053611,
+				45.4007558,
+				-75.7021589,
+				45.4030042
+			]
+		}
+	]
+}

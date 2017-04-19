@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6760 Baldwin St N, Whitby, ON L1M 1X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a03972d763ad4e519d72e39ac97327c6|BN20130422|7.7.0.0|",
+				"addressLine": "6760 Baldwin St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "6760 Baldwin St N, Whitby, ON L1M 1X8, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1M 1X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9594117,
+					43.9683891
+				]
+			},
+			"bbox": [
+				-78.9609736,
+				43.9672649,
+				-78.9578498,
+				43.9695132
+			]
+		}
+	]
+}

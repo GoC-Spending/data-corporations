@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Clifton Rd, Toronto, ON M4T 2G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7c5285f04b8488ba1a4fe2ab0f119df|BN20130520|7.7.0.0|",
+				"addressLine": "101 Clifton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Clifton Rd, Toronto, ON M4T 2G3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rosedale-Moore Park",
+				"postalCode": "M4T 2G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38469,
+					43.69163
+				]
+			},
+			"bbox": [
+				-79.3862447,
+				43.6905058,
+				-79.3831353,
+				43.6927542
+			]
+		}
+	]
+}

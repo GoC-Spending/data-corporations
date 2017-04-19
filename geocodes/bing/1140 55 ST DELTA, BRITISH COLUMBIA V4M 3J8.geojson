@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1140 55 St, Delta, BC V4M 3J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c35615bf6c0474b91491dbe60dc3e42|BN20130621|7.7.0.0|",
+				"addressLine": "1140 55 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1140 55 St, Delta, BC V4M 3J8, Canada",
+				"locality": "Delta",
+				"neighborhood": "Tsawwassen",
+				"postalCode": "V4M 3J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07111,
+					49.0236
+				]
+			},
+			"bbox": [
+				-123.0728243,
+				49.0224758,
+				-123.0693957,
+				49.0247242
+			]
+		}
+	]
+}

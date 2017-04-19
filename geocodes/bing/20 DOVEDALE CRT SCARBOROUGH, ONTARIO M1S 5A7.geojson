@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Dovedale Ct, Scarborough, ON M1S 5A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcded14b597249c288ba5046a660d9ad|BN20121763|7.7.0.0|",
+				"addressLine": "20 Dovedale Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Dovedale Ct, Scarborough, ON M1S 5A7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 5A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2471,
+					43.79555
+				]
+			},
+			"bbox": [
+				-79.2486574,
+				43.7944258,
+				-79.2455426,
+				43.7966742
+			]
+		}
+	]
+}

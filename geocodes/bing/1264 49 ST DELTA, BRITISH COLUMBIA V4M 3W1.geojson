@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1264 49th St, Delta, BC V4M 3W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d53d183edf144c66ade76b20b9e04595|BN20121763|7.7.0.0|",
+				"addressLine": "1264 49th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1264 49th St, Delta, BC V4M 3W1, Canada",
+				"locality": "Delta",
+				"neighborhood": "Tsawwassen",
+				"postalCode": "V4M 3W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08719,
+					49.02603
+				]
+			},
+			"bbox": [
+				-123.0889044,
+				49.0249058,
+				-123.0854756,
+				49.0271542
+			]
+		}
+	]
+}

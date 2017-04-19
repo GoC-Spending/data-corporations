@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "451 Paul St, Dieppe, NB E1A 6W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c585a51bf7dd4163946f310c2a061ad6|BN20130522|7.7.0.0|",
+				"addressLine": "451 Paul St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "451 Paul St, Dieppe, NB E1A 6W8, Canada",
+				"locality": "Dieppe",
+				"postalCode": "E1A 6W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.75689,
+					46.09518
+				]
+			},
+			"bbox": [
+				-64.7585111,
+				46.0940558,
+				-64.7552689,
+				46.0963042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Kingsmount Park Rd, Toronto, ON M4L 3L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "17d8fd31b2fa440fb95e34570e9b7d55|BN20130530|7.7.0.0|",
+				"addressLine": "91 Kingsmount Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Kingsmount Park Rd, Toronto, ON M4L 3L3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woodbine Corridor",
+				"postalCode": "M4L 3L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31165,
+					43.67816
+				]
+			},
+			"bbox": [
+				-79.3132043,
+				43.6770358,
+				-79.3100957,
+				43.6792842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1550 Kossuth Rd, Cambridge, ON N3H 4R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b43b7d38245548c5a99a0d3662970aa1|BN20130522|7.7.0.0|",
+				"addressLine": "1550 Kossuth Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1550 Kossuth Rd, Cambridge, ON N3H 4R6, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N3H 4R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.34945,
+					43.45903
+				]
+			},
+			"bbox": [
+				-80.3509987,
+				43.4579058,
+				-80.3479013,
+				43.4601542
+			]
+		}
+	]
+}

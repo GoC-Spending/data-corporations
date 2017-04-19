@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7885 Riverfront Gate, Burnaby, BC V5J 5L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83d3284e7262426ca8c7aefdc4d01828|BN20200239|7.7.0.0|",
+				"addressLine": "7885 Riverfront Gate",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7885 Riverfront Gate, Burnaby, BC V5J 5L6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9893059,
+					49.18785
+				]
+			},
+			"bbox": [
+				-122.9910259,
+				49.1867258,
+				-122.9875859,
+				49.1889742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "631 39e Avenue, La Salle, QC H8P 2Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0e5e522b35fd493bbcb6021f0d1ad6ea|BN20130532|7.7.0.0|",
+				"addressLine": "631 39e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "631 39e Avenue, La Salle, QC H8P 2Y3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8P 2Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.61585,
+					45.41933
+				]
+			},
+			"bbox": [
+				-73.6174516,
+				45.4182058,
+				-73.6142484,
+				45.4204542
+			]
+		}
+	]
+}

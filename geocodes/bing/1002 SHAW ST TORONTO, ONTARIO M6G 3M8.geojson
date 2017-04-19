@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1002 Shaw St, Toronto, ON M6G 3M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ccc70b790275474e9d3d1e6435a8fc9f|BN20130442|7.7.0.0|",
+				"addressLine": "1002 Shaw St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1002 Shaw St, Toronto, ON M6G 3M8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6G 3M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42582,
+					43.66825
+				]
+			},
+			"bbox": [
+				-79.4273741,
+				43.6671258,
+				-79.4242659,
+				43.6693742
+			]
+		}
+	]
+}

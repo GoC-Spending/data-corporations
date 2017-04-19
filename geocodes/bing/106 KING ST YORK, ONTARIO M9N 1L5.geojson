@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 King St, York, ON M9N 1L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e72ab82562484a8c8e1c1842d2590a28|BN20190653|7.7.0.0|",
+				"addressLine": "106 King St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 King St, York, ON M9N 1L5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Weston",
+				"postalCode": "M9N 1L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.51558,
+					43.7063
+				]
+			},
+			"bbox": [
+				-79.5171351,
+				43.7051758,
+				-79.5140249,
+				43.7074242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Clover Ln, Calgary, AB T3Z 1G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53f3aeeba97e4025890bae16f908adad|BN20130621|7.7.0.0|",
+				"addressLine": "24 Clover Ln",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Clover Ln, Calgary, AB T3Z 1G9, Canada",
+				"locality": "Rocky View County",
+				"neighborhood": "Calgary",
+				"postalCode": "T3Z 1G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.32375,
+					51.09881
+				]
+			},
+			"bbox": [
+				-114.3255401,
+				51.0976858,
+				-114.3219599,
+				51.0999342
+			]
+		}
+	]
+}

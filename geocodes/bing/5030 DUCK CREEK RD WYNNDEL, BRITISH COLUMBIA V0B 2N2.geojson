@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Duck Creek Rd, Wynndel, BC V0B 2N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62191c720f464bd2af959d0705bd4371|BN20130442|7.7.0.0|",
+				"addressLine": "Duck Creek Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Duck Creek Rd, Wynndel, BC V0B 2N2, Canada",
+				"locality": "Central Kootenay",
+				"neighborhood": "Wynndel",
+				"postalCode": "V0B 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.55264,
+					49.18084
+				]
+			},
+			"bbox": [
+				-116.55314,
+				49.18018,
+				-116.53508,
+				49.20024
+			]
+		}
+	]
+}

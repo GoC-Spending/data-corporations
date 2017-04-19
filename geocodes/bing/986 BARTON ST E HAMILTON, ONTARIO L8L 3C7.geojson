@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "986 Barton St E, Hamilton, ON L8L 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5d5f2462a89439cb59175e684f6d080|BN20130620|7.7.0.0|",
+				"addressLine": "986 Barton St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "986 Barton St E, Hamilton, ON L8L 3C7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Crown Point West",
+				"postalCode": "L8L 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82116,
+					43.25227
+				]
+			},
+			"bbox": [
+				-79.8227034,
+				43.2511458,
+				-79.8196166,
+				43.2533942
+			]
+		}
+	]
+}

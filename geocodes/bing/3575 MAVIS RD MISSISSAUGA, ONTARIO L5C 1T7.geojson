@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3575 Mavis Rd, Mississauga, ON L5C 1T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f78950e5059b43d8b6b4dede39296ef4|BN20130442|7.7.0.0|",
+				"addressLine": "3575 Mavis Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "3575 Mavis Rd, Mississauga, ON L5C 1T7, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5C 1T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64874,
+					43.57778
+				]
+			},
+			"bbox": [
+				-79.6502918,
+				43.5766558,
+				-79.6471882,
+				43.5789042
+			]
+		}
+	]
+}

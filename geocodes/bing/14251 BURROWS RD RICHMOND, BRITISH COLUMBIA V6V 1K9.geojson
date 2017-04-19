@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14251 Burrows Rd, Richmond, BC V6V 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6dc51c86b5ed4d34a51bbf968296d4bb|BN20190642|7.7.0.0|",
+				"addressLine": "14251 Burrows Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "14251 Burrows Rd, Richmond, BC V6V 1K9, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Richmond",
+				"postalCode": "V6V 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.065671,
+					49.1975208
+				]
+			},
+			"bbox": [
+				-123.0673913,
+				49.1963967,
+				-123.0639506,
+				49.198645
+			]
+		}
+	]
+}

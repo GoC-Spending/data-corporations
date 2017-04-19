@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Simpson Rd, Bolton, ON L7E 1Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c48182d5662c4362b5d7db5984b0ff19|BN20190653|7.7.0.0|",
+				"addressLine": "40 Simpson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Simpson Rd, Bolton, ON L7E 1Y4, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 1Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7186214,
+					43.8546901
+				]
+			},
+			"bbox": [
+				-79.7201803,
+				43.853566,
+				-79.7170624,
+				43.8558143
+			]
+		}
+	]
+}

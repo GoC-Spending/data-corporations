@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "235 Main St W, Huntsville, ON P1H 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "710d6dd9673140ebbb77494e576a21ec|BN20200137|7.7.0.0|",
+				"addressLine": "235 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "235 Main St W, Huntsville, ON P1H 1Y1, Canada",
+				"locality": "Huntsville",
+				"postalCode": "P1H 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24179,
+					45.31379
+				]
+			},
+			"bbox": [
+				-79.2433886,
+				45.3126658,
+				-79.2401914,
+				45.3149142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "547 Sammon Ave, East York, ON M4J 2B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6bfa5d90c63c4140abb129c76f0439dc|BN20130521|7.7.0.0|",
+				"addressLine": "547 Sammon Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "547 Sammon Ave, East York, ON M4J 2B3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Danforth Village-East York",
+				"postalCode": "M4J 2B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.32612,
+					43.6885199
+				]
+			},
+			"bbox": [
+				-79.3276746,
+				43.6873957,
+				-79.3245654,
+				43.6896441
+			]
+		}
+	]
+}

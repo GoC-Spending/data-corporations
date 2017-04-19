@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11168 Hammersmith Gate, Richmond, BC V7A 5H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5abc7ed2c46f4921b284a0ec55a0ff8f|BN20240423|7.7.0.0|",
+				"addressLine": "11168 Hammersmith Gate",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "11168 Hammersmith Gate, Richmond, BC V7A 5H8, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Shellmont",
+				"postalCode": "V7A 5H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10161,
+					49.1268699
+				]
+			},
+			"bbox": [
+				-123.1033279,
+				49.1257457,
+				-123.0998921,
+				49.1279941
+			]
+		}
+	]
+}

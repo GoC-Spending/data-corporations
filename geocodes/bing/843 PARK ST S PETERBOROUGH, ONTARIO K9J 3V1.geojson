@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "843 Park St S, Peterborough, ON K9J 3V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0089bea41964181bb49b589ea8855de|BN20250135|7.7.0.0|",
+				"addressLine": "843 Park St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "843 Park St S, Peterborough, ON K9J 3V1, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 3V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3222924,
+					44.2869127
+				]
+			},
+			"bbox": [
+				-78.3238628,
+				44.2857886,
+				-78.3207221,
+				44.2880369
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1358 Queen St, Halifax, NS B3J 2H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68b6326f399441c09022c696660c6ce5|BN20200239|7.7.0.0|",
+				"addressLine": "1358 Queen St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1358 Queen St, Halifax, NS B3J 2H5, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Downtown Halifax",
+				"postalCode": "B3J 2H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57545,
+					44.6418899
+				]
+			},
+			"bbox": [
+				-63.5770299,
+				44.6407657,
+				-63.5738701,
+				44.6430141
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1036 Green Valley Rd, London, ON N6N 1E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dfcbc46d3d9d455baf1ff2dff0ac9d1c|BN20260223|7.7.0.0|",
+				"addressLine": "1036 Green Valley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1036 Green Valley Rd, London, ON N6N 1E3, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6N 1E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1969599,
+					42.9216489
+				]
+			},
+			"bbox": [
+				-81.1984951,
+				42.9205248,
+				-81.1954248,
+				42.9227731
+			]
+		}
+	]
+}

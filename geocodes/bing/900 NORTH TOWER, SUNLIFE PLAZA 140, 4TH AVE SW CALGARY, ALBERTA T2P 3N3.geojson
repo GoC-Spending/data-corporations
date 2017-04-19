@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 4 Ave SW, Calgary, AB T2P 3N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec434a7c0e4e49c7b372b6289e2df763|BN20300154|7.7.0.0|",
+				"addressLine": "140 4 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 4 Ave SW, Calgary, AB T2P 3N3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Downtown",
+				"postalCode": "T2P 3N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06456,
+					51.04957
+				]
+			},
+			"bbox": [
+				-114.0663482,
+				51.0484458,
+				-114.0627718,
+				51.0506942
+			]
+		}
+	]
+}

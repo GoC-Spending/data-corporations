@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Harvey St, Kingston, ON K7K 5C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58fb3e88bd734189857ed3092c32615f|BN20130634|7.7.0.0|",
+				"addressLine": "107 Harvey St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Harvey St, Kingston, ON K7K 5C1, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Rideau Heights",
+				"postalCode": "K7K 5C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.4933,
+					44.25601
+				]
+			},
+			"bbox": [
+				-76.4948695,
+				44.2548858,
+				-76.4917305,
+				44.2571342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "278 George St, Cobourg, ON K9A 3L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a854a5a9a4044d6281d211a19cfe15c5|BN20130532|7.7.0.0|",
+				"addressLine": "278 George St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "278 George St, Cobourg, ON K9A 3L8, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 3L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.16816,
+					43.96065
+				]
+			},
+			"bbox": [
+				-78.1697217,
+				43.9595258,
+				-78.1665983,
+				43.9617742
+			]
+		}
+	]
+}

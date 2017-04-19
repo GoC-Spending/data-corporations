@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1575 Franklin St, Vancouver, BC V5L 1P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d052d39627f4bd9904b88061bc1c719|BN20130634|7.7.0.0|",
+				"addressLine": "1575 Franklin St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1575 Franklin St, Vancouver, BC V5L 1P3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5L 1P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07342,
+					49.2825
+				]
+			},
+			"bbox": [
+				-123.0751433,
+				49.2813758,
+				-123.0716967,
+				49.2836242
+			]
+		}
+	]
+}

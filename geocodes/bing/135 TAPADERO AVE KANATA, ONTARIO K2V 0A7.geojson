@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Avenue Tapadero, Stittsville, ON K2V 0A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5ff51e516004f5cba4ab3d31d4c5738|BN20130632|7.7.0.0|",
+				"addressLine": "135 Avenue Tapadero",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Avenue Tapadero, Stittsville, ON K2V 0A7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2V 0A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8850385,
+					45.2749742
+				]
+			},
+			"bbox": [
+				-75.886636,
+				45.27385,
+				-75.883441,
+				45.2760983
+			]
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Whitehorse, Y1A 5M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa5c7efb35224af8b0c793702eefe989|BN20280152|7.7.0.0|",
+				"adminDistrict": "YT",
+				"adminDistrict2": "Yukon",
+				"countryRegion": "Canada",
+				"formattedAddress": "Whitehorse, Y1A 5M2, Canada",
+				"locality": "Whitehorse",
+				"postalCode": "Y1A 5M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-135.05322265625,
+					60.7208518981934
+				]
+			},
+			"bbox": [
+				-135.063752280094,
+				60.7169891806227,
+				-135.042693032406,
+				60.724714615764
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rome, GA 30165",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa5c7efb35224af8b0c793702eefe989|BN20280152|7.7.0.0|",
+				"adminDistrict": "GA",
+				"adminDistrict2": "Floyd",
+				"countryRegion": "United States",
+				"formattedAddress": "Rome, GA 30165",
+				"locality": "Rome",
+				"postalCode": "30165"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-85.1796188354492,
+					34.2622566223145
+				]
+			},
+			"bbox": [
+				-85.4792633056641,
+				34.1811294555664,
+				-85.077522277832,
+				34.4382514953613
+			]
+		}
+	]
+}

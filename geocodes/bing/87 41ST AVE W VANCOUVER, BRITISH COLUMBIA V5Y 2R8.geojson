@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "87 W 41st Ave, Vancouver, BC V5Y 2R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97a9ebff13424478bb94b29ef24b3d19|BN20280152|7.7.0.0|",
+				"addressLine": "87 W 41st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "87 W 41st Ave, Vancouver, BC V5Y 2R8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5Y 2R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10763,
+					49.23351
+				]
+			},
+			"bbox": [
+				-123.1093516,
+				49.2323858,
+				-123.1059084,
+				49.2346342
+			]
+		}
+	]
+}

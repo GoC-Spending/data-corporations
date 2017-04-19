@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11703 160 St NW, Edmonton, AB T5M 3Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4786d9c1d8948f69e3502277c1f6ee3|BN20320521|7.7.0.0|",
+				"addressLine": "11703 160 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11703 160 St NW, Edmonton, AB T5M 3Z3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Alberta Park Industrial",
+				"postalCode": "T5M 3Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.59612,
+					53.56893
+				]
+			},
+			"bbox": [
+				-113.598013,
+				53.5678058,
+				-113.594227,
+				53.5700542
+			]
+		}
+	]
+}

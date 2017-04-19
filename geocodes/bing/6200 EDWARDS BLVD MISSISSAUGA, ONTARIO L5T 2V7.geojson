@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6200 Edwards Blvd, Mississauga, ON L5T 2V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c05fe226731467e8b2af430c7a5ef51|BN20130532|7.7.0.0|",
+				"addressLine": "6200 Edwards Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6200 Edwards Blvd, Mississauga, ON L5T 2V7, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5T 2V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6825527,
+					43.6343193
+				]
+			},
+			"bbox": [
+				-79.6841059,
+				43.6331952,
+				-79.6809995,
+				43.6354435
+			]
+		}
+	]
+}

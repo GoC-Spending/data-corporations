@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "88 Ryland Ave, Truro, NS B2N 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5a382a5e6554bab9f5a27f58fbf312b|BN20210145|7.7.0.0|",
+				"addressLine": "88 Ryland Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "88 Ryland Ave, Truro, NS B2N 2V4, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Truro",
+				"postalCode": "B2N 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.2662918,
+					45.3754313
+				]
+			},
+			"bbox": [
+				-63.2678921,
+				45.3743072,
+				-63.2646915,
+				45.3765555
+			]
+		}
+	]
+}

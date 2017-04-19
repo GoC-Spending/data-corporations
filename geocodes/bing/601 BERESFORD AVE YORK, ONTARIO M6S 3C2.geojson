@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "601 Beresford Ave, York, ON M6S 3C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "26533c5f0c444fb8b01708bb305cdb91|BN20130530|7.7.0.0|",
+				"addressLine": "601 Beresford Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "601 Beresford Ave, York, ON M6S 3C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 3C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48189,
+					43.6622
+				]
+			},
+			"bbox": [
+				-79.4834439,
+				43.6610758,
+				-79.4803361,
+				43.6633242
+			]
+		}
+	]
+}

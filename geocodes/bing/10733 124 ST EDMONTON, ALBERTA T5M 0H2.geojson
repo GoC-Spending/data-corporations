@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10733 124 St NW, Edmonton, AB T5M 0H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45f4eead56c74c77b6996ade6b38430f|BN20130520|7.7.0.0|",
+				"addressLine": "10733 124 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10733 124 St NW, Edmonton, AB T5M 0H2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Westmount",
+				"postalCode": "T5M 0H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5355,
+					53.55197
+				]
+			},
+			"bbox": [
+				-113.5373922,
+				53.5508458,
+				-113.5336078,
+				53.5530942
+			]
+		}
+	]
+}

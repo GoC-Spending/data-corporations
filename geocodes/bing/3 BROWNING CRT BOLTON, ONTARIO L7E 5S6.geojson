@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Browning Ct, Bolton, ON L7E 1G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4e84c9ee38743e3bf0f1d8eecd86551|BN20130533|7.7.0.0|",
+				"addressLine": "3 Browning Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Browning Ct, Bolton, ON L7E 1G8, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 1G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7312,
+					43.86286
+				]
+			},
+			"bbox": [
+				-79.7327592,
+				43.8617358,
+				-79.7296408,
+				43.8639842
+			]
+		}
+	]
+}

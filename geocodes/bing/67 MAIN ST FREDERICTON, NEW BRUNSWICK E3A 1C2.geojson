@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Main St, Fredericton, NB E3A 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1a43a9a774334c9fafd1edb7b1695b0c|BN20130621|7.7.0.0|",
+				"addressLine": "67 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Main St, Fredericton, NB E3A 1C2, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3A 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.66148,
+					45.98203
+				]
+			},
+			"bbox": [
+				-66.6630978,
+				45.9809058,
+				-66.6598622,
+				45.9831542
+			]
+		}
+	]
+}

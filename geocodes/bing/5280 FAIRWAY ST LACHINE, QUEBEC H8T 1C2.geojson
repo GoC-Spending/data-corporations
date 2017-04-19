@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5280 Rue Fairway, Lachine, QC H8T 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fda396ce6b0044a7ab8ccc80db7cb72a|BN20160335|7.7.0.0|",
+				"addressLine": "5280 Rue Fairway",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "5280 Rue Fairway, Lachine, QC H8T 1C2, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.71968,
+					45.45331
+				]
+			},
+			"bbox": [
+				-73.7212825,
+				45.4521858,
+				-73.7180775,
+				45.4544342
+			]
+		}
+	]
+}

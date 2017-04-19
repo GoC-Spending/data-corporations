@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "489 Clair Rd W, Guelph, ON N1L 0H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0cad85462be4d758bcd478f6c584423|BN20160335|7.7.0.0|",
+				"addressLine": "489 Clair Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "489 Clair Rd W, Guelph, ON N1L 0H7, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Clairfields/Hanlon Business Park",
+				"postalCode": "N1L 0H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2037843,
+					43.489397
+				]
+			},
+			"bbox": [
+				-80.2053338,
+				43.4882729,
+				-80.2022348,
+				43.4905212
+			]
+		}
+	]
+}

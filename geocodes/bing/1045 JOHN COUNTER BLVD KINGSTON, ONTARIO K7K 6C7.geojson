@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1045 John Counter Blvd, Kingston, ON K7K 6C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30b566956c1e413d84c3f4f0f329464a|BN20130625|7.7.0.0|",
+				"addressLine": "1045 John Counter Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "1045 John Counter Blvd, Kingston, ON K7K 6C7, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Alcan",
+				"postalCode": "K7K 6C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.50011,
+					44.2598399
+				]
+			},
+			"bbox": [
+				-76.5016796,
+				44.2587157,
+				-76.4985404,
+				44.2609641
+			]
+		}
+	]
+}

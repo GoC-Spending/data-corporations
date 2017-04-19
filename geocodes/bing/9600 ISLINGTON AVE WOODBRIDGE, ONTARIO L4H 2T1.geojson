@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9600 Islington Ave, Woodbridge, ON L4H 2T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4557768b2f30485183e94955123360ef|BN20320521|7.7.0.0|",
+				"addressLine": "9600 Islington Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "9600 Islington Ave, Woodbridge, ON L4H 2T1, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4H 2T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6097,
+					43.82457
+				]
+			},
+			"bbox": [
+				-79.6112582,
+				43.8234458,
+				-79.6081418,
+				43.8256942
+			]
+		}
+	]
+}

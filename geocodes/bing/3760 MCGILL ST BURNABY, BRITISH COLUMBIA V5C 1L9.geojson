@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3760 McGill St, Burnaby, BC V5C 1L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22a734c78ab74bc8b4ff6f760fd32ade|BN20130530|7.7.0.0|",
+				"addressLine": "3760 McGill St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3760 McGill St, Burnaby, BC V5C 1L9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Burnaby Heights",
+				"postalCode": "V5C 1L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02134,
+					49.2881
+				]
+			},
+			"bbox": [
+				-123.0230635,
+				49.2869758,
+				-123.0196165,
+				49.2892242
+			]
+		}
+	]
+}

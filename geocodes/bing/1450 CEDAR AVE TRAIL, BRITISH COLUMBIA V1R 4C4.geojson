@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1450 Cedar Ave, Trail, BC V1R 4C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90d4a0121f0c4b049a3e974b177bb99f|BN20130719|7.7.0.0|",
+				"addressLine": "1450 Cedar Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Kootenay Boundary",
+				"countryRegion": "Canada",
+				"formattedAddress": "1450 Cedar Ave, Trail, BC V1R 4C4, Canada",
+				"locality": "Trail",
+				"postalCode": "V1R 4C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.7080221,
+					49.0946303
+				]
+			},
+			"bbox": [
+				-117.7097389,
+				49.0935062,
+				-117.7063053,
+				49.0957545
+			]
+		}
+	]
+}

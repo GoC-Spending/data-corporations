@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4196 Main St, Vancouver, BC V5V 3P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64b097d29da648f186dab31d6dfc877e|BN20260231|7.7.0.0|",
+				"addressLine": "4196 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4196 Main St, Vancouver, BC V5V 3P7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5V 3P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1009361,
+					49.2477138
+				]
+			},
+			"bbox": [
+				-123.1026582,
+				49.2465897,
+				-123.099214,
+				49.248838
+			]
+		}
+	]
+}

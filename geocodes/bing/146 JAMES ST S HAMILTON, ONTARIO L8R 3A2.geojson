@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "146 James St S, Hamilton, ON L8P 3A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "145822075727480b84176383346570c6|BN20220145|7.7.0.0|",
+				"addressLine": "146 James St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "146 James St S, Hamilton, ON L8P 3A2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Durand",
+				"postalCode": "L8P 3A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8713,
+					43.2524299
+				]
+			},
+			"bbox": [
+				-79.8728434,
+				43.2513057,
+				-79.8697566,
+				43.2535541
+			]
+		}
+	]
+}

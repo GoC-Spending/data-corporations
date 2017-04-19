@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "151 Tiffield Rd, Scarborough, ON M1V 5M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adb9695728de43c79e5fd58fa4ef8cd0|BN20130533|7.7.0.0|",
+				"addressLine": "151 Tiffield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "151 Tiffield Rd, Scarborough, ON M1V 5M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 5M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25744,
+					43.81677
+				]
+			},
+			"bbox": [
+				-79.258998,
+				43.8156458,
+				-79.255882,
+				43.8178942
+			]
+		}
+	]
+}

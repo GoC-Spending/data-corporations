@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "991 Main St, Sydney Mines, NS B1V 2M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9188c634047e4e87bcc5018ea87ec159|BN20200137|7.7.0.0|",
+				"addressLine": "991 Main St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "991 Main St, Sydney Mines, NS B1V 2M7, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney Mines",
+				"postalCode": "B1V 2M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.24143,
+					46.24035
+				]
+			},
+			"bbox": [
+				-60.2430554,
+				46.2392258,
+				-60.2398046,
+				46.2414742
+			]
+		}
+	]
+}

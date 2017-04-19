@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7900 Nelson Rd, Richmond, BC V6W 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e80472b57ae4551a63271809f1e9c1c|BN20130625|7.7.0.0|",
+				"addressLine": "7900 Nelson Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7900 Nelson Rd, Richmond, BC V6W 1G4, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Richmond",
+				"postalCode": "V6W 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0126452,
+					49.1555938
+				]
+			},
+			"bbox": [
+				-123.0143641,
+				49.1544697,
+				-123.0109264,
+				49.156718
+			]
+		}
+	]
+}

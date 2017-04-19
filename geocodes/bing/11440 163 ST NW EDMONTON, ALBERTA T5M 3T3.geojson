@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11440 163 St NW, Edmonton, AB T5M 3T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "021df0e789844c1a828160506911edcf|BN20280152|7.7.0.0|",
+				"addressLine": "11440 163 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11440 163 St NW, Edmonton, AB T5M 3T3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Norwester Industrial",
+				"postalCode": "T5M 3T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.60394,
+					53.5641
+				]
+			},
+			"bbox": [
+				-113.6058328,
+				53.5629758,
+				-113.6020472,
+				53.5652242
+			]
+		}
+	]
+}

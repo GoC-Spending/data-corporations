@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Stone Rd W, Guelph, ON N1G 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94970ebc331848ccb44ec4f27cff63ad|BN20220145|7.7.0.0|",
+				"addressLine": "95 Stone Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Stone Rd W, Guelph, ON N1G 2Z4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Old University",
+				"postalCode": "N1G 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2284389,
+					43.5240502
+				]
+			},
+			"bbox": [
+				-80.2299893,
+				43.5229261,
+				-80.2268885,
+				43.5251744
+			]
+		}
+	]
+}

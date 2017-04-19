@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14307 129 Ave NW, Edmonton, AB T5L 4N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e338a785063e4e438364c382e82ddbb1|BN20130423|7.7.0.0|",
+				"addressLine": "14307 129 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14307 129 Ave NW, Edmonton, AB T5L 4N9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Bonaventure Industrial",
+				"postalCode": "T5L 4N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.56762,
+					53.58704
+				]
+			},
+			"bbox": [
+				-113.5695138,
+				53.5859158,
+				-113.5657262,
+				53.5881642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 Hill Crst, Hamilton, ON L9G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85e3d2a92a634eac8223adc09c45e03b|BN20220145|7.7.0.0|",
+				"addressLine": "81 Hill Crst",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 Hill Crst, Hamilton, ON L9G, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9G 3A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9721,
+					43.2269999
+				]
+			},
+			"bbox": [
+				-79.9736428,
+				43.2258757,
+				-79.9705572,
+				43.2281241
+			]
+		}
+	]
+}

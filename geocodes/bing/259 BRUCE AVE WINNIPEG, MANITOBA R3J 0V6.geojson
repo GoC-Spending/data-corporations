@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "259 Bruce Ave, Winnipeg, MB R3J 0V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8decc6997554d189809620f87b33c7e|BN20130719|7.7.0.0|",
+				"addressLine": "259 Bruce Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "259 Bruce Ave, Winnipeg, MB R3J 0V6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Silver Heights",
+				"postalCode": "R3J 0V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.255,
+					49.88293
+				]
+			},
+			"bbox": [
+				-97.2567446,
+				49.8818058,
+				-97.2532554,
+				49.8840542
+			]
+		}
+	]
+}

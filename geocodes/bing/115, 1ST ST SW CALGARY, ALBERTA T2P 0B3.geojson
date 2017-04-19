@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 1 St SW, Calgary, AB T2P 0B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "baa89d71db5744ae90a560447e0c3922|BN20250135|7.7.0.0|",
+				"addressLine": "115 1 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 1 St SW, Calgary, AB T2P 0B3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Downtown",
+				"postalCode": "T2P 0B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06517,
+					51.05203
+				]
+			},
+			"bbox": [
+				-114.0669583,
+				51.0509058,
+				-114.0633817,
+				51.0531542
+			]
+		}
+	]
+}

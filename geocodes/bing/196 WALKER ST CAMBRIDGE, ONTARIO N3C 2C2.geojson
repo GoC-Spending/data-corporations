@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "196 Walker St, Cambridge, ON N3C 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f28753e23a9d492fbb46ec3d515232f3|BN20130431|7.7.0.0|",
+				"addressLine": "196 Walker St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "196 Walker St, Cambridge, ON N3C 2C2, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "East Hespeler",
+				"postalCode": "N3C 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3038399,
+					43.43494
+				]
+			},
+			"bbox": [
+				-80.305388,
+				43.4338158,
+				-80.3022918,
+				43.4360642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "139 Bonaventure St, Annapolis, NS B0S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4625b22eed6342c7a44d7ae0d5c65117|BN20130631|7.7.0.0|",
+				"addressLine": "139 Bonaventure St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Annapolis",
+				"countryRegion": "Canada",
+				"formattedAddress": "139 Bonaventure St, Annapolis, NS B0S, Canada",
+				"locality": "Annapolis",
+				"neighborhood": "Cornwallis",
+				"postalCode": "B0S 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.6324999,
+					44.65384
+				]
+			},
+			"bbox": [
+				-65.6340802,
+				44.6527158,
+				-65.6309196,
+				44.6549642
+			]
+		}
+	]
+}

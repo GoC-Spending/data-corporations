@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "270 Whonoak Rd, West Vancouver, BC V7P 1P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a558362d58cd4caab6e497a717278c8b|BN20130621|7.7.0.0|",
+				"addressLine": "270 Whonoak Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "270 Whonoak Rd, West Vancouver, BC V7P 1P3, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Capilano Indian Reserve 5",
+				"postalCode": "V7P 1P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1209393,
+					49.3210519
+				]
+			},
+			"bbox": [
+				-123.122664,
+				49.3199277,
+				-123.1192147,
+				49.322176
+			]
+		}
+	]
+}

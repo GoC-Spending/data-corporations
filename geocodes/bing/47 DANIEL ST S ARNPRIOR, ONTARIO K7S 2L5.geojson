@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "47 Daniel St S, Arnprior, ON K7S 2L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "223403b4143d451485fee600916e1d13|BN20260223|7.7.0.0|",
+				"addressLine": "47 Daniel St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "47 Daniel St S, Arnprior, ON K7S 2L5, Canada",
+				"locality": "Arnprior",
+				"postalCode": "K7S 2L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.35921,
+					45.42925
+				]
+			},
+			"bbox": [
+				-76.3608118,
+				45.4281258,
+				-76.3576082,
+				45.4303742
+			]
+		}
+	]
+}

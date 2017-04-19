@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "312 Lenel Ct, Mississauga, ON L5A 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "539acffd8ab34b0689c54a25fcc0f7cc|BN20130422|7.7.0.0|",
+				"addressLine": "312 Lenel Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "312 Lenel Ct, Mississauga, ON L5A 1R9, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5A 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60333,
+					43.5831
+				]
+			},
+			"bbox": [
+				-79.6048819,
+				43.5819758,
+				-79.6017781,
+				43.5842242
+			]
+		}
+	]
+}

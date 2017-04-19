@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1285 W Pender St, Vancouver, BC V6E 4B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01dab38b6cd342979c4c81fbc9fcf0a2|BN20171457|7.7.0.0|",
+				"addressLine": "1285 W Pender St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1285 W Pender St, Vancouver, BC V6E 4B1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Coal Harbour",
+				"postalCode": "V6E 4B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12476,
+					49.28908
+				]
+			},
+			"bbox": [
+				-123.1264835,
+				49.2879558,
+				-123.1230365,
+				49.2902042
+			]
+		}
+	]
+}

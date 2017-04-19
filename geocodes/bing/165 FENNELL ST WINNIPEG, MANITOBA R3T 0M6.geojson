@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Fennell St, Winnipeg, MB R3T 0M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06bffcd2332840d49895d0bedb8c3351|BN20130423|7.7.0.0|",
+				"addressLine": "165 Fennell St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Fennell St, Winnipeg, MB R3T 0M6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Buffalo",
+				"postalCode": "R3T 0M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17015,
+					49.83755
+				]
+			},
+			"bbox": [
+				-97.171893,
+				49.8364258,
+				-97.168407,
+				49.8386742
+			]
+		}
+	]
+}

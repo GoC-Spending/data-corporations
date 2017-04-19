@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7798 Edmonds St, Burnaby, BC V3N 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00a8f28b3ac24514882e4349e84441eb|BN20280152|7.7.0.0|",
+				"addressLine": "7798 Edmonds St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7798 Edmonds St, Burnaby, BC V3N 1B8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Edmonds",
+				"postalCode": "V3N 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.93855,
+					49.225
+				]
+			},
+			"bbox": [
+				-122.9402713,
+				49.2238758,
+				-122.9368287,
+				49.2261242
+			]
+		}
+	]
+}

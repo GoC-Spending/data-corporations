@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "432 William St, Victoria, BC V9A 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed0e8943ea83473193ff0358f3a164d5|BN20130620|7.7.0.0|",
+				"addressLine": "432 William St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "432 William St, Victoria, BC V9A 3Y9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3883265,
+					48.430829
+				]
+			},
+			"bbox": [
+				-123.3900207,
+				48.4297049,
+				-123.3866323,
+				48.4319532
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Elm St, Brockville, ON K6V 5M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db2be8da49ef401e8f6d33891968739a|BN20130530|7.7.0.0|",
+				"addressLine": "38 Elm St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Elm St, Brockville, ON K6V 5M7, Canada",
+				"locality": "Brockville",
+				"postalCode": "K6V 5M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69812,
+					44.58715
+				]
+			},
+			"bbox": [
+				-75.6996985,
+				44.5860258,
+				-75.6965415,
+				44.5882742
+			]
+		}
+	]
+}

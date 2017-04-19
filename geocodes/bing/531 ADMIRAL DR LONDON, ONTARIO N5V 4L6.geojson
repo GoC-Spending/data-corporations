@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "531 Admiral Dr, London, ON N5V 4L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ece8e19c3db348198efd93b96c7d37b8|BN20190642|7.7.0.0|",
+				"addressLine": "531 Admiral Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "531 Admiral Dr, London, ON N5V 4L6, Canada",
+				"locality": "London",
+				"neighborhood": "Crumlin",
+				"postalCode": "N5V 4L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1501,
+					43.0032
+				]
+			},
+			"bbox": [
+				-81.1516372,
+				43.0020758,
+				-81.1485628,
+				43.0043242
+			]
+		}
+	]
+}

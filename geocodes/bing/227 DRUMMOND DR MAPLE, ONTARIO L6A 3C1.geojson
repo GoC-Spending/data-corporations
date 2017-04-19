@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "227 Drummond Dr, Maple, ON L6A 3C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c6bab0ac9534c51b5632921a3874e14|BN20131519|7.7.0.0|",
+				"addressLine": "227 Drummond Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "227 Drummond Dr, Maple, ON L6A 3C1, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 3C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52082,
+					43.8664
+				]
+			},
+			"bbox": [
+				-79.5223792,
+				43.8652758,
+				-79.5192608,
+				43.8675242
+			]
+		}
+	]
+}

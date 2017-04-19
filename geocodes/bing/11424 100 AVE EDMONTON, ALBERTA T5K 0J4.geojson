@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11424 100 Ave NW, Edmonton, AB T5K 0J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb83a773f5244c1195d0cbafa1d97793|BN20181720|7.7.0.0|",
+				"addressLine": "11424 100 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11424 100 Ave NW, Edmonton, AB T5K 0J4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Oliver",
+				"postalCode": "T5K 0J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51895,
+					53.53908
+				]
+			},
+			"bbox": [
+				-113.5208416,
+				53.5379558,
+				-113.5170584,
+				53.5402042
+			]
+		}
+	]
+}

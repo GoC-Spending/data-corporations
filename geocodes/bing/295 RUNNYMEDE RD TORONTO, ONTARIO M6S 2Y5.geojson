@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "295 Runnymede Rd, Toronto, ON M6S 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08c1ac275fac4e2691acd82dad702974|BN20181720|7.7.0.0|",
+				"addressLine": "295 Runnymede Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "295 Runnymede Rd, Toronto, ON M6S 2Y5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park North",
+				"postalCode": "M6S 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47666,
+					43.65288
+				]
+			},
+			"bbox": [
+				-79.4782137,
+				43.6517558,
+				-79.4751063,
+				43.6540042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1825 50 St SE, Calgary, AB T2B 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0e1cb4051c974c88b6ad4cbfebbadfae|BN20181720|7.7.0.0|",
+				"addressLine": "1825 50 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1825 50 St SE, Calgary, AB T2B 1M6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Forest Lawn-Forest Heights",
+				"postalCode": "T2B 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9615406,
+					51.0375106
+				]
+			},
+			"bbox": [
+				-113.9633284,
+				51.0363865,
+				-113.9597529,
+				51.0386348
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Rue Wellington N, Sherbrooke, QC J1H 5B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1061e455c14443bcaafc042b0d90c948|BN20130521|7.7.0.0|",
+				"addressLine": "36 Rue Wellington N",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Rue Wellington N, Sherbrooke, QC J1H 5B7, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1H 5B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.89035,
+					45.40214
+				]
+			},
+			"bbox": [
+				-71.8919511,
+				45.4010158,
+				-71.8887489,
+				45.4032642
+			]
+		}
+	]
+}

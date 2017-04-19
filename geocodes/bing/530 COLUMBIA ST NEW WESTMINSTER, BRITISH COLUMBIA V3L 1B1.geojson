@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Columbia St, New Westminster, BC V3L 1B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "33823208a79f479f948d5de8b8d89449|BN20260231|7.7.0.0|",
+				"addressLine": "530 Columbia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Columbia St, New Westminster, BC V3L 1B1, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Downtown New Westminster",
+				"postalCode": "V3L 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.90689,
+					49.2033
+				]
+			},
+			"bbox": [
+				-122.9086105,
+				49.2021758,
+				-122.9051695,
+				49.2044242
+			]
+		}
+	]
+}

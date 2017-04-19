@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "145 1st Ave NE, Swift Current, SK S9H 2B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b036d99dbf384e64a8270394ca5dcf20|BN20130447|7.7.0.0|",
+				"addressLine": "145 1st Ave NE",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "145 1st Ave NE, Swift Current, SK S9H 2B1, Canada",
+				"locality": "Swift Current",
+				"postalCode": "S9H 2B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-107.7983,
+					50.28437
+				]
+			},
+			"bbox": [
+				-107.8000593,
+				50.2832458,
+				-107.7965407,
+				50.2854942
+			]
+		}
+	]
+}

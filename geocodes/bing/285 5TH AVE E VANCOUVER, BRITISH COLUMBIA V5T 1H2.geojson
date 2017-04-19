@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "285 E 5th Ave, Vancouver, BC V5T 1H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e09ac0cd522464990e32d28e3b1084b|BN20130431|7.7.0.0|",
+				"addressLine": "285 E 5th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "285 E 5th Ave, Vancouver, BC V5T 1H2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 1H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09951,
+					49.26664
+				]
+			},
+			"bbox": [
+				-123.1012327,
+				49.2655158,
+				-123.0977873,
+				49.2677642
+			]
+		}
+	]
+}

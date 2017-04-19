@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Walker Rd, Niagara-on-the-Lake, ON L0S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec330b2edea844bd854f6eb6732fd014|BN20240253|7.7.0.0|",
+				"addressLine": "1 Walker Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Walker Rd, Niagara-on-the-Lake, ON L0S, Canada",
+				"locality": "Niagara-on-the-Lake",
+				"neighborhood": "Virgil",
+				"postalCode": "L0S 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.12449,
+					43.21552
+				]
+			},
+			"bbox": [
+				-79.1260325,
+				43.2143958,
+				-79.1229475,
+				43.2166442
+			]
+		}
+	]
+}

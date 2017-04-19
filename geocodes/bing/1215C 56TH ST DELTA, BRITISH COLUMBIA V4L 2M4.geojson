@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1215 56 St, Delta, BC V4L 2A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9d46ecb3d364c4fa988e28db72ab22d|BN20130721|7.7.0.0|",
+				"addressLine": "1215 56 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1215 56 St, Delta, BC V4L 2A6, Canada",
+				"locality": "Delta",
+				"neighborhood": "Tsawwassen",
+				"postalCode": "V4L 2A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0688949,
+					49.0249658
+				]
+			},
+			"bbox": [
+				-123.0706092,
+				49.0238416,
+				-123.0671805,
+				49.0260899
+			]
+		}
+	]
+}

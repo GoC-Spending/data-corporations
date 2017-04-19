@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Ellesmere Rd, Scarborough, ON M1R 4B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44f9bac3892848fdbd2839283336b870|BN20200137|7.7.0.0|",
+				"addressLine": "75 Ellesmere Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Ellesmere Rd, Scarborough, ON M1R 4B7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 4B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3133078,
+					43.7581698
+				]
+			},
+			"bbox": [
+				-79.3148642,
+				43.7570456,
+				-79.3117514,
+				43.759294
+			]
+		}
+	]
+}

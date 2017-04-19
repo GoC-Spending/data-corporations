@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "213 Rue Finchley, Hampstead, QC H3X 3A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0085d120f8d847b084a74f872b73c5e6|BN20130521|7.7.0.0|",
+				"addressLine": "213 Rue Finchley",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "213 Rue Finchley, Hampstead, QC H3X 3A7, Canada",
+				"locality": "Hampstead",
+				"postalCode": "H3X 3A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.65124,
+					45.48743
+				]
+			},
+			"bbox": [
+				-73.6528435,
+				45.4863058,
+				-73.6496365,
+				45.4885542
+			]
+		}
+	]
+}

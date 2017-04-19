@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Woodriver St, Richmond Hill, ON L4S 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5fb3200d4ad448eea61d82499d0437da|BN20260231|7.7.0.0|",
+				"addressLine": "35 Woodriver St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Woodriver St, Richmond Hill, ON L4S 1B7, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4S 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42631,
+					43.90093
+				]
+			},
+			"bbox": [
+				-79.4278702,
+				43.8998058,
+				-79.4247498,
+				43.9020542
+			]
+		}
+	]
+}

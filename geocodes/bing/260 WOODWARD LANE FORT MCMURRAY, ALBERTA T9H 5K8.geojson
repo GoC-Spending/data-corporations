@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "260 Woodward Ln, Fort McMurray, AB T9H 5K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "534adc743a4440e2a66c063f7f1782d8|BN20200239|7.7.0.0|",
+				"addressLine": "260 Woodward Ln",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "260 Woodward Ln, Fort McMurray, AB T9H 5K8, Canada",
+				"locality": "Wood Buffalo",
+				"neighborhood": "Fort McMurray",
+				"postalCode": "T9H 5K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.45929,
+					56.72441
+				]
+			},
+			"bbox": [
+				-111.4613389,
+				56.7232858,
+				-111.4572411,
+				56.7255342
+			]
+		}
+	]
+}

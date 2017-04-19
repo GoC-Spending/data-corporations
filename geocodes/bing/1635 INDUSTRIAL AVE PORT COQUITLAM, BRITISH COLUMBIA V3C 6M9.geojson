@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1635 Industrial Ave, Port Coquitlam, BC V3C 6M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0cd9712c07734c87a2a03c7259ac8b4f|BN20130522|7.7.0.0|",
+				"addressLine": "1635 Industrial Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1635 Industrial Ave, Port Coquitlam, BC V3C 6M9, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3C 6M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.75897,
+					49.2461399
+				]
+			},
+			"bbox": [
+				-122.760692,
+				49.2450157,
+				-122.757248,
+				49.2472641
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Sovereign Rd, London, ON N6M 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0ecd32af9d649ceb92f41642f1f1801|BN20220145|7.7.0.0|",
+				"addressLine": "340 Sovereign Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Sovereign Rd, London, ON N6M 1A8, Canada",
+				"locality": "London",
+				"neighborhood": "Crumlin",
+				"postalCode": "N6M 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1397999,
+					42.9914
+				]
+			},
+			"bbox": [
+				-81.1413368,
+				42.9902758,
+				-81.138263,
+				42.9925242
+			]
+		}
+	]
+}

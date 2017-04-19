@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1721 Old Montreal Rd, Cumberland, ON K4C 1G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "768b646593754a29834122ec71e0ada4|BN20290118|7.7.0.0|",
+				"addressLine": "1721 Old Montreal Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1721 Old Montreal Rd, Cumberland, ON K4C 1G7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Cumberland",
+				"postalCode": "K4C 1G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.44535,
+					45.50773
+				]
+			},
+			"bbox": [
+				-75.4469541,
+				45.5066058,
+				-75.4437459,
+				45.5088542
+			]
+		}
+	]
+}

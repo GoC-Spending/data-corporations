@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1282 Kings Rd, Victoria, BC V8T 1X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3627e1a1c475435bb8d47f001553e53e|BN20260223|7.7.0.0|",
+				"addressLine": "1282 Kings Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1282 Kings Rd, Victoria, BC V8T 1X9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Oaklands",
+				"postalCode": "V8T 1X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.34661,
+					48.43861
+				]
+			},
+			"bbox": [
+				-123.3483045,
+				48.4374858,
+				-123.3449155,
+				48.4397342
+			]
+		}
+	]
+}

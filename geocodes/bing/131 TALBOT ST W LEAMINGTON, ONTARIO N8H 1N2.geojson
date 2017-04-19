@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Talbot St W, Leamington, ON N8H 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f8b40d383a14956abc6c874164aa134|BN20130634|7.7.0.0|",
+				"addressLine": "131 Talbot St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Talbot St W, Leamington, ON N8H 1N2, Canada",
+				"locality": "Leamington",
+				"postalCode": "N8H 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.60934,
+					42.05122
+				]
+			},
+			"bbox": [
+				-82.6108539,
+				42.0500958,
+				-82.6078261,
+				42.0523442
+			]
+		}
+	]
+}

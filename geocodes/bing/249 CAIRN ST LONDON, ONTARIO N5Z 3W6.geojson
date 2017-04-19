@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "249 Cairn St, London, ON N5Z 3W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c24b9054abd24699b5f74e4066b3be55|CO30324010|7.7.0.0|",
+				"addressLine": "249 Cairn St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "249 Cairn St, London, ON N5Z 3W6, Canada",
+				"locality": "London",
+				"neighborhood": "Glen Cairn",
+				"postalCode": "N5Z 3W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2043,
+					42.9647999
+				]
+			},
+			"bbox": [
+				-81.2058362,
+				42.9636757,
+				-81.2027638,
+				42.9659241
+			]
+		}
+	]
+}

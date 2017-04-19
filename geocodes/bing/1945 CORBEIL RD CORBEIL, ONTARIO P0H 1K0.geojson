@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "East Ferris, P0H 1K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1e529c130f8426e80aa492cfa4863fa|BN20130620|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "East Ferris, P0H 1K0, Canada",
+				"locality": "East Ferris",
+				"postalCode": "P0H 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2875061035156,
+					46.2628211975098
+				]
+			},
+			"bbox": [
+				-79.2949551769088,
+				46.2589584799391,
+				-79.2800570301225,
+				46.2666839150804
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Corbeil, East Ferris, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1e529c130f8426e80aa492cfa4863fa|BN20130620|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "Corbeil, East Ferris, Ontario, Canada",
+				"locality": "East Ferris",
+				"neighborhood": "Corbeil"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2914123535156,
+					46.2617797851563
+				]
+			},
+			"bbox": [
+				-79.2988612854331,
+				46.2579170675856,
+				-79.2839634215982,
+				46.2656425027269
+			]
+		}
+	]
+}

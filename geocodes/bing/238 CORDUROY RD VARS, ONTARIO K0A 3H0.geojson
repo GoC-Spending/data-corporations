@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 8,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Corduroy Rd, Vars, ON K0A 3H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f49db763480409780277c1faf03e42f|BN20130632|7.7.0.0|",
+				"addressLine": "Corduroy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Corduroy Rd, Vars, ON K0A 3H0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Vars",
+				"postalCode": "K0A 3H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.35964,
+					45.33426
+				]
+			},
+			"bbox": [
+				-75.36022,
+				45.33076,
+				-75.35774,
+				45.33532
+			]
+		}
+	]
+}

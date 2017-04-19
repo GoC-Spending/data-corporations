@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "888 3 St SW, Calgary, AB T2P 5C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8faab08f464e4aae96e655636753a981|BN20130721|7.7.0.0|",
+				"addressLine": "888 3 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "888 3 St SW, Calgary, AB T2P 5C5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Downtown",
+				"postalCode": "T2P 5C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0702139,
+					51.0449649
+				]
+			},
+			"bbox": [
+				-114.0720019,
+				51.0438408,
+				-114.0684258,
+				51.0460891
+			]
+		}
+	]
+}

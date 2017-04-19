@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "86 Troop Ave, Dartmouth, NS B3B 1Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad373aec388748d6a35bac830833c594|BN20130532|7.7.0.0|",
+				"addressLine": "86 Troop Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "86 Troop Ave, Dartmouth, NS B3B 1Z1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3B 1Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.58695,
+					44.70862
+				]
+			},
+			"bbox": [
+				-63.5885318,
+				44.7074958,
+				-63.5853682,
+				44.7097442
+			]
+		}
+	]
+}

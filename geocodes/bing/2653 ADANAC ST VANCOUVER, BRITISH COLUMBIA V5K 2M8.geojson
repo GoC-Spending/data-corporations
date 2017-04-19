@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2653 Adanac St, Vancouver, BC V5K 2M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "428cb7ec9f504de8af7a7e6919d25d53|BN20130520|7.7.0.0|",
+				"addressLine": "2653 Adanac St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2653 Adanac St, Vancouver, BC V5K 2M8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5K 2M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0506,
+					49.27769
+				]
+			},
+			"bbox": [
+				-123.0523231,
+				49.2765658,
+				-123.0488769,
+				49.2788142
+			]
+		}
+	]
+}

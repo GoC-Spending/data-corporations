@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "775 Wildon St, Summerside, PE C1N 4H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5920a5273084b42a986cbf889763294|BN20181720|7.7.0.0|",
+				"addressLine": "775 Wildon St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "775 Wildon St, Summerside, PE C1N 4H5, Canada",
+				"locality": "Summerside",
+				"postalCode": "C1N 4H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.7486,
+					46.40049
+				]
+			},
+			"bbox": [
+				-63.7502301,
+				46.3993658,
+				-63.7469699,
+				46.4016142
+			]
+		}
+	]
+}

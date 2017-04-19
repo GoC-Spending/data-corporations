@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2477 Rue Michelin, Laval, QC H7L 5B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "773447a15e2c40ddb125831a6201db40|BN20200239|7.7.0.0|",
+				"addressLine": "2477 Rue Michelin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2477 Rue Michelin, Laval, QC H7L 5B9, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7664099,
+					45.58372
+				]
+			},
+			"bbox": [
+				-73.7680161,
+				45.5825958,
+				-73.7648037,
+				45.5848442
+			]
+		}
+	]
+}

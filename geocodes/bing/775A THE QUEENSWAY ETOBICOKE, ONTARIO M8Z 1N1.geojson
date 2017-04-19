@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "775 The Queensway, Etobicoke, ON M8Z 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e873e801a886423f8d18f8a61d7dfbb7|BN20290118|7.7.0.0|",
+				"addressLine": "775 The Queensway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "775 The Queensway, Etobicoke, ON M8Z 1N1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Stonegate-Queensway",
+				"postalCode": "M8Z 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50472,
+					43.62563
+				]
+			},
+			"bbox": [
+				-79.506273,
+				43.6245058,
+				-79.503167,
+				43.6267542
+			]
+		}
+	]
+}

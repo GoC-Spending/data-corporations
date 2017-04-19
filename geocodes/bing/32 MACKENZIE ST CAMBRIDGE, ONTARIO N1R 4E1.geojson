@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 McKenzie St, Cambridge, ON N1R 4E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78b8dc9616d8421cb3278123659fd9b0|BN20130721|7.7.0.0|",
+				"addressLine": "32 McKenzie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 McKenzie St, Cambridge, ON N1R 4E1, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "East Galt",
+				"postalCode": "N1R 4E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31067,
+					43.35458
+				]
+			},
+			"bbox": [
+				-80.312216,
+				43.3534558,
+				-80.309124,
+				43.3557042
+			]
+		}
+	]
+}

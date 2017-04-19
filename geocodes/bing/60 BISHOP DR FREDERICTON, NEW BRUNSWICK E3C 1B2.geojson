@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Bishop Dr, Fredericton, NB E3C 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "385921ad60aa40678c54ec367365ed57|BN20130522|7.7.0.0|",
+				"addressLine": "60 Bishop Dr",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Bishop Dr, Fredericton, NB E3C 1B2, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3C 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.69219,
+					45.94542
+				]
+			},
+			"bbox": [
+				-66.6938067,
+				45.9442958,
+				-66.6905733,
+				45.9465442
+			]
+		}
+	]
+}

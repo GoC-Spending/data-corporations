@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Hoka St, Winnipeg, MB R2C 3N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df73b28812bc4c4d89135b8c4ff40829|BN20130533|7.7.0.0|",
+				"addressLine": "100 Hoka St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Hoka St, Winnipeg, MB R2C 3N2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Transcona Yards",
+				"postalCode": "R2C 3N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.01455,
+					49.89172
+				]
+			},
+			"bbox": [
+				-97.0162949,
+				49.8905958,
+				-97.0128051,
+				49.8928442
+			]
+		}
+	]
+}

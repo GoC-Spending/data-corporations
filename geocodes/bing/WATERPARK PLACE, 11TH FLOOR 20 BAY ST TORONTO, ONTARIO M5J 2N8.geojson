@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 8,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "Bay St, Toronto, ON M5J 2N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa717a7186a945e7bd777938e6d51b0c|BN20130530|7.7.0.0|",
+				"addressLine": "Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "Bay St, Toronto, ON M5J 2N8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5J 2N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37727,
+					43.64175
+				]
+			},
+			"bbox": [
+				-79.37914,
+				43.64117,
+				-79.37689,
+				43.64603
+			]
+		}
+	]
+}

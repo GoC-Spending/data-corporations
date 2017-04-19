@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2724 Roxburgh Rd, London, ON N6N 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2643b4bab1844ddcbb18f166f32d20f6|BN20130719|7.7.0.0|",
+				"addressLine": "2724 Roxburgh Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2724 Roxburgh Rd, London, ON N6N 1K9, Canada",
+				"locality": "London",
+				"neighborhood": "Brockley",
+				"postalCode": "N6N 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2039961,
+					42.9193655
+				]
+			},
+			"bbox": [
+				-81.2055312,
+				42.9182413,
+				-81.202461,
+				42.9204896
+			]
+		}
+	]
+}

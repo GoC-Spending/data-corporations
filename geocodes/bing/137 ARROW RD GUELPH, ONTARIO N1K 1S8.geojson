@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "137 Arrow Rd, Guelph, ON N1H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f76e8c3b09c544fe944019d7c703972a|BN20130621|7.7.0.0|",
+				"addressLine": "137 Arrow Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "137 Arrow Rd, Guelph, ON N1H, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2982,
+					43.55803
+				]
+			},
+			"bbox": [
+				-80.2997512,
+				43.5569058,
+				-80.2966488,
+				43.5591542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2763 Dunsmuir Ave, Cumberland, BC V0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38e349bafb49483ea93ca6bdae8fd8c0|BN20130719|7.7.0.0|",
+				"addressLine": "2763 Dunsmuir Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2763 Dunsmuir Ave, Cumberland, BC V0R, Canada",
+				"locality": "Cumberland",
+				"postalCode": "V0R 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.0257817,
+					49.6191716
+				]
+			},
+			"bbox": [
+				-125.0275169,
+				49.6180474,
+				-125.0240465,
+				49.6202957
+			]
+		}
+	]
+}

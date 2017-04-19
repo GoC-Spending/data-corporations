@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "203 31 Ave NW, Calgary, AB T2M 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43acd2d16ab84c1fb50a53b72c521ac5|BN20280152|7.7.0.0|",
+				"addressLine": "203 31 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "203 31 Ave NW, Calgary, AB T2M 2P3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Tuxedo Park",
+				"postalCode": "T2M 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06526,
+					51.08022
+				]
+			},
+			"bbox": [
+				-114.0670494,
+				51.0790958,
+				-114.0634706,
+				51.0813442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "580 Gartshore St, Fergus, ON N1M 2B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73aca8c6978b4539b18126b8882c52b7|BN20121762|7.7.0.0|",
+				"addressLine": "580 Gartshore St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "580 Gartshore St, Fergus, ON N1M 2B2, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 2B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3747657,
+					43.7153481
+				]
+			},
+			"bbox": [
+				-80.376321,
+				43.7142239,
+				-80.3732104,
+				43.7164722
+			]
+		}
+	]
+}

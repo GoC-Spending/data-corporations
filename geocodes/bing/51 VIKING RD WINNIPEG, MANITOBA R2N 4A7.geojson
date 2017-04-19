@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Viking Rd, Winnipeg, MB R2N 4A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "869dea58d1f4416b90a34f953e817ebf|BN20240423|7.7.0.0|",
+				"addressLine": "51 Viking Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Viking Rd, Winnipeg, MB R2N 4A7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St Vital Perimeter South",
+				"postalCode": "R2N 4A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12403,
+					49.77778
+				]
+			},
+			"bbox": [
+				-97.1257708,
+				49.7766558,
+				-97.1222892,
+				49.7789042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4236 Colonel Talbot Rd, London, ON N6P 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "949eb32fb600447dbd4686a159505f05|BN20130625|7.7.0.0|",
+				"addressLine": "4236 Colonel Talbot Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4236 Colonel Talbot Rd, London, ON N6P 1A1, Canada",
+				"locality": "London",
+				"neighborhood": "Lambeth",
+				"postalCode": "N6P 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3019,
+					42.911
+				]
+			},
+			"bbox": [
+				-81.3034349,
+				42.9098758,
+				-81.3003651,
+				42.9121242
+			]
+		}
+	]
+}

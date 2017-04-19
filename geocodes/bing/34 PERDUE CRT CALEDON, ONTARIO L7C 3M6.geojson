@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Perdue Ct, Caledon, ON L7C 3M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e33692d795ef4c5384e31290ccbf1afe|BN20130632|7.7.0.0|",
+				"addressLine": "34 Perdue Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Perdue Ct, Caledon, ON L7C 3M6, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Caledon East",
+				"postalCode": "L7C 3M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76791,
+					43.79235
+				]
+			},
+			"bbox": [
+				-79.7694673,
+				43.7912258,
+				-79.7663527,
+				43.7934742
+			]
+		}
+	]
+}

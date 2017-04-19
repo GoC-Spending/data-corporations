@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1015 Granville St, Vancouver, BC V6Z 1L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d005f27a745c4066996ef841493aeec6|BN20130422|7.7.0.0|",
+				"addressLine": "1015 Granville St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1015 Granville St, Vancouver, BC V6Z 1L4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6Z 1L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1234691,
+					49.2791431
+				]
+			},
+			"bbox": [
+				-123.1251922,
+				49.2780189,
+				-123.1217459,
+				49.2802672
+			]
+		}
+	]
+}

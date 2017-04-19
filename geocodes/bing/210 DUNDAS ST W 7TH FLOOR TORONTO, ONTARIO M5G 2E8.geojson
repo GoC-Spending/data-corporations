@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 Dundas St W, Toronto, ON M5G 2E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d584ac0d3414d009a7528db05f312b0|BN20130719|7.7.0.0|",
+				"addressLine": "210 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 Dundas St W, Toronto, ON M5G 2E8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5G 2E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38743,
+					43.6551199
+				]
+			},
+			"bbox": [
+				-79.3889838,
+				43.6539957,
+				-79.3858762,
+				43.6562441
+			]
+		}
+	]
+}

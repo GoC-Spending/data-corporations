@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1225 Wonderland Rd N, London, ON N6G 2V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71357c1c284248ffb9340f4686676836|BN20240253|7.7.0.0|",
+				"addressLine": "1225 Wonderland Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1225 Wonderland Rd N, London, ON N6G 2V9, Canada",
+				"locality": "London",
+				"neighborhood": "Medway",
+				"postalCode": "N6G 2V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3034751,
+					43.0049096
+				]
+			},
+			"bbox": [
+				-81.3050123,
+				43.0037854,
+				-81.3019379,
+				43.0060337
+			]
+		}
+	]
+}

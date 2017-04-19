@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15710 Robin's Hill Rd, London, ON N5V 0A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9d65735cab146158dc8a09837a7c2bc|CO30275837|7.7.0.0|",
+				"addressLine": "15710 Robin's Hill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "15710 Robin's Hill Rd, London, ON N5V 0A4, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 0A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1654,
+					43.0277
+				]
+			},
+			"bbox": [
+				-81.1669378,
+				43.0265758,
+				-81.1638622,
+				43.0288242
+			]
+		}
+	]
+}

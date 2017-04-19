@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1220 Heritage Rd, Burlington, ON L7L 4X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ae729c21c32440ba735acb216152707|BN20240253|7.7.0.0|",
+				"addressLine": "1220 Heritage Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1220 Heritage Rd, Burlington, ON L7L 4X9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Tansley",
+				"postalCode": "L7L 4X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78818,
+					43.37913
+				]
+			},
+			"bbox": [
+				-79.7897267,
+				43.3780058,
+				-79.7866333,
+				43.3802542
+			]
+		}
+	]
+}

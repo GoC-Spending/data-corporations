@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "294 William Ave, Winnipeg, MB R3B 0R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46d6642b26104664890679283e614d69|BN20130442|7.7.0.0|",
+				"addressLine": "294 William Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "294 William Ave, Winnipeg, MB R3B 0R1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Exchange District",
+				"postalCode": "R3B 0R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14115,
+					49.8992999
+				]
+			},
+			"bbox": [
+				-97.1428952,
+				49.8981757,
+				-97.1394048,
+				49.9004241
+			]
+		}
+	]
+}

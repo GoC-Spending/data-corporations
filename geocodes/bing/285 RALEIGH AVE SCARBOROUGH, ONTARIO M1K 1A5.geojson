@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "285 Raleigh Ave, Scarborough, ON M1K 1A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0a1153f484874cd8a246ad26fd1e8bd4|BN20300154|7.7.0.0|",
+				"addressLine": "285 Raleigh Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "285 Raleigh Ave, Scarborough, ON M1K 1A5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1K 1A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25993,
+					43.7102999
+				]
+			},
+			"bbox": [
+				-79.2614852,
+				43.7091757,
+				-79.2583748,
+				43.7114241
+			]
+		}
+	]
+}

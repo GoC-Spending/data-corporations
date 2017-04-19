@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "385 Boulevard Bouchard, Dorval, QC H9S 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b0b1901c672496ea88e0f439532d458|BN20130530|7.7.0.0|",
+				"addressLine": "385 Boulevard Bouchard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "385 Boulevard Bouchard, Dorval, QC H9S 1A9, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9S 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.73303,
+					45.44775
+				]
+			},
+			"bbox": [
+				-73.7346324,
+				45.4466258,
+				-73.7314276,
+				45.4488742
+			]
+		}
+	]
+}

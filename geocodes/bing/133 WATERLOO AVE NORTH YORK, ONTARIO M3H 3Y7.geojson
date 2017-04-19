@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "133 Waterloo Ave, North York, ON M3H 3Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04b12dcd52e5461ab1d6c4783ded9650|BN20130719|7.7.0.0|",
+				"addressLine": "133 Waterloo Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "133 Waterloo Ave, North York, ON M3H 3Y7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 3Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44833,
+					43.75755
+				]
+			},
+			"bbox": [
+				-79.4498864,
+				43.7564258,
+				-79.4467736,
+				43.7586742
+			]
+		}
+	]
+}

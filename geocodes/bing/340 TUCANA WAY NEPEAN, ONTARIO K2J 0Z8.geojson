@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Tucana Way, Nepean, ON K2J 0Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dccd60c165e848ff8c1bc46db8718870|BN20130719|7.7.0.0|",
+				"addressLine": "340 Tucana Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Tucana Way, Nepean, ON K2J 0Z8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 0Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73189,
+					45.25595
+				]
+			},
+			"bbox": [
+				-75.7334869,
+				45.2548258,
+				-75.7302931,
+				45.2570742
+			]
+		}
+	]
+}

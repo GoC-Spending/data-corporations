@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "761 Edmond St, Hawkesbury, ON K6A 2Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d453235248949b4bcc7e9a7db6fa0fb|BN20210145|7.7.0.0|",
+				"addressLine": "761 Edmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "761 Edmond St, Hawkesbury, ON K6A 2Y6, Canada",
+				"locality": "Hawkesbury",
+				"postalCode": "K6A 2Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.6007988,
+					45.6033615
+				]
+			},
+			"bbox": [
+				-74.6024056,
+				45.6022374,
+				-74.599192,
+				45.6044857
+			]
+		}
+	]
+}

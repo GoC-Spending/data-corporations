@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 St Andrews St, Ingersoll, ON N5C 1K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe708024d0054166a2daf1c17fdc522d|BN20260231|7.7.0.0|",
+				"addressLine": "9 St Andrews St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 St Andrews St, Ingersoll, ON N5C 1K6, Canada",
+				"locality": "Ingersoll",
+				"postalCode": "N5C 1K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.88382,
+					43.04064
+				]
+			},
+			"bbox": [
+				-80.8853581,
+				43.0395158,
+				-80.8822819,
+				43.0417642
+			]
+		}
+	]
+}

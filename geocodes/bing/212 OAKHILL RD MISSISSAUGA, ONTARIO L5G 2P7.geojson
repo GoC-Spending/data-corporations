@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "212 Oakhill Rd, Mississauga, ON L5G 2P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dba5772de77247c7a63f90c44ff9690c|BN20130620|7.7.0.0|",
+				"addressLine": "212 Oakhill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "212 Oakhill Rd, Mississauga, ON L5G 2P7, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Mineola",
+				"postalCode": "L5G 2P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60236,
+					43.56181
+				]
+			},
+			"bbox": [
+				-79.6039113,
+				43.5606858,
+				-79.6008087,
+				43.5629342
+			]
+		}
+	]
+}

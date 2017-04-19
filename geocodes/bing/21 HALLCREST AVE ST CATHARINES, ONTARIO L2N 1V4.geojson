@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Hallcrest Ave, St Catharines, ON L2N 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d2d371e0c50463da8e292452ad28d3b|BN20121763|7.7.0.0|",
+				"addressLine": "21 Hallcrest Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Hallcrest Ave, St Catharines, ON L2N 1V4, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Grantham",
+				"postalCode": "L2N 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2321599,
+					43.19515
+				]
+			},
+			"bbox": [
+				-79.2337019,
+				43.1940258,
+				-79.2306179,
+				43.1962742
+			]
+		}
+	]
+}

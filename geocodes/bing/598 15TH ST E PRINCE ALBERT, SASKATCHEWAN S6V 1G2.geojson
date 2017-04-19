@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "598 15th St E, Prince Albert, SK S6V 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81f2933ea7534beb9f0d88551de8c389|BN20260231|7.7.0.0|",
+				"addressLine": "598 15th St E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "598 15th St E, Prince Albert, SK S6V 1G2, Canada",
+				"locality": "Prince Albert",
+				"postalCode": "S6V 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.7381599,
+					53.1995099
+				]
+			},
+			"bbox": [
+				-105.7400365,
+				53.1983857,
+				-105.7362833,
+				53.2006341
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Robb Blvd, Orangeville, ON L9W 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4be9db96d0c544ecac2596e3fe8c49d4|BN20200137|7.7.0.0|",
+				"addressLine": "20 Robb Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Dufferin",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Robb Blvd, Orangeville, ON L9W 3L2, Canada",
+				"locality": "Orangeville",
+				"postalCode": "L9W 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1113,
+					43.90524
+				]
+			},
+			"bbox": [
+				-80.1128603,
+				43.9041158,
+				-80.1097397,
+				43.9063642
+			]
+		}
+	]
+}

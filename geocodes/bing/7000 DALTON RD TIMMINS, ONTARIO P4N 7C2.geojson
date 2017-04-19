@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7000 Dalton Rd, Timmins, ON P0N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7326a487128447bb925d965cfb001c6|BN20280152|7.7.0.0|",
+				"addressLine": "7000 Dalton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "7000 Dalton Rd, Timmins, ON P0N, Canada",
+				"locality": "Timmins",
+				"postalCode": "P0N"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.48706,
+					48.33795
+				]
+			},
+			"bbox": [
+				-81.4887511,
+				48.3368258,
+				-81.4853689,
+				48.3390742
+			]
+		}
+	]
+}

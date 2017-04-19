@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1192 Burrard St, Vancouver, BC V6Z 1Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f68f8a33878849f0a4cca2e4832b6454|BN20240253|7.7.0.0|",
+				"addressLine": "1192 Burrard St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1192 Burrard St, Vancouver, BC V6Z 1Y7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6Z 1Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1288573,
+					49.2790757
+				]
+			},
+			"bbox": [
+				-123.1305804,
+				49.2779515,
+				-123.1271341,
+				49.2801998
+			]
+		}
+	]
+}

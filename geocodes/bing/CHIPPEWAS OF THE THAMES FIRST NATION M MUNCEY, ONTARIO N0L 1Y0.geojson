@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Muncey, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "753afc93017e4d3880767232911a5e19|BN20200137|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "Muncey, Ontario, Canada",
+				"locality": "Muncey"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4368515014648,
+					42.8197898864746
+				]
+			},
+			"bbox": [
+				-81.4894886545052,
+				42.7908195034821,
+				-81.3842143484245,
+				42.8487602694672
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Strathroy-Caradoc, N0L 1Y0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "753afc93017e4d3880767232911a5e19|BN20200137|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "Strathroy-Caradoc, N0L 1Y0, Canada",
+				"locality": "Strathroy-Caradoc",
+				"postalCode": "N0L 1Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4415588378906,
+					42.8219680786133
+				]
+			},
+			"bbox": [
+				-81.4485802201675,
+				42.8181053610426,
+				-81.4345374556137,
+				42.825830796184
+			]
+		}
+	]
+}

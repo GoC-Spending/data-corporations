@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Foord St, Stellarton, NS B0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c97ce3d4c32e4a369d3817dcb62cc645|BN20130532|7.7.0.0|",
+				"addressLine": "125 Foord St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Pictou",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Foord St, Stellarton, NS B0K, Canada",
+				"locality": "Stellarton",
+				"postalCode": "B0K 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.6593151,
+					45.568199
+				]
+			},
+			"bbox": [
+				-62.6609209,
+				45.5670749,
+				-62.6577093,
+				45.5693232
+			]
+		}
+	]
+}

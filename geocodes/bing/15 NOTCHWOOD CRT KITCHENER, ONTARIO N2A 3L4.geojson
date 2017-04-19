@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Notchwood Ct, Kitchener, ON N2A 3L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1d62f3b974e4518907b40e5818caef4|BN20200137|7.7.0.0|",
+				"addressLine": "15 Notchwood Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Notchwood Ct, Kitchener, ON N2A 3L4, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Idlewood",
+				"postalCode": "N2A 3L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4368,
+					43.4493099
+				]
+			},
+			"bbox": [
+				-80.4383485,
+				43.4481857,
+				-80.4352515,
+				43.4504341
+			]
+		}
+	]
+}

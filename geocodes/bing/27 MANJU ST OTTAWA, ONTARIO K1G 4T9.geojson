@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Manju St, Ottawa, ON K1G 4T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2f2de0297c6c411aa8446c24548fb4f3|BN20130621|7.7.0.0|",
+				"addressLine": "27 Manju St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Manju St, Ottawa, ON K1G 4T9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hunt Club Park",
+				"postalCode": "K1G 4T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.62094,
+					45.37183
+				]
+			},
+			"bbox": [
+				-75.6225402,
+				45.3707058,
+				-75.6193398,
+				45.3729542
+			]
+		}
+	]
+}

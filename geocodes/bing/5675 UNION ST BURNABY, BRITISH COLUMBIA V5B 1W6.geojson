@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5675 Union St, Burnaby, BC V5B 1W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98875ea5338b4143bc85bc283001f61a|BN20290118|7.7.0.0|",
+				"addressLine": "5675 Union St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5675 Union St, Burnaby, BC V5B 1W6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Parkcrest-Aubrey",
+				"postalCode": "V5B 1W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9812,
+					49.2775899
+				]
+			},
+			"bbox": [
+				-122.9829231,
+				49.2764657,
+				-122.9794769,
+				49.2787141
+			]
+		}
+	]
+}

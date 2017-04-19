@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1385 Woodroffe Ave, Nepean, ON K2G 1V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dad01bdf39164914a845ccb8fde4159f|BN20130620|7.7.0.0|",
+				"addressLine": "1385 Woodroffe Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1385 Woodroffe Ave, Nepean, ON K2G 1V8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 1V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.759344,
+					45.3472276
+				]
+			},
+			"bbox": [
+				-75.7609436,
+				45.3461035,
+				-75.7577445,
+				45.3483518
+			]
+		}
+	]
+}

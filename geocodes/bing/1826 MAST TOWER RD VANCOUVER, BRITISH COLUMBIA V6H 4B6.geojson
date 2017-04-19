@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1826 Mast Tower Rd, Vancouver, BC V6H 4B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c9020434caa44788ba1955172f935af|BN20130632|7.7.0.0|",
+				"addressLine": "1826 Mast Tower Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1826 Mast Tower Rd, Vancouver, BC V6H 4B6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Granville Island",
+				"postalCode": "V6H 4B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.136349,
+					49.2712651
+				]
+			},
+			"bbox": [
+				-123.1380719,
+				49.270141,
+				-123.1346261,
+				49.2723893
+			]
+		}
+	]
+}

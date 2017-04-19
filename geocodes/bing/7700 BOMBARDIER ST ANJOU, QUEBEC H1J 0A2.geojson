@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7700 Rue Bombardier, Anjou, QC H1J 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8823aa9239654923a5abc024cb4f3072|BN20240253|7.7.0.0|",
+				"addressLine": "7700 Rue Bombardier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "7700 Rue Bombardier, Anjou, QC H1J 0A2, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5796699,
+					45.61251
+				]
+			},
+			"bbox": [
+				-73.581277,
+				45.6113858,
+				-73.5780628,
+				45.6136342
+			]
+		}
+	]
+}

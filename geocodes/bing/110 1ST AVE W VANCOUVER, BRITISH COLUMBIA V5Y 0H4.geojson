@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 W 1st Ave, Vancouver, BC V5Y 0H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "415a3fb9c27042bc86072b3559005a3a|BN20320521|7.7.0.0|",
+				"addressLine": "110 W 1st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 W 1st Ave, Vancouver, BC V5Y 0H4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Southeast False Creek",
+				"postalCode": "V5Y 0H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1070544,
+					49.2700801
+				]
+			},
+			"bbox": [
+				-123.1087773,
+				49.268956,
+				-123.1053316,
+				49.2712043
+			]
+		}
+	]
+}

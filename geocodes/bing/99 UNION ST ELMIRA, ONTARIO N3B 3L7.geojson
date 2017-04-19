@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Union St, Elmira, ON N3B 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91ffa4bc760d4f3997357d24dbc67ac5|BN20121762|7.7.0.0|",
+				"addressLine": "99 Union St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Union St, Elmira, ON N3B 3L7, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Elmira",
+				"postalCode": "N3B 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5542781,
+					43.587641
+				]
+			},
+			"bbox": [
+				-80.5558301,
+				43.5865169,
+				-80.5527261,
+				43.5887652
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7360 River Rd, Richmond, BC V6X 1X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1f13d6bbdb3402d913f6bf0dacddf2b|BN20121762|7.7.0.0|",
+				"addressLine": "7360 River Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7360 River Rd, Richmond, BC V6X 1X6, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Richmond Centre",
+				"postalCode": "V6X 1X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1422957,
+					49.179806
+				]
+			},
+			"bbox": [
+				-123.1440154,
+				49.1786818,
+				-123.140576,
+				49.1809301
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19 Main St N, Uxbridge, ON L9P 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "069db5c3ec984b89a27fa8942361fb97|BN20190642|7.7.0.0|",
+				"addressLine": "19 Main St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "19 Main St N, Uxbridge, ON L9P 1J7, Canada",
+				"locality": "Uxbridge",
+				"postalCode": "L9P 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1206187,
+					44.1101458
+				]
+			},
+			"bbox": [
+				-79.1221843,
+				44.1090216,
+				-79.119053,
+				44.1112699
+			]
+		}
+	]
+}

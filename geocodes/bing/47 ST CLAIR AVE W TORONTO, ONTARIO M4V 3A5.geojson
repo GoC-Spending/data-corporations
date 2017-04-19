@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "47 St Clair Ave W, Toronto, ON M4V 3A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f64f0cdd118043ca9f793b9fad950059|BN20210145|7.7.0.0|",
+				"addressLine": "47 St Clair Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "47 St Clair Ave W, Toronto, ON M4V 3A5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yonge-St Clair",
+				"postalCode": "M4V 3A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39572,
+					43.68697
+				]
+			},
+			"bbox": [
+				-79.3972746,
+				43.6858458,
+				-79.3941654,
+				43.6880942
+			]
+		}
+	]
+}

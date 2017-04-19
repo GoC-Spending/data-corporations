@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "166 Linley Rd, Nanaimo, BC V9T 1L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "641390899a0f434383275dd1f355382f|BN20290118|7.7.0.0|",
+				"addressLine": "166 Linley Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "166 Linley Rd, Nanaimo, BC V9T 1L7, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9T 1L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9575411,
+					49.2183867
+				]
+			},
+			"bbox": [
+				-123.9592622,
+				49.2172626,
+				-123.9558201,
+				49.2195109
+			]
+		}
+	]
+}

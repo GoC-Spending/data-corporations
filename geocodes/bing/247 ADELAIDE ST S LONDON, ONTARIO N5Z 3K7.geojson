@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "247 Adelaide St S, London, ON N5Z 3K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "609e9ec1602148e3947c10c350d8fedc|BN20130632|7.7.0.0|",
+				"addressLine": "247 Adelaide St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "247 Adelaide St S, London, ON N5Z 3K7, Canada",
+				"locality": "London",
+				"neighborhood": "Glen Cairn",
+				"postalCode": "N5Z 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2204,
+					42.9622
+				]
+			},
+			"bbox": [
+				-81.2219361,
+				42.9610758,
+				-81.2188639,
+				42.9633242
+			]
+		}
+	]
+}

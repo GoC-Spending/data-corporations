@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 Woodhall Rd, Markham, ON L3S 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40542755ee144114a2d285d017328105|BN20280152|7.7.0.0|",
+				"addressLine": "81 Woodhall Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 Woodhall Rd, Markham, ON L3S 1N1, Canada",
+				"locality": "Markham",
+				"neighborhood": "North Milliken",
+				"postalCode": "L3S 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27676,
+					43.83139
+				]
+			},
+			"bbox": [
+				-79.2783183,
+				43.8302658,
+				-79.2752017,
+				43.8325142
+			]
+		}
+	]
+}

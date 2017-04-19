@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3033 34 Ave NE, Calgary, AB T1Y 6X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "177f6ebf71134fc99a62c900aaccbf3e|BN20210145|7.7.0.0|",
+				"addressLine": "3033 34 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3033 34 Ave NE, Calgary, AB T1Y 6X2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Horizon",
+				"postalCode": "T1Y 6X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.99034,
+					51.08345
+				]
+			},
+			"bbox": [
+				-113.9921295,
+				51.0823258,
+				-113.9885505,
+				51.0845742
+			]
+		}
+	]
+}

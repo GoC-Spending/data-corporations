@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "313 Ontario Ave, Saskatoon, SK S7K 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd9c08751a8f4eb59277416fb50eccc0|BN20130719|7.7.0.0|",
+				"addressLine": "313 Ontario Ave",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "313 Ontario Ave, Saskatoon, SK S7K 1S3, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Central Industrial",
+				"postalCode": "S7K 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.66621,
+					52.13306
+				]
+			},
+			"bbox": [
+				-106.6680414,
+				52.1319358,
+				-106.6643786,
+				52.1341842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 N Murray St, Trenton, ON K8V 6R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eac0e567733d449d90353f4c91d9542c|BN20130721|7.7.0.0|",
+				"addressLine": "150 N Murray St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 N Murray St, Trenton, ON K8V 6R8, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 6R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.56784,
+					44.12222
+				]
+			},
+			"bbox": [
+				-77.569406,
+				44.1210958,
+				-77.566274,
+				44.1233442
+			]
+		}
+	]
+}

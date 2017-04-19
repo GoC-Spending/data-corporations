@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "707 Woodpark Rd SW, Calgary, AB T2W 2S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13f172e51b074a91a4c5fc3fec53fb3d|BN20130533|7.7.0.0|",
+				"addressLine": "707 Woodpark Rd SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "707 Woodpark Rd SW, Calgary, AB T2W 2S3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Woodlands",
+				"postalCode": "T2W 2S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.10663,
+					50.94688
+				]
+			},
+			"bbox": [
+				-114.1084143,
+				50.9457558,
+				-114.1048457,
+				50.9480042
+			]
+		}
+	]
+}

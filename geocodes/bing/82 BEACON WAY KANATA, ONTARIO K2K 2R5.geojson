@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 10,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "Beacon Way, Kanata, ON K2K 2R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85c58767fefd442eaf487c5ac7175e96|BN20130530|7.7.0.0|",
+				"addressLine": "Beacon Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Beacon Way, Kanata, ON K2K 2R5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 2R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.93402,
+					45.34526
+				]
+			},
+			"bbox": [
+				-75.93651,
+				45.34481,
+				-75.93402,
+				45.34615
+			]
+		}
+	]
+}

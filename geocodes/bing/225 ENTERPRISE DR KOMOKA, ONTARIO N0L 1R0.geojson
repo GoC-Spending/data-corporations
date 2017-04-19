@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Enterprise Dr, Komoka, ON N0L 1R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81b459d6ddb04a2f93afe4042072e0c6|BN20130520|7.7.0.0|",
+				"addressLine": "225 Enterprise Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Enterprise Dr, Komoka, ON N0L 1R0, Canada",
+				"locality": "Middlesex Centre",
+				"neighborhood": "Komoka",
+				"postalCode": "N0L 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.40948,
+					42.95805
+				]
+			},
+			"bbox": [
+				-81.411016,
+				42.9569258,
+				-81.407944,
+				42.9591742
+			]
+		}
+	]
+}

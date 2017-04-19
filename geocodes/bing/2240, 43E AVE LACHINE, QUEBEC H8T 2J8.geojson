@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2240 43e Avenue, Lachine, QC H8T 2J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c07b5b2bfaa4dcbb2fc222f93c44405|BN20130522|7.7.0.0|",
+				"addressLine": "2240 43e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2240 43e Avenue, Lachine, QC H8T 2J8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 2J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.71553,
+					45.4632
+				]
+			},
+			"bbox": [
+				-73.7171328,
+				45.4620758,
+				-73.7139272,
+				45.4643242
+			]
+		}
+	]
+}

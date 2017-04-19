@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5747 Telegraph Trl, West Vancouver, BC V7W 1R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1ba3a0a344242e889fb0da1be051e91|BN20210145|7.7.0.0|",
+				"addressLine": "5747 Telegraph Trl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5747 Telegraph Trl, West Vancouver, BC V7W 1R3, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Eagle Harbour",
+				"postalCode": "V7W 1R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.267482,
+					49.3552133
+				]
+			},
+			"bbox": [
+				-123.2692079,
+				49.3540892,
+				-123.2657562,
+				49.3563375
+			]
+		}
+	]
+}

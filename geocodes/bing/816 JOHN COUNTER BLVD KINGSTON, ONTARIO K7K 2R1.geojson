@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "816 John Counter Blvd, Kingston, ON K7K 2R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a83cdefc146246d49b2634d9e41e0cbd|BN20130532|7.7.0.0|",
+				"addressLine": "816 John Counter Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "816 John Counter Blvd, Kingston, ON K7K 2R1, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Rideau Heights",
+				"postalCode": "K7K 2R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.48867,
+					44.25622
+				]
+			},
+			"bbox": [
+				-76.4902395,
+				44.2550958,
+				-76.4871005,
+				44.2573442
+			]
+		}
+	]
+}

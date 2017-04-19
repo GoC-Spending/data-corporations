@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "732 Rue Dandurand, Laval, QC H7X 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a913f7e97364668b353ada143863755|BN20171457|7.7.0.0|",
+				"addressLine": "732 Rue Dandurand",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "732 Rue Dandurand, Laval, QC H7X 2W4, Canada",
+				"locality": "Laval",
+				"postalCode": "H7X 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.80021,
+					45.52446
+				]
+			},
+			"bbox": [
+				-73.8018145,
+				45.5233358,
+				-73.7986055,
+				45.5255842
+			]
+		}
+	]
+}

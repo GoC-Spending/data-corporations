@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20097 36 Ave, Langley, BC V3A 2R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4858e035885429faaaa9f85b582956f|BN20290118|7.7.0.0|",
+				"addressLine": "20097 36 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "20097 36 Ave, Langley, BC V3A 2R5, Canada",
+				"locality": "Langley",
+				"neighborhood": "Brookswood/Fernridge",
+				"postalCode": "V3A 2R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.66708,
+					49.06748
+				]
+			},
+			"bbox": [
+				-122.6687958,
+				49.0663558,
+				-122.6653642,
+				49.0686042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Blizzard St, Fredericton, NB E3B 8K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20340cdb659a4b249d6ae4718d0d79bb|BN20190642|7.7.0.0|",
+				"addressLine": "25 Blizzard St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Blizzard St, Fredericton, NB E3B 8K3, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 8K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.59309,
+					45.89788
+				]
+			},
+			"bbox": [
+				-66.5947053,
+				45.8967558,
+				-66.5914747,
+				45.8990042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "144 King St E, Toronto, ON M5C 1G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d37f01ca998f4e48a338e92e439c9148|BN20210145|7.7.0.0|",
+				"addressLine": "144 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "144 King St E, Toronto, ON M5C 1G8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 1G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37215,
+					43.65062
+				]
+			},
+			"bbox": [
+				-79.3737036,
+				43.6494958,
+				-79.3705964,
+				43.6517442
+			]
+		}
+	]
+}

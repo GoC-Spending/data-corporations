@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 Evans Ave, Etobicoke, ON M8Z 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dff49997d50c49819d0d3e30c6209c89|BN20121764|7.7.0.0|",
+				"addressLine": "208 Evans Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 Evans Ave, Etobicoke, ON M8Z 1J7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mimico",
+				"postalCode": "M8Z 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.51483,
+					43.61825
+				]
+			},
+			"bbox": [
+				-79.5163828,
+				43.6171258,
+				-79.5132772,
+				43.6193742
+			]
+		}
+	]
+}

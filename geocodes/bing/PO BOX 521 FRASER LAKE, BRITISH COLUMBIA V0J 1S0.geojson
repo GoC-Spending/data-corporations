@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "521 Fraser Blvd, MacKenzie, BC V0J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d13fd4d32544f6e9c888bd4b31bb0c2|BN20210145|7.7.0.0|",
+				"addressLine": "521 Fraser Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "521 Fraser Blvd, MacKenzie, BC V0J, Canada",
+				"locality": "MacKenzie",
+				"postalCode": "V0J 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0984008,
+					55.3390298
+				]
+			},
+			"bbox": [
+				-123.1003775,
+				55.3379056,
+				-123.0964242,
+				55.3401539
+			]
+		}
+	]
+}

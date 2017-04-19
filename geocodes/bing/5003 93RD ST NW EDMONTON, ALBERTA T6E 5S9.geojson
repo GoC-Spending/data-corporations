@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5003 93 St NW, Edmonton, AB T6E 5S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8603e5505f7b4571838f6bef1181ca6e|BN20250135|7.7.0.0|",
+				"addressLine": "5003 93 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5003 93 St NW, Edmonton, AB T6E 5S9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Papaschase Industrial",
+				"postalCode": "T6E 5S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46926,
+					53.48569
+				]
+			},
+			"bbox": [
+				-113.4711493,
+				53.4845658,
+				-113.4673707,
+				53.4868142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1540 Rue Arthur, Gatineau, QC J8R 3J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f48f7046ad054e10a6e48cc9e75c83f0|BN20130620|7.7.0.0|",
+				"addressLine": "1540 Rue Arthur",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "1540 Rue Arthur, Gatineau, QC J8R 3J3, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier de Gatineau",
+				"postalCode": "J8R 3J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.63792,
+					45.53484
+				]
+			},
+			"bbox": [
+				-75.6395248,
+				45.5337158,
+				-75.6363152,
+				45.5359642
+			]
+		}
+	]
+}

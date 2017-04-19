@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1460 Norman Ave, London, ON N6K 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58248d26b56244c5a42c8d447d8adbf8|BN20130447|7.7.0.0|",
+				"addressLine": "1460 Norman Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1460 Norman Ave, London, ON N6K 2A7, Canada",
+				"locality": "London",
+				"neighborhood": "Byron",
+				"postalCode": "N6K 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3428,
+					42.9565
+				]
+			},
+			"bbox": [
+				-81.344336,
+				42.9553758,
+				-81.341264,
+				42.9576242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "61 W 7th Ave, Vancouver, BC V5Y 1L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a993d9ebb5c42cc9c7141bc6a552c7d|BN20130620|7.7.0.0|",
+				"addressLine": "61 W 7th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "61 W 7th Ave, Vancouver, BC V5Y 1L4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10623,
+					49.26479
+				]
+			},
+			"bbox": [
+				-123.1079527,
+				49.2636658,
+				-123.1045073,
+				49.2659142
+			]
+		}
+	]
+}

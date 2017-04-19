@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Gold Ln, Montague Gold Mines, NS B2R 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8827cc4796541e39b696f4b248bd73b|BN20200137|7.7.0.0|",
+				"addressLine": "6 Gold Ln",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Gold Ln, Montague Gold Mines, NS B2R 1J4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Montague Gold Mines",
+				"postalCode": "B2R 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.51174,
+					44.71996
+				]
+			},
+			"bbox": [
+				-63.5133221,
+				44.7188358,
+				-63.5101579,
+				44.7210842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20135 115A Ave, Maple Ridge, BC V2X 0Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc6d89748713494981e2ad39e84c1c6b|BN20280152|7.7.0.0|",
+				"addressLine": "20135 115A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "20135 115A Ave, Maple Ridge, BC V2X 0Z3, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 0Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6646249,
+					49.2118969
+				]
+			},
+			"bbox": [
+				-122.6663457,
+				49.2107727,
+				-122.662904,
+				49.213021
+			]
+		}
+	]
+}

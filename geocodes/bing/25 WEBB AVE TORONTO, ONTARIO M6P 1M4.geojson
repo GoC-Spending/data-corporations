@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Webb Ave, Toronto, ON M6P 1M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad6b180974884589968bb319b2e5eba6|BN20130442|7.7.0.0|",
+				"addressLine": "25 Webb Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Webb Ave, Toronto, ON M6P 1M4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park North",
+				"postalCode": "M6P 1M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47838,
+					43.65864
+				]
+			},
+			"bbox": [
+				-79.4799338,
+				43.6575158,
+				-79.4768262,
+				43.6597642
+			]
+		}
+	]
+}

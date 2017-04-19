@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4115 18 Ave N, Lethbridge, AB T1H 5G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "36df298f2ffe4df19ea5c8c4cd79dc80|BN20250135|7.7.0.0|",
+				"addressLine": "4115 18 Ave N",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4115 18 Ave N, Lethbridge, AB T1H 5G1, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1H 5G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.7824647,
+					49.7224033
+				]
+			},
+			"bbox": [
+				-112.7842035,
+				49.7212792,
+				-112.7807258,
+				49.7235275
+			]
+		}
+	]
+}

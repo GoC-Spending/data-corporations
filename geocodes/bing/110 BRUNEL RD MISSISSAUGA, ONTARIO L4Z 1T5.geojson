@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Brunel Rd, Mississauga, ON L4Z 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73a0c04e8f75419f8a80c339d30ceea7|BN20171457|7.7.0.0|",
+				"addressLine": "110 Brunel Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Brunel Rd, Mississauga, ON L4Z 1T5, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Z 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67404,
+					43.62654
+				]
+			},
+			"bbox": [
+				-79.675593,
+				43.6254158,
+				-79.672487,
+				43.6276642
+			]
+		}
+	]
+}

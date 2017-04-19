@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5050 Mainway, Burlington, ON L7L 5Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "174393755b55409182ad7ec4e0bfc1d9|BN20130521|7.7.0.0|",
+				"addressLine": "5050 Mainway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5050 Mainway, Burlington, ON L7L 5Z1, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Orchard",
+				"postalCode": "L7L 5Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77613,
+					43.39082
+				]
+			},
+			"bbox": [
+				-79.777677,
+				43.3896958,
+				-79.774583,
+				43.3919442
+			]
+		}
+	]
+}

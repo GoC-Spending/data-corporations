@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "237 Colborne St W, Orillia, ON L3V 2Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1f019a1f1dd4855804439b6c7ea6b99|BN20130520|7.7.0.0|",
+				"addressLine": "237 Colborne St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "237 Colborne St W, Orillia, ON L3V 2Z7, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 2Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4281149,
+					44.6032892
+				]
+			},
+			"bbox": [
+				-79.4296938,
+				44.602165,
+				-79.426536,
+				44.6044133
+			]
+		}
+	]
+}

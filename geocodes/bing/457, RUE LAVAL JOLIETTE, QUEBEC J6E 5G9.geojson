@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "457 Rue Laval, Joliette, QC J6E 5G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63f04511ab5442a0bb9ee1580c1a066a|BN20240253|7.7.0.0|",
+				"addressLine": "457 Rue Laval",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Joliette",
+				"countryRegion": "Canada",
+				"formattedAddress": "457 Rue Laval, Joliette, QC J6E 5G9, Canada",
+				"locality": "Joliette",
+				"postalCode": "J6E 5G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.4324,
+					46.01911
+				]
+			},
+			"bbox": [
+				-73.4340188,
+				46.0179858,
+				-73.4307812,
+				46.0202342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1273 N Service Rd E, Oakville, ON L6H 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25d280e336064dd3857fa707b85c9421|BN20130422|7.7.0.0|",
+				"addressLine": "1273 N Service Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1273 N Service Rd E, Oakville, ON L6H 1A7, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Falgarwood",
+				"postalCode": "L6H 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6730091,
+					43.4768228
+				]
+			},
+			"bbox": [
+				-79.6745583,
+				43.4756986,
+				-79.67146,
+				43.4779469
+			]
+		}
+	]
+}

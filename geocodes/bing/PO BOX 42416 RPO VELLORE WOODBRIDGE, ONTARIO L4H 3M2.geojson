@@ -1,0 +1,112 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Toronto, L4H 3M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf81ec82bfe84889af90ea475d3f0eb7|BN20210145|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "Toronto, L4H 3M2, Canada",
+				"locality": "Toronto",
+				"postalCode": "L4H 3M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4398803710938,
+					43.6888809204102
+				]
+			},
+			"bbox": [
+				-79.4470024148678,
+				43.6850182028395,
+				-79.4327583273197,
+				43.6927436379808
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 3,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Vellore, Tamil Nadu, India",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf81ec82bfe84889af90ea475d3f0eb7|BN20210145|7.7.0.0|",
+				"adminDistrict": "Tamil Nadu",
+				"adminDistrict2": "Vellore",
+				"countryRegion": "India",
+				"formattedAddress": "Vellore, Tamil Nadu, India",
+				"locality": "Vellore"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					79.1324996948242,
+					12.9135398864746
+				]
+			},
+			"bbox": [
+				79.1007995605469,
+				12.8681793212891,
+				79.1985855102539,
+				13.004958152771
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Woodbridge, Vaughan, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf81ec82bfe84889af90ea475d3f0eb7|BN20210145|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "Woodbridge, Vaughan, Ontario, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5921630859375,
+					43.7850608825684
+				]
+			},
+			"bbox": [
+				-79.5992965770252,
+				43.7811981649977,
+				-79.5850295948498,
+				43.788923600139
+			]
+		}
+	]
+}

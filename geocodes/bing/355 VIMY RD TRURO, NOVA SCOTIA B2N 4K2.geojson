@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "355 Vimy Rd, Truro, NS B2N 4K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16fe285238644a4eac8c354518f1c626|BN20130625|7.7.0.0|",
+				"addressLine": "355 Vimy Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "355 Vimy Rd, Truro, NS B2N 4K2, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Truro",
+				"postalCode": "B2N 4K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.26511,
+					45.38821
+				]
+			},
+			"bbox": [
+				-63.2667107,
+				45.3870858,
+				-63.2635093,
+				45.3893342
+			]
+		}
+	]
+}

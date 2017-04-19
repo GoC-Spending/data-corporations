@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "562 Waterloo St, London, ON N6B 2P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ae2cd704a414f02acc932166afb7d16|BN20250135|7.7.0.0|",
+				"addressLine": "562 Waterloo St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "562 Waterloo St, London, ON N6B 2P9, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 2P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2446,
+					42.991
+				]
+			},
+			"bbox": [
+				-81.2461369,
+				42.9898758,
+				-81.2430631,
+				42.9921242
+			]
+		}
+	]
+}

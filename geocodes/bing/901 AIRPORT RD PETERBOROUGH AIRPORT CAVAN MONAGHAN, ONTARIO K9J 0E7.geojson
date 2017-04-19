@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "901 Airport Rd, Cavan-Monaghan, ON K9J 0E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5b166033fbf463085ec2efac9e61363|BN20220145|7.7.0.0|",
+				"addressLine": "901 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "901 Airport Rd, Cavan-Monaghan, ON K9J 0E7, Canada",
+				"locality": "Cavan-Monaghan",
+				"neighborhood": "Peterborough",
+				"postalCode": "K9J 0E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3539305,
+					44.235394
+				]
+			},
+			"bbox": [
+				-78.3554995,
+				44.2342698,
+				-78.3523615,
+				44.2365181
+			]
+		}
+	]
+}

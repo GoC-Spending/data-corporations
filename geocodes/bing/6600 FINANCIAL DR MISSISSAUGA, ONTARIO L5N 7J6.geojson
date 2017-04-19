@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6600 Financial Dr, Mississauga, ON L5N 7J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "348c3a75657a45e690deb7f89f0e0944|BN20130631|7.7.0.0|",
+				"addressLine": "6600 Financial Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6600 Financial Dr, Mississauga, ON L5N 7J6, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5N 7J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7392403,
+					43.6128023
+				]
+			},
+			"bbox": [
+				-79.7407929,
+				43.6116782,
+				-79.7376876,
+				43.6139265
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Roy Blvd, Brantford, ON N3R 7K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e79ba1174b044c7580121a6c43879048|BN20280152|7.7.0.0|",
+				"addressLine": "59 Roy Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Roy Blvd, Brantford, ON N3R 7K1, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 7K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.22694,
+					43.17183
+				]
+			},
+			"bbox": [
+				-80.2284814,
+				43.1707058,
+				-80.2253986,
+				43.1729542
+			]
+		}
+	]
+}

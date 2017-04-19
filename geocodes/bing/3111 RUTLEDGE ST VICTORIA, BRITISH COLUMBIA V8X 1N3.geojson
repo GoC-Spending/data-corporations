@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3111 Rutledge St, Victoria, BC V8X 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62c68038f7d249048fade4b76c407826|BN20200137|7.7.0.0|",
+				"addressLine": "3111 Rutledge St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3111 Rutledge St, Victoria, BC V8X 1N3, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Hillside-Quadra-Downtown Blanshard",
+				"postalCode": "V8X 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36437,
+					48.44602
+				]
+			},
+			"bbox": [
+				-123.3660647,
+				48.4448958,
+				-123.3626753,
+				48.4471442
+			]
+		}
+	]
+}

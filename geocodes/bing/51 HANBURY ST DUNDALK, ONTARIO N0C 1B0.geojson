@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Hanbury St, Southgate, ON N0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b5e76907808f4f56b2e6d06021d0f770|BN20121762|7.7.0.0|",
+				"addressLine": "51 Hanbury St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Grey",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Hanbury St, Southgate, ON N0C, Canada",
+				"locality": "Southgate",
+				"neighborhood": "Dundalk",
+				"postalCode": "N0C 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3962727,
+					44.1611046
+				]
+			},
+			"bbox": [
+				-80.3978397,
+				44.1599804,
+				-80.3947057,
+				44.1622287
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1575 Eglinton Ave W, York, ON M6E 2G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de537d7486474cde92d36e24a57ead02|BN20290118|7.7.0.0|",
+				"addressLine": "1575 Eglinton Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1575 Eglinton Ave W, York, ON M6E 2G9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakwood Village",
+				"postalCode": "M6E 2G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44251,
+					43.69712
+				]
+			},
+			"bbox": [
+				-79.4440648,
+				43.6959958,
+				-79.4409552,
+				43.6982442
+			]
+		}
+	]
+}

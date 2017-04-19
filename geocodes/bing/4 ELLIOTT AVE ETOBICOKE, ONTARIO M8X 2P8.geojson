@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Elliott Ave, Etobicoke, ON M8X 2P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a5e0ed4f9904917bec19f4170ce3b58|BN20260231|7.7.0.0|",
+				"addressLine": "4 Elliott Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Elliott Ave, Etobicoke, ON M8X 2P8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kingsway South",
+				"postalCode": "M8X 2P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50578,
+					43.65938
+				]
+			},
+			"bbox": [
+				-79.5073339,
+				43.6582558,
+				-79.5042261,
+				43.6605042
+			]
+		}
+	]
+}

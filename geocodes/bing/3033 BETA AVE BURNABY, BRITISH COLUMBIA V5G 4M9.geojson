@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3033 Beta Ave, Burnaby, BC V5G 4M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef1c6beeb9274ca7b84020e4c52d059e|BN20130530|7.7.0.0|",
+				"addressLine": "3033 Beta Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3033 Beta Ave, Burnaby, BC V5G 4M9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Douglas-Gilpin",
+				"postalCode": "V5G 4M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.99872,
+					49.25664
+				]
+			},
+			"bbox": [
+				-123.0004424,
+				49.2555158,
+				-122.9969976,
+				49.2577642
+			]
+		}
+	]
+}

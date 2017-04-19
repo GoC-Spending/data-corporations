@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17718 64 Ave NW, Edmonton, AB T5T 4J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf9192153d044b9592894243a735750d|BN20130442|7.7.0.0|",
+				"addressLine": "17718 64 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17718 64 Ave NW, Edmonton, AB T5T 4J5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Callingwood South",
+				"postalCode": "T5T 4J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6278643,
+					53.4998523
+				]
+			},
+			"bbox": [
+				-113.6297542,
+				53.4987282,
+				-113.6259744,
+				53.5009765
+			]
+		}
+	]
+}

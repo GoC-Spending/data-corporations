@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11140 142 St NW, Edmonton, AB T5M 4G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "664e5e60997041528bbbff389410e89c|BN20190642|7.7.0.0|",
+				"addressLine": "11140 142 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11140 142 St NW, Edmonton, AB T5M 4G5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Huff Bremner Estate Industrial",
+				"postalCode": "T5M 4G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.56697,
+					53.55978
+				]
+			},
+			"bbox": [
+				-113.5688626,
+				53.5586558,
+				-113.5650774,
+				53.5609042
+			]
+		}
+	]
+}

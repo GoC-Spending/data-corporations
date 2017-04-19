@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "327 68th St, Saskatoon, SK S7P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18e5539bf0034ed3981fa58a44fd779c|BN20130721|7.7.0.0|",
+				"addressLine": "327 68th St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "327 68th St, Saskatoon, SK S7P, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Marquis Industrial",
+				"postalCode": "S7P 0E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.65079,
+					52.19762
+				]
+			},
+			"bbox": [
+				-106.652624,
+				52.1964958,
+				-106.648956,
+				52.1987442
+			]
+		}
+	]
+}

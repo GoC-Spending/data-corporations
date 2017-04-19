@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9580 170 St NW, Edmonton, AB T5T 5R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f3e55c1fede4370b29052dbecd02f18|BN20210145|7.7.0.0|",
+				"addressLine": "9580 170 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9580 170 St NW, Edmonton, AB T5T 5R5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Terra Losa",
+				"postalCode": "T5T 5R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6155549,
+					53.5332056
+				]
+			},
+			"bbox": [
+				-113.6174463,
+				53.5320815,
+				-113.6136635,
+				53.5343298
+			]
+		}
+	]
+}

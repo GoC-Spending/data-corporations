@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14835 138A St NW, Edmonton, AB T6V 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4e3e95d4e184f868195a4aeb88ffc92|BN20130634|7.7.0.0|",
+				"addressLine": "14835 138A St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14835 138A St NW, Edmonton, AB T6V 1S1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Cumberland",
+				"postalCode": "T6V 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5589,
+					53.6115
+				]
+			},
+			"bbox": [
+				-113.5607949,
+				53.6103758,
+				-113.5570051,
+				53.6126242
+			]
+		}
+	]
+}

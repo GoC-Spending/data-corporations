@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "338 Winchester St, Winnipeg, MB R3J 2E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d3512103fc94dc5beee99abc6912899|BN20130533|7.7.0.0|",
+				"addressLine": "338 Winchester St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "338 Winchester St, Winnipeg, MB R3J 2E6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Deer Lodge",
+				"postalCode": "R3J 2E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.22929,
+					49.88315
+				]
+			},
+			"bbox": [
+				-97.2310346,
+				49.8820258,
+				-97.2275454,
+				49.8842742
+			]
+		}
+	]
+}

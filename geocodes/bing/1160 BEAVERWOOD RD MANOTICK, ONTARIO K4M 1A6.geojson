@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1160 Beaverwood Rd, Ottawa, ON K4M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "680fe2b43fb6493baf630f2c1e0e1af5|BN20130431|7.7.0.0|",
+				"addressLine": "1160 Beaverwood Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1160 Beaverwood Rd, Ottawa, ON K4M, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Manotick",
+				"postalCode": "K4M 1A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68362,
+					45.22343
+				]
+			},
+			"bbox": [
+				-75.685216,
+				45.2223058,
+				-75.682024,
+				45.2245542
+			]
+		}
+	]
+}

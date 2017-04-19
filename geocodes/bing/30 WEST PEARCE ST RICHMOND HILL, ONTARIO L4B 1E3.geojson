@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 W Pearce St, Richmond Hill, ON L4B 1E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2343ad6fb2ac43a9b71b456008f3e5af|BN20260231|7.7.0.0|",
+				"addressLine": "30 W Pearce St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 W Pearce St, Richmond Hill, ON L4B 1E3, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4B 1E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38598,
+					43.8485
+				]
+			},
+			"bbox": [
+				-79.3875388,
+				43.8473758,
+				-79.3844212,
+				43.8496242
+			]
+		}
+	]
+}

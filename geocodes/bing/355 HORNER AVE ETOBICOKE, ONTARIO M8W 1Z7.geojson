@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "355 Horner Ave, Etobicoke, ON M8W 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4a8f1ed269e4bebbee38b8e3a36a9f2|BN20220145|7.7.0.0|",
+				"addressLine": "355 Horner Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "355 Horner Ave, Etobicoke, ON M8W 1Z7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Alderwood",
+				"postalCode": "M8W 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53016,
+					43.60327
+				]
+			},
+			"bbox": [
+				-79.5317124,
+				43.6021458,
+				-79.5286076,
+				43.6043942
+			]
+		}
+	]
+}

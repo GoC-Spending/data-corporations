@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4141 93 St NW, Edmonton, AB T6E 5Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52bd204c16da4889bb1766d546754b17|BN20130521|7.7.0.0|",
+				"addressLine": "4141 93 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4141 93 St NW, Edmonton, AB T6E 5Y3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 5Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.47108,
+					53.47823
+				]
+			},
+			"bbox": [
+				-113.4729689,
+				53.4771058,
+				-113.4691911,
+				53.4793542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9025 Avenue Ryan, Dorval, QC H9P 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b40541b3c6e24941a488fb0bb584a250|BN20121764|7.7.0.0|",
+				"addressLine": "9025 Avenue Ryan",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "9025 Avenue Ryan, Dorval, QC H9P 1A2, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9P 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.71256,
+					45.47426
+				]
+			},
+			"bbox": [
+				-73.7141631,
+				45.4731358,
+				-73.7109569,
+				45.4753842
+			]
+		}
+	]
+}

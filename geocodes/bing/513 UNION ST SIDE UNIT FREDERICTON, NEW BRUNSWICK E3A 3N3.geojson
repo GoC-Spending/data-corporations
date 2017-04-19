@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "513 Union St, Fredericton, NB E3A 3N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4435cad4feb9454280a24b66963954be|BN20130422|7.7.0.0|",
+				"addressLine": "513 Union St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "513 Union St, Fredericton, NB E3A 3N3, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3A 3N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.63297,
+					45.97016
+				]
+			},
+			"bbox": [
+				-66.6345874,
+				45.9690358,
+				-66.6313526,
+				45.9712842
+			]
+		}
+	]
+}

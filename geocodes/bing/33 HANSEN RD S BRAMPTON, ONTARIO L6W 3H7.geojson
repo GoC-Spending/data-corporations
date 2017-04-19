@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Hansen Rd S, Brampton, ON L6W 3H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d7c379479944a71949c7329c3ba12bc|BN20121763|7.7.0.0|",
+				"addressLine": "33 Hansen Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Hansen Rd S, Brampton, ON L6W 3H7, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6W 3H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.74066,
+					43.6944
+				]
+			},
+			"bbox": [
+				-79.7422148,
+				43.6932758,
+				-79.7391052,
+				43.6955242
+			]
+		}
+	]
+}

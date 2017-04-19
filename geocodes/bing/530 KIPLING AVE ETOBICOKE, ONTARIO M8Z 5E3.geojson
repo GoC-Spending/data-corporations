@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Kipling Ave, Etobicoke, ON M8Z 5E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7c6c44c12374e2cb55db0992f10d9db|BN20130533|7.7.0.0|",
+				"addressLine": "530 Kipling Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Kipling Ave, Etobicoke, ON M8Z 5E3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mimico",
+				"postalCode": "M8Z 5E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52404,
+					43.61298
+				]
+			},
+			"bbox": [
+				-79.5255927,
+				43.6118558,
+				-79.5224873,
+				43.6141042
+			]
+		}
+	]
+}

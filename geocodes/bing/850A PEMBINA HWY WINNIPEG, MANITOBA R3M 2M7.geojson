@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "850 Pembina Hwy, Winnipeg, MB R3M 2M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d840c6c104bd4b67bc4ded79daca7763|BN20121762|7.7.0.0|",
+				"addressLine": "850 Pembina Hwy",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "850 Pembina Hwy, Winnipeg, MB R3M 2M7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Ebby-Wentworth",
+				"postalCode": "R3M 2M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15154,
+					49.85634
+				]
+			},
+			"bbox": [
+				-97.1532837,
+				49.8552158,
+				-97.1497963,
+				49.8574642
+			]
+		}
+	]
+}

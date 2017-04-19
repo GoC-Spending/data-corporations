@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "507 Louise Rd, Ladysmith, BC V9G 1W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6961f14dc6794abab7d35c618b5e08d9|BN20181720|7.7.0.0|",
+				"addressLine": "507 Louise Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "507 Louise Rd, Ladysmith, BC V9G 1W8, Canada",
+				"locality": "Ladysmith",
+				"postalCode": "V9G 1W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.79601,
+					48.9706199
+				]
+			},
+			"bbox": [
+				-123.7977225,
+				48.9694957,
+				-123.7942975,
+				48.9717441
+			]
+		}
+	]
+}

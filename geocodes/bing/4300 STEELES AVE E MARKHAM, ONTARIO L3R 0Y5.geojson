@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4300 Steeles Ave E, Markham, ON L3R 0Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54446d8931644bf183c5f902caa5db92|BN20130447|7.7.0.0|",
+				"addressLine": "4300 Steeles Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "4300 Steeles Ave E, Markham, ON L3R 0Y5, Canada",
+				"locality": "Markham",
+				"neighborhood": "North Milliken",
+				"postalCode": "L3R 0Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3055156,
+					43.8241737
+				]
+			},
+			"bbox": [
+				-79.3070737,
+				43.8230495,
+				-79.3039574,
+				43.8252978
+			]
+		}
+	]
+}

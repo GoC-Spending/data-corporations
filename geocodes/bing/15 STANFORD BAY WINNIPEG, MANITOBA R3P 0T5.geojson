@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Stanford Bay, Winnipeg, MB R3P 0T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f959257d75194deeaee146465a3db4be|BN20260223|7.7.0.0|",
+				"addressLine": "15 Stanford Bay",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Stanford Bay, Winnipeg, MB R3P 0T5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South Tuxedo",
+				"postalCode": "R3P 0T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.22425,
+					49.85653
+				]
+			},
+			"bbox": [
+				-97.2259937,
+				49.8554058,
+				-97.2225063,
+				49.8576542
+			]
+		}
+	]
+}

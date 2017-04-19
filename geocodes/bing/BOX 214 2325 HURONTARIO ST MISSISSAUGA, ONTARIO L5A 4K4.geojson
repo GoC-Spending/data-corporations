@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2325 Hurontario St, Mississauga, ON L5A 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d716eb7878c409897c2c0f8415720de|BN20220145|7.7.0.0|",
+				"addressLine": "2325 Hurontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "2325 Hurontario St, Mississauga, ON L5A 4K4, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5A 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60772,
+					43.57538
+				]
+			},
+			"bbox": [
+				-79.6092717,
+				43.5742558,
+				-79.6061683,
+				43.5765042
+			]
+		}
+	]
+}

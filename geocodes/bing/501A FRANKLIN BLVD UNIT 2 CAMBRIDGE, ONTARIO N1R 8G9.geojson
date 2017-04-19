@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "501 Franklin Blvd, Cambridge, ON N1R 8G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa6e847fb6ad439a90e28a5fdb9baa5a|BN20290118|7.7.0.0|",
+				"addressLine": "501 Franklin Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "501 Franklin Blvd, Cambridge, ON N1R 8G9, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Silver Heights",
+				"postalCode": "N1R 8G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2932342,
+					43.3687471
+				]
+			},
+			"bbox": [
+				-80.2947806,
+				43.367623,
+				-80.2916878,
+				43.3698713
+			]
+		}
+	]
+}

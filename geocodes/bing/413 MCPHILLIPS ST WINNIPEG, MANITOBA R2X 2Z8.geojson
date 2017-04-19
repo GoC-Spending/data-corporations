@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "413 McPhillips St, Winnipeg, MB R2X 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc634e0dbfe5424da26ca6067969ff80|BN20181720|7.7.0.0|",
+				"addressLine": "413 McPhillips St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "413 McPhillips St, Winnipeg, MB R2X 2Z8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Weston Shops",
+				"postalCode": "R2X 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.16933,
+					49.91757
+				]
+			},
+			"bbox": [
+				-97.1710759,
+				49.9164458,
+				-97.1675841,
+				49.9186942
+			]
+		}
+	]
+}

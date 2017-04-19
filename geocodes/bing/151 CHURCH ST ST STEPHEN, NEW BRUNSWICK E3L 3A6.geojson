@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "151 Church St, St Stephen Parish, NB E3L 5H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "484907a619e147c29a57f804b5a0e3a3|BN20130520|7.7.0.0|",
+				"addressLine": "151 Church St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Charlotte",
+				"countryRegion": "Canada",
+				"formattedAddress": "151 Church St, St Stephen Parish, NB E3L 5H1, Canada",
+				"locality": "St Stephen Parish",
+				"postalCode": "E3L 5H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-67.3117865,
+					45.1864245
+				]
+			},
+			"bbox": [
+				-67.3133815,
+				45.1853003,
+				-67.3101915,
+				45.1875486
+			]
+		}
+	]
+}

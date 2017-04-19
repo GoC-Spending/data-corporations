@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1175 Ellis St, Kelowna, BC V1Y 1Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0853a68e3f524f20aa951eed1c9c1ee1|BN20320521|7.7.0.0|",
+				"addressLine": "1175 Ellis St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1175 Ellis St, Kelowna, BC V1Y 1Z5, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "North End",
+				"postalCode": "V1Y 1Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4933851,
+					49.8941071
+				]
+			},
+			"bbox": [
+				-119.4951301,
+				49.892983,
+				-119.4916401,
+				49.8952313
+			]
+		}
+	]
+}

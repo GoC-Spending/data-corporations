@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2109 5 St, Nisku, AB T9E 7X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60ceed57539f4145b6d590218314c0b2|BN20130431|7.7.0.0|",
+				"addressLine": "2109 5 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2109 5 St, Nisku, AB T9E 7X4, Canada",
+				"locality": "Leduc County",
+				"neighborhood": "Nisku",
+				"postalCode": "T9E 7X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53013,
+					53.34241
+				]
+			},
+			"bbox": [
+				-113.5320129,
+				53.3412858,
+				-113.5282471,
+				53.3435342
+			]
+		}
+	]
+}

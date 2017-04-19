@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6961 Russell Ave, Burnaby, BC V5J 4R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd280455818e4e0cba2a19851b2be04f|BN20130522|7.7.0.0|",
+				"addressLine": "6961 Russell Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6961 Russell Ave, Burnaby, BC V5J 4R8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Windsor",
+				"postalCode": "V5J 4R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9790625,
+					49.2203534
+				]
+			},
+			"bbox": [
+				-122.9807836,
+				49.2192292,
+				-122.9773414,
+				49.2214775
+			]
+		}
+	]
+}

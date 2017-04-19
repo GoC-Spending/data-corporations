@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "854 Cabot Trl, Milton, ON L9T 3N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "220af29c42274373814981a613d3aeb2|BN20130634|7.7.0.0|",
+				"addressLine": "854 Cabot Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "854 Cabot Trl, Milton, ON L9T 3N2, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 3N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8693399,
+					43.52906
+				]
+			},
+			"bbox": [
+				-79.8708904,
+				43.5279358,
+				-79.8677894,
+				43.5301842
+			]
+		}
+	]
+}

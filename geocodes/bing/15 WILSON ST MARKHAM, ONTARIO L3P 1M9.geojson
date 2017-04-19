@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Wilson St, Markham, ON L3P 1M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4c8e9a790a34a0880eb7dc512d250bd|BN20130634|7.7.0.0|",
+				"addressLine": "15 Wilson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Wilson St, Markham, ON L3P 1M9, Canada",
+				"locality": "Markham",
+				"postalCode": "L3P 1M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26203,
+					43.87833
+				]
+			},
+			"bbox": [
+				-79.2635896,
+				43.8772058,
+				-79.2604704,
+				43.8794542
+			]
+		}
+	]
+}

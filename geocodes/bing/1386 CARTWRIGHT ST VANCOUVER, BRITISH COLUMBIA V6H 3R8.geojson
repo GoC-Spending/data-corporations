@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1386 Cartwright St, Vancouver, BC V6H 3R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bdb6b2332ffa4b8e97b2e5ce20f14156|BN20160335|7.7.0.0|",
+				"addressLine": "1386 Cartwright St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1386 Cartwright St, Vancouver, BC V6H 3R8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Granville Island",
+				"postalCode": "V6H 3R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1343857,
+					49.2697554
+				]
+			},
+			"bbox": [
+				-123.1361086,
+				49.2686312,
+				-123.1326629,
+				49.2708795
+			]
+		}
+	]
+}

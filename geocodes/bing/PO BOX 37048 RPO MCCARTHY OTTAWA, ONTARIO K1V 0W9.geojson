@@ -1,0 +1,44 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Chemin McCarthy, Ottawa, ON K1V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08b3c73bd8974ff8b9c42ba0bbcdd61f|BN20320521|7.7.0.0|",
+				"addressLine": "Chemin McCarthy",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Chemin McCarthy, Ottawa, ON K1V, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hunt Club East-Western Community",
+				"postalCode": "K1V 0W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66952,
+					45.35122
+				]
+			},
+			"bbox": [
+				-75.67346,
+				45.34757,
+				-75.66149,
+				45.35825
+			]
+		}
+	]
+}

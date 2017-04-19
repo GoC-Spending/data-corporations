@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "403 North Rd, Coquitlam, BC V3K 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f467848bd21341489b14ed76c49c010a|BN20130422|7.7.0.0|",
+				"addressLine": "403 North Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "403 North Rd, Coquitlam, BC V3K 3V9, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cariboo/Burquitlam",
+				"postalCode": "V3K 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.89246,
+					49.24632
+				]
+			},
+			"bbox": [
+				-122.894182,
+				49.2451958,
+				-122.890738,
+				49.2474442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3231 Langstaff Rd, Concord, ON L4K 4L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c621852b72584ade9b1672ada4c78cde|BN20130634|7.7.0.0|",
+				"addressLine": "3231 Langstaff Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "3231 Langstaff Rd, Concord, ON L4K 4L2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53425,
+					43.81046
+				]
+			},
+			"bbox": [
+				-79.5358078,
+				43.8093358,
+				-79.5326922,
+				43.8115842
+			]
+		}
+	]
+}

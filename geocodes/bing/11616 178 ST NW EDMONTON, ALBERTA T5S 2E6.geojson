@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11616 178 St NW, Edmonton, AB T5S 2E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78c838226a0b4213bf7ad1a6e3abd950|BN20210145|7.7.0.0|",
+				"addressLine": "11616 178 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11616 178 St NW, Edmonton, AB T5S 2E6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Edmiston Industrial",
+				"postalCode": "T5S 2E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.62799,
+					53.5683099
+				]
+			},
+			"bbox": [
+				-113.6298829,
+				53.5671857,
+				-113.6260971,
+				53.5694341
+			]
+		}
+	]
+}

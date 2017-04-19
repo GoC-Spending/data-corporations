@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "750 Johnson St, Boissevain, MB R0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b1cb1c8fe454a14b7c7d40eaf189ed4|BN20131519|7.7.0.0|",
+				"addressLine": "750 Johnson St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "750 Johnson St, Boissevain, MB R0K, Canada",
+				"locality": "Boissevain",
+				"postalCode": "R0K 0E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.0530689,
+					49.2347157
+				]
+			},
+			"bbox": [
+				-100.0547905,
+				49.2335916,
+				-100.0513473,
+				49.2358399
+			]
+		}
+	]
+}

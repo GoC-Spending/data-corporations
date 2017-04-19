@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Renfield St, Guelph, ON N1E 4A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "129c82bc4d904d70b9ab640a2d9e57d6|BN20290118|7.7.0.0|",
+				"addressLine": "110 Renfield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Renfield St, Guelph, ON N1E 4A8, Canada",
+				"locality": "Guelph",
+				"neighborhood": "General Hospital/Riverside Park",
+				"postalCode": "N1E 4A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25389,
+					43.56774
+				]
+			},
+			"bbox": [
+				-80.2554415,
+				43.5666158,
+				-80.2523385,
+				43.5688642
+			]
+		}
+	]
+}

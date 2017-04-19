@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Nolan Rd, New Tecumseth, ON L0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b9720ec820e4dd18149ee728f77e273|BN20130621|7.7.0.0|",
+				"addressLine": "1 Nolan Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Nolan Rd, New Tecumseth, ON L0G, Canada",
+				"locality": "New Tecumseth",
+				"neighborhood": "Tottenham",
+				"postalCode": "L0G 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80053,
+					44.03335
+				]
+			},
+			"bbox": [
+				-79.8020936,
+				44.0322258,
+				-79.7989664,
+				44.0344742
+			]
+		}
+	]
+}

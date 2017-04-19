@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 MacKenzie Rd, Inuvik, NT X0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6defc07640f849c9964ae1651e33802e|BN20131519|7.7.0.0|",
+				"addressLine": "107 MacKenzie Rd",
+				"adminDistrict": "NT",
+				"adminDistrict2": "Northwest Territories",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 MacKenzie Rd, Inuvik, NT X0E, Canada",
+				"locality": "Inuvik",
+				"postalCode": "X0E 0T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-133.7281391,
+					68.3589164
+				]
+			},
+			"bbox": [
+				-133.7311873,
+				68.3577923,
+				-133.7250908,
+				68.3600406
+			]
+		}
+	]
+}

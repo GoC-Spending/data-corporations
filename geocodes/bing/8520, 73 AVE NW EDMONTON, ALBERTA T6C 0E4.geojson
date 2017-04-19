@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8520 73 Ave NW, Edmonton, AB T6C 0E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2bcc3c23b447465caa20f6fff8079d83|BN20130442|7.7.0.0|",
+				"addressLine": "8520 73 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8520 73 Ave NW, Edmonton, AB T6C 0E4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Avonmore",
+				"postalCode": "T6C 0E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4588,
+					53.50963
+				]
+			},
+			"bbox": [
+				-113.4606903,
+				53.5085058,
+				-113.4569097,
+				53.5107542
+			]
+		}
+	]
+}

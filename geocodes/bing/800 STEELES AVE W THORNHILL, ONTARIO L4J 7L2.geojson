@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "800 Steeles Ave W, Thornhill, ON L4J 7L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "983e6d6c39384707813cbc758a684590|BN20130442|7.7.0.0|",
+				"addressLine": "800 Steeles Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "800 Steeles Ave W, Thornhill, ON L4J 7L2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 7L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4476496,
+					43.7921832
+				]
+			},
+			"bbox": [
+				-79.4492069,
+				43.791059,
+				-79.4460923,
+				43.7933074
+			]
+		}
+	]
+}

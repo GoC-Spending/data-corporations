@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2005 Yonge St, Toronto, ON M4S 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fc62439a6b6245818118a652787ca1e8|BN20130431|7.7.0.0|",
+				"addressLine": "2005 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2005 Yonge St, Toronto, ON M4S 1Z8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant West",
+				"postalCode": "M4S 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39678,
+					43.70088
+				]
+			},
+			"bbox": [
+				-79.3983349,
+				43.6997558,
+				-79.3952251,
+				43.7020042
+			]
+		}
+	]
+}

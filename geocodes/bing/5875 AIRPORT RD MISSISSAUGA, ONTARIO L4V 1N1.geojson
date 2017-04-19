@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5875 Airport Rd, Mississauga, ON L4V 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9758ad043dd44211add2d83834cafe9a|BN20130532|7.7.0.0|",
+				"addressLine": "5875 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "5875 Airport Rd, Mississauga, ON L4V 1N1, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Malton",
+				"postalCode": "L4V 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6072904,
+					43.6860824
+				]
+			},
+			"bbox": [
+				-79.6088449,
+				43.6849582,
+				-79.6057358,
+				43.6872065
+			]
+		}
+	]
+}

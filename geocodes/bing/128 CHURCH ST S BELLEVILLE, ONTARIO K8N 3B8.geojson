@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "128 Church St S, Belleville, ON K8N 3B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e9801cc9d7e4870a0352d81b72783b7|BN20200239|7.7.0.0|",
+				"addressLine": "128 Church St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "128 Church St S, Belleville, ON K8N 3B8, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8N 3B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3801,
+					44.16086
+				]
+			},
+			"bbox": [
+				-77.381667,
+				44.1597358,
+				-77.378533,
+				44.1619842
+			]
+		}
+	]
+}

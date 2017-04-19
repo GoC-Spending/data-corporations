@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Billy Brew's Rd, Deseronto, ON K0K 1X0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ccc1afe1ff34896a4be5c617579a08c|BN20210145|7.7.0.0|",
+				"addressLine": "51 Billy Brew's Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Billy Brew's Rd, Deseronto, ON K0K 1X0, Canada",
+				"locality": "Tyendinaga",
+				"neighborhood": "Deseronto",
+				"postalCode": "K0K 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0990877,
+					44.1901515
+				]
+			},
+			"bbox": [
+				-77.1006555,
+				44.1890273,
+				-77.0975199,
+				44.1912756
+			]
+		}
+	]
+}

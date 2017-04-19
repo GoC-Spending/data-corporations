@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "451 Elgin St, Brantford, ON N3S 7P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "402eb3b98aa54b98a0f37479bc8a51f9|BN20130634|7.7.0.0|",
+				"addressLine": "451 Elgin St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "451 Elgin St, Brantford, ON N3S 7P5, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 7P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2209467,
+					43.1526251
+				]
+			},
+			"bbox": [
+				-80.2224876,
+				43.151501,
+				-80.2194058,
+				43.1537493
+			]
+		}
+	]
+}

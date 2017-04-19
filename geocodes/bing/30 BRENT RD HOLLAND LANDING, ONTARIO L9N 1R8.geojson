@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Brent Rd, Holland Landing, ON L9N 1R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed4193d00a364a299db3adc02fa4a0cd|BN20121763|7.7.0.0|",
+				"addressLine": "30 Brent Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Brent Rd, Holland Landing, ON L9N 1R8, Canada",
+				"locality": "East Gwillimbury",
+				"neighborhood": "Holland Landing",
+				"postalCode": "L9N 1R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48692,
+					44.10887
+				]
+			},
+			"bbox": [
+				-79.4884856,
+				44.1077458,
+				-79.4853544,
+				44.1099942
+			]
+		}
+	]
+}

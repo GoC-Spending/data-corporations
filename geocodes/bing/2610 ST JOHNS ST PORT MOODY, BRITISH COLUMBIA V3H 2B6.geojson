@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2610 St Johns St, Port Moody, BC V3H 2B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "beb6e46bcd38493798e90ccef3639a5a|BN20130422|7.7.0.0|",
+				"addressLine": "2610 St Johns St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2610 St Johns St, Port Moody, BC V3H 2B6, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 2B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.85385,
+					49.27686
+				]
+			},
+			"bbox": [
+				-122.8555731,
+				49.2757358,
+				-122.8521269,
+				49.2779842
+			]
+		}
+	]
+}

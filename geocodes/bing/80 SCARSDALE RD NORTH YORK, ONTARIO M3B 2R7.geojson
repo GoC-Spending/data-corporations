@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Scarsdale Rd, North York, ON M3B 2R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b89c75876ee4405c97e3beb63a4ef536|BN20260223|7.7.0.0|",
+				"addressLine": "80 Scarsdale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Scarsdale Rd, North York, ON M3B 2R7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 2R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35562,
+					43.75032
+				]
+			},
+			"bbox": [
+				-79.3571762,
+				43.7491958,
+				-79.3540638,
+				43.7514442
+			]
+		}
+	]
+}

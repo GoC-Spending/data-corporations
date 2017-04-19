@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Bayfield St, Barrie, ON L4M 3B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0193535212e1467fa74c1f0288bb1b1d|BN20130530|7.7.0.0|",
+				"addressLine": "125 Bayfield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Bayfield St, Barrie, ON L4M 3B3, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Codrington",
+				"postalCode": "L4M 3B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6928459,
+					44.3926855
+				]
+			},
+			"bbox": [
+				-79.6944191,
+				44.3915613,
+				-79.6912727,
+				44.3938096
+			]
+		}
+	]
+}

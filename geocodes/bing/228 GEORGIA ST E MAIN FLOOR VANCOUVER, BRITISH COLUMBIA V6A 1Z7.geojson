@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "228 E Georgia St, Vancouver, BC V6A 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "293ecc8091c74a12a99f31e84c0d58a9|BN20130447|7.7.0.0|",
+				"addressLine": "228 E Georgia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "228 E Georgia St, Vancouver, BC V6A 1Z7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Chinatown",
+				"postalCode": "V6A 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09865,
+					49.27829
+				]
+			},
+			"bbox": [
+				-123.1003731,
+				49.2771658,
+				-123.0969269,
+				49.2794142
+			]
+		}
+	]
+}

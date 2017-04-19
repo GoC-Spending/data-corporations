@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Covington St, Hamilton, ON L8E 2Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4e90bfd20a546758d35a3e867d96169|BN20130521|7.7.0.0|",
+				"addressLine": "95 Covington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Covington St, Hamilton, ON L8E 2Y4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Lakely",
+				"postalCode": "L8E 2Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75625,
+					43.23952
+				]
+			},
+			"bbox": [
+				-79.7577931,
+				43.2383958,
+				-79.7547069,
+				43.2406442
+			]
+		}
+	]
+}

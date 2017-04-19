@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "96 Clarke Rd, London, ON N5W 5M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "427ccf8b76f84e33a6c8fdc4d24e1911|BN20130625|7.7.0.0|",
+				"addressLine": "96 Clarke Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "96 Clarke Rd, London, ON N5W 5M9, Canada",
+				"locality": "London",
+				"neighborhood": "Hamilton Road",
+				"postalCode": "N5W 5M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1637,
+					42.9824
+				]
+			},
+			"bbox": [
+				-81.1652366,
+				42.9812758,
+				-81.1621634,
+				42.9835242
+			]
+		}
+	]
+}

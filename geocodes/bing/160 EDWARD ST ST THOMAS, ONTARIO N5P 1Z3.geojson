@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Edward St, St Thomas, ON N5P 1Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91fbd740e5894c9f81025546b7764c59|BN20260223|7.7.0.0|",
+				"addressLine": "160 Edward St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Edward St, St Thomas, ON N5P 1Z3, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 1Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1607671,
+					42.7861416
+				]
+			},
+			"bbox": [
+				-81.1622988,
+				42.7850174,
+				-81.1592353,
+				42.7872657
+			]
+		}
+	]
+}

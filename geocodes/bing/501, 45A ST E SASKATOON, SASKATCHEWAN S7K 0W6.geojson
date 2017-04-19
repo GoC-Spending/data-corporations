@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "501 45th A St E, Saskatoon, SK S7K 0W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f98861a4fed471092143f3e3939d832|BN20130442|7.7.0.0|",
+				"addressLine": "501 45th A St E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "501 45th A St E, Saskatoon, SK S7K 0W6, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "North Industrial",
+				"postalCode": "S7K 0W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.66235,
+					52.1632
+				]
+			},
+			"bbox": [
+				-106.6641826,
+				52.1620758,
+				-106.6605174,
+				52.1643242
+			]
+		}
+	]
+}

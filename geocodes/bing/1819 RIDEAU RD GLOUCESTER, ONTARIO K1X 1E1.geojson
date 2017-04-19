@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1819 Rideau Rd, Gloucester, ON K1X 1E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24568701664f42ce8b2a449b9823cc00|BN20130721|7.7.0.0|",
+				"addressLine": "1819 Rideau Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1819 Rideau Rd, Gloucester, ON K1X 1E1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1X 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6353199,
+					45.27263
+				]
+			},
+			"bbox": [
+				-75.6369173,
+				45.2715058,
+				-75.6337225,
+				45.2737542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Greens Rd, Caledonia, ON N3W 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b02696774ee64c97af05f59250f1ee62|BN20240253|7.7.0.0|",
+				"addressLine": "123 Greens Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Haldimand",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Greens Rd, Caledonia, ON N3W 1H8, Canada",
+				"locality": "Haldimand",
+				"neighborhood": "Caledonia",
+				"postalCode": "N3W 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.983495,
+					43.1114187
+				]
+			},
+			"bbox": [
+				-79.9850349,
+				43.1102945,
+				-79.9819551,
+				43.1125428
+			]
+		}
+	]
+}

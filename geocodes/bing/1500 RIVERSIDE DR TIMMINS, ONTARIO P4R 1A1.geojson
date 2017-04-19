@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1500 Riverside Dr, Timmins, ON P4R 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e171a88a9dfd433a96eabf245b125f91|BN20130621|7.7.0.0|",
+				"addressLine": "1500 Riverside Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "1500 Riverside Dr, Timmins, ON P4R 1A1, Canada",
+				"locality": "Timmins",
+				"neighborhood": "Mountjoy",
+				"postalCode": "P4R 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.38054,
+					48.47283
+				]
+			},
+			"bbox": [
+				-81.3822356,
+				48.4717058,
+				-81.3788444,
+				48.4739542
+			]
+		}
+	]
+}

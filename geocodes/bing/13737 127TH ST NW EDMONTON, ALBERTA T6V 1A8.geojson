@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13737 127 St NW, Edmonton, AB T6V 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b6540f4a69ee44e89185daad2cc36cf0|BN20260223|7.7.0.0|",
+				"addressLine": "13737 127 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "13737 127 St NW, Edmonton, AB T6V 1A8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Baranow",
+				"postalCode": "T6V 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.54059,
+					53.60079
+				]
+			},
+			"bbox": [
+				-113.5424844,
+				53.5996658,
+				-113.5386956,
+				53.6019142
+			]
+		}
+	]
+}

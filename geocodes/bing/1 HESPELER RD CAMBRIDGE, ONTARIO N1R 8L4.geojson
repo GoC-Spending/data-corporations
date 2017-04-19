@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Hespeler Rd, Cambridge, ON N1R 8L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01fa5dac75ca4ab7a497249944020205|BN20300154|7.7.0.0|",
+				"addressLine": "1 Hespeler Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Hespeler Rd, Cambridge, ON N1R 8L4, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Greenway-Chaplin",
+				"postalCode": "N1R 8L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3184551,
+					43.3740004
+				]
+			},
+			"bbox": [
+				-80.3200016,
+				43.3728763,
+				-80.3169086,
+				43.3751246
+			]
+		}
+	]
+}

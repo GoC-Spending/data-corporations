@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Kneehill County, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c88fffba7cb44649b3980ff367070c5|BN20200239|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kneehill County, Alberta, Canada",
+				"locality": "Kneehill County"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.229362487793,
+					51.6489181518555
+				]
+			},
+			"bbox": [
+				-113.736030578613,
+				51.3156089782715,
+				-112.6767578125,
+				51.9735794067383
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Kneehill County, Kneehill County, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c88fffba7cb44649b3980ff367070c5|BN20200239|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kneehill County, Kneehill County, Alberta, Canada",
+				"locality": "Kneehill County",
+				"neighborhood": "Kneehill County"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.309997558594,
+					51.4160995483398
+				]
+			},
+			"bbox": [
+				-113.318255030903,
+				51.4122368307692,
+				-113.301740086285,
+				51.4199622659105
+			]
+		}
+	]
+}

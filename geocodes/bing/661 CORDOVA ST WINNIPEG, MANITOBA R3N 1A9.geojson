@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "661 Cordova St, Winnipeg, MB R3N 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cfb56801e74d44c9827efd1949d9d952|BN20130520|7.7.0.0|",
+				"addressLine": "661 Cordova St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "661 Cordova St, Winnipeg, MB R3N 1A9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Central River Heights",
+				"postalCode": "R3N 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19063,
+					49.8589
+				]
+			},
+			"bbox": [
+				-97.1923738,
+				49.8577758,
+				-97.1888862,
+				49.8600242
+			]
+		}
+	]
+}

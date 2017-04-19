@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Gormley Rd E, Richmond Hill, ON L4E 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32a0860603a94e7cbd46d880254b8c32|BN20130521|7.7.0.0|",
+				"addressLine": "33 Gormley Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Gormley Rd E, Richmond Hill, ON L4E 1A2, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4E 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3961,
+					43.93761
+				]
+			},
+			"bbox": [
+				-79.3976611,
+				43.9364858,
+				-79.3945389,
+				43.9387342
+			]
+		}
+	]
+}

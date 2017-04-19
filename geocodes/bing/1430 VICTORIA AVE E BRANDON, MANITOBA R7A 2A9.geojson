@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1430 Victoria Ave E, Brandon, MB R7A 2A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5eca78bc890f4b77ae3dcef38f6e4eab|BN20130447|7.7.0.0|",
+				"addressLine": "1430 Victoria Ave E",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1430 Victoria Ave E, Brandon, MB R7A 2A9, Canada",
+				"locality": "Brandon",
+				"postalCode": "R7A 2A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.9206014,
+					49.8418848
+				]
+			},
+			"bbox": [
+				-99.9223445,
+				49.8407607,
+				-99.9188582,
+				49.843009
+			]
+		}
+	]
+}

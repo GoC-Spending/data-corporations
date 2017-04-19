@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1231 Richland Rd NE, Calgary, AB T2E 5M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08a12a47830d4664ade6e1a4dc14383d|BN20130422|7.7.0.0|",
+				"addressLine": "1231 Richland Rd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1231 Richland Rd NE, Calgary, AB T2E 5M5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Renfrew",
+				"postalCode": "T2E 5M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0374,
+					51.06426
+				]
+			},
+			"bbox": [
+				-114.0391888,
+				51.0631358,
+				-114.0356112,
+				51.0653842
+			]
+		}
+	]
+}

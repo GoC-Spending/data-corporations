@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2075 Oxford Ave, Oakville, ON L6H 4K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63c561d730f74b5987880a1a337c1462|BN20130522|7.7.0.0|",
+				"addressLine": "2075 Oxford Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2075 Oxford Ave, Oakville, ON L6H 4K8, Canada",
+				"locality": "Oakville",
+				"neighborhood": "River Oaks",
+				"postalCode": "L6H 4K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71838,
+					43.464
+				]
+			},
+			"bbox": [
+				-79.7199288,
+				43.4628758,
+				-79.7168312,
+				43.4651242
+			]
+		}
+	]
+}

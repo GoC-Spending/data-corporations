@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9842 Milwaukee Way, Prince George, BC V2N 5T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92abcf0d67fd451aa14f1eaae30cdff8|BN20130447|7.7.0.0|",
+				"addressLine": "9842 Milwaukee Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "9842 Milwaukee Way, Prince George, BC V2N 5T3, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2N 5T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.73687,
+					53.83165
+				]
+			},
+			"bbox": [
+				-122.7387748,
+				53.8305258,
+				-122.7349652,
+				53.8327742
+			]
+		}
+	]
+}

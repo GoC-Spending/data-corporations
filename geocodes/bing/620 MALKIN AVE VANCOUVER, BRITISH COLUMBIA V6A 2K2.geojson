@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "620 Malkin Ave, Vancouver, BC V6A 2K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "481a283e473b4ce5ad957eb5abbf98b1|BN20190642|7.7.0.0|",
+				"addressLine": "620 Malkin Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "620 Malkin Ave, Vancouver, BC V6A 2K2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A 2K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09022,
+					49.27488
+				]
+			},
+			"bbox": [
+				-123.091943,
+				49.2737558,
+				-123.088497,
+				49.2760042
+			]
+		}
+	]
+}

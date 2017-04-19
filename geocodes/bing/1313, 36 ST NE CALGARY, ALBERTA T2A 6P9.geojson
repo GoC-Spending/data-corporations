@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1313 36 St NE, Calgary, AB T2A 6P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6d77de5bb674ed8a7318bf79e5e9f18|BN20130431|7.7.0.0|",
+				"addressLine": "1313 36 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1313 36 St NE, Calgary, AB T2A 6P9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Franklin",
+				"postalCode": "T2A 6P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.98249,
+					51.0638099
+				]
+			},
+			"bbox": [
+				-113.9842788,
+				51.0626857,
+				-113.9807012,
+				51.0649341
+			]
+		}
+	]
+}

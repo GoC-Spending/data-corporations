@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Impala Cres, Woodbridge, ON L4L 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3adfd2f107174d31872163a8e37f645f|BN20240423|7.7.0.0|",
+				"addressLine": "27 Impala Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Impala Cres, Woodbridge, ON L4L 3T7, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61237,
+					43.78991
+				]
+			},
+			"bbox": [
+				-79.6139273,
+				43.7887858,
+				-79.6108127,
+				43.7910342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "730 67 Ave NW, Edmonton, AB T6P 1S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a664611a336438687613847fa9952ff|BN20240253|7.7.0.0|",
+				"addressLine": "730 67 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "730 67 Ave NW, Edmonton, AB T6P 1S2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Maple Ridge Industrial",
+				"postalCode": "T6P 1S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.35303,
+					53.5040223
+				]
+			},
+			"bbox": [
+				-113.35492,
+				53.5028981,
+				-113.3511399,
+				53.5051464
+			]
+		}
+	]
+}

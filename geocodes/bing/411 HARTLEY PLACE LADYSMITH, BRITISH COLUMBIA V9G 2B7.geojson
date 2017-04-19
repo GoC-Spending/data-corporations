@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "411 Hartley Pl, Ladysmith, BC V9G 2B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae838cf7977742d38f40743ebde12819|BN20300154|7.7.0.0|",
+				"addressLine": "411 Hartley Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "411 Hartley Pl, Ladysmith, BC V9G 2B7, Canada",
+				"locality": "Ladysmith",
+				"postalCode": "V9G 2B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.8132,
+					48.98433
+				]
+			},
+			"bbox": [
+				-123.814913,
+				48.9832058,
+				-123.811487,
+				48.9854542
+			]
+		}
+	]
+}

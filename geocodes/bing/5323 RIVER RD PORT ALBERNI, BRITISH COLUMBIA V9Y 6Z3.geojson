@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5323 River Rd, Port Alberni, BC V9Y 6Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ffe3f4b7ea56487cb7253018f4482539|BN20250135|7.7.0.0|",
+				"addressLine": "5323 River Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Alberni-Clayoquot",
+				"countryRegion": "Canada",
+				"formattedAddress": "5323 River Rd, Port Alberni, BC V9Y 6Z3, Canada",
+				"locality": "Port Alberni",
+				"postalCode": "V9Y 6Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.82392,
+					49.26104
+				]
+			},
+			"bbox": [
+				-124.8256425,
+				49.2599158,
+				-124.8221975,
+				49.2621642
+			]
+		}
+	]
+}

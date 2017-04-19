@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8787 4e Croissant, Anjou, QC H1J 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7db19a82274424fa69343c4e305d021|BN20250135|7.7.0.0|",
+				"addressLine": "8787 4e Croissant",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "8787 4e Croissant, Anjou, QC H1J 1A9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57278,
+					45.62298
+				]
+			},
+			"bbox": [
+				-73.5743874,
+				45.6218558,
+				-73.5711726,
+				45.6241042
+			]
+		}
+	]
+}

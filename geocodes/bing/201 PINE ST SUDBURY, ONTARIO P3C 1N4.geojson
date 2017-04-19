@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "201 Pine St, Sudbury, ON P3C 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6452706ff910418abfee1e9d1703568a|BN20130532|7.7.0.0|",
+				"addressLine": "201 Pine St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "201 Pine St, Sudbury, ON P3C 1X4, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3C 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0031875,
+					46.4938728
+				]
+			},
+			"bbox": [
+				-81.0048204,
+				46.4927487,
+				-81.0015546,
+				46.494997
+			]
+		}
+	]
+}

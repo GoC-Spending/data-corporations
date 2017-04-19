@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "900 Greenbank Rd, Nepean, ON K2J 1S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0734e5bb820b43a887070c821bcf585a|BN20130621|7.7.0.0|",
+				"addressLine": "900 Greenbank Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "900 Greenbank Rd, Nepean, ON K2J 1S8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 1S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.75618,
+					45.28492
+				]
+			},
+			"bbox": [
+				-75.7577778,
+				45.2837958,
+				-75.7545822,
+				45.2860442
+			]
+		}
+	]
+}

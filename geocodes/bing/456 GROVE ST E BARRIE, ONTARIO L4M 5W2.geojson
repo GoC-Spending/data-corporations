@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "456 Grove St E, Barrie, ON L4M 5W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "633a3ce7b9e341fa8c2f0fdb9959560a|BN20130533|7.7.0.0|",
+				"addressLine": "456 Grove St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "456 Grove St E, Barrie, ON L4M 5W2, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Grove East",
+				"postalCode": "L4M 5W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.65805,
+					44.40564
+				]
+			},
+			"bbox": [
+				-79.6596236,
+				44.4045158,
+				-79.6564764,
+				44.4067642
+			]
+		}
+	]
+}

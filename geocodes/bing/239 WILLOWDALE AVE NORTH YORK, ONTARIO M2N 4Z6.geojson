@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "239 Willowdale Ave, North York, ON M2N 4Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae2692f1506d444887f95afcd7b9fa56|BN20130721|7.7.0.0|",
+				"addressLine": "239 Willowdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "239 Willowdale Ave, North York, ON M2N 4Z6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 4Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40191,
+					43.77033
+				]
+			},
+			"bbox": [
+				-79.4034667,
+				43.7692058,
+				-79.4003533,
+				43.7714542
+			]
+		}
+	]
+}

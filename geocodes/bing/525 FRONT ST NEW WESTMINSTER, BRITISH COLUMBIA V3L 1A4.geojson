@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "525 Front St, New Westminster, BC V3L 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b750739eb65645dd94863ae9fbe285cc|BN20131519|7.7.0.0|",
+				"addressLine": "525 Front St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "525 Front St, New Westminster, BC V3L 1A4, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Downtown New Westminster",
+				"postalCode": "V3L 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9069628,
+					49.2031465
+				]
+			},
+			"bbox": [
+				-122.9086833,
+				49.2020223,
+				-122.9052423,
+				49.2042706
+			]
+		}
+	]
+}

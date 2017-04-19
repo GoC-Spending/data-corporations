@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Knott Pl, Saltspring Island, BC V8K 2M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3b31ec411652410ebc7352a6ef4f6a94|BN20130533|7.7.0.0|",
+				"addressLine": "125 Knott Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Knott Pl, Saltspring Island, BC V8K 2M4, Canada",
+				"locality": "Capital",
+				"neighborhood": "Saltspring Island",
+				"postalCode": "V8K 2M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5152391,
+					48.8538588
+				]
+			},
+			"bbox": [
+				-123.5169476,
+				48.8527346,
+				-123.5135306,
+				48.8549829
+			]
+		}
+	]
+}

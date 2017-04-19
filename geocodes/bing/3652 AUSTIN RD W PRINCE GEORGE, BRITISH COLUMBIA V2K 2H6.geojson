@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3652 Austin Rd W, Prince George, BC V2K 2H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e70dea246104cde9373ee70be7ce357|BN20260223|7.7.0.0|",
+				"addressLine": "3652 Austin Rd W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "3652 Austin Rd W, Prince George, BC V2K 2H6, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2K 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7880192,
+					53.9893654
+				]
+			},
+			"bbox": [
+				-122.7899313,
+				53.9882412,
+				-122.7861072,
+				53.9904895
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1140 W 7th Ave, Vancouver, BC V6H 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31e4cb089d7e4634b90c4f4b36b1734f|BN20131519|7.7.0.0|",
+				"addressLine": "1140 W 7th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1140 W 7th Ave, Vancouver, BC V6H 1B4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V6H 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12998,
+					49.26495
+				]
+			},
+			"bbox": [
+				-123.1317027,
+				49.2638258,
+				-123.1282573,
+				49.2660742
+			]
+		}
+	]
+}

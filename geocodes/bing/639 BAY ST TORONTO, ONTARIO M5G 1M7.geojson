@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "639 Bay St, Toronto, ON M5G 1M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e6cf87f0888499aa90b7d1785ea9ab3|BN20240423|7.7.0.0|",
+				"addressLine": "639 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "639 Bay St, Toronto, ON M5G 1M7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5G 1M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38392,
+					43.65695
+				]
+			},
+			"bbox": [
+				-79.3854738,
+				43.6558258,
+				-79.3823662,
+				43.6580742
+			]
+		}
+	]
+}

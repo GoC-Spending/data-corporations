@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 Simcoe St, Ottawa, ON K1S 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f05a8921449484090071a3df0130d02|BN20130719|7.7.0.0|",
+				"addressLine": "49 Simcoe St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 Simcoe St, Ottawa, ON K1S 1A3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Golden Triangle-Old Ottawa East",
+				"postalCode": "K1S 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67458,
+					45.41221
+				]
+			},
+			"bbox": [
+				-75.6761814,
+				45.4110858,
+				-75.6729786,
+				45.4133342
+			]
+		}
+	]
+}

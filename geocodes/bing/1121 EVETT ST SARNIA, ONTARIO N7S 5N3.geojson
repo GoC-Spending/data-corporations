@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1121 Evett St, Sarnia, ON N7S 5N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3b1bb916444b4501974af5d9ae40716d|BN20130625|7.7.0.0|",
+				"addressLine": "1121 Evett St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1121 Evett St, Sarnia, ON N7S 5N3, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7S 5N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3529649,
+					42.9596486
+				]
+			},
+			"bbox": [
+				-82.354501,
+				42.9585244,
+				-82.3514288,
+				42.9607727
+			]
+		}
+	]
+}

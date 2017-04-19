@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1525 Hyde Park Rd, London, ON N6H 5L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f5b16744735440589f84f808226e014|BN20121764|7.7.0.0|",
+				"addressLine": "1525 Hyde Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1525 Hyde Park Rd, London, ON N6H 5L4, Canada",
+				"locality": "London",
+				"neighborhood": "Hyde Park",
+				"postalCode": "N6H 5L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3308,
+					42.9974
+				]
+			},
+			"bbox": [
+				-81.332337,
+				42.9962758,
+				-81.329263,
+				42.9985242
+			]
+		}
+	]
+}

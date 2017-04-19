@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Lorena St, Barrie, ON L4N 4P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c3d72ee966d4a898fb535d7086b0c00|BN20130530|7.7.0.0|",
+				"addressLine": "26 Lorena St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Lorena St, Barrie, ON L4N 4P4, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 4P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7031,
+					44.37523
+				]
+			},
+			"bbox": [
+				-79.7046727,
+				44.3741058,
+				-79.7015273,
+				44.3763542
+			]
+		}
+	]
+}

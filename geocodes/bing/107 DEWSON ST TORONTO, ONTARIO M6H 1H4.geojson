@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Dewson St, Toronto, ON M6H 1H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8407815c1b2d48f3a5e576e95a4c90b3|BN20130447|7.7.0.0|",
+				"addressLine": "107 Dewson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Dewson St, Toronto, ON M6H 1H4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dufferin Grove",
+				"postalCode": "M6H 1H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42992,
+					43.6555
+				]
+			},
+			"bbox": [
+				-79.4314738,
+				43.6543758,
+				-79.4283662,
+				43.6566242
+			]
+		}
+	]
+}

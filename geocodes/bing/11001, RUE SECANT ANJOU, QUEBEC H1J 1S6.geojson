@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11001 Rue Secant, Anjou, QC H1J 1S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8dbcd62a49074f7490a4b5722e6d1807|BN20190653|7.7.0.0|",
+				"addressLine": "11001 Rue Secant",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "11001 Rue Secant, Anjou, QC H1J 1S6, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 1S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.58221,
+					45.62039
+				]
+			},
+			"bbox": [
+				-73.5838173,
+				45.6192658,
+				-73.5806027,
+				45.6215142
+			]
+		}
+	]
+}

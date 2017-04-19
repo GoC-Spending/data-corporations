@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "147 Maxome Ave, North York, ON M2M 3K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bd297e847304e5ca7846af6bbf39143|BN20130431|7.7.0.0|",
+				"addressLine": "147 Maxome Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "147 Maxome Ave, North York, ON M2M 3K7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook East",
+				"postalCode": "M2M 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40159,
+					43.79331
+				]
+			},
+			"bbox": [
+				-79.4031473,
+				43.7921858,
+				-79.4000327,
+				43.7944342
+			]
+		}
+	]
+}

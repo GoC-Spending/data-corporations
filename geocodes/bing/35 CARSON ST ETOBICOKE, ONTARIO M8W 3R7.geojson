@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Carson St, Etobicoke, ON M8W 3R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc508bd70e68443ca09c83c806353bfb|BN20260223|7.7.0.0|",
+				"addressLine": "35 Carson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Carson St, Etobicoke, ON M8W 3R7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Alderwood",
+				"postalCode": "M8W 3R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53339,
+					43.60151
+				]
+			},
+			"bbox": [
+				-79.5349424,
+				43.6003858,
+				-79.5318376,
+				43.6026342
+			]
+		}
+	]
+}

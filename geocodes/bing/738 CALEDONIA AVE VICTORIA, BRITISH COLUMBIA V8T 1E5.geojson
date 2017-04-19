@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "738 Caledonia Ave, Victoria, BC V8T 1E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a02c9f7d67fe414a81827668baed14ae|BN20220145|7.7.0.0|",
+				"addressLine": "738 Caledonia Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "738 Caledonia Ave, Victoria, BC V8T 1E5, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Burnside",
+				"postalCode": "V8T 1E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3628562,
+					48.4311913
+				]
+			},
+			"bbox": [
+				-123.3645505,
+				48.4300671,
+				-123.361162,
+				48.4323154
+			]
+		}
+	]
+}

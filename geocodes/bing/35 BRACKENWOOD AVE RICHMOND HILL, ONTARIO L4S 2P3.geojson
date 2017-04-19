@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Brackenwood Ave, Richmond Hill, ON L4S 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "caf60da3a4d34d80a956263f1ac544cd|BN20260231|7.7.0.0|",
+				"addressLine": "35 Brackenwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Brackenwood Ave, Richmond Hill, ON L4S 2P3, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4S 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45514,
+					43.90245
+				]
+			},
+			"bbox": [
+				-79.4567002,
+				43.9013258,
+				-79.4535798,
+				43.9035742
+			]
+		}
+	]
+}

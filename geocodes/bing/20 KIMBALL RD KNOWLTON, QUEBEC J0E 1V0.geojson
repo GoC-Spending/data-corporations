@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Rue Kimball, Lake Brome, QC J0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aaf228036dde4795968c77d157d4a984|BN20200137|7.7.0.0|",
+				"addressLine": "20 Rue Kimball",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Brome-Missisquoi",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Rue Kimball, Lake Brome, QC J0E, Canada",
+				"locality": "Lake Brome",
+				"postalCode": "J0E 1V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.496,
+					45.19114
+				]
+			},
+			"bbox": [
+				-72.4975951,
+				45.1900158,
+				-72.4944049,
+				45.1922642
+			]
+		}
+	]
+}

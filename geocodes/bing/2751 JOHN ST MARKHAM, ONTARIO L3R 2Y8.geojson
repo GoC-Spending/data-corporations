@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2751 John St, Markham, ON L3R 2Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98b219cd03e041b4984099cc3ed54d9c|BN20280152|7.7.0.0|",
+				"addressLine": "2751 John St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "2751 John St, Markham, ON L3R 2Y8, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 2Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35578,
+					43.82493
+				]
+			},
+			"bbox": [
+				-79.3573382,
+				43.8238058,
+				-79.3542218,
+				43.8260542
+			]
+		}
+	]
+}

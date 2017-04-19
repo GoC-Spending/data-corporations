@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9911 83 St NW, Edmonton, AB T6A 3N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f22e5a85b994a40aa43b73a5f972b19|BN20210145|7.7.0.0|",
+				"addressLine": "9911 83 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9911 83 St NW, Edmonton, AB T6A 3N3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Forest Heights",
+				"postalCode": "T6A 3N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45445,
+					53.53892
+				]
+			},
+			"bbox": [
+				-113.4563416,
+				53.5377958,
+				-113.4525584,
+				53.5400442
+			]
+		}
+	]
+}

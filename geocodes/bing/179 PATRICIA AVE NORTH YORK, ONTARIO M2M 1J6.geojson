@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "179 Patricia Ave, North York, ON M2M 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d44eda592af43ad931038819e1d27e3|BN20240423|7.7.0.0|",
+				"addressLine": "179 Patricia Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "179 Patricia Ave, North York, ON M2M 1J6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook West",
+				"postalCode": "M2M 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.426,
+					43.78822
+				]
+			},
+			"bbox": [
+				-79.4275572,
+				43.7870958,
+				-79.4244428,
+				43.7893442
+			]
+		}
+	]
+}

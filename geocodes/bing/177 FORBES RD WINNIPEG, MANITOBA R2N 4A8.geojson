@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "177 Forbes Rd, Winnipeg, MB R2N 4A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "852cbdb0af2b4b5c8cd50c82f35cee2d|BN20130522|7.7.0.0|",
+				"addressLine": "177 Forbes Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "177 Forbes Rd, Winnipeg, MB R2N 4A8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St Vital Perimeter South",
+				"postalCode": "R2N 4A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1314,
+					49.76884
+				]
+			},
+			"bbox": [
+				-97.1331405,
+				49.7677158,
+				-97.1296595,
+				49.7699642
+			]
+		}
+	]
+}

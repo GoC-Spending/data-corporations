@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "245 Palmerston Ave, Toronto, ON M6J 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "14790c7d4acf42ac8cedc02a2f7cf368|BN20290118|7.7.0.0|",
+				"addressLine": "245 Palmerston Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "245 Palmerston Ave, Toronto, ON M6J 2J3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4092299,
+					43.65439
+				]
+			},
+			"bbox": [
+				-79.4107836,
+				43.6532658,
+				-79.4076762,
+				43.6555142
+			]
+		}
+	]
+}

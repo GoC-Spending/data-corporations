@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 W Hampton Rd, St Catharines, ON L2T 3E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c68ec42560d54e598a3f39799994c49a|BN20121764|7.7.0.0|",
+				"addressLine": "25 W Hampton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 W Hampton Rd, St Catharines, ON L2T 3E6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Glenridge",
+				"postalCode": "L2T 3E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2326,
+					43.13115
+				]
+			},
+			"bbox": [
+				-79.2341404,
+				43.1300258,
+				-79.2310596,
+				43.1322742
+			]
+		}
+	]
+}

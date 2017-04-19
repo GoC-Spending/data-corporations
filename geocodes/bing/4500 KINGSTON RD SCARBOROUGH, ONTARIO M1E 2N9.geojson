@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4500 Kingston Rd, Scarborough, ON M1E 2N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d10fa1118c2642b3bb9162ca634832ea|BN20130625|7.7.0.0|",
+				"addressLine": "4500 Kingston Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4500 Kingston Rd, Scarborough, ON M1E 2N9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Hill",
+				"postalCode": "M1E 2N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.18681,
+					43.77107
+				]
+			},
+			"bbox": [
+				-79.1883668,
+				43.7699458,
+				-79.1852532,
+				43.7721942
+			]
+		}
+	]
+}

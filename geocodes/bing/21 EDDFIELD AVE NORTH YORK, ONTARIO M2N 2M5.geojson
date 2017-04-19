@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Eddfield Ave, North York, ON M2N 2M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e815d6ee10eb4276a4412baadacc463d|BN20200137|7.7.0.0|",
+				"addressLine": "21 Eddfield Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Eddfield Ave, North York, ON M2N 2M5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 2M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42829,
+					43.76092
+				]
+			},
+			"bbox": [
+				-79.4298465,
+				43.7597958,
+				-79.4267335,
+				43.7620442
+			]
+		}
+	]
+}

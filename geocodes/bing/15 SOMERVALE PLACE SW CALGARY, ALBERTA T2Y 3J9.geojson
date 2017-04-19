@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Somervale Pl SW, Calgary, AB T2Y 3J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fff86691eb2d49019996d33665b4bf79|BN20130620|7.7.0.0|",
+				"addressLine": "15 Somervale Pl SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Somervale Pl SW, Calgary, AB T2Y 3J9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Somerset",
+				"postalCode": "T2Y 3J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.07311,
+					50.90176
+				]
+			},
+			"bbox": [
+				-114.0748925,
+				50.9006358,
+				-114.0713275,
+				50.9028842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "420 Essa Rd, Barrie, ON L4N 9J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed0c30787b62419a86a82a460bd362c4|BN20130719|7.7.0.0|",
+				"addressLine": "420 Essa Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "420 Essa Rd, Barrie, ON L4N 9J7, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Holly",
+				"postalCode": "L4N 9J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70361,
+					44.34742
+				]
+			},
+			"bbox": [
+				-79.705182,
+				44.3462958,
+				-79.702038,
+				44.3485442
+			]
+		}
+	]
+}

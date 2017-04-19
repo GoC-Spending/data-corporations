@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "263 Bering Ave, Etobicoke, ON M8Z 3A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92c8e4eda5054cdc898f1015d4c0333a|BN20220145|7.7.0.0|",
+				"addressLine": "263 Bering Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "263 Bering Ave, Etobicoke, ON M8Z 3A5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 3A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52511,
+					43.63833
+				]
+			},
+			"bbox": [
+				-79.5266633,
+				43.6372058,
+				-79.5235567,
+				43.6394542
+			]
+		}
+	]
+}

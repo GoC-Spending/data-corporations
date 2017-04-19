@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Dundas St W, Trenton, ON K8V 3N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9faead1d25c149129a34855991149ec5|BN20131519|7.7.0.0|",
+				"addressLine": "35 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Dundas St W, Trenton, ON K8V 3N9, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 3N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.57553,
+					44.10138
+				]
+			},
+			"bbox": [
+				-77.5770954,
+				44.1002558,
+				-77.5739646,
+				44.1025042
+			]
+		}
+	]
+}

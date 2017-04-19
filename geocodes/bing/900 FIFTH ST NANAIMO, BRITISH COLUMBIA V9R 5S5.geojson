@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "900 5th St, Nanaimo, BC V9R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "014bb96389624c238bfb8000601d7530|BN20130533|7.7.0.0|",
+				"addressLine": "900 5th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "900 5th St, Nanaimo, BC V9R, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 5S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.97076,
+					49.15531
+				]
+			},
+			"bbox": [
+				-123.9724789,
+				49.1541858,
+				-123.9690411,
+				49.1564342
+			]
+		}
+	]
+}

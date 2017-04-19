@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2412 Mt Newton Cross Rd, Central Saanich, BC V8M 1T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8c59356d23c4dc580de4d5769332b68|BN20250135|7.7.0.0|",
+				"addressLine": "2412 Mt Newton Cross Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2412 Mt Newton Cross Rd, Central Saanich, BC V8M 1T8, Canada",
+				"locality": "Central Saanich",
+				"postalCode": "V8M 1T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4003453,
+					48.5942749
+				]
+			},
+			"bbox": [
+				-123.402045,
+				48.5931507,
+				-123.3986456,
+				48.5953991
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "325 Hale St, London, ON N5W 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0de4c81656f4b91b6eb9c29c27c513c|BN20160335|7.7.0.0|",
+				"addressLine": "325 Hale St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "325 Hale St, London, ON N5W 1G3, Canada",
+				"locality": "London",
+				"neighborhood": "East London",
+				"postalCode": "N5W 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1943,
+					42.9863
+				]
+			},
+			"bbox": [
+				-81.1958367,
+				42.9851758,
+				-81.1927633,
+				42.9874242
+			]
+		}
+	]
+}

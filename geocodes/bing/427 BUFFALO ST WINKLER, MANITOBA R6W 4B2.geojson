@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "427 Buffalo St, Winkler, MB R6W 0K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b20a45e514a45459e4615cd5aa4dd7d|BN20190642|7.7.0.0|",
+				"addressLine": "427 Buffalo St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "427 Buffalo St, Winkler, MB R6W 0K6, Canada",
+				"locality": "Winkler",
+				"postalCode": "R6W 0K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.9267799,
+					49.16539
+				]
+			},
+			"bbox": [
+				-97.9284991,
+				49.1642658,
+				-97.9250607,
+				49.1665142
+			]
+		}
+	]
+}

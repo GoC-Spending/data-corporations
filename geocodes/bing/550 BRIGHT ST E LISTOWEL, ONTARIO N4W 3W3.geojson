@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 Bright St E, Listowel, ON N4W 3W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04121dd27ee442cebfa3c1b22a325f59|BN20130522|7.7.0.0|",
+				"addressLine": "550 Bright St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 Bright St E, Listowel, ON N4W 3W3, Canada",
+				"locality": "North Perth",
+				"neighborhood": "Listowel",
+				"postalCode": "N4W 3W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.95052,
+					43.7231
+				]
+			},
+			"bbox": [
+				-80.9520755,
+				43.7219758,
+				-80.9489645,
+				43.7242242
+			]
+		}
+	]
+}

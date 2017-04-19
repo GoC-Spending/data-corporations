@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1124 Queen St W, Toronto, ON M6J 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d669dab739da4d4593eadf5922790739|BN20131519|7.7.0.0|",
+				"addressLine": "1124 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1124 Queen St W, Toronto, ON M6J 1J3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Little Portugal",
+				"postalCode": "M6J 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42379,
+					43.64345
+				]
+			},
+			"bbox": [
+				-79.4253434,
+				43.6423258,
+				-79.4222366,
+				43.6445742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "310 Adelaide St S, London, ON N5Z 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f10ccedc9a44e1e8f45211dce56a404|BN20200239|7.7.0.0|",
+				"addressLine": "310 Adelaide St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "310 Adelaide St S, London, ON N5Z 3L2, Canada",
+				"locality": "London",
+				"neighborhood": "Glen Cairn",
+				"postalCode": "N5Z 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2159999,
+					42.9608
+				]
+			},
+			"bbox": [
+				-81.217536,
+				42.9596758,
+				-81.2144638,
+				42.9619242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "704 Maurelle Ct, North Vancouver, BC V7R 2M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42217ee3295c463f9caeb9500f173007|BN20130532|7.7.0.0|",
+				"addressLine": "704 Maurelle Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "704 Maurelle Ct, North Vancouver, BC V7R 2M1, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Cleveland",
+				"postalCode": "V7R 2M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08695,
+					49.35828
+				]
+			},
+			"bbox": [
+				-123.0886759,
+				49.3571558,
+				-123.0852241,
+				49.3594042
+			]
+		}
+	]
+}

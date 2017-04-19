@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Langford, V9B 0K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd850bf926a34563a07925af311e5e31|BN20280152|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "Langford, V9B 0K9, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 0K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.532211303711,
+					48.4402122497559
+				]
+			},
+			"bbox": [
+				-123.539974175376,
+				48.4363495321852,
+				-123.524448432046,
+				48.4440749673265
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Victoria, View Royal, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd850bf926a34563a07925af311e5e31|BN20280152|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "Victoria, View Royal, British Columbia, Canada",
+				"locality": "View Royal",
+				"neighborhood": "Victoria"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.438003540039,
+					48.4527015686035
+				]
+			},
+			"bbox": [
+				-123.445768320708,
+				48.4488388510328,
+				-123.43023875937,
+				48.4565642861742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3120 Rue Stendhal, Laval, QC H7P 0C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb56d14715ac456ca2775ef56cfd32ed|BN20130634|7.7.0.0|",
+				"addressLine": "3120 Rue Stendhal",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "3120 Rue Stendhal, Laval, QC H7P 0C3, Canada",
+				"locality": "Laval",
+				"postalCode": "H7P 0C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.77776,
+					45.57206
+				]
+			},
+			"bbox": [
+				-73.7793659,
+				45.5709358,
+				-73.7761541,
+				45.5731842
+			]
+		}
+	]
+}

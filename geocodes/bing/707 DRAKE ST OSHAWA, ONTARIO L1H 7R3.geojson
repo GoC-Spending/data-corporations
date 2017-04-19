@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "707 Drake St, Oshawa, ON L1H 7R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ecead15abfaa4abf971fa9e991ea164f|BN20240253|7.7.0.0|",
+				"addressLine": "707 Drake St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "707 Drake St, Oshawa, ON L1H 7R3, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Farewell",
+				"postalCode": "L1H 7R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8318262,
+					43.8821712
+				]
+			},
+			"bbox": [
+				-78.8333858,
+				43.881047,
+				-78.8302665,
+				43.8832953
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "314 Frederick St, Kitchener, ON N2H 2N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "206ad5bb50b64c60a6f133784e8e0109|BN20121762|7.7.0.0|",
+				"addressLine": "314 Frederick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "314 Frederick St, Kitchener, ON N2H 2N7, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Central Frederick",
+				"postalCode": "N2H 2N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.47691,
+					43.45649
+				]
+			},
+			"bbox": [
+				-80.4784586,
+				43.4553658,
+				-80.4753614,
+				43.4576142
+			]
+		}
+	]
+}

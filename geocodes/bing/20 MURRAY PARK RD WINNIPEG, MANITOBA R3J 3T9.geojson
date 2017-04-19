@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Murray Park Rd, Winnipeg, MB R3J 3T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "352eab38042243caa557097746df5101|BN20130532|7.7.0.0|",
+				"addressLine": "20 Murray Park Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Murray Park Rd, Winnipeg, MB R3J 3T9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Murray Industrial Park",
+				"postalCode": "R3J 3T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.263,
+					49.89401
+				]
+			},
+			"bbox": [
+				-97.264745,
+				49.8928858,
+				-97.261255,
+				49.8951342
+			]
+		}
+	]
+}

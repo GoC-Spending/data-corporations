@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "129 George St, North Middlesex, ON N0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92d11a19e1ac410a8f0f31a68b84d6cb|BN20130533|7.7.0.0|",
+				"addressLine": "129 George St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "129 George St, North Middlesex, ON N0M, Canada",
+				"locality": "North Middlesex",
+				"neighborhood": "Ailsa Craig",
+				"postalCode": "N0M 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.53839,
+					43.14651
+				]
+			},
+			"bbox": [
+				-81.5399308,
+				43.1453858,
+				-81.5368492,
+				43.1476342
+			]
+		}
+	]
+}

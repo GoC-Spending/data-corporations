@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6359 Bayne St, Halifax, NS B3K 2V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db7e7c8ec87d4ed09a7481a2c6188b7c|BN20130431|7.7.0.0|",
+				"addressLine": "6359 Bayne St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "6359 Bayne St, Halifax, NS B3K 2V6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "North End",
+				"postalCode": "B3K 2V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.62041,
+					44.66595
+				]
+			},
+			"bbox": [
+				-63.6219906,
+				44.6648258,
+				-63.6188294,
+				44.6670742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Tidemore Ave, Etobicoke, ON M9W 7A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a794a2e5f43343d695ce537d0f95a54a|BN20171457|7.7.0.0|",
+				"addressLine": "26 Tidemore Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Tidemore Ave, Etobicoke, ON M9W 7A7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 7A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58503,
+					43.71294
+				]
+			},
+			"bbox": [
+				-79.5865853,
+				43.7118158,
+				-79.5834747,
+				43.7140642
+			]
+		}
+	]
+}

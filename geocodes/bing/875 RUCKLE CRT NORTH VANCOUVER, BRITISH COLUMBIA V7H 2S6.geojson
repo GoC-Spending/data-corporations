@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "875 Ruckle Ct, North Vancouver, BC V7H 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e44b3246183f49a18839462376505d0f|BN20130620|7.7.0.0|",
+				"addressLine": "875 Ruckle Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "875 Ruckle Ct, North Vancouver, BC V7H 2S6, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Parkway",
+				"postalCode": "V7H 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.97638,
+					49.31351
+				]
+			},
+			"bbox": [
+				-122.9781044,
+				49.3123858,
+				-122.9746556,
+				49.3146342
+			]
+		}
+	]
+}

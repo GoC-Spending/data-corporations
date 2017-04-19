@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "245 McPhillips St, Winnipeg, MB R3E 2K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "444c208fdd7849aa9069f68e3f760526|BN20130530|7.7.0.0|",
+				"addressLine": "245 McPhillips St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "245 McPhillips St, Winnipeg, MB R3E 2K5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Logan-CPR",
+				"postalCode": "R3E 2K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17037,
+					49.91202
+				]
+			},
+			"bbox": [
+				-97.1721157,
+				49.9108958,
+				-97.1686243,
+				49.9131442
+			]
+		}
+	]
+}

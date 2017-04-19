@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "975 Bloor St W, Toronto, ON M6H 1L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e27cf2f940e4f8c9f84b7a2690b1cc6|BN20190642|7.7.0.0|",
+				"addressLine": "975 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "975 Bloor St W, Toronto, ON M6H 1L7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6H 1L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42889,
+					43.66101
+				]
+			},
+			"bbox": [
+				-79.4304439,
+				43.6598858,
+				-79.4273361,
+				43.6621342
+			]
+		}
+	]
+}

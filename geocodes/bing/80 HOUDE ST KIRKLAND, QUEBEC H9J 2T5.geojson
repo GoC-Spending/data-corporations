@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Rue Houde, Kirkland, QC H9J 2T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb611e3a409f4a2ca8b3cbb8452db34b|BN20300154|7.7.0.0|",
+				"addressLine": "80 Rue Houde",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Rue Houde, Kirkland, QC H9J 2T5, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9J 2T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.87757,
+					45.44696
+				]
+			},
+			"bbox": [
+				-73.8791723,
+				45.4458358,
+				-73.8759677,
+				45.4480842
+			]
+		}
+	]
+}

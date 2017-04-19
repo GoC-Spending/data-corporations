@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4321 Queen St, Niagara Falls, ON L2E 2K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e3329d0a60c24cd5881677da5f48a628|BN20280152|7.7.0.0|",
+				"addressLine": "4321 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "4321 Queen St, Niagara Falls, ON L2E 2K9, Canada",
+				"locality": "Niagara Falls",
+				"postalCode": "L2E 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.06431,
+					43.10687
+				]
+			},
+			"bbox": [
+				-79.0658498,
+				43.1057458,
+				-79.0627702,
+				43.1079942
+			]
+		}
+	]
+}

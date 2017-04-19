@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "750 Bradford St, Winnipeg, MB R3H 0N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cbf70547a63746f9a1cc289047ef6c66|BN20320521|7.7.0.0|",
+				"addressLine": "750 Bradford St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "750 Bradford St, Winnipeg, MB R3H 0N3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20557,
+					49.89952
+				]
+			},
+			"bbox": [
+				-97.2073152,
+				49.8983958,
+				-97.2038248,
+				49.9006442
+			]
+		}
+	]
+}

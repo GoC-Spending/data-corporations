@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "127 Pinewood Ave, York, ON M6C 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf80a2f989fa4f2c97a8c03c6780d8e1|BN20190642|7.7.0.0|",
+				"addressLine": "127 Pinewood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "127 Pinewood Ave, York, ON M6C 2V4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humewood-Cedarvale",
+				"postalCode": "M6C 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42594,
+					43.68664
+				]
+			},
+			"bbox": [
+				-79.4274946,
+				43.6855158,
+				-79.4243854,
+				43.6877642
+			]
+		}
+	]
+}

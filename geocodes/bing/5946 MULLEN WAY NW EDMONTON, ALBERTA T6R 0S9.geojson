@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5946 Mullen Way NW, Edmonton, AB T6R 0S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ecb74b6ad9445f989fe80067874cb53|BN20130521|7.7.0.0|",
+				"addressLine": "5946 Mullen Way NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5946 Mullen Way NW, Edmonton, AB T6R 0S9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "MacTaggart Area",
+				"postalCode": "T6R 0S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5706616,
+					53.4349781
+				]
+			},
+			"bbox": [
+				-113.5725486,
+				53.4338539,
+				-113.5687746,
+				53.4361022
+			]
+		}
+	]
+}

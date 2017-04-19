@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "612 Welland Ave, St Catharines, ON L2M 5V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef1cfa734c174584a5049c953263ede1|BN20160335|7.7.0.0|",
+				"addressLine": "612 Welland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "612 Welland Ave, St Catharines, ON L2M 5V6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Queenston",
+				"postalCode": "L2M 5V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.20173,
+					43.1789599
+				]
+			},
+			"bbox": [
+				-79.2032716,
+				43.1778357,
+				-79.2001884,
+				43.1800841
+			]
+		}
+	]
+}

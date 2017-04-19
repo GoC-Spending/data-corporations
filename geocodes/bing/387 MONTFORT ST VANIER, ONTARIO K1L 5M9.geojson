@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "387 Montfort St, Vanier, ON K1L 5M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3fe43076a1d4882b156dca0d4188c6c|BN20130721|7.7.0.0|",
+				"addressLine": "387 Montfort St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "387 Montfort St, Vanier, ON K1L 5M9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Vanier",
+				"postalCode": "K1L 5M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.65459,
+					45.44008
+				]
+			},
+			"bbox": [
+				-75.6561921,
+				45.4389558,
+				-75.6529879,
+				45.4412042
+			]
+		}
+	]
+}

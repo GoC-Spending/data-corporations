@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10613 82 St NW, Edmonton, AB T6A 3N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b0e2f4a4a8a4ae79257047e60c988fe|BN20130442|7.7.0.0|",
+				"addressLine": "10613 82 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10613 82 St NW, Edmonton, AB T6A 3N2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Forest Heights",
+				"postalCode": "T6A 3N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45352,
+					53.54962
+				]
+			},
+			"bbox": [
+				-113.4554121,
+				53.5484958,
+				-113.4516279,
+				53.5507442
+			]
+		}
+	]
+}

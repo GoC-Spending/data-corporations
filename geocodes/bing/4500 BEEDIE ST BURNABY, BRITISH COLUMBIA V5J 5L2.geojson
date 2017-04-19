@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4500 Beedie St, Burnaby, BC V5J 5L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f0019bd0f52415f8a18ba39071d107a|BN20130533|7.7.0.0|",
+				"addressLine": "4500 Beedie St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4500 Beedie St, Burnaby, BC V5J 5L2, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.99525,
+					49.1898399
+				]
+			},
+			"bbox": [
+				-122.9969701,
+				49.1887157,
+				-122.9935299,
+				49.1909641
+			]
+		}
+	]
+}

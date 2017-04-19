@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Apple Hill, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "720cac42eed74fd2ae5971d965ffaefc|BN20300154|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "Apple Hill, Ontario, Canada",
+				"locality": "Apple Hill"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.7690200805664,
+					45.2189292907715
+				]
+			},
+			"bbox": [
+				-74.7744598388672,
+				45.2142715454102,
+				-74.7634582519531,
+				45.2237014770508
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Apple Hill, North Glengarry, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "720cac42eed74fd2ae5971d965ffaefc|BN20300154|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "Apple Hill, North Glengarry, Ontario, Canada",
+				"locality": "North Glengarry",
+				"neighborhood": "Apple Hill"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.7703170776367,
+					45.2202301025391
+				]
+			},
+			"bbox": [
+				-74.7776283495445,
+				45.2163673849684,
+				-74.7630058057289,
+				45.2240928201097
+			]
+		}
+	]
+}

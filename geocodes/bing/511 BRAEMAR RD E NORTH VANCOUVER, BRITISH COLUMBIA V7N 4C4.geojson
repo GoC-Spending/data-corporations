@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "511 E Braemar Rd, North Vancouver, BC V7N 4C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e4298964ee074312b4d2f6c224a50222|BN20190653|7.7.0.0|",
+				"addressLine": "511 E Braemar Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "511 E Braemar Rd, North Vancouver, BC V7N 4C4, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Carisbrooke",
+				"postalCode": "V7N 4C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06249,
+					49.34444
+				]
+			},
+			"bbox": [
+				-123.0642155,
+				49.3433158,
+				-123.0607645,
+				49.3455642
+			]
+		}
+	]
+}

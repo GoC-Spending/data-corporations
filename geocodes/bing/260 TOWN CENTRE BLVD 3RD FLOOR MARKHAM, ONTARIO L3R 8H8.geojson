@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "260 Town Centre Blvd, Markham, ON L3R 8H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5982df13eb964f699fb64dabe00e9f11|BN20130532|7.7.0.0|",
+				"addressLine": "260 Town Centre Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "260 Town Centre Blvd, Markham, ON L3R 8H8, Canada",
+				"locality": "Markham",
+				"neighborhood": "Unionville",
+				"postalCode": "L3R 8H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33978,
+					43.8587
+				]
+			},
+			"bbox": [
+				-79.341339,
+				43.8575758,
+				-79.338221,
+				43.8598242
+			]
+		}
+	]
+}

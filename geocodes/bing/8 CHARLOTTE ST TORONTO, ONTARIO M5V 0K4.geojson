@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Charlotte St, Toronto, ON M5V 0K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38eccf16875f46d489bdf9e3774aa6ea|BN20130447|7.7.0.0|",
+				"addressLine": "8 Charlotte St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Charlotte St, Toronto, ON M5V 0K4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 0K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39407,
+					43.64602
+				]
+			},
+			"bbox": [
+				-79.3956235,
+				43.6448958,
+				-79.3925165,
+				43.6471442
+			]
+		}
+	]
+}

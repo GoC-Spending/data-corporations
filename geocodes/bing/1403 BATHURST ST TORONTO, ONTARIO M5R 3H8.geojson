@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1403 Bathurst St, Toronto, ON M5R 3H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "09bab85c1473437ca9582c2f8559eab2|BN20220145|7.7.0.0|",
+				"addressLine": "1403 Bathurst St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1403 Bathurst St, Toronto, ON M5R 3H8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Casa Loma",
+				"postalCode": "M5R 3H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41709,
+					43.68112
+				]
+			},
+			"bbox": [
+				-79.4186444,
+				43.6799958,
+				-79.4155356,
+				43.6822442
+			]
+		}
+	]
+}

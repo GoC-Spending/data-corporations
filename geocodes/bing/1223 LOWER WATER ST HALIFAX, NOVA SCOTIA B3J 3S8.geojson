@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1223 Lower Water St, Halifax, NS B3J 3S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3358e392109d49d1af274f5d3e0acb58|BN20200137|7.7.0.0|",
+				"addressLine": "1223 Lower Water St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1223 Lower Water St, Halifax, NS B3J 3S8, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3J 3S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5679779,
+					44.6412816
+				]
+			},
+			"bbox": [
+				-63.5695578,
+				44.6401575,
+				-63.566398,
+				44.6424058
+			]
+		}
+	]
+}

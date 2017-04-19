@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5317 Barker Ave, Burnaby, BC V5H 2N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e39fcc104fd6405f89f2a3784278d999|BN20280152|7.7.0.0|",
+				"addressLine": "5317 Barker Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5317 Barker Ave, Burnaby, BC V5H 2N6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Garden Village",
+				"postalCode": "V5H 2N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0112729,
+					49.2360735
+				]
+			},
+			"bbox": [
+				-123.0129945,
+				49.2349493,
+				-123.0095512,
+				49.2371976
+			]
+		}
+	]
+}

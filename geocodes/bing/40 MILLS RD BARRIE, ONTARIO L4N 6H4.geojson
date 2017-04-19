@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Mills Rd, Barrie, ON L4N 6H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "acb1c515e5e74b83a5384dd9235f3049|BN20130422|7.7.0.0|",
+				"addressLine": "40 Mills Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Mills Rd, Barrie, ON L4N 6H4, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 West",
+				"postalCode": "L4N 6H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6904799,
+					44.326689
+				]
+			},
+			"bbox": [
+				-79.6920514,
+				44.3255649,
+				-79.6889085,
+				44.3278132
+			]
+		}
+	]
+}

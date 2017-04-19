@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Bellwood Ave, Ottawa, ON K1S 1S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b507528a35214e64a858fa005d0dd828|BN20130631|7.7.0.0|",
+				"addressLine": "36 Bellwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Bellwood Ave, Ottawa, ON K1S 1S7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Golden Triangle-Old Ottawa East",
+				"postalCode": "K1S 1S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68033,
+					45.39449
+				]
+			},
+			"bbox": [
+				-75.6819309,
+				45.3933658,
+				-75.6787291,
+				45.3956142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "260 Adelaide St E, Toronto, ON M5A 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fcf489521cf9410a8030bca41b171dd9|BN20240253|7.7.0.0|",
+				"addressLine": "260 Adelaide St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "260 Adelaide St E, Toronto, ON M5A 1N1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3705,
+					43.65191
+				]
+			},
+			"bbox": [
+				-79.3720537,
+				43.6507858,
+				-79.3689463,
+				43.6530342
+			]
+		}
+	]
+}

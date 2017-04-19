@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "492 Lakeview Dr, Roanoke, VA 24012",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63a841c7633c47c4a8ace356ce53e7cf|BN20130721|7.7.0.0|",
+				"addressLine": "492 Lakeview Dr",
+				"adminDistrict": "VA",
+				"adminDistrict2": "Botetourt",
+				"countryRegion": "United States",
+				"formattedAddress": "492 Lakeview Dr, Roanoke, VA 24012",
+				"locality": "Roanoke",
+				"postalCode": "24012"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8633912009846,
+					37.3410608421694
+				]
+			},
+			"bbox": [
+				-79.8698689023854,
+				37.3371981245987,
+				-79.8569134995837,
+				37.3449235597401
+			]
+		}
+	]
+}

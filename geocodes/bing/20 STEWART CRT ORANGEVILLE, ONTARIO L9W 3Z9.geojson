@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Stewart Ct, Orangeville, ON L9W 3Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4dc8fd1dcffc4b0d9b47e5a5660df6b6|BN20260223|7.7.0.0|",
+				"addressLine": "20 Stewart Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Dufferin",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Stewart Ct, Orangeville, ON L9W 3Z9, Canada",
+				"locality": "Orangeville",
+				"postalCode": "L9W 3Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.11586,
+					43.90824
+				]
+			},
+			"bbox": [
+				-80.1174203,
+				43.9071158,
+				-80.1142997,
+				43.9093642
+			]
+		}
+	]
+}

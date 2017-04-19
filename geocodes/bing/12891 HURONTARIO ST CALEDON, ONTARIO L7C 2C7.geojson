@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12891 Hurontario St, Caledon, ON L7C 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6517f0eba1648f384d401591d864880|BN20260223|7.7.0.0|",
+				"addressLine": "12891 Hurontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12891 Hurontario St, Caledon, ON L7C 2C7, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Valleywood",
+				"postalCode": "L7C 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84754,
+					43.75312
+				]
+			},
+			"bbox": [
+				-79.8490963,
+				43.7519958,
+				-79.8459837,
+				43.7542442
+			]
+		}
+	]
+}

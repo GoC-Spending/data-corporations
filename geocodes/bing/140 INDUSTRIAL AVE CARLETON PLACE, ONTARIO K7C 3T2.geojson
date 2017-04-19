@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Industrial Ave, Carleton Place, ON K7C 3T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d6a5199a66274e21b7b08b70558012dc|BN20190653|7.7.0.0|",
+				"addressLine": "140 Industrial Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Industrial Ave, Carleton Place, ON K7C 3T2, Canada",
+				"locality": "Carleton Place",
+				"postalCode": "K7C 3T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1481699,
+					45.1512
+				]
+			},
+			"bbox": [
+				-76.1497639,
+				45.1500758,
+				-76.1465759,
+				45.1523242
+			]
+		}
+	]
+}

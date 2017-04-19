@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Owen St, Barrie, ON L4M 3G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9989f6217cf74714a5fde0b503f63337|BN20290118|7.7.0.0|",
+				"addressLine": "30 Owen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Owen St, Barrie, ON L4M 3G7, Canada",
+				"locality": "Barrie",
+				"neighborhood": "City Center",
+				"postalCode": "L4M 3G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68794,
+					44.39021
+				]
+			},
+			"bbox": [
+				-79.6895131,
+				44.3890858,
+				-79.6863669,
+				44.3913342
+			]
+		}
+	]
+}

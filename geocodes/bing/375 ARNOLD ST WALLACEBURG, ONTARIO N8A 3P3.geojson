@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Arnold St, Wallaceburg, ON N8A 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f30a9663d124d2497ca9466b929160d|BN20130625|7.7.0.0|",
+				"addressLine": "375 Arnold St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Arnold St, Wallaceburg, ON N8A 3P3, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Wallaceburg",
+				"postalCode": "N8A 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.40043,
+					42.58502
+				]
+			},
+			"bbox": [
+				-82.4019568,
+				42.5838958,
+				-82.3989032,
+				42.5861442
+			]
+		}
+	]
+}

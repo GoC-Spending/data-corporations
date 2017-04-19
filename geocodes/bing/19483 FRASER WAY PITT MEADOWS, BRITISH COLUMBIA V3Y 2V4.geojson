@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19483 Fraser Way, Pitt Meadows, BC V3Y 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c0f20403db846b59c56bfdddb07cedd|BN20130522|7.7.0.0|",
+				"addressLine": "19483 Fraser Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19483 Fraser Way, Pitt Meadows, BC V3Y 2V4, Canada",
+				"locality": "Pitt Meadows",
+				"postalCode": "V3Y 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6827545,
+					49.2031699
+				]
+			},
+			"bbox": [
+				-122.6844751,
+				49.2020458,
+				-122.681034,
+				49.2042941
+			]
+		}
+	]
+}

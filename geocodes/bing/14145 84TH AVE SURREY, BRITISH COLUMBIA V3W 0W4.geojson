@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14145 84 Ave, Surrey, BC V3W 0W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04502b7ec7cc44ee90c4f61bfed532ac|BN20190642|7.7.0.0|",
+				"addressLine": "14145 84 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "14145 84 Ave, Surrey, BC V3W 0W4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3W 0W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.83037,
+					49.15566
+				]
+			},
+			"bbox": [
+				-122.8320889,
+				49.1545358,
+				-122.8286511,
+				49.1567842
+			]
+		}
+	]
+}

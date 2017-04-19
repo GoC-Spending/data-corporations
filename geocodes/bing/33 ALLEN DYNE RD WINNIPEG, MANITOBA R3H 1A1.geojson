@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Allen Dyne Rd, Winnipeg, MB R3H 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "80ba11b6784e4a3eb971217a67b0bcb6|BN20130625|7.7.0.0|",
+				"addressLine": "33 Allen Dyne Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Allen Dyne Rd, Winnipeg, MB R3H 1A1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21408,
+					49.89684
+				]
+			},
+			"bbox": [
+				-97.2158251,
+				49.8957158,
+				-97.2123349,
+				49.8979642
+			]
+		}
+	]
+}

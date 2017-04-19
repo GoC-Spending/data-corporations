@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3770 Victoria Park Ave, Toronto, ON M2H 3M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2c9a44ccf8b4958a57410a234035fa9|BN20130521|7.7.0.0|",
+				"addressLine": "3770 Victoria Park Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3770 Victoria Park Ave, Toronto, ON M2H 3M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Hillcrest Village",
+				"postalCode": "M2H 3M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33959,
+					43.8100499
+				]
+			},
+			"bbox": [
+				-79.3411478,
+				43.8089257,
+				-79.3380322,
+				43.8111741
+			]
+		}
+	]
+}

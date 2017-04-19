@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9445 193A St, Surrey, BC V4N 4N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c31815fc0224e3eb08ebe02a7bc2450|BN20210145|7.7.0.0|",
+				"addressLine": "9445 193A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9445 193A St, Surrey, BC V4N 4N5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V4N 4N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.686008,
+					49.1743529
+				]
+			},
+			"bbox": [
+				-122.6877275,
+				49.1732287,
+				-122.6842884,
+				49.175477
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "512 Victoria Ave E, Thunder Bay, ON P7C 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22319939e21a4a95bd3a3d186f70f243|BN20131519|7.7.0.0|",
+				"addressLine": "512 Victoria Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "512 Victoria Ave E, Thunder Bay, ON P7C 1A7, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7C 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.24626,
+					48.38394
+				]
+			},
+			"bbox": [
+				-89.2479527,
+				48.3828158,
+				-89.2445673,
+				48.3850642
+			]
+		}
+	]
+}

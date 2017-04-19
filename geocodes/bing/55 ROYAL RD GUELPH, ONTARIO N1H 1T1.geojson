@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Royal Rd, Guelph, ON N1H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9dc1edde3d9343fc9d9daa5b05573a08|BN20130422|7.7.0.0|",
+				"addressLine": "55 Royal Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Royal Rd, Guelph, ON N1H, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1H 1T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2988804,
+					43.5434733
+				]
+			},
+			"bbox": [
+				-80.3004313,
+				43.5423492,
+				-80.2973295,
+				43.5445975
+			]
+		}
+	]
+}

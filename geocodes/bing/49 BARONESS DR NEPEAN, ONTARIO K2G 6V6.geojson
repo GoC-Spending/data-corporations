@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 Baroness Dr, Nepean, ON K2G 6V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6806d759594444c8f0170bd1bc25820|BN20121762|7.7.0.0|",
+				"addressLine": "49 Baroness Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 Baroness Dr, Nepean, ON K2G 6V6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 6V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70908,
+					45.29058
+				]
+			},
+			"bbox": [
+				-75.7106779,
+				45.2894558,
+				-75.7074821,
+				45.2917042
+			]
+		}
+	]
+}

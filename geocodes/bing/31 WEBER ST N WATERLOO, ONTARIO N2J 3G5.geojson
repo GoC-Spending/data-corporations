@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Weber St N, Waterloo, ON N2J 3G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a35b5e4195324347a875dfd461aba916|BN20130447|7.7.0.0|",
+				"addressLine": "31 Weber St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Weber St N, Waterloo, ON N2J 3G5, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 3G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.51226,
+					43.46946
+				]
+			},
+			"bbox": [
+				-80.513809,
+				43.4683358,
+				-80.510711,
+				43.4705842
+			]
+		}
+	]
+}

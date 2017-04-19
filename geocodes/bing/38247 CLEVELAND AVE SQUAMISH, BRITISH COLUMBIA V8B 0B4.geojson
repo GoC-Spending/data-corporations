@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38247 Cleveland Ave, Squamish, BC V8B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23bd78e20b7a4bdb8d87649c715c4588|BN20160335|7.7.0.0|",
+				"addressLine": "38247 Cleveland Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Squamish-Lillooet",
+				"countryRegion": "Canada",
+				"formattedAddress": "38247 Cleveland Ave, Squamish, BC V8B, Canada",
+				"locality": "Squamish",
+				"postalCode": "V8B 0B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.15062,
+					49.70244
+				]
+			},
+			"bbox": [
+				-123.1523581,
+				49.7013158,
+				-123.1488819,
+				49.7035642
+			]
+		}
+	]
+}

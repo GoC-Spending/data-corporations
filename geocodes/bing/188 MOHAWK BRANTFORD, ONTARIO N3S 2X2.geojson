@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "188 Mohawk St, Brantford, ON N3S 2X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28f21180ad5f45e79dbca5a237d084f1|BN20130621|7.7.0.0|",
+				"addressLine": "188 Mohawk St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "188 Mohawk St, Brantford, ON N3S 2X2, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 2X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2413713,
+					43.1258658
+				]
+			},
+			"bbox": [
+				-80.2429115,
+				43.1247416,
+				-80.2398311,
+				43.1269899
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9426 192 St, Surrey, BC V4N 3R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2f717f581094257bf1542cf51522b35|BN20280152|7.7.0.0|",
+				"addressLine": "9426 192 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9426 192 St, Surrey, BC V4N 3R9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V4N 3R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.69031,
+					49.17389
+				]
+			},
+			"bbox": [
+				-122.6920295,
+				49.1727658,
+				-122.6885905,
+				49.1750142
+			]
+		}
+	]
+}

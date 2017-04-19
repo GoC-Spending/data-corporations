@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2919 104 St NW, Edmonton, AB T6J 4C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22d775e18b0c44ed8a7a505082a75278|BN20130520|7.7.0.0|",
+				"addressLine": "2919 104 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2919 104 St NW, Edmonton, AB T6J 4C7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ermineskin",
+				"postalCode": "T6J 4C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49533,
+					53.4607
+				]
+			},
+			"bbox": [
+				-113.4972181,
+				53.4595758,
+				-113.4934419,
+				53.4618242
+			]
+		}
+	]
+}

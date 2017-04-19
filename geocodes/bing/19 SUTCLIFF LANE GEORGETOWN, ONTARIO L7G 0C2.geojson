@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 10,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Sutcliff Ln, Georgetown, ON L7G 0C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69e4585f82424fdca2b5862378b5e109|BN20130719|7.7.0.0|",
+				"addressLine": "Sutcliff Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "Sutcliff Ln, Georgetown, ON L7G 0C2, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 0C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92168,
+					43.66065
+				]
+			},
+			"bbox": [
+				-79.92318,
+				43.66023,
+				-79.92164,
+				43.6607
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1041 25 St S, Lethbridge, AB T1K 2M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "819a0d8a2f63405aa0ee5f60fe55259d|BN20130620|7.7.0.0|",
+				"addressLine": "1041 25 St S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1041 25 St S, Lethbridge, AB T1K 2M8, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1K 2M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.80632,
+					49.68225
+				]
+			},
+			"bbox": [
+				-112.8080574,
+				49.6811258,
+				-112.8045826,
+				49.6833742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1585 E Kent Ave N, Vancouver, BC V5P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c4eb7da1dd24ec3953c8db45ca3cf67|BN20160335|7.7.0.0|",
+				"addressLine": "1585 E Kent Ave N",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1585 E Kent Ave N, Vancouver, BC V5P, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Victoria-Fraserview",
+				"postalCode": "V5P 4Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0744874,
+					49.2097373
+				]
+			},
+			"bbox": [
+				-123.0762081,
+				49.2086131,
+				-123.0727666,
+				49.2108614
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1164 Comox St, Vancouver, BC V6E 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f169aadc474648c588effdbe0186309d|BN20260231|7.7.0.0|",
+				"addressLine": "1164 Comox St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1164 Comox St, Vancouver, BC V6E 1K5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6E 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.13095,
+					49.2826
+				]
+			},
+			"bbox": [
+				-123.1326733,
+				49.2814758,
+				-123.1292267,
+				49.2837242
+			]
+		}
+	]
+}

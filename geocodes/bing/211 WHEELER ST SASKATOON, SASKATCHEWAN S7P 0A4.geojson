@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "211 Wheeler St, Saskatoon, SK S7K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f2a8b8e5bb54298848613f93a110b14|BN20171457|7.7.0.0|",
+				"addressLine": "211 Wheeler St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "211 Wheeler St, Saskatoon, SK S7K, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Marquis Industrial",
+				"postalCode": "S7K"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.62928,
+					52.19107
+				]
+			},
+			"bbox": [
+				-106.6311138,
+				52.1899458,
+				-106.6274462,
+				52.1921942
+			]
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Rue Principale, Daveluyville, QC G0Z 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4a549f2df9584e66b089a518162a6991|BN20160335|7.7.0.0|",
+				"addressLine": "Rue Principale",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Arthabaska County",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rue Principale, Daveluyville, QC G0Z 1C0, Canada",
+				"locality": "Daveluyville",
+				"postalCode": "G0Z 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.14167,
+					46.21383
+				]
+			},
+			"bbox": [
+				-72.14174,
+				46.20093,
+				-72.13679,
+				46.21393
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "674 Route Principale, Ste-Anne-du-Sault, QC G0Z, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4a549f2df9584e66b089a518162a6991|BN20160335|7.7.0.0|",
+				"addressLine": "674 Route Principale",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Arthabaska County",
+				"countryRegion": "Canada",
+				"formattedAddress": "674 Route Principale, Ste-Anne-du-Sault, QC G0Z, Canada",
+				"locality": "Ste-Anne-du-Sault",
+				"postalCode": "G0Z 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.13744,
+					46.19311
+				]
+			},
+			"bbox": [
+				-72.139064,
+				46.1919858,
+				-72.135816,
+				46.1942342
+			]
+		}
+	]
+}

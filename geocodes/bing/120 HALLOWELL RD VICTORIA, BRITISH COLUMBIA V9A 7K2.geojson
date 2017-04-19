@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Hallowell Rd, View Royal, BC V9A 7K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d4ee0ec22ee34b34a6d09c01ef743168|BN20130719|7.7.0.0|",
+				"addressLine": "120 Hallowell Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Hallowell Rd, View Royal, BC V9A 7K2, Canada",
+				"locality": "View Royal",
+				"postalCode": "V9A 7K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.426922,
+					48.4465754
+				]
+			},
+			"bbox": [
+				-123.4286168,
+				48.4454513,
+				-123.4252273,
+				48.4476996
+			]
+		}
+	]
+}

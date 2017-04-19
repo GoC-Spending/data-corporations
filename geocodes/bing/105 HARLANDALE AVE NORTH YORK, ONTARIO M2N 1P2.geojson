@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Harlandale Ave, North York, ON M2N 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ca45ff859fb4aa8b58e58859fa7e5c3|BN20190653|7.7.0.0|",
+				"addressLine": "105 Harlandale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Harlandale Ave, North York, ON M2N 1P2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4167,
+					43.76095
+				]
+			},
+			"bbox": [
+				-79.4182565,
+				43.7598258,
+				-79.4151435,
+				43.7620742
+			]
+		}
+	]
+}

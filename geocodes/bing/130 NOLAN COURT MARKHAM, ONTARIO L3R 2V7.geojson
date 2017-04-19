@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Nolan Ct, Markham, ON L3R 2V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "838783b5719f4f5eb162f95335326017|BN20130632|7.7.0.0|",
+				"addressLine": "130 Nolan Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Nolan Ct, Markham, ON L3R 2V7, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 2V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35684,
+					43.82391
+				]
+			},
+			"bbox": [
+				-79.3583981,
+				43.8227858,
+				-79.3552819,
+				43.8250342
+			]
+		}
+	]
+}

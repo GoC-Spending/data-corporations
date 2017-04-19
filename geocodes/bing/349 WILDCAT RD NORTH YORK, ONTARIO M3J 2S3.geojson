@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "349 Wildcat Rd, North York, ON M3J 2S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "35b7aed8c30a4e4da513021190493983|BN20130625|7.7.0.0|",
+				"addressLine": "349 Wildcat Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "349 Wildcat Rd, North York, ON M3J 2S3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49066,
+					43.77727
+				]
+			},
+			"bbox": [
+				-79.4922169,
+				43.7761458,
+				-79.4891031,
+				43.7783942
+			]
+		}
+	]
+}

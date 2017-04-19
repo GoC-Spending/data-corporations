@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3330 Greenwood Rd, Pickering, ON L0H 1H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e53fa5f51e44970bb9af78cd0bfe379|BN20121764|7.7.0.0|",
+				"addressLine": "3330 Greenwood Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "3330 Greenwood Rd, Pickering, ON L0H 1H0, Canada",
+				"locality": "Pickering",
+				"neighborhood": "Greenwood",
+				"postalCode": "L0H 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.067869,
+					43.9152511
+				]
+			},
+			"bbox": [
+				-79.0694295,
+				43.9141269,
+				-79.0663084,
+				43.9163752
+			]
+		}
+	]
+}

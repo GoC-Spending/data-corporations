@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 Bunting Rd, St Catharines, ON L2M 3Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ce44ef70c16d475da037d29dd0d00363|BN20130431|7.7.0.0|",
+				"addressLine": "221 Bunting Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 Bunting Rd, St Catharines, ON L2M 3Y2, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Queenston",
+				"postalCode": "L2M 3Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.21099,
+					43.17295
+				]
+			},
+			"bbox": [
+				-79.2125314,
+				43.1718258,
+				-79.2094486,
+				43.1740742
+			]
+		}
+	]
+}

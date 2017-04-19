@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1447 Barclay St, Vancouver, BC V6G 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "685878ef828d4c3dba5ca5f2fd8e26be|BN20130533|7.7.0.0|",
+				"addressLine": "1447 Barclay St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1447 Barclay St, Vancouver, BC V6G 1J6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6G 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.132931,
+					49.2872248
+				]
+			},
+			"bbox": [
+				-123.1346544,
+				49.2861006,
+				-123.1312075,
+				49.2883489
+			]
+		}
+	]
+}

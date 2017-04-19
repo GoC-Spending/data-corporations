@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Manorheights St, Richmond Hill, ON L4S 2H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b87b621f7c4943efb5f5212743cee5c4|BN20210145|7.7.0.0|",
+				"addressLine": "60 Manorheights St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Manorheights St, Richmond Hill, ON L4S 2H6, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4S 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.397,
+					43.89209
+				]
+			},
+			"bbox": [
+				-79.3985599,
+				43.8909658,
+				-79.3954401,
+				43.8932142
+			]
+		}
+	]
+}

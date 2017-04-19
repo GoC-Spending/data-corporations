@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "180 Earlsdale Ave, York, ON M6E 1L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd7c7e10f7cd46edbbb8524cd0de08b1|BN20290118|7.7.0.0|",
+				"addressLine": "180 Earlsdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "180 Earlsdale Ave, York, ON M6E 1L2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakwood Village",
+				"postalCode": "M6E 1L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44024,
+					43.6851399
+				]
+			},
+			"bbox": [
+				-79.4417945,
+				43.6840157,
+				-79.4386855,
+				43.6862641
+			]
+		}
+	]
+}

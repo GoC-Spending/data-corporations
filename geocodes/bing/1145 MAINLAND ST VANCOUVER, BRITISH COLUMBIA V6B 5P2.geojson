@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1145 Mainland St, Vancouver, BC V6B 5P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a404840472f24c83a8a2bb2b27f7a9ea|BN20290118|7.7.0.0|",
+				"addressLine": "1145 Mainland St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1145 Mainland St, Vancouver, BC V6B 5P2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Yaletown",
+				"postalCode": "V6B 5P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1214346,
+					49.2751694
+				]
+			},
+			"bbox": [
+				-123.1231576,
+				49.2740452,
+				-123.1197116,
+				49.2762935
+			]
+		}
+	]
+}

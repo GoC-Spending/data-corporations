@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "319 Merton St, Toronto, ON M4S 1A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ff1bfa5a160494883124be2ab3377b2|BN20130532|7.7.0.0|",
+				"addressLine": "319 Merton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "319 Merton St, Toronto, ON M4S 1A5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant West",
+				"postalCode": "M4S 1A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38715,
+					43.69783
+				]
+			},
+			"bbox": [
+				-79.3887049,
+				43.6967058,
+				-79.3855951,
+				43.6989542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "66 W Beaver Creek Rd, Richmond Hill, ON L4B 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99e977da09824362b87e9394e52908af|BN20130631|7.7.0.0|",
+				"addressLine": "66 W Beaver Creek Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "66 W Beaver Creek Rd, Richmond Hill, ON L4B 1G5, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4B 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39386,
+					43.85526
+				]
+			},
+			"bbox": [
+				-79.395419,
+				43.8541358,
+				-79.392301,
+				43.8563842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "216 Bayshore Rd, Tyendinaga, ON K0K 1X0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c349d8bd37404feeb2dcc9672242aa99|BN20130719|7.7.0.0|",
+				"addressLine": "216 Bayshore Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "216 Bayshore Rd, Tyendinaga, ON K0K 1X0, Canada",
+				"locality": "Tyendinaga",
+				"neighborhood": "Deseronto",
+				"postalCode": "K0K 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0739596,
+					44.1824732
+				]
+			},
+			"bbox": [
+				-77.0755272,
+				44.1813491,
+				-77.072392,
+				44.1835974
+			]
+		}
+	]
+}

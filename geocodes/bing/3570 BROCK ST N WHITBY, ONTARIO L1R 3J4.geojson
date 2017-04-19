@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3570 Brock St N, Whitby, ON L1R 3J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6ad7bc0de9b491aaf3a9c240ac91cc1|BN20130625|7.7.0.0|",
+				"addressLine": "3570 Brock St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "3570 Brock St N, Whitby, ON L1R 3J4, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1R 3J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.954731,
+					43.9079768
+				]
+			},
+			"bbox": [
+				-78.9562913,
+				43.9068527,
+				-78.9531707,
+				43.909101
+			]
+		}
+	]
+}

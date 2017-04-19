@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6934 Patricia St, Halifax, NS B3L 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6d432e8653240ff84948949066574f3|BN20300154|7.7.0.0|",
+				"addressLine": "6934 Patricia St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "6934 Patricia St, Halifax, NS B3L 1J4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Armdale",
+				"postalCode": "B3L 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.61397,
+					44.64323
+				]
+			},
+			"bbox": [
+				-63.61555,
+				44.6421058,
+				-63.61239,
+				44.6443542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "138 Nugget Ave, Scarborough, ON M1S 3A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42f0f888c0404b5bb527b05dc4def062|BN20130442|7.7.0.0|",
+				"addressLine": "138 Nugget Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "138 Nugget Ave, Scarborough, ON M1S 3A7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 3A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2551,
+					43.79466
+				]
+			},
+			"bbox": [
+				-79.2566574,
+				43.7935358,
+				-79.2535426,
+				43.7957842
+			]
+		}
+	]
+}

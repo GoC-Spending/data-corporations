@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3823 29 St NE, Calgary, AB T1Y 6B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8cbe372d5f7d4e6b87d96cb21c4f5d27|BN20280152|7.7.0.0|",
+				"addressLine": "3823 29 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3823 29 St NE, Calgary, AB T1Y 6B5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Horizon",
+				"postalCode": "T1Y 6B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.99244,
+					51.0877
+				]
+			},
+			"bbox": [
+				-113.9942297,
+				51.0865758,
+				-113.9906503,
+				51.0888242
+			]
+		}
+	]
+}

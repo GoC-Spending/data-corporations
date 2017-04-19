@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "93 Queen St W, Brampton, ON L6Y 1M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a14a08f711af4f36b1c9e3de283e7efe|BN20190642|7.7.0.0|",
+				"addressLine": "93 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "93 Queen St W, Brampton, ON L6Y 1M2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6Y 1M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76149,
+					43.68414
+				]
+			},
+			"bbox": [
+				-79.7630445,
+				43.6830158,
+				-79.7599355,
+				43.6852642
+			]
+		}
+	]
+}

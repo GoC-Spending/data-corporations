@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Gifford Rd, Saint John, NB E2M 5K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ef6c56d09274586a61c32f9348244e7|BN20300154|7.7.0.0|",
+				"addressLine": "45 Gifford Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Gifford Rd, Saint John, NB E2M 5K7, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 5K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.10629,
+					45.2608
+				]
+			},
+			"bbox": [
+				-66.1078871,
+				45.2596758,
+				-66.1046929,
+				45.2619242
+			]
+		}
+	]
+}

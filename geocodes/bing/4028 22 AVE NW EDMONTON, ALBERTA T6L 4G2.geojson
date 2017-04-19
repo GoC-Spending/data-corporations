@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4028 22 Ave NW, Edmonton, AB T6L 4G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e07c247e9a9746d09d753c48ee1cccf2|BN20260223|7.7.0.0|",
+				"addressLine": "4028 22 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4028 22 Ave NW, Edmonton, AB T6L 4G2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Daly Grove",
+				"postalCode": "T6L 4G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.40381,
+					53.45431
+				]
+			},
+			"bbox": [
+				-113.4056979,
+				53.4531858,
+				-113.4019221,
+				53.4554342
+			]
+		}
+	]
+}

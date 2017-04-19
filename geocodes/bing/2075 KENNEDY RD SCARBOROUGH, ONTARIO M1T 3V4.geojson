@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2075 Kennedy Rd, Scarborough, ON M1T 3V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4818c0d8954a445e907556a91cee4b71|BN20121764|7.7.0.0|",
+				"addressLine": "2075 Kennedy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2075 Kennedy Rd, Scarborough, ON M1T 3V4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1T 3V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28512,
+					43.77811
+				]
+			},
+			"bbox": [
+				-79.2866769,
+				43.7769858,
+				-79.2835631,
+				43.7792342
+			]
+		}
+	]
+}

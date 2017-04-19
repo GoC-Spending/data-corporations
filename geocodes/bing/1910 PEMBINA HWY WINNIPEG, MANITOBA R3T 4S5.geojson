@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1910 Pembina Hwy, Winnipeg, MB R3T 4S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56c96ba2880049df9a38cd85915ee864|BN20130530|7.7.0.0|",
+				"addressLine": "1910 Pembina Hwy",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1910 Pembina Hwy, Winnipeg, MB R3T 4S5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Pembina Strip",
+				"postalCode": "R3T 4S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1524972,
+					49.82263
+				]
+			},
+			"bbox": [
+				-97.1542396,
+				49.8215058,
+				-97.1507547,
+				49.8237542
+			]
+		}
+	]
+}

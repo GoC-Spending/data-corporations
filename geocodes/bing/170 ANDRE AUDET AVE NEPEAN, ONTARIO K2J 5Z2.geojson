@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 Andre Audet Ave, Nepean, ON K2J 5Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "57f3cc539663453da64176501c41b8c3|BN20200137|7.7.0.0|",
+				"addressLine": "170 Andre Audet Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 Andre Audet Ave, Nepean, ON K2J 5Z2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 5Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.733531,
+					45.2454011
+				]
+			},
+			"bbox": [
+				-75.7351276,
+				45.244277,
+				-75.7319344,
+				45.2465253
+			]
+		}
+	]
+}

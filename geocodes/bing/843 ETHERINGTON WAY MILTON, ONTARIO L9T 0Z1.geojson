@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "843 Etherington Way, Milton, ON L9T 0Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0de850eac8444933b8395c8de558a6a5|BN20130631|7.7.0.0|",
+				"addressLine": "843 Etherington Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "843 Etherington Way, Milton, ON L9T 0Z1, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 0Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87372,
+					43.48402
+				]
+			},
+			"bbox": [
+				-79.8752693,
+				43.4828958,
+				-79.8721707,
+				43.4851442
+			]
+		}
+	]
+}

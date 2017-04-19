@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "601 Mowat Ave, Fort Frances, ON P9A 1Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a721a6f0a4244c9b58f7e0343764e7d|BN20280152|7.7.0.0|",
+				"addressLine": "601 Mowat Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Rainy River",
+				"countryRegion": "Canada",
+				"formattedAddress": "601 Mowat Ave, Fort Frances, ON P9A 1Z2, Canada",
+				"locality": "Fort Frances",
+				"postalCode": "P9A 1Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.3987949,
+					48.6111404
+				]
+			},
+			"bbox": [
+				-93.4004952,
+				48.6100163,
+				-93.3970946,
+				48.6122646
+			]
+		}
+	]
+}

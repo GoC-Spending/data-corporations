@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "76 Brooke Ave, North York, ON M5M 2J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "77ae81730a814b3e8679e29212c43f09|BN20130620|7.7.0.0|",
+				"addressLine": "76 Brooke Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "76 Brooke Ave, North York, ON M5M 2J9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bedford Park-Nortown",
+				"postalCode": "M5M 2J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41121,
+					43.7353
+				]
+			},
+			"bbox": [
+				-79.4127658,
+				43.7341758,
+				-79.4096542,
+				43.7364242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "142 Roger St, Miramichi, NB E1V 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "346cd0367e94402abacd3366fb56e8b3|BN20210145|7.7.0.0|",
+				"addressLine": "142 Roger St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "142 Roger St, Miramichi, NB E1V 1H1, Canada",
+				"locality": "Miramichi",
+				"postalCode": "E1V 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.57628,
+					47.0011
+				]
+			},
+			"bbox": [
+				-65.5779284,
+				46.9999758,
+				-65.5746316,
+				47.0022242
+			]
+		}
+	]
+}

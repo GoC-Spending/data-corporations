@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Idyllwood Ave, Richmond Hill, ON L4S 2P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d582dcf93d084b47add0198c4db08465|BN20160335|7.7.0.0|",
+				"addressLine": "18 Idyllwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Idyllwood Ave, Richmond Hill, ON L4S 2P4, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4S 2P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45466,
+					43.90386
+				]
+			},
+			"bbox": [
+				-79.4562202,
+				43.9027358,
+				-79.4530998,
+				43.9049842
+			]
+		}
+	]
+}

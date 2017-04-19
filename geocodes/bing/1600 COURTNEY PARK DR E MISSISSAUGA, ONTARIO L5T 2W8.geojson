@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1600 Courtneypark Dr E, Mississauga, ON L5T 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f973fced820f4f7e92c65e3d52fba155|BN20160335|7.7.0.0|",
+				"addressLine": "1600 Courtneypark Dr E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1600 Courtneypark Dr E, Mississauga, ON L5T 2W8, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Toronto Pearson Int'l Airport",
+				"postalCode": "L5T 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.65474,
+					43.66526
+				]
+			},
+			"bbox": [
+				-79.656294,
+				43.6641358,
+				-79.653186,
+				43.6663842
+			]
+		}
+	]
+}

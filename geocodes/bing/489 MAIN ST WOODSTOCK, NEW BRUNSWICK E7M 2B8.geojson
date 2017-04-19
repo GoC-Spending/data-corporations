@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "489 Main St, Woodstock, NB E7M 2B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b2eff59bf8f4cebb722c6bf03e46917|BN20130423|7.7.0.0|",
+				"addressLine": "489 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Carleton",
+				"countryRegion": "Canada",
+				"formattedAddress": "489 Main St, Woodstock, NB E7M 2B8, Canada",
+				"locality": "Woodstock",
+				"postalCode": "E7M 2B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-67.57715,
+					46.14401
+				]
+			},
+			"bbox": [
+				-67.5787725,
+				46.1428858,
+				-67.5755275,
+				46.1451342
+			]
+		}
+	]
+}

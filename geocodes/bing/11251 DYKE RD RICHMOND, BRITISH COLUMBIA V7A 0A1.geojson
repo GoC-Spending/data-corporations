@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11251 Dyke Rd, Richmond, BC V7A 0A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c15e412c1294170ba437c8e4a5c1222|BN20131519|7.7.0.0|",
+				"addressLine": "11251 Dyke Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "11251 Dyke Rd, Richmond, BC V7A 0A1, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Shellmont",
+				"postalCode": "V7A 0A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10131,
+					49.1184299
+				]
+			},
+			"bbox": [
+				-123.1030276,
+				49.1173057,
+				-123.0995924,
+				49.1195541
+			]
+		}
+	]
+}

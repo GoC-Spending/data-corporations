@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1014 Broad St, Victoria, BC V8W 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "653097197dff460589be1be9256dbc12|BN20130634|7.7.0.0|",
+				"addressLine": "1014 Broad St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1014 Broad St, Victoria, BC V8W 1Z9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3668338,
+					48.4242396
+				]
+			},
+			"bbox": [
+				-123.3685278,
+				48.4231154,
+				-123.3651398,
+				48.4253637
+			]
+		}
+	]
+}

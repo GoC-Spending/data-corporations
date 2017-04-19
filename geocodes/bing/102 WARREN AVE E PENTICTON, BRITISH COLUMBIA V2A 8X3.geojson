@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "102 Warren Ave E, Penticton, BC V2A 8X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6eadee9475424275b412ed47699bc48f|BN20130532|7.7.0.0|",
+				"addressLine": "102 Warren Ave E",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Okanagan-Similkameen",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 Warren Ave E, Penticton, BC V2A 8X3, Canada",
+				"locality": "Penticton",
+				"postalCode": "V2A 8X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.57978,
+					49.47542
+				]
+			},
+			"bbox": [
+				-119.5815101,
+				49.4742958,
+				-119.5780499,
+				49.4765442
+			]
+		}
+	]
+}

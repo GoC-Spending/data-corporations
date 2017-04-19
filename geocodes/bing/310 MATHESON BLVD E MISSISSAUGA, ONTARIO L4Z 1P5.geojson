@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "310 Matheson Blvd E, Mississauga, ON L4Z 1P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab73bdc976ca431abc013c088639c938|BN20130634|7.7.0.0|",
+				"addressLine": "310 Matheson Blvd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "310 Matheson Blvd E, Mississauga, ON L4Z 1P5, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Z 1P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.66058,
+					43.62398
+				]
+			},
+			"bbox": [
+				-79.6621329,
+				43.6228558,
+				-79.6590271,
+				43.6251042
+			]
+		}
+	]
+}

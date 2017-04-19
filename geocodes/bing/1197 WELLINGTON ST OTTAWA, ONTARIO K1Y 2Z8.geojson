@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1197 Wellington St W, Ottawa, ON K1Y 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03721eda97604384998dc51ba38adf6f|BN20130625|7.7.0.0|",
+				"addressLine": "1197 Wellington St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1197 Wellington St W, Ottawa, ON K1Y 2Z8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hintonburg-Mechanicsville",
+				"postalCode": "K1Y 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73034,
+					45.40054
+				]
+			},
+			"bbox": [
+				-75.731941,
+				45.3994158,
+				-75.728739,
+				45.4016642
+			]
+		}
+	]
+}

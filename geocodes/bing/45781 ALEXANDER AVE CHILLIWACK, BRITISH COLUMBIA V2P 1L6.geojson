@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45781 Alexander Ave, Chilliwack, BC V2P 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8867b5dc61754352a908c5b62e2ef4bb|BN20181720|7.7.0.0|",
+				"addressLine": "45781 Alexander Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "45781 Alexander Ave, Chilliwack, BC V2P 1L6, Canada",
+				"locality": "Chilliwack",
+				"neighborhood": "Chilliwack Proper Village West",
+				"postalCode": "V2P 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.95764,
+					49.16431
+				]
+			},
+			"bbox": [
+				-121.9593592,
+				49.1631858,
+				-121.9559208,
+				49.1654342
+			]
+		}
+	]
+}

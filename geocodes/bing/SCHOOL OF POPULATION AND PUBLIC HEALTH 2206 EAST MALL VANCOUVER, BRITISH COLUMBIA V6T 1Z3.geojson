@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2206 East Mall, Vancouver, BC V6T 1Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e67e6f841eea40da9e9dba7911ab02e5|BN20260223|7.7.0.0|",
+				"addressLine": "2206 East Mall",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2206 East Mall, Vancouver, BC V6T 1Z3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "UBC",
+				"postalCode": "V6T 1Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.2489737,
+					49.264174
+				]
+			},
+			"bbox": [
+				-123.2506963,
+				49.2630499,
+				-123.247251,
+				49.2652982
+			]
+		}
+	]
+}

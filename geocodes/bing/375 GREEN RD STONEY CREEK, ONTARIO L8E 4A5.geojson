@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Green Rd, Stoney Creek, ON L8E 4A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ca1b227b6714c3dbe5acf2941e4a2e2|BN20130431|7.7.0.0|",
+				"addressLine": "375 Green Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Green Rd, Stoney Creek, ON L8E 4A5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 4A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72919,
+					43.23311
+				]
+			},
+			"bbox": [
+				-79.730733,
+				43.2319858,
+				-79.727647,
+				43.2342342
+			]
+		}
+	]
+}

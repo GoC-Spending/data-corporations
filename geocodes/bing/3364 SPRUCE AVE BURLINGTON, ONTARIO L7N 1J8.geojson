@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3364 Spruce Ave, Burlington, ON L7N 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ae400f5a1c44e249f15790cb916299f|BN20130625|7.7.0.0|",
+				"addressLine": "3364 Spruce Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3364 Spruce Ave, Burlington, ON L7N 1J8, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Roseland",
+				"postalCode": "L7N 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76965,
+					43.3446
+				]
+			},
+			"bbox": [
+				-79.7711958,
+				43.3434758,
+				-79.7681042,
+				43.3457242
+			]
+		}
+	]
+}

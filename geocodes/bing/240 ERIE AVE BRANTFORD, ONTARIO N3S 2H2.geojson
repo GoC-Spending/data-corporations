@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "240 Erie Ave, Brantford, ON N3S 2H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b81241d22ebf438db5bc4faee9176f2e|BN20200239|7.7.0.0|",
+				"addressLine": "240 Erie Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "240 Erie Ave, Brantford, ON N3S 2H2, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 2H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25475,
+					43.1258
+				]
+			},
+			"bbox": [
+				-80.2562902,
+				43.1246758,
+				-80.2532098,
+				43.1269242
+			]
+		}
+	]
+}

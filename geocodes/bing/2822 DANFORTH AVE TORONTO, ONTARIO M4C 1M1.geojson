@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2822 Danforth Ave, Toronto, ON M4C 1M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3775a3431d449e892edea062d593bd3|BN20121763|7.7.0.0|",
+				"addressLine": "2822 Danforth Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2822 Danforth Ave, Toronto, ON M4C 1M1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "East End-Danforth",
+				"postalCode": "M4C 1M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29572,
+					43.68972
+				]
+			},
+			"bbox": [
+				-79.2972746,
+				43.6885958,
+				-79.2941654,
+				43.6908442
+			]
+		}
+	]
+}

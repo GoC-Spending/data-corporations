@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1504 Yonge St, Toronto, ON M4T 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "629f65d6d48e45889d0863e7ccf9ba93|BN20130719|7.7.0.0|",
+				"addressLine": "1504 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1504 Yonge St, Toronto, ON M4T 1Z6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yonge-St Clair",
+				"postalCode": "M4T 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3947,
+					43.68884
+				]
+			},
+			"bbox": [
+				-79.3962546,
+				43.6877158,
+				-79.3931454,
+				43.6899642
+			]
+		}
+	]
+}

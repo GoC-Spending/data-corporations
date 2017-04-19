@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Benton Rd, North York, ON M6M 3G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea87f11ffdd540869171a5fc5d59873a|BN20181720|7.7.0.0|",
+				"addressLine": "15 Benton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Benton Rd, North York, ON M6M 3G2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Brookhaven-Amesbury",
+				"postalCode": "M6M 3G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47065,
+					43.70906
+				]
+			},
+			"bbox": [
+				-79.4722051,
+				43.7079358,
+				-79.4690949,
+				43.7101842
+			]
+		}
+	]
+}

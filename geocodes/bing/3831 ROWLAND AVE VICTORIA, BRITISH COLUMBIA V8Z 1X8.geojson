@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3831 Rowland Ave, Victoria, BC V8Z 1X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81b58ed0fc584b6a950a66c889b0e064|BN20130522|7.7.0.0|",
+				"addressLine": "3831 Rowland Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3831 Rowland Ave, Victoria, BC V8Z 1X8, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8Z 1X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38073,
+					48.46156
+				]
+			},
+			"bbox": [
+				-123.3824252,
+				48.4604358,
+				-123.3790348,
+				48.4626842
+			]
+		}
+	]
+}

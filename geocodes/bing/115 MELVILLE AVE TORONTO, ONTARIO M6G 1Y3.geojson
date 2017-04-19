@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 Melville Ave, Toronto, ON M6G 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2de414ce677846669b6c297cc6526b42|BN20200137|7.7.0.0|",
+				"addressLine": "115 Melville Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 Melville Ave, Toronto, ON M6G 1Y3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6G 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42562,
+					43.66974
+				]
+			},
+			"bbox": [
+				-79.4271741,
+				43.6686158,
+				-79.4240659,
+				43.6708642
+			]
+		}
+	]
+}

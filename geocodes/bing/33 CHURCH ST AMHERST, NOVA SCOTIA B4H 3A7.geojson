@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Church St, Amherst, NS B4H 3A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20d5fc43df804a4b8a76ea07bab9ff3f|BN20160335|7.7.0.0|",
+				"addressLine": "33 Church St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Church St, Amherst, NS B4H 3A7, Canada",
+				"locality": "Amherst",
+				"postalCode": "B4H 3A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.21176,
+					45.83272
+				]
+			},
+			"bbox": [
+				-64.2133734,
+				45.8315958,
+				-64.2101466,
+				45.8338442
+			]
+		}
+	]
+}

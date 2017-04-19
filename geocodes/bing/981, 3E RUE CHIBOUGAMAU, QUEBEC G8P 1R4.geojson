@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "981 3e Rue, Chibougamau, QC G8P 1R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c0550ee22c54fe3bff10905669670ee|BN20250135|7.7.0.0|",
+				"addressLine": "981 3e Rue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Baie-James",
+				"countryRegion": "Canada",
+				"formattedAddress": "981 3e Rue, Chibougamau, QC G8P 1R4, Canada",
+				"locality": "Chibougamau",
+				"postalCode": "G8P 1R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.3861627,
+					49.905449
+				]
+			},
+			"bbox": [
+				-74.3879081,
+				49.9043249,
+				-74.3844172,
+				49.9065732
+			]
+		}
+	]
+}

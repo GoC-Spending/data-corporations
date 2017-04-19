@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "77 5th Ave NW, Moose Jaw, SK S6H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b24b0cd77d40447792518de9c1943eec|BN20130625|7.7.0.0|",
+				"addressLine": "77 5th Ave NW",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "77 5th Ave NW, Moose Jaw, SK S6H, Canada",
+				"locality": "Moose Jaw",
+				"postalCode": "S6H 3X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.5467907,
+					50.3904252
+				]
+			},
+			"bbox": [
+				-105.548554,
+				50.389301,
+				-105.5450275,
+				50.3915493
+			]
+		}
+	]
+}

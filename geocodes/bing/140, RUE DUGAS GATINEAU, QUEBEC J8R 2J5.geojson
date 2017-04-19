@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Rue Dugas, Gatineau, QC J8R 2J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "29b64871245d4121b429a04156a8ba7b|BN20130634|7.7.0.0|",
+				"addressLine": "140 Rue Dugas",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Rue Dugas, Gatineau, QC J8R 2J5, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier des Riverains",
+				"postalCode": "J8R 2J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6822,
+					45.50276
+				]
+			},
+			"bbox": [
+				-75.6838039,
+				45.5016358,
+				-75.6805961,
+				45.5038842
+			]
+		}
+	]
+}

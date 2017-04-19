@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 Imperial Rd, North Bay, ON P1A 4M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55f40a6a26284e20a6d9bff86d4f0a0d|BN20130422|7.7.0.0|",
+				"addressLine": "132 Imperial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 Imperial Rd, North Bay, ON P1A 4M5, Canada",
+				"locality": "North Bay",
+				"neighborhood": "West Ferris",
+				"postalCode": "P1A 4M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41009,
+					46.27248
+				]
+			},
+			"bbox": [
+				-79.4117163,
+				46.2713558,
+				-79.4084637,
+				46.2736042
+			]
+		}
+	]
+}

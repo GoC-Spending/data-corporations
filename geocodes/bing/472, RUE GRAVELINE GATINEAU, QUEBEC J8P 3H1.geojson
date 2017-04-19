@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "472 Rue Graveline, Gatineau, QC J8P 3H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1468f67ca95547c8b4f63068ff7e608b|BN20181720|7.7.0.0|",
+				"addressLine": "472 Rue Graveline",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "472 Rue Graveline, Gatineau, QC J8P 3H1, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier du Lac-Beuchamp",
+				"postalCode": "J8P 3H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66857,
+					45.48639
+				]
+			},
+			"bbox": [
+				-75.6701735,
+				45.4852658,
+				-75.6669665,
+				45.4875142
+			]
+		}
+	]
+}

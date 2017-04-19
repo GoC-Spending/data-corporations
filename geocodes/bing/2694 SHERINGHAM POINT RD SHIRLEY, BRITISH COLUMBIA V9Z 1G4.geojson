@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Sheringham Point Rd, Capital, BC V9Z, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95b9ce14c9c94e54895dc2c32affbb4b|BN20210145|7.7.0.0|",
+				"addressLine": "Sheringham Point Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "Sheringham Point Rd, Capital, BC V9Z, Canada",
+				"locality": "Capital",
+				"neighborhood": "Shirley",
+				"postalCode": "V9Z 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.91034,
+					48.38253
+				]
+			},
+			"bbox": [
+				-123.91955,
+				48.37748,
+				-123.90358,
+				48.38915
+			]
+		}
+	]
+}

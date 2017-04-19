@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1593 Bank St, Ottawa, ON K1H 7Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d54125db36d4a2d8c0fc60b55b38565|BN20300154|7.7.0.0|",
+				"addressLine": "1593 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1593 Bank St, Ottawa, ON K1H 7Z3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Billings Bridge-Alta Vista",
+				"postalCode": "K1H 7Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66706,
+					45.3788399
+				]
+			},
+			"bbox": [
+				-75.6686604,
+				45.3777157,
+				-75.6654596,
+				45.3799641
+			]
+		}
+	]
+}

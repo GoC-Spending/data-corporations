@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "738 Sheppard Ave E, North York, ON M2K 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5214522b5b544030a5f2eee507835e46|BN20130422|7.7.0.0|",
+				"addressLine": "738 Sheppard Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "738 Sheppard Ave E, North York, ON M2K 1C4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bayview Village",
+				"postalCode": "M2K 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3759902,
+					43.7694976
+				]
+			},
+			"bbox": [
+				-79.3775469,
+				43.7683734,
+				-79.3744335,
+				43.7706217
+			]
+		}
+	]
+}

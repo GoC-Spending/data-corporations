@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4080 77 St, Red Deer, AB T4P 3P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e0004495c3348d1b4ede5d277022766|BN20190642|7.7.0.0|",
+				"addressLine": "4080 77 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4080 77 St, Red Deer, AB T4P 3P7, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4P 3P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.79575,
+					52.30485
+				]
+			},
+			"bbox": [
+				-113.7975885,
+				52.3037258,
+				-113.7939115,
+				52.3059742
+			]
+		}
+	]
+}

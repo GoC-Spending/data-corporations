@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8166 154B St, Surrey, BC V3S 7X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf81b8bcf3da4d829117c75922eb7c6c|BN20130530|7.7.0.0|",
+				"addressLine": "8166 154B St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8166 154B St, Surrey, BC V3S 7X9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Fleetwood",
+				"postalCode": "V3S 7X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7932651,
+					49.1511881
+				]
+			},
+			"bbox": [
+				-122.7949838,
+				49.150064,
+				-122.7915464,
+				49.1523123
+			]
+		}
+	]
+}

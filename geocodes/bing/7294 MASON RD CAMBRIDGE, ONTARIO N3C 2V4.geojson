@@ -1,0 +1,115 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 3,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Cambridge, N3C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "02aa9d3411b6469192c4de642154eb05|BN20130532|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Cambridge, N3C, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N3C"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2390594482422,
+					43.4257354736328
+				]
+			},
+			"bbox": [
+				-80.3598937988281,
+				43.3863983154297,
+				-80.1514587402344,
+				43.4720687866211
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Puslinch, N3C 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "02aa9d3411b6469192c4de642154eb05|BN20130532|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "Puslinch, N3C 2V4, Canada",
+				"locality": "Puslinch",
+				"postalCode": "N3C 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2605209350586,
+					43.4309272766113
+				]
+			},
+			"bbox": [
+				-80.2676125562177,
+				43.4270645590407,
+				-80.2534293138995,
+				43.434789994182
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Cambridge, Puslinch, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "02aa9d3411b6469192c4de642154eb05|BN20130532|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "Cambridge, Puslinch, Ontario, Canada",
+				"locality": "Puslinch",
+				"neighborhood": "Cambridge"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2825012207031,
+					43.421199798584
+				]
+			},
+			"bbox": [
+				-80.2895917025123,
+				43.4173370810133,
+				-80.275410738894,
+				43.4250625161547
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "385 Rue de Salaberry, Joliette, QC J6E 4G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d5405053bd44c8f8b245fbed12ab24c|BN20130520|7.7.0.0|",
+				"addressLine": "385 Rue de Salaberry",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Joliette",
+				"countryRegion": "Canada",
+				"formattedAddress": "385 Rue de Salaberry, Joliette, QC J6E 4G4, Canada",
+				"locality": "Joliette",
+				"postalCode": "J6E 4G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.4295425,
+					46.0211334
+				]
+			},
+			"bbox": [
+				-73.4311614,
+				46.0200093,
+				-73.4279236,
+				46.0222576
+			]
+		}
+	]
+}

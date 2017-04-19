@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "799 Rennie St, Hamilton, ON L8H 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc3605dd92464c2cbc2d6a83ce1d8def|BN20130533|7.7.0.0|",
+				"addressLine": "799 Rennie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "799 Rennie St, Hamilton, ON L8H 3R5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Parkview East",
+				"postalCode": "L8H 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77103,
+					43.24654
+				]
+			},
+			"bbox": [
+				-79.7725733,
+				43.2454158,
+				-79.7694867,
+				43.2476642
+			]
+		}
+	]
+}

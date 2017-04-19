@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "260 Hunt Club Rd, Ottawa, ON K1V 1C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "acb72481f9e841629dc615f00052f96e|BN20130632|7.7.0.0|",
+				"addressLine": "260 Hunt Club Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "260 Hunt Club Rd, Ottawa, ON K1V 1C1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hunt Club-Ottawa Airport",
+				"postalCode": "K1V 1C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6890722,
+					45.3359833
+				]
+			},
+			"bbox": [
+				-75.6906714,
+				45.3348592,
+				-75.687473,
+				45.3371075
+			]
+		}
+	]
+}

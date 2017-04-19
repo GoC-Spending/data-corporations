@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7308 50 St NW, Edmonton, AB T6B 2J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "631c5923d7b34bceb8fe69735d2cbcfc|BN20130632|7.7.0.0|",
+				"addressLine": "7308 50 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7308 50 St NW, Edmonton, AB T6B 2J8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial East",
+				"postalCode": "T6B 2J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.41927,
+					53.5094
+				]
+			},
+			"bbox": [
+				-113.4211603,
+				53.5082758,
+				-113.4173797,
+				53.5105242
+			]
+		}
+	]
+}

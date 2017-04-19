@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "860 Berry Side Rd, Dunrobin, ON K0A 1T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b66b94b61dca482591517511d1298682|BN20260231|7.7.0.0|",
+				"addressLine": "860 Berry Side Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "860 Berry Side Rd, Dunrobin, ON K0A 1T0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Dunrobin",
+				"postalCode": "K0A 1T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.97069,
+					45.40376
+				]
+			},
+			"bbox": [
+				-75.9722911,
+				45.4026358,
+				-75.9690889,
+				45.4048842
+			]
+		}
+	]
+}

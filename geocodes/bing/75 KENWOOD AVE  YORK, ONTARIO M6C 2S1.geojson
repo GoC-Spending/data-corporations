@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Kenwood Ave, York, ON M6C 2S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45bc2469358d4e9287f28a5ba4ea9598|BN20240253|7.7.0.0|",
+				"addressLine": "75 Kenwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Kenwood Ave, York, ON M6C 2S1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humewood-Cedarvale",
+				"postalCode": "M6C 2S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42265,
+					43.68488
+				]
+			},
+			"bbox": [
+				-79.4242045,
+				43.6837558,
+				-79.4210955,
+				43.6860042
+			]
+		}
+	]
+}

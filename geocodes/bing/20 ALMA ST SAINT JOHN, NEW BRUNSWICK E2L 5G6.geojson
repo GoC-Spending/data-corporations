@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Alma St, Saint John, NB E2L 5G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8cdd0d3c86a64ea38eb494f5fee6e6e3|BN20210145|7.7.0.0|",
+				"addressLine": "20 Alma St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Alma St, Saint John, NB E2L 5G6, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 5G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.05514,
+					45.28187
+				]
+			},
+			"bbox": [
+				-66.0567377,
+				45.2807458,
+				-66.0535423,
+				45.2829942
+			]
+		}
+	]
+}

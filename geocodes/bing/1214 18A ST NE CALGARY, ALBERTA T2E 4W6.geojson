@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1214 18A St NE, Calgary, AB T2E 4W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50117ce8ffd94d51933c4b7049570e62|BN20130422|7.7.0.0|",
+				"addressLine": "1214 18A St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1214 18A St NE, Calgary, AB T2E 4W6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Mayland Heights",
+				"postalCode": "T2E 4W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.01458,
+					51.06285
+				]
+			},
+			"bbox": [
+				-114.0163687,
+				51.0617258,
+				-114.0127913,
+				51.0639742
+			]
+		}
+	]
+}

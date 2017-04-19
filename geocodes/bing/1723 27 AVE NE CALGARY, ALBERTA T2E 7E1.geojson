@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1723 27 Ave NE, Calgary, AB T2E 7E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d494156a5cb6466dbef8d946b3549999|BN20130533|7.7.0.0|",
+				"addressLine": "1723 27 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1723 27 Ave NE, Calgary, AB T2E 7E1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Vista Heights",
+				"postalCode": "T2E 7E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0183547,
+					51.0767559
+				]
+			},
+			"bbox": [
+				-114.0201439,
+				51.0756317,
+				-114.0165654,
+				51.07788
+			]
+		}
+	]
+}

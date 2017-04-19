@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "720 Beatty St, Vancouver, BC V6B 2M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "670e50c825734bbaabc4baa35885094b|BN20300154|7.7.0.0|",
+				"addressLine": "720 Beatty St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "720 Beatty St, Vancouver, BC V6B 2M1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 2M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11253,
+					49.2781
+				]
+			},
+			"bbox": [
+				-123.1142531,
+				49.2769758,
+				-123.1108069,
+				49.2792242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5733 145A St, Surrey, BC V3S 8E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "891a937d4bb243b89208bffe75841468|BN20190642|7.7.0.0|",
+				"addressLine": "5733 145A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5733 145A St, Surrey, BC V3S 8E2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3S 8E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8202657,
+					49.1066247
+				]
+			},
+			"bbox": [
+				-122.8219828,
+				49.1055005,
+				-122.8185485,
+				49.1077488
+			]
+		}
+	]
+}

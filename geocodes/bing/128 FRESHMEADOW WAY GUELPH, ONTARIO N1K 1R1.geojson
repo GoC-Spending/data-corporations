@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "128 Freshmeadow Way, Guelph, ON N1K 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ff503f08e4b44a5bc671c6c4bb778e2|BN20190642|7.7.0.0|",
+				"addressLine": "128 Freshmeadow Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "128 Freshmeadow Way, Guelph, ON N1K 1R1, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Waterloo/West Acres",
+				"postalCode": "N1K 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.28513,
+					43.51871
+				]
+			},
+			"bbox": [
+				-80.2866802,
+				43.5175858,
+				-80.2835798,
+				43.5198342
+			]
+		}
+	]
+}

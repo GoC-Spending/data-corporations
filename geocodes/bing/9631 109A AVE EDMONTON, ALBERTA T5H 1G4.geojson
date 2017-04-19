@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9631 109A Ave NW, Edmonton, AB T5H 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ff3b61e3e3e4d00a85633909699cfb7|BN20190642|7.7.0.0|",
+				"addressLine": "9631 109A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9631 109A Ave NW, Edmonton, AB T5H 1G4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McCauley",
+				"postalCode": "T5H 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48976,
+					53.55638
+				]
+			},
+			"bbox": [
+				-113.4916524,
+				53.5552558,
+				-113.4878676,
+				53.5575042
+			]
+		}
+	]
+}

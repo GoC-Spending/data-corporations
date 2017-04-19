@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Cromwell St, Sarnia, ON N7T 3Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b05418b3bf61438ab0068332b08061cd|BN20130721|7.7.0.0|",
+				"addressLine": "250 Cromwell St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Cromwell St, Sarnia, ON N7T 3Y1, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 3Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4033278,
+					42.9717716
+				]
+			},
+			"bbox": [
+				-82.4048642,
+				42.9706474,
+				-82.4017914,
+				42.9728957
+			]
+		}
+	]
+}

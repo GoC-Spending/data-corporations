@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "260 Geneva St, St Catharines, ON L2N 2E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7aee49fb53b2462a8d2e6ac0d2880f7d|BN20121763|7.7.0.0|",
+				"addressLine": "260 Geneva St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "260 Geneva St, St Catharines, ON L2N 2E8, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Fairview-Facer",
+				"postalCode": "L2N 2E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24046,
+					43.17562
+				]
+			},
+			"bbox": [
+				-79.2420015,
+				43.1744958,
+				-79.2389185,
+				43.1767442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "385 Dundas St N, Cambridge, ON N1R 5R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a508f15d43914051b2edb4f290c9d162|BN20200239|7.7.0.0|",
+				"addressLine": "385 Dundas St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "385 Dundas St N, Cambridge, ON N1R 5R1, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 5R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30853,
+					43.3681399
+				]
+			},
+			"bbox": [
+				-80.3100764,
+				43.3670157,
+				-80.3069836,
+				43.3692641
+			]
+		}
+	]
+}

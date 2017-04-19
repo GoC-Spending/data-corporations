@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8601 Gordon Rd, Thedford, ON N0M 2N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac0af2de45d340a798040c1b7bee19c7|BN20280152|7.7.0.0|",
+				"addressLine": "8601 Gordon Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "8601 Gordon Rd, Thedford, ON N0M 2N0, Canada",
+				"locality": "Lambton Shores",
+				"neighborhood": "Thedford",
+				"postalCode": "N0M 2N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.8589,
+					43.1455
+				]
+			},
+			"bbox": [
+				-81.8604407,
+				43.1443758,
+				-81.8573593,
+				43.1466242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11031 30 Ave NW, Edmonton, AB T6J 3B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83c64202182f474aa5ba342b237bc820|BN20130447|7.7.0.0|",
+				"addressLine": "11031 30 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11031 30 Ave NW, Edmonton, AB T6J 3B1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Steinhauer",
+				"postalCode": "T6J 3B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51469,
+					53.46202
+				]
+			},
+			"bbox": [
+				-113.5165782,
+				53.4608958,
+				-113.5128018,
+				53.4631442
+			]
+		}
+	]
+}

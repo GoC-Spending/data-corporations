@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "578 Westminster Ave, Ottawa, ON K2A 2V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b170a3fcafb14e1f845858fec269faf8|BN20130631|7.7.0.0|",
+				"addressLine": "578 Westminster Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "578 Westminster Ave, Ottawa, ON K2A 2V3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carlingwood-McKellar Pk-Laurentien",
+				"postalCode": "K2A 2V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7632,
+					45.3823
+				]
+			},
+			"bbox": [
+				-75.7648005,
+				45.3811758,
+				-75.7615995,
+				45.3834242
+			]
+		}
+	]
+}

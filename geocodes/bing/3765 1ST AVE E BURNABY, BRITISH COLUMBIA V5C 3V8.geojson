@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3765 1st Ave, Burnaby, BC V5C 3V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ea5a53904a34deeb462913d9ecb012d|BN20260231|7.7.0.0|",
+				"addressLine": "3765 1st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3765 1st Ave, Burnaby, BC V5C 3V8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 3V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0217749,
+					49.2694743
+				]
+			},
+			"bbox": [
+				-123.0234977,
+				49.2683502,
+				-123.0200521,
+				49.2705985
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "143 Stevenson St S, Guelph, ON N1E 5N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4753802ff0f146d8a409f1443ee19475|BN20190653|7.7.0.0|",
+				"addressLine": "143 Stevenson St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "143 Stevenson St S, Guelph, ON N1E 5N6, Canada",
+				"locality": "Guelph",
+				"neighborhood": "St Georges/St Patricks",
+				"postalCode": "N1E 5N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.23139,
+					43.55035
+				]
+			},
+			"bbox": [
+				-80.232941,
+				43.5492258,
+				-80.229839,
+				43.5514742
+			]
+		}
+	]
+}

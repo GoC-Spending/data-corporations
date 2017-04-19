@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Main St, Sturgeon Falls, ON P2B 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0be0336c64694c52b9694f08a7ee587d|BN20200137|7.7.0.0|",
+				"addressLine": "200 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Main St, Sturgeon Falls, ON P2B 1P2, Canada",
+				"locality": "West Nipissing",
+				"neighborhood": "Sturgeon Falls",
+				"postalCode": "P2B 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92796,
+					46.36791
+				]
+			},
+			"bbox": [
+				-79.9295891,
+				46.3667858,
+				-79.9263309,
+				46.3690342
+			]
+		}
+	]
+}

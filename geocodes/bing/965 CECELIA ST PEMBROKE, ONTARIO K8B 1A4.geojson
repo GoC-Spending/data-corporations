@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "965 Cecelia St, Pembroke, ON K8B 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6db0fc02d2fb447a9532cebcd074e997|BN20130625|7.7.0.0|",
+				"addressLine": "965 Cecelia St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "965 Cecelia St, Pembroke, ON K8B 1A4, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8B 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.10221,
+					45.81012
+				]
+			},
+			"bbox": [
+				-77.1038228,
+				45.8089958,
+				-77.1005972,
+				45.8112442
+			]
+		}
+	]
+}

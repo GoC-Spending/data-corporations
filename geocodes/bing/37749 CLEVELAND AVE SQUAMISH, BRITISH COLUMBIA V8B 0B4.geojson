@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37749 Cleveland Ave, Squamish, BC V8B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e54238e819dd4735b2fb449baffd7fae|BN20121763|7.7.0.0|",
+				"addressLine": "37749 Cleveland Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Squamish-Lillooet",
+				"countryRegion": "Canada",
+				"formattedAddress": "37749 Cleveland Ave, Squamish, BC V8B, Canada",
+				"locality": "Squamish",
+				"postalCode": "V8B 0B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1570119,
+					49.694603
+				]
+			},
+			"bbox": [
+				-123.1587498,
+				49.6934789,
+				-123.155274,
+				49.6957272
+			]
+		}
+	]
+}

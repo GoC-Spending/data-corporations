@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "400 Maple Grove Rd, Kanata, ON K2V 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2409317ebb9b4ef3b0bc5878ffa8a061|BN20121764|7.7.0.0|",
+				"addressLine": "400 Maple Grove Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "400 Maple Grove Rd, Kanata, ON K2V 1B8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2V 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9079,
+					45.29843
+				]
+			},
+			"bbox": [
+				-75.9094981,
+				45.2973058,
+				-75.9063019,
+				45.2995542
+			]
+		}
+	]
+}

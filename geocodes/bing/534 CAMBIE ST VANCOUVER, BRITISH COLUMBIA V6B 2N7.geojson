@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "534 Cambie St, Vancouver, BC V6B 2N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e28609dd4c36483db07af5eaf283e0df|BN20260231|7.7.0.0|",
+				"addressLine": "534 Cambie St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "534 Cambie St, Vancouver, BC V6B 2N7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 2N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11028,
+					49.28096
+				]
+			},
+			"bbox": [
+				-123.1120032,
+				49.2798358,
+				-123.1085568,
+				49.2820842
+			]
+		}
+	]
+}

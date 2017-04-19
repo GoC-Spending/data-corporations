@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Rue Waterview, Ottawa, ON K1V 0H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55e4f67cf91f4225b481c6f16e452c0b|BN20130422|7.7.0.0|",
+				"addressLine": "20 Rue Waterview",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Rue Waterview, Ottawa, ON K1V 0H4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Riverside Park",
+				"postalCode": "K1V 0H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68681,
+					45.36588
+				]
+			},
+			"bbox": [
+				-75.68841,
+				45.3647558,
+				-75.68521,
+				45.3670042
+			]
+		}
+	]
+}

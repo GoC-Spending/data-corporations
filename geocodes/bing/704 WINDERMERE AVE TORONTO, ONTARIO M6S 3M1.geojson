@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "704 Windermere Ave, Toronto, ON M6S 3M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b721921288984eb6984244208cf1239f|BN20130625|7.7.0.0|",
+				"addressLine": "704 Windermere Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "704 Windermere Ave, Toronto, ON M6S 3M1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 3M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48359,
+					43.65806
+				]
+			},
+			"bbox": [
+				-79.4851438,
+				43.6569358,
+				-79.4820362,
+				43.6591842
+			]
+		}
+	]
+}

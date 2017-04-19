@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4396 King St E, Kitchener, ON N2P 2G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e62e169f9f844009e66c127f70a2681|BN20130533|7.7.0.0|",
+				"addressLine": "4396 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "4396 King St E, Kitchener, ON N2P 2G4, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Pioneer Tower East",
+				"postalCode": "N2P 2G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.39406,
+					43.40681
+				]
+			},
+			"bbox": [
+				-80.3956074,
+				43.4056858,
+				-80.3925126,
+				43.4079342
+			]
+		}
+	]
+}

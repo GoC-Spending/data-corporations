@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "74 Willowbank Blvd, Toronto, ON M5N 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ace0ab2fbdaa47e5927026b886a14ac7|BN20181720|7.7.0.0|",
+				"addressLine": "74 Willowbank Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "74 Willowbank Blvd, Toronto, ON M5N 1G6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lawrence Park South",
+				"postalCode": "M5N 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41079,
+					43.7060699
+				]
+			},
+			"bbox": [
+				-79.4123451,
+				43.7049457,
+				-79.4092349,
+				43.7071941
+			]
+		}
+	]
+}

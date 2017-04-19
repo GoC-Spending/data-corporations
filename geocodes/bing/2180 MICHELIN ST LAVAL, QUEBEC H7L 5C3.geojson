@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2180 Rue Michelin, Laval, QC H7L 5C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "186bdfdb06ef45a1a8b5e1213adaf142|BN20130530|7.7.0.0|",
+				"addressLine": "2180 Rue Michelin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2180 Rue Michelin, Laval, QC H7L 5C3, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.76033,
+					45.58433
+				]
+			},
+			"bbox": [
+				-73.7619363,
+				45.5832058,
+				-73.7587237,
+				45.5854542
+			]
+		}
+	]
+}

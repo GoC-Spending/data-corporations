@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Toronto St, Toronto, ON M5C 2B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c3bbc3b79d54df393ab3ae1c1338da4|BN20240423|7.7.0.0|",
+				"addressLine": "2 Toronto St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Toronto St, Toronto, ON M5C 2B5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 2B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37613,
+					43.64969
+				]
+			},
+			"bbox": [
+				-79.3776836,
+				43.6485658,
+				-79.3745764,
+				43.6508142
+			]
+		}
+	]
+}

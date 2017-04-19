@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3750 Laird Rd, Mississauga, ON L5L 0A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a7e9971d9f0423f9e7e1fa81806812c|BN20190642|7.7.0.0|",
+				"addressLine": "3750 Laird Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "3750 Laird Rd, Mississauga, ON L5L 0A6, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Erin Mills",
+				"postalCode": "L5L 0A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7117899,
+					43.52334
+				]
+			},
+			"bbox": [
+				-79.7133403,
+				43.5222158,
+				-79.7102395,
+				43.5244642
+			]
+		}
+	]
+}

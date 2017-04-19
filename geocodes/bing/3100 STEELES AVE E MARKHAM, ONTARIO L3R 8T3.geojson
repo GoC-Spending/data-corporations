@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3100 Steeles Ave E, Markham, ON L3R 8T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2241e3c66ca44624bf9049bc5eafbf77|BN20130533|7.7.0.0|",
+				"addressLine": "3100 Steeles Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "3100 Steeles Ave E, Markham, ON L3R 8T3, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 8T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34689,
+					43.81492
+				]
+			},
+			"bbox": [
+				-79.3484479,
+				43.8137958,
+				-79.3453321,
+				43.8160442
+			]
+		}
+	]
+}

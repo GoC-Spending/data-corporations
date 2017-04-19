@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "844 Courtney St, Victoria, BC V8W 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54d95a63f2be42af849b694be9eb29ff|BN20200239|7.7.0.0|",
+				"addressLine": "844 Courtney St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "844 Courtney St, Victoria, BC V8W 1C4, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fairfield",
+				"postalCode": "V8W 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36183,
+					48.42272
+				]
+			},
+			"bbox": [
+				-123.3635239,
+				48.4215958,
+				-123.3601361,
+				48.4238442
+			]
+		}
+	]
+}

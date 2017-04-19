@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1430 Martin Grove Rd, Etobicoke, ON M9W 4Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85fa94413b594dbe99de95ba1349e4eb|BN20130625|7.7.0.0|",
+				"addressLine": "1430 Martin Grove Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1430 Martin Grove Rd, Etobicoke, ON M9W 4Y1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 4Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5830299,
+					43.71678
+				]
+			},
+			"bbox": [
+				-79.5845852,
+				43.7156558,
+				-79.5814746,
+				43.7179042
+			]
+		}
+	]
+}

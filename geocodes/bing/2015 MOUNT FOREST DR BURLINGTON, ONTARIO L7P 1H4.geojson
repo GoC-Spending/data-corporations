@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2015 Mt Forest Dr, Burlington, ON L7P 1H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78e177622315497a8bd9b1ebd939bc06|BN20171457|7.7.0.0|",
+				"addressLine": "2015 Mt Forest Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2015 Mt Forest Dr, Burlington, ON L7P 1H4, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Mountainside",
+				"postalCode": "L7P 1H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82865,
+					43.34707
+				]
+			},
+			"bbox": [
+				-79.8301958,
+				43.3459458,
+				-79.8271042,
+				43.3481942
+			]
+		}
+	]
+}

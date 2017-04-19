@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Arnold St, Kitchener, ON N2H 6E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "84f48c67e67241f0b646375877ca7166|BN20220145|7.7.0.0|",
+				"addressLine": "300 Arnold St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Arnold St, Kitchener, ON N2H 6E9, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Northward",
+				"postalCode": "N2H 6E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4787,
+					43.47077
+				]
+			},
+			"bbox": [
+				-80.480249,
+				43.4696458,
+				-80.477151,
+				43.4718942
+			]
+		}
+	]
+}

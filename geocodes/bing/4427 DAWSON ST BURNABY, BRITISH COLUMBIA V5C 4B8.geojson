@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4427 Dawson St, Burnaby, BC V5C 4B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5290c3a94886434b989b846627668c20|BN20130521|7.7.0.0|",
+				"addressLine": "4427 Dawson St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4427 Dawson St, Burnaby, BC V5C 4B8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 4B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0051115,
+					49.2646219
+				]
+			},
+			"bbox": [
+				-123.0068342,
+				49.2634978,
+				-123.0033889,
+				49.2657461
+			]
+		}
+	]
+}

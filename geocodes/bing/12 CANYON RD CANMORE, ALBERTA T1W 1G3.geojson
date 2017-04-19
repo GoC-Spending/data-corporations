@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Canyon Rd, Canmore, AB T1W 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69bbf07d96534d11ad4ef4735dbf07c4|BN20160335|7.7.0.0|",
+				"addressLine": "12 Canyon Rd",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Canyon Rd, Canmore, AB T1W 1G3, Canada",
+				"locality": "Canmore",
+				"postalCode": "T1W 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.32438,
+					51.08714
+				]
+			},
+			"bbox": [
+				-115.3261697,
+				51.0860158,
+				-115.3225903,
+				51.0882642
+			]
+		}
+	]
+}

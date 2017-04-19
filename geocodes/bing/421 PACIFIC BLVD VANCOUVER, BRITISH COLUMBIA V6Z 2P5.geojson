@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "421 Pacific Blvd, Vancouver, BC V6A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ab488c0b6634923a97b3370c43dabc7|BN20130631|7.7.0.0|",
+				"addressLine": "421 Pacific Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "421 Pacific Blvd, Vancouver, BC V6A, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1050529,
+					49.2772371
+				]
+			},
+			"bbox": [
+				-123.106776,
+				49.276113,
+				-123.1033298,
+				49.2783613
+			]
+		}
+	]
+}

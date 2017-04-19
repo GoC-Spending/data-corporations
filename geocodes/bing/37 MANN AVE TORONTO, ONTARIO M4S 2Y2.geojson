@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Mann Ave, Toronto, ON M4S 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e70b42238e1f48ae94a6d47a2a89c82a|BN20130634|7.7.0.0|",
+				"addressLine": "37 Mann Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Mann Ave, Toronto, ON M4S 2Y2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37765,
+					43.70976
+				]
+			},
+			"bbox": [
+				-79.3792052,
+				43.7086358,
+				-79.3760948,
+				43.7108842
+			]
+		}
+	]
+}

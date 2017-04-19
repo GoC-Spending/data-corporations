@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Kingsmill Rd, Etobicoke, ON M8X 2N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22198321e8bf4440a9ec5d36d9745583|BN20130631|7.7.0.0|",
+				"addressLine": "20 Kingsmill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Kingsmill Rd, Etobicoke, ON M8X 2N8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kingsway South",
+				"postalCode": "M8X 2N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50396,
+					43.65043
+				]
+			},
+			"bbox": [
+				-79.5055136,
+				43.6493058,
+				-79.5024064,
+				43.6515542
+			]
+		}
+	]
+}

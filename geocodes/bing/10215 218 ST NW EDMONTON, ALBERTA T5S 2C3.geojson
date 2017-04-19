@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10215 218 St NW, Edmonton, AB T5S 2C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b9ed1a047984553add5a46b61c6a70e|BN20240423|7.7.0.0|",
+				"addressLine": "10215 218 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10215 218 St NW, Edmonton, AB T5S 2C3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Winterburn Industrial Area West",
+				"postalCode": "T5S 2C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.69394,
+					53.5431
+				]
+			},
+			"bbox": [
+				-113.6958318,
+				53.5419758,
+				-113.6920482,
+				53.5442242
+			]
+		}
+	]
+}

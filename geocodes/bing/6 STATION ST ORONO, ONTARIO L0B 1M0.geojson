@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Station St, Orono, ON L0B 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5da7c48e082426487d9ac91caaec7c9|BN20290118|7.7.0.0|",
+				"addressLine": "6 Station St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Station St, Orono, ON L0B 1M0, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Orono",
+				"postalCode": "L0B 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.606539,
+					43.9723311
+				]
+			},
+			"bbox": [
+				-78.608101,
+				43.9712069,
+				-78.6049769,
+				43.9734552
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Exeter St, North Bay, ON P1B 8G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1003dec172bb4a75ace240b91675b3cf|BN20250135|7.7.0.0|",
+				"addressLine": "21 Exeter St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Exeter St, North Bay, ON P1B 8G5, Canada",
+				"locality": "North Bay",
+				"postalCode": "P1B 8G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4953,
+					46.3256
+				]
+			},
+			"bbox": [
+				-79.4969279,
+				46.3244758,
+				-79.4936721,
+				46.3267242
+			]
+		}
+	]
+}

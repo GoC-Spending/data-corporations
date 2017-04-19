@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34352 Industrial Way, Abbotsford, BC V2S 7M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0258eff10afb422c978c7e2cb91b5313|BN20130721|7.7.0.0|",
+				"addressLine": "34352 Industrial Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "34352 Industrial Way, Abbotsford, BC V2S 7M6, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Highway 11",
+				"postalCode": "V2S 7M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.27339,
+					49.0133
+				]
+			},
+			"bbox": [
+				-122.2751039,
+				49.0121758,
+				-122.2716761,
+				49.0144242
+			]
+		}
+	]
+}

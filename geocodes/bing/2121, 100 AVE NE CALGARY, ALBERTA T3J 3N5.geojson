@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2121 100 Ave NE, Calgary, AB T3J 3N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5439fd8371443ed9ae8728e389e75be|BN20121762|7.7.0.0|",
+				"addressLine": "2121 100 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2121 100 Ave NE, Calgary, AB T3J 3N5, Canada",
+				"locality": "Calgary",
+				"postalCode": "T3J 3N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.00518,
+					51.14321
+				]
+			},
+			"bbox": [
+				-114.0069718,
+				51.1420858,
+				-114.0033882,
+				51.1443342
+			]
+		}
+	]
+}

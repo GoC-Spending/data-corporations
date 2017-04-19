@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8180 Barnett St, Mission, BC V2V 7C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb90b2a5871e40c0bc8e1866cf473f43|BN20130521|7.7.0.0|",
+				"addressLine": "8180 Barnett St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "8180 Barnett St, Mission, BC V2V 7C7, Canada",
+				"locality": "Mission",
+				"postalCode": "V2V 7C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2898,
+					49.15084
+				]
+			},
+			"bbox": [
+				-122.2915187,
+				49.1497158,
+				-122.2880813,
+				49.1519642
+			]
+		}
+	]
+}

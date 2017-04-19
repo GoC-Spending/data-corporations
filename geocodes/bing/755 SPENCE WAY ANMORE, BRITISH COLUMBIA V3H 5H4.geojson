@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "755 Spence Way, Anmore, BC V3H 5H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5bd94ebb112a4e61a2d18fbfaa5b6065|BN20160335|7.7.0.0|",
+				"addressLine": "755 Spence Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "755 Spence Way, Anmore, BC V3H 5H4, Canada",
+				"locality": "Anmore",
+				"postalCode": "V3H 5H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8502933,
+					49.317481
+				]
+			},
+			"bbox": [
+				-122.8520178,
+				49.3163569,
+				-122.8485688,
+				49.3186052
+			]
+		}
+	]
+}

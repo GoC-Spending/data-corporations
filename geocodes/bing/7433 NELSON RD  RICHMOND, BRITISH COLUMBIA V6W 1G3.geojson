@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7433 Nelson Rd, Richmond, BC V6W 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1eb3af1816b4986bba5e1bbbf974559|BN20130431|7.7.0.0|",
+				"addressLine": "7433 Nelson Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7433 Nelson Rd, Richmond, BC V6W 1G3, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Fraser Lands",
+				"postalCode": "V6W 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0130759,
+					49.1590451
+				]
+			},
+			"bbox": [
+				-123.0147949,
+				49.157921,
+				-123.0113569,
+				49.1601693
+			]
+		}
+	]
+}

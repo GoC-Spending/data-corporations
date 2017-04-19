@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Thornway Ave, Thornhill, ON L4J 7Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6588db476de84603b701844df9eda85b|BN20240253|7.7.0.0|",
+				"addressLine": "125 Thornway Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Thornway Ave, Thornhill, ON L4J 7Z3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 7Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45866,
+					43.80815
+				]
+			},
+			"bbox": [
+				-79.4602177,
+				43.8070258,
+				-79.4571023,
+				43.8092742
+			]
+		}
+	]
+}

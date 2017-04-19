@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "444 Pine Beach Blvd, Dorval, QC H9S 2W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2f5cc4955b3c44ac943e94dd8a4b7090|BN20130521|7.7.0.0|",
+				"addressLine": "444 Pine Beach Blvd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "444 Pine Beach Blvd, Dorval, QC H9S 2W9, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9S 2W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.76389,
+					45.4484
+				]
+			},
+			"bbox": [
+				-73.7654924,
+				45.4472758,
+				-73.7622876,
+				45.4495242
+			]
+		}
+	]
+}

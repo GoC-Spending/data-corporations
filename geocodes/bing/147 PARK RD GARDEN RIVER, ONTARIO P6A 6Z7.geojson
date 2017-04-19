@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "147 Park Rd, Garden River, ON P6A 6Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74d0366180f6482bb4b6e89d3b4f20ff|BN20320521|7.7.0.0|",
+				"addressLine": "147 Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Algoma",
+				"countryRegion": "Canada",
+				"formattedAddress": "147 Park Rd, Garden River, ON P6A 6Z7, Canada",
+				"locality": "Algoma",
+				"neighborhood": "Garden River",
+				"postalCode": "P6A 6Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.1632406,
+					46.5314183
+				]
+			},
+			"bbox": [
+				-84.1648747,
+				46.5302942,
+				-84.1616066,
+				46.5325425
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1552 Rue King O, Sherbrooke, QC J1J 2C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c998ff0896ab47d8af393005117f3e39|BN20160335|7.7.0.0|",
+				"addressLine": "1552 Rue King O",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "1552 Rue King O, Sherbrooke, QC J1J 2C3, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1J 2C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.9142285,
+					45.3985151
+				]
+			},
+			"bbox": [
+				-71.9158295,
+				45.3973909,
+				-71.9126276,
+				45.3996393
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "460 Newbold St, London, ON N6E 1K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "260473d404ca449e8b24528f928c29ba|BN20121763|7.7.0.0|",
+				"addressLine": "460 Newbold St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "460 Newbold St, London, ON N6E 1K3, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6E 1K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2099,
+					42.9347
+				]
+			},
+			"bbox": [
+				-81.2114355,
+				42.9335758,
+				-81.2083645,
+				42.9358242
+			]
+		}
+	]
+}

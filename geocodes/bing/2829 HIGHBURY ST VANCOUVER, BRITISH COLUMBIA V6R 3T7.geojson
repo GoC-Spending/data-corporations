@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2829 Highbury St, Vancouver, BC V6R 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a000d8c5cc214b53a48426bc442ae259|BN20220145|7.7.0.0|",
+				"addressLine": "2829 Highbury St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2829 Highbury St, Vancouver, BC V6R 3T7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West Point Grey",
+				"postalCode": "V6R 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.18828,
+					49.2613399
+				]
+			},
+			"bbox": [
+				-123.1900025,
+				49.2602157,
+				-123.1865575,
+				49.2624641
+			]
+		}
+	]
+}

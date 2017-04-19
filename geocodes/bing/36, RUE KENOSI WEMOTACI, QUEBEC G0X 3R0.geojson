@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Rue Kenosi, La Tuque, QC G0X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1fe6d34d6dc745918d1ac04784b6bc95|BN20130532|7.7.0.0|",
+				"addressLine": "36 Rue Kenosi",
+				"adminDistrict": "QC",
+				"adminDistrict2": "La Tuque",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Rue Kenosi, La Tuque, QC G0X, Canada",
+				"locality": "La Tuque",
+				"postalCode": "G0X 3R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.78849,
+					47.90372
+				]
+			},
+			"bbox": [
+				-73.7901669,
+				47.9025958,
+				-73.7868131,
+				47.9048442
+			]
+		}
+	]
+}

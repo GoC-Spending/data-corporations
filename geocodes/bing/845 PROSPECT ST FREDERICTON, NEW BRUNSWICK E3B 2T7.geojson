@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "845 Prospect St W, Fredericton, NB E3B 2T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abd6dfd1b8f64d40abf2f03bc0cc4581|BN20131519|7.7.0.0|",
+				"addressLine": "845 Prospect St W",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "845 Prospect St W, Fredericton, NB E3B 2T7, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 2T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.6762,
+					45.94568
+				]
+			},
+			"bbox": [
+				-66.6778167,
+				45.9445558,
+				-66.6745833,
+				45.9468042
+			]
+		}
+	]
+}

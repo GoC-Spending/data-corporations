@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1442 Cliveden Ave, Delta, BC V3M 6L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b5504d4d30044113bf5167a302ae65bb|BN20160335|7.7.0.0|",
+				"addressLine": "1442 Cliveden Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1442 Cliveden Ave, Delta, BC V3M 6L9, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 6L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9624467,
+					49.1673659
+				]
+			},
+			"bbox": [
+				-122.964166,
+				49.1662418,
+				-122.9607274,
+				49.1684901
+			]
+		}
+	]
+}

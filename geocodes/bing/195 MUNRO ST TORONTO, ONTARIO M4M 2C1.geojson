@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "195 Munro St, Toronto, ON M4M 2C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fe26c6b2dcb45448f2dd0199ad8a0b7|BN20260223|7.7.0.0|",
+				"addressLine": "195 Munro St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "195 Munro St, Toronto, ON M4M 2C1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Riverdale",
+				"postalCode": "M4M 2C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35357,
+					43.66381
+				]
+			},
+			"bbox": [
+				-79.355124,
+				43.6626858,
+				-79.352016,
+				43.6649342
+			]
+		}
+	]
+}

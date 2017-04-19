@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "848 Waterloo St, Winnipeg, MB R3N 0T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fb85e47d8774a8088bd5be169bcea57|BN20130721|7.7.0.0|",
+				"addressLine": "848 Waterloo St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "848 Waterloo St, Winnipeg, MB R3N 0T6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South River Heights",
+				"postalCode": "R3N 0T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18507,
+					49.85338
+				]
+			},
+			"bbox": [
+				-97.1868136,
+				49.8522558,
+				-97.1833264,
+				49.8545042
+			]
+		}
+	]
+}

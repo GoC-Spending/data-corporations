@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "844 W 7th Ave, Vancouver, BC V5Z 1C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff53e5887375498893f6c66fe118627b|BN20130632|7.7.0.0|",
+				"addressLine": "844 W 7th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "844 W 7th Ave, Vancouver, BC V5Z 1C1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V5Z 1C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1228624,
+					49.2649637
+				]
+			},
+			"bbox": [
+				-123.1245851,
+				49.2638395,
+				-123.1211397,
+				49.2660878
+			]
+		}
+	]
+}

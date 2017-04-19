@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1773 Water St, Miramichi, NB E1N 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d56f86fb31a44d7fb14be8add52aac8e|BN20250135|7.7.0.0|",
+				"addressLine": "1773 Water St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "1773 Water St, Miramichi, NB E1N 1B2, Canada",
+				"locality": "Miramichi",
+				"postalCode": "E1N 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.4695468,
+					47.0307509
+				]
+			},
+			"bbox": [
+				-65.4711961,
+				47.0296268,
+				-65.4678975,
+				47.0318751
+			]
+		}
+	]
+}

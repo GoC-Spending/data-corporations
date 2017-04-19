@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4339 Hastings St, Burnaby, BC V5C 2J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec76a8a49ba3426ca7ca14e23f4a400c|BN20320521|7.7.0.0|",
+				"addressLine": "4339 Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4339 Hastings St, Burnaby, BC V5C 2J7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Burnaby Heights",
+				"postalCode": "V5C 2J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0074199,
+					49.2811649
+				]
+			},
+			"bbox": [
+				-123.0091431,
+				49.2800407,
+				-123.0056967,
+				49.282289
+			]
+		}
+	]
+}

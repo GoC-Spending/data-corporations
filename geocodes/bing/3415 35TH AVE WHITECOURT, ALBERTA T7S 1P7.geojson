@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3415 35 Ave, Whitecourt, AB T7S 0B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08aef45166ae4ee8821c106da1015f39|BN20130521|7.7.0.0|",
+				"addressLine": "3415 35 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3415 35 Ave, Whitecourt, AB T7S 0B5, Canada",
+				"locality": "Whitecourt",
+				"postalCode": "T7S 0B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.64925,
+					54.12088
+				]
+			},
+			"bbox": [
+				-115.6511681,
+				54.1197558,
+				-115.6473319,
+				54.1220042
+			]
+		}
+	]
+}

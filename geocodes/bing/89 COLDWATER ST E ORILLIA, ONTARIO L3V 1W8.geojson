@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 Coldwater St E, Orillia, ON L3V 1W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6804c1198c5b4ffe9cc43fe1a9e73a38|BN20320521|7.7.0.0|",
+				"addressLine": "89 Coldwater St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 Coldwater St E, Orillia, ON L3V 1W8, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 1W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4164228,
+					44.6110015
+				]
+			},
+			"bbox": [
+				-79.4180019,
+				44.6098774,
+				-79.4148437,
+				44.6121257
+			]
+		}
+	]
+}

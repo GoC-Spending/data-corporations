@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Maltby Rd E, Guelph, ON N1L 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e6a919977064aaf9298f3aaba3b7e34|BN20240423|7.7.0.0|",
+				"addressLine": "500 Maltby Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Maltby Rd E, Guelph, ON N1L 1G4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Pineridge/Westminster Woods",
+				"postalCode": "N1L 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1556463,
+					43.4990118
+				]
+			},
+			"bbox": [
+				-80.157196,
+				43.4978876,
+				-80.1540965,
+				43.5001359
+			]
+		}
+	]
+}

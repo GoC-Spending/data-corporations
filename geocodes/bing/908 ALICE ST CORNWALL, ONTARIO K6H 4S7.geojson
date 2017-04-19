@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "908 Alice St, Cornwall, ON K6H 4S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01286f6102804d0dae1bad91895fe725|BN20171457|7.7.0.0|",
+				"addressLine": "908 Alice St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "908 Alice St, Cornwall, ON K6H 4S7, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6H 4S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.7187,
+					45.0336
+				]
+			},
+			"bbox": [
+				-74.7202907,
+				45.0324758,
+				-74.7171093,
+				45.0347242
+			]
+		}
+	]
+}

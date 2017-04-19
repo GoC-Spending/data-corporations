@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1730 Guildford Town Ctr, Surrey, BC V3R 7B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28ae299d4b95419e91740a64d84b97bc|BN20130625|7.7.0.0|",
+				"addressLine": "1730 Guildford Town Ctr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1730 Guildford Town Ctr, Surrey, BC V3R 7B8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V3R 7B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8025551,
+					49.1924333
+				]
+			},
+			"bbox": [
+				-122.8042753,
+				49.1913091,
+				-122.800835,
+				49.1935574
+			]
+		}
+	]
+}

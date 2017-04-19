@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "451 Ridge Row, Saint John, NB E2M 4A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b3211fd289447d3a7c91bc78e94ca59|BN20280152|7.7.0.0|",
+				"addressLine": "451 Ridge Row",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "451 Ridge Row, Saint John, NB E2M 4A2, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 4A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.12781,
+					45.23555
+				]
+			},
+			"bbox": [
+				-66.1294064,
+				45.2344258,
+				-66.1262136,
+				45.2366742
+			]
+		}
+	]
+}

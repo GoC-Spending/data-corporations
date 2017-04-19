@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "233 W Windsor Rd, North Vancouver, BC V7N 2N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "178c95a86f554cee9755f3c4278f171b|BN20130721|7.7.0.0|",
+				"addressLine": "233 W Windsor Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "233 W Windsor Rd, North Vancouver, BC V7N 2N2, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norwood Queens",
+				"postalCode": "V7N 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07589,
+					49.33813
+				]
+			},
+			"bbox": [
+				-123.0776152,
+				49.3370058,
+				-123.0741648,
+				49.3392542
+			]
+		}
+	]
+}

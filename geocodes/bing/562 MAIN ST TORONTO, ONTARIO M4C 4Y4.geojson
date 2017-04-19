@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "562 Main St, Toronto, ON M4C 4Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abc1c62fc84a4b298e6c01a323b7516d|BN20130634|7.7.0.0|",
+				"addressLine": "562 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "562 Main St, Toronto, ON M4C 4Y4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woodbine-Lumsden",
+				"postalCode": "M4C 4Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30567,
+					43.69642
+				]
+			},
+			"bbox": [
+				-79.3072248,
+				43.6952958,
+				-79.3041152,
+				43.6975442
+			]
+		}
+	]
+}

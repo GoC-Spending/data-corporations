@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1320 12 Ave SW, Calgary, AB T3C 3R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "965a484854cb453d8a5bdc3605fba35a|BN20200137|7.7.0.0|",
+				"addressLine": "1320 12 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1320 12 Ave SW, Calgary, AB T3C 3R6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Beltline",
+				"postalCode": "T3C 3R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.09274,
+					51.0424999
+				]
+			},
+			"bbox": [
+				-114.0945279,
+				51.0413757,
+				-114.0909521,
+				51.0436241
+			]
+		}
+	]
+}

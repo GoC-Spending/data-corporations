@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3019 Dufferin St, North York, ON M6B 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "929ed836a446413a9970a5ba06f15a08|BN20121763|7.7.0.0|",
+				"addressLine": "3019 Dufferin St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3019 Dufferin St, North York, ON M6B 3T7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6B 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45381,
+					43.7127399
+				]
+			},
+			"bbox": [
+				-79.4553652,
+				43.7116157,
+				-79.4522548,
+				43.7138641
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Totteridge Rd, Etobicoke, ON M9A 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba2ebf3f1b7c47398b520dc06d6d9249|BN20290118|7.7.0.0|",
+				"addressLine": "33 Totteridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Totteridge Rd, Etobicoke, ON M9A 1Y9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Princess-Rosethorn",
+				"postalCode": "M9A 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54565,
+					43.66811
+				]
+			},
+			"bbox": [
+				-79.5472041,
+				43.6669858,
+				-79.5440959,
+				43.6692342
+			]
+		}
+	]
+}

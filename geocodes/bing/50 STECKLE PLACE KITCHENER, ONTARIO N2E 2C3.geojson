@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Steckle Pl, Kitchener, ON N2E 2C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b21f64f7c6a45fca5dd20fe41d31a35|BN20130423|7.7.0.0|",
+				"addressLine": "50 Steckle Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Steckle Pl, Kitchener, ON N2E 2C3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Trillium Industrial Park",
+				"postalCode": "N2E 2C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.45952,
+					43.4046499
+				]
+			},
+			"bbox": [
+				-80.4610673,
+				43.4035257,
+				-80.4579727,
+				43.4057741
+			]
+		}
+	]
+}

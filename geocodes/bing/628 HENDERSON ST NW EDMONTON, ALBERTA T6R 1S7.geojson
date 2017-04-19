@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "628 Henderson St NW, Edmonton, AB T6R 1S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3a3e6042514457cbd442b7df64e11de|BN20121762|7.7.0.0|",
+				"addressLine": "628 Henderson St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "628 Henderson St NW, Edmonton, AB T6R 1S7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Henderson Estates",
+				"postalCode": "T6R 1S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.59889,
+					53.46744
+				]
+			},
+			"bbox": [
+				-113.6007784,
+				53.4663158,
+				-113.5970016,
+				53.4685642
+			]
+		}
+	]
+}

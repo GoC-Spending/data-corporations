@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Village Centre Pl, Mississauga, ON L4Z 1V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc025c25cd334913a2e47ceb8f4836f5|BN20200137|7.7.0.0|",
+				"addressLine": "55 Village Centre Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Village Centre Pl, Mississauga, ON L4Z 1V9, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Village Centre",
+				"postalCode": "L4Z 1V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64126,
+					43.6008
+				]
+			},
+			"bbox": [
+				-79.6428123,
+				43.5996758,
+				-79.6397077,
+				43.6019242
+			]
+		}
+	]
+}

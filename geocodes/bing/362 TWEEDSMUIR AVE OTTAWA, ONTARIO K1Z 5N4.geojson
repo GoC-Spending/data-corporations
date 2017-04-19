@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "362 Tweedsmuir Ave, Ottawa, ON K1Z 5N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16beb38c4d8f4b709f341fa86786103d|BN20130533|7.7.0.0|",
+				"addressLine": "362 Tweedsmuir Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "362 Tweedsmuir Ave, Ottawa, ON K1Z 5N4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Westboro",
+				"postalCode": "K1Z 5N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.75068,
+					45.3945
+				]
+			},
+			"bbox": [
+				-75.7522809,
+				45.3933758,
+				-75.7490791,
+				45.3956242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19670 92A Ave, Langley, BC V1M 3B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b356934230a483c9fb4835de99ffe71|BN20130533|7.7.0.0|",
+				"addressLine": "19670 92A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19670 92A Ave, Langley, BC V1M 3B2, Canada",
+				"locality": "Langley",
+				"postalCode": "V1M 3B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6779709,
+					49.1702891
+				]
+			},
+			"bbox": [
+				-122.6796903,
+				49.1691649,
+				-122.6762515,
+				49.1714132
+			]
+		}
+	]
+}

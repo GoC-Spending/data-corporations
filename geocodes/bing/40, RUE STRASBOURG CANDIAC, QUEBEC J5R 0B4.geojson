@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Rue de Strasbourg, Candiac, QC J5R 0B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a772a660f574ceba375f328b098671b|BN20190642|7.7.0.0|",
+				"addressLine": "40 Rue de Strasbourg",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Roussillon",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Rue de Strasbourg, Candiac, QC J5R 0B4, Canada",
+				"locality": "Candiac",
+				"postalCode": "J5R 0B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5162905,
+					45.3690754
+				]
+			},
+			"bbox": [
+				-73.5178906,
+				45.3679512,
+				-73.5146904,
+				45.3701995
+			]
+		}
+	]
+}

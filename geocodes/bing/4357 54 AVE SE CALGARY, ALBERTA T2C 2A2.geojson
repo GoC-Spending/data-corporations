@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4357 54 Ave SE, Calgary, AB T2C 2A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be3699442cb446d49599e749b4b428c5|BN20260231|7.7.0.0|",
+				"addressLine": "4357 54 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4357 54 Ave SE, Calgary, AB T2C 2A2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 2A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9726667,
+					51.0036351
+				]
+			},
+			"bbox": [
+				-113.9744531,
+				51.002511,
+				-113.9708803,
+				51.0047593
+			]
+		}
+	]
+}

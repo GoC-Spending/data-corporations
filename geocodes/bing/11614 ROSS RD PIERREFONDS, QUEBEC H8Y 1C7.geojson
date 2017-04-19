@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11614 Rue Ross, Pierrefonds, QC H8Y 1C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9864ed71e884feaa771a98975c6be90|BN20260231|7.7.0.0|",
+				"addressLine": "11614 Rue Ross",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "11614 Rue Ross, Pierrefonds, QC H8Y 1C7, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H8Y 1C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.81541,
+					45.5057199
+				]
+			},
+			"bbox": [
+				-73.817014,
+				45.5045957,
+				-73.813806,
+				45.5068441
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1420 Broad St, Regina, SK S4R 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d91349aa526d4a75af9f527d35b1d803|BN20160335|7.7.0.0|",
+				"addressLine": "1420 Broad St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1420 Broad St, Regina, SK S4R 1Y9, Canada",
+				"locality": "Regina",
+				"neighborhood": "North Central",
+				"postalCode": "S4R 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.6067187,
+					50.4561694
+				]
+			},
+			"bbox": [
+				-104.6084844,
+				50.4550453,
+				-104.604953,
+				50.4572936
+			]
+		}
+	]
+}

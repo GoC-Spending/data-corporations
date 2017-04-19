@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "169 Bay St, Midland, ON L4R 1M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3c8f933f835401aa7afca0a591997b3|BN20130422|7.7.0.0|",
+				"addressLine": "169 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "169 Bay St, Midland, ON L4R 1M9, Canada",
+				"locality": "Midland",
+				"postalCode": "L4R 1M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8738985,
+					44.7569589
+				]
+			},
+			"bbox": [
+				-79.8754815,
+				44.7558347,
+				-79.8723154,
+				44.758083
+			]
+		}
+	]
+}

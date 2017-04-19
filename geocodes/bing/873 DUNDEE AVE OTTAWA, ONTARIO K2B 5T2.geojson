@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "873 Dundee Ave, Ottawa, ON K2B 5T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "795a608bf72c449194a6b3759973a5fd|BN20280152|7.7.0.0|",
+				"addressLine": "873 Dundee Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "873 Dundee Ave, Ottawa, ON K2B 5T2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Whitehaven-Queensway Terr North",
+				"postalCode": "K2B 5T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.78908,
+					45.35903
+				]
+			},
+			"bbox": [
+				-75.7906798,
+				45.3579058,
+				-75.7874802,
+				45.3601542
+			]
+		}
+	]
+}

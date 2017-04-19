@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Cour Jones, Sussex, NB E4E 2S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5bf86fa1baa843f09d106aef6c5544bc|BN20200137|7.7.0.0|",
+				"addressLine": "3 Cour Jones",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Cour Jones, Sussex, NB E4E 2S2, Canada",
+				"locality": "Sussex",
+				"postalCode": "E4E 2S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.4824141,
+					45.729306
+				]
+			},
+			"bbox": [
+				-65.4840245,
+				45.7281819,
+				-65.4808037,
+				45.7304302
+			]
+		}
+	]
+}

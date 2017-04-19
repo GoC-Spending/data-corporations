@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "978 Bishop St N, Cambridge, ON N3H 4V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "194de54f4a7542c8be43f6caa3ae58b0|BN20130533|7.7.0.0|",
+				"addressLine": "978 Bishop St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "978 Bishop St N, Cambridge, ON N3H 4V6, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Lang's Farm",
+				"postalCode": "N3H 4V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.33389,
+					43.39318
+				]
+			},
+			"bbox": [
+				-80.335437,
+				43.3920558,
+				-80.332343,
+				43.3943042
+			]
+		}
+	]
+}

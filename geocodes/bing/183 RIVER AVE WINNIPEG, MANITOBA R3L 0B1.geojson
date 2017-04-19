@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "183 River Ave, Winnipeg, MB R3L 0B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf65c992cc234eeb89994b597977c6dd|BN20130620|7.7.0.0|",
+				"addressLine": "183 River Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "183 River Ave, Winnipeg, MB R3L 0B1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River-Osborne",
+				"postalCode": "R3L 0B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13609,
+					49.88293
+				]
+			},
+			"bbox": [
+				-97.1378346,
+				49.8818058,
+				-97.1343454,
+				49.8840542
+			]
+		}
+	]
+}

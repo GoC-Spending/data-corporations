@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "183 Prince Albert St, Ottawa, ON K1K 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c0387b4cd5a4c35bd59f8b2e9142066|BN20130520|7.7.0.0|",
+				"addressLine": "183 Prince Albert St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "183 Prince Albert St, Ottawa, ON K1K 1Z8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Overbrook West-McArthur",
+				"postalCode": "K1K 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.65591,
+					45.42448
+				]
+			},
+			"bbox": [
+				-75.6575117,
+				45.4233558,
+				-75.6543083,
+				45.4256042
+			]
+		}
+	]
+}

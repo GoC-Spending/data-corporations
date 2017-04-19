@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 Craig St, Ottawa, ON K1S 4B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca2706f80ac34d498f60c1de100cdd23|BN20130533|7.7.0.0|",
+				"addressLine": "56 Craig St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 Craig St, Ottawa, ON K1S 4B9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Glebe-Dows Lake",
+				"postalCode": "K1S 4B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69203,
+					45.39726
+				]
+			},
+			"bbox": [
+				-75.6936309,
+				45.3961358,
+				-75.6904291,
+				45.3983842
+			]
+		}
+	]
+}

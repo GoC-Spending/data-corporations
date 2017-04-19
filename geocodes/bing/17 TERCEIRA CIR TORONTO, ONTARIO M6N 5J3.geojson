@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Terceira Cir, Toronto, ON M6N 5J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aeecbb53c63a4012a0aa8838b571ca5b|BN20190653|7.7.0.0|",
+				"addressLine": "17 Terceira Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Terceira Cir, Toronto, ON M6N 5J3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Weston-Pellam Park",
+				"postalCode": "M6N 5J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46682,
+					43.67995
+				]
+			},
+			"bbox": [
+				-79.4683744,
+				43.6788258,
+				-79.4652656,
+				43.6810742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Meridian Rd, Etobicoke, ON M9W 4Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2396741f46974241a7b19143889ac318|BN20260231|7.7.0.0|",
+				"addressLine": "10 Meridian Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Meridian Rd, Etobicoke, ON M9W 4Z8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 4Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58092,
+					43.68358
+				]
+			},
+			"bbox": [
+				-79.5824745,
+				43.6824558,
+				-79.5793655,
+				43.6847042
+			]
+		}
+	]
+}

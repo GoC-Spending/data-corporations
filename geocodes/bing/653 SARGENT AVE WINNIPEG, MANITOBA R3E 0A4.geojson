@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "653 Sargent Ave, Winnipeg, MB R3E 0A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ebf62d63d05d4bc19519ec356a50eae3|BN20131519|7.7.0.0|",
+				"addressLine": "653 Sargent Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "653 Sargent Ave, Winnipeg, MB R3E 0A4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Daniel McIntyre",
+				"postalCode": "R3E 0A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.16145,
+					49.89682
+				]
+			},
+			"bbox": [
+				-97.1631951,
+				49.8956958,
+				-97.1597049,
+				49.8979442
+			]
+		}
+	]
+}

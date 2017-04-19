@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12758 82 St NW, Edmonton, AB T5E 2T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a45307b258e41eeacee11756624fb7e|BN20200239|7.7.0.0|",
+				"addressLine": "12758 82 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12758 82 St NW, Edmonton, AB T5E 2T1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Killarney",
+				"postalCode": "T5E 2T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46797,
+					53.58569
+				]
+			},
+			"bbox": [
+				-113.4698637,
+				53.5845658,
+				-113.4660763,
+				53.5868142
+			]
+		}
+	]
+}

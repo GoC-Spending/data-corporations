@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "363 Swinburne Rd, Burlington, ON L7N 2A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32781fb9c96649f1b5cebb428d91532e|BN20121762|7.7.0.0|",
+				"addressLine": "363 Swinburne Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "363 Swinburne Rd, Burlington, ON L7N 2A2, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Roseland",
+				"postalCode": "L7N 2A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76881,
+					43.34913
+				]
+			},
+			"bbox": [
+				-79.7703559,
+				43.3480058,
+				-79.7672641,
+				43.3502542
+			]
+		}
+	]
+}

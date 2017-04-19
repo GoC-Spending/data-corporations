@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1011 Victoria St, Petawawa, ON K8H 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01b9534cbd394e1d81f24dc50a7ec80b|BN20130533|7.7.0.0|",
+				"addressLine": "1011 Victoria St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "1011 Victoria St, Petawawa, ON K8H 2E2, Canada",
+				"locality": "Petawawa",
+				"postalCode": "K8H 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.281854,
+					45.8988395
+				]
+			},
+			"bbox": [
+				-77.2834693,
+				45.8977154,
+				-77.2802387,
+				45.8999637
+			]
+		}
+	]
+}

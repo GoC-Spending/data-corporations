@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 90e Avenue, La Salle, QC H8R 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "122d743b8e2747b8af3f6d2d5739bd18|BN20250135|7.7.0.0|",
+				"addressLine": "100 90e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 90e Avenue, La Salle, QC H8R 2Z4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8R 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.64418,
+					45.41824
+				]
+			},
+			"bbox": [
+				-73.6457815,
+				45.4171158,
+				-73.6425785,
+				45.4193642
+			]
+		}
+	]
+}

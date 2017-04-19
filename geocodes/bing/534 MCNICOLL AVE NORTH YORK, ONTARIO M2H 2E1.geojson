@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "534 McNicoll Ave, North York, ON M2H 2E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a9ccfa97fdc403eaac8016af6bf4920|BN20260231|7.7.0.0|",
+				"addressLine": "534 McNicoll Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "534 McNicoll Ave, North York, ON M2H 2E1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Hillcrest Village",
+				"postalCode": "M2H 2E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3398063,
+					43.8039519
+				]
+			},
+			"bbox": [
+				-79.3413639,
+				43.8028277,
+				-79.3382487,
+				43.805076
+			]
+		}
+	]
+}

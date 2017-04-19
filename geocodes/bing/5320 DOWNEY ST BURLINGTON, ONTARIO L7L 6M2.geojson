@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5320 Downey St, Burlington, ON L7L 6M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2d53239db124d159dc370d834cfcf28|BN20130621|7.7.0.0|",
+				"addressLine": "5320 Downey St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5320 Downey St, Burlington, ON L7L 6M2, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Corporate",
+				"postalCode": "L7L 6M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7655045,
+					43.3913492
+				]
+			},
+			"bbox": [
+				-79.7670515,
+				43.390225,
+				-79.7639575,
+				43.3924733
+			]
+		}
+	]
+}

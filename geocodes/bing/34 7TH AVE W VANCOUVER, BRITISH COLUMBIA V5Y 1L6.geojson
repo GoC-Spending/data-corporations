@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 W 7th Ave, Vancouver, BC V5Y 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d1670eaf8de4e1782e79f5a52483006|BN20130532|7.7.0.0|",
+				"addressLine": "34 W 7th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 W 7th Ave, Vancouver, BC V5Y 1L6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10592,
+					49.26443
+				]
+			},
+			"bbox": [
+				-123.1076427,
+				49.2633058,
+				-123.1041973,
+				49.2655542
+			]
+		}
+	]
+}

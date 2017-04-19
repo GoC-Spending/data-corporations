@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7003 56 Ave NW, Edmonton, AB T6B 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4bd1e5d6ef4d4e4fabd91a68644360c0|BN20130533|7.7.0.0|",
+				"addressLine": "7003 56 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7003 56 Ave NW, Edmonton, AB T6B 3L2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Roper Industrial",
+				"postalCode": "T6B 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.43683,
+					53.49136
+				]
+			},
+			"bbox": [
+				-113.4387195,
+				53.4902358,
+				-113.4349405,
+				53.4924842
+			]
+		}
+	]
+}

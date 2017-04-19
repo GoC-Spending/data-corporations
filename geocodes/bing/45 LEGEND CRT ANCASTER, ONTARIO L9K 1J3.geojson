@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Legend Ct, Ancaster, ON L9K 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21a0be045d6149379b362e67040f2ec1|BN20130632|7.7.0.0|",
+				"addressLine": "45 Legend Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Legend Ct, Ancaster, ON L9K 1J3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9K 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.94879,
+					43.22811
+				]
+			},
+			"bbox": [
+				-79.9503328,
+				43.2269858,
+				-79.9472472,
+				43.2292342
+			]
+		}
+	]
+}

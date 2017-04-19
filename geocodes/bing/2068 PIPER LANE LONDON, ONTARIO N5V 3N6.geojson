@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2068 Piper Ln, London, ON N5V 3N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93b4abc740ee400884d33944f5356b9b|BN20181720|7.7.0.0|",
+				"addressLine": "2068 Piper Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2068 Piper Ln, London, ON N5V 3N6, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 3N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1691,
+					43.0248
+				]
+			},
+			"bbox": [
+				-81.1706377,
+				43.0236758,
+				-81.1675623,
+				43.0259242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1133 Boundary Rd, Oshawa, ON L1J 6Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f38c9680235249bea53e0b791cc47639|BN20240253|7.7.0.0|",
+				"addressLine": "1133 Boundary Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1133 Boundary Rd, Oshawa, ON L1J 6Z7, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Stevenson",
+				"postalCode": "L1J 6Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8849228,
+					43.8603862
+				]
+			},
+			"bbox": [
+				-78.8864819,
+				43.8592621,
+				-78.8833637,
+				43.8615104
+			]
+		}
+	]
+}

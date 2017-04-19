@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1251 Homer St, Vancouver, BC V6B 2Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e720021e27d405eb38479c9106a4966|BN20210145|7.7.0.0|",
+				"addressLine": "1251 Homer St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1251 Homer St, Vancouver, BC V6B 2Y9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 2Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12454,
+					49.27478
+				]
+			},
+			"bbox": [
+				-123.126263,
+				49.2736558,
+				-123.122817,
+				49.2759042
+			]
+		}
+	]
+}

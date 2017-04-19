@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Bodrington Ct, Markham, ON L6G 0A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "649c013721f549a4a2e00d721638133d|BN20121763|7.7.0.0|",
+				"addressLine": "50 Bodrington Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Bodrington Ct, Markham, ON L6G 0A9, Canada",
+				"locality": "Markham",
+				"neighborhood": "Buttonville",
+				"postalCode": "L6G 0A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35444,
+					43.84335
+				]
+			},
+			"bbox": [
+				-79.3559986,
+				43.8422258,
+				-79.3528814,
+				43.8444742
+			]
+		}
+	]
+}

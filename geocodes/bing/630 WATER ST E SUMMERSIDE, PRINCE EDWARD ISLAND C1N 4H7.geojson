@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "630 Water St E, Summerside, PE C1N 4H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5fb3e9da36de437493e836a791b6e281|BN20130634|7.7.0.0|",
+				"addressLine": "630 Water St E",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "630 Water St E, Summerside, PE C1N 4H7, Canada",
+				"locality": "Summerside",
+				"postalCode": "C1N 4H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.7676,
+					46.39414
+				]
+			},
+			"bbox": [
+				-63.7692299,
+				46.3930158,
+				-63.7659701,
+				46.3952642
+			]
+		}
+	]
+}

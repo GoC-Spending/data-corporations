@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "77 Ontario St, Oshawa, ON L1G 4Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "459486205df749f18ec4b6d0f103b10a|BN20130442|7.7.0.0|",
+				"addressLine": "77 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "77 Ontario St, Oshawa, ON L1G 4Y9, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Downtown Oshawa",
+				"postalCode": "L1G 4Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.86323,
+					43.90002
+				]
+			},
+			"bbox": [
+				-78.8647901,
+				43.8988958,
+				-78.8616699,
+				43.9011442
+			]
+		}
+	]
+}

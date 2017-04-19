@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1830 Bank St, Ottawa, ON K1V 7Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d629ef6ead64b65b8dfd769c677f13c|BN20210145|7.7.0.0|",
+				"addressLine": "1830 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1830 Bank St, Ottawa, ON K1V 7Y6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Ledbury-Heron GT-Ridgemont-Elmwood",
+				"postalCode": "K1V 7Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6638154,
+					45.3711305
+				]
+			},
+			"bbox": [
+				-75.6654156,
+				45.3700064,
+				-75.6622152,
+				45.3722547
+			]
+		}
+	]
+}

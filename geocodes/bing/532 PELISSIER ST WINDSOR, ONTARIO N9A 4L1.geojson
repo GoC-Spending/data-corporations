@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "532 Pelissier St, Windsor, ON N9A 4L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91534e8039094e0e921c6eb64b1346e4|BN20130721|7.7.0.0|",
+				"addressLine": "532 Pelissier St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "532 Pelissier St, Windsor, ON N9A 4L1, Canada",
+				"locality": "Windsor",
+				"neighborhood": "City Centre",
+				"postalCode": "N9A 4L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.03794,
+					42.31459
+				]
+			},
+			"bbox": [
+				-83.0394602,
+				42.3134658,
+				-83.0364198,
+				42.3157142
+			]
+		}
+	]
+}

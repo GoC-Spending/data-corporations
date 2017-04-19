@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19 Marie Labatte Rd, Toronto, ON M3C 0J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a556b626a4fb4398ae74bf6fec79a2c7|BN20121764|7.7.0.0|",
+				"addressLine": "19 Marie Labatte Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "19 Marie Labatte Rd, Toronto, ON M3C 0J1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3C 0J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34612,
+					43.73459
+				]
+			},
+			"bbox": [
+				-79.3476758,
+				43.7334658,
+				-79.3445642,
+				43.7357142
+			]
+		}
+	]
+}

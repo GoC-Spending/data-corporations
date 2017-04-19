@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7504 McLean Rd, Puslinch, ON N0B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d09e53566374f41ae09f1c22da3771a|BN20130620|7.7.0.0|",
+				"addressLine": "7504 McLean Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "7504 McLean Rd, Puslinch, ON N0B, Canada",
+				"locality": "Puslinch",
+				"postalCode": "N0B 2J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1180597,
+					43.4740854
+				]
+			},
+			"bbox": [
+				-80.1196087,
+				43.4729612,
+				-80.1165106,
+				43.4752095
+			]
+		}
+	]
+}

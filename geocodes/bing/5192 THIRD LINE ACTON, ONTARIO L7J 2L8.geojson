@@ -1,0 +1,115 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Acton, L7J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fe27ca6592841c4856d808569dbe7b1|BN20130632|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "Acton, L7J, Canada",
+				"locality": "Acton",
+				"postalCode": "L7J"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0407485961914,
+					43.6308898925781
+				]
+			},
+			"bbox": [
+				-80.0857620239258,
+				43.5712890625,
+				-79.9957275390625,
+				43.6669311523438
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Halton Hills, L7J 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fe27ca6592841c4856d808569dbe7b1|BN20130632|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "Halton Hills, L7J 2L8, Canada",
+				"locality": "Halton Hills",
+				"postalCode": "L7J 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0291290283203,
+					43.6567306518555
+				]
+			},
+			"bbox": [
+				-80.0362472582357,
+				43.6528679342848,
+				-80.0220107984049,
+				43.6605933694261
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Acton, Erin, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fe27ca6592841c4856d808569dbe7b1|BN20130632|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "Acton, Erin, Ontario, Canada",
+				"locality": "Erin",
+				"neighborhood": "Acton"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0830001831055,
+					43.6435012817383
+				]
+			},
+			"bbox": [
+				-80.0901168455097,
+				43.6396385641676,
+				-80.0758835207012,
+				43.647363999309
+			]
+		}
+	]
+}

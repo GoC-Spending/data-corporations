@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3996 Rue de Verdun, Verdun, QC H4G 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91222a08537041c9b39d589f3590db17|BN20131519|7.7.0.0|",
+				"addressLine": "3996 Rue de Verdun",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "3996 Rue de Verdun, Verdun, QC H4G 1K9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4G 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57106,
+					45.46397
+				]
+			},
+			"bbox": [
+				-73.5726628,
+				45.4628458,
+				-73.5694572,
+				45.4650942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Tilbury Ct, Brampton, ON L6T 3T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d304cc813e1b46cb8c0060955f6bfd40|BN20130532|7.7.0.0|",
+				"addressLine": "12 Tilbury Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Tilbury Ct, Brampton, ON L6T 3T4, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 3T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72774,
+					43.6988399
+				]
+			},
+			"bbox": [
+				-79.7292949,
+				43.6977157,
+				-79.7261851,
+				43.6999641
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Vinyl Ct, Woodbridge, ON L4L 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "864b236654b8408c9af1eb712378da98|BN20130632|7.7.0.0|",
+				"addressLine": "200 Vinyl Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Vinyl Ct, Woodbridge, ON L4L 4A3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57492,
+					43.76811
+				]
+			},
+			"bbox": [
+				-79.5764767,
+				43.7669858,
+				-79.5733633,
+				43.7692342
+			]
+		}
+	]
+}

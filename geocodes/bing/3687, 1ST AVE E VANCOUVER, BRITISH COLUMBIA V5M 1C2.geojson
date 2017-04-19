@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3687 E 1st Ave, Vancouver, BC V5M 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "830a7fcc0ed0476e9f1a8e350a163c77|BN20130631|7.7.0.0|",
+				"addressLine": "3687 E 1st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3687 E 1st Ave, Vancouver, BC V5M 1C2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5M 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0241417,
+					49.2696374
+				]
+			},
+			"bbox": [
+				-123.0258646,
+				49.2685133,
+				-123.0224189,
+				49.2707616
+			]
+		}
+	]
+}

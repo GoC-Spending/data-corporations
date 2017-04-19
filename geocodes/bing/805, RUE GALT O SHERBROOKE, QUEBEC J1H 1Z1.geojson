@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "805 Rue Galt O, Sherbrooke, QC J1H 1Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42551b44e15c465fa16174021ce02b70|BN20190642|7.7.0.0|",
+				"addressLine": "805 Rue Galt O",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "805 Rue Galt O, Sherbrooke, QC J1H 1Z1, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1H 1Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.898451,
+					45.3936425
+				]
+			},
+			"bbox": [
+				-71.9000518,
+				45.3925183,
+				-71.8968501,
+				45.3947667
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1687 Dublin Ave, Winnipeg, MB R3H 0H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61d1fd98457e46ba83658e260f06f764|BN20171457|7.7.0.0|",
+				"addressLine": "1687 Dublin Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1687 Dublin Ave, Winnipeg, MB R3H 0H2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20294,
+					49.9121
+				]
+			},
+			"bbox": [
+				-97.2046857,
+				49.9109758,
+				-97.2011943,
+				49.9132242
+			]
+		}
+	]
+}

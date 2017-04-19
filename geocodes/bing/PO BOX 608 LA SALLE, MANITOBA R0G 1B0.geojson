@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "La Salle, R0G 1B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7eef0f524ed9447189ace50b3cfdd576|BN20160335|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "La Salle, R0G 1B0, Canada",
+				"locality": "La Salle",
+				"postalCode": "R0G 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2646331787109,
+					49.6936111450195
+				]
+			},
+			"bbox": [
+				-97.2725943493658,
+				49.6897484274489,
+				-97.2566720080561,
+				49.6974738625902
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "608",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7eef0f524ed9447189ace50b3cfdd576|BN20160335|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "608",
+				"postalCode": "608"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.6010818481445,
+					41.6536636352539
+				]
+			},
+			"bbox": [
+				-87.7826232910156,
+				41.6196632385254,
+				-87.5661010742188,
+				41.8659515380859
+			]
+		}
+	]
+}

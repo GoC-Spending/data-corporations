@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2062 100th St, North Battleford, SK S9A 0X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b01994919f90470e86527eb2546b05a8|BN20200137|7.7.0.0|",
+				"addressLine": "2062 100th St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2062 100th St, North Battleford, SK S9A 0X5, Canada",
+				"locality": "North Battleford",
+				"postalCode": "S9A 0X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-108.29852,
+					52.78759
+				]
+			},
+			"bbox": [
+				-108.3003788,
+				52.7864658,
+				-108.2966612,
+				52.7887142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "343 Railway St, Vancouver, BC V6A 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "413849f123da41f89eddc03913d360ad|BN20250135|7.7.0.0|",
+				"addressLine": "343 Railway St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "343 Railway St, Vancouver, BC V6A 1A4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown Eastside",
+				"postalCode": "V6A 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09676,
+					49.28482
+				]
+			},
+			"bbox": [
+				-123.0984834,
+				49.2836958,
+				-123.0950366,
+				49.2859442
+			]
+		}
+	]
+}

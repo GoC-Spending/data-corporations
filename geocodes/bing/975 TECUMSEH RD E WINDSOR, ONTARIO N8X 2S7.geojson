@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "975 Tecumseh Rd E, Windsor, ON N8X 2S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5de29df1f0f54f3fbd401a68cdb6162c|BN20130530|7.7.0.0|",
+				"addressLine": "975 Tecumseh Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "975 Tecumseh Rd E, Windsor, ON N8X 2S7, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Walkerville",
+				"postalCode": "N8X 2S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.0102544,
+					42.2991717
+				]
+			},
+			"bbox": [
+				-83.0117743,
+				42.2980475,
+				-83.0087345,
+				42.3002958
+			]
+		}
+	]
+}

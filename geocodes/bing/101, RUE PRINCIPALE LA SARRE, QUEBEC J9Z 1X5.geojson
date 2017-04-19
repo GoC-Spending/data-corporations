@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Rue Principale, La Sarre, QC J9Z 1X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f524518b69834d9896df7f19e19b4d10|BN20240423|7.7.0.0|",
+				"addressLine": "101 Rue Principale",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Abitibi-Ouest",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Rue Principale, La Sarre, QC J9Z 1X5, Canada",
+				"locality": "La Sarre",
+				"postalCode": "J9Z 1X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.20487,
+					48.81018
+				]
+			},
+			"bbox": [
+				-79.206577,
+				48.8090558,
+				-79.203163,
+				48.8113042
+			]
+		}
+	]
+}

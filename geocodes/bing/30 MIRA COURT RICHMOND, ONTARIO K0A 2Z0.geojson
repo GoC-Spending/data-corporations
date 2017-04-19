@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Mira Ct, Richmond, ON K0A 2Z0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8952161a8e184162990cd499332d4c65|BN20160335|7.7.0.0|",
+				"addressLine": "30 Mira Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Mira Ct, Richmond, ON K0A 2Z0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Richmond",
+				"postalCode": "K0A 2Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.84699,
+					45.19251
+				]
+			},
+			"bbox": [
+				-75.8485852,
+				45.1913858,
+				-75.8453948,
+				45.1936342
+			]
+		}
+	]
+}

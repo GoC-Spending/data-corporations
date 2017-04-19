@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1514 Aline Ave, Orleans, ON K4A 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e185541ba0a483384bce4b21a1f10da|BN20240423|7.7.0.0|",
+				"addressLine": "1514 Aline Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1514 Aline Ave, Orleans, ON K4A 3Y9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Orleans",
+				"postalCode": "K4A 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.47143,
+					45.48077
+				]
+			},
+			"bbox": [
+				-75.4730333,
+				45.4796458,
+				-75.4698267,
+				45.4818942
+			]
+		}
+	]
+}

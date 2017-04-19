@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Devon Rd, Brampton, ON L6T 5B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21401a43902c4fcf9c80c75a9832e209|BN20190642|7.7.0.0|",
+				"addressLine": "10 Devon Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Devon Rd, Brampton, ON L6T 5B5, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Castlemore",
+				"postalCode": "L6T 5B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67885,
+					43.73205
+				]
+			},
+			"bbox": [
+				-79.6804057,
+				43.7309258,
+				-79.6772943,
+				43.7331742
+			]
+		}
+	]
+}

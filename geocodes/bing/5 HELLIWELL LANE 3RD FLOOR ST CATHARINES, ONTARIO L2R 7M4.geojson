@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Helliwell Ln, St Catharines, ON L2R 7M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9b5621fed8bf49cfa4b73af64d4be0f9|BN20200137|7.7.0.0|",
+				"addressLine": "5 Helliwell Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Helliwell Ln, St Catharines, ON L2R 7M4, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Downtown",
+				"postalCode": "L2R 7M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2460582,
+					43.1574685
+				]
+			},
+			"bbox": [
+				-79.2475992,
+				43.1563444,
+				-79.2445171,
+				43.1585927
+			]
+		}
+	]
+}

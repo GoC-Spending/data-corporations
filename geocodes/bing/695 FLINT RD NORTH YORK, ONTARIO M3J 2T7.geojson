@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "695 Flint Rd, North York, ON M3J 2T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9b4ea1375b5426195266970ebf5d1be|BN20130621|7.7.0.0|",
+				"addressLine": "695 Flint Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "695 Flint Rd, North York, ON M3J 2T7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48,
+					43.77442
+				]
+			},
+			"bbox": [
+				-79.4815568,
+				43.7732958,
+				-79.4784432,
+				43.7755442
+			]
+		}
+	]
+}

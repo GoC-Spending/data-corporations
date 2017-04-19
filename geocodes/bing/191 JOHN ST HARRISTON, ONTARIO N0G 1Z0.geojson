@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "191 John St S, Minto, ON N0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f1fef43b010f4460a9921724d6fc24c3|BN20130631|7.7.0.0|",
+				"addressLine": "191 John St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "191 John St S, Minto, ON N0G, Canada",
+				"locality": "Minto",
+				"neighborhood": "Harriston",
+				"postalCode": "N0G 1Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.8656552,
+					43.9081219
+				]
+			},
+			"bbox": [
+				-80.8672156,
+				43.9069978,
+				-80.8640949,
+				43.9092461
+			]
+		}
+	]
+}

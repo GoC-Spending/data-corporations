@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 King St, Saint John, NB E2L 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8e1948e5a8b40c89fe5a263ec14517c|BN20200239|7.7.0.0|",
+				"addressLine": "22 King St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 King St, Saint John, NB E2L 1G3, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.06124,
+					45.2728899
+				]
+			},
+			"bbox": [
+				-66.0628374,
+				45.2717657,
+				-66.0596426,
+				45.2740141
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3330 Marleau Ave, Cornwall, ON K6H 6B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c2e979f5886415690255249f1e9893f|BN20130634|7.7.0.0|",
+				"addressLine": "3330 Marleau Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "3330 Marleau Ave, Cornwall, ON K6H 6B5, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6H 6B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.6826074,
+					45.046035
+				]
+			},
+			"bbox": [
+				-74.6841985,
+				45.0449109,
+				-74.6810164,
+				45.0471592
+			]
+		}
+	]
+}

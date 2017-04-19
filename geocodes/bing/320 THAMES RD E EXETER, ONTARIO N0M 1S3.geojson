@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "320 Thames Rd E, Exeter, ON N0M 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44434fa3fbaa4096b3680af974b8b2b8|BN20130431|7.7.0.0|",
+				"addressLine": "320 Thames Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "320 Thames Rd E, Exeter, ON N0M 1S3, Canada",
+				"locality": "South Huron",
+				"neighborhood": "Exeter",
+				"postalCode": "N0M 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4726448,
+					43.3630956
+				]
+			},
+			"bbox": [
+				-81.4741911,
+				43.3619714,
+				-81.4710986,
+				43.3642197
+			]
+		}
+	]
+}

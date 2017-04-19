@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "297 Campbell Ave, Toronto, ON M6P 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7dea293b7d2b48718eb8aa7ac7e299e2|BN20200137|7.7.0.0|",
+				"addressLine": "297 Campbell Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "297 Campbell Ave, Toronto, ON M6P 3V7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6P 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44935,
+					43.66552
+				]
+			},
+			"bbox": [
+				-79.450904,
+				43.6643958,
+				-79.447796,
+				43.6666442
+			]
+		}
+	]
+}

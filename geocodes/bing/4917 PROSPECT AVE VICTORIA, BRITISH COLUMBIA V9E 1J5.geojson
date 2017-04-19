@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4917 Prospect Ave, Saanich, BC V9E 1J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7550d677595645929aaa10f826f6f6dc|BN20121762|7.7.0.0|",
+				"addressLine": "4917 Prospect Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4917 Prospect Ave, Saanich, BC V9E 1J5, Canada",
+				"locality": "Saanich",
+				"postalCode": "V9E 1J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.44359,
+					48.5161
+				]
+			},
+			"bbox": [
+				-123.4452871,
+				48.5149758,
+				-123.4418929,
+				48.5172242
+			]
+		}
+	]
+}

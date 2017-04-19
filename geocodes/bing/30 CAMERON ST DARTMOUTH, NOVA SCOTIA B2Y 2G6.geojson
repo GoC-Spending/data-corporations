@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Cameron St, Dartmouth, NS B2Y 2G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e71870b0486946d89cf0ebc96cdff541|BN20130520|7.7.0.0|",
+				"addressLine": "30 Cameron St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Cameron St, Dartmouth, NS B2Y 2G6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2Y 2G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.55104,
+					44.66289
+				]
+			},
+			"bbox": [
+				-63.5526205,
+				44.6617658,
+				-63.5494595,
+				44.6640142
+			]
+		}
+	]
+}

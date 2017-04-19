@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19 Hendon Ave, North York, ON M2M 4G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da4e167ea3114d0a9e487cc5cf77a904|BN20250135|7.7.0.0|",
+				"addressLine": "19 Hendon Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "19 Hendon Ave, North York, ON M2M 4G8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook West",
+				"postalCode": "M2M 4G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41676,
+					43.7812
+				]
+			},
+			"bbox": [
+				-79.418317,
+				43.7800758,
+				-79.415203,
+				43.7823242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "215 Colonnade Rd, Nepean, ON K2E 7K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9a2c7b086884cc3a9879309ed733a52|BN20130431|7.7.0.0|",
+				"addressLine": "215 Colonnade Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "215 Colonnade Rd, Nepean, ON K2E 7K3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 7K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7168499,
+					45.34098
+				]
+			},
+			"bbox": [
+				-75.7184492,
+				45.3398558,
+				-75.7152506,
+				45.3421042
+			]
+		}
+	]
+}

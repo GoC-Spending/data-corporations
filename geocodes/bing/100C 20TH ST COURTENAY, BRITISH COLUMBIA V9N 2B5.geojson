@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 20th St, Courtenay, BC V9N 2B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fae16cf8b4cb403c93b8b897667d6dda|BN20200239|7.7.0.0|",
+				"addressLine": "100 20th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 20th St, Courtenay, BC V9N 2B5, Canada",
+				"locality": "Courtenay",
+				"postalCode": "V9N 2B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.9846858,
+					49.6819517
+				]
+			},
+			"bbox": [
+				-124.9864232,
+				49.6808275,
+				-124.9829484,
+				49.6830758
+			]
+		}
+	]
+}

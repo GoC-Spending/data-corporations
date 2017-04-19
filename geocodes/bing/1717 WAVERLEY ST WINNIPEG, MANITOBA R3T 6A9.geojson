@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1717 Waverley St, Winnipeg, MB R3T 6A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d24a4488955d47a48c6df7a82976a929|BN20121764|7.7.0.0|",
+				"addressLine": "1717 Waverley St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1717 Waverley St, Winnipeg, MB R3T 6A9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "West Fort Garry Industrial",
+				"postalCode": "R3T 6A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1820111,
+					49.8151029
+				]
+			},
+			"bbox": [
+				-97.1837533,
+				49.8139787,
+				-97.1802689,
+				49.816227
+			]
+		}
+	]
+}

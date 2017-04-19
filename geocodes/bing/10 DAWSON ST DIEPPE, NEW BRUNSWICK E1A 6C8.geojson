@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Dawson St, Dieppe, NB E1A 6C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f6cc742120bb448693c80ad1aeb0d637|BN20290118|7.7.0.0|",
+				"addressLine": "10 Dawson St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Dawson St, Dieppe, NB E1A 6C8, Canada",
+				"locality": "Dieppe",
+				"postalCode": "E1A 6C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7159,
+					46.10248
+				]
+			},
+			"bbox": [
+				-64.7175213,
+				46.1013558,
+				-64.7142787,
+				46.1036042
+			]
+		}
+	]
+}

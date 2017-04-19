@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Fardon Way, Ottawa, ON K1G 4N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43ebd526fec64a21a8c71f904c48d169|BN20121764|7.7.0.0|",
+				"addressLine": "21 Fardon Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Fardon Way, Ottawa, ON K1G 4N7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hunt Club Park",
+				"postalCode": "K1G 4N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6165,
+					45.372
+				]
+			},
+			"bbox": [
+				-75.6181002,
+				45.3708758,
+				-75.6148998,
+				45.3731242
+			]
+		}
+	]
+}

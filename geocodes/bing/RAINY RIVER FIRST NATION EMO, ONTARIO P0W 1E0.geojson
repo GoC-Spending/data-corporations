@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Emo, P0W 1E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef9ac5710d2d439592cef8d100192389|BN20121762|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Rainy River",
+				"countryRegion": "Canada",
+				"formattedAddress": "Emo, P0W 1E0, Canada",
+				"locality": "Emo",
+				"postalCode": "P0W 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.7681884765625,
+					48.7215156555176
+				]
+			},
+			"bbox": [
+				-93.7759946647394,
+				48.7176529379469,
+				-93.7603822883856,
+				48.7253783730883
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rainy River First Nations, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef9ac5710d2d439592cef8d100192389|BN20121762|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rainy River First Nations, Canada",
+				"locality": "Rainy River First Nations"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.9069366455078,
+					48.6549987792969
+				]
+			},
+			"bbox": [
+				-93.9653766985314,
+				48.6260283963043,
+				-93.8484965924843,
+				48.6839691622894
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "245 Strasburg Rd, Kitchener, ON N2E 3W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ffb063808c654cadbbf35acfe30dc340|BN20130447|7.7.0.0|",
+				"addressLine": "245 Strasburg Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "245 Strasburg Rd, Kitchener, ON N2E 3W7, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Alpine",
+				"postalCode": "N2E 3W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.48926,
+					43.42598
+				]
+			},
+			"bbox": [
+				-80.4908079,
+				43.4248558,
+				-80.4877121,
+				43.4271042
+			]
+		}
+	]
+}

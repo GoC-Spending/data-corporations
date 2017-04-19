@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "290 Main St, Chipman, NB E4A 2M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9dbd7517db6845258088e25e46016e2a|BN20240253|7.7.0.0|",
+				"addressLine": "290 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "290 Main St, Chipman, NB E4A 2M7, Canada",
+				"locality": "Chipman",
+				"postalCode": "E4A 2M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.8832983,
+					46.1742501
+				]
+			},
+			"bbox": [
+				-65.8849217,
+				46.1731259,
+				-65.8816749,
+				46.1753742
+			]
+		}
+	]
+}

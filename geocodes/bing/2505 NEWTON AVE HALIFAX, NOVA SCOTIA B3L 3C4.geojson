@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2505 Newton Ave, Halifax, NS B3L 3C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aed96a2d99d8476d8c580a35ae2fd1ba|BN20160335|7.7.0.0|",
+				"addressLine": "2505 Newton Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "2505 Newton Ave, Halifax, NS B3L 3C4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "West End",
+				"postalCode": "B3L 3C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.60782,
+					44.6464
+				]
+			},
+			"bbox": [
+				-63.6094001,
+				44.6452758,
+				-63.6062399,
+				44.6475242
+			]
+		}
+	]
+}

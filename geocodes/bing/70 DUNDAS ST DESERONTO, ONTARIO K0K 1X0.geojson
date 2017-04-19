@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Dundas St, Deseronto, ON K0K 1H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "846491ac443c44db98a0d208e1e92990|BN20130442|7.7.0.0|",
+				"addressLine": "70 Dundas St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Dundas St, Deseronto, ON K0K 1H0, Canada",
+				"locality": "Deseronto",
+				"postalCode": "K0K 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0627193,
+					44.196053
+				]
+			},
+			"bbox": [
+				-77.0642872,
+				44.1949288,
+				-77.0611513,
+				44.1971771
+			]
+		}
+	]
+}

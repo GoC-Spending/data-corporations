@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Pemberton Ave, North Vancouver, BC V7P 2R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6caec818c20c43d887091ecf0cdaedbe|BN20130530|7.7.0.0|",
+				"addressLine": "10 Pemberton Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Pemberton Ave, North Vancouver, BC V7P 2R1, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norgate",
+				"postalCode": "V7P 2R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1074,
+					49.31519
+				]
+			},
+			"bbox": [
+				-123.1091244,
+				49.3140658,
+				-123.1056756,
+				49.3163142
+			]
+		}
+	]
+}

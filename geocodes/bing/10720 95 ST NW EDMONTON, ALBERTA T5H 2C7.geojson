@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10720 95 St NW, Edmonton, AB T5H 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fca070162dba419cb97ad4d7ccb6c88b|BN20240253|7.7.0.0|",
+				"addressLine": "10720 95 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10720 95 St NW, Edmonton, AB T5H 2C7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McCauley",
+				"postalCode": "T5H 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48375,
+					53.55347
+				]
+			},
+			"bbox": [
+				-113.4856423,
+				53.5523458,
+				-113.4818577,
+				53.5545942
+			]
+		}
+	]
+}

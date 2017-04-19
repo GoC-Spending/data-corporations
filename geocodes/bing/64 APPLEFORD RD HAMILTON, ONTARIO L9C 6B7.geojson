@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "64 Appleford Rd, Hamilton, ON L9C 6B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "acc61a07dd8d4b809f23b9583f63f086|BN20121763|7.7.0.0|",
+				"addressLine": "64 Appleford Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "64 Appleford Rd, Hamilton, ON L9C 6B7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Fessenden",
+				"postalCode": "L9C 6B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92007,
+					43.22933
+				]
+			},
+			"bbox": [
+				-79.9216129,
+				43.2282058,
+				-79.9185271,
+				43.2304542
+			]
+		}
+	]
+}

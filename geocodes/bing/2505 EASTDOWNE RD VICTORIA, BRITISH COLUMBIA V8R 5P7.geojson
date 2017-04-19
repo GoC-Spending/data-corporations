@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2505 Eastdowne Rd, Victoria, BC V8R 5P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c43a05c4221242efa65d8c539e8dfd2d|BN20181720|7.7.0.0|",
+				"addressLine": "2505 Eastdowne Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2505 Eastdowne Rd, Victoria, BC V8R 5P7, Canada",
+				"locality": "Oak Bay",
+				"neighborhood": "Victoria",
+				"postalCode": "V8R 5P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.31642,
+					48.43647
+				]
+			},
+			"bbox": [
+				-123.3181144,
+				48.4353458,
+				-123.3147256,
+				48.4375942
+			]
+		}
+	]
+}

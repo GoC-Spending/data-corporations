@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "66 Wellington Road 7, Elora, ON N0B 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5cd8f18a58e54d918e1250da3e341ba4|BN20190653|7.7.0.0|",
+				"addressLine": "66 Wellington Road 7",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "66 Wellington Road 7, Elora, ON N0B 1S0, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Elora",
+				"postalCode": "N0B 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4252443,
+					43.6741444
+				]
+			},
+			"bbox": [
+				-80.4267985,
+				43.6730202,
+				-80.42369,
+				43.6752685
+			]
+		}
+	]
+}

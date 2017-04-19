@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4003 53 Ave NW, Edmonton, AB T6B 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6350e7a53ff340ef9c959f75010fa71e|BN20260223|7.7.0.0|",
+				"addressLine": "4003 53 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4003 53 Ave NW, Edmonton, AB T6B 3R5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Pylypow Industrial",
+				"postalCode": "T6B 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.40367,
+					53.48969
+				]
+			},
+			"bbox": [
+				-113.4055594,
+				53.4885658,
+				-113.4017806,
+				53.4908142
+			]
+		}
+	]
+}

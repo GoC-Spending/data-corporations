@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "461 Scott Rd, Sarnia, ON N7T 8G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82a6722f4a9e40e9a7c714d976b3d9da|BN20130422|7.7.0.0|",
+				"addressLine": "461 Scott Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "461 Scott Rd, Sarnia, ON N7T 8G3, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 8G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3967103,
+					42.9496094
+				]
+			},
+			"bbox": [
+				-82.3982461,
+				42.9484852,
+				-82.3951745,
+				42.9507335
+			]
+		}
+	]
+}

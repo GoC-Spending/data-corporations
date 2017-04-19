@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4911 Boulevard des Sources, Pierrefonds, QC H8Y 3C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4828c53bb07a4ff2b628947534a10fdc|BN20210145|7.7.0.0|",
+				"addressLine": "4911 Boulevard des Sources",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "4911 Boulevard des Sources, Pierrefonds, QC H8Y 3C8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H8Y 3C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.81868,
+					45.50601
+				]
+			},
+			"bbox": [
+				-73.820284,
+				45.5048858,
+				-73.817076,
+				45.5071342
+			]
+		}
+	]
+}

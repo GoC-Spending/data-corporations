@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "532 Romeo St S, Stratford, ON N5A 4V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de97b695dc2f4e8d88ceaa4d976d0f38|BN20130533|7.7.0.0|",
+				"addressLine": "532 Romeo St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "532 Romeo St S, Stratford, ON N5A 4V4, Canada",
+				"locality": "Stratford",
+				"postalCode": "N5A 4V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9633449,
+					43.3605251
+				]
+			},
+			"bbox": [
+				-80.9648911,
+				43.3594009,
+				-80.9617987,
+				43.3616492
+			]
+		}
+	]
+}

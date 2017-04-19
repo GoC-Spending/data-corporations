@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1402 Tanguay Ct, Kanata, ON K2L 3X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac71134d69014c13bb9b8998acd6abbd|BN20121764|7.7.0.0|",
+				"addressLine": "1402 Tanguay Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1402 Tanguay Ct, Kanata, ON K2L 3X7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2L 3X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8811523,
+					45.3027674
+				]
+			},
+			"bbox": [
+				-75.8827506,
+				45.3016432,
+				-75.8795541,
+				45.3038915
+			]
+		}
+	]
+}

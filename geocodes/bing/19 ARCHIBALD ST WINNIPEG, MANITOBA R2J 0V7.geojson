@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19 Archibald St, Winnipeg, MB R2J 0V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "375cb901156f4be1ab065feeecfe552b|BN20130422|7.7.0.0|",
+				"addressLine": "19 Archibald St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "19 Archibald St, Winnipeg, MB R2J 0V7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North St Boniface",
+				"postalCode": "R2J 0V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1074299,
+					49.9017
+				]
+			},
+			"bbox": [
+				-97.1091752,
+				49.9005758,
+				-97.1056846,
+				49.9028242
+			]
+		}
+	]
+}

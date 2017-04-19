@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "133 Bridgeland Ave, North York, ON M6A 1Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18d82ad29d5d47a880b423ded97ef91d|BN20210145|7.7.0.0|",
+				"addressLine": "133 Bridgeland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "133 Bridgeland Ave, North York, ON M6A 1Y7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6A 1Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46315,
+					43.72492
+				]
+			},
+			"bbox": [
+				-79.4647056,
+				43.7237958,
+				-79.4615944,
+				43.7260442
+			]
+		}
+	]
+}

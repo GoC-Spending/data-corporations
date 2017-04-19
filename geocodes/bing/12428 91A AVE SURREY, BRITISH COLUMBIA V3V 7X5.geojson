@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12428 91A Ave, Surrey, BC V3V 7X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0c1045983f2401181486156d2f78018|BN20220145|7.7.0.0|",
+				"addressLine": "12428 91A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12428 91A Ave, Surrey, BC V3V 7X5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 7X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8784067,
+					49.1691737
+				]
+			},
+			"bbox": [
+				-122.880126,
+				49.1680495,
+				-122.8766874,
+				49.1702978
+			]
+		}
+	]
+}

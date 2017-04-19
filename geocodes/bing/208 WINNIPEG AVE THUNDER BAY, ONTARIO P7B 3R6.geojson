@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 Winnipeg Ave, Thunder Bay, ON P7B 3R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0dfe6a6dad5f44b2aaa2c015c9e562b4|BN20181720|7.7.0.0|",
+				"addressLine": "208 Winnipeg Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 Winnipeg Ave, Thunder Bay, ON P7B 3R6, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7B 3R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.24037,
+					48.4313999
+				]
+			},
+			"bbox": [
+				-89.2420642,
+				48.4302757,
+				-89.2386758,
+				48.4325241
+			]
+		}
+	]
+}

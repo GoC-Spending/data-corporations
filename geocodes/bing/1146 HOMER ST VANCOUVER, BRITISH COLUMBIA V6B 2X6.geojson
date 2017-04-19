@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1146 Homer St, Vancouver, BC V6B 2X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65f7b3185d1a45a7ba0e69e7c580af0f|BN20130721|7.7.0.0|",
+				"addressLine": "1146 Homer St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1146 Homer St, Vancouver, BC V6B 2X6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Yaletown",
+				"postalCode": "V6B 2X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1221729,
+					49.2758049
+				]
+			},
+			"bbox": [
+				-123.1238959,
+				49.2746807,
+				-123.1204498,
+				49.276929
+			]
+		}
+	]
+}

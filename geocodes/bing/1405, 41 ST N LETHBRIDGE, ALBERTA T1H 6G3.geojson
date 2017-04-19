@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1405 41 St N, Lethbridge, AB T1H 6G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca5cce271a034aa4b9bf3fbe57ef9970|BN20300154|7.7.0.0|",
+				"addressLine": "1405 41 St N",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1405 41 St N, Lethbridge, AB T1H 6G3, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1H 6G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.78007,
+					49.71862
+				]
+			},
+			"bbox": [
+				-112.7818087,
+				49.7174958,
+				-112.7783313,
+				49.7197442
+			]
+		}
+	]
+}

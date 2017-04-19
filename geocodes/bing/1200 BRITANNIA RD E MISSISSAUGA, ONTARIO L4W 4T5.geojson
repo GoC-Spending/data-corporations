@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1200 Britannia Rd E, Mississauga, ON L4W 4T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8eb8231747fc4c17945d6be962d72ea7|BN20130422|7.7.0.0|",
+				"addressLine": "1200 Britannia Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1200 Britannia Rd E, Mississauga, ON L4W 4T5, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4W 4T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6531399,
+					43.6496
+				]
+			},
+			"bbox": [
+				-79.6546935,
+				43.6484758,
+				-79.6515863,
+				43.6507242
+			]
+		}
+	]
+}

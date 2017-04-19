@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Avenue Milton, Lachine, QC H8R 1K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f62783ab96847ca92f6bd6748e4f73c|BN20160335|7.7.0.0|",
+				"addressLine": "55 Avenue Milton",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Avenue Milton, Lachine, QC H8R 1K6, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8R 1K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.64823,
+					45.44776
+				]
+			},
+			"bbox": [
+				-73.6498324,
+				45.4466358,
+				-73.6466276,
+				45.4488842
+			]
+		}
+	]
+}

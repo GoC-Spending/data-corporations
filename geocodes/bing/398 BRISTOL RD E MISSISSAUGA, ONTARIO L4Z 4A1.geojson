@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "398 Bristol Rd E, Mississauga, ON L4Z 4A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "96710bdbac8f439080da805cd4807240|BN20130423|7.7.0.0|",
+				"addressLine": "398 Bristol Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "398 Bristol Rd E, Mississauga, ON L4Z 4A1, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Z 4A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.65115,
+					43.61891
+				]
+			},
+			"bbox": [
+				-79.6527028,
+				43.6177858,
+				-79.6495972,
+				43.6200342
+			]
+		}
+	]
+}

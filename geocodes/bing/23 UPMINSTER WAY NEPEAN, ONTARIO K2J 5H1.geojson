@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Upminster Way, Nepean, ON K2J 5H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "634566f124d44d24aa3fdf12ba14df27|BN20130423|7.7.0.0|",
+				"addressLine": "23 Upminster Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Upminster Way, Nepean, ON K2J 5H1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 5H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73581,
+					45.2839699
+				]
+			},
+			"bbox": [
+				-75.7374077,
+				45.2828457,
+				-75.7342123,
+				45.2850941
+			]
+		}
+	]
+}

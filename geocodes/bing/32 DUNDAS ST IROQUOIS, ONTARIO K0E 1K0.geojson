@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Dundas St, South Dundas, ON K0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9acc83ee8a2f4181b83a022c1f232019|BN20190642|7.7.0.0|",
+				"addressLine": "32 Dundas St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Dundas St, South Dundas, ON K0E, Canada",
+				"locality": "South Dundas",
+				"neighborhood": "Iroquois",
+				"postalCode": "K0E 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.31922,
+					44.84661
+				]
+			},
+			"bbox": [
+				-75.3208056,
+				44.8454858,
+				-75.3176344,
+				44.8477342
+			]
+		}
+	]
+}

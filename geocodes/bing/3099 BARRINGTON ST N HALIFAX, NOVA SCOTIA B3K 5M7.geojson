@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3099 Barrington St, Halifax, NS B3K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8e84320801747bea04d599d04045e84|BN20121763|7.7.0.0|",
+				"addressLine": "3099 Barrington St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "3099 Barrington St, Halifax, NS B3K, Canada",
+				"locality": "Halifax",
+				"neighborhood": "North End",
+				"postalCode": "B3K 5M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5945047,
+					44.6649471
+				]
+			},
+			"bbox": [
+				-63.5960853,
+				44.663823,
+				-63.5929241,
+				44.6660713
+			]
+		}
+	]
+}

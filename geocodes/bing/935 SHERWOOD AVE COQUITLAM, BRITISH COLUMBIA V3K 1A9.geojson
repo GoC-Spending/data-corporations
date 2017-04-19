@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "935 Sherwood Ave, Coquitlam, BC V3K 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "144a6ef8df1f4b6ea269a3d7ae0027d0|BN20250135|7.7.0.0|",
+				"addressLine": "935 Sherwood Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "935 Sherwood Ave, Coquitlam, BC V3K 1A9, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Maillardville",
+				"postalCode": "V3K 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87053,
+					49.2356
+				]
+			},
+			"bbox": [
+				-122.8722517,
+				49.2344758,
+				-122.8688083,
+				49.2367242
+			]
+		}
+	]
+}

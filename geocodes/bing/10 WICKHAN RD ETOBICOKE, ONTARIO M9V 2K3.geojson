@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Wickham Ct, Etobicoke, ON M9V 2K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f05e6f2937034ba9a34d9113955fcef1|BN20130530|7.7.0.0|",
+				"addressLine": "10 Wickham Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Wickham Ct, Etobicoke, ON M9V 2K3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Olive-Silverstone-Jamestown",
+				"postalCode": "M9V 2K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58834,
+					43.75218
+				]
+			},
+			"bbox": [
+				-79.5898963,
+				43.7510558,
+				-79.5867837,
+				43.7533042
+			]
+		}
+	]
+}

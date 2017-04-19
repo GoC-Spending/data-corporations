@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38950 Queens Way, Squamish, BC V8B 0K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c09d08e4b7954433a7d48c316dfcfd42|BN20290118|7.7.0.0|",
+				"addressLine": "38950 Queens Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Squamish-Lillooet",
+				"countryRegion": "Canada",
+				"formattedAddress": "38950 Queens Way, Squamish, BC V8B 0K8, Canada",
+				"locality": "Squamish",
+				"postalCode": "V8B 0K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.15356,
+					49.72092
+				]
+			},
+			"bbox": [
+				-123.1552988,
+				49.7197958,
+				-123.1518212,
+				49.7220442
+			]
+		}
+	]
+}

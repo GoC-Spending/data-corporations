@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ottawa, K2A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9587698cbe9547b3bd1c8520b429dae4|BN20130621|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ottawa, K2A, Canada",
+				"locality": "Ottawa",
+				"postalCode": "K2A"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7679672241211,
+					45.3755073547363
+				]
+			},
+			"bbox": [
+				-75.8019638061523,
+				45.3415107727051,
+				-75.7339630126953,
+				45.410099029541
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Belle Plaine, KS 67013",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9587698cbe9547b3bd1c8520b429dae4|BN20130621|7.7.0.0|",
+				"adminDistrict": "KS",
+				"adminDistrict2": "Sumner",
+				"countryRegion": "United States",
+				"formattedAddress": "Belle Plaine, KS 67013",
+				"locality": "Belle Plaine",
+				"postalCode": "67013"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2798461914063,
+					37.3954086303711
+				]
+			},
+			"bbox": [
+				-97.3857574462891,
+				37.3102684020996,
+				-97.1635055541992,
+				37.4513282775879
+			]
+		}
+	]
+}

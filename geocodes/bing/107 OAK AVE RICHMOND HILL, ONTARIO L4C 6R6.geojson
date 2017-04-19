@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Oak Ave, Richmond Hill, ON L4C 6R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4cdbb200d254112aa4995cba03e5867|BN20200239|7.7.0.0|",
+				"addressLine": "107 Oak Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Oak Ave, Richmond Hill, ON L4C 6R6, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Richvale",
+				"postalCode": "L4C 6R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44161,
+					43.84755
+				]
+			},
+			"bbox": [
+				-79.4431688,
+				43.8464258,
+				-79.4400512,
+				43.8486742
+			]
+		}
+	]
+}

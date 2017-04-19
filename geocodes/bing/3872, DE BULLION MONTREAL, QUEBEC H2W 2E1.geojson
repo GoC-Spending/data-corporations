@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3872 Rue de Bullion, Montreal, QC H2W 2E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d65df3c21c9942a1b7bbb6547b714f50|BN20130625|7.7.0.0|",
+				"addressLine": "3872 Rue de Bullion",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "3872 Rue de Bullion, Montreal, QC H2W 2E1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Plateau Mont-Royal",
+				"postalCode": "H2W 2E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57586,
+					45.51706
+				]
+			},
+			"bbox": [
+				-73.5774643,
+				45.5159358,
+				-73.5742557,
+				45.5181842
+			]
+		}
+	]
+}

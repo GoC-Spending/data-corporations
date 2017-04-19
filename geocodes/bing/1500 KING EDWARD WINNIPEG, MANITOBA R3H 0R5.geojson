@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1500 King Edward St, Winnipeg, MB R3H 0R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6036adb7608a48808987a70fae8cea45|BN20130442|7.7.0.0|",
+				"addressLine": "1500 King Edward St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1500 King Edward St, Winnipeg, MB R3H 0R5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20753,
+					49.91416
+				]
+			},
+			"bbox": [
+				-97.2092758,
+				49.9130358,
+				-97.2057842,
+				49.9152842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "255 Dundas St E, Hamilton, ON L0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fe262a629b4423d8687972087efff10|BN20160335|7.7.0.0|",
+				"addressLine": "255 Dundas St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "255 Dundas St E, Hamilton, ON L0R, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Waterdown",
+				"postalCode": "L0R 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89711,
+					43.33022
+				]
+			},
+			"bbox": [
+				-79.8986554,
+				43.3290958,
+				-79.8955646,
+				43.3313442
+			]
+		}
+	]
+}

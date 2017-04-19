@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3016 Orillia St, Victoria, BC V9A 1Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d3d90b00bc1446f941ef446ee142990|BN20290118|7.7.0.0|",
+				"addressLine": "3016 Orillia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3016 Orillia St, Victoria, BC V9A 1Y8, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V9A 1Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.39563,
+					48.44945
+				]
+			},
+			"bbox": [
+				-123.3973248,
+				48.4483258,
+				-123.3939352,
+				48.4505742
+			]
+		}
+	]
+}

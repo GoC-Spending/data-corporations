@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14903 137 Ave NW, Edmonton, AB T5V 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45b301a0d3344cc584d34d8b7ec289da|BN20130533|7.7.0.0|",
+				"addressLine": "14903 137 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14903 137 Ave NW, Edmonton, AB T5V 1R9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Mistatim Industrial",
+				"postalCode": "T5V 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.58666,
+					53.5975899
+				]
+			},
+			"bbox": [
+				-113.5885543,
+				53.5964657,
+				-113.5847657,
+				53.5987141
+			]
+		}
+	]
+}

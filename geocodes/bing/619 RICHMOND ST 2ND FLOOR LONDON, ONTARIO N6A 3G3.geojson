@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "619 Richmond St, London, ON N6A 3G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01e13dbf866349ccb8b892576dee2ce4|BN20130632|7.7.0.0|",
+				"addressLine": "619 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "619 Richmond St, London, ON N6A 3G3, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 3G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2512,
+					42.9912
+				]
+			},
+			"bbox": [
+				-81.2527369,
+				42.9900758,
+				-81.2496631,
+				42.9923242
+			]
+		}
+	]
+}

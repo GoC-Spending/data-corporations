@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Hastings St N, Bancroft, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a51716686a745c0aaf259d329a9ff88|BN20121762|7.7.0.0|",
+				"addressLine": "99 Hastings St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Hastings St N, Bancroft, ON K0L, Canada",
+				"locality": "Bancroft",
+				"postalCode": "K0L 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.85445,
+					45.05954
+				]
+			},
+			"bbox": [
+				-77.8560414,
+				45.0584158,
+				-77.8528586,
+				45.0606642
+			]
+		}
+	]
+}

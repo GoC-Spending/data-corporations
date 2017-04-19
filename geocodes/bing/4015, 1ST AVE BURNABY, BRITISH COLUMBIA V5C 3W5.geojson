@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4015 1st Ave, Burnaby, BC V5C 3W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2dec7082f1f1401f8bf8e7ca0bd5e282|BN20130422|7.7.0.0|",
+				"addressLine": "4015 1st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4015 1st Ave, Burnaby, BC V5C 3W5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 3W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0159272,
+					49.2694749
+				]
+			},
+			"bbox": [
+				-123.01765,
+				49.2683507,
+				-123.0142044,
+				49.2705991
+			]
+		}
+	]
+}

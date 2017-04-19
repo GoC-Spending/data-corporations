@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Maillard St, Cape Breton, NS B1S 3W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0785080831bf42c1942a40e53f88715f|BN20130520|7.7.0.0|",
+				"addressLine": "60 Maillard St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Maillard St, Cape Breton, NS B1S 3W3, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1S 3W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.1917639,
+					46.1210121
+				]
+			},
+			"bbox": [
+				-60.1933857,
+				46.119888,
+				-60.1901421,
+				46.1221363
+			]
+		}
+	]
+}

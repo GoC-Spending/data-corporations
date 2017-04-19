@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8770 170 St NW, Edmonton, AB T5T 3J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de0c1390a3f8429caff8a941fb6e43ac|BN20200137|7.7.0.0|",
+				"addressLine": "8770 170 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8770 170 St NW, Edmonton, AB T5T 3J7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Summerlea",
+				"postalCode": "T5T 3J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6155849,
+					53.5232186
+				]
+			},
+			"bbox": [
+				-113.6174758,
+				53.5220945,
+				-113.613694,
+				53.5243428
+			]
+		}
+	]
+}

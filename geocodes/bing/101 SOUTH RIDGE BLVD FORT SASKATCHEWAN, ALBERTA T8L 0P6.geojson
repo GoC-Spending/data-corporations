@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Southridge Blvd, Fort Saskatchewan, AB T8L 0P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7478018eb2204e04b49c3f51657099cc|BN20280152|7.7.0.0|",
+				"addressLine": "101 Southridge Blvd",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Southridge Blvd, Fort Saskatchewan, AB T8L 0P6, Canada",
+				"locality": "Fort Saskatchewan",
+				"postalCode": "T8L 0P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.24337,
+					53.67365
+				]
+			},
+			"bbox": [
+				-113.2452677,
+				53.6725258,
+				-113.2414723,
+				53.6747742
+			]
+		}
+	]
+}

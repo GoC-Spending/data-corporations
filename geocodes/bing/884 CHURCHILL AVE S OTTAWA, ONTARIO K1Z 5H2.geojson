@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "884 Churchill Ave S, Ottawa, ON K1Z 5H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f8b019213bad41589fceefcbafca540c|BN20130621|7.7.0.0|",
+				"addressLine": "884 Churchill Ave S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "884 Churchill Ave S, Ottawa, ON K1Z 5H2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carlington",
+				"postalCode": "K1Z 5H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.74567,
+					45.37776
+				]
+			},
+			"bbox": [
+				-75.7472704,
+				45.3766358,
+				-75.7440696,
+				45.3788842
+			]
+		}
+	]
+}

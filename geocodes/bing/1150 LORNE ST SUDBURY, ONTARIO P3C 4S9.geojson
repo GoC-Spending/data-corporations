@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1150 Lorne St, Sudbury, ON P3C 4S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54a9cab83bba4564874c841155be5002|BN20171457|7.7.0.0|",
+				"addressLine": "1150 Lorne St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "1150 Lorne St, Sudbury, ON P3C 4S9, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3C 4S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.03081,
+					46.47089
+				]
+			},
+			"bbox": [
+				-81.0324422,
+				46.4697658,
+				-81.0291778,
+				46.4720142
+			]
+		}
+	]
+}

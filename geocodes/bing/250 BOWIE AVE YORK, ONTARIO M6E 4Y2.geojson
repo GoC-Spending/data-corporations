@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Bowie Ave, York, ON M6E 4Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a20f7fcbe2647a1bc9d5a16ce91a348|BN20130721|7.7.0.0|",
+				"addressLine": "250 Bowie Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Bowie Ave, York, ON M6E 4Y2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Briar Hill-Belgravia",
+				"postalCode": "M6E 4Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46402,
+					43.69543
+				]
+			},
+			"bbox": [
+				-79.4655748,
+				43.6943058,
+				-79.4624652,
+				43.6965542
+			]
+		}
+	]
+}

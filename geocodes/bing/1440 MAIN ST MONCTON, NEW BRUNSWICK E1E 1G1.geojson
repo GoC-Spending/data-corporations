@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1440 Main St, Moncton, NB E1E 1G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "445b8e616281477490164b45eb0258c5|BN20130422|7.7.0.0|",
+				"addressLine": "1440 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "1440 Main St, Moncton, NB E1E 1G1, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1E 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7909899,
+					46.08431
+				]
+			},
+			"bbox": [
+				-64.7926107,
+				46.0831858,
+				-64.7893691,
+				46.0854342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9088 Yonge St, Richmond Hill, ON L4C 0Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "226c5971128f4455b570b3634eafe294|BN20171457|7.7.0.0|",
+				"addressLine": "9088 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "9088 Yonge St, Richmond Hill, ON L4C 0Y6, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Richvale",
+				"postalCode": "L4C 0Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43276,
+					43.8485299
+				]
+			},
+			"bbox": [
+				-79.4343188,
+				43.8474057,
+				-79.4312012,
+				43.8496541
+			]
+		}
+	]
+}

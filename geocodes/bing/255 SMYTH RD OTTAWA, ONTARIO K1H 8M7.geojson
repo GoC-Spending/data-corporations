@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "255 Smyth Rd, Ottawa, ON K1H 8M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2e64f76fb8a418395e0726637a64ad9|BN20130520|7.7.0.0|",
+				"addressLine": "255 Smyth Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "255 Smyth Rd, Ottawa, ON K1H 8M7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1H 8M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66044,
+					45.3990099
+				]
+			},
+			"bbox": [
+				-75.662041,
+				45.3978857,
+				-75.658839,
+				45.4001341
+			]
+		}
+	]
+}

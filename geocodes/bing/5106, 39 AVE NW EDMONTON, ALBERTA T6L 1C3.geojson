@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5106 39 Ave NW, Edmonton, AB T6L 1C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb13f77456574720833817162ab72838|BN20121764|7.7.0.0|",
+				"addressLine": "5106 39 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5106 39 Ave NW, Edmonton, AB T6L 1C3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Greenview",
+				"postalCode": "T6L 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4164,
+					53.47267
+				]
+			},
+			"bbox": [
+				-113.4182887,
+				53.4715458,
+				-113.4145113,
+				53.4737942
+			]
+		}
+	]
+}

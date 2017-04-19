@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4944 Continental Way, Prince George, BC V2N 5S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5bee64bf98a445a88738355e66eb82f|BN20190642|7.7.0.0|",
+				"addressLine": "4944 Continental Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "4944 Continental Way, Prince George, BC V2N 5S5, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2N 5S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.73379,
+					53.87602
+				]
+			},
+			"bbox": [
+				-122.7356968,
+				53.8748958,
+				-122.7318832,
+				53.8771442
+			]
+		}
+	]
+}

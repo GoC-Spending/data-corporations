@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rue Chabanel, Chicoutimi, QC G7H 2R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47481f4317304d09ad216bd6002824ff|BN20130442|7.7.0.0|",
+				"addressLine": "Rue Chabanel",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Saguenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rue Chabanel, Chicoutimi, QC G7H 2R2, Canada",
+				"locality": "Saguenay",
+				"neighborhood": "Chicoutimi",
+				"postalCode": "G7H 2R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.046325,
+					48.41552
+				]
+			},
+			"bbox": [
+				-71.04706,
+				48.41452,
+				-71.03363,
+				48.42483
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "184 Crown Ct, Whitby, ON L1N 7B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e1d054f09b5a4992bac5a54e8aa6514f|BN20130620|7.7.0.0|",
+				"addressLine": "184 Crown Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "184 Crown Ct, Whitby, ON L1N 7B1, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 7B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8876435,
+					43.8630161
+				]
+			},
+			"bbox": [
+				-78.8892026,
+				43.861892,
+				-78.8860843,
+				43.8641403
+			]
+		}
+	]
+}

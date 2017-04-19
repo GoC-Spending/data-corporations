@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "North Bay, P1C 0B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61306977e4e44c16b7f9e3390618104c|BN20121764|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "North Bay, P1C 0B8, Canada",
+				"locality": "North Bay",
+				"postalCode": "P1C 0B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4272155761719,
+					46.3375930786133
+				]
+			},
+			"bbox": [
+				-79.4346748278252,
+				46.3337303610426,
+				-79.4197563245185,
+				46.341455796184
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Island",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Cres, Primorje-Gorski, Croatia",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61306977e4e44c16b7f9e3390618104c|BN20121764|7.7.0.0|",
+				"adminDistrict": "Primorje-Gorski",
+				"countryRegion": "Croatia",
+				"formattedAddress": "Cres, Primorje-Gorski, Croatia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.4009809494019,
+					44.8727569580078
+				]
+			},
+			"bbox": [
+				14.2725095748901,
+				44.602481842041,
+				14.5449895858765,
+				45.1756706237793
+			]
+		}
+	]
+}

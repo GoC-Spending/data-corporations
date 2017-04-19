@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "215 Water St, Port Perry, ON L9L 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "59a1a95c2c0b4977b7b827d6ca5f43c1|BN20121763|7.7.0.0|",
+				"addressLine": "215 Water St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "215 Water St, Port Perry, ON L9L 1C4, Canada",
+				"locality": "Scugog",
+				"neighborhood": "Port Perry",
+				"postalCode": "L9L 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94185,
+					44.10638
+				]
+			},
+			"bbox": [
+				-78.9434156,
+				44.1052558,
+				-78.9402844,
+				44.1075042
+			]
+		}
+	]
+}

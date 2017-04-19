@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23260 Fraserwood Way, Richmond, BC V6V 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3d006a15c89405190c97760328d593e|BN20200137|7.7.0.0|",
+				"addressLine": "23260 Fraserwood Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "23260 Fraserwood Way, Richmond, BC V6V 3C7, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Hamilton",
+				"postalCode": "V6V 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.96423,
+					49.17153
+				]
+			},
+			"bbox": [
+				-122.9659494,
+				49.1704058,
+				-122.9625106,
+				49.1726542
+			]
+		}
+	]
+}

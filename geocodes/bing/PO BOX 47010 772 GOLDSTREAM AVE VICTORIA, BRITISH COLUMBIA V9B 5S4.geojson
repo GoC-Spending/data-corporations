@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Victoria, V9B 5S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fb91f7b08a542d5bf7ea7feae743fe7|BN20130532|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "Victoria, V9B 5S4, Canada",
+				"locality": "Victoria",
+				"postalCode": "V9B 5S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.364448547363,
+					48.4283103942871
+				]
+			},
+			"bbox": [
+				-123.372209601035,
+				48.4244476767164,
+				-123.356687493691,
+				48.4321731118578
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Bath, IN 47010",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fb91f7b08a542d5bf7ea7feae743fe7|BN20130532|7.7.0.0|",
+				"adminDistrict": "IN",
+				"adminDistrict2": "Franklin",
+				"countryRegion": "United States",
+				"formattedAddress": "Bath, IN 47010",
+				"locality": "Bath",
+				"postalCode": "47010"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.8190689086914,
+					39.484317779541
+				]
+			},
+			"bbox": [
+				-84.8638305664063,
+				39.4682693481445,
+				-84.8153381347656,
+				39.529369354248
+			]
+		}
+	]
+}

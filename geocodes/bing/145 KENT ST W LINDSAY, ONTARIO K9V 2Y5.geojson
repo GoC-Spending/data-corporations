@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "145 Kent St W, Lindsay, ON K9V 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad59937d018c42d7b09325047ced9ffd|BN20220145|7.7.0.0|",
+				"addressLine": "145 Kent St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "145 Kent St W, Lindsay, ON K9V 2Y5, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Lindsay",
+				"postalCode": "K9V 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7383399,
+					44.35425
+				]
+			},
+			"bbox": [
+				-78.7399121,
+				44.3531258,
+				-78.7367677,
+				44.3553742
+			]
+		}
+	]
+}

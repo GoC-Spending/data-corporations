@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2216 E 41st Ave, Vancouver, BC V5P 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e73f9d54f3334b0db64b4f206e387125|BN20130632|7.7.0.0|",
+				"addressLine": "2216 E 41st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2216 E 41st Ave, Vancouver, BC V5P 1L6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Victoria-Fraserview",
+				"postalCode": "V5P 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06162,
+					49.23261
+				]
+			},
+			"bbox": [
+				-123.0633415,
+				49.2314858,
+				-123.0598985,
+				49.2337342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Metcalfe St, Ottawa, ON K1P 5L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "060da9b043f6497fb34501211fda525a|BN20181720|7.7.0.0|",
+				"addressLine": "30 Metcalfe St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Metcalfe St, Ottawa, ON K1P 5L4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1P 5L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6971731,
+					45.4222327
+				]
+			},
+			"bbox": [
+				-75.6987747,
+				45.4211085,
+				-75.6955714,
+				45.4233568
+			]
+		}
+	]
+}

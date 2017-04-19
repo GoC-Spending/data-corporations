@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "456 Humber Pl, Delta, BC V3M 6A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "929fbe9748334a2395e0ff5829ea7314|BN20130625|7.7.0.0|",
+				"addressLine": "456 Humber Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "456 Humber Pl, Delta, BC V3M 6A5, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 6A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9443299,
+					49.1649655
+				]
+			},
+			"bbox": [
+				-122.9460491,
+				49.1638414,
+				-122.9426107,
+				49.1660897
+			]
+		}
+	]
+}

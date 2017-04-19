@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Rue Valmont, Repentigny, QC J5Y 1S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed244d3a242f4734a00f7014590c675f|BN20130423|7.7.0.0|",
+				"addressLine": "123 Rue Valmont",
+				"adminDistrict": "QC",
+				"adminDistrict2": "L'Assomption",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Rue Valmont, Repentigny, QC J5Y 1S7, Canada",
+				"locality": "Repentigny",
+				"postalCode": "J5Y 1S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.43182,
+					45.76348
+				]
+			},
+			"bbox": [
+				-73.4334314,
+				45.7623558,
+				-73.4302086,
+				45.7646042
+			]
+		}
+	]
+}

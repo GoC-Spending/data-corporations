@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Royal Oak Pt NW, Calgary, AB T3G 5C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38d400f4b83340ceab81bd074e668b4a|BN20200239|7.7.0.0|",
+				"addressLine": "130 Royal Oak Pt NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Royal Oak Pt NW, Calgary, AB T3G 5C6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Royal Oak",
+				"postalCode": "T3G 5C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.2332,
+					51.15023
+				]
+			},
+			"bbox": [
+				-114.2349921,
+				51.1491058,
+				-114.2314079,
+				51.1513542
+			]
+		}
+	]
+}

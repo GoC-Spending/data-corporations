@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5448 Dundas St W, Etobicoke, ON M9B 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aecc7a3184234931adbcefbd0fe501bc|BN20130632|7.7.0.0|",
+				"addressLine": "5448 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5448 Dundas St W, Etobicoke, ON M9B 1B4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M9B 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54268,
+					43.6338
+				]
+			},
+			"bbox": [
+				-79.5442332,
+				43.6326758,
+				-79.5411268,
+				43.6349242
+			]
+		}
+	]
+}

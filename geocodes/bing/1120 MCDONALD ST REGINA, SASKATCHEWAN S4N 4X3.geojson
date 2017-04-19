@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1120 McDonald St, Regina, SK S4N 4X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f1a6d5dda72449d9a21bf3972a74f914|BN20130620|7.7.0.0|",
+				"addressLine": "1120 McDonald St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1120 McDonald St, Regina, SK S4N 4X3, Canada",
+				"locality": "Regina",
+				"neighborhood": "Eastview",
+				"postalCode": "S4N 4X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.5840599,
+					50.4611
+				]
+			},
+			"bbox": [
+				-104.5858258,
+				50.4599758,
+				-104.582294,
+				50.4622242
+			]
+		}
+	]
+}

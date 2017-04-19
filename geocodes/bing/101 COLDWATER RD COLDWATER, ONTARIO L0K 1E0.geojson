@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Coldwater Rd, Coldwater, ON L0K 1E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf7a89913f5840e3ab897fa53007cffe|BN20160335|7.7.0.0|",
+				"addressLine": "101 Coldwater Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Coldwater Rd, Coldwater, ON L0K 1E0, Canada",
+				"locality": "Severn",
+				"neighborhood": "Coldwater",
+				"postalCode": "L0K 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.63961,
+					44.69926
+				]
+			},
+			"bbox": [
+				-79.6411915,
+				44.6981358,
+				-79.6380285,
+				44.7003842
+			]
+		}
+	]
+}

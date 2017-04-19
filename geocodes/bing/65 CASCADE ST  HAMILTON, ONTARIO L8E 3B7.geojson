@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "65 Cascade St, Hamilton, ON L8E 3B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1bfab11bb294290918b7c56d307a3a1|BN20131519|7.7.0.0|",
+				"addressLine": "65 Cascade St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "65 Cascade St, Hamilton, ON L8E 3B7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Lakely",
+				"postalCode": "L8E 3B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75594,
+					43.24031
+				]
+			},
+			"bbox": [
+				-79.7574831,
+				43.2391858,
+				-79.7543969,
+				43.2414342
+			]
+		}
+	]
+}

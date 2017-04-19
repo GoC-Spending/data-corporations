@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2351 Brimley Rd, Scarborough, ON M1S 3L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bde50e1ca9d949e4b75bf361b0804629|BN20121762|7.7.0.0|",
+				"addressLine": "2351 Brimley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2351 Brimley Rd, Scarborough, ON M1S 3L6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt North",
+				"postalCode": "M1S 3L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2731083,
+					43.7982706
+				]
+			},
+			"bbox": [
+				-79.2746658,
+				43.7971465,
+				-79.2715509,
+				43.7993948
+			]
+		}
+	]
+}

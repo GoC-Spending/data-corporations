@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "670 Industrial Rd, London, ON N5V 1V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "057d46e2e22249e9874f6c3967bf95f9|BN20300154|7.7.0.0|",
+				"addressLine": "670 Industrial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "670 Industrial Rd, London, ON N5V 1V1, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 1V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1635,
+					43.0201
+				]
+			},
+			"bbox": [
+				-81.1650376,
+				43.0189758,
+				-81.1619624,
+				43.0212242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7007 Oak St, Vancouver, BC V6P 3Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99305664468c4fd6a12b98b7de3086f9|BN20121762|7.7.0.0|",
+				"addressLine": "7007 Oak St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7007 Oak St, Vancouver, BC V6P 3Z8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kerrisdale",
+				"postalCode": "V6P 3Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1289,
+					49.22263
+				]
+			},
+			"bbox": [
+				-123.1306212,
+				49.2215058,
+				-123.1271788,
+				49.2237542
+			]
+		}
+	]
+}

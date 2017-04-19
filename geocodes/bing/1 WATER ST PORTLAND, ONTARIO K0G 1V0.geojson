@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Water St W, Rideau Lakes, ON K0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b832cabe01ae4a85b5b3f5378b521321|BN20210145|7.7.0.0|",
+				"addressLine": "1 Water St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Water St W, Rideau Lakes, ON K0G, Canada",
+				"locality": "Rideau Lakes",
+				"neighborhood": "Portland",
+				"postalCode": "K0G 1V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.19623,
+					44.69791
+				]
+			},
+			"bbox": [
+				-76.1978115,
+				44.6967858,
+				-76.1946485,
+				44.6990342
+			]
+		}
+	]
+}

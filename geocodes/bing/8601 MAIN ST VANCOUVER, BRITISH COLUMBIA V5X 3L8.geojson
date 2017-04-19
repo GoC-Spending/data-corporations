@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8601 Main St, Vancouver, BC V5X 0E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b19a1e62adbd46df91b702efd51f89e6|BN20130533|7.7.0.0|",
+				"addressLine": "8601 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8601 Main St, Vancouver, BC V5X 0E6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Sunset",
+				"postalCode": "V5X 0E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1026016,
+					49.2070607
+				]
+			},
+			"bbox": [
+				-123.1043223,
+				49.2059366,
+				-123.100881,
+				49.2081849
+			]
+		}
+	]
+}

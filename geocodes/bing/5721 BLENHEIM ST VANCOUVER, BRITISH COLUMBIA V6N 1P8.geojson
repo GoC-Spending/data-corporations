@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5721 Blenheim St, Vancouver, BC V6N 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1a8313c7c8fb42b2864432219f045dd0|BN20130620|7.7.0.0|",
+				"addressLine": "5721 Blenheim St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5721 Blenheim St, Vancouver, BC V6N 1P8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6N 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17907,
+					49.23445
+				]
+			},
+			"bbox": [
+				-123.1807916,
+				49.2333258,
+				-123.1773484,
+				49.2355742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Leswyn Rd, North York, ON M6A 1K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f5fb7a515ad422dbfcb9a9c4e882183|BN20200239|7.7.0.0|",
+				"addressLine": "12 Leswyn Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Leswyn Rd, North York, ON M6A 1K3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6A 1K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4661474,
+					43.7161812
+				]
+			},
+			"bbox": [
+				-79.4677028,
+				43.7150571,
+				-79.4645921,
+				43.7173054
+			]
+		}
+	]
+}

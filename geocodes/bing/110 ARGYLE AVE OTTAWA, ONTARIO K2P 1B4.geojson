@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Argyle Ave, Ottawa, ON K2P 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fbb0f8598ce4b1db50f2bb282d67fde|BN20300154|7.7.0.0|",
+				"addressLine": "110 Argyle Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Argyle Ave, Ottawa, ON K2P 1B4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K2P 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68741,
+					45.41226
+				]
+			},
+			"bbox": [
+				-75.6890114,
+				45.4111358,
+				-75.6858086,
+				45.4133842
+			]
+		}
+	]
+}

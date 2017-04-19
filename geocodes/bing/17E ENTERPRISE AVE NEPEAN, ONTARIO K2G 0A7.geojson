@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Enterprise Ave, Nepean, ON K2G 0A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e03031d2e9064028972830aec6124d54|BN20190642|7.7.0.0|",
+				"addressLine": "17 Enterprise Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Enterprise Ave, Nepean, ON K2G 0A7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 0A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72369,
+					45.32967
+				]
+			},
+			"bbox": [
+				-75.725289,
+				45.3285458,
+				-75.722091,
+				45.3307942
+			]
+		}
+	]
+}

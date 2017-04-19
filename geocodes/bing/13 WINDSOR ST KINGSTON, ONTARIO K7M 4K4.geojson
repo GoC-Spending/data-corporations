@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13 Windsor St, Kingston, ON K7M 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f5c751284614bdd9a32325ab9ff4928|BN20130620|7.7.0.0|",
+				"addressLine": "13 Windsor St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "13 Windsor St, Kingston, ON K7M 4K4, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Reddendale",
+				"postalCode": "K7M 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.57269,
+					44.21635
+				]
+			},
+			"bbox": [
+				-76.5742585,
+				44.2152258,
+				-76.5711215,
+				44.2174742
+			]
+		}
+	]
+}

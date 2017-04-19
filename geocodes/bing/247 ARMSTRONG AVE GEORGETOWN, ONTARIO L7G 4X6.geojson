@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "247 Armstrong Ave, Georgetown, ON L7G 4X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25838f607dc64a57b7f51700d8ae4424|BN20200137|7.7.0.0|",
+				"addressLine": "247 Armstrong Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "247 Armstrong Ave, Georgetown, ON L7G 4X6, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.88814,
+					43.65336
+				]
+			},
+			"bbox": [
+				-79.8896937,
+				43.6522358,
+				-79.8865863,
+				43.6544842
+			]
+		}
+	]
+}

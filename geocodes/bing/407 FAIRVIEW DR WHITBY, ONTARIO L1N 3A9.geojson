@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "407 Fairview Dr, Whitby, ON L1N 3A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f813aa9c9a542b1b79806b3c04ca739|BN20121763|7.7.0.0|",
+				"addressLine": "407 Fairview Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "407 Fairview Dr, Whitby, ON L1N 3A9, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 3A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.95656,
+					43.88621
+				]
+			},
+			"bbox": [
+				-78.9581198,
+				43.8850858,
+				-78.9550002,
+				43.8873342
+			]
+		}
+	]
+}

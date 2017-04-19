@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "71 Main St N, South Huron, ON N0M 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3c63e42d7a44490a8278b557134e621|BN20200137|7.7.0.0|",
+				"addressLine": "71 Main St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "71 Main St N, South Huron, ON N0M 1S3, Canada",
+				"locality": "South Huron",
+				"neighborhood": "Exeter",
+				"postalCode": "N0M 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.48357,
+					43.35818
+				]
+			},
+			"bbox": [
+				-81.4851161,
+				43.3570558,
+				-81.4820239,
+				43.3593042
+			]
+		}
+	]
+}

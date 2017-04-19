@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3430 Prescott St, Halifax, NS B3K 4Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd573f9807d6409d9dc6e18b5b291acb|BN20250135|7.7.0.0|",
+				"addressLine": "3430 Prescott St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "3430 Prescott St, Halifax, NS B3K 4Y4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "North End",
+				"postalCode": "B3K 4Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.61028,
+					44.66341
+				]
+			},
+			"bbox": [
+				-63.6118605,
+				44.6622858,
+				-63.6086995,
+				44.6645342
+			]
+		}
+	]
+}

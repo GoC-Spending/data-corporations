@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "381 14th St, New Westminster, BC V3M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7e519dc0a98451e9978134603d4d96b|BN20130520|7.7.0.0|",
+				"addressLine": "381 14th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "381 14th St, New Westminster, BC V3M, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "North Arm North",
+				"postalCode": "V3M 5T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9292196,
+					49.2027009
+				]
+			},
+			"bbox": [
+				-122.9309401,
+				49.2015767,
+				-122.9274991,
+				49.203825
+			]
+		}
+	]
+}

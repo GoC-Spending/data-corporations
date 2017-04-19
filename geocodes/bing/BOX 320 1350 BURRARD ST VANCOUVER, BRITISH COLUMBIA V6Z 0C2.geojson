@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1350 Burrard St, Vancouver, BC V6Z 0C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "251f1db8bde44eddb453ba274ad64966|BN20130431|7.7.0.0|",
+				"addressLine": "1350 Burrard St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1350 Burrard St, Vancouver, BC V6Z 0C2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6Z 0C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1315193,
+					49.2773276
+				]
+			},
+			"bbox": [
+				-123.1332424,
+				49.2762034,
+				-123.1297962,
+				49.2784517
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2229 Rue Michelin, Laval, QC H7L 5B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3d9b25671b64642ab034e27759b5dbe|BN20190653|7.7.0.0|",
+				"addressLine": "2229 Rue Michelin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2229 Rue Michelin, Laval, QC H7L 5B8, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.76115,
+					45.58522
+				]
+			},
+			"bbox": [
+				-73.7627563,
+				45.5840958,
+				-73.7595437,
+				45.5863442
+			]
+		}
+	]
+}

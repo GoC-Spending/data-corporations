@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2540 S Service Rd, Lincoln, ON L0R 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9ab032df624424b87488a61fceb10be|BN20260231|7.7.0.0|",
+				"addressLine": "2540 S Service Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "2540 S Service Rd, Lincoln, ON L0R 1S0, Canada",
+				"locality": "Lincoln",
+				"postalCode": "L0R 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35294,
+					43.17828
+				]
+			},
+			"bbox": [
+				-79.3544816,
+				43.1771558,
+				-79.3513984,
+				43.1794042
+			]
+		}
+	]
+}

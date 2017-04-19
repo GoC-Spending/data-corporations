@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "240 Richmond St, London, ON N6B 2H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4efe010c5b9d4436ac6d5698579f6f6f|CO30323910|7.7.0.0|",
+				"addressLine": "240 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "240 Richmond St, London, ON N6B 2H6, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2467,
+					42.9787
+				]
+			},
+			"bbox": [
+				-81.2482366,
+				42.9775758,
+				-81.2451634,
+				42.9798242
+			]
+		}
+	]
+}

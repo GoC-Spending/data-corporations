@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Bermondsey Rd, East York, ON M4B 1Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b80fc24c00d458db8e17bbd086ca176|BN20130625|7.7.0.0|",
+				"addressLine": "20 Bermondsey Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Bermondsey Rd, East York, ON M4B 1Z5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "O'Connor-Parkview",
+				"postalCode": "M4B 1Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31228,
+					43.71577
+				]
+			},
+			"bbox": [
+				-79.3138353,
+				43.7146458,
+				-79.3107247,
+				43.7168942
+			]
+		}
+	]
+}

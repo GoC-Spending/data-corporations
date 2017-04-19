@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Winnipeg Rd, Clinton, ON N0M 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5db31cf377f6403fb75566380f8ed3eb|BN20260231|7.7.0.0|",
+				"addressLine": "25 Winnipeg Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Winnipeg Rd, Clinton, ON N0M 1L0, Canada",
+				"locality": "Huron East",
+				"neighborhood": "Clinton",
+				"postalCode": "N0M 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.52327,
+					43.58327
+				]
+			},
+			"bbox": [
+				-81.5248219,
+				43.5821458,
+				-81.5217181,
+				43.5843942
+			]
+		}
+	]
+}

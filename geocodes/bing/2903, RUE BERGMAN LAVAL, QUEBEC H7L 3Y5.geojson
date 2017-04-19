@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2903 Rue Bergman, Laval, QC H7L 3Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ed2ea09b19041c88eae3e624afa39ef|BN20200137|7.7.0.0|",
+				"addressLine": "2903 Rue Bergman",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2903 Rue Bergman, Laval, QC H7L 3Y5, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 3Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74545,
+					45.58459
+				]
+			},
+			"bbox": [
+				-73.7470563,
+				45.5834658,
+				-73.7438437,
+				45.5857142
+			]
+		}
+	]
+}

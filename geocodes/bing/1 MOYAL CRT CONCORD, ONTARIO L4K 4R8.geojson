@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Moyal Ct, Concord, ON L4K 4R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "88366359fa3b476abd6e27bea5d1dbe6|BN20121763|7.7.0.0|",
+				"addressLine": "1 Moyal Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Moyal Ct, Concord, ON L4K 4R8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5009199,
+					43.83522
+				]
+			},
+			"bbox": [
+				-79.5024783,
+				43.8340958,
+				-79.4993615,
+				43.8363442
+			]
+		}
+	]
+}

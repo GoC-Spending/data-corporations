@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Hereford St, Brampton, ON L6Y 0R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f62ddf05dd8343c7a1569b8a0fc831c4|BN20130634|7.7.0.0|",
+				"addressLine": "99 Hereford St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Hereford St, Brampton, ON L6Y 0R3, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6Y 0R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7681113,
+					43.6210715
+				]
+			},
+			"bbox": [
+				-79.7696642,
+				43.6199473,
+				-79.7665584,
+				43.6221956
+			]
+		}
+	]
+}

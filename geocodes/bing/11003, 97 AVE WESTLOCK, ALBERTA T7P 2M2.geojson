@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11003 97 Ave, Westlock, AB T7P 2M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f56448f64b154bd1b0b0ae828e1e981f|BN20220145|7.7.0.0|",
+				"addressLine": "11003 97 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11003 97 Ave, Westlock, AB T7P 2M2, Canada",
+				"locality": "Westlock",
+				"postalCode": "T7P 2M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.87244,
+					54.15591
+				]
+			},
+			"bbox": [
+				-113.8743597,
+				54.1547858,
+				-113.8705203,
+				54.1570342
+			]
+		}
+	]
+}

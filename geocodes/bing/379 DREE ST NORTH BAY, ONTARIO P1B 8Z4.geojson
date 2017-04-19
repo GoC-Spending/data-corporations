@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "379 Dree St, North Bay, ON P1B 8Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32519aee8e1540f1917d9f4f05418f56|BN20240423|7.7.0.0|",
+				"addressLine": "379 Dree St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "379 Dree St, North Bay, ON P1B 8Z4, Canada",
+				"locality": "North Bay",
+				"neighborhood": "West Ferris",
+				"postalCode": "P1B 8Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40365,
+					46.2677974
+				]
+			},
+			"bbox": [
+				-79.4052762,
+				46.2666733,
+				-79.4020238,
+				46.2689216
+			]
+		}
+	]
+}

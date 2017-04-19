@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Shoreham Ln, Halifax, NS B3P 2R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0aa07331161f41f8b84a2dd3cb21abdb|BN20130431|7.7.0.0|",
+				"addressLine": "15 Shoreham Ln",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Shoreham Ln, Halifax, NS B3P 2R3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Armdale",
+				"postalCode": "B3P 2R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.61603,
+					44.62868
+				]
+			},
+			"bbox": [
+				-63.6176096,
+				44.6275558,
+				-63.6144504,
+				44.6298042
+			]
+		}
+	]
+}

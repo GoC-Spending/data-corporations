@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Rue Racine E, Chicoutimi, QC G7H 1R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac510b448db64275964d289339741a04|BN20130631|7.7.0.0|",
+				"addressLine": "165 Rue Racine E",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Saguenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Rue Racine E, Chicoutimi, QC G7H 1R5, Canada",
+				"locality": "Saguenay",
+				"neighborhood": "Chicoutimi",
+				"postalCode": "G7H 1R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0635977,
+					48.4279257
+				]
+			},
+			"bbox": [
+				-71.0652919,
+				48.4268016,
+				-71.0619036,
+				48.4290499
+			]
+		}
+	]
+}

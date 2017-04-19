@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1407 Dufferin St, Toronto, ON M6H 4C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07f847ba7f6448b68f1a6ad62d4601d6|BN20160335|7.7.0.0|",
+				"addressLine": "1407 Dufferin St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1407 Dufferin St, Toronto, ON M6H 4C7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6H 4C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4396299,
+					43.67084
+				]
+			},
+			"bbox": [
+				-79.4411841,
+				43.6697158,
+				-79.4380757,
+				43.6719642
+			]
+		}
+	]
+}

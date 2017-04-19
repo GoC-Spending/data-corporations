@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "440 Avenue Villeneuve, Outremont, QC H2V 2R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ebb878df3dfc429ebeb3a0d31ae0a224|BN20130721|7.7.0.0|",
+				"addressLine": "440 Avenue Villeneuve",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "440 Avenue Villeneuve, Outremont, QC H2V 2R5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Outremont",
+				"postalCode": "H2V 2R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.59315,
+					45.517
+				]
+			},
+			"bbox": [
+				-73.5947543,
+				45.5158758,
+				-73.5915457,
+				45.5181242
+			]
+		}
+	]
+}

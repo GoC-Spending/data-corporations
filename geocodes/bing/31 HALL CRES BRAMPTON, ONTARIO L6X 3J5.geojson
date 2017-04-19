@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Hall Cres, Brampton, ON L6X 3J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "17596a0c639a4bf7825ef3d46ec8f34e|BN20220145|7.7.0.0|",
+				"addressLine": "31 Hall Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Hall Cres, Brampton, ON L6X 3J5, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6X 3J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7802899,
+					43.67234
+				]
+			},
+			"bbox": [
+				-79.7818441,
+				43.6712158,
+				-79.7787357,
+				43.6734642
+			]
+		}
+	]
+}

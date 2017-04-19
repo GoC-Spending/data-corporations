@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "496 Queen St E, Toronto, ON M5A 4G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4279ab8accbb4eddae4afa98839a9dd8|BN20130442|7.7.0.0|",
+				"addressLine": "496 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "496 Queen St E, Toronto, ON M5A 4G8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Regent Park",
+				"postalCode": "M5A 4G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35952,
+					43.65692
+				]
+			},
+			"bbox": [
+				-79.3610738,
+				43.6557958,
+				-79.3579662,
+				43.6580442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 Heaton Ave, Winnipeg, MB R3B 0J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ae64fff7a8b4ef696691fe7b9114b3d|BN20280152|7.7.0.0|",
+				"addressLine": "49 Heaton Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 Heaton Ave, Winnipeg, MB R3B 0J4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South Point Douglas",
+				"postalCode": "R3B 0J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.128179,
+					49.9021602
+				]
+			},
+			"bbox": [
+				-97.1299243,
+				49.901036,
+				-97.1264337,
+				49.9032844
+			]
+		}
+	]
+}

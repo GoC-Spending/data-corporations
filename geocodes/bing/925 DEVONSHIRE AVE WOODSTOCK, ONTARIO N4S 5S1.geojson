@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "925 Devonshire Ave, Woodstock, ON N4S 5S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e9c5a9b06da40cb84e6c5f49d232350|BN20130423|7.7.0.0|",
+				"addressLine": "925 Devonshire Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "925 Devonshire Ave, Woodstock, ON N4S 5S1, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 5S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7402608,
+					43.1452419
+				]
+			},
+			"bbox": [
+				-80.7418015,
+				43.1441178,
+				-80.73872,
+				43.1463661
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Paquin Rd, Winnipeg, MB R2J 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49fb00839f6246b295c886543b45f0ac|BN20121764|7.7.0.0|",
+				"addressLine": "95 Paquin Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Paquin Rd, Winnipeg, MB R2J 3V9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St Boniface Industrial Park",
+				"postalCode": "R2J 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0398699,
+					49.8806299
+				]
+			},
+			"bbox": [
+				-97.0416144,
+				49.8795057,
+				-97.0381254,
+				49.8817541
+			]
+		}
+	]
+}

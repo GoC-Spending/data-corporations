@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "194 Oakcrest Ave, Toronto, ON M4C 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3205a4d296a4f1591fd6658834af446|BN20210145|7.7.0.0|",
+				"addressLine": "194 Oakcrest Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "194 Oakcrest Ave, Toronto, ON M4C 1C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "East End-Danforth",
+				"postalCode": "M4C 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30497,
+					43.68544
+				]
+			},
+			"bbox": [
+				-79.3065245,
+				43.6843158,
+				-79.3034155,
+				43.6865642
+			]
+		}
+	]
+}

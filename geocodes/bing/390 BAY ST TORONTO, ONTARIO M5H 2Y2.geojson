@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "390 Bay St, Toronto, ON M5H 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b17784fd0c5b4b4398caeca7e30dac6d|BN20200239|7.7.0.0|",
+				"addressLine": "390 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "390 Bay St, Toronto, ON M5H 2Y2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38173,
+					43.65128
+				]
+			},
+			"bbox": [
+				-79.3832837,
+				43.6501558,
+				-79.3801763,
+				43.6524042
+			]
+		}
+	]
+}

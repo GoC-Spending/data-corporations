@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1200 Robinson St, Regina, SK S4T 2N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1cc159a628ca4f56aa2c8502e51b9f60|BN20121764|7.7.0.0|",
+				"addressLine": "1200 Robinson St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1200 Robinson St, Regina, SK S4T 2N2, Canada",
+				"locality": "Regina",
+				"neighborhood": "North Central",
+				"postalCode": "S4T 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.62436,
+					50.45971
+				]
+			},
+			"bbox": [
+				-104.6261258,
+				50.4585858,
+				-104.6225942,
+				50.4608342
+			]
+		}
+	]
+}

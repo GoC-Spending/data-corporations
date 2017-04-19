@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8559 Government St, Burnaby, BC V3N 4S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a80410a8ae8c4cc785115875208925fa|BN20250135|7.7.0.0|",
+				"addressLine": "8559 Government St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8559 Government St, Burnaby, BC V3N 4S9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Government Road",
+				"postalCode": "V3N 4S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.914474,
+					49.2509149
+				]
+			},
+			"bbox": [
+				-122.9161962,
+				49.2497907,
+				-122.9127518,
+				49.2520391
+			]
+		}
+	]
+}

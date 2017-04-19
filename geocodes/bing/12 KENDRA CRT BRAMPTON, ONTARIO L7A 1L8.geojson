@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Kendra Ct, Brampton, ON L7A 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60f1b744aaee46368fe9e7f3bc26e7d4|BN20190642|7.7.0.0|",
+				"addressLine": "12 Kendra Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Kendra Ct, Brampton, ON L7A 1L8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L7A 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82207,
+					43.73048
+				]
+			},
+			"bbox": [
+				-79.8236257,
+				43.7293558,
+				-79.8205143,
+				43.7316042
+			]
+		}
+	]
+}

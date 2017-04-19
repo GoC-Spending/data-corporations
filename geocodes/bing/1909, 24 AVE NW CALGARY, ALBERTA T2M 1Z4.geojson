@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1909 24 Ave NW, Calgary, AB T2M 1Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f796840bca9d433497c7cedd48b20b2c|BN20190653|7.7.0.0|",
+				"addressLine": "1909 24 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1909 24 Ave NW, Calgary, AB T2M 1Z4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Capital Hill",
+				"postalCode": "T2M 1Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.10522,
+					51.07398
+				]
+			},
+			"bbox": [
+				-114.1070091,
+				51.0728558,
+				-114.1034309,
+				51.0751042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Victoria Rd S, Guelph, ON N1L 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4d791c9d03f499bbb89b1a2f40bcd55|BN20240423|7.7.0.0|",
+				"addressLine": "Victoria Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "Victoria Rd S, Guelph, ON N1L 1B3, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Kortright East",
+				"postalCode": "N1L 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.19223,
+					43.52895
+				]
+			},
+			"bbox": [
+				-80.20713,
+				43.52406,
+				-80.18557,
+				43.53985
+			]
+		}
+	]
+}

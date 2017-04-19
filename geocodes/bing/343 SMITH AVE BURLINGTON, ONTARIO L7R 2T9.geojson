@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "343 Smith Ave, Burlington, ON L7R 2T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6bed174baa24276908c299f7a79ef92|BN20260231|7.7.0.0|",
+				"addressLine": "343 Smith Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "343 Smith Ave, Burlington, ON L7R 2T9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Central",
+				"postalCode": "L7R 2T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78876,
+					43.32912
+				]
+			},
+			"bbox": [
+				-79.7903054,
+				43.3279958,
+				-79.7872146,
+				43.3302442
+			]
+		}
+	]
+}

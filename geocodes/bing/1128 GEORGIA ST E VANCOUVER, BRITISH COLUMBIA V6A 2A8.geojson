@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1128 E Georgia St, Vancouver, BC V6A 2A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81a37b4f35fa4e399eafd1c02a133d89|BN20200239|7.7.0.0|",
+				"addressLine": "1128 E Georgia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1128 E Georgia St, Vancouver, BC V6A 2A8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A 2A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08071,
+					49.27793
+				]
+			},
+			"bbox": [
+				-123.0824331,
+				49.2768058,
+				-123.0789869,
+				49.2790542
+			]
+		}
+	]
+}

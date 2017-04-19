@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Mac Ewan St, Chatham-Kent, ON N0P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9867adbd134c4785874f00c484f406f2|BN20130522|7.7.0.0|",
+				"addressLine": "101 Mac Ewan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Mac Ewan St, Chatham-Kent, ON N0P, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Bothwell",
+				"postalCode": "N0P 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.86647,
+					42.6296
+				]
+			},
+			"bbox": [
+				-81.8679979,
+				42.6284758,
+				-81.8649421,
+				42.6307242
+			]
+		}
+	]
+}

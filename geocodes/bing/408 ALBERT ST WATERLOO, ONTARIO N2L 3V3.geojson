@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "408 Albert St, Waterloo, ON N2L 3V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b2194adf1ce14b5292efa944171a224a|BN20130632|7.7.0.0|",
+				"addressLine": "408 Albert St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "408 Albert St, Waterloo, ON N2L 3V3, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 3V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.53644,
+					43.48176
+				]
+			},
+			"bbox": [
+				-80.5379893,
+				43.4806358,
+				-80.5348907,
+				43.4828842
+			]
+		}
+	]
+}

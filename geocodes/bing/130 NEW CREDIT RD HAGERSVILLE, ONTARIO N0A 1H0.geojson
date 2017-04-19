@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 New Credit Rd, Brant, ON N0A 1H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69f8ecdaa9cb49ed9bda83afb3307309|BN20190642|7.7.0.0|",
+				"addressLine": "130 New Credit Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 New Credit Rd, Brant, ON N0A 1H0, Canada",
+				"locality": "Brant",
+				"postalCode": "N0A 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1038427,
+					42.9882271
+				]
+			},
+			"bbox": [
+				-80.1053795,
+				42.9871029,
+				-80.1023059,
+				42.9893512
+			]
+		}
+	]
+}

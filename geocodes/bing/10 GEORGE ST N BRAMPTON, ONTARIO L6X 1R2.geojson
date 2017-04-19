@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 George St N, Brampton, ON L6X 1R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b8018ada5f24d09a234fa27df1593ae|BN20260223|7.7.0.0|",
+				"addressLine": "10 George St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 George St N, Brampton, ON L6X 1R2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6X 1R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76114,
+					43.68549
+				]
+			},
+			"bbox": [
+				-79.7626945,
+				43.6843658,
+				-79.7595855,
+				43.6866142
+			]
+		}
+	]
+}

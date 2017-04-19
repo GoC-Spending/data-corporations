@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Maurovista Ct, Stouffville, ON L4A 0E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b584baa55604c758879d82939e3015f|BN20130442|7.7.0.0|",
+				"addressLine": "26 Maurovista Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Maurovista Ct, Stouffville, ON L4A 0E4, Canada",
+				"locality": "Whitchurch-Stouffville",
+				"neighborhood": "Stouffville",
+				"postalCode": "L4A 0E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2528039,
+					43.9798265
+				]
+			},
+			"bbox": [
+				-79.2543661,
+				43.9787024,
+				-79.2512416,
+				43.9809507
+			]
+		}
+	]
+}

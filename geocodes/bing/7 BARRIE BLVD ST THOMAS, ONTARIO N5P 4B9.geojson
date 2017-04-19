@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Barrie Blvd, St Thomas, ON N5P 4B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c70a1624662144c994fce54156445c0f|BN20130625|7.7.0.0|",
+				"addressLine": "7 Barrie Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Barrie Blvd, St Thomas, ON N5P 4B9, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 4B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.150385,
+					42.7862258
+				]
+			},
+			"bbox": [
+				-81.1519168,
+				42.7851016,
+				-81.1488532,
+				42.7873499
+			]
+		}
+	]
+}

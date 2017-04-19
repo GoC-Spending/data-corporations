@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "660 Wayne Rd, Kelowna, BC V1X 4M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49aee0414b174aa98ebd95f759f22768|BN20220145|7.7.0.0|",
+				"addressLine": "660 Wayne Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "660 Wayne Rd, Kelowna, BC V1X 4M1, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Rutland",
+				"postalCode": "V1X 4M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.3993,
+					49.87553
+				]
+			},
+			"bbox": [
+				-119.4010444,
+				49.8744058,
+				-119.3975556,
+				49.8766542
+			]
+		}
+	]
+}

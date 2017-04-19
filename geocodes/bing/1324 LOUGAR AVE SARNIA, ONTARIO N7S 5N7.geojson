@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1324 Lougar Ave, Sarnia, ON N7S 5N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8e921d5fa5c493999a639554ffd9252|BN20260223|7.7.0.0|",
+				"addressLine": "1324 Lougar Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1324 Lougar Ave, Sarnia, ON N7S 5N7, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7S 5N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3581945,
+					42.9580629
+				]
+			},
+			"bbox": [
+				-82.3597305,
+				42.9569387,
+				-82.3566584,
+				42.959187
+			]
+		}
+	]
+}

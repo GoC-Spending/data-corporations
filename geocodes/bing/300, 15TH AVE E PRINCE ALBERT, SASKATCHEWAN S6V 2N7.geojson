@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 15th Ave E, Prince Albert, SK S6V 2N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "767fe341c8774927b7210d49a7e9b94b|BN20260223|7.7.0.0|",
+				"addressLine": "300 15th Ave E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 15th Ave E, Prince Albert, SK S6V 2N7, Canada",
+				"locality": "Prince Albert",
+				"postalCode": "S6V 2N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.7051095,
+					53.2067189
+				]
+			},
+			"bbox": [
+				-105.7069865,
+				53.2055947,
+				-105.7032326,
+				53.207843
+			]
+		}
+	]
+}

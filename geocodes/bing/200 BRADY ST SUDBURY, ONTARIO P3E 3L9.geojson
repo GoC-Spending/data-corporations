@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Brady St, Sudbury, ON P3E 3L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a250415f6f564efa8e5fc6f705ddc25f|BN20130631|7.7.0.0|",
+				"addressLine": "200 Brady St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Brady St, Sudbury, ON P3E 3L9, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3E 3L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9901061,
+					46.4897249
+				]
+			},
+			"bbox": [
+				-80.9917389,
+				46.4886007,
+				-80.9884733,
+				46.4908491
+			]
+		}
+	]
+}

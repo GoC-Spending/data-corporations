@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1660 Enterprise Rd, Mississauga, ON L4W 4L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cea6960a91d64036938bbea0f81eb53b|BN20210145|7.7.0.0|",
+				"addressLine": "1660 Enterprise Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1660 Enterprise Rd, Mississauga, ON L4W 4L4, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Toronto Pearson Int'l Airport",
+				"postalCode": "L4W 4L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.63642,
+					43.65365
+				]
+			},
+			"bbox": [
+				-79.6379737,
+				43.6525258,
+				-79.6348663,
+				43.6547742
+			]
+		}
+	]
+}

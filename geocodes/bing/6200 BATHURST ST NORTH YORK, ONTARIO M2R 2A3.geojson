@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6200 Bathurst St, North York, ON M2R 2A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2cb1a229c6764e2baf585b8ce40e5c36|BN20290118|7.7.0.0|",
+				"addressLine": "6200 Bathurst St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "6200 Bathurst St, North York, ON M2R 2A3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Westminster-Branson",
+				"postalCode": "M2R 2A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44685,
+					43.79108
+				]
+			},
+			"bbox": [
+				-79.4484073,
+				43.7899558,
+				-79.4452927,
+				43.7922042
+			]
+		}
+	]
+}

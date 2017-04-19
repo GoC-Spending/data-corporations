@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4585 Tillicum St, Burnaby, BC V5J 5K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d9d8937bff4480fa7341d890fc25350|BN20250135|7.7.0.0|",
+				"addressLine": "4585 Tillicum St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4585 Tillicum St, Burnaby, BC V5J 5K9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.991074,
+					49.1886882
+				]
+			},
+			"bbox": [
+				-122.992794,
+				49.1875641,
+				-122.9893539,
+				49.1898124
+			]
+		}
+	]
+}

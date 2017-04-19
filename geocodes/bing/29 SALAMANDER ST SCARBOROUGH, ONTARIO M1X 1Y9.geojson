@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Salamander St, Scarborough, ON M1X 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee5eb077a68e4f2da4be4d3d63dddb8e|BN20260231|7.7.0.0|",
+				"addressLine": "29 Salamander St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Salamander St, Scarborough, ON M1X 1Y9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1X 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22275,
+					43.8213099
+				]
+			},
+			"bbox": [
+				-79.2243081,
+				43.8201857,
+				-79.2211919,
+				43.8224341
+			]
+		}
+	]
+}

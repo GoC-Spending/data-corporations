@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1250 Hayter Rd NW, Edmonton, AB T6S 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb5f6c84fbc049d1a87c326c63e3901b|BN20190642|7.7.0.0|",
+				"addressLine": "1250 Hayter Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1250 Hayter Rd NW, Edmonton, AB T6S 1A2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Clover Bar Area",
+				"postalCode": "T6S 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.3578736,
+					53.5719576
+				]
+			},
+			"bbox": [
+				-113.3597667,
+				53.5708335,
+				-113.3559805,
+				53.5730818
+			]
+		}
+	]
+}

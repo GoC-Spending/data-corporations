@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8288 129 St, Surrey, BC V3W 0A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6af8066f4d784730a7c43ccf964e04f1|BN20121764|7.7.0.0|",
+				"addressLine": "8288 129 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8288 129 St, Surrey, BC V3W 0A6, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 0A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.86519,
+					49.15305
+				]
+			},
+			"bbox": [
+				-122.8669088,
+				49.1519258,
+				-122.8634712,
+				49.1541742
+			]
+		}
+	]
+}

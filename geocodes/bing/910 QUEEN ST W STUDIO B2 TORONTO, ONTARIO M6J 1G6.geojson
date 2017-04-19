@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "910 Queen St W, Toronto, ON M6J 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82ca9dfc9477468d8dcec19cfdc97b6e|BN20240423|7.7.0.0|",
+				"addressLine": "910 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "910 Queen St W, Toronto, ON M6J 1G6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41568,
+					43.64506
+				]
+			},
+			"bbox": [
+				-79.4172335,
+				43.6439358,
+				-79.4141265,
+				43.6461842
+			]
+		}
+	]
+}

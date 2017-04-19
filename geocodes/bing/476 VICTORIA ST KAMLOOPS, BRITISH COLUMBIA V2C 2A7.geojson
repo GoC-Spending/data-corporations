@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "476 Victoria St, Kamloops, BC V2C 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f3df705d0a64a10a9c96471b595e14b|BN20250135|7.7.0.0|",
+				"addressLine": "476 Victoria St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "476 Victoria St, Kamloops, BC V2C 2A7, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "City Center",
+				"postalCode": "V2C 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.32981,
+					50.6760499
+				]
+			},
+			"bbox": [
+				-120.3315839,
+				50.6749257,
+				-120.3280361,
+				50.6771741
+			]
+		}
+	]
+}

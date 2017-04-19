@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Lyndale Dr, North York, ON M2N 2X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7bdcc71e344745bdb3b637cbc161ced2|BN20130431|7.7.0.0|",
+				"addressLine": "23 Lyndale Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Lyndale Dr, North York, ON M2N 2X9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 2X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.405,
+					43.76174
+				]
+			},
+			"bbox": [
+				-79.4065565,
+				43.7606158,
+				-79.4034435,
+				43.7628642
+			]
+		}
+	]
+}

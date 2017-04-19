@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Research Dr, Dartmouth, NS B2Y 4T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8481573dc17744ee9e77408bd44c0d60|BN20130422|7.7.0.0|",
+				"addressLine": "101 Research Dr",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Research Dr, Dartmouth, NS B2Y 4T6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2Y 4T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.54466,
+					44.6622
+				]
+			},
+			"bbox": [
+				-63.5462405,
+				44.6610758,
+				-63.5430795,
+				44.6633242
+			]
+		}
+	]
+}

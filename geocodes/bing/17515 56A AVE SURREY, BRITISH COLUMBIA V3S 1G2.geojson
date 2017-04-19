@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17515 56A Ave, Surrey, BC V3S 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1eb56316567445a19ab9943e6b11389a|BN20130620|7.7.0.0|",
+				"addressLine": "17515 56A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "17515 56A Ave, Surrey, BC V3S 1G2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7377874,
+					49.1052349
+				]
+			},
+			"bbox": [
+				-122.7395046,
+				49.1041107,
+				-122.7360703,
+				49.106359
+			]
+		}
+	]
+}

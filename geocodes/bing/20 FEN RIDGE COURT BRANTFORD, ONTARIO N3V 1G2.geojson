@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Fen Ridge Ct, Brantford, ON N3T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "355c3e10092e4ec5ac1b282b1f6da396|BN20130719|7.7.0.0|",
+				"addressLine": "20 Fen Ridge Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Fen Ridge Ct, Brantford, ON N3T, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3T"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3383694,
+					43.1636121
+				]
+			},
+			"bbox": [
+				-80.3399106,
+				43.162488,
+				-80.3368282,
+				43.1647363
+			]
+		}
+	]
+}

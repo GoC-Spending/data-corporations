@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "177 Fitzroy St, Charlottetown, PE C1A 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7229278b4884ccc938cda3b724436e4|BN20190642|7.7.0.0|",
+				"addressLine": "177 Fitzroy St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "177 Fitzroy St, Charlottetown, PE C1A 1S3, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12631,
+					46.23865
+				]
+			},
+			"bbox": [
+				-63.1279353,
+				46.2375258,
+				-63.1246847,
+				46.2397742
+			]
+		}
+	]
+}

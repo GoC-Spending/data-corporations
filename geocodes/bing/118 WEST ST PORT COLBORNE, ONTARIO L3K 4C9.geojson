@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "118 West St, Port Colborne, ON L3K 4C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93c37a9d8714450eb2037030deb164b0|BN20240423|7.7.0.0|",
+				"addressLine": "118 West St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "118 West St, Port Colborne, ON L3K 4C9, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 4C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25003,
+					42.88257
+				]
+			},
+			"bbox": [
+				-79.2515642,
+				42.8814458,
+				-79.2484958,
+				42.8836942
+			]
+		}
+	]
+}

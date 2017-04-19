@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Masonville Cres, London, ON N5X 3T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd629fd437ce4ca3ba051e3505df002b|BN20121764|7.7.0.0|",
+				"addressLine": "34 Masonville Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Masonville Cres, London, ON N5X 3T2, Canada",
+				"locality": "London",
+				"neighborhood": "Masonville",
+				"postalCode": "N5X 3T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2756,
+					43.0216
+				]
+			},
+			"bbox": [
+				-81.2771376,
+				43.0204758,
+				-81.2740624,
+				43.0227242
+			]
+		}
+	]
+}

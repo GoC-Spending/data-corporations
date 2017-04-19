@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "385 Adelaide St W, Toronto, ON M5V 1S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e0369acd35146ef93e70849fae44b53|BN20130632|7.7.0.0|",
+				"addressLine": "385 Adelaide St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "385 Adelaide St W, Toronto, ON M5V 1S4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39646,
+					43.64622
+				]
+			},
+			"bbox": [
+				-79.3980135,
+				43.6450958,
+				-79.3949065,
+				43.6473442
+			]
+		}
+	]
+}

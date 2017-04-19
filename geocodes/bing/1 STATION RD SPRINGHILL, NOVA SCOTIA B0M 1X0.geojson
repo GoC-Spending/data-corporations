@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Station Rd, Southampton, NS B0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "51902169d78542e183ede072f63cb338|BN20130533|7.7.0.0|",
+				"addressLine": "1 Station Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Station Rd, Southampton, NS B0M, Canada",
+				"locality": "Cumberland",
+				"neighborhood": "Southampton",
+				"postalCode": "B0M 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.2456417,
+					45.5891747
+				]
+			},
+			"bbox": [
+				-64.2472481,
+				45.5880505,
+				-64.2440353,
+				45.5902988
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4080 Rue Wellington, Verdun, QC H4G 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "96c7dc4bf35d45429f54a464012b0f83|BN20130620|7.7.0.0|",
+				"addressLine": "4080 Rue Wellington",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "4080 Rue Wellington, Verdun, QC H4G 1V4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4G 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5667,
+					45.463
+				]
+			},
+			"bbox": [
+				-73.5683028,
+				45.4618758,
+				-73.5650972,
+				45.4641242
+			]
+		}
+	]
+}

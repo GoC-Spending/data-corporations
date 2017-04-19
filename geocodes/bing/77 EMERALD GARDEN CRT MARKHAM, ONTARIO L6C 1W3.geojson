@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "77 Emerald Garden Ct, Markham, ON L6C 1W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f531d2514484d36a1e5774cfc2f02fb|BN20300154|7.7.0.0|",
+				"addressLine": "77 Emerald Garden Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "77 Emerald Garden Ct, Markham, ON L6C 1W3, Canada",
+				"locality": "Markham",
+				"neighborhood": "Cachet",
+				"postalCode": "L6C 1W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3511599,
+					43.8763099
+				]
+			},
+			"bbox": [
+				-79.3527194,
+				43.8751857,
+				-79.3496004,
+				43.8774341
+			]
+		}
+	]
+}

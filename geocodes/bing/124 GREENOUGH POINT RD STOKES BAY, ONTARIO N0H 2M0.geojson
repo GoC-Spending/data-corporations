@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 Greenough Point Rd, Northern Bruce Peninsula, ON N0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4a6563d85454166bf3c481443bf7d83|BN20130431|7.7.0.0|",
+				"addressLine": "124 Greenough Point Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 Greenough Point Rd, Northern Bruce Peninsula, ON N0H, Canada",
+				"locality": "Northern Bruce Peninsula",
+				"neighborhood": "Stokes Bay",
+				"postalCode": "N0H 2M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4350342,
+					44.9744488
+				]
+			},
+			"bbox": [
+				-81.4366233,
+				44.9733247,
+				-81.4334451,
+				44.975573
+			]
+		}
+	]
+}

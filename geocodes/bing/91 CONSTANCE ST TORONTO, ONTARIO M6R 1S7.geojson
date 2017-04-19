@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Constance St, Toronto, ON M6R 1S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "311f37d32b6148e29eb83a9a1ca40372|BN20210145|7.7.0.0|",
+				"addressLine": "91 Constance St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Constance St, Toronto, ON M6R 1S7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6R 1S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45563,
+					43.6485
+				]
+			},
+			"bbox": [
+				-79.4571836,
+				43.6473758,
+				-79.4540764,
+				43.6496242
+			]
+		}
+	]
+}

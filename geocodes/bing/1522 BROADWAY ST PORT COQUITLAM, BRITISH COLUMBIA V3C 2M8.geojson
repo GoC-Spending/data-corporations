@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1522 Broadway St, Port Coquitlam, BC V3C 2M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "631b0557c011450f817eecccfdfaee12|BN20200137|7.7.0.0|",
+				"addressLine": "1522 Broadway St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1522 Broadway St, Port Coquitlam, BC V3C 2M8, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3C 2M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7621709,
+					49.2416507
+				]
+			},
+			"bbox": [
+				-122.7638928,
+				49.2405266,
+				-122.760449,
+				49.2427749
+			]
+		}
+	]
+}

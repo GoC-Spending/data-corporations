@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2316 Balaclava St, Vancouver, BC V6K 4C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d56f7da5d8344aa9ebb09e61e263a61|BN20260223|7.7.0.0|",
+				"addressLine": "2316 Balaclava St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2316 Balaclava St, Vancouver, BC V6K 4C7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kitsilano",
+				"postalCode": "V6K 4C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17362,
+					49.2655699
+				]
+			},
+			"bbox": [
+				-123.1753427,
+				49.2644457,
+				-123.1718973,
+				49.2666941
+			]
+		}
+	]
+}

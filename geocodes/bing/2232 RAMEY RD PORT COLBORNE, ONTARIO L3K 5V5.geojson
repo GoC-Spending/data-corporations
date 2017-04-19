@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2232 Ramey Rd, Port Colborne, ON L3K 5V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "046db02dfa194fd681490a25f7d4a670|BN20130632|7.7.0.0|",
+				"addressLine": "2232 Ramey Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "2232 Ramey Rd, Port Colborne, ON L3K 5V5, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 5V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.234849,
+					42.9150798
+				]
+			},
+			"bbox": [
+				-79.2363839,
+				42.9139557,
+				-79.233314,
+				42.916204
+			]
+		}
+	]
+}

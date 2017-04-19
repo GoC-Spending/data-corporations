@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "970 Queen St E, Toronto, ON M4M 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fbc1f73e90cc4b7f87fabe98f899b90a|BN20300154|7.7.0.0|",
+				"addressLine": "970 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "970 Queen St E, Toronto, ON M4M 1J8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Riverdale",
+				"postalCode": "M4M 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34043,
+					43.66123
+				]
+			},
+			"bbox": [
+				-79.3419839,
+				43.6601058,
+				-79.3388761,
+				43.6623542
+			]
+		}
+	]
+}

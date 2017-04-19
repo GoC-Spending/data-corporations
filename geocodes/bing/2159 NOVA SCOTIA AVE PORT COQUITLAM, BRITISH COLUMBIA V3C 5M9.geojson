@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2159 Nova Scotia Ave, Port Coquitlam, BC V3C 5M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82f13680acb34cddac904e542acb8ad7|BN20220145|7.7.0.0|",
+				"addressLine": "2159 Nova Scotia Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2159 Nova Scotia Ave, Port Coquitlam, BC V3C 5M9, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3C 5M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7736116,
+					49.2370151
+				]
+			},
+			"bbox": [
+				-122.7753333,
+				49.235891,
+				-122.7718899,
+				49.2381393
+			]
+		}
+	]
+}

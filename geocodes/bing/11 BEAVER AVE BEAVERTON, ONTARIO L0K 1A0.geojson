@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Beaver Ave, Beaverton, ON L0K 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c22d217224f54f7d9556ef1116c2ee93|BN20130634|7.7.0.0|",
+				"addressLine": "11 Beaver Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Beaver Ave, Beaverton, ON L0K 1A0, Canada",
+				"locality": "Brock",
+				"neighborhood": "Beaverton",
+				"postalCode": "L0K 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.12585,
+					44.42836
+				]
+			},
+			"bbox": [
+				-79.1274242,
+				44.4272358,
+				-79.1242758,
+				44.4294842
+			]
+		}
+	]
+}

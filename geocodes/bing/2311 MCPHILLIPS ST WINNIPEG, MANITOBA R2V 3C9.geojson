@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2311 McPhillips St, Winnipeg, MB R2V 3C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a983bd54c54a4f28bbb46a5e0ae64c02|BN20200239|7.7.0.0|",
+				"addressLine": "2311 McPhillips St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "2311 McPhillips St, Winnipeg, MB R2V 3C9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Garden City",
+				"postalCode": "R2V 3C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1481911,
+					49.9523521
+				]
+			},
+			"bbox": [
+				-97.1499382,
+				49.9512279,
+				-97.1464439,
+				49.9534762
+			]
+		}
+	]
+}

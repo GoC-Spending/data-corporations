@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7883 Edgar Industrial Way, Red Deer, AB T4P 3R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "027d98e8222448ca8002a13d4ad595d8|BN20130620|7.7.0.0|",
+				"addressLine": "7883 Edgar Industrial Way",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7883 Edgar Industrial Way, Red Deer, AB T4P 3R2, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4P 3R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.85043,
+					52.3083699
+				]
+			},
+			"bbox": [
+				-113.8522686,
+				52.3072457,
+				-113.8485914,
+				52.3094941
+			]
+		}
+	]
+}

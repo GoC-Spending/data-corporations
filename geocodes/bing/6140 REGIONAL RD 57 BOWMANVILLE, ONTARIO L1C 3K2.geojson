@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 2,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Bowmanville, L1C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3120ad72f4a74cabaf475586e6df1dc4|BN20130533|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "Bowmanville, L1C, Canada",
+				"locality": "Bowmanville",
+				"postalCode": "L1C"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6849670410156,
+					43.9330558776855
+				]
+			},
+			"bbox": [
+				-78.7427062988281,
+				43.8672294616699,
+				-78.6272277832031,
+				44.0360298156738
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Clarington, L1C 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3120ad72f4a74cabaf475586e6df1dc4|BN20130533|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "Clarington, L1C 3K2, Canada",
+				"locality": "Clarington",
+				"postalCode": "L1C 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7566528320313,
+					44.018424987793
+				]
+			},
+			"bbox": [
+				-78.7638143357605,
+				44.0145622702223,
+				-78.749491328302,
+				44.0222877053636
+			]
+		}
+	]
+}

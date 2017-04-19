@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "96 Wallace St, Nanaimo, BC V9R 0E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "802010eacdc2482d818e38258d0ca5a2|BN20190653|7.7.0.0|",
+				"addressLine": "96 Wallace St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "96 Wallace St, Nanaimo, BC V9R 0E2, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 0E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9418,
+					49.16859
+				]
+			},
+			"bbox": [
+				-123.9435193,
+				49.1674658,
+				-123.9400807,
+				49.1697142
+			]
+		}
+	]
+}

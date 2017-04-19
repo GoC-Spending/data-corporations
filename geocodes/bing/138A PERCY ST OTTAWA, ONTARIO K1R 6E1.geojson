@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "138 Percy St, Ottawa, ON K1R 6E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "572261b65dfd4889ae2e9f9caba2b9eb|BN20130632|7.7.0.0|",
+				"addressLine": "138 Percy St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "138 Percy St, Ottawa, ON K1R 6E1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K1R 6E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7031,
+					45.41111
+				]
+			},
+			"bbox": [
+				-75.7047013,
+				45.4099858,
+				-75.7014987,
+				45.4122342
+			]
+		}
+	]
+}

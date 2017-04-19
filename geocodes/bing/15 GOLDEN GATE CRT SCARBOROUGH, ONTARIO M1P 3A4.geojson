@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Golden Gate Ct, Scarborough, ON M1P 3A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73df3572a34d4a2886ed32925ec9c46b|BN20220145|7.7.0.0|",
+				"addressLine": "15 Golden Gate Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Golden Gate Ct, Scarborough, ON M1P 3A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bendale",
+				"postalCode": "M1P 3A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26429,
+					43.77097
+				]
+			},
+			"bbox": [
+				-79.2658468,
+				43.7698458,
+				-79.2627332,
+				43.7720942
+			]
+		}
+	]
+}

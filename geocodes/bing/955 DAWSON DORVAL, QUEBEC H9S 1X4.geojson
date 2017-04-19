@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "955 Avenue Dawson, Dorval, QC H9S 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb572ecfe87b4872ad45ac853aa201f2|BN20181720|7.7.0.0|",
+				"addressLine": "955 Avenue Dawson",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "955 Avenue Dawson, Dorval, QC H9S 1X4, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9S 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74486,
+					45.44176
+				]
+			},
+			"bbox": [
+				-73.7464622,
+				45.4406358,
+				-73.7432578,
+				45.4428842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "299 Main St W, North Bay, ON P1B 2T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e3645cccfe3e47c6b2af4db3652e2e6d|BN20200239|7.7.0.0|",
+				"addressLine": "299 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "299 Main St W, North Bay, ON P1B 2T8, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Downtown North Bay",
+				"postalCode": "P1B 2T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46661,
+					46.31322
+				]
+			},
+			"bbox": [
+				-79.4682375,
+				46.3120958,
+				-79.4649825,
+				46.3143442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 White Swan Rd, Brantford, ON N3T 5L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f72a55251fe3481291587f642b3320a0|BN20130422|7.7.0.0|",
+				"addressLine": "30 White Swan Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 White Swan Rd, Brantford, ON N3T 5L4, Canada",
+				"locality": "Brant",
+				"neighborhood": "Brantford",
+				"postalCode": "N3T 5L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1096363,
+					43.1689709
+				]
+			},
+			"bbox": [
+				-80.1111776,
+				43.1678467,
+				-80.108095,
+				43.170095
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "310 Ross Ave, Winnipeg, MB R3A 0L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4623e118b0894cad80ea0cb29e7958ff|BN20121763|7.7.0.0|",
+				"addressLine": "310 Ross Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "310 Ross Ave, Winnipeg, MB R3A 0L4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Exchange District",
+				"postalCode": "R3A 0L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14115,
+					49.9012699
+				]
+			},
+			"bbox": [
+				-97.1428953,
+				49.9001457,
+				-97.1394047,
+				49.9023941
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Capilano Dr, Hamilton, ON L8K 6A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e114b8d68f3143b7a983f3b123cdf10a|BN20200137|7.7.0.0|",
+				"addressLine": "15 Capilano Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Capilano Dr, Hamilton, ON L8K 6A4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Vincent",
+				"postalCode": "L8K 6A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.79462,
+					43.20838
+				]
+			},
+			"bbox": [
+				-79.7961623,
+				43.2072558,
+				-79.7930777,
+				43.2095042
+			]
+		}
+	]
+}

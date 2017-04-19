@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Kern Rd, North York, ON M3B 1T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "797620de63fe43108face07dc8a34440|BN20130422|7.7.0.0|",
+				"addressLine": "30 Kern Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Kern Rd, North York, ON M3B 1T1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 1T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35012,
+					43.75004
+				]
+			},
+			"bbox": [
+				-79.3516762,
+				43.7489158,
+				-79.3485638,
+				43.7511642
+			]
+		}
+	]
+}

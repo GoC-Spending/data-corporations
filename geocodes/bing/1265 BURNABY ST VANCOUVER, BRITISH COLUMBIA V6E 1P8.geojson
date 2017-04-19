@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1265 Burnaby St, Vancouver, BC V6E 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ceaf0ed00d549ff8f07ac21e712e030|BN20130522|7.7.0.0|",
+				"addressLine": "1265 Burnaby St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1265 Burnaby St, Vancouver, BC V6E 1P8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6E 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1352,
+					49.28197
+				]
+			},
+			"bbox": [
+				-123.1369233,
+				49.2808458,
+				-123.1334767,
+				49.2830942
+			]
+		}
+	]
+}

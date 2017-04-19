@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1601 Van Horne Ave E, Brandon, MB R7A 7K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "262615a83b4644f6813dc3f40583e9cc|BN20130532|7.7.0.0|",
+				"addressLine": "1601 Van Horne Ave E",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1601 Van Horne Ave E, Brandon, MB R7A 7K2, Canada",
+				"locality": "Brandon",
+				"postalCode": "R7A 7K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.9169,
+					49.83919
+				]
+			},
+			"bbox": [
+				-99.918643,
+				49.8380658,
+				-99.915157,
+				49.8403142
+			]
+		}
+	]
+}

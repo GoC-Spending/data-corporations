@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Enoch, Parkland County, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fcdfc5ba60f4ffc84020adfd57e3263|BN20130521|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Enoch, Parkland County, Alberta, Canada",
+				"locality": "Parkland County",
+				"neighborhood": "Enoch"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.743949890137,
+					53.5034599304199
+				]
+			},
+			"bbox": [
+				-113.752608336476,
+				53.4995972128492,
+				-113.735291443797,
+				53.5073226479906
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "543",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fcdfc5ba60f4ffc84020adfd57e3263|BN20130521|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "543",
+				"postalCode": "543"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.9579849243164,
+					44.5236167907715
+				]
+			},
+			"bbox": [
+				-88.2042694091797,
+				44.4112510681152,
+				-87.7856216430664,
+				44.6776008605957
+			]
+		}
+	]
+}

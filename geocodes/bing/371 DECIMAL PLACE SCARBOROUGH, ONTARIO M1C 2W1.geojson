@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "371 Decimal Pl, Scarborough, ON M1C 2W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec689671dfcd4e648a39947a091066a7|BN20130631|7.7.0.0|",
+				"addressLine": "371 Decimal Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "371 Decimal Pl, Scarborough, ON M1C 2W1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1C 2W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.13865,
+					43.79378
+				]
+			},
+			"bbox": [
+				-79.1402074,
+				43.7926558,
+				-79.1370926,
+				43.7949042
+			]
+		}
+	]
+}

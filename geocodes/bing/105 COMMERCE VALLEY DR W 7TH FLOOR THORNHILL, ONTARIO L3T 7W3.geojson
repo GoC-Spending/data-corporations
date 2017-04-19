@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Commerce Valley Dr W, Thornhill, ON L3T 7W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e0adb3d43a14483a0ec5d36071a40bb|BN20130631|7.7.0.0|",
+				"addressLine": "105 Commerce Valley Dr W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Commerce Valley Dr W, Thornhill, ON L3T 7W3, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 7W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38334,
+					43.8388599
+				]
+			},
+			"bbox": [
+				-79.3848985,
+				43.8377357,
+				-79.3817815,
+				43.8399841
+			]
+		}
+	]
+}

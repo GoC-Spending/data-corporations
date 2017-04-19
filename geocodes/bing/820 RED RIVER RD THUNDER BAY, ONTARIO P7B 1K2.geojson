@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "820 Red River Rd, Thunder Bay, ON P7B 1K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48ea6685099744be88e1409d2f5437bd|BN20130431|7.7.0.0|",
+				"addressLine": "820 Red River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "820 Red River Rd, Thunder Bay, ON P7B 1K2, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7B 1K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.24687,
+					48.44521
+				]
+			},
+			"bbox": [
+				-89.2485647,
+				48.4440858,
+				-89.2451753,
+				48.4463342
+			]
+		}
+	]
+}

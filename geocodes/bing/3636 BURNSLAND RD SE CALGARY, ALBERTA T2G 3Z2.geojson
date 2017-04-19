@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3636 Burnsland Rd SE, Calgary, AB T2G 3Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d177ef39c7814e93aa8db5889574d892|BN20130621|7.7.0.0|",
+				"addressLine": "3636 Burnsland Rd SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3636 Burnsland Rd SE, Calgary, AB T2G 3Z2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2G 3Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0584539,
+					51.0218622
+				]
+			},
+			"bbox": [
+				-114.0602411,
+				51.0207381,
+				-114.0566668,
+				51.0229864
+			]
+		}
+	]
+}

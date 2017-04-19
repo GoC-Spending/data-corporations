@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Basaltic Rd, Concord, ON L4K 4W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5c4ac08c9ad49e3ab84264c581a14f4|BN20130431|7.7.0.0|",
+				"addressLine": "375 Basaltic Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Basaltic Rd, Concord, ON L4K 4W8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49778,
+					43.82942
+				]
+			},
+			"bbox": [
+				-79.4993383,
+				43.8282958,
+				-79.4962217,
+				43.8305442
+			]
+		}
+	]
+}

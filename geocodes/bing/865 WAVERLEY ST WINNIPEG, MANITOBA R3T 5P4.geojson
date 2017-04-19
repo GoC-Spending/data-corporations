@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "865 Waverley St, Winnipeg, MB R3T 5P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27acbb6c39d64bfc95e235b93c2c7f44|BN20200137|7.7.0.0|",
+				"addressLine": "865 Waverley St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "865 Waverley St, Winnipeg, MB R3T 5P4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Linden Woods",
+				"postalCode": "R3T 5P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1798213,
+					49.8458258
+				]
+			},
+			"bbox": [
+				-97.1815646,
+				49.8447016,
+				-97.178078,
+				49.8469499
+			]
+		}
+	]
+}

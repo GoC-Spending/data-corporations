@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "141 Ralph Ave W, Winnipeg, MB R2C 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eff3f33bb7ab41cbbbc18c2f1cca19f6|BN20131519|7.7.0.0|",
+				"addressLine": "141 Ralph Ave W",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "141 Ralph Ave W, Winnipeg, MB R2C 2E3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Radisson",
+				"postalCode": "R2C 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0053,
+					49.90255
+				]
+			},
+			"bbox": [
+				-97.0070453,
+				49.9014258,
+				-97.0035547,
+				49.9036742
+			]
+		}
+	]
+}

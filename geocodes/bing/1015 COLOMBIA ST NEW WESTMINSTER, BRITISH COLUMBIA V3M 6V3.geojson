@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1015 Columbia St, New Westminster, BC V3M 6V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "17cd644378ed4372b1b34c8e0909d949|BN20130447|7.7.0.0|",
+				"addressLine": "1015 Columbia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1015 Columbia St, New Westminster, BC V3M 6V3, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Downtown New Westminster",
+				"postalCode": "V3M 6V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9159229,
+					49.2003349
+				]
+			},
+			"bbox": [
+				-122.9176433,
+				49.1992107,
+				-122.9142024,
+				49.201459
+			]
+		}
+	]
+}

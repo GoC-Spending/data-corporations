@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "715 Fisher St, Winnipeg, MB R3L 2L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e56f7a3c4554e618f9490a918a50954|BN20220145|7.7.0.0|",
+				"addressLine": "715 Fisher St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "715 Fisher St, Winnipeg, MB R3L 2L1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Riverview",
+				"postalCode": "R3L 2L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1252,
+					49.8637299
+				]
+			},
+			"bbox": [
+				-97.1269439,
+				49.8626057,
+				-97.1234561,
+				49.8648541
+			]
+		}
+	]
+}

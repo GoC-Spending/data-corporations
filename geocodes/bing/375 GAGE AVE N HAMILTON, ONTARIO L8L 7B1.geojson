@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Gage Ave N, Hamilton, ON L8L 7B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b96b0eff253b4502b678f28b3a687eab|BN20130632|7.7.0.0|",
+				"addressLine": "375 Gage Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Gage Ave N, Hamilton, ON L8L 7B1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector C",
+				"postalCode": "L8L 7B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82408,
+					43.26071
+				]
+			},
+			"bbox": [
+				-79.8256236,
+				43.2595858,
+				-79.8225364,
+				43.2618342
+			]
+		}
+	]
+}

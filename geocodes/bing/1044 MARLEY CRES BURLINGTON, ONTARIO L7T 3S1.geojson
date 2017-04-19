@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1044 Marley Cres, Burlington, ON L7T 3S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8962b43016d450b91f7135efad18727|BN20130520|7.7.0.0|",
+				"addressLine": "1044 Marley Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1044 Marley Cres, Burlington, ON L7T 3S1, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot South",
+				"postalCode": "L7T 3S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8208499,
+					43.32248
+				]
+			},
+			"bbox": [
+				-79.8223951,
+				43.3213558,
+				-79.8193047,
+				43.3236042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Summerlea Rd, Brampton, ON L6T 4V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ada1dceb5ce48ed802196f7a27ff18a|BN20240253|7.7.0.0|",
+				"addressLine": "1 Summerlea Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Summerlea Rd, Brampton, ON L6T 4V2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68039,
+					43.72137
+				]
+			},
+			"bbox": [
+				-79.6819455,
+				43.7202458,
+				-79.6788345,
+				43.7224942
+			]
+		}
+	]
+}

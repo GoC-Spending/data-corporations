@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3305 Purcell Ave, Abbotsford, BC V2S 8M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe774ab951a240a5a3e736d4cc61c9da|BN20280152|7.7.0.0|",
+				"addressLine": "3305 Purcell Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3305 Purcell Ave, Abbotsford, BC V2S 8M3, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Upper ten Oaks",
+				"postalCode": "V2S 8M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.24401,
+					49.0620199
+				]
+			},
+			"bbox": [
+				-122.2457256,
+				49.0608957,
+				-122.2422944,
+				49.0631441
+			]
+		}
+	]
+}

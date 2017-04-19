@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4450 Juneau St, Burnaby, BC V5C 4C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f51f5cc6613d4f42a06f31ecc03af5d9|BN20190653|7.7.0.0|",
+				"addressLine": "4450 Juneau St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4450 Juneau St, Burnaby, BC V5C 4C8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 4C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0045403,
+					49.263484
+				]
+			},
+			"bbox": [
+				-123.0062629,
+				49.2623599,
+				-123.0028176,
+				49.2646082
+			]
+		}
+	]
+}

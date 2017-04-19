@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16401 Dufferin St, King City, ON L7B 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15a65157df3d4a5f90407059a11956d3|BN20320521|7.7.0.0|",
+				"addressLine": "16401 Dufferin St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "16401 Dufferin St, King City, ON L7B 1K5, Canada",
+				"locality": "King",
+				"neighborhood": "King City",
+				"postalCode": "L7B 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52387,
+					44.01696
+				]
+			},
+			"bbox": [
+				-79.5254332,
+				44.0158358,
+				-79.5223068,
+				44.0180842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 10,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "Green Mountain Rd, Penticton, BC V2A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f7813469d0c4ef7a640cf02f3d19627|BN20190653|7.7.0.0|",
+				"addressLine": "Green Mountain Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Okanagan-Similkameen",
+				"countryRegion": "Canada",
+				"formattedAddress": "Green Mountain Rd, Penticton, BC V2A, Canada",
+				"locality": "Penticton",
+				"postalCode": "V2A 6J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.59765,
+					49.47896
+				]
+			},
+			"bbox": [
+				-119.59802,
+				49.47882,
+				-119.59727,
+				49.47907
+			]
+		}
+	]
+}

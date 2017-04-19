@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16690 113 Ave NW, Edmonton, AB T5M 2X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2016323748314817ad0641acf6b63087|BN20240423|7.7.0.0|",
+				"addressLine": "16690 113 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "16690 113 Ave NW, Edmonton, AB T5M 2X3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "West Sheffield Industrial",
+				"postalCode": "T5M 2X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6087138,
+					53.5614775
+				]
+			},
+			"bbox": [
+				-113.6106064,
+				53.5603533,
+				-113.6068211,
+				53.5626016
+			]
+		}
+	]
+}

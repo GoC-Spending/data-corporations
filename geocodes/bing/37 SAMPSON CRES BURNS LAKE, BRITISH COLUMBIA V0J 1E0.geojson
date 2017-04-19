@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Sampson St, Sumter, SC 29150",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d9ff4c3ddb54413aa5e9a5f807bb214|BN20131519|7.7.0.0|",
+				"addressLine": "37 Sampson St",
+				"adminDistrict": "SC",
+				"adminDistrict2": "Sumter",
+				"countryRegion": "United States",
+				"formattedAddress": "37 Sampson St, Sumter, SC 29150",
+				"locality": "Sumter",
+				"postalCode": "29150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3550058135739,
+					33.9177567727719
+				]
+			},
+			"bbox": [
+				-80.3612119019984,
+				33.9138940552012,
+				-80.3487997251494,
+				33.9216194903426
+			]
+		}
+	]
+}

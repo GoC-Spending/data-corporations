@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "97 Stairs St, Fredericton, NB E3G 5V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91acad477821434584f19fe44b6eeb26|BN20130631|7.7.0.0|",
+				"addressLine": "97 Stairs St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "97 Stairs St, Fredericton, NB E3G 5V6, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3G 5V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.65326,
+					45.99685
+				]
+			},
+			"bbox": [
+				-66.6548782,
+				45.9957258,
+				-66.6516418,
+				45.9979742
+			]
+		}
+	]
+}

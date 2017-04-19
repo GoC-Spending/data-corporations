@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1299 Oxford St E, London, ON N5Y 4W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6994462820354424890a5794b3fc6861|BN20200239|7.7.0.0|",
+				"addressLine": "1299 Oxford St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1299 Oxford St E, London, ON N5Y 4W5, Canada",
+				"locality": "London",
+				"neighborhood": "Carling",
+				"postalCode": "N5Y 4W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2108693,
+					43.0076957
+				]
+			},
+			"bbox": [
+				-81.2124066,
+				43.0065716,
+				-81.209332,
+				43.0088199
+			]
+		}
+	]
+}

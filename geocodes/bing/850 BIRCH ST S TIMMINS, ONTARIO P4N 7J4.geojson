@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "850 Birch St S, Timmins, ON P4N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00f76e1dd88f4015910bdefc4e1a04c5|BN20130631|7.7.0.0|",
+				"addressLine": "850 Birch St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "850 Birch St S, Timmins, ON P4N, Canada",
+				"locality": "Timmins",
+				"postalCode": "P4N 7J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.33318,
+					48.45912
+				]
+			},
+			"bbox": [
+				-81.3348752,
+				48.4579958,
+				-81.3314848,
+				48.4602442
+			]
+		}
+	]
+}

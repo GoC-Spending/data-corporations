@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1629 Foster's Way, Delta, BC V3M 6S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49dc9a88a1fd40ebaf0f8a41bd38a2d0|BN20130442|7.7.0.0|",
+				"addressLine": "1629 Foster's Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1629 Foster's Way, Delta, BC V3M 6S7, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 6S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.97318,
+					49.16427
+				]
+			},
+			"bbox": [
+				-122.9748992,
+				49.1631458,
+				-122.9714608,
+				49.1653942
+			]
+		}
+	]
+}

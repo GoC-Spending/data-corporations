@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3900 101 St NW, Edmonton, AB T6E 0A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "deb564e0a11946ae896684521b8704c6|BN20260223|7.7.0.0|",
+				"addressLine": "3900 101 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3900 101 St NW, Edmonton, AB T6E 0A5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 0A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48988,
+					53.47462
+				]
+			},
+			"bbox": [
+				-113.4917688,
+				53.4734958,
+				-113.4879912,
+				53.4757442
+			]
+		}
+	]
+}

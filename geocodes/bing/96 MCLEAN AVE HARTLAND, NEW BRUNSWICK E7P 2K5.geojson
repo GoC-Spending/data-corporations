@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "96 McLean Ave, Hartland, NB E7P 2K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd6b9765c7ad4b079b886bd0a9bc19b7|BN20200239|7.7.0.0|",
+				"addressLine": "96 McLean Ave",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Carleton",
+				"countryRegion": "Canada",
+				"formattedAddress": "96 McLean Ave, Hartland, NB E7P 2K5, Canada",
+				"locality": "Hartland",
+				"postalCode": "E7P 2K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-67.5141577,
+					46.2916527
+				]
+			},
+			"bbox": [
+				-67.5157846,
+				46.2905285,
+				-67.5125308,
+				46.2927768
+			]
+		}
+	]
+}

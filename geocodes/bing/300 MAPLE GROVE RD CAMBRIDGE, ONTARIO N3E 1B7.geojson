@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Maple Grove Rd, Cambridge, ON N3E 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9a15d20fc444837acb9dee68c41a1a9|BN20130632|7.7.0.0|",
+				"addressLine": "300 Maple Grove Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Maple Grove Rd, Cambridge, ON N3E 1B7, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N3E 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3839924,
+					43.4217147
+				]
+			},
+			"bbox": [
+				-80.3855401,
+				43.4205905,
+				-80.3824446,
+				43.4228388
+			]
+		}
+	]
+}

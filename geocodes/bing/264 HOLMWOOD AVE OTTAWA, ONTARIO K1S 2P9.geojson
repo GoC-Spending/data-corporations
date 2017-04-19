@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "264 Holmwood Ave, Ottawa, ON K1S 2P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc1007f9d955463c840e75215b92941c|BN20121762|7.7.0.0|",
+				"addressLine": "264 Holmwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "264 Holmwood Ave, Ottawa, ON K1S 2P9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Glebe-Dows Lake",
+				"postalCode": "K1S 2P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69334,
+					45.39681
+				]
+			},
+			"bbox": [
+				-75.6949409,
+				45.3956858,
+				-75.6917391,
+				45.3979342
+			]
+		}
+	]
+}

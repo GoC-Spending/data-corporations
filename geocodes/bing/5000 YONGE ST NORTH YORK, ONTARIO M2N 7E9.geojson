@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5000 Yonge St, North York, ON M2N 7E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c3d8e3e06c0f42ffad8e6ce33dfb4416|BN20320521|7.7.0.0|",
+				"addressLine": "5000 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5000 Yonge St, North York, ON M2N 7E9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 7E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4124,
+					43.76602
+				]
+			},
+			"bbox": [
+				-79.4139566,
+				43.7648958,
+				-79.4108434,
+				43.7671442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3287 Wellington Ct, Coquitlam, BC V3B 7X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f5965107f734bd4b16e3b4d13e8f5a2|BN20130631|7.7.0.0|",
+				"addressLine": "3287 Wellington Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3287 Wellington Ct, Coquitlam, BC V3B 7X2, Canada",
+				"locality": "Coquitlam",
+				"postalCode": "V3B 7X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.76093,
+					49.28876
+				]
+			},
+			"bbox": [
+				-122.7626535,
+				49.2876358,
+				-122.7592065,
+				49.2898842
+			]
+		}
+	]
+}

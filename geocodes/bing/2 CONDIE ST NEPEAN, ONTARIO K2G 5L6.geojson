@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Condie St, Nepean, ON K2G 5L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65759676b64149d4ab1d9b9d76343e93|BN20300154|7.7.0.0|",
+				"addressLine": "2 Condie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Condie St, Nepean, ON K2G 5L6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 5L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7664099,
+					45.3372
+				]
+			},
+			"bbox": [
+				-75.7680091,
+				45.3360758,
+				-75.7648107,
+				45.3383242
+			]
+		}
+	]
+}

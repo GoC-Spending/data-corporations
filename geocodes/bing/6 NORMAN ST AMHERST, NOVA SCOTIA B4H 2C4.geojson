@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Norman St, Amherst, NS B4H 2C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2a9bc303b1740ca9e07a641bb29b5d0|BN20130423|7.7.0.0|",
+				"addressLine": "6 Norman St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Norman St, Amherst, NS B4H 2C4, Canada",
+				"locality": "Amherst",
+				"postalCode": "B4H 2C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.20199,
+					45.83884
+				]
+			},
+			"bbox": [
+				-64.2036036,
+				45.8377158,
+				-64.2003764,
+				45.8399642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Albert St N, Regina, SK S4R 5E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d84f394bcd2841ba847e682cb54a3364|BN20130423|7.7.0.0|",
+				"addressLine": "200 Albert St N",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Albert St N, Regina, SK S4R 5E2, Canada",
+				"locality": "Regina",
+				"neighborhood": "Coronation Park",
+				"postalCode": "S4R 5E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.6184819,
+					50.4790276
+				]
+			},
+			"bbox": [
+				-104.6202485,
+				50.4779035,
+				-104.6167154,
+				50.4801518
+			]
+		}
+	]
+}

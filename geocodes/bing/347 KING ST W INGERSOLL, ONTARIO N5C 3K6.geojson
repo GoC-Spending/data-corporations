@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "347 King St W, Ingersoll, ON N5C 2K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "444c5aea086e4517949e923fde9d575f|BN20250135|7.7.0.0|",
+				"addressLine": "347 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "347 King St W, Ingersoll, ON N5C 2K9, Canada",
+				"locality": "Ingersoll",
+				"postalCode": "N5C 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.89588,
+					43.03017
+				]
+			},
+			"bbox": [
+				-80.8974178,
+				43.0290458,
+				-80.8943422,
+				43.0312942
+			]
+		}
+	]
+}

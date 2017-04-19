@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3731 Rees Rd, Richmond, BC V6X 2S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe20e88625e74c2d8e9c8ab981f42f76|BN20240253|7.7.0.0|",
+				"addressLine": "3731 Rees Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3731 Rees Rd, Richmond, BC V6X 2S4, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Cambie",
+				"postalCode": "V6X 2S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09559,
+					49.18694
+				]
+			},
+			"bbox": [
+				-123.09731,
+				49.1858158,
+				-123.09387,
+				49.1880642
+			]
+		}
+	]
+}

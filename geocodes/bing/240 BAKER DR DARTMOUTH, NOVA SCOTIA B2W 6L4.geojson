@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "240 Baker Dr, Dartmouth, NS B2W 6L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b32858a52194d41a6ef6db988c1f1a1|BN20130719|7.7.0.0|",
+				"addressLine": "240 Baker Dr",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "240 Baker Dr, Dartmouth, NS B2W 6L4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2W 6L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.52958,
+					44.65667
+				]
+			},
+			"bbox": [
+				-63.5311603,
+				44.6555458,
+				-63.5279997,
+				44.6577942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Baymark Rd, Thornhill, ON L3T 3X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f1dfa11d8c1d444187f9a4cc6e8a8496|BN20130625|7.7.0.0|",
+				"addressLine": "12 Baymark Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Baymark Rd, Thornhill, ON L3T 3X9, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 3X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4081999,
+					43.82864
+				]
+			},
+			"bbox": [
+				-79.4097582,
+				43.8275158,
+				-79.4066416,
+				43.8297642
+			]
+		}
+	]
+}

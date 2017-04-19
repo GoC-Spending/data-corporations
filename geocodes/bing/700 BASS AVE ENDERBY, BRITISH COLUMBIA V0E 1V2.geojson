@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "700 Bass Ave, Enderby, BC V0E 1V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c86d9010f42437ab5f2c952d9e977b4|BN20240253|7.7.0.0|",
+				"addressLine": "700 Bass Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "700 Bass Ave, Enderby, BC V0E 1V2, Canada",
+				"locality": "Enderby",
+				"postalCode": "V0E 1V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.1376158,
+					50.5589051
+				]
+			},
+			"bbox": [
+				-119.1393853,
+				50.5577809,
+				-119.1358463,
+				50.5600293
+			]
+		}
+	]
+}

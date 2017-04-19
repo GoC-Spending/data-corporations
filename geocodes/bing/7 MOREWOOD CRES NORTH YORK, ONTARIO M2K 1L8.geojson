@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Morewood Cres, North York, ON M2K 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64bb21a6497d4eb082ff1b1543a0040c|BN20200239|7.7.0.0|",
+				"addressLine": "7 Morewood Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Morewood Cres, North York, ON M2K 1L8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bayview Village",
+				"postalCode": "M2K 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38269,
+					43.77211
+				]
+			},
+			"bbox": [
+				-79.3842468,
+				43.7709858,
+				-79.3811332,
+				43.7732342
+			]
+		}
+	]
+}

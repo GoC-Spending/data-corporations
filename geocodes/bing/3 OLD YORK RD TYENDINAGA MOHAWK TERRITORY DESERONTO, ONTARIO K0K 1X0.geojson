@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Old York Rd, Deseronto, ON K0K 1X0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "066065ed2a9940c2925910fe56aeba1d|BN20130520|7.7.0.0|",
+				"addressLine": "3 Old York Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Old York Rd, Deseronto, ON K0K 1X0, Canada",
+				"locality": "Tyendinaga",
+				"neighborhood": "Deseronto",
+				"postalCode": "K0K 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.1124898,
+					44.192866
+				]
+			},
+			"bbox": [
+				-77.1140577,
+				44.1917418,
+				-77.1109219,
+				44.1939901
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1258 73 Ave SE, Calgary, AB T2H 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "17e4a370d9874099bec05c9d8fe3c205|BN20130719|7.7.0.0|",
+				"addressLine": "1258 73 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1258 73 Ave SE, Calgary, AB T2H 2V5, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2H 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.03882,
+					50.9882849
+				]
+			},
+			"bbox": [
+				-114.0406058,
+				50.9871607,
+				-114.0370341,
+				50.9894091
+			]
+		}
+	]
+}

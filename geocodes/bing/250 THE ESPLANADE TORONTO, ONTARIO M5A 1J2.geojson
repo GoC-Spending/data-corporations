@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 The Esplanade, Toronto, ON M5A 1J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70d97c1ad93945598da40d5d1279aa8d|BN20260231|7.7.0.0|",
+				"addressLine": "250 The Esplanade",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 The Esplanade, Toronto, ON M5A 1J2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5A 1J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36432,
+					43.64994
+				]
+			},
+			"bbox": [
+				-79.3658736,
+				43.6488158,
+				-79.3627664,
+				43.6510642
+			]
+		}
+	]
+}

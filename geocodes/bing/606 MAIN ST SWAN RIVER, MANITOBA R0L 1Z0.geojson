@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "606 Main St E, Swan River, MB R0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1777badb38a5454c8f9133b04f1666c3|BN20260231|7.7.0.0|",
+				"addressLine": "606 Main St E",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "606 Main St E, Swan River, MB R0L, Canada",
+				"locality": "Swan River",
+				"postalCode": "R0L 1Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-101.2688383,
+					52.1055056
+				]
+			},
+			"bbox": [
+				-101.2706685,
+				52.1043814,
+				-101.2670081,
+				52.1066297
+			]
+		}
+	]
+}

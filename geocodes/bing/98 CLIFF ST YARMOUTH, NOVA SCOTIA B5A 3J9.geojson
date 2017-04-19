@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "98 Cliff St, Yarmouth, NS B5A 3J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b9172a283ae0463a94f3c2ae641e2446|BN20130522|7.7.0.0|",
+				"addressLine": "98 Cliff St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Yarmouth",
+				"countryRegion": "Canada",
+				"formattedAddress": "98 Cliff St, Yarmouth, NS B5A 3J9, Canada",
+				"locality": "Yarmouth",
+				"postalCode": "B5A 3J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.10953,
+					43.83487
+				]
+			},
+			"bbox": [
+				-66.1110884,
+				43.8337458,
+				-66.1079716,
+				43.8359942
+			]
+		}
+	]
+}

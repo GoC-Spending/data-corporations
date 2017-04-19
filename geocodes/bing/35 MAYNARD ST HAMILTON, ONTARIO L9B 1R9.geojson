@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Maynard St, Hamilton, ON L9B 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d41048a8347a4876b90f8b1575b0a2e0|BN20130530|7.7.0.0|",
+				"addressLine": "35 Maynard St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Maynard St, Hamilton, ON L9B 1R9, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Falkirk East",
+				"postalCode": "L9B 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.91336,
+					43.2161
+				]
+			},
+			"bbox": [
+				-79.9149025,
+				43.2149758,
+				-79.9118175,
+				43.2172242
+			]
+		}
+	]
+}

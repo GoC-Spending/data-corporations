@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3540 3rd Ave, Port Alberni, BC V9Y 4E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89c65e8caeaa49029298d2751622a4bf|BN20300154|7.7.0.0|",
+				"addressLine": "3540 3rd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Alberni-Clayoquot",
+				"countryRegion": "Canada",
+				"formattedAddress": "3540 3rd Ave, Port Alberni, BC V9Y 4E5, Canada",
+				"locality": "Port Alberni",
+				"postalCode": "V9Y 4E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.8077955,
+					49.2409377
+				]
+			},
+			"bbox": [
+				-124.8095173,
+				49.2398135,
+				-124.8060737,
+				49.2420618
+			]
+		}
+	]
+}

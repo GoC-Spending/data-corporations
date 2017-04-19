@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "401 Main St, Greenstone, ON P0T 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ec8db7a3f7647f0a4fa4d76338420a8|BN20130431|7.7.0.0|",
+				"addressLine": "401 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "401 Main St, Greenstone, ON P0T 1W0, Canada",
+				"locality": "Greenstone",
+				"neighborhood": "Geraldton",
+				"postalCode": "P0T 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.9488116,
+					49.7234065
+				]
+			},
+			"bbox": [
+				-86.9505505,
+				49.7222824,
+				-86.9470727,
+				49.7245307
+			]
+		}
+	]
+}

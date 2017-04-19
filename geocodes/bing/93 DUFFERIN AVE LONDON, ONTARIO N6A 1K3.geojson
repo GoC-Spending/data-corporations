@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "93 Dufferin Ave, London, ON N6A 1K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "87770f146d4a4e71872b2ed76fb061ae|CO30275836|7.7.0.0|",
+				"addressLine": "93 Dufferin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "93 Dufferin Ave, London, ON N6A 1K3, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.254,
+					42.9857
+				]
+			},
+			"bbox": [
+				-81.2555367,
+				42.9845758,
+				-81.2524633,
+				42.9868242
+			]
+		}
+	]
+}

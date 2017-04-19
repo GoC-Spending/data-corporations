@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "950 McKeown Ave, North Bay, ON P1B 9P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "88732913adb341e18a842b4f3334d2f8|BN20131519|7.7.0.0|",
+				"addressLine": "950 McKeown Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "950 McKeown Ave, North Bay, ON P1B 9P3, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Thibeault Terrace",
+				"postalCode": "P1B 9P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4705833,
+					46.3331905
+				]
+			},
+			"bbox": [
+				-79.4722114,
+				46.3320663,
+				-79.4689552,
+				46.3343146
+			]
+		}
+	]
+}

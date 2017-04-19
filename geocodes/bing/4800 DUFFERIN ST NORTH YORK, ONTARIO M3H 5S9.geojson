@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4800 Dufferin St, North York, ON M3H 5S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d88e8d6593834cddad1cb59ec2922386|BN20260223|7.7.0.0|",
+				"addressLine": "4800 Dufferin St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4800 Dufferin St, North York, ON M3H 5S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3H 5S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47007,
+					43.77875
+				]
+			},
+			"bbox": [
+				-79.471627,
+				43.7776258,
+				-79.468513,
+				43.7798742
+			]
+		}
+	]
+}

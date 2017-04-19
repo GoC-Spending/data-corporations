@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3642 Portage Rd, Niagara Falls, ON L2J 2K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da1da30c02924acc9476e288fdcc6202|BN20121762|7.7.0.0|",
+				"addressLine": "3642 Portage Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "3642 Portage Rd, Niagara Falls, ON L2J 2K7, Canada",
+				"locality": "Niagara Falls",
+				"postalCode": "L2J 2K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0992925,
+					43.1202642
+				]
+			},
+			"bbox": [
+				-79.1008326,
+				43.11914,
+				-79.0977524,
+				43.1213883
+			]
+		}
+	]
+}

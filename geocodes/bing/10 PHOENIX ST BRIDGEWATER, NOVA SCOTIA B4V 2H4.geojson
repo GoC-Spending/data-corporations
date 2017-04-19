@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Phoenix St, Bridgewater, NS B4V 2H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b85ffa2004d84f0aa45986ac69c10fd2|BN20240253|7.7.0.0|",
+				"addressLine": "10 Phoenix St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Phoenix St, Bridgewater, NS B4V 2H4, Canada",
+				"locality": "Bridgewater",
+				"postalCode": "B4V 2H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.51806,
+					44.37659
+				]
+			},
+			"bbox": [
+				-64.5196328,
+				44.3754658,
+				-64.5164872,
+				44.3777142
+			]
+		}
+	]
+}

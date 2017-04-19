@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Glover Rd, Hamilton, ON L0R 1P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d521725e3b2468f80c0bab42537ec3c|BN20290118|7.7.0.0|",
+				"addressLine": "Glover Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "Glover Rd, Hamilton, ON L0R 1P0, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Glanbrook",
+				"postalCode": "L0R 1P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83229,
+					43.17152
+				]
+			},
+			"bbox": [
+				-79.83582,
+				43.16351,
+				-79.83078,
+				43.17487
+			]
+		}
+	]
+}

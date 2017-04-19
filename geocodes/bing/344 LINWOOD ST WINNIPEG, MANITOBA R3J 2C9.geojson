@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "344 Linwood St, Winnipeg, MB R3J 2C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c053593aea84042a5bb20d9b3b71083|BN20131519|7.7.0.0|",
+				"addressLine": "344 Linwood St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "344 Linwood St, Winnipeg, MB R3J 2C9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Deer Lodge",
+				"postalCode": "R3J 2C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.22791,
+					49.88365
+				]
+			},
+			"bbox": [
+				-97.2296547,
+				49.8825258,
+				-97.2261653,
+				49.8847742
+			]
+		}
+	]
+}

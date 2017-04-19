@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22111 45A Ave, Langley, BC V2Z 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07f8fe113ecc4915a8477746416dc9ab|BN20130533|7.7.0.0|",
+				"addressLine": "22111 45A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "22111 45A Ave, Langley, BC V2Z 1B5, Canada",
+				"locality": "Langley",
+				"neighborhood": "Murrayville",
+				"postalCode": "V2Z 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6119981,
+					49.0850202
+				]
+			},
+			"bbox": [
+				-122.6137145,
+				49.083896,
+				-122.6102817,
+				49.0861443
+			]
+		}
+	]
+}

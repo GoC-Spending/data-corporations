@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "720 Eaton Way, Delta, BC V3M 6J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6c4dad2d31d4426a2a900982c6706e9|BN20121764|7.7.0.0|",
+				"addressLine": "720 Eaton Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "720 Eaton Way, Delta, BC V3M 6J9, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 6J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.96398,
+					49.16401
+				]
+			},
+			"bbox": [
+				-122.9656992,
+				49.1628858,
+				-122.9622608,
+				49.1651342
+			]
+		}
+	]
+}

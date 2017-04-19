@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "420 Banks Rd, Kelowna, BC V1X 6A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6d8366225fb4b089a97f7d7d83ab28f|BN20130522|7.7.0.0|",
+				"addressLine": "420 Banks Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "420 Banks Rd, Kelowna, BC V1X 6A3, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Central City",
+				"postalCode": "V1X 6A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4234,
+					49.88458
+				]
+			},
+			"bbox": [
+				-119.4251447,
+				49.8834558,
+				-119.4216553,
+				49.8857042
+			]
+		}
+	]
+}

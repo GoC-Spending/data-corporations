@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3012 Murray St, Port Moody, BC V3H 1X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "893ac68ed41242c384b952881c26dc3a|BN20130431|7.7.0.0|",
+				"addressLine": "3012 Murray St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3012 Murray St, Port Moody, BC V3H 1X2, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 1X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.84371,
+					49.279
+				]
+			},
+			"bbox": [
+				-122.8454332,
+				49.2778758,
+				-122.8419868,
+				49.2801242
+			]
+		}
+	]
+}

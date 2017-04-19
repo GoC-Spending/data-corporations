@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "La Ronge, S0J 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46003699e6ab420f9cc750771d2132eb|BN20260231|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "La Ronge, S0J 1L0, Canada",
+				"locality": "La Ronge",
+				"postalCode": "S0J 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.29532623291,
+					55.112491607666
+				]
+			},
+			"bbox": [
+				-105.304329884798,
+				55.1086288900953,
+				-105.286322581022,
+				55.1163543252367
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 6,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "La Ronge, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46003699e6ab420f9cc750771d2132eb|BN20260231|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "La Ronge, Saskatchewan, Canada",
+				"locality": "La Ronge"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.29532623291,
+					55.112491607666
+				]
+			},
+			"bbox": [
+				-105.312400817871,
+				55.0971603393555,
+				-105.252342224121,
+				55.1334609985352
+			]
+		}
+	]
+}

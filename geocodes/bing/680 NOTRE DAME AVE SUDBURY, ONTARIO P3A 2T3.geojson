@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "680 Notre Dame Ave, Sudbury, ON P3A 2T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18c01f4423294bf093e1935feafaa14f|BN20130447|7.7.0.0|",
+				"addressLine": "680 Notre Dame Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "680 Notre Dame Ave, Sudbury, ON P3A 2T3, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3A 2T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.98577,
+					46.50806
+				]
+			},
+			"bbox": [
+				-80.9874033,
+				46.5069358,
+				-80.9841367,
+				46.5091842
+			]
+		}
+	]
+}

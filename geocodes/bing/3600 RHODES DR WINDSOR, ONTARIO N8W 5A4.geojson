@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3600 Rhodes Dr, Windsor, ON N8W 5A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca739971edf74d1ea33d740a8ef7dc08|BN20250135|7.7.0.0|",
+				"addressLine": "3600 Rhodes Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3600 Rhodes Dr, Windsor, ON N8W 5A4, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Walker Farm",
+				"postalCode": "N8W 5A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.96695,
+					42.28234
+				]
+			},
+			"bbox": [
+				-82.9684695,
+				42.2812158,
+				-82.9654305,
+				42.2834642
+			]
+		}
+	]
+}

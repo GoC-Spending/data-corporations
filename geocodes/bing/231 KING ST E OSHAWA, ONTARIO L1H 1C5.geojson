@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "231 King St E, Oshawa, ON L1H 1C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cbc62e5313dd4bd8a27946de98fa1df7|BN20320521|7.7.0.0|",
+				"addressLine": "231 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "231 King St E, Oshawa, ON L1H 1C5, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Central Oshawa",
+				"postalCode": "L1H 1C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.85497,
+					43.89928
+				]
+			},
+			"bbox": [
+				-78.8565301,
+				43.8981558,
+				-78.8534099,
+				43.9004042
+			]
+		}
+	]
+}

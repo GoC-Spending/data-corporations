@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "46 Meridian Rd, Etobicoke, ON M9W 4Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4a57160d9f984c47be769d01d3ff403f|BN20280152|7.7.0.0|",
+				"addressLine": "46 Meridian Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "46 Meridian Rd, Etobicoke, ON M9W 4Z7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 4Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58185,
+					43.68483
+				]
+			},
+			"bbox": [
+				-79.5834045,
+				43.6837058,
+				-79.5802955,
+				43.6859542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1350 16th St E, Owen Sound, ON N4K 6P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45e4df7d719345bf8142608f3771cd2b|BN20130447|7.7.0.0|",
+				"addressLine": "1350 16th St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Grey",
+				"countryRegion": "Canada",
+				"formattedAddress": "1350 16th St E, Owen Sound, ON N4K 6P9, Canada",
+				"locality": "Owen Sound",
+				"postalCode": "N4K 6P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9203487,
+					44.5744566
+				]
+			},
+			"bbox": [
+				-80.9219268,
+				44.5733324,
+				-80.9187706,
+				44.5755807
+			]
+		}
+	]
+}

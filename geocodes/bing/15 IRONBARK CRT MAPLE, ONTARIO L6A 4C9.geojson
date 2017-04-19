@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Ironbark Ct, Maple, ON L6A 4C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47b5494b29a24e628a4116728ef13358|BN20250135|7.7.0.0|",
+				"addressLine": "15 Ironbark Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Ironbark Ct, Maple, ON L6A 4C9, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 4C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47378,
+					43.84922
+				]
+			},
+			"bbox": [
+				-79.4753388,
+				43.8480958,
+				-79.4722212,
+				43.8503442
+			]
+		}
+	]
+}

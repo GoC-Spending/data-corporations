@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1090 Homer St, Vancouver, BC V6B 2W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4b04146efa24e82b0ca89776c6a962d|BN20260231|7.7.0.0|",
+				"addressLine": "1090 Homer St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1090 Homer St, Vancouver, BC V6B 2W9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Yaletown",
+				"postalCode": "V6B 2W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12115,
+					49.2762699
+				]
+			},
+			"bbox": [
+				-123.1228731,
+				49.2751457,
+				-123.1194269,
+				49.2773941
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Horsham St, Brampton, ON L6X 3R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b5b04fd00a6f47b1ba931143ed0e5bb9|BN20130431|7.7.0.0|",
+				"addressLine": "1 Horsham St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Horsham St, Brampton, ON L6X 3R9, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6X 3R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7851,
+					43.69925
+				]
+			},
+			"bbox": [
+				-79.7866549,
+				43.6981258,
+				-79.7835451,
+				43.7003742
+			]
+		}
+	]
+}

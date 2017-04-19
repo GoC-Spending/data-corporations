@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Pembroke St W, Pembroke, ON K8A 5M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c97efc09bb2a4f9784eb1e8d3b3ac162|BN20130632|7.7.0.0|",
+				"addressLine": "160 Pembroke St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Pembroke St W, Pembroke, ON K8A 5M8, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8A 5M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.1166417,
+					45.824983
+				]
+			},
+			"bbox": [
+				-77.1182548,
+				45.8238589,
+				-77.1150285,
+				45.8261072
+			]
+		}
+	]
+}

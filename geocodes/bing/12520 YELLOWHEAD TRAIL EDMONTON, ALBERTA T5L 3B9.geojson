@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12520 Yellowhead Trl NW, Edmonton, AB T5L 3B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c96e411b273948c4872f216796c215d2|BN20171457|7.7.0.0|",
+				"addressLine": "12520 Yellowhead Trl NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12520 Yellowhead Trl NW, Edmonton, AB T5L 3B9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Hagmann Estate Industrial",
+				"postalCode": "T5L 3B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.539,
+					53.58112
+				]
+			},
+			"bbox": [
+				-113.5408935,
+				53.5799958,
+				-113.5371065,
+				53.5822442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "239 Barrick Rd, Port Colborne, ON L3K 5Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6c775f252a64270ad881a56b08b0ce5|BN20220145|7.7.0.0|",
+				"addressLine": "239 Barrick Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "239 Barrick Rd, Port Colborne, ON L3K 5Z5, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 5Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25397,
+					42.91092
+				]
+			},
+			"bbox": [
+				-79.2555049,
+				42.9097958,
+				-79.2524351,
+				42.9120442
+			]
+		}
+	]
+}

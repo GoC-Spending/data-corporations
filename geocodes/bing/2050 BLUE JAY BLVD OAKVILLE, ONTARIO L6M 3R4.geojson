@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2050 Blue Jay Blvd, Oakville, ON L6M 3R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54fc0f85ade648ef9d97cdccfefa4952|BN20130721|7.7.0.0|",
+				"addressLine": "2050 Blue Jay Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2050 Blue Jay Blvd, Oakville, ON L6M 3R4, Canada",
+				"locality": "Oakville",
+				"neighborhood": "West Oak Trails",
+				"postalCode": "L6M 3R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.74097,
+					43.4406
+				]
+			},
+			"bbox": [
+				-79.7425182,
+				43.4394758,
+				-79.7394218,
+				43.4417242
+			]
+		}
+	]
+}

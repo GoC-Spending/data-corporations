@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1582 Senio Ave, Ottawa, ON K2C 1T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c1499dc6a714b6ba174caa94fbb861e|BN20130634|7.7.0.0|",
+				"addressLine": "1582 Senio Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1582 Senio Ave, Ottawa, ON K2C 1T8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carleton Heights-Rideauview",
+				"postalCode": "K2C 1T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70258,
+					45.36269
+				]
+			},
+			"bbox": [
+				-75.70418,
+				45.3615658,
+				-75.70098,
+				45.3638142
+			]
+		}
+	]
+}

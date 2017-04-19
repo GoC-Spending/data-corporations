@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "953 Woodbine Ave, Toronto, ON M4C 4B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3aff05287914a138556a5f07538effa|BN20130721|7.7.0.0|",
+				"addressLine": "953 Woodbine Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "953 Woodbine Ave, Toronto, ON M4C 4B6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "East End-Danforth",
+				"postalCode": "M4C 4B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3122,
+					43.68531
+				]
+			},
+			"bbox": [
+				-79.3137545,
+				43.6841858,
+				-79.3106455,
+				43.6864342
+			]
+		}
+	]
+}

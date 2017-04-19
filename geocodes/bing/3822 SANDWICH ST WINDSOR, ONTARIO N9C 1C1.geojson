@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3822 Sandwich St, Windsor, ON N9C 1C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92555a4759b2461db361029cc10e073a|BN20280152|7.7.0.0|",
+				"addressLine": "3822 Sandwich St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3822 Sandwich St, Windsor, ON N9C 1C1, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Ojibway",
+				"postalCode": "N9C 1C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.08405,
+					42.28978
+				]
+			},
+			"bbox": [
+				-83.0855696,
+				42.2886558,
+				-83.0825304,
+				42.2909042
+			]
+		}
+	]
+}

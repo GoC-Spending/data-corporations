@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15304 131 Ave NW, Edmonton, AB T5V 0A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05d98740b04642559a8d39b9feaa8e15|BN20130431|7.7.0.0|",
+				"addressLine": "15304 131 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15304 131 Ave NW, Edmonton, AB T5V 0A1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Mistatim Industrial",
+				"postalCode": "T5V 0A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.58481,
+					53.59096
+				]
+			},
+			"bbox": [
+				-113.586704,
+				53.5898358,
+				-113.582916,
+				53.5920842
+			]
+		}
+	]
+}

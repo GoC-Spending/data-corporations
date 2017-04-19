@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8867 Forest Park Dr, North Saanich, BC V8L 5A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75a3b00e6a6e4788befb2e451d4fc476|BN20130422|7.7.0.0|",
+				"addressLine": "8867 Forest Park Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "8867 Forest Park Dr, North Saanich, BC V8L 5A7, Canada",
+				"locality": "North Saanich",
+				"postalCode": "V8L 5A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.42671,
+					48.62317
+				]
+			},
+			"bbox": [
+				-123.4284107,
+				48.6220458,
+				-123.4250093,
+				48.6242942
+			]
+		}
+	]
+}

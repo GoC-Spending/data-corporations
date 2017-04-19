@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1401 Plank Rd, Sarnia, ON N7W 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf0cdcd86ea34fa08a9a8c0df77e1fa3|BN20130719|7.7.0.0|",
+				"addressLine": "1401 Plank Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1401 Plank Rd, Sarnia, ON N7W 1A7, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7W 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3558779,
+					42.9415606
+				]
+			},
+			"bbox": [
+				-82.3574135,
+				42.9404364,
+				-82.3543423,
+				42.9426847
+			]
+		}
+	]
+}

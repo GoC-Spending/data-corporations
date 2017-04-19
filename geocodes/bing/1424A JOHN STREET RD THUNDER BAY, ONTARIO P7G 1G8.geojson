@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1424 John Sreet Rd, Thunder Bay, ON P7G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aed9f0b396b84096818bfa55ec327755|BN20130533|7.7.0.0|",
+				"addressLine": "1424 John Sreet Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "1424 John Sreet Rd, Thunder Bay, ON P7G, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7G 1G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.28021,
+					48.44522
+				]
+			},
+			"bbox": [
+				-89.2819047,
+				48.4440958,
+				-89.2785153,
+				48.4463442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "333 Kenora Ave, Hamilton, ON L8E 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16dcffda81d54acd850b6c7b58440742|BN20130442|7.7.0.0|",
+				"addressLine": "333 Kenora Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "333 Kenora Ave, Hamilton, ON L8E 2W3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Nashdale",
+				"postalCode": "L8E 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7661,
+					43.24015
+				]
+			},
+			"bbox": [
+				-79.7676431,
+				43.2390258,
+				-79.7645569,
+				43.2412742
+			]
+		}
+	]
+}

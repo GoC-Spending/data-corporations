@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2680 Clifford St, West Lincoln, ON L0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24f18d07e7fd4724a02afc874a725d82|BN20210145|7.7.0.0|",
+				"addressLine": "2680 Clifford St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "2680 Clifford St, West Lincoln, ON L0R, Canada",
+				"locality": "West Lincoln",
+				"neighborhood": "Smithville",
+				"postalCode": "L0R 2A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53967,
+					43.10141
+				]
+			},
+			"bbox": [
+				-79.5412096,
+				43.1002858,
+				-79.5381304,
+				43.1025342
+			]
+		}
+	]
+}

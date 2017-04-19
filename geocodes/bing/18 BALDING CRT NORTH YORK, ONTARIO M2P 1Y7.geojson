@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Balding Ct, North York, ON M2P 1Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "742fc0f9419945f0a5306e41766a8fcb|BN20130631|7.7.0.0|",
+				"addressLine": "18 Balding Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Balding Ct, North York, ON M2P 1Y7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M2P 1Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39458,
+					43.7542
+				]
+			},
+			"bbox": [
+				-79.3961363,
+				43.7530758,
+				-79.3930237,
+				43.7553242
+			]
+		}
+	]
+}

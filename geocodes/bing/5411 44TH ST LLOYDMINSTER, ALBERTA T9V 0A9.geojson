@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5411 44 St, Lloydminster, AB T9V 0A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a240f02189c94958ba26f65c07defc14|BN20171457|7.7.0.0|",
+				"addressLine": "5411 44 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5411 44 St, Lloydminster, AB T9V 0A9, Canada",
+				"locality": "Lloydminster",
+				"postalCode": "T9V 0A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.017,
+					53.2777
+				]
+			},
+			"bbox": [
+				-110.0188801,
+				53.2765758,
+				-110.0151199,
+				53.2788242
+			]
+		}
+	]
+}

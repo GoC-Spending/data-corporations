@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1855 Beattie Ave, Ottawa, ON K1H 5R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d496346b3f84a34856df6b32be6c38a|BN20190642|7.7.0.0|",
+				"addressLine": "1855 Beattie Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1855 Beattie Ave, Ottawa, ON K1H 5R7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Playfair Park-Lynda Park-Guildwood",
+				"postalCode": "K1H 5R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.64248,
+					45.39183
+				]
+			},
+			"bbox": [
+				-75.6440808,
+				45.3907058,
+				-75.6408792,
+				45.3929542
+			]
+		}
+	]
+}

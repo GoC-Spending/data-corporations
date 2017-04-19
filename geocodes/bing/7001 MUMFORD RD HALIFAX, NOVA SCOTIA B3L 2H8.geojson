@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7001 Mumford Rd, Halifax, NS B3L 2H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a70db10f34b4d6c9c1fdfe90a829029|BN20130520|7.7.0.0|",
+				"addressLine": "7001 Mumford Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "7001 Mumford Rd, Halifax, NS B3L 2H8, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Armdale",
+				"postalCode": "B3L 2H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.6196825,
+					44.6478031
+				]
+			},
+			"bbox": [
+				-63.6212626,
+				44.646679,
+				-63.6181024,
+				44.6489273
+			]
+		}
+	]
+}

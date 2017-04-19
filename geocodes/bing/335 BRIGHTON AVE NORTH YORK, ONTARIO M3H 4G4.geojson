@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "335 Brighton Ave, North York, ON M3H 4G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dfdaa98e30a84b3ea03fb1d7247b4e44|BN20130625|7.7.0.0|",
+				"addressLine": "335 Brighton Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "335 Brighton Ave, North York, ON M3H 4G4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 4G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46302,
+					43.75609
+				]
+			},
+			"bbox": [
+				-79.4645764,
+				43.7549658,
+				-79.4614636,
+				43.7572142
+			]
+		}
+	]
+}

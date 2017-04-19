@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Jong St, Waterford, ON N0E 1Y0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52f30b4220b34d16a3ffb3c2eb65e415|BN20130442|7.7.0.0|",
+				"addressLine": "26 Jong St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Jong St, Waterford, ON N0E 1Y0, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Waterford",
+				"postalCode": "N0E 1Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2841306,
+					42.920178
+				]
+			},
+			"bbox": [
+				-80.2856657,
+				42.9190538,
+				-80.2825955,
+				42.9213022
+			]
+		}
+	]
+}

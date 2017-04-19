@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8725 Holgate Cres, Milton, ON L9T 5G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "592a479e4e3c43909d68f507a42544d9|BN20121762|7.7.0.0|",
+				"addressLine": "8725 Holgate Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "8725 Holgate Cres, Milton, ON L9T 5G7, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 5G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.91061,
+					43.5389399
+				]
+			},
+			"bbox": [
+				-79.9121608,
+				43.5378157,
+				-79.9090592,
+				43.5400641
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Jones Rd, Gravenhurst, ON P1P 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff9a82cc0b3040779a7700c43afd412a|BN20130442|7.7.0.0|",
+				"addressLine": "225 Jones Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Jones Rd, Gravenhurst, ON P1P 1X4, Canada",
+				"locality": "Gravenhurst",
+				"postalCode": "P1P 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36306,
+					44.93794
+				]
+			},
+			"bbox": [
+				-79.3646481,
+				44.9368158,
+				-79.3614719,
+				44.9390642
+			]
+		}
+	]
+}

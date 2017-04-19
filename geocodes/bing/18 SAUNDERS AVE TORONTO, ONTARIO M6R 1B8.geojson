@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Saunders Ave, Toronto, ON M6R 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b7e44c7017b4f71bc89a5b9c49c9ea8|BN20130721|7.7.0.0|",
+				"addressLine": "18 Saunders Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Saunders Ave, Toronto, ON M6R 1B8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Roncesvalles",
+				"postalCode": "M6R 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4403899,
+					43.6413
+				]
+			},
+			"bbox": [
+				-79.4419433,
+				43.6401758,
+				-79.4388365,
+				43.6424242
+			]
+		}
+	]
+}

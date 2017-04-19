@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1571 Sandhurst Cir, Scarborough, ON M1V 1V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9cfb21e9904467e8cb9751809c9543a|BN20130634|7.7.0.0|",
+				"addressLine": "1571 Sandhurst Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1571 Sandhurst Cir, Scarborough, ON M1V 1V2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt North",
+				"postalCode": "M1V 1V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2708151,
+					43.8087359
+				]
+			},
+			"bbox": [
+				-79.2723728,
+				43.8076118,
+				-79.2692574,
+				43.8098601
+			]
+		}
+	]
+}

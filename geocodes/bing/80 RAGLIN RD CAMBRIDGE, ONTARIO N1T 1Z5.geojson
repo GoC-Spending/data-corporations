@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Raglin Rd, Cambridge, ON N1T 1Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "215ee2083983487199e303aad64fcf3d|BN20240253|7.7.0.0|",
+				"addressLine": "80 Raglin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Raglin Rd, Cambridge, ON N1T 1Z5, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Fiddlesticks",
+				"postalCode": "N1T 1Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30085,
+					43.40202
+				]
+			},
+			"bbox": [
+				-80.3023972,
+				43.4008958,
+				-80.2993028,
+				43.4031442
+			]
+		}
+	]
+}

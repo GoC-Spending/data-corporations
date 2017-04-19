@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Strawberry St, Cameron, ON K0M 1G0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90c7b7f7062e49bd8e582a374c97bdab|BN20130447|7.7.0.0|",
+				"addressLine": "3 Strawberry St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Strawberry St, Cameron, ON K0M 1G0, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Cameron",
+				"postalCode": "K0M 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7680702,
+					44.4298203
+				]
+			},
+			"bbox": [
+				-78.7696444,
+				44.4286962,
+				-78.766496,
+				44.4309445
+			]
+		}
+	]
+}

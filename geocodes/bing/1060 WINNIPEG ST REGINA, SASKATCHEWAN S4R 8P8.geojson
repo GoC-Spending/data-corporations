@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1060 Winnipeg St, Regina, SK S4R 8P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "154eeb7095b94d20a56bfb08df478d09|BN20130422|7.7.0.0|",
+				"addressLine": "1060 Winnipeg St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1060 Winnipeg St, Regina, SK S4R 8P8, Canada",
+				"locality": "Regina",
+				"neighborhood": "Eastview",
+				"postalCode": "S4R 8P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.59586,
+					50.46208
+				]
+			},
+			"bbox": [
+				-104.5976259,
+				50.4609558,
+				-104.5940941,
+				50.4632042
+			]
+		}
+	]
+}

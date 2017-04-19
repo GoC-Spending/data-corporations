@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "307 10th St E, North Vancouver, BC V7L 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b194fea3543f437bbaf2c2fc75a7aa92|BN20130520|7.7.0.0|",
+				"addressLine": "307 10th St E",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "307 10th St E, North Vancouver, BC V7L 2E2, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7L 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.065568,
+					49.3166823
+				]
+			},
+			"bbox": [
+				-123.0672925,
+				49.3155582,
+				-123.0638435,
+				49.3178065
+			]
+		}
+	]
+}

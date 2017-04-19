@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "597 23e Avenue, Lachine, QC H8S 3V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75939fb7fff34b3aa455baed5ce57361|BN20130632|7.7.0.0|",
+				"addressLine": "597 23e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "597 23e Avenue, Lachine, QC H8S 3V3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8S 3V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.68486,
+					45.43972
+				]
+			},
+			"bbox": [
+				-73.6864621,
+				45.4385958,
+				-73.6832579,
+				45.4408442
+			]
+		}
+	]
+}

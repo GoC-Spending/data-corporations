@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "285 Fountain St S, Cambridge, ON N3H 1J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54affc7c345e47beaaeb67e4c8ce21e5|BN20300154|7.7.0.0|",
+				"addressLine": "285 Fountain St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "285 Fountain St S, Cambridge, ON N3H 1J2, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Preston Heights",
+				"postalCode": "N3H 1J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3709499,
+					43.39728
+				]
+			},
+			"bbox": [
+				-80.372497,
+				43.3961558,
+				-80.3694028,
+				43.3984042
+			]
+		}
+	]
+}

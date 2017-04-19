@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1846 Quinn St S, Prince George, BC V2N 1X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cbd5ec1987624fa29ca2516e99fe479c|BN20190653|7.7.0.0|",
+				"addressLine": "1846 Quinn St S",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "1846 Quinn St S, Prince George, BC V2N 1X5, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2N 1X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7915463,
+					53.9067513
+				]
+			},
+			"bbox": [
+				-122.7934545,
+				53.9056271,
+				-122.789638,
+				53.9078754
+			]
+		}
+	]
+}

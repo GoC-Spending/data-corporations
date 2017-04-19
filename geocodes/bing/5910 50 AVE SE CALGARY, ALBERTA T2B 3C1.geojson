@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5910 50 Ave SE, Calgary, AB T2B 3C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93bb2d86fa3c4690b686b36ebd1883c2|BN20130530|7.7.0.0|",
+				"addressLine": "5910 50 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5910 50 Ave SE, Calgary, AB T2B 3C1, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2B 3C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9483,
+					51.00894
+				]
+			},
+			"bbox": [
+				-113.9500866,
+				51.0078158,
+				-113.9465134,
+				51.0100642
+			]
+		}
+	]
+}

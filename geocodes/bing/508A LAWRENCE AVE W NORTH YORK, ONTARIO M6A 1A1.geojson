@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "508 Lawrence Ave W, North York, ON M6A 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d5bc6195b45e46d281ae09fa02352454|BN20260223|7.7.0.0|",
+				"addressLine": "508 Lawrence Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "508 Lawrence Ave W, North York, ON M6A 1A1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Englemount-Lawrence",
+				"postalCode": "M6A 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4306348,
+					43.7192123
+				]
+			},
+			"bbox": [
+				-79.4321902,
+				43.7180882,
+				-79.4290794,
+				43.7203365
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Indell Ln, Brampton, ON L6T 3Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1be90b939de4006a0899110cf58952d|BN20210145|7.7.0.0|",
+				"addressLine": "12 Indell Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Indell Ln, Brampton, ON L6T 3Y3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 3Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68974,
+					43.73592
+				]
+			},
+			"bbox": [
+				-79.6912958,
+				43.7347958,
+				-79.6881842,
+				43.7370442
+			]
+		}
+	]
+}

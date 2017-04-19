@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Elgin St, Ottawa, ON K2P 1L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "942abc57d1664c4cba889b99c254f5f3|BN20160335|7.7.0.0|",
+				"addressLine": "230 Elgin St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Elgin St, Ottawa, ON K2P 1L7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K2P 1L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6911515,
+					45.4185256
+				]
+			},
+			"bbox": [
+				-75.6927531,
+				45.4174014,
+				-75.68955,
+				45.4196497
+			]
+		}
+	]
+}

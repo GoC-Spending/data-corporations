@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Cornell Ave, Scarborough, ON M1N 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da39a8cd1af74bc8898a54ca05961e78|BN20240253|7.7.0.0|",
+				"addressLine": "32 Cornell Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Cornell Ave, Scarborough, ON M1N 2Y2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Birchcliffe-Cliffside",
+				"postalCode": "M1N 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27346,
+					43.68748
+				]
+			},
+			"bbox": [
+				-79.2750146,
+				43.6863558,
+				-79.2719054,
+				43.6886042
+			]
+		}
+	]
+}

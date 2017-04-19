@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13504 St Albert Trl NW, Edmonton, AB T5L 4P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ece22aff19354408b3252ab521eda8dc|BN20320521|7.7.0.0|",
+				"addressLine": "13504 St Albert Trl NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "13504 St Albert Trl NW, Edmonton, AB T5L 4P4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Bonaventure Industrial",
+				"postalCode": "T5L 4P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.572517,
+					53.5959733
+				]
+			},
+			"bbox": [
+				-113.5744112,
+				53.5948492,
+				-113.5706229,
+				53.5970975
+			]
+		}
+	]
+}

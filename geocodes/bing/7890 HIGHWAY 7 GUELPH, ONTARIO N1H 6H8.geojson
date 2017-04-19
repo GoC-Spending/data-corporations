@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7890 HWY-7, Guelph, ON N1H 6H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db7f4d567e0e4b90a9fd6c3e51f312b3|BN20130522|7.7.0.0|",
+				"addressLine": "7890 HWY-7",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "7890 HWY-7, Guelph, ON N1H 6H8, Canada",
+				"locality": "Guelph/Eramosa",
+				"neighborhood": "Guelph",
+				"postalCode": "N1H 6H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1916526,
+					43.5757522
+				]
+			},
+			"bbox": [
+				-80.1932043,
+				43.5746281,
+				-80.1901009,
+				43.5768764
+			]
+		}
+	]
+}

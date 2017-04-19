@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "715 4 St NW, Calgary, AB T2N 1P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61f0fb8aaeff4dd3a1476ec4133952aa|BN20260231|7.7.0.0|",
+				"addressLine": "715 4 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "715 4 St NW, Calgary, AB T2N 1P3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Sunnyside",
+				"postalCode": "T2N 1P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.07171,
+					51.05831
+				]
+			},
+			"bbox": [
+				-114.0734985,
+				51.0571858,
+				-114.0699215,
+				51.0594342
+			]
+		}
+	]
+}

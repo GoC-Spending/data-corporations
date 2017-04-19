@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2798 Lakeshore Pl, Langford, BC V9B 5T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "afe9843fd1ac42ed9fd3a1fcc123bd63|BN20210145|7.7.0.0|",
+				"addressLine": "2798 Lakeshore Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2798 Lakeshore Pl, Langford, BC V9B 5T5, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 5T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5324488,
+					48.4533327
+				]
+			},
+			"bbox": [
+				-123.5341437,
+				48.4522085,
+				-123.5307538,
+				48.4544568
+			]
+		}
+	]
+}

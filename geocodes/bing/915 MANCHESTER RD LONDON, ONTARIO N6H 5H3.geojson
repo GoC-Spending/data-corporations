@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "915 Manchester Rd, London, ON N6H 5H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c7060b8ef6b47819db838925db7fef4|BN20130442|7.7.0.0|",
+				"addressLine": "915 Manchester Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "915 Manchester Rd, London, ON N6H 5H3, Canada",
+				"locality": "London",
+				"neighborhood": "Oakridge",
+				"postalCode": "N6H 5H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3245,
+					42.9816
+				]
+			},
+			"bbox": [
+				-81.3260366,
+				42.9804758,
+				-81.3229634,
+				42.9827242
+			]
+		}
+	]
+}

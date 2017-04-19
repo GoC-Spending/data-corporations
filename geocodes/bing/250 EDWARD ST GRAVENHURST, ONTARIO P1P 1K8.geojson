@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Edward St, Gravenhurst, ON P1P 1K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "398129b0448d42908eedf0ca6d7b0266|BN20220145|7.7.0.0|",
+				"addressLine": "250 Edward St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Edward St, Gravenhurst, ON P1P 1K8, Canada",
+				"locality": "Gravenhurst",
+				"postalCode": "P1P 1K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3717999,
+					44.90871
+				]
+			},
+			"bbox": [
+				-79.3733872,
+				44.9075858,
+				-79.3702126,
+				44.9098342
+			]
+		}
+	]
+}

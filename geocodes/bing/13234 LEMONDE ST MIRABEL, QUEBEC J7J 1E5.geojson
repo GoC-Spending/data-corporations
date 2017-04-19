@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13234 Rue Lemonde, Mirabel, QC J7J 1E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de2ad30fdc0c471ab34ba1398ee1e1cd|BN20121764|7.7.0.0|",
+				"addressLine": "13234 Rue Lemonde",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Mirabel",
+				"countryRegion": "Canada",
+				"formattedAddress": "13234 Rue Lemonde, Mirabel, QC J7J 1E5, Canada",
+				"locality": "Mirabel",
+				"postalCode": "J7J 1E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.91848,
+					45.69646
+				]
+			},
+			"bbox": [
+				-73.9200895,
+				45.6953358,
+				-73.9168705,
+				45.6975842
+			]
+		}
+	]
+}

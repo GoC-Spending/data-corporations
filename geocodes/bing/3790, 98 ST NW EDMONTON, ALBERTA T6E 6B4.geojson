@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3790 98 St NW, Edmonton, AB T6E 6B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82e10fca89af4e3ab03ef702fa065fef|BN20171457|7.7.0.0|",
+				"addressLine": "3790 98 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3790 98 St NW, Edmonton, AB T6E 6B4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 6B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48301,
+					53.4722099
+				]
+			},
+			"bbox": [
+				-113.4848987,
+				53.4710857,
+				-113.4811213,
+				53.4733341
+			]
+		}
+	]
+}

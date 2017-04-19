@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Dundas St W, Belleville, ON K8P 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "59d3b4ab815f40e3ab04d6880a3a6e4d|BN20260231|7.7.0.0|",
+				"addressLine": "10 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Dundas St W, Belleville, ON K8P 1A1, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8P 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3863,
+					44.16039
+				]
+			},
+			"bbox": [
+				-77.387867,
+				44.1592658,
+				-77.384733,
+				44.1615142
+			]
+		}
+	]
+}

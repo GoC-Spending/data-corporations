@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Walkview Cres, Richmond Hill, ON L4E 4H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "485bac0bae1143dbbb55b5dbec74329d|BN20260231|7.7.0.0|",
+				"addressLine": "35 Walkview Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Walkview Cres, Richmond Hill, ON L4E 4H5, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Oak Ridges",
+				"postalCode": "L4E 4H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4827,
+					43.9514
+				]
+			},
+			"bbox": [
+				-79.4842615,
+				43.9502758,
+				-79.4811385,
+				43.9525242
+			]
+		}
+	]
+}

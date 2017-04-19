@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "766 Adelaide St N, London, ON N5Y 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c84ec6361554a53bcb8cbb6cfaaca20|BN20130625|7.7.0.0|",
+				"addressLine": "766 Adelaide St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "766 Adelaide St N, London, ON N5Y 2L6, Canada",
+				"locality": "London",
+				"neighborhood": "Carling",
+				"postalCode": "N5Y 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2369,
+					43.0001
+				]
+			},
+			"bbox": [
+				-81.2384371,
+				42.9989758,
+				-81.2353629,
+				43.0012242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "432 Rectory St, London, ON N5W 3W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb5b60cc6b754afba580e55a5bff85b1|BN20290118|7.7.0.0|",
+				"addressLine": "432 Rectory St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "432 Rectory St, London, ON N5W 3W4, Canada",
+				"locality": "London",
+				"neighborhood": "East London",
+				"postalCode": "N5W 3W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2242,
+					42.9905
+				]
+			},
+			"bbox": [
+				-81.2257368,
+				42.9893758,
+				-81.2226632,
+				42.9916242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 King St, Saint John, NB E2L 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd7b416ced0e4b30aee6e4e17be63c4a|BN20250135|7.7.0.0|",
+				"addressLine": "2 King St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 King St, Saint John, NB E2L 1G2, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.06217,
+					45.27272
+				]
+			},
+			"bbox": [
+				-66.0637674,
+				45.2715958,
+				-66.0605726,
+				45.2738442
+			]
+		}
+	]
+}

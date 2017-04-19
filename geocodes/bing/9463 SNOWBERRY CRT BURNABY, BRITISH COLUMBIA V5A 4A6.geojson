@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9463 Snowberry Ct, Burnaby, BC V5A 4A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cbcc1aaabbe24e88ad141fffea202301|BN20290118|7.7.0.0|",
+				"addressLine": "9463 Snowberry Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9463 Snowberry Ct, Burnaby, BC V5A 4A6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lake City",
+				"postalCode": "V5A 4A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9025943,
+					49.266549
+				]
+			},
+			"bbox": [
+				-122.904317,
+				49.2654249,
+				-122.9008716,
+				49.2676732
+			]
+		}
+	]
+}

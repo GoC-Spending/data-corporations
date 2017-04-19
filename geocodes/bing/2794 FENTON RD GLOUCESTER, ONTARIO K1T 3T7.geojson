@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2794 Fenton Rd, Gloucester, ON K1T 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "251a8f7c03ef49109b43ad540a131fe0|BN20240423|7.7.0.0|",
+				"addressLine": "2794 Fenton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2794 Fenton Rd, Gloucester, ON K1T 3T7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61851,
+					45.32211
+				]
+			},
+			"bbox": [
+				-75.6201088,
+				45.3209858,
+				-75.6169112,
+				45.3232342
+			]
+		}
+	]
+}

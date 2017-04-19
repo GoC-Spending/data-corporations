@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2628 58 Ave SE, Calgary, AB T2C 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f2c71c9a7e943d19c74c2fe9553e837|BN20260223|7.7.0.0|",
+				"addressLine": "2628 58 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2628 58 Ave SE, Calgary, AB T2C 1G5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.99862,
+					51.00369
+				]
+			},
+			"bbox": [
+				-114.0004064,
+				51.0025658,
+				-113.9968336,
+				51.0048142
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 School St, Miramichi, NB E1V 2W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d97c352038da4489920088a838de3d56|BN20131519|7.7.0.0|",
+				"addressLine": "170 School St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 School St, Miramichi, NB E1V 2W1, Canada",
+				"locality": "Miramichi",
+				"postalCode": "E1V 2W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.5696382,
+					46.9979641
+				]
+			},
+			"bbox": [
+				-65.5712864,
+				46.9968399,
+				-65.5679899,
+				46.9990882
+			]
+		}
+	]
+}

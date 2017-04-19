@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3330 Wells Ave, Saskatoon, SK S7K 5W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b99072cad28d4f7db725a15210fe9eff|BN20121762|7.7.0.0|",
+				"addressLine": "3330 Wells Ave",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "3330 Wells Ave, Saskatoon, SK S7K 5W7, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Hudson Bay Industrial",
+				"postalCode": "S7K 5W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.6481,
+					52.1858999
+				]
+			},
+			"bbox": [
+				-106.6499335,
+				52.1847757,
+				-106.6462665,
+				52.1870241
+			]
+		}
+	]
+}

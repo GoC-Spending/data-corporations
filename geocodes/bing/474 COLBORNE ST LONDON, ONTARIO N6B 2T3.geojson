@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "474 Colborne St, London, ON N6B 2T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61342a5744d64146b60f1cc0bf4887b4|BN20290118|7.7.0.0|",
+				"addressLine": "474 Colborne St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "474 Colborne St, London, ON N6B 2T3, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 2T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2403999,
+					42.9887
+				]
+			},
+			"bbox": [
+				-81.2419367,
+				42.9875758,
+				-81.2388631,
+				42.9898242
+			]
+		}
+	]
+}

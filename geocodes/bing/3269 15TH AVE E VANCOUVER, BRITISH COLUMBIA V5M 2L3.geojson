@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3269 E 15th Ave, Vancouver, BC V5M 2L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1b62efb226d4721b94edb13c136792f|BN20240423|7.7.0.0|",
+				"addressLine": "3269 E 15th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3269 E 15th Ave, Vancouver, BC V5M 2L3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5M 2L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.03501,
+					49.25664
+				]
+			},
+			"bbox": [
+				-123.0367324,
+				49.2555158,
+				-123.0332876,
+				49.2577642
+			]
+		}
+	]
+}

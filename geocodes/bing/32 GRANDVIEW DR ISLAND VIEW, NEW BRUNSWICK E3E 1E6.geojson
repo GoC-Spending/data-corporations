@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Grandview Dr, Island View, NB E3E 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "502656a0a978432b9317ae910893dd27|BN20130532|7.7.0.0|",
+				"addressLine": "32 Grandview Dr",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Grandview Dr, Island View, NB E3E 1E6, Canada",
+				"locality": "Kingsclear",
+				"neighborhood": "Island View",
+				"postalCode": "E3E 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.7846503,
+					45.9687572
+				]
+			},
+			"bbox": [
+				-66.7862676,
+				45.9676331,
+				-66.7830329,
+				45.9698814
+			]
+		}
+	]
+}

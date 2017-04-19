@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "523 Ridge Rd W, Grimsby, ON L3M 4E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b4a42ca7f644c15a1a925ba28ee8d6e|BN20250135|7.7.0.0|",
+				"addressLine": "523 Ridge Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "523 Ridge Rd W, Grimsby, ON L3M 4E7, Canada",
+				"locality": "Grimsby",
+				"postalCode": "L3M 4E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61442,
+					43.18792
+				]
+			},
+			"bbox": [
+				-79.6159618,
+				43.1867958,
+				-79.6128782,
+				43.1890442
+			]
+		}
+	]
+}

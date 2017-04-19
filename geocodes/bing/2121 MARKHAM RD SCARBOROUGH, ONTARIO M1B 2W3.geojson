@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2121 Markham Rd, Scarborough, ON M1B 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f6e094dde27481aa69d9519d8e9a6ab|BN20130721|7.7.0.0|",
+				"addressLine": "2121 Markham Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2121 Markham Rd, Scarborough, ON M1B 2W3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Malvern",
+				"postalCode": "M1B 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24195,
+					43.80637
+				]
+			},
+			"bbox": [
+				-79.2435077,
+				43.8052458,
+				-79.2403923,
+				43.8074942
+			]
+		}
+	]
+}

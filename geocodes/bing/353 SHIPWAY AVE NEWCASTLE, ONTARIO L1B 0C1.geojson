@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "353 Shipway Ave, Newcastle, ON L1B 0C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff4d883f08f549518cf7a954852d2006|BN20130721|7.7.0.0|",
+				"addressLine": "353 Shipway Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "353 Shipway Ave, Newcastle, ON L1B 0C1, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Newcastle",
+				"postalCode": "L1B 0C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.5922061,
+					43.8986851
+				]
+			},
+			"bbox": [
+				-78.5937662,
+				43.8975609,
+				-78.590646,
+				43.8998093
+			]
+		}
+	]
+}

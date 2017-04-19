@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4240 Glanford Ave, Victoria, BC V8Z 0A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "72e63d96bb9c4c3b943eb9ac8084f165|BN20250135|7.7.0.0|",
+				"addressLine": "4240 Glanford Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4240 Glanford Ave, Victoria, BC V8Z 0A1, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8Z 0A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.39055,
+					48.48333
+				]
+			},
+			"bbox": [
+				-123.392246,
+				48.4822058,
+				-123.388854,
+				48.4844542
+			]
+		}
+	]
+}

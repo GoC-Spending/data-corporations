@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "845 15th St W, North Vancouver, BC V7P 1M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "787a1344c29e4eb08070a83cbb49a9ce|BN20130530|7.7.0.0|",
+				"addressLine": "845 15th St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "845 15th St W, North Vancouver, BC V7P 1M5, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7P 1M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09609,
+					49.32203
+				]
+			},
+			"bbox": [
+				-123.0978147,
+				49.3209058,
+				-123.0943653,
+				49.3231542
+			]
+		}
+	]
+}

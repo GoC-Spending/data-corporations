@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12214 143 Ave NW, Edmonton, AB T5X 3R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "96f806c6f643469c964b1e1de09134cb|BN20171457|7.7.0.0|",
+				"addressLine": "12214 143 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12214 143 Ave NW, Edmonton, AB T5X 3R7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Carlisle",
+				"postalCode": "T5X 3R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53155,
+					53.6055599
+				]
+			},
+			"bbox": [
+				-113.5334446,
+				53.6044357,
+				-113.5296554,
+				53.6066841
+			]
+		}
+	]
+}

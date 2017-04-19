@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 Buchanan St, Cobourg, ON K9A 1Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fbee926b16eb45208459961e7d3ace16|BN20190642|7.7.0.0|",
+				"addressLine": "106 Buchanan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 Buchanan St, Cobourg, ON K9A 1Z1, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 1Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.17426,
+					43.96863
+				]
+			},
+			"bbox": [
+				-78.1758219,
+				43.9675058,
+				-78.1726981,
+				43.9697542
+			]
+		}
+	]
+}

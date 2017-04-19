@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Renfrew St, Winnipeg, MB R3N 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d28d820607a741d9a843a598dbf0ce7a|BN20130721|7.7.0.0|",
+				"addressLine": "111 Renfrew St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Renfrew St, Winnipeg, MB R3N 1J3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Sir John Franklin",
+				"postalCode": "R3N 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19598,
+					49.87335
+				]
+			},
+			"bbox": [
+				-97.1977243,
+				49.8722258,
+				-97.1942357,
+				49.8744742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Lake St, Grimsby, ON L3M 2G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2869208c2ee94ca7949bb7e5aee61090|BN20130532|7.7.0.0|",
+				"addressLine": "15 Lake St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Lake St, Grimsby, ON L3M 2G4, Canada",
+				"locality": "Grimsby",
+				"postalCode": "L3M 2G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.55285,
+					43.201
+				]
+			},
+			"bbox": [
+				-79.5543921,
+				43.1998758,
+				-79.5513079,
+				43.2021242
+			]
+		}
+	]
+}

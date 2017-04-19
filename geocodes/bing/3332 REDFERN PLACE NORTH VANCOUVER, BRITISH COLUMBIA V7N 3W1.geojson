@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3332 Redfern Pl, North Vancouver, BC V7N 3W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a99653b1a44840a1a35f64e26c898bcc|BN20130632|7.7.0.0|",
+				"addressLine": "3332 Redfern Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3332 Redfern Pl, North Vancouver, BC V7N 3W1, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norwood Queens",
+				"postalCode": "V7N 3W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08256,
+					49.33986
+				]
+			},
+			"bbox": [
+				-123.0842853,
+				49.3387358,
+				-123.0808347,
+				49.3409842
+			]
+		}
+	]
+}

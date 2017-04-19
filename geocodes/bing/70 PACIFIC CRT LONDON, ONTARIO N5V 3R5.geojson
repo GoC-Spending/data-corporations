@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Pacific Ct, London, ON N5V 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3c71830473140dda341040bc2354b60|BN20130442|7.7.0.0|",
+				"addressLine": "70 Pacific Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Pacific Ct, London, ON N5V 3R5, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1744,
+					43.0094
+				]
+			},
+			"bbox": [
+				-81.1759373,
+				43.0082758,
+				-81.1728627,
+				43.0105242
+			]
+		}
+	]
+}

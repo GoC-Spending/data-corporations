@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "136 Garden Ave, Ancaster, ON L9G 4W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf5e305abf844b8b9e98bcf59a7fdbfb|BN20130522|7.7.0.0|",
+				"addressLine": "136 Garden Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "136 Garden Ave, Ancaster, ON L9G 4W1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9G 4W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.976,
+					43.20378
+				]
+			},
+			"bbox": [
+				-79.9775422,
+				43.2026558,
+				-79.9744578,
+				43.2049042
+			]
+		}
+	]
+}

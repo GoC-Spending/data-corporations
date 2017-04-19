@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1112 Fort St, Victoria, BC V8V 3K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74df2c0e024c402fb5d90eda8827bc65|BN20171457|7.7.0.0|",
+				"addressLine": "1112 Fort St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1112 Fort St, Victoria, BC V8V 3K8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fernwood",
+				"postalCode": "V8V 3K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.35321,
+					48.42354
+				]
+			},
+			"bbox": [
+				-123.354904,
+				48.4224158,
+				-123.351516,
+				48.4246642
+			]
+		}
+	]
+}

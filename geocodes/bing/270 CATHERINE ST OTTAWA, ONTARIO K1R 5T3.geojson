@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "270 Catherine St, Ottawa, ON K1R 5T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9e095055b014111b9828e0cb9aba034|BN20130721|7.7.0.0|",
+				"addressLine": "270 Catherine St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "270 Catherine St, Ottawa, ON K1R 5T3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K1R 5T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69409,
+					45.40827
+				]
+			},
+			"bbox": [
+				-75.6956912,
+				45.4071458,
+				-75.6924888,
+				45.4093942
+			]
+		}
+	]
+}

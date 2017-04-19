@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "86 Prince William St, Saint John, NB E2L 2B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a71ddd6295d4209b98c244a70e56506|BN20240253|7.7.0.0|",
+				"addressLine": "86 Prince William St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "86 Prince William St, Saint John, NB E2L 2B3, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 2B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.06193,
+					45.27196
+				]
+			},
+			"bbox": [
+				-66.0635274,
+				45.2708358,
+				-66.0603326,
+				45.2730842
+			]
+		}
+	]
+}

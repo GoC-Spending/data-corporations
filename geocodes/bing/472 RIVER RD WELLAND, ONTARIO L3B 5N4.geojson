@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "472 River Rd, Welland, ON L3B 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8eceeaad080f4f258bedcd8ae7e1a158|BN20130520|7.7.0.0|",
+				"addressLine": "472 River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "472 River Rd, Welland, ON L3B 0A2, Canada",
+				"locality": "Welland",
+				"postalCode": "L3B 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23597,
+					43.00614
+				]
+			},
+			"bbox": [
+				-79.2375072,
+				43.0050158,
+				-79.2344328,
+				43.0072642
+			]
+		}
+	]
+}

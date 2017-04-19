@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5587 Yonge St, North York, ON M2N 5S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c37d6412f164413ab57e87a613cdc4f8|BN20131519|7.7.0.0|",
+				"addressLine": "5587 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5587 Yonge St, North York, ON M2N 5S4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 5S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4152299,
+					43.7797
+				]
+			},
+			"bbox": [
+				-79.4167869,
+				43.7785758,
+				-79.4136729,
+				43.7808242
+			]
+		}
+	]
+}

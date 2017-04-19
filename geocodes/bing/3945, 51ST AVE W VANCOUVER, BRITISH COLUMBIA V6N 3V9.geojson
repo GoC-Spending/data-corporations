@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3945 W 51st Ave, Vancouver, BC V6N 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ec30e921d0c4a00b3ec3da3d9dbc668|BN20121764|7.7.0.0|",
+				"addressLine": "3945 W 51st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3945 W 51st Ave, Vancouver, BC V6N 3V9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6N 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1954724,
+					49.226215
+				]
+			},
+			"bbox": [
+				-123.1971937,
+				49.2250909,
+				-123.1937511,
+				49.2273392
+			]
+		}
+	]
+}

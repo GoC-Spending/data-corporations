@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "72 Huntington Park Dr, Thornhill, ON L3T 7C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c3392a5695e4458aa294fc6658ce674|BN20171457|7.7.0.0|",
+				"addressLine": "72 Huntington Park Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "72 Huntington Park Dr, Thornhill, ON L3T 7C1, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 7C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38482,
+					43.82955
+				]
+			},
+			"bbox": [
+				-79.3863783,
+				43.8284258,
+				-79.3832617,
+				43.8306742
+			]
+		}
+	]
+}

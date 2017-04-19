@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Frontage Rd W, Virden, MB R0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78ed743c96fc4038ab3786c03e2d5069|BN20131519|7.7.0.0|",
+				"addressLine": "340 Frontage Rd W",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Frontage Rd W, Virden, MB R0M, Canada",
+				"locality": "Virden",
+				"postalCode": "R0M 2C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.9245489,
+					49.8579118
+				]
+			},
+			"bbox": [
+				-100.9262927,
+				49.8567877,
+				-100.9228052,
+				49.859036
+			]
+		}
+	]
+}

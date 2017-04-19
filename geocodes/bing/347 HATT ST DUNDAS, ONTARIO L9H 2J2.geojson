@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "347 Hatt St, Dundas, ON L9H 2J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a92fb2eb095f4d9dafd9574149758528|BN20300154|7.7.0.0|",
+				"addressLine": "347 Hatt St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "347 Hatt St, Dundas, ON L9H 2J2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 2J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.97188,
+					43.26945
+				]
+			},
+			"bbox": [
+				-79.9734239,
+				43.2683258,
+				-79.9703361,
+				43.2705742
+			]
+		}
+	]
+}

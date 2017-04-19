@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 6th St, New Westminster, BC V3L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05fbc93e231a447abb0f6bb87f89c861|BN20130522|7.7.0.0|",
+				"addressLine": "42 6th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 6th St, New Westminster, BC V3L, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Downtown New Westminster",
+				"postalCode": "V3L 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9086803,
+					49.2036845
+				]
+			},
+			"bbox": [
+				-122.9104008,
+				49.2025604,
+				-122.9069597,
+				49.2048087
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1216 36 Ave NE, Calgary, AB T2E 6M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62315de57cd34eaaa5327c60328f08ea|BN20130721|7.7.0.0|",
+				"addressLine": "1216 36 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1216 36 Ave NE, Calgary, AB T2E 6M8, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 6M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.03332,
+					51.08552
+				]
+			},
+			"bbox": [
+				-114.0351096,
+				51.0843958,
+				-114.0315304,
+				51.0866442
+			]
+		}
+	]
+}

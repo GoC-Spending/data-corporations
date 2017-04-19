@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "175 4e Rue, Montmagny, QC G5V 3L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dca65537299d4ea88c52b62510975a16|BN20240253|7.7.0.0|",
+				"addressLine": "175 4e Rue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montmagny",
+				"countryRegion": "Canada",
+				"formattedAddress": "175 4e Rue, Montmagny, QC G5V 3L6, Canada",
+				"locality": "Montmagny",
+				"postalCode": "G5V 3L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.57586,
+					46.96961
+				]
+			},
+			"bbox": [
+				-70.5775074,
+				46.9684858,
+				-70.5742126,
+				46.9707342
+			]
+		}
+	]
+}

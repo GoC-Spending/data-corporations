@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "211 King St E, Hamilton, ON L8N 1B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99ba06fa2db34df9b759689d1b0a4df5|BN20300154|7.7.0.0|",
+				"addressLine": "211 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "211 King St E, Hamilton, ON L8N 1B6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Beasley",
+				"postalCode": "L8N 1B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86276,
+					43.25488
+				]
+			},
+			"bbox": [
+				-79.8643035,
+				43.2537558,
+				-79.8612165,
+				43.2560042
+			]
+		}
+	]
+}

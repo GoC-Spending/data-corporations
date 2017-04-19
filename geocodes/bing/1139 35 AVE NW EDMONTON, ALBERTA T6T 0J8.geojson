@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1139 35 Ave NW, Edmonton, AB T6T 0J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9cf93616aaa043f59d1aae82eefb3c08|BN20171457|7.7.0.0|",
+				"addressLine": "1139 35 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1139 35 Ave NW, Edmonton, AB T6T 0J8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Tamarack",
+				"postalCode": "T6T 0J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.35674,
+					53.4687
+				]
+			},
+			"bbox": [
+				-113.3586285,
+				53.4675758,
+				-113.3548515,
+				53.4698242
+			]
+		}
+	]
+}

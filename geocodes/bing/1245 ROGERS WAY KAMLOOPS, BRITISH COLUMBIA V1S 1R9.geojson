@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1245 Rogers Way, Kamloops, BC V1S 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca63d9564faf40e2becfc3714a991f4d|BN20190642|7.7.0.0|",
+				"addressLine": "1245 Rogers Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "1245 Rogers Way, Kamloops, BC V1S 1R9, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "Aberdeen",
+				"postalCode": "V1S 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.37249,
+					50.65124
+				]
+			},
+			"bbox": [
+				-120.374263,
+				50.6501158,
+				-120.370717,
+				50.6523642
+			]
+		}
+	]
+}

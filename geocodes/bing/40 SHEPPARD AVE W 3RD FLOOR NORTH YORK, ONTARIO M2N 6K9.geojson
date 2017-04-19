@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Sheppard Ave W, North York, ON M2N 6K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78515dcc09354ffc9d00421665885f94|BN20130632|7.7.0.0|",
+				"addressLine": "40 Sheppard Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Sheppard Ave W, North York, ON M2N 6K9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 6K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41296,
+					43.76155
+				]
+			},
+			"bbox": [
+				-79.4145165,
+				43.7604258,
+				-79.4114035,
+				43.7626742
+			]
+		}
+	]
+}

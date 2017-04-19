@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "248 Pall Mall St, London, ON N6A 5P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31c0bba90a1449d2858b1dbe3a4e6cdc|BN20290118|7.7.0.0|",
+				"addressLine": "248 Pall Mall St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "248 Pall Mall St, London, ON N6A 5P6, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 5P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2501,
+					42.9931
+				]
+			},
+			"bbox": [
+				-81.2516369,
+				42.9919758,
+				-81.2485631,
+				42.9942242
+			]
+		}
+	]
+}

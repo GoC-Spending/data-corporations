@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Interchange Way, Concord, ON L4K 5Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "459db796299b4be5a9fa8aaf26d703cd|BN20121763|7.7.0.0|",
+				"addressLine": "300 Interchange Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Interchange Way, Concord, ON L4K 5Z8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 5Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52483,
+					43.78889
+				]
+			},
+			"bbox": [
+				-79.5263872,
+				43.7877658,
+				-79.5232728,
+				43.7900142
+			]
+		}
+	]
+}

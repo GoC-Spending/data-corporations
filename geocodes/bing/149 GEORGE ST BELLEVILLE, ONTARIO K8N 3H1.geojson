@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "149 George St, Belleville, ON K8N 3H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab238dc2a92346a6b028aab5456f6b5e|BN20130719|7.7.0.0|",
+				"addressLine": "149 George St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "149 George St, Belleville, ON K8N 3H1, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8N 3H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.37698,
+					44.16289
+				]
+			},
+			"bbox": [
+				-77.3785471,
+				44.1617658,
+				-77.3754129,
+				44.1640142
+			]
+		}
+	]
+}

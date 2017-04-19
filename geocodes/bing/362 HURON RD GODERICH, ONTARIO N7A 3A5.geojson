@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "362 Huron Rd, Goderich, ON N7A 3A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54d33f45f7a7439bbfa96902dd3e3532|BN20200239|7.7.0.0|",
+				"addressLine": "362 Huron Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "362 Huron Rd, Goderich, ON N7A 3A5, Canada",
+				"locality": "Goderich",
+				"postalCode": "N7A 3A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.6950693,
+					43.7338366
+				]
+			},
+			"bbox": [
+				-81.696625,
+				43.7327124,
+				-81.6935135,
+				43.7349607
+			]
+		}
+	]
+}

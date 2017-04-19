@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7255 Brentview Dr, Central Saanich, BC V8M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16c46e371aee421395a4e98b0a00194f|BN20121763|7.7.0.0|",
+				"addressLine": "7255 Brentview Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "7255 Brentview Dr, Central Saanich, BC V8M, Canada",
+				"locality": "Central Saanich",
+				"neighborhood": "Brentwood Bay",
+				"postalCode": "V8M 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4624289,
+					48.5787916
+				]
+			},
+			"bbox": [
+				-123.4641281,
+				48.5776675,
+				-123.4607298,
+				48.5799158
+			]
+		}
+	]
+}

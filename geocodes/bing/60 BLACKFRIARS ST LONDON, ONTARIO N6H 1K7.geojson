@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Blackfriars St, London, ON N6H 1K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db4f4549e6284dd38a385647ef44aead|BN20130532|7.7.0.0|",
+				"addressLine": "60 Blackfriars St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Blackfriars St, London, ON N6H 1K7, Canada",
+				"locality": "London",
+				"neighborhood": "West London",
+				"postalCode": "N6H 1K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2613,
+					42.9891
+				]
+			},
+			"bbox": [
+				-81.2628368,
+				42.9879758,
+				-81.2597632,
+				42.9902242
+			]
+		}
+	]
+}

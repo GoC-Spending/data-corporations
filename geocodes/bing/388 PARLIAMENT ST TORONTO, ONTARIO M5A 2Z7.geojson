@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "388 Parliament St, Toronto, ON M5A 2Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac4ac1009da247cba8358e00b9896c7e|BN20250135|7.7.0.0|",
+				"addressLine": "388 Parliament St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "388 Parliament St, Toronto, ON M5A 2Z7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 2Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3670999,
+					43.66136
+				]
+			},
+			"bbox": [
+				-79.3686538,
+				43.6602358,
+				-79.365546,
+				43.6624842
+			]
+		}
+	]
+}

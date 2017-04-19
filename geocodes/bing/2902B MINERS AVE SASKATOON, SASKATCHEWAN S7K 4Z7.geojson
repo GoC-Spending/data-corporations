@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2902 Miners Ave, Saskatoon, SK S7K 4Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "579120bc033a4eadb448a20734235d36|BN20250135|7.7.0.0|",
+				"addressLine": "2902 Miners Ave",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2902 Miners Ave, Saskatoon, SK S7K 4Z7, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Hudson Bay Industrial",
+				"postalCode": "S7K 4Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.6562,
+					52.17454
+				]
+			},
+			"bbox": [
+				-106.6580331,
+				52.1734158,
+				-106.6543669,
+				52.1756642
+			]
+		}
+	]
+}

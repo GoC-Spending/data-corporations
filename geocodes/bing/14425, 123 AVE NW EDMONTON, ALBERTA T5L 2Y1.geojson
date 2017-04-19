@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14425 123 Ave NW, Edmonton, AB T5L 2Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "acfa3fc842134d449a51883834fde823|BN20130422|7.7.0.0|",
+				"addressLine": "14425 123 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14425 123 Ave NW, Edmonton, AB T5L 2Y1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Dominion Industrial",
+				"postalCode": "T5L 2Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57001,
+					53.57625
+				]
+			},
+			"bbox": [
+				-113.5719033,
+				53.5751258,
+				-113.5681167,
+				53.5773742
+			]
+		}
+	]
+}

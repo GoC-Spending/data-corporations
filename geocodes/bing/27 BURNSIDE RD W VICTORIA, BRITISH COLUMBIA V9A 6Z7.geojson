@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Burnside Rd W, Victoria, BC V9A 6Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ae3a5fa72864ee1be3bf7e14d91914c|BN20130631|7.7.0.0|",
+				"addressLine": "27 Burnside Rd W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Burnside Rd W, Victoria, BC V9A 6Z7, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V9A 6Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38592,
+					48.44982
+				]
+			},
+			"bbox": [
+				-123.3876148,
+				48.4486958,
+				-123.3842252,
+				48.4509442
+			]
+		}
+	]
+}

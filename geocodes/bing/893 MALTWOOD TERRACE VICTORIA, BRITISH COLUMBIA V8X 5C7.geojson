@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "893 Maltwood Ter, Victoria, BC V8X 5C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c2ce05fb46e4e2083e5856c6738d792|BN20240423|7.7.0.0|",
+				"addressLine": "893 Maltwood Ter",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "893 Maltwood Ter, Victoria, BC V8X 5C7, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8X 5C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.37444,
+					48.48501
+				]
+			},
+			"bbox": [
+				-123.376136,
+				48.4838858,
+				-123.372744,
+				48.4861342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "451 Thatcher Dr E, Moose Jaw, SK S6J 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52f704ce87544ccdaa5a4abdaa1ce483|BN20320521|7.7.0.0|",
+				"addressLine": "451 Thatcher Dr E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "451 Thatcher Dr E, Moose Jaw, SK S6J 1L8, Canada",
+				"locality": "Moose Jaw",
+				"postalCode": "S6J 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.5236523,
+					50.4116951
+				]
+			},
+			"bbox": [
+				-105.5254163,
+				50.410571,
+				-105.5218883,
+				50.4128193
+			]
+		}
+	]
+}

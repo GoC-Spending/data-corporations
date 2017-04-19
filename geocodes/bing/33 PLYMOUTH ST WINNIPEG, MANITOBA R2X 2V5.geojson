@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Plymouth St, Winnipeg, MB R2X 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7878c6c1a35d40ea81818086cbee8d00|BN20160335|7.7.0.0|",
+				"addressLine": "33 Plymouth St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Plymouth St, Winnipeg, MB R2X 2V5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18771,
+					49.93905
+				]
+			},
+			"bbox": [
+				-97.1894567,
+				49.9379258,
+				-97.1859633,
+				49.9401742
+			]
+		}
+	]
+}

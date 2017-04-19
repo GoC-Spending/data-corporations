@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2610 Progressive Way, Abbotsford, BC V2T 6H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed060ec2b034443e9f1544b127e1b554|BN20171457|7.7.0.0|",
+				"addressLine": "2610 Progressive Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2610 Progressive Way, Abbotsford, BC V2T 6H8, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2T 6H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.37568,
+					49.04995
+				]
+			},
+			"bbox": [
+				-122.3773952,
+				49.0488258,
+				-122.3739648,
+				49.0510742
+			]
+		}
+	]
+}

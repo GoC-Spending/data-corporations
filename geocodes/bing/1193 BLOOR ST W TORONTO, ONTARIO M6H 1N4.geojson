@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1193 Bloor St W, Toronto, ON M6H 1N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a5f0e6ef5a04e4cbca375331d804223|BN20190653|7.7.0.0|",
+				"addressLine": "1193 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1193 Bloor St W, Toronto, ON M6H 1N4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dufferin Grove",
+				"postalCode": "M6H 1N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43923,
+					43.65883
+				]
+			},
+			"bbox": [
+				-79.4407838,
+				43.6577058,
+				-79.4376762,
+				43.6599542
+			]
+		}
+	]
+}

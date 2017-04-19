@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Lyman St, St Catharines, ON L2R 5M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9b8139623f7a49529f5f15889fc87711|BN20181720|7.7.0.0|",
+				"addressLine": "12 Lyman St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Lyman St, St Catharines, ON L2R 5M7, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Downtown",
+				"postalCode": "L2R 5M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24713,
+					43.16148
+				]
+			},
+			"bbox": [
+				-79.2486711,
+				43.1603558,
+				-79.2455889,
+				43.1626042
+			]
+		}
+	]
+}

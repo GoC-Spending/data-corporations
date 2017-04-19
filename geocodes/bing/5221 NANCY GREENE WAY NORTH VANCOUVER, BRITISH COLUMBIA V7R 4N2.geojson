@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5221 Nancy Greene Way, North Vancouver, BC V7R 4N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fac97e246704a9b887a3e2238d7aa36|BN20190653|7.7.0.0|",
+				"addressLine": "5221 Nancy Greene Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5221 Nancy Greene Way, North Vancouver, BC V7R 4N2, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Grousewoods",
+				"postalCode": "V7R 4N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10447,
+					49.3606
+				]
+			},
+			"bbox": [
+				-123.106196,
+				49.3594758,
+				-123.102744,
+				49.3617242
+			]
+		}
+	]
+}

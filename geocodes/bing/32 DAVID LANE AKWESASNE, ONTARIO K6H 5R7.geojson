@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 David Ln, Bombay, NY 13655",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f16fb9f8cfd94eaeb395f8732db6843f|BN20171457|7.7.0.0|",
+				"addressLine": "32 David Ln",
+				"adminDistrict": "NY",
+				"adminDistrict2": "Franklin",
+				"countryRegion": "United States",
+				"formattedAddress": "32 David Ln, Bombay, NY 13655",
+				"locality": "Bombay",
+				"postalCode": "13655"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.583987619562,
+					44.9684877522473
+				]
+			},
+			"bbox": [
+				-74.5912667368681,
+				44.9646250346767,
+				-74.5767085022558,
+				44.972350469818
+			]
+		}
+	]
+}

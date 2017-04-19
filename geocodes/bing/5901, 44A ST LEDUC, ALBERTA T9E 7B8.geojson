@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5901 44A St, Leduc, AB T9E 7B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4a04b01e50a54177a4781992e4744b4b|BN20200137|7.7.0.0|",
+				"addressLine": "5901 44A St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5901 44A St, Leduc, AB T9E 7B8, Canada",
+				"locality": "Leduc",
+				"postalCode": "T9E 7B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53828,
+					53.27266
+				]
+			},
+			"bbox": [
+				-113.5401598,
+				53.2715358,
+				-113.5364002,
+				53.2737842
+			]
+		}
+	]
+}

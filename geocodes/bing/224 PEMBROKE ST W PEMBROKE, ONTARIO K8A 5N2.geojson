@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "224 Pembroke St W, Pembroke, ON K8A 5N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dad8bb2d36f64c1f8a62ec49cb09a27c|BN20121763|7.7.0.0|",
+				"addressLine": "224 Pembroke St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "224 Pembroke St W, Pembroke, ON K8A 5N2, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8A 5N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.1177911,
+					45.8246136
+				]
+			},
+			"bbox": [
+				-77.1194043,
+				45.8234895,
+				-77.1161779,
+				45.8257378
+			]
+		}
+	]
+}

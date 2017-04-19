@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "503 Comox Rd, Nanaimo, BC V9R 3J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a476eb14a6c40da9f9573aabbaf3393|BN20250135|7.7.0.0|",
+				"addressLine": "503 Comox Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "503 Comox Rd, Nanaimo, BC V9R 3J2, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 3J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9443233,
+					49.1701266
+				]
+			},
+			"bbox": [
+				-123.9460426,
+				49.1690025,
+				-123.9426039,
+				49.1712508
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "336 26th St E, North Vancouver, BC V7N 1B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c36ad31dab3f4fc1b25ade5e7cab01c0|BN20130721|7.7.0.0|",
+				"addressLine": "336 26th St E",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "336 26th St E, North Vancouver, BC V7N 1B1, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7N 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0642303,
+					49.3331894
+				]
+			},
+			"bbox": [
+				-123.0659554,
+				49.3320653,
+				-123.0625053,
+				49.3343136
+			]
+		}
+	]
+}

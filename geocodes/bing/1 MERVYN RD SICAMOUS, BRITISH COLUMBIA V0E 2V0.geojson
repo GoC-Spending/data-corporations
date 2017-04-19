@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Mervyn Rd, Sicamous, BC V0E 2V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9edbb1a334434b78a99cd16912e4665d|BN20130530|7.7.0.0|",
+				"addressLine": "1 Mervyn Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Columbia-Shuswap",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Mervyn Rd, Sicamous, BC V0E 2V1, Canada",
+				"locality": "Sicamous",
+				"postalCode": "V0E 2V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.97205,
+					50.80948
+				]
+			},
+			"bbox": [
+				-118.973829,
+				50.8083558,
+				-118.970271,
+				50.8106042
+			]
+		}
+	]
+}

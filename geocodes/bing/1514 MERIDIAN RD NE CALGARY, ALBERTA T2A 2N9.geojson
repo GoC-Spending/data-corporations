@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1514 Meridian Rd NE, Calgary, AB T2A 2N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bdbcb416a9f949f8a775805bbb4cbfec|BN20130533|7.7.0.0|",
+				"addressLine": "1514 Meridian Rd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1514 Meridian Rd NE, Calgary, AB T2A 2N9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Meridian",
+				"postalCode": "T2A 2N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.997569,
+					51.0660584
+				]
+			},
+			"bbox": [
+				-113.9993579,
+				51.0649343,
+				-113.9957802,
+				51.0671826
+			]
+		}
+	]
+}

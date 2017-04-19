@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17240 64A Ave, Surrey, BC V3S 4P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e3e8a3079974504bffd43da6f4bf49b|BN20190642|7.7.0.0|",
+				"addressLine": "17240 64A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "17240 64A Ave, Surrey, BC V3S 4P8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 4P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7455499,
+					49.1195651
+				]
+			},
+			"bbox": [
+				-122.7472676,
+				49.118441,
+				-122.7438323,
+				49.1206893
+			]
+		}
+	]
+}

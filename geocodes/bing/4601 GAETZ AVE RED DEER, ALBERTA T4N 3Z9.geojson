@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4601 Gaetz Ave, Red Deer, AB T4N 3Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b6229342a8a944e4a381f5eb63fa9ce2|BN20121764|7.7.0.0|",
+				"addressLine": "4601 Gaetz Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4601 Gaetz Ave, Red Deer, AB T4N 3Z9, Canada",
+				"locality": "Red Deer",
+				"neighborhood": "Downtown Red Deer",
+				"postalCode": "T4N 3Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.8139196,
+					52.2653668
+				]
+			},
+			"bbox": [
+				-113.8157565,
+				52.2642426,
+				-113.8120828,
+				52.2664909
+			]
+		}
+	]
+}

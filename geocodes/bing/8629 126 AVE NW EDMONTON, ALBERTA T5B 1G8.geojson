@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8629 126 Ave NW, Edmonton, AB T5B 1G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "355cc12a6507492aa832f383702e2280|BN20290118|7.7.0.0|",
+				"addressLine": "8629 126 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8629 126 Ave NW, Edmonton, AB T5B 1G8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Yellowhead Corridor-East",
+				"postalCode": "T5B 1G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.47398,
+					53.5822999
+				]
+			},
+			"bbox": [
+				-113.4758736,
+				53.5811757,
+				-113.4720864,
+				53.5834241
+			]
+		}
+	]
+}

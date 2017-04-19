@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "320 N Service Rd W, Oakville, ON L6M 2R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "117124c34ccd4d249c3fbf9814282bb1|BN20121764|7.7.0.0|",
+				"addressLine": "320 N Service Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "320 N Service Rd W, Oakville, ON L6M 2R7, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Glen Abbey",
+				"postalCode": "L6M 2R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70403,
+					43.44509
+				]
+			},
+			"bbox": [
+				-79.7055783,
+				43.4439658,
+				-79.7024817,
+				43.4462142
+			]
+		}
+	]
+}

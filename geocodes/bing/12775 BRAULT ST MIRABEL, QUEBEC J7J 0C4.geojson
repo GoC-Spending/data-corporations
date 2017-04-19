@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12775 Rue Brault, Mirabel, QC J7J 0C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5fe68af7affe47c58ce8468ad69dfe79|BN20130620|7.7.0.0|",
+				"addressLine": "12775 Rue Brault",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Mirabel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12775 Rue Brault, Mirabel, QC J7J 0C4, Canada",
+				"locality": "Mirabel",
+				"postalCode": "J7J 0C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.9250689,
+					45.693819
+				]
+			},
+			"bbox": [
+				-73.9266782,
+				45.6926949,
+				-73.9234595,
+				45.6949432
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "512 Brant St, Woodstock, ON N4S 5J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df1660443aa344d1bd873afdd0a8096f|BN20121762|7.7.0.0|",
+				"addressLine": "512 Brant St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "512 Brant St, Woodstock, ON N4S 5J4, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 5J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7583499,
+					43.13921
+				]
+			},
+			"bbox": [
+				-80.7598905,
+				43.1380858,
+				-80.7568093,
+				43.1403342
+			]
+		}
+	]
+}

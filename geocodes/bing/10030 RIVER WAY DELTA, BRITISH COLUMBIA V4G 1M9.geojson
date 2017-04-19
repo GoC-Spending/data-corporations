@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10030 River Way, Delta, BC V4G 1M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e1b58435511e46b9ad24f12b213c613a|BN20130442|7.7.0.0|",
+				"addressLine": "10030 River Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10030 River Way, Delta, BC V4G 1M9, Canada",
+				"locality": "Delta",
+				"postalCode": "V4G 1M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9445528,
+					49.1490253
+				]
+			},
+			"bbox": [
+				-122.9462714,
+				49.1479012,
+				-122.9428341,
+				49.1501495
+			]
+		}
+	]
+}

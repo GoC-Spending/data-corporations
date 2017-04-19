@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3108 Carp Rd, Carp, ON K0A 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7c4ef26caa54a9dbc680c070cc212fc|BN20240423|7.7.0.0|",
+				"addressLine": "3108 Carp Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3108 Carp Rd, Carp, ON K0A 1L0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carp",
+				"postalCode": "K0A 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.00192,
+					45.31881
+				]
+			},
+			"bbox": [
+				-76.0035187,
+				45.3176858,
+				-76.0003213,
+				45.3199342
+			]
+		}
+	]
+}

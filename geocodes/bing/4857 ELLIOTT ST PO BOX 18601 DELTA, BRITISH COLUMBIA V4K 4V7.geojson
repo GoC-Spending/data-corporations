@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4857 Elliott St, Delta, BC V4K 2X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7adbd8ca738b40a7a16b9fa47882bcd5|BN20240253|7.7.0.0|",
+				"addressLine": "4857 Elliott St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4857 Elliott St, Delta, BC V4K 2X7, Canada",
+				"locality": "Delta",
+				"neighborhood": "Ladner",
+				"postalCode": "V4K 2X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0836106,
+					49.0911816
+				]
+			},
+			"bbox": [
+				-123.0853272,
+				49.0900574,
+				-123.081894,
+				49.0923057
+			]
+		}
+	]
+}

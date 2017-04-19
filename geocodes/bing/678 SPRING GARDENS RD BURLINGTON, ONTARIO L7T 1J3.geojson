@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "678 Spring Gardens Rd, Burlington, ON L7T 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af5dd6bdc0964d1d9e9db43da72d4797|BN20240423|7.7.0.0|",
+				"addressLine": "678 Spring Gardens Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "678 Spring Gardens Rd, Burlington, ON L7T 1J3, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot South",
+				"postalCode": "L7T 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87412,
+					43.2893199
+				]
+			},
+			"bbox": [
+				-79.8756644,
+				43.2881957,
+				-79.8725756,
+				43.2904441
+			]
+		}
+	]
+}

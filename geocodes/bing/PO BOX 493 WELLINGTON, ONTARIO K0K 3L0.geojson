@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Wellington, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22c8b2ed9dbc408b8a59130b7232e997|BN20181720|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "Wellington, Ontario, Canada",
+				"locality": "Wellington"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3504180908203,
+					43.9516906738281
+				]
+			},
+			"bbox": [
+				-77.3544082641602,
+				43.9486999511719,
+				-77.3355712890625,
+				43.9576988220215
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Prince Edward, K0K 3L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22c8b2ed9dbc408b8a59130b7232e997|BN20181720|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "Prince Edward, K0K 3L0, Canada",
+				"locality": "Prince Edward",
+				"postalCode": "K0K 3L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3744659423828,
+					43.9438705444336
+				]
+			},
+			"bbox": [
+				-77.3816184599294,
+				43.9400078268629,
+				-77.3673134248362,
+				43.9477332620043
+			]
+		}
+	]
+}

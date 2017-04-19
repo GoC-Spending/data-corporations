@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Herzberg Rd, Kanata, ON K2K 2A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cef35b42bc4c405ebe631551295848d0|BN20181720|7.7.0.0|",
+				"addressLine": "250 Herzberg Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Herzberg Rd, Kanata, ON K2K 2A1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 2A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9,
+					45.34295
+				]
+			},
+			"bbox": [
+				-75.9015994,
+				45.3418258,
+				-75.8984006,
+				45.3440742
+			]
+		}
+	]
+}

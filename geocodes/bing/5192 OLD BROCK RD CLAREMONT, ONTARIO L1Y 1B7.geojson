@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5192 Old Brock Rd, Claremont, ON L1Y 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4c93f4293de4265aaf49d93d366dea0|BN20320521|7.7.0.0|",
+				"addressLine": "5192 Old Brock Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "5192 Old Brock Rd, Claremont, ON L1Y 1B7, Canada",
+				"locality": "Pickering",
+				"neighborhood": "Claremont",
+				"postalCode": "L1Y 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1323049,
+					43.9797843
+				]
+			},
+			"bbox": [
+				-79.1338671,
+				43.9786602,
+				-79.1307427,
+				43.9809085
+			]
+		}
+	]
+}

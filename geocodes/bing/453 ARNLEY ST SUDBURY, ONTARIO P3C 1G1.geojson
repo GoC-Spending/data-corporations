@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "453 Arnley St, Sudbury, ON P3C 1G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68fbb366731c40d189666f2bae16b77a|BN20130634|7.7.0.0|",
+				"addressLine": "453 Arnley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "453 Arnley St, Sudbury, ON P3C 1G1, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3C 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.011266,
+					46.4841051
+				]
+			},
+			"bbox": [
+				-81.0128986,
+				46.4829809,
+				-81.0096334,
+				46.4852293
+			]
+		}
+	]
+}

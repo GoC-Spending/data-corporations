@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4112 91A St NW, Edmonton, AB T6E 5V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "374f722862b948bbbade9c5e3486ef0f|BN20130631|7.7.0.0|",
+				"addressLine": "4112 91A St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4112 91A St NW, Edmonton, AB T6E 5V2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 5V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46919,
+					53.47735
+				]
+			},
+			"bbox": [
+				-113.4710789,
+				53.4762258,
+				-113.4673011,
+				53.4784742
+			]
+		}
+	]
+}

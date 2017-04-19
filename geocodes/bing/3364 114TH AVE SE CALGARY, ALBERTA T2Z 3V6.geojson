@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3364 114 Ave SE, Calgary, AB T2Z 3V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b6af4a75115412eaa08231956e3c32b|BN20130719|7.7.0.0|",
+				"addressLine": "3364 114 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3364 114 Ave SE, Calgary, AB T2Z 3V6, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2Z 3V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9890856,
+					50.9496327
+				]
+			},
+			"bbox": [
+				-113.9908699,
+				50.9485085,
+				-113.9873012,
+				50.9507568
+			]
+		}
+	]
+}

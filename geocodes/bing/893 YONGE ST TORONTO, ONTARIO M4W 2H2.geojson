@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "893 Yonge St, Toronto, ON M4W 2H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52a7e73c67e347ccbf0bbaa84f0afd1e|BN20131519|7.7.0.0|",
+				"addressLine": "893 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "893 Yonge St, Toronto, ON M4W 2H2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rosedale-Moore Park",
+				"postalCode": "M4W 2H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38816,
+					43.67465
+				]
+			},
+			"bbox": [
+				-79.3897143,
+				43.6735258,
+				-79.3866057,
+				43.6757742
+			]
+		}
+	]
+}

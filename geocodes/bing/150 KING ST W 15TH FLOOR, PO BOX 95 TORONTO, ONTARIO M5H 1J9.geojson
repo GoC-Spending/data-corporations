@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 King St W, Toronto, ON M5H 1J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bdf5a420d8f64d89b495495275d4106f|BN20130431|7.7.0.0|",
+				"addressLine": "150 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 King St W, Toronto, ON M5H 1J9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H 1J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38419,
+					43.64821
+				]
+			},
+			"bbox": [
+				-79.3857436,
+				43.6470858,
+				-79.3826364,
+				43.6493342
+			]
+		}
+	]
+}

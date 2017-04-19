@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Karl Clark Rd NW, Edmonton, AB T6N 1H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0187694cdb1348cb8d571fe7e3767170|BN20171457|7.7.0.0|",
+				"addressLine": "200 Karl Clark Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Karl Clark Rd NW, Edmonton, AB T6N 1H2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Edmonton Research and Development",
+				"postalCode": "T6N 1H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4752,
+					53.4473399
+				]
+			},
+			"bbox": [
+				-113.4770876,
+				53.4462157,
+				-113.4733124,
+				53.4484641
+			]
+		}
+	]
+}

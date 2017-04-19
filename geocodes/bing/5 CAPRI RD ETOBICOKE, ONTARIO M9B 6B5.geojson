@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Capri Rd, Etobicoke, ON M9B 6B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1138c5af317c48af84a515eff1ca7de1|BN20121764|7.7.0.0|",
+				"addressLine": "5 Capri Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Capri Rd, Etobicoke, ON M9B 6B5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M9B 6B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5645,
+					43.65171
+				]
+			},
+			"bbox": [
+				-79.5660537,
+				43.6505858,
+				-79.5629463,
+				43.6528342
+			]
+		}
+	]
+}

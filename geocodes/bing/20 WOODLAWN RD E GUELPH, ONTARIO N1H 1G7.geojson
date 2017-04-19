@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Woodlawn Rd E, Guelph, ON N1H 1G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3db13e3f681d4e6c97b86c57a13fa450|BN20130634|7.7.0.0|",
+				"addressLine": "20 Woodlawn Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Woodlawn Rd E, Guelph, ON N1H 1G7, Canada",
+				"locality": "Guelph",
+				"neighborhood": "General Hospital/Riverside Park",
+				"postalCode": "N1H 1G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2763083,
+					43.5660627
+				]
+			},
+			"bbox": [
+				-80.2778598,
+				43.5649386,
+				-80.2747569,
+				43.5671869
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Dohme Ave, East York, ON M4B 1Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7c4c3609e634549b719e2f1e8431af1|BN20130634|7.7.0.0|",
+				"addressLine": "8 Dohme Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Dohme Ave, East York, ON M4B 1Y8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "O'Connor-Parkview",
+				"postalCode": "M4B 1Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31071,
+					43.71178
+				]
+			},
+			"bbox": [
+				-79.3122652,
+				43.7106558,
+				-79.3091548,
+				43.7129042
+			]
+		}
+	]
+}

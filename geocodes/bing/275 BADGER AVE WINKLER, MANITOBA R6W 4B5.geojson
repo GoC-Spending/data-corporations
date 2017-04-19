@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Badger Ave, Winkler, MB R6W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0d4745d001a40f8a8eb9dd9d10eeab6|BN20130631|7.7.0.0|",
+				"addressLine": "275 Badger Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Badger Ave, Winkler, MB R6W, Canada",
+				"locality": "Winkler",
+				"postalCode": "R6W 4B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.92855,
+					49.16859
+				]
+			},
+			"bbox": [
+				-97.9302693,
+				49.1674658,
+				-97.9268307,
+				49.1697142
+			]
+		}
+	]
+}

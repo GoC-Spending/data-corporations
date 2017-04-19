@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "800 Tolmie Ave, Saanich, BC V8X 3W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdebdadb5b694621ad4f10b7965e73f1|BN20260231|7.7.0.0|",
+				"addressLine": "800 Tolmie Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "800 Tolmie Ave, Saanich, BC V8X 3W4, Canada",
+				"locality": "Saanich",
+				"postalCode": "V8X 3W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36861,
+					48.44835
+				]
+			},
+			"bbox": [
+				-123.3703048,
+				48.4472258,
+				-123.3669152,
+				48.4494742
+			]
+		}
+	]
+}

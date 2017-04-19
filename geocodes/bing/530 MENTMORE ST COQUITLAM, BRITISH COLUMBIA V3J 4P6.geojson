@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Mentmore St, Coquitlam, BC V3J 4P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8cd0bf107c474479ae0759bf79f7abf0|BN20220145|7.7.0.0|",
+				"addressLine": "530 Mentmore St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Mentmore St, Coquitlam, BC V3J 4P6, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cariboo/Burquitlam",
+				"postalCode": "V3J 4P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87091,
+					49.25062
+				]
+			},
+			"bbox": [
+				-122.8726322,
+				49.2494958,
+				-122.8691878,
+				49.2517442
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Merrickville, K0G 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "331ad69db5ef4d1995c057c2af91d7d0|BN20130530|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "Merrickville, K0G 1N0, Canada",
+				"locality": "Merrickville",
+				"postalCode": "K0G 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8360290527344,
+					44.9133148193359
+				]
+			},
+			"bbox": [
+				-75.8433011793654,
+				44.9094521017653,
+				-75.8287569261034,
+				44.9171775369066
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Burritts Rapids, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "331ad69db5ef4d1995c057c2af91d7d0|BN20130530|7.7.0.0|",
+				"adminDistrict": "ON",
+				"countryRegion": "Canada",
+				"formattedAddress": "Burritts Rapids, Ontario, Canada",
+				"neighborhood": "Burritts Rapids"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7986068725586,
+					44.9830589294434
+				]
+			},
+			"bbox": [
+				-75.8058878394744,
+				44.9791962118727,
+				-75.7913259056428,
+				44.986921647014
+			]
+		}
+	]
+}

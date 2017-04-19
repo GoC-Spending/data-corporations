@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1900 River Rd, Sarnia, ON N7T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05f3f6fa3da1407c80b853f2ec3d26e8|BN20130447|7.7.0.0|",
+				"addressLine": "1900 River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1900 River Rd, Sarnia, ON N7T, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 7J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4544003,
+					42.9162509
+				]
+			},
+			"bbox": [
+				-82.4559353,
+				42.9151268,
+				-82.4528653,
+				42.9173751
+			]
+		}
+	]
+}

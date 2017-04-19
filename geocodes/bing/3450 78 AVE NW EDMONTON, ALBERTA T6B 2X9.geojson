@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3450 78 Ave NW, Edmonton, AB T6B 2X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "649ff21df31f4945942c91501d8a88ba|BN20121763|7.7.0.0|",
+				"addressLine": "3450 78 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3450 78 Ave NW, Edmonton, AB T6B 2X9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Weir Industrial",
+				"postalCode": "T6B 2X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.39551,
+					53.5144
+				]
+			},
+			"bbox": [
+				-113.3974005,
+				53.5132758,
+				-113.3936195,
+				53.5155242
+			]
+		}
+	]
+}

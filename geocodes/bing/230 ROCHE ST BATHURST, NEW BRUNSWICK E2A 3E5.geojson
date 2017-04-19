@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Roche St, Bathurst, NB E2A 3E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b35443d2bca413595fb9c5cfe141a0b|BN20250135|7.7.0.0|",
+				"addressLine": "230 Roche St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Gloucester",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Roche St, Bathurst, NB E2A 3E5, Canada",
+				"locality": "Bathurst",
+				"postalCode": "E2A 3E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.68069,
+					47.6445
+				]
+			},
+			"bbox": [
+				-65.6823586,
+				47.6433758,
+				-65.6790214,
+				47.6456242
+			]
+		}
+	]
+}

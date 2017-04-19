@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1810 Albion Rd, Etobicoke, ON M9W 5T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2970ba6293c541ee81c439c66faf75d7|BN20260223|7.7.0.0|",
+				"addressLine": "1810 Albion Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1810 Albion Rd, Etobicoke, ON M9W 5T1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 5T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61313,
+					43.7459599
+				]
+			},
+			"bbox": [
+				-79.6146861,
+				43.7448357,
+				-79.6115739,
+				43.7470841
+			]
+		}
+	]
+}

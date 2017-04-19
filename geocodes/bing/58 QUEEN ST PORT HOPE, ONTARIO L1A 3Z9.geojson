@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Queen St, Port Hope, ON L1A 3Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f9e91954ec84e9eb5c25b7b7c13c88b|BN20260223|7.7.0.0|",
+				"addressLine": "58 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Queen St, Port Hope, ON L1A 3Z9, Canada",
+				"locality": "Port Hope",
+				"postalCode": "L1A 3Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.29387,
+					43.94874
+				]
+			},
+			"bbox": [
+				-78.2954314,
+				43.9476158,
+				-78.2923086,
+				43.9498642
+			]
+		}
+	]
+}

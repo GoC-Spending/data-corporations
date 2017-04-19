@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "555 Ellesmere Rd, Scarborough, ON M1R 4E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c92f4785c23240768e5a9bfe7441a7b6|BN20121764|7.7.0.0|",
+				"addressLine": "555 Ellesmere Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "555 Ellesmere Rd, Scarborough, ON M1R 4E8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 4E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29356,
+					43.76211
+				]
+			},
+			"bbox": [
+				-79.2951165,
+				43.7609858,
+				-79.2920035,
+				43.7632342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2304 45th Ave, Vernon, BC V1T 3M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7f01ba818814e788d7ef4f1e7260b5b|BN20121764|7.7.0.0|",
+				"addressLine": "2304 45th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2304 45th Ave, Vernon, BC V1T 3M8, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 3M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.26302,
+					50.27748
+				]
+			},
+			"bbox": [
+				-119.264779,
+				50.2763558,
+				-119.261261,
+				50.2786042
+			]
+		}
+	]
+}

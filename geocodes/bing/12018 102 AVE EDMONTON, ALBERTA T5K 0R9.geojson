@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12018 102 Ave NW, Edmonton, AB T5K 0R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa597684155e4ee8a7e395341f10b964|BN20260231|7.7.0.0|",
+				"addressLine": "12018 102 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12018 102 Ave NW, Edmonton, AB T5K 0R9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Oliver",
+				"postalCode": "T5K 0R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.52956,
+					53.5433
+				]
+			},
+			"bbox": [
+				-113.5314518,
+				53.5421758,
+				-113.5276682,
+				53.5444242
+			]
+		}
+	]
+}

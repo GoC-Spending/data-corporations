@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Clemens Ave, Cambridge, ON N3C 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "207daf800b5d417ba567acfa54139156|BN20220145|7.7.0.0|",
+				"addressLine": "10 Clemens Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Clemens Ave, Cambridge, ON N3C 3W2, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Alison",
+				"postalCode": "N3C 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31693,
+					43.43236
+				]
+			},
+			"bbox": [
+				-80.318478,
+				43.4312358,
+				-80.315382,
+				43.4334842
+			]
+		}
+	]
+}

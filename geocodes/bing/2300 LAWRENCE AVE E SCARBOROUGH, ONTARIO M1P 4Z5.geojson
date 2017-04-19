@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2300 Lawrence Ave E, Scarborough, ON M1P 2P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "020a478ff90441fe9da28c3105bbe329|BN20121762|7.7.0.0|",
+				"addressLine": "2300 Lawrence Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2300 Lawrence Ave E, Scarborough, ON M1P 2P9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dorset Park",
+				"postalCode": "M1P 2P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2766254,
+					43.7493218
+				]
+			},
+			"bbox": [
+				-79.2781816,
+				43.7481976,
+				-79.2750692,
+				43.7504459
+			]
+		}
+	]
+}

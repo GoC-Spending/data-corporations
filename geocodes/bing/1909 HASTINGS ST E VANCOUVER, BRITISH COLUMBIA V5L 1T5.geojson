@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1909 E Hastings St, Vancouver, BC V5L 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ebffa167c4948d8bec1628455c3461d|BN20200137|7.7.0.0|",
+				"addressLine": "1909 E Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1909 E Hastings St, Vancouver, BC V5L 1T5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5L 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06515,
+					49.28146
+				]
+			},
+			"bbox": [
+				-123.0668733,
+				49.2803358,
+				-123.0634267,
+				49.2825842
+			]
+		}
+	]
+}

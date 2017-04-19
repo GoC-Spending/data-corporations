@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1565 Willson Pl, Winnipeg, MB R3T 4H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c5a1ddd9bf3484b885e8eb9b7c9815c|BN20130522|7.7.0.0|",
+				"addressLine": "1565 Willson Pl",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1565 Willson Pl, Winnipeg, MB R3T 4H1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Buffalo",
+				"postalCode": "R3T 4H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17855,
+					49.84183
+				]
+			},
+			"bbox": [
+				-97.1802931,
+				49.8407058,
+				-97.1768069,
+				49.8429542
+			]
+		}
+	]
+}

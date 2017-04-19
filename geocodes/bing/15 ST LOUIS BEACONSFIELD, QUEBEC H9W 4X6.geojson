@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 St-Louis Ave, Beaconsfield, QC H9W 4X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf0eaa0da33149c4849a1784245d8492|BN20130530|7.7.0.0|",
+				"addressLine": "15 St-Louis Ave",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 St-Louis Ave, Beaconsfield, QC H9W 4X6, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 4X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.87864,
+					45.41875
+				]
+			},
+			"bbox": [
+				-73.8802415,
+				45.4176258,
+				-73.8770385,
+				45.4198742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1228 Princess Ave, Victoria, BC V8T 1L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba76036f0a1b454197e15dd2861445ec|BN20130422|7.7.0.0|",
+				"addressLine": "1228 Princess Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1228 Princess Ave, Victoria, BC V8T 1L5, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fernwood",
+				"postalCode": "V8T 1L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.34828,
+					48.43278
+				]
+			},
+			"bbox": [
+				-123.3499743,
+				48.4316558,
+				-123.3465857,
+				48.4339042
+			]
+		}
+	]
+}

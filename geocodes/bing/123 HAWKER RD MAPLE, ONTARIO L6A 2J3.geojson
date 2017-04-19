@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Hawker Rd, Maple, ON L6A 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c34ff43b0444fc0be1d980fcd822fc0|BN20130530|7.7.0.0|",
+				"addressLine": "123 Hawker Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Hawker Rd, Maple, ON L6A 2J3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52395,
+					43.84115
+				]
+			},
+			"bbox": [
+				-79.5255086,
+				43.8400258,
+				-79.5223914,
+				43.8422742
+			]
+		}
+	]
+}

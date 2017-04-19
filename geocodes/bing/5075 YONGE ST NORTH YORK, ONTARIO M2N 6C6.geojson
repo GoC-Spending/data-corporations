@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5075 Yonge St, North York, ON M2N 6C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3cac306fc4b14e4da5b21a7eea032474|BN20130447|7.7.0.0|",
+				"addressLine": "5075 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5075 Yonge St, North York, ON M2N 6C6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 6C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41211,
+					43.76777
+				]
+			},
+			"bbox": [
+				-79.4136667,
+				43.7666458,
+				-79.4105533,
+				43.7688942
+			]
+		}
+	]
+}

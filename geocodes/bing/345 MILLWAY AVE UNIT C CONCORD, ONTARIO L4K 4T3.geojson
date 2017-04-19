@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "345 Millway Ave, Concord, ON L4K 4T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c0a5330e8724f57b67630bebc5f263c|BN20160335|7.7.0.0|",
+				"addressLine": "345 Millway Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "345 Millway Ave, Concord, ON L4K 4T3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52854,
+					43.80274
+				]
+			},
+			"bbox": [
+				-79.5300976,
+				43.8016158,
+				-79.5269824,
+				43.8038642
+			]
+		}
+	]
+}

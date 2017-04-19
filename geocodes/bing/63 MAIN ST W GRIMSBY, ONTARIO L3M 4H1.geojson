@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "63 Main St W, Grimsby, ON L3M 4H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78a1195b8d684c82870763ba3f0d34ed|BN20200137|7.7.0.0|",
+				"addressLine": "63 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "63 Main St W, Grimsby, ON L3M 4H1, Canada",
+				"locality": "Grimsby",
+				"postalCode": "L3M 4H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56381,
+					43.19373
+				]
+			},
+			"bbox": [
+				-79.565352,
+				43.1926058,
+				-79.562268,
+				43.1948542
+			]
+		}
+	]
+}

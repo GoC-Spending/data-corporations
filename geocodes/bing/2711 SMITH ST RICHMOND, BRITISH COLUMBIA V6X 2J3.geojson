@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2711 Smith St, Richmond, BC V6X 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4851b1e7f48048c5b1e9c46a4f941d4c|BN20160335|7.7.0.0|",
+				"addressLine": "2711 Smith St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2711 Smith St, Richmond, BC V6X 2J3, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6X 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12582,
+					49.19356
+				]
+			},
+			"bbox": [
+				-123.1275402,
+				49.1924358,
+				-123.1240998,
+				49.1946842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Mercy St, Selkirk, MB R1A 1N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1f92fa9b33a42a4bdf11785a4ac0b40|BN20130431|7.7.0.0|",
+				"addressLine": "35 Mercy St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Mercy St, Selkirk, MB R1A 1N5, Canada",
+				"locality": "Selkirk",
+				"postalCode": "R1A 1N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.8975781,
+					50.1328617
+				]
+			},
+			"bbox": [
+				-96.8993318,
+				50.1317375,
+				-96.8958244,
+				50.1339858
+			]
+		}
+	]
+}

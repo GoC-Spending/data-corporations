@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Belton Ave, Stittsville, ON K2S 1G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "997179025b09424c8090c4b32913ba01|BN20260223|7.7.0.0|",
+				"addressLine": "33 Belton Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Belton Ave, Stittsville, ON K2S 1G7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.93342,
+					45.26344
+				]
+			},
+			"bbox": [
+				-75.9350172,
+				45.2623158,
+				-75.9318228,
+				45.2645642
+			]
+		}
+	]
+}

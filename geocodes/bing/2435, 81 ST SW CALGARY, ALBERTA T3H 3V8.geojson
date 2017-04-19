@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2435 81 St SW, Calgary, AB T3H 3V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "34c2e5656a774d268c2036ee953dc56f|BN20130423|7.7.0.0|",
+				"addressLine": "2435 81 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2435 81 St SW, Calgary, AB T3H 3V8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Springbank Hill",
+				"postalCode": "T3H 3V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.20532,
+					51.03196
+				]
+			},
+			"bbox": [
+				-114.2071075,
+				51.0308358,
+				-114.2035325,
+				51.0330842
+			]
+		}
+	]
+}

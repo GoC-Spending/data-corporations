@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Ferguson Rd, Dartmouth, NS B3A 4M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d60a2b4424943c1b121e84b4ce75ea6|BN20130447|7.7.0.0|",
+				"addressLine": "10 Ferguson Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Ferguson Rd, Dartmouth, NS B3A 4M1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3A 4M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.59733,
+					44.6811999
+				]
+			},
+			"bbox": [
+				-63.598911,
+				44.6800757,
+				-63.595749,
+				44.6823241
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 4th Ave, St Catharines, ON L2S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4816d89f029c4faa8e5ac7682ef3ab6f|BN20240253|7.7.0.0|",
+				"addressLine": "111 4th Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 4th Ave, St Catharines, ON L2S, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Western Hill",
+				"postalCode": "L2S 3P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2621354,
+					43.1560586
+				]
+			},
+			"bbox": [
+				-79.2636764,
+				43.1549344,
+				-79.2605944,
+				43.1571827
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7810 51 St SE, Calgary, AB T2C 4R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "798c840e10954b188ad458bd21df9c64|BN20210145|7.7.0.0|",
+				"addressLine": "7810 51 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7810 51 St SE, Calgary, AB T2C 4R2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 4R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.95999,
+					50.98302
+				]
+			},
+			"bbox": [
+				-113.9617756,
+				50.9818958,
+				-113.9582044,
+				50.9841442
+			]
+		}
+	]
+}

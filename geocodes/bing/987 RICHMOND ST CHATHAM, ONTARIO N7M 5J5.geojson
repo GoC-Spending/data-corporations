@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "987 Richmond St, Chatham, ON N7M 5J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f5fb6446515424e9c079513df98421f|BN20130431|7.7.0.0|",
+				"addressLine": "987 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "987 Richmond St, Chatham, ON N7M 5J5, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7M 5J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.21566,
+					42.3826899
+				]
+			},
+			"bbox": [
+				-82.2171819,
+				42.3815657,
+				-82.2141381,
+				42.3838141
+			]
+		}
+	]
+}

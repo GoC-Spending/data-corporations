@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8080 Hornby Rd, Halton Hills, ON L7G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74e078218f1c45bd94c3d100ff7e3f1e|BN20160335|7.7.0.0|",
+				"addressLine": "8080 Hornby Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "8080 Hornby Rd, Halton Hills, ON L7G, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Hornby",
+				"postalCode": "L7G"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84393,
+					43.56958
+				]
+			},
+			"bbox": [
+				-79.8454815,
+				43.5684558,
+				-79.8423785,
+				43.5707042
+			]
+		}
+	]
+}

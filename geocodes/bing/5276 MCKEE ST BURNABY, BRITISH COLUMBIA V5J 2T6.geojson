@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5276 McKee St, Burnaby, BC V5J 2T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7d9a7cfa4004542b3787e8edef070cb|BN20121763|7.7.0.0|",
+				"addressLine": "5276 McKee St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5276 McKee St, Burnaby, BC V5J 2T6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Clinton-Glenwood",
+				"postalCode": "V5J 2T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.98729,
+					49.2109499
+				]
+			},
+			"bbox": [
+				-122.9890108,
+				49.2098257,
+				-122.9855692,
+				49.2120741
+			]
+		}
+	]
+}

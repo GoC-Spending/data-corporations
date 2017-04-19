@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Agassiz, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba0fa0a349394083a2ab37f312e9aa84|BN20121764|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "Agassiz, British Columbia, Canada",
+				"locality": "Agassiz"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.765266418457,
+					49.2384300231934
+				]
+			},
+			"bbox": [
+				-121.776649475098,
+				49.2289390563965,
+				-121.746429443359,
+				49.2430801391602
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Kent, V0M 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba0fa0a349394083a2ab37f312e9aa84|BN20121764|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kent, V0M 1A2, Canada",
+				"locality": "Kent",
+				"postalCode": "V0M 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.745498657227,
+					49.2378883361816
+				]
+			},
+			"bbox": [
+				-121.753386129376,
+				49.234025618611,
+				-121.737611185078,
+				49.2417510537523
+			]
+		}
+	]
+}

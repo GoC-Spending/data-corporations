@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Curtis Ave N, Paris, ON N3L 3W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "437365381ff8402abbb9f772bd173e6a|BN20171457|7.7.0.0|",
+				"addressLine": "45 Curtis Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Curtis Ave N, Paris, ON N3L 3W1, Canada",
+				"locality": "Brant",
+				"neighborhood": "Paris",
+				"postalCode": "N3L 3W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3727399,
+					43.19267
+				]
+			},
+			"bbox": [
+				-80.3742818,
+				43.1915458,
+				-80.371198,
+				43.1937942
+			]
+		}
+	]
+}

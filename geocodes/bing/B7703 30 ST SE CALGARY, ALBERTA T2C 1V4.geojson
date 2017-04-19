@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "30 St SE, Calgary, AB T2C 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5d3916f81c0495893cb3488e8267455|BN20240253|7.7.0.0|",
+				"addressLine": "30 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 St SE, Calgary, AB T2C 1V4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.98579,
+					50.98652
+				]
+			},
+			"bbox": [
+				-113.99057,
+				50.97963,
+				-113.98354,
+				51.0067
+			]
+		}
+	]
+}

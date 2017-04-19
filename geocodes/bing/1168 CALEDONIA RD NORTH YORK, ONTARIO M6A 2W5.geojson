@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1168 Caledonia Rd, North York, ON M6A 2W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a37de7b9c5448368a85e2c95bb9f476|BN20240253|7.7.0.0|",
+				"addressLine": "1168 Caledonia Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1168 Caledonia Rd, North York, ON M6A 2W5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6A 2W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46793,
+					43.71593
+				]
+			},
+			"bbox": [
+				-79.4694853,
+				43.7148058,
+				-79.4663747,
+				43.7170542
+			]
+		}
+	]
+}

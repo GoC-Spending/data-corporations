@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Browning Ave, Toronto, ON M4K 1X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed1d4e8b8d414335bb00da880561135c|BN20200239|7.7.0.0|",
+				"addressLine": "230 Browning Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Browning Ave, Toronto, ON M4K 1X2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Broadview North",
+				"postalCode": "M4K 1X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34735,
+					43.68322
+				]
+			},
+			"bbox": [
+				-79.3489045,
+				43.6820958,
+				-79.3457955,
+				43.6843442
+			]
+		}
+	]
+}

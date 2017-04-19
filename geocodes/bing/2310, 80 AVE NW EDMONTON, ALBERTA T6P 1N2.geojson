@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2310 80 Ave NW, Edmonton, AB T6P 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3cb470f0f9f74328836d6a93c0047630|BN20200239|7.7.0.0|",
+				"addressLine": "2310 80 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2310 80 Ave NW, Edmonton, AB T6P 1N2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Southeast Industrial",
+				"postalCode": "T6P 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.37822,
+					53.5167
+				]
+			},
+			"bbox": [
+				-113.3801106,
+				53.5155758,
+				-113.3763294,
+				53.5178242
+			]
+		}
+	]
+}

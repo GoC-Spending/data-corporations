@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "483 Abdo Rd, Kingston, ON K7M 3X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e42a6e5dd074f8ab7493641994d4885|BN20200239|7.7.0.0|",
+				"addressLine": "483 Abdo Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "483 Abdo Rd, Kingston, ON K7M 3X1, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Auden Park",
+				"postalCode": "K7M 3X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.57237,
+					44.23489
+				]
+			},
+			"bbox": [
+				-76.573939,
+				44.2337658,
+				-76.570801,
+				44.2360142
+			]
+		}
+	]
+}

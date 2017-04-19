@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13 Bond St, London, ON N6C 1W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07e6cdee24bc498f97fb620b6a384b6d|BN20190653|7.7.0.0|",
+				"addressLine": "13 Bond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "13 Bond St, London, ON N6C 1W4, Canada",
+				"locality": "London",
+				"neighborhood": "South London",
+				"postalCode": "N6C 1W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2342,
+					42.969
+				]
+			},
+			"bbox": [
+				-81.2357363,
+				42.9678758,
+				-81.2326637,
+				42.9701242
+			]
+		}
+	]
+}

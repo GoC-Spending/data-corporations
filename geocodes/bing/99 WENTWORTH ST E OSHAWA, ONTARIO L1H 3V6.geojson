@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Wentworth St E, Oshawa, ON L1H 3V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c876bcce80846afa96d90331d759484|BN20130532|7.7.0.0|",
+				"addressLine": "99 Wentworth St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Wentworth St E, Oshawa, ON L1H 3V6, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Farewell",
+				"postalCode": "L1H 3V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8430307,
+					43.8751772
+				]
+			},
+			"bbox": [
+				-78.8445902,
+				43.874053,
+				-78.8414712,
+				43.8763013
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2790 Wilkes Ave, Winnipeg, MB R3S 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e339764c9c694b1cbf2ede6b173bd57d|BN20220145|7.7.0.0|",
+				"addressLine": "2790 Wilkes Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "2790 Wilkes Ave, Winnipeg, MB R3S 1A7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Wilkes South",
+				"postalCode": "R3S 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2435863,
+					49.8438183
+				]
+			},
+			"bbox": [
+				-97.2453295,
+				49.8426942,
+				-97.2418431,
+				49.8449425
+			]
+		}
+	]
+}

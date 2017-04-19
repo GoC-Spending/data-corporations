@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "735 Progress Ave, Scarborough, ON M1H 2W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "059b6a663bd64122a1bcea019bbfd396|BN20290118|7.7.0.0|",
+				"addressLine": "735 Progress Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "735 Progress Ave, Scarborough, ON M1H 2W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woburn",
+				"postalCode": "M1H 2W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2452333,
+					43.7795966
+				]
+			},
+			"bbox": [
+				-79.2467903,
+				43.7784725,
+				-79.2436763,
+				43.7807208
+			]
+		}
+	]
+}

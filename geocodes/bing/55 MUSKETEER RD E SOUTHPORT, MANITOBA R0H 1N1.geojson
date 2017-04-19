@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Portage la Prairie RM, R0H 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b32628132a42490ab8c43d68a50b2741|BN20130532|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Portage la Prairie RM, R0H 1N1, Canada",
+				"locality": "Portage la Prairie RM",
+				"postalCode": "R0H 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.2749710083008,
+					49.9202995300293
+				]
+			},
+			"bbox": [
+				-98.2829695434629,
+				49.9164368124586,
+				-98.2669724731387,
+				49.9241622476
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Southport, Portage la Prairie RM, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b32628132a42490ab8c43d68a50b2741|BN20130532|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Southport, Portage la Prairie RM, Manitoba, Canada",
+				"locality": "Portage la Prairie RM",
+				"neighborhood": "Southport"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.2733612060547,
+					49.9182205200195
+				]
+			},
+			"bbox": [
+				-98.2813593963753,
+				49.9143578024489,
+				-98.2653630157341,
+				49.9220832375902
+			]
+		}
+	]
+}

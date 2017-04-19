@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "328 Conlins Rd, Scarborough, ON M1C 1C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "215b07ad85f1403d9d252e5bd2de2152|BN20240423|7.7.0.0|",
+				"addressLine": "328 Conlins Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "328 Conlins Rd, Scarborough, ON M1C 1C5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Highland Creek",
+				"postalCode": "M1C 1C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1872,
+					43.7954099
+				]
+			},
+			"bbox": [
+				-79.1887574,
+				43.7942857,
+				-79.1856426,
+				43.7965341
+			]
+		}
+	]
+}

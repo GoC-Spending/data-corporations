@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42133 Township Road 252, Calgary, AB T3Z 2S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a9c2412a7ac42449afe38600009dc3d|BN20220145|7.7.0.0|",
+				"addressLine": "42133 Township Road 252",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "42133 Township Road 252, Calgary, AB T3Z 2S1, Canada",
+				"locality": "Rocky View County",
+				"neighborhood": "Calgary",
+				"postalCode": "T3Z 2S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.47894,
+					51.12446
+				]
+			},
+			"bbox": [
+				-114.4807311,
+				51.1233358,
+				-114.4771489,
+				51.1255842
+			]
+		}
+	]
+}

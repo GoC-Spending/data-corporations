@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "422 E Columbia St, New Westminster, BC V3L 3W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6952a153bc5f4e60aec0fed727584b98|BN20130520|7.7.0.0|",
+				"addressLine": "422 E Columbia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "422 E Columbia St, New Westminster, BC V3L 3W9, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Sapperton",
+				"postalCode": "V3L 3W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8926751,
+					49.2291323
+				]
+			},
+			"bbox": [
+				-122.8943965,
+				49.2280081,
+				-122.8909537,
+				49.2302564
+			]
+		}
+	]
+}

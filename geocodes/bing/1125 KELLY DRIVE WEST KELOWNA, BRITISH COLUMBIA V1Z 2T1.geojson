@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1125 Kelly Dr, West Kelowna, BC V1Z 2T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd51f14a576c4d60a00c3b54a86ceecb|BN20130532|7.7.0.0|",
+				"addressLine": "1125 Kelly Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1125 Kelly Dr, West Kelowna, BC V1Z 2T1, Canada",
+				"locality": "West Kelowna",
+				"postalCode": "V1Z 2T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.56172,
+					49.84199
+				]
+			},
+			"bbox": [
+				-119.5634631,
+				49.8408658,
+				-119.5599769,
+				49.8431142
+			]
+		}
+	]
+}

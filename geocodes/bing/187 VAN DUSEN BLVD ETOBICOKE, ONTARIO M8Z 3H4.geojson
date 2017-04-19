@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "187 Van Dusen Blvd, Etobicoke, ON M8Z 3H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ba5bdaabd994ffdb747974223793558|BN20130442|7.7.0.0|",
+				"addressLine": "187 Van Dusen Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "187 Van Dusen Blvd, Etobicoke, ON M8Z 3H4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 3H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52425,
+					43.64085
+				]
+			},
+			"bbox": [
+				-79.5258034,
+				43.6397258,
+				-79.5226966,
+				43.6419742
+			]
+		}
+	]
+}

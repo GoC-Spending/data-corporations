@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "590 Berry St, Winnipeg, MB R3H 0R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef4e0e4f97494623a8c812fbe16377f1|BN20240423|7.7.0.0|",
+				"addressLine": "590 Berry St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "590 Berry St, Winnipeg, MB R3H 0R9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21131,
+					49.89267
+				]
+			},
+			"bbox": [
+				-97.213055,
+				49.8915458,
+				-97.209565,
+				49.8937942
+			]
+		}
+	]
+}

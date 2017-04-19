@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "85 Kress St, Regina, SK S4N 5X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7d4c2be1a5344beac3d04afcd9b0836|BN20250135|7.7.0.0|",
+				"addressLine": "85 Kress St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "85 Kress St, Regina, SK S4N 5X8, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 5X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.56331,
+					50.48265
+				]
+			},
+			"bbox": [
+				-104.5650767,
+				50.4815258,
+				-104.5615433,
+				50.4837742
+			]
+		}
+	]
+}

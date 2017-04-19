@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "316 Berkshire Ave, Beaconsfield, QC H9W 1A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f44c0429333f4e768ba49cf80d46f772|BN20130522|7.7.0.0|",
+				"addressLine": "316 Berkshire Ave",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "316 Berkshire Ave, Beaconsfield, QC H9W 1A5, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 1A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.87197,
+					45.43912
+				]
+			},
+			"bbox": [
+				-73.8735721,
+				45.4379958,
+				-73.8703679,
+				45.4402442
+			]
+		}
+	]
+}

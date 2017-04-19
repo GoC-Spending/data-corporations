@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "85 Mary St, Aurora, ON L4G 6X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6951731538484677bdeddfb185ca796d|BN20130533|7.7.0.0|",
+				"addressLine": "85 Mary St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "85 Mary St, Aurora, ON L4G 6X5, Canada",
+				"locality": "Aurora",
+				"postalCode": "L4G 6X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45199,
+					43.99969
+				]
+			},
+			"bbox": [
+				-79.4535527,
+				43.9985658,
+				-79.4504273,
+				44.0008142
+			]
+		}
+	]
+}

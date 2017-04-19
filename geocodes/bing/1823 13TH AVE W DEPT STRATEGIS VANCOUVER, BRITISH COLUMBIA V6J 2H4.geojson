@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1823 W 13th Ave, Vancouver, BC V6J 2H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "766b8c4343e045fe979a2a4d70568079|BN20130631|7.7.0.0|",
+				"addressLine": "1823 W 13th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1823 W 13th Ave, Vancouver, BC V6J 2H4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Shaughnessy",
+				"postalCode": "V6J 2H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.14658,
+					49.2602199
+				]
+			},
+			"bbox": [
+				-123.1483025,
+				49.2590957,
+				-123.1448575,
+				49.2613441
+			]
+		}
+	]
+}

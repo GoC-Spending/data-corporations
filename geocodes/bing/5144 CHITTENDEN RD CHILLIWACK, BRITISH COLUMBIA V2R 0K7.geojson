@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5144 Chittenden Rd, Chilliwack, BC V2R 0K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "67d38ec9054045d19a28276356c2ed66|BN20260223|7.7.0.0|",
+				"addressLine": "5144 Chittenden Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "5144 Chittenden Rd, Chilliwack, BC V2R 0K7, Canada",
+				"locality": "Chilliwack",
+				"neighborhood": "Greendale-Cattermole-Yarrow",
+				"postalCode": "V2R 0K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.9663525,
+					49.0948799
+				]
+			},
+			"bbox": [
+				-121.9680692,
+				49.0937557,
+				-121.9646357,
+				49.0960041
+			]
+		}
+	]
+}

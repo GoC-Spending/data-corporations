@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Coldwater Rd, North York, ON M3B 1Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "456aa095d1fe41e49f7617e9d50b26f3|BN20240423|7.7.0.0|",
+				"addressLine": "15 Coldwater Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Coldwater Rd, North York, ON M3B 1Y8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M3B 1Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35887,
+					43.75482
+				]
+			},
+			"bbox": [
+				-79.3604263,
+				43.7536958,
+				-79.3573137,
+				43.7559442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "127 Cove Rd, Bowmanville, ON L1C 3K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff64a940489d4c2d953126c63bf48525|BN20250135|7.7.0.0|",
+				"addressLine": "127 Cove Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "127 Cove Rd, Bowmanville, ON L1C 3K3, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Bowmanville",
+				"postalCode": "L1C 3K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.67279,
+					43.88726
+				]
+			},
+			"bbox": [
+				-78.6743498,
+				43.8861358,
+				-78.6712302,
+				43.8883842
+			]
+		}
+	]
+}

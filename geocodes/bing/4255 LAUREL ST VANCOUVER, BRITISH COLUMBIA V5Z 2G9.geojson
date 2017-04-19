@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4255 Laurel St, Vancouver, BC V5Z 2G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f71a3b270b9b4c73ab46b0643c69550f|BN20260223|7.7.0.0|",
+				"addressLine": "4255 Laurel St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4255 Laurel St, Vancouver, BC V5Z 2G9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "South Cambie",
+				"postalCode": "V5Z 2G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12557,
+					49.24718
+				]
+			},
+			"bbox": [
+				-123.1272921,
+				49.2460558,
+				-123.1238479,
+				49.2483042
+			]
+		}
+	]
+}

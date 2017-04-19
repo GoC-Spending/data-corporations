@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Osgoode Main St, Osgoode, ON K0A 2W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2764c92ccb6e4e21b7408d339194a0bc|BN20130431|7.7.0.0|",
+				"addressLine": "Osgoode Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Osgoode Main St, Osgoode, ON K0A 2W0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Osgoode",
+				"postalCode": "K0A 2W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61465,
+					45.14101
+				]
+			},
+			"bbox": [
+				-75.61765,
+				45.1396,
+				-75.56841,
+				45.16271
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "949 McLean St, Halifax, NS B3H 2V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e8d754c3bc8459c87e4ede6930d553c|BN20320521|7.7.0.0|",
+				"addressLine": "949 McLean St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "949 McLean St, Halifax, NS B3H 2V2, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3H 2V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57388,
+					44.63379
+				]
+			},
+			"bbox": [
+				-63.5754597,
+				44.6326658,
+				-63.5723003,
+				44.6349142
+			]
+		}
+	]
+}

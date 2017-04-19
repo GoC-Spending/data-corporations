@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 King St, St Catharines, ON L2R 3J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0084cc4634d042b48c2e786865fb44b4|BN20240253|7.7.0.0|",
+				"addressLine": "132 King St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 King St, St Catharines, ON L2R 3J3, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Downtown",
+				"postalCode": "L2R 3J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24478,
+					43.15966
+				]
+			},
+			"bbox": [
+				-79.2463211,
+				43.1585358,
+				-79.2432389,
+				43.1607842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Densley Ave, North York, ON M6M 2P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a10c5dcf165480484f7e13cde1b19cf|BN20190642|7.7.0.0|",
+				"addressLine": "15 Densley Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Densley Ave, North York, ON M6M 2P5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Brookhaven-Amesbury",
+				"postalCode": "M6M 2P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47472,
+					43.70266
+				]
+			},
+			"bbox": [
+				-79.476275,
+				43.7015358,
+				-79.473165,
+				43.7037842
+			]
+		}
+	]
+}

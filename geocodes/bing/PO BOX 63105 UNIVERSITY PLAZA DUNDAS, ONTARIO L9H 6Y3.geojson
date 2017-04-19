@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Dundas, L9H 6Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e062f5f546634998af6908de1d677962|BN20190653|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "Dundas, L9H 6Y3, Canada",
+				"locality": "Dundas",
+				"postalCode": "L9H 6Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9524307250977,
+					43.2639503479004
+				]
+			},
+			"bbox": [
+				-79.959502867651,
+				43.2600876303297,
+				-79.9453585825443,
+				43.2678130654711
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 6,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Clayton, MO 63105",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e062f5f546634998af6908de1d677962|BN20190653|7.7.0.0|",
+				"adminDistrict": "MO",
+				"adminDistrict2": "St Louis",
+				"countryRegion": "United States",
+				"formattedAddress": "Clayton, MO 63105",
+				"locality": "Clayton",
+				"postalCode": "63105"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.3357162475586,
+					38.6460571289063
+				]
+			},
+			"bbox": [
+				-90.3507232666016,
+				38.632640838623,
+				-90.3012237548828,
+				38.6579818725586
+			]
+		}
+	]
+}

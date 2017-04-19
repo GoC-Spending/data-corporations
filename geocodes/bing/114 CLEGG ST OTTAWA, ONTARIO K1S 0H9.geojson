@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "114 Clegg St, Ottawa, ON K1S 0H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be7bb01c1b8348bc93be371a52edaf73|BN20131519|7.7.0.0|",
+				"addressLine": "114 Clegg St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "114 Clegg St, Ottawa, ON K1S 0H9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Golden Triangle-Old Ottawa East",
+				"postalCode": "K1S 0H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6742,
+					45.40688
+				]
+			},
+			"bbox": [
+				-75.6758012,
+				45.4057558,
+				-75.6725988,
+				45.4080042
+			]
+		}
+	]
+}

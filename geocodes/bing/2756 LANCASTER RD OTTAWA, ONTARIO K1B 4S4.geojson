@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2756 Lancaster Rd, Ottawa, ON K1B 4S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4def3db2aa3a47b39301db74e804976b|BN20210145|7.7.0.0|",
+				"addressLine": "2756 Lancaster Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2756 Lancaster Rd, Ottawa, ON K1B 4S4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hawthorne Meadows-Sheffield Glen",
+				"postalCode": "K1B 4S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6058082,
+					45.3955952
+				]
+			},
+			"bbox": [
+				-75.607409,
+				45.394471,
+				-75.6042073,
+				45.3967193
+			]
+		}
+	]
+}

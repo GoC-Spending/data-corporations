@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2460 Viking Way, Richmond, BC V6V 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b9752b7b3f747f59e3cfcf8b84a94e6|BN20220145|7.7.0.0|",
+				"addressLine": "2460 Viking Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2460 Viking Way, Richmond, BC V6V 1N2, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6V 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07226,
+					49.1963
+				]
+			},
+			"bbox": [
+				-123.0739803,
+				49.1951758,
+				-123.0705397,
+				49.1974242
+			]
+		}
+	]
+}

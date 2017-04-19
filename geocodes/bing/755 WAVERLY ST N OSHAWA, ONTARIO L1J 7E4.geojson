@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "755 Waverly St N, Oshawa, ON L1J 7E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef9f6ecdec85446ea96584a6afa67799|BN20220145|7.7.0.0|",
+				"addressLine": "755 Waverly St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "755 Waverly St N, Oshawa, ON L1J 7E4, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Northglen",
+				"postalCode": "L1J 7E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.89752,
+					43.91323
+				]
+			},
+			"bbox": [
+				-78.8990805,
+				43.9121058,
+				-78.8959595,
+				43.9143542
+			]
+		}
+	]
+}

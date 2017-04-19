@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Royal Gate Blvd, Woodbridge, ON L4L 8Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "afdc3620ef9944ed8cdbc6c35ecffe52|BN20121762|7.7.0.0|",
+				"addressLine": "1 Royal Gate Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Royal Gate Blvd, Woodbridge, ON L4L 8Z7, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 8Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61933,
+					43.76911
+				]
+			},
+			"bbox": [
+				-79.6208867,
+				43.7679858,
+				-79.6177733,
+				43.7702342
+			]
+		}
+	]
+}

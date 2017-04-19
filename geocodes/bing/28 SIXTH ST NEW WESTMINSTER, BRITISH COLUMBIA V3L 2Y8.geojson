@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "28 6th St, New Westminster, BC V3L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4a51a502546487f833c79ee8d164c84|BN20130632|7.7.0.0|",
+				"addressLine": "28 6th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "28 6th St, New Westminster, BC V3L, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Downtown New Westminster",
+				"postalCode": "V3L 2Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9081816,
+					49.2032873
+				]
+			},
+			"bbox": [
+				-122.9099021,
+				49.2021631,
+				-122.9064611,
+				49.2044114
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5950 Victoria Ave, Niagara Falls, ON L2G 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e92463fa732d4a629b0586cc5228428c|BN20220145|7.7.0.0|",
+				"addressLine": "5950 Victoria Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "5950 Victoria Ave, Niagara Falls, ON L2G 3L7, Canada",
+				"locality": "Niagara Falls",
+				"postalCode": "L2G 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.08028,
+					43.08881
+				]
+			},
+			"bbox": [
+				-79.0818193,
+				43.0876858,
+				-79.0787407,
+				43.0899342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "214 Bruce Ave, Kincardine, ON N2Z 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b0c373a6289444d3b6c711d5e1576009|BN20130533|7.7.0.0|",
+				"addressLine": "214 Bruce Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "214 Bruce Ave, Kincardine, ON N2Z 2P3, Canada",
+				"locality": "Kincardine",
+				"postalCode": "N2Z 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.65,
+					44.16278
+				]
+			},
+			"bbox": [
+				-81.6515671,
+				44.1616558,
+				-81.6484329,
+				44.1639042
+			]
+		}
+	]
+}

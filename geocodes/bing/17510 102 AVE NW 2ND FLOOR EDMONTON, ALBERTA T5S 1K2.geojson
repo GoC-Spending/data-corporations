@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17510 102 Ave NW, Edmonton, AB T5S 1K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5f071ec07c14368b7939710d4fdbe18|BN20130447|7.7.0.0|",
+				"addressLine": "17510 102 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17510 102 Ave NW, Edmonton, AB T5S 1K2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Stone Industrial",
+				"postalCode": "T5S 1K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.62323,
+					53.54365
+				]
+			},
+			"bbox": [
+				-113.6251218,
+				53.5425258,
+				-113.6213382,
+				53.5447742
+			]
+		}
+	]
+}

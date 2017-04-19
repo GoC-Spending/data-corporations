@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "335 Hamilton Rd, Russell, ON K4R 1E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b49ea5090b7a465a9c6b92a2efe95cc1|BN20130442|7.7.0.0|",
+				"addressLine": "335 Hamilton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "335 Hamilton Rd, Russell, ON K4R 1E5, Canada",
+				"locality": "Russell",
+				"postalCode": "K4R 1E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.4020651,
+					45.301421
+				]
+			},
+			"bbox": [
+				-75.4036634,
+				45.3002969,
+				-75.4004669,
+				45.3025452
+			]
+		}
+	]
+}

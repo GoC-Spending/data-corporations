@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 King St, Saint John, NB E2L 4W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b78fc50f9344f9c9e59a56767a262ea|BN20300154|7.7.0.0|",
+				"addressLine": "39 King St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 King St, Saint John, NB E2L 4W3, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 4W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.06135,
+					45.27319
+				]
+			},
+			"bbox": [
+				-66.0629474,
+				45.2720658,
+				-66.0597526,
+				45.2743142
+			]
+		}
+	]
+}

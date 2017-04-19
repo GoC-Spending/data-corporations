@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17390 2 Ave, Surrey, BC V3Z 9P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "408b3ef09fec4bd0b830deb2a8174847|BN20260231|7.7.0.0|",
+				"addressLine": "17390 2 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "17390 2 Ave, Surrey, BC V3Z 9P9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V3Z 9P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.74083,
+					49.00541
+				]
+			},
+			"bbox": [
+				-122.7425437,
+				49.0042858,
+				-122.7391163,
+				49.0065342
+			]
+		}
+	]
+}

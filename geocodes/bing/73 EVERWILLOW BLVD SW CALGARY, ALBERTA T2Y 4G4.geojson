@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "73 Everwillow Blvd SW, Calgary, AB T2Y 4G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7d8453a72814160aa049de491329193|BN20220145|7.7.0.0|",
+				"addressLine": "73 Everwillow Blvd SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "73 Everwillow Blvd SW, Calgary, AB T2Y 4G4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Evergreen",
+				"postalCode": "T2Y 4G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.10383,
+					50.91387
+				]
+			},
+			"bbox": [
+				-114.105613,
+				50.9127458,
+				-114.102047,
+				50.9149942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1855 Lorne St, Regina, SK S4P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "663bdac587a9474fa1cf07e938cbf805|BN20121764|7.7.0.0|",
+				"addressLine": "1855 Lorne St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1855 Lorne St, Regina, SK S4P, Canada",
+				"locality": "Regina",
+				"neighborhood": "Downtown Regina",
+				"postalCode": "S4P 3N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.61329,
+					50.44946
+				]
+			},
+			"bbox": [
+				-104.6150554,
+				50.4483358,
+				-104.6115246,
+				50.4505842
+			]
+		}
+	]
+}

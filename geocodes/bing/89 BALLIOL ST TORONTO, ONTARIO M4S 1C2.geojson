@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 Balliol St, Toronto, ON M4S 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7153f1906834ec5bf92f97cb1a15db2|BN20130634|7.7.0.0|",
+				"addressLine": "89 Balliol St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 Balliol St, Toronto, ON M4S 1C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant West",
+				"postalCode": "M4S 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39363,
+					43.69744
+				]
+			},
+			"bbox": [
+				-79.3951848,
+				43.6963158,
+				-79.3920752,
+				43.6985642
+			]
+		}
+	]
+}

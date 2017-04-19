@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "301 Millway Ave, Concord, ON L4K 4T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "59514ad0daa0452aa5cfb7017721c9e9|BN20250135|7.7.0.0|",
+				"addressLine": "301 Millway Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "301 Millway Ave, Concord, ON L4K 4T3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5282299,
+					43.8016
+				]
+			},
+			"bbox": [
+				-79.5297875,
+				43.8004758,
+				-79.5266723,
+				43.8027242
+			]
+		}
+	]
+}

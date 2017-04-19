@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "180 Kent St, Charlottetown, PE C1A 1N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fbf4c82bed0e4dc584eaf92baf6dfa47|BN20200137|7.7.0.0|",
+				"addressLine": "180 Kent St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "180 Kent St, Charlottetown, PE C1A 1N9, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 1N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12628,
+					46.2368499
+				]
+			},
+			"bbox": [
+				-63.1279053,
+				46.2357257,
+				-63.1246547,
+				46.2379741
+			]
+		}
+	]
+}

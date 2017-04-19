@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Bristol Rd, Newmarket, ON L3Y 7X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b06f60f7318f41ea8e888f2c82c96f09|BN20200239|7.7.0.0|",
+				"addressLine": "250 Bristol Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Bristol Rd, Newmarket, ON L3Y 7X7, Canada",
+				"locality": "Newmarket",
+				"postalCode": "L3Y 7X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4716399,
+					44.06922
+				]
+			},
+			"bbox": [
+				-79.4732045,
+				44.0680958,
+				-79.4700753,
+				44.0703442
+			]
+		}
+	]
+}

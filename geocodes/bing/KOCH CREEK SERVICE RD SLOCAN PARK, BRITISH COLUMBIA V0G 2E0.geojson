@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Slocan Park, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "011aa821b750444aab5aefa31a9c4a65|BN20260223|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Slocan Park, Canada",
+				"locality": "Slocan Park"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.616668701172,
+					49.5166702270508
+				]
+			},
+			"bbox": [
+				-117.676130696431,
+				49.4876998440582,
+				-117.557206705913,
+				49.5456406100433
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Slocan Park, Central Kootenay, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "011aa821b750444aab5aefa31a9c4a65|BN20260223|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Slocan Park, Central Kootenay, British Columbia, Canada",
+				"locality": "Central Kootenay",
+				"neighborhood": "Slocan Park"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.627250671387,
+					49.5180015563965
+				]
+			},
+			"bbox": [
+				-117.635183220848,
+				49.5141388388258,
+				-117.619318121926,
+				49.5218642739672
+			]
+		}
+	]
+}

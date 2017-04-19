@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10100 Boulevard Parkway, Anjou, QC H1J 1P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "420042355f9e4cfdab65d98f3d3f5f08|BN20240423|7.7.0.0|",
+				"addressLine": "10100 Boulevard Parkway",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "10100 Boulevard Parkway, Anjou, QC H1J 1P5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 1P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57483,
+					45.61789
+				]
+			},
+			"bbox": [
+				-73.5764372,
+				45.6167658,
+				-73.5732228,
+				45.6190142
+			]
+		}
+	]
+}

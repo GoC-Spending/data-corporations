@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "71 Railside Rd, North York, ON M3A 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f800235506f842d488c135eebb4a57e4|BN20130423|7.7.0.0|",
+				"addressLine": "71 Railside Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "71 Railside Rd, North York, ON M3A 1B2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Victoria Village",
+				"postalCode": "M3A 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.32231,
+					43.7371399
+				]
+			},
+			"bbox": [
+				-79.3238659,
+				43.7360157,
+				-79.3207541,
+				43.7382641
+			]
+		}
+	]
+}

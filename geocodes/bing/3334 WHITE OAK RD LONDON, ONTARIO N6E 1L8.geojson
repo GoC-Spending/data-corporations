@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3334 White Oak Rd, London, ON N6E 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb01bd515b4f4c9a801b19fed820cc9c|BN20130621|7.7.0.0|",
+				"addressLine": "3334 White Oak Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3334 White Oak Rd, London, ON N6E 1L8, Canada",
+				"locality": "London",
+				"neighborhood": "Longwoods",
+				"postalCode": "N6E 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2498307,
+					42.9323889
+				]
+			},
+			"bbox": [
+				-81.2513661,
+				42.9312648,
+				-81.2482953,
+				42.9335131
+			]
+		}
+	]
+}

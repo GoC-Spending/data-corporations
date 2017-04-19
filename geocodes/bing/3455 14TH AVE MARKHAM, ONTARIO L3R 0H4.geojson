@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3455 14th Ave, Markham, ON L3R 0H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "35433d4175a542d59e7cdde50a629cee|BN20121762|7.7.0.0|",
+				"addressLine": "3455 14th Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "3455 14th Ave, Markham, ON L3R 0H4, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 0H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3396,
+					43.83438
+				]
+			},
+			"bbox": [
+				-79.3411584,
+				43.8332558,
+				-79.3380416,
+				43.8355042
+			]
+		}
+	]
+}

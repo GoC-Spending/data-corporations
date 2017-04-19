@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Saddle Lake, Smoky Lake, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b387196548d44cce8598e232f7b0cd40|BN20130520|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Saddle Lake, Smoky Lake, Alberta, Canada",
+				"locality": "Smoky Lake",
+				"neighborhood": "Saddle Lake"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.699989318848,
+					54.0029106140137
+				]
+			},
+			"bbox": [
+				-111.708751315337,
+				53.999047896443,
+				-111.691227322358,
+				54.0067733315843
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "554",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b387196548d44cce8598e232f7b0cd40|BN20130520|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "554",
+				"postalCode": "554"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.3328323364258,
+					44.9701309204102
+				]
+			},
+			"bbox": [
+				-93.5232696533203,
+				44.7853393554688,
+				-93.1424026489258,
+				45.2128791809082
+			]
+		}
+	]
+}

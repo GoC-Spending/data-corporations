@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "392 Silver Berry Rd NW, Edmonton, AB T6T 0H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a91de80670c149fca3b621c218b5cbb1|BN20190653|7.7.0.0|",
+				"addressLine": "392 Silver Berry Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "392 Silver Berry Rd NW, Edmonton, AB T6T 0H1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Silver Berry",
+				"postalCode": "T6T 0H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.37996,
+					53.45635
+				]
+			},
+			"bbox": [
+				-113.381848,
+				53.4552258,
+				-113.378072,
+				53.4574742
+			]
+		}
+	]
+}

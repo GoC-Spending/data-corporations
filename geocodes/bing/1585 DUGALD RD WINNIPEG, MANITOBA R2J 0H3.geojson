@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1585 Dugald Rd, Winnipeg, MB R2J 0H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d4811245379466c9022fbc424d42b75|BN20130631|7.7.0.0|",
+				"addressLine": "1585 Dugald Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1585 Dugald Rd, Winnipeg, MB R2J 0H3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Dugald",
+				"postalCode": "R2J 0H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.04566,
+					49.88652
+				]
+			},
+			"bbox": [
+				-97.0474048,
+				49.8853958,
+				-97.0439152,
+				49.8876442
+			]
+		}
+	]
+}

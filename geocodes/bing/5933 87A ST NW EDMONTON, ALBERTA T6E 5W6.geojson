@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5933 87A St NW, Edmonton, AB T6E 5W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e90a527bac074646bc69d2e7c47de1ef|BN20130533|7.7.0.0|",
+				"addressLine": "5933 87A St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5933 87A St NW, Edmonton, AB T6E 5W6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial West",
+				"postalCode": "T6E 5W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46027,
+					53.49584
+				]
+			},
+			"bbox": [
+				-113.4621597,
+				53.4947158,
+				-113.4583803,
+				53.4969642
+			]
+		}
+	]
+}

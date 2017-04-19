@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3004 St George St, Port Moody, BC V3H 2H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6283aabf2a4f4c15b7bce56a0e0a4b7b|BN20220145|7.7.0.0|",
+				"addressLine": "3004 St George St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3004 St George St, Port Moody, BC V3H 2H7, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 2H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.84499,
+					49.27573
+				]
+			},
+			"bbox": [
+				-122.8467131,
+				49.2746058,
+				-122.8432669,
+				49.2768542
+			]
+		}
+	]
+}

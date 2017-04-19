@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17721 103 Ave NW, Edmonton, AB T5S 1N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a8decd8401742ba85a0851a5718c3f2|BN20130442|7.7.0.0|",
+				"addressLine": "17721 103 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17721 103 Ave NW, Edmonton, AB T5S 1N8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Stone Industrial",
+				"postalCode": "T5S 1N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6266718,
+					53.5451351
+				]
+			},
+			"bbox": [
+				-113.6285638,
+				53.5440109,
+				-113.6247799,
+				53.5462593
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "835 Lawrence Rd, Windsor, ON N8Y 3Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "703f4e7e890a438db58865fda218141d|BN20260231|7.7.0.0|",
+				"addressLine": "835 Lawrence Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "835 Lawrence Rd, Windsor, ON N8Y 3Z6, Canada",
+				"locality": "Windsor",
+				"neighborhood": "East Windsor",
+				"postalCode": "N8Y 3Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.979,
+					42.32564
+				]
+			},
+			"bbox": [
+				-82.9805205,
+				42.3245158,
+				-82.9774795,
+				42.3267642
+			]
+		}
+	]
+}

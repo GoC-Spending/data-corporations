@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 Valentine Dr, North York, ON M3A 3J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d21b06cd0b0424e8a73863635d6b0a9|BN20130625|7.7.0.0|",
+				"addressLine": "56 Valentine Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 Valentine Dr, North York, ON M3A 3J8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Parkwoods-Donalda",
+				"postalCode": "M3A 3J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34248,
+					43.76141
+				]
+			},
+			"bbox": [
+				-79.3440365,
+				43.7602858,
+				-79.3409235,
+				43.7625342
+			]
+		}
+	]
+}

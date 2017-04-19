@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "187 Robert St E, Penetanguishene, ON L9M 1G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0dec954cc98a43e19a5ad85365dddb55|BN20260223|7.7.0.0|",
+				"addressLine": "187 Robert St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "187 Robert St E, Penetanguishene, ON L9M 1G9, Canada",
+				"locality": "Penetanguishene",
+				"postalCode": "L9M 1G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9126336,
+					44.7784357
+				]
+			},
+			"bbox": [
+				-79.9142173,
+				44.7773116,
+				-79.91105,
+				44.7795599
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "43 W 6th Ave, Vancouver, BC V5Y 1K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22ec82ab061c45e48728e66e1f6c48f5|BN20130621|7.7.0.0|",
+				"addressLine": "43 W 6th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "43 W 6th Ave, Vancouver, BC V5Y 1K2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10595,
+					49.26584
+				]
+			},
+			"bbox": [
+				-123.1076727,
+				49.2647158,
+				-123.1042273,
+				49.2669642
+			]
+		}
+	]
+}

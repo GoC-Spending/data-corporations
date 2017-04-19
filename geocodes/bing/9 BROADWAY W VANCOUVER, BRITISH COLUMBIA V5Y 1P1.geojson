@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 W Broadway, Vancouver, BC V5Y 1P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1209fc2893cc4954b9b4ff7777b6f820|BN20130721|7.7.0.0|",
+				"addressLine": "9 W Broadway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 W Broadway, Vancouver, BC V5Y 1P1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10513,
+					49.26323
+				]
+			},
+			"bbox": [
+				-123.1068526,
+				49.2621058,
+				-123.1034074,
+				49.2643542
+			]
+		}
+	]
+}

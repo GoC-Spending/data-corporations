@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "401 Adelaide St E, Toronto, ON M5A 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "094c38387a5e4f54a3830271044de49f|BN20130532|7.7.0.0|",
+				"addressLine": "401 Adelaide St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "401 Adelaide St E, Toronto, ON M5A 1N3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3675,
+					43.65217
+				]
+			},
+			"bbox": [
+				-79.3690537,
+				43.6510458,
+				-79.3659463,
+				43.6532942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "69 Boydwood Ln, Scarborough, ON M1B 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ab4bb1916114c39b015b4baf0381f89|BN20130442|7.7.0.0|",
+				"addressLine": "69 Boydwood Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "69 Boydwood Ln, Scarborough, ON M1B 1H1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1B 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.15868,
+					43.80713
+				]
+			},
+			"bbox": [
+				-79.1602377,
+				43.8060058,
+				-79.1571223,
+				43.8082542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 Martha Ave, Mt Uniacke, NS B0N 1Z0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "637c7b825a6246789ff0b6143198b88d|BN20121764|7.7.0.0|",
+				"addressLine": "41 Martha Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Hants",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 Martha Ave, Mt Uniacke, NS B0N 1Z0, Canada",
+				"locality": "East Hants",
+				"neighborhood": "Mt Uniacke",
+				"postalCode": "B0N 1Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.8095787,
+					44.859078
+				]
+			},
+			"bbox": [
+				-63.8111646,
+				44.8579539,
+				-63.8079929,
+				44.8602022
+			]
+		}
+	]
+}

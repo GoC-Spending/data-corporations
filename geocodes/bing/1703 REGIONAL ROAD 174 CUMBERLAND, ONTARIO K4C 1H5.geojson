@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1703 RR-174, Ottawa, ON K4C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b0dd63f7c4aa4e368180a6c4a5fd32ca|BN20130422|7.7.0.0|",
+				"addressLine": "1703 RR-174",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1703 RR-174, Ottawa, ON K4C, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Cumberland",
+				"postalCode": "K4C 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.45155,
+					45.51578
+				]
+			},
+			"bbox": [
+				-75.4531543,
+				45.5146558,
+				-75.4499457,
+				45.5169042
+			]
+		}
+	]
+}

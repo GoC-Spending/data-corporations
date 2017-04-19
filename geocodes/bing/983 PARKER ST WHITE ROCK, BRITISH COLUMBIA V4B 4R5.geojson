@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "983 Parker St, White Rock, BC V4B 4R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4d768a4873744669c4332d604d20119|BN20130532|7.7.0.0|",
+				"addressLine": "983 Parker St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "983 Parker St, White Rock, BC V4B 4R5, Canada",
+				"locality": "White Rock",
+				"postalCode": "V4B 4R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.78656,
+					49.0199
+				]
+			},
+			"bbox": [
+				-122.7882742,
+				49.0187758,
+				-122.7848458,
+				49.0210242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Broadway, Welland, ON L3C 5L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76a5f11d4ddb4369b88f4d34762fbb24|BN20210145|7.7.0.0|",
+				"addressLine": "1 Broadway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Broadway, Welland, ON L3C 5L2, Canada",
+				"locality": "Welland",
+				"postalCode": "L3C 5L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25903,
+					42.97507
+				]
+			},
+			"bbox": [
+				-79.2605665,
+				42.9739458,
+				-79.2574935,
+				42.9761942
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Nelson Cir, Newmarket, ON L3X 1R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7259bf3939e044e5876e9058551f4919|BN20130447|7.7.0.0|",
+				"addressLine": "135 Nelson Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Nelson Cir, Newmarket, ON L3X 1R3, Canada",
+				"locality": "Newmarket",
+				"postalCode": "L3X 1R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4703399,
+					44.03238
+				]
+			},
+			"bbox": [
+				-79.4719035,
+				44.0312558,
+				-79.4687763,
+				44.0335042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 5 Ave W, Cochrane, AB T4C 1X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "742501b847034dfea707a1d7ab604af1|BN20210145|7.7.0.0|",
+				"addressLine": "208 5 Ave W",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 5 Ave W, Cochrane, AB T4C 1X3, Canada",
+				"locality": "Cochrane",
+				"postalCode": "T4C 1X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.4754615,
+					51.1880049
+				]
+			},
+			"bbox": [
+				-114.477255,
+				51.1868807,
+				-114.4736679,
+				51.1891291
+			]
+		}
+	]
+}

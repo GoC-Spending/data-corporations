@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10832 61 Ave NW, Edmonton, AB T6H 1M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e34e7b8c8d1f4c859e950e40665f4b40|BN20130422|7.7.0.0|",
+				"addressLine": "10832 61 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10832 61 Ave NW, Edmonton, AB T6H 1M1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Allendale",
+				"postalCode": "T6H 1M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51102,
+					53.49846
+				]
+			},
+			"bbox": [
+				-113.5129098,
+				53.4973358,
+				-113.5091302,
+				53.4995842
+			]
+		}
+	]
+}

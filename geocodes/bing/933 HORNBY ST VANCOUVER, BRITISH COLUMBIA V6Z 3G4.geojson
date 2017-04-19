@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "933 Hornby St, Vancouver, BC V6Z 3G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0dc0cda5746e4ea392438bc3139e20a5|BN20121764|7.7.0.0|",
+				"addressLine": "933 Hornby St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "933 Hornby St, Vancouver, BC V6Z 3G4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6Z 3G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1241237,
+					49.2812291
+				]
+			},
+			"bbox": [
+				-123.1258469,
+				49.280105,
+				-123.1224004,
+				49.2823533
+			]
+		}
+	]
+}

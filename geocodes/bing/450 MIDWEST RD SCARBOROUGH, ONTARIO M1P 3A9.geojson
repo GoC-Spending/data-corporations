@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "450 Midwest Rd, Scarborough, ON M1P 3A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4beb9d8455546fa8c7125009ace5bf9|BN20130520|7.7.0.0|",
+				"addressLine": "450 Midwest Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "450 Midwest Rd, Scarborough, ON M1P 3A9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dorset Park",
+				"postalCode": "M1P 3A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27282,
+					43.76327
+				]
+			},
+			"bbox": [
+				-79.2743766,
+				43.7621458,
+				-79.2712634,
+				43.7643942
+			]
+		}
+	]
+}

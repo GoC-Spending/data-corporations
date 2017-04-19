@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "63 Pamilla St, Ottawa, ON K1S 3K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "703160ccad9b43399a325c4c49cd09dc|BN20130719|7.7.0.0|",
+				"addressLine": "63 Pamilla St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "63 Pamilla St, Ottawa, ON K1S 3K7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "West Centre Town-Little Italy-Civic",
+				"postalCode": "K1S 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7079136,
+					45.3996837
+				]
+			},
+			"bbox": [
+				-75.7095146,
+				45.3985595,
+				-75.7063126,
+				45.4008078
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17819 66 Ave, Surrey, BC V3S 7X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e387aeb9aaed4876a943decd7afc6479|BN20130632|7.7.0.0|",
+				"addressLine": "17819 66 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "17819 66 Ave, Surrey, BC V3S 7X1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 7X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.72881,
+					49.12252
+				]
+			},
+			"bbox": [
+				-122.7305277,
+				49.1213958,
+				-122.7270923,
+				49.1236442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "390 Birchmount Rd, Scarborough, ON M1K 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "79903a50575143c18ea4c142cc2872da|BN20130442|7.7.0.0|",
+				"addressLine": "390 Birchmount Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "390 Birchmount Rd, Scarborough, ON M1K 1M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1K 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26686,
+					43.7025099
+				]
+			},
+			"bbox": [
+				-79.268415,
+				43.7013857,
+				-79.265305,
+				43.7036341
+			]
+		}
+	]
+}

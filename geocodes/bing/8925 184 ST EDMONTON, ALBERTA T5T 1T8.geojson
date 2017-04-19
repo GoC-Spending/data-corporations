@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8925 184 St NW, Edmonton, AB T5T 1T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec2fe0d61bae45bbb2e4b679e9c710bb|BN20181720|7.7.0.0|",
+				"addressLine": "8925 184 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8925 184 St NW, Edmonton, AB T5T 1T8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Belmead",
+				"postalCode": "T5T 1T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.64103,
+					53.52409
+				]
+			},
+			"bbox": [
+				-113.642921,
+				53.5229658,
+				-113.639139,
+				53.5252142
+			]
+		}
+	]
+}

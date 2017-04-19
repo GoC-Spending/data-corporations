@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "986 Powell Ave, Winnipeg, MB R3H 0H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "030c79a0fdca491f8a41f6b9f3da46b8|BN20200239|7.7.0.0|",
+				"addressLine": "986 Powell Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "986 Powell Ave, Winnipeg, MB R3H 0H6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20435,
+					49.91343
+				]
+			},
+			"bbox": [
+				-97.2060957,
+				49.9123058,
+				-97.2026043,
+				49.9145542
+			]
+		}
+	]
+}

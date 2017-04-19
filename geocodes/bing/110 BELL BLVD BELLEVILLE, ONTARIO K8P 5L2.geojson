@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Bell Blvd, Belleville, ON K8P 5L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73a619d11c7f42d9aed4b1232020c24e|BN20130532|7.7.0.0|",
+				"addressLine": "110 Bell Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Bell Blvd, Belleville, ON K8P 5L2, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8P 5L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3973954,
+					44.1881606
+				]
+			},
+			"bbox": [
+				-77.3989631,
+				44.1870365,
+				-77.3958277,
+				44.1892848
+			]
+		}
+	]
+}

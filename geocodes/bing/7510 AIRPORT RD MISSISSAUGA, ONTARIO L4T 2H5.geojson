@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7510 Airport Rd, Mississauga, ON L4T 2H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97d6064f1b3e481d89da87b6d1b56a8d|BN20130621|7.7.0.0|",
+				"addressLine": "7510 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "7510 Airport Rd, Mississauga, ON L4T 2H5, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Malton",
+				"postalCode": "L4T 2H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6566,
+					43.71328
+				]
+			},
+			"bbox": [
+				-79.6581553,
+				43.7121558,
+				-79.6550447,
+				43.7144042
+			]
+		}
+	]
+}

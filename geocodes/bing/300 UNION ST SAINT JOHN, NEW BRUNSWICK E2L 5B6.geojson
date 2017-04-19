@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Union St, Saint John, NB E2L 4Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc03ceccb89843f483271b660c64149c|BN20320521|7.7.0.0|",
+				"addressLine": "300 Union St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Union St, Saint John, NB E2L 4Z2, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 4Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.05558,
+					45.27555
+				]
+			},
+			"bbox": [
+				-66.0571775,
+				45.2744258,
+				-66.0539825,
+				45.2766742
+			]
+		}
+	]
+}

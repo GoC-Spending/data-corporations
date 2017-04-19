@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1166 Sanford St, Winnipeg, MB R3E 2Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13f929ea79fc4378a32e0054567a1e82|BN20130632|7.7.0.0|",
+				"addressLine": "1166 Sanford St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1166 Sanford St, Winnipeg, MB R3E 2Z9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3E 2Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19427,
+					49.89989
+				]
+			},
+			"bbox": [
+				-97.1960152,
+				49.8987658,
+				-97.1925248,
+				49.9010142
+			]
+		}
+	]
+}

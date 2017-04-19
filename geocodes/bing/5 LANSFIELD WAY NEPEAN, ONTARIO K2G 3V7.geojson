@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Lansfield Way, Nepean, ON K2G 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "711e4feddf7842a582b944ff6b24866a|BN20130521|7.7.0.0|",
+				"addressLine": "5 Lansfield Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Lansfield Way, Nepean, ON K2G 3V7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.74511,
+					45.33262
+				]
+			},
+			"bbox": [
+				-75.7467091,
+				45.3314958,
+				-75.7435109,
+				45.3337442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Wolfe St, Quinte West, ON K0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f261e51687e4ef4b1f67f034de0e322|BN20130719|7.7.0.0|",
+				"addressLine": "36 Wolfe St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Wolfe St, Quinte West, ON K0K, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Frankford",
+				"postalCode": "K0K 2C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.5956,
+					44.19216
+				]
+			},
+			"bbox": [
+				-77.5971678,
+				44.1910358,
+				-77.5940322,
+				44.1932842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14 Brant Ave, St Thomas, ON N5R 1Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1afff91ec3384be0bcbbc7fa88958430|BN20200137|7.7.0.0|",
+				"addressLine": "14 Brant Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "14 Brant Ave, St Thomas, ON N5R 1Z4, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5R 1Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1776738,
+					42.7694975
+				]
+			},
+			"bbox": [
+				-81.1792052,
+				42.7683734,
+				-81.1761425,
+				42.7706217
+			]
+		}
+	]
+}

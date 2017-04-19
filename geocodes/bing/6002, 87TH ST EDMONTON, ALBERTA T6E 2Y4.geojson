@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6002 87 St NW, Edmonton, AB T6E 2Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89466944c4ff40b4bb45cea982213a97|BN20130423|7.7.0.0|",
+				"addressLine": "6002 87 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6002 87 St NW, Edmonton, AB T6E 2Y4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial West",
+				"postalCode": "T6E 2Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45905,
+					53.49611
+				]
+			},
+			"bbox": [
+				-113.4609397,
+				53.4949858,
+				-113.4571603,
+				53.4972342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Hillcrest Ln, Kitchener, ON N2K 1S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45906d840726421781d24622f5ffd60a|BN20260223|7.7.0.0|",
+				"addressLine": "42 Hillcrest Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Hillcrest Ln, Kitchener, ON N2K 1S8, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Bridgeport North",
+				"postalCode": "N2K 1S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.48036,
+					43.48422
+				]
+			},
+			"bbox": [
+				-80.4819093,
+				43.4830958,
+				-80.4788107,
+				43.4853442
+			]
+		}
+	]
+}

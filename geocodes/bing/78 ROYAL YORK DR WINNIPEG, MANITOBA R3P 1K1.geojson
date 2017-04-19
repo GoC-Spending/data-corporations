@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "78 Royal York Dr, Winnipeg, MB R3P 1K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0574e1abb224fc1904c1192177221ce|BN20131519|7.7.0.0|",
+				"addressLine": "78 Royal York Dr",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "78 Royal York Dr, Winnipeg, MB R3P 1K1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Linden Woods",
+				"postalCode": "R3P 1K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18801,
+					49.84414
+				]
+			},
+			"bbox": [
+				-97.1897532,
+				49.8430158,
+				-97.1862668,
+				49.8452642
+			]
+		}
+	]
+}

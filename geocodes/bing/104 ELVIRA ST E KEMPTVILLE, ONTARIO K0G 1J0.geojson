@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 Elvira St E, Kemptville, ON K0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82a12ec2530f4bf6865bee59b3677f11|BN20190642|7.7.0.0|",
+				"addressLine": "104 Elvira St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 Elvira St E, Kemptville, ON K0G, Canada",
+				"locality": "North Grenville",
+				"neighborhood": "Kemptville",
+				"postalCode": "K0G 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6516,
+					45.02078
+				]
+			},
+			"bbox": [
+				-75.6531904,
+				45.0196558,
+				-75.6500096,
+				45.0219042
+			]
+		}
+	]
+}

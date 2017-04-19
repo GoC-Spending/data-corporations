@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Lord Seaton Rd, North York, ON M2P 1K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5e38b045aa54f4ba1156c8459ce4f27|BN20300154|7.7.0.0|",
+				"addressLine": "75 Lord Seaton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Lord Seaton Rd, North York, ON M2P 1K6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M2P 1K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40253,
+					43.75269
+				]
+			},
+			"bbox": [
+				-79.4040863,
+				43.7515658,
+				-79.4009737,
+				43.7538142
+			]
+		}
+	]
+}

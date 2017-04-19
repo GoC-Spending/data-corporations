@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "513 Grovehill Rd, Oakville, ON L6H 7M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b3eb5c070e5469397a3ac638fca9b75|BN20320521|7.7.0.0|",
+				"addressLine": "513 Grovehill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "513 Grovehill Rd, Oakville, ON L6H 7M2, Canada",
+				"locality": "Oakville",
+				"neighborhood": "River Oaks",
+				"postalCode": "L6H 7M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7414,
+					43.46372
+				]
+			},
+			"bbox": [
+				-79.7429488,
+				43.4625958,
+				-79.7398512,
+				43.4648442
+			]
+		}
+	]
+}

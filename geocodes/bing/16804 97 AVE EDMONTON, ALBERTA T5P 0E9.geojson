@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16804 97 Ave NW, Edmonton, AB T5P 0E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc19d8cef0314a7585c3fa55fb59c0f5|BN20130521|7.7.0.0|",
+				"addressLine": "16804 97 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "16804 97 Ave NW, Edmonton, AB T5P 0E9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Glenwood",
+				"postalCode": "T5P 0E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6125,
+					53.5350899
+				]
+			},
+			"bbox": [
+				-113.6143915,
+				53.5339657,
+				-113.6106085,
+				53.5362141
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5595 Fenwick St, Halifax, NS B3H 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b97ec160a1fc4687a299dae836c7cb22|BN20130625|7.7.0.0|",
+				"addressLine": "5595 Fenwick St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5595 Fenwick St, Halifax, NS B3H 1R1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3H 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57464,
+					44.6381299
+				]
+			},
+			"bbox": [
+				-63.5762198,
+				44.6370057,
+				-63.5730602,
+				44.6392541
+			]
+		}
+	]
+}

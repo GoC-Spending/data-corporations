@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "525 Boundary Rd, Cornwall, ON K6H 6K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a851f394912448c28b1559043332a76d|BN20200137|7.7.0.0|",
+				"addressLine": "525 Boundary Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "525 Boundary Rd, Cornwall, ON K6H 6K8, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6H 6K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.67468,
+					45.04179
+				]
+			},
+			"bbox": [
+				-74.676271,
+				45.0406658,
+				-74.673089,
+				45.0429142
+			]
+		}
+	]
+}

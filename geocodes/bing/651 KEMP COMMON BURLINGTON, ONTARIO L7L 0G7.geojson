@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "651 Kemp Cmn, Burlington, ON L7L 0G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7dcd70f88a640798fb1328acad31930|BN20200239|7.7.0.0|",
+				"addressLine": "651 Kemp Cmn",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "651 Kemp Cmn, Burlington, ON L7L 0G7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Longmoor",
+				"postalCode": "L7L 0G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77469,
+					43.3634
+				]
+			},
+			"bbox": [
+				-79.7762363,
+				43.3622758,
+				-79.7731437,
+				43.3645242
+			]
+		}
+	]
+}

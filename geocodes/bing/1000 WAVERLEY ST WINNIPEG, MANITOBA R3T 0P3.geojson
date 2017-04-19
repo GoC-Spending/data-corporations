@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1000 Waverley St, Winnipeg, MB R3T 0P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20f77436abba445c980a80eaccbc5fd1|BN20130532|7.7.0.0|",
+				"addressLine": "1000 Waverley St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1000 Waverley St, Winnipeg, MB R3T 0P3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Buffalo",
+				"postalCode": "R3T 0P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17878,
+					49.84021
+				]
+			},
+			"bbox": [
+				-97.1805231,
+				49.8390858,
+				-97.1770369,
+				49.8413342
+			]
+		}
+	]
+}

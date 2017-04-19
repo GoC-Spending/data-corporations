@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 River Rd, Central Manitoulin, ON P0P 1P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "831111af373b475a9d41188832b022bb|BN20260231|7.7.0.0|",
+				"addressLine": "89 River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Manitoulin",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 River Rd, Central Manitoulin, ON P0P 1P0, Canada",
+				"locality": "Central Manitoulin",
+				"postalCode": "P0P 1P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.2599629,
+					45.6751596
+				]
+			},
+			"bbox": [
+				-82.2615718,
+				45.6740355,
+				-82.2583541,
+				45.6762838
+			]
+		}
+	]
+}

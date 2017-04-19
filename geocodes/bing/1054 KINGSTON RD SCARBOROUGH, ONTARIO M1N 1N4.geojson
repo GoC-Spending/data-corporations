@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1054 Kingston Rd, Scarborough, ON M1N 1N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ff4cc4d960c4359adc1e0be2574cebe|BN20130625|7.7.0.0|",
+				"addressLine": "1054 Kingston Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1054 Kingston Rd, Scarborough, ON M1N 1N4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Birchcliffe-Cliffside",
+				"postalCode": "M1N 1N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28394,
+					43.68099
+				]
+			},
+			"bbox": [
+				-79.2854944,
+				43.6798658,
+				-79.2823856,
+				43.6821142
+			]
+		}
+	]
+}

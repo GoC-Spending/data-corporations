@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Spruce St, St Thomas, ON N5R 1N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e22206398cd4f09b70b8e694fbed7c7|BN20130442|7.7.0.0|",
+				"addressLine": "10 Spruce St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Spruce St, St Thomas, ON N5R 1N5, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5R 1N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1878739,
+					42.7664049
+				]
+			},
+			"bbox": [
+				-81.1894052,
+				42.7652807,
+				-81.1863426,
+				42.767529
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "583 Main St, Shediac, NB E4P 2C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "02ed75b8ae1d4853a6f46381c824655e|BN20190642|7.7.0.0|",
+				"addressLine": "583 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "583 Main St, Shediac, NB E4P 2C6, Canada",
+				"locality": "Shediac",
+				"postalCode": "E4P 2C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.51433,
+					46.2239999
+				]
+			},
+			"bbox": [
+				-64.5159549,
+				46.2228757,
+				-64.5127051,
+				46.2251241
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4002 4 St SE, Calgary, AB T2G 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3d9c675a2b9408a89dcc1625fee15bf|BN20130423|7.7.0.0|",
+				"addressLine": "4002 4 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4002 4 St SE, Calgary, AB T2G 2W3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2G 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0519,
+					51.0186
+				]
+			},
+			"bbox": [
+				-114.053687,
+				51.0174758,
+				-114.050113,
+				51.0197242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "831 77 Ave NW, Edmonton, AB T6P 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "784d18a56ea7418f8a37044fac527606|BN20121763|7.7.0.0|",
+				"addressLine": "831 77 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "831 77 Ave NW, Edmonton, AB T6P 1S9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Southeast Industrial",
+				"postalCode": "T6P 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.35862,
+					53.51292
+				]
+			},
+			"bbox": [
+				-113.3605105,
+				53.5117958,
+				-113.3567295,
+				53.5140442
+			]
+		}
+	]
+}

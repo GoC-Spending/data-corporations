@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3850 Milton Rd, Navan, ON K4B 0A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1786b9d0dd04102843bda9300c774f1|BN20131519|7.7.0.0|",
+				"addressLine": "3850 Milton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3850 Milton Rd, Navan, ON K4B 0A9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Navan",
+				"postalCode": "K4B 0A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.43697,
+					45.40298
+				]
+			},
+			"bbox": [
+				-75.4385711,
+				45.4018558,
+				-75.4353689,
+				45.4041042
+			]
+		}
+	]
+}

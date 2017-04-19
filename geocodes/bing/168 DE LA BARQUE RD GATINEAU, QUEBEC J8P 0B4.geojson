@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "168 Rue de la Barque, Gatineau, QC J8P 0B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f144fb7910f49bba5174337e63a547b|BN20240423|7.7.0.0|",
+				"addressLine": "168 Rue de la Barque",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "168 Rue de la Barque, Gatineau, QC J8P 0B4, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier de Rivière-Blanche",
+				"postalCode": "J8P 0B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.58606,
+					45.50239
+				]
+			},
+			"bbox": [
+				-75.5876639,
+				45.5012658,
+				-75.5844561,
+				45.5035142
+			]
+		}
+	]
+}

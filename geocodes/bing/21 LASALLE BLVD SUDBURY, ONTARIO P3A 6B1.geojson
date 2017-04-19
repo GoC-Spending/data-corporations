@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Lasalle Blvd, Sudbury, ON P3A 6B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f7e52df62054bb2ab393122ac6a7116|BN20260231|7.7.0.0|",
+				"addressLine": "21 Lasalle Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Lasalle Blvd, Sudbury, ON P3A 6B1, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3A 6B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0012556,
+					46.51569
+				]
+			},
+			"bbox": [
+				-81.0028892,
+				46.5145659,
+				-80.9996221,
+				46.5168142
+			]
+		}
+	]
+}

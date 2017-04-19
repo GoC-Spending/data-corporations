@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "763 Tulip Ave, Saanich, BC V8Z 2P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f194c1c560c4d6cb28b7bb231766bb2|BN20130621|7.7.0.0|",
+				"addressLine": "763 Tulip Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "763 Tulip Ave, Saanich, BC V8Z 2P6, Canada",
+				"locality": "Saanich",
+				"postalCode": "V8Z 2P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4013,
+					48.46567
+				]
+			},
+			"bbox": [
+				-123.4029954,
+				48.4645458,
+				-123.3996046,
+				48.4667942
+			]
+		}
+	]
+}

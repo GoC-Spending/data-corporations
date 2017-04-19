@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1360 California Ave, Brockville, ON K6V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c31bd73e7f64a4986915bf7f7152ceb|BN20290118|7.7.0.0|",
+				"addressLine": "1360 California Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "1360 California Ave, Brockville, ON K6V, Canada",
+				"locality": "Brockville",
+				"postalCode": "K6V 5V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6965198,
+					44.620554
+				]
+			},
+			"bbox": [
+				-75.6980991,
+				44.6194298,
+				-75.6949404,
+				44.6216781
+			]
+		}
+	]
+}

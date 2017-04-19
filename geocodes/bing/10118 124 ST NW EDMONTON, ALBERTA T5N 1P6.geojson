@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10118 124 St NW, Edmonton, AB T5N 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f3e39f5bb1541c1bdf1903f3ef49e5e|BN20130423|7.7.0.0|",
+				"addressLine": "10118 124 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10118 124 St NW, Edmonton, AB T5N 1P6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Westmount",
+				"postalCode": "T5N 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53617,
+					53.54227
+				]
+			},
+			"bbox": [
+				-113.5380618,
+				53.5411458,
+				-113.5342782,
+				53.5433942
+			]
+		}
+	]
+}

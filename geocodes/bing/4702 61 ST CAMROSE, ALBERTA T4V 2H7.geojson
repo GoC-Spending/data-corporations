@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4702 61 St, Camrose, AB T4V 2H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b028586689414962a776eebf71c1a9ab|BN20121763|7.7.0.0|",
+				"addressLine": "4702 61 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4702 61 St, Camrose, AB T4V 2H7, Canada",
+				"locality": "Camrose",
+				"postalCode": "T4V 2H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.84572,
+					53.0164199
+				]
+			},
+			"bbox": [
+				-112.8475886,
+				53.0152957,
+				-112.8438514,
+				53.0175441
+			]
+		}
+	]
+}

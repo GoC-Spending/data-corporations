@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2304 Dixie Rd, Mississauga, ON L4Y 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78ca9a1499e646d8924e7d9779a866d8|BN20240423|7.7.0.0|",
+				"addressLine": "2304 Dixie Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "2304 Dixie Rd, Mississauga, ON L4Y 1Z6, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Y 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5761222,
+					43.6036581
+				]
+			},
+			"bbox": [
+				-79.5776746,
+				43.6025339,
+				-79.5745698,
+				43.6047822
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Personna Cir, Brampton, ON L6X 0P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d38b026331de49b4a4b3bd9baab00807|BN20121762|7.7.0.0|",
+				"addressLine": "32 Personna Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Personna Cir, Brampton, ON L6X 0P2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "L6X 0P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80713,
+					43.67011
+				]
+			},
+			"bbox": [
+				-79.8086841,
+				43.6689858,
+				-79.8055759,
+				43.6712342
+			]
+		}
+	]
+}

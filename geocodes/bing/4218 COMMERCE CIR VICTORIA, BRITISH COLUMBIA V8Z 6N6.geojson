@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4218 Commerce Cir, Victoria, BC V8Z 6N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78d94a746a58410faefc3e5ade51e636|BN20130521|7.7.0.0|",
+				"addressLine": "4218 Commerce Cir",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4218 Commerce Cir, Victoria, BC V8Z 6N6, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8Z 6N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.39384,
+					48.48088
+				]
+			},
+			"bbox": [
+				-123.3955359,
+				48.4797558,
+				-123.3921441,
+				48.4820042
+			]
+		}
+	]
+}

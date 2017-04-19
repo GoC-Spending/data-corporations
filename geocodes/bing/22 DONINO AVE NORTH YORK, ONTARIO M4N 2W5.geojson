@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Donino Ave, North York, ON M4N 2W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ab424728bcb48ec9ce8cc7c27a34b06|BN20300154|7.7.0.0|",
+				"addressLine": "22 Donino Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Donino Ave, North York, ON M4N 2W5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bridle Path-Sunnybrook-York Mills",
+				"postalCode": "M4N 2W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40174,
+					43.73814
+				]
+			},
+			"bbox": [
+				-79.4032959,
+				43.7370158,
+				-79.4001841,
+				43.7392642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3022 Tutt St, Kelowna, BC V1Y 2H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0af947ecebf439497a6d0ca9ca190ca|BN20131519|7.7.0.0|",
+				"addressLine": "3022 Tutt St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "3022 Tutt St, Kelowna, BC V1Y 2H5, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "South Pandosy-KLO",
+				"postalCode": "V1Y 2H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.49011,
+					49.86287
+				]
+			},
+			"bbox": [
+				-119.4918539,
+				49.8617458,
+				-119.4883661,
+				49.8639942
+			]
+		}
+	]
+}

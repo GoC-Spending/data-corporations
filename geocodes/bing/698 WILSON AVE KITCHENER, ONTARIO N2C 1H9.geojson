@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "698 Wilson Ave, Kitchener, ON N2C 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0ca65379369425aa4ed41ad9a254653|BN20240423|7.7.0.0|",
+				"addressLine": "698 Wilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "698 Wilson Ave, Kitchener, ON N2C 1H9, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Trillium Industrial Park",
+				"postalCode": "N2C 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.44147,
+					43.41687
+				]
+			},
+			"bbox": [
+				-80.4430176,
+				43.4157458,
+				-80.4399224,
+				43.4179942
+			]
+		}
+	]
+}

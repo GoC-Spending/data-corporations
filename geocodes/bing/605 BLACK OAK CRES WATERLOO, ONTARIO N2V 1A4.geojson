@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 Black Oak Cres, Waterloo, ON N2V 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7089b293afc4d52830d9eab5a930965|BN20210145|7.7.0.0|",
+				"addressLine": "605 Black Oak Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 Black Oak Cres, Waterloo, ON N2V 1A4, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.55546,
+					43.49582
+				]
+			},
+			"bbox": [
+				-80.5570096,
+				43.4946958,
+				-80.5539104,
+				43.4969442
+			]
+		}
+	]
+}

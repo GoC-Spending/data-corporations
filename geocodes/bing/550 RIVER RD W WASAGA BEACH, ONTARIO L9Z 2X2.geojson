@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 River Rd W, Wasaga Beach, ON L9Z 2X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0dbe60642cf7447a9361781c1b395a82|BN20130532|7.7.0.0|",
+				"addressLine": "550 River Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 River Rd W, Wasaga Beach, ON L9Z 2X2, Canada",
+				"locality": "Wasaga Beach",
+				"postalCode": "L9Z 2X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9961299,
+					44.52722
+				]
+			},
+			"bbox": [
+				-79.9977067,
+				44.5260958,
+				-79.9945531,
+				44.5283442
+			]
+		}
+	]
+}

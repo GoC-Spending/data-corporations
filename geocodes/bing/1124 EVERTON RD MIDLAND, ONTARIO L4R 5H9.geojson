@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1124 Everton Rd, Midland, ON L4R 5H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0976e41a62ac4e79939a4b333aa15114|BN20200239|7.7.0.0|",
+				"addressLine": "1124 Everton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "1124 Everton Rd, Midland, ON L4R 5H9, Canada",
+				"locality": "Midland",
+				"postalCode": "L4R 5H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9031399,
+					44.76245
+				]
+			},
+			"bbox": [
+				-79.9047231,
+				44.7613258,
+				-79.9015567,
+				44.7635742
+			]
+		}
+	]
+}

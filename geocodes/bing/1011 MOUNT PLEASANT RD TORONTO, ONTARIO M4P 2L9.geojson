@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1011 Mt Pleasant Rd, Toronto, ON M4P 2L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53b8d3501cd8450d923f4130c1875108|BN20121763|7.7.0.0|",
+				"addressLine": "1011 Mt Pleasant Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1011 Mt Pleasant Rd, Toronto, ON M4P 2L9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4P 2L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39211,
+					43.71439
+				]
+			},
+			"bbox": [
+				-79.3936653,
+				43.7132658,
+				-79.3905547,
+				43.7155142
+			]
+		}
+	]
+}

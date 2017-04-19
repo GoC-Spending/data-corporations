@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "610 Conacher Dr, North York, ON M2M 3N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b5d1fb84c3c44c99f9815da138a5042|BN20130533|7.7.0.0|",
+				"addressLine": "610 Conacher Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "610 Conacher Dr, North York, ON M2M 3N1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook East",
+				"postalCode": "M2M 3N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39785,
+					43.79285
+				]
+			},
+			"bbox": [
+				-79.3994073,
+				43.7917258,
+				-79.3962927,
+				43.7939742
+			]
+		}
+	]
+}

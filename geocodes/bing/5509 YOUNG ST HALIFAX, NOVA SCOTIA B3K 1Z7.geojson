@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5509 Young St, Halifax, NS B3K 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b934c4fb69e4967a1b35a66556c3139|BN20130431|7.7.0.0|",
+				"addressLine": "5509 Young St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5509 Young St, Halifax, NS B3K 1Z7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "The Hydrostone",
+				"postalCode": "B3K 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.59895,
+					44.66246
+				]
+			},
+			"bbox": [
+				-63.6005305,
+				44.6613358,
+				-63.5973695,
+				44.6635842
+			]
+		}
+	]
+}

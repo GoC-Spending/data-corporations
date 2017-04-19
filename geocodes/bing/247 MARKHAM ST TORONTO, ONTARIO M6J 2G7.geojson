@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "247 Markham St, Toronto, ON M6J 2G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e86ab9ae1f243569680e77b44d814a9|BN20130632|7.7.0.0|",
+				"addressLine": "247 Markham St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "247 Markham St, Toronto, ON M6J 2G7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 2G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40796,
+					43.6545
+				]
+			},
+			"bbox": [
+				-79.4095137,
+				43.6533758,
+				-79.4064063,
+				43.6556242
+			]
+		}
+	]
+}

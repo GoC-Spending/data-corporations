@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10360 58 Ave NW, Edmonton, AB T6H 1B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55d2e8ebf1f64dfc84464ada1c36d506|BN20131519|7.7.0.0|",
+				"addressLine": "10360 58 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10360 58 Ave NW, Edmonton, AB T6H 1B6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Calgary Trail North",
+				"postalCode": "T6H 1B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49565,
+					53.49547
+				]
+			},
+			"bbox": [
+				-113.4975397,
+				53.4943458,
+				-113.4937603,
+				53.4965942
+			]
+		}
+	]
+}

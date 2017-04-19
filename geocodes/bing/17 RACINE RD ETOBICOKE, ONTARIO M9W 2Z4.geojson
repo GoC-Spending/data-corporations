@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Racine Rd, Etobicoke, ON M9W 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d78acfcd07c7473d8575965ca9a096de|BN20121763|7.7.0.0|",
+				"addressLine": "17 Racine Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Racine Rd, Etobicoke, ON M9W 2Z4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5728199,
+					43.71484
+				]
+			},
+			"bbox": [
+				-79.5743752,
+				43.7137158,
+				-79.5712646,
+				43.7159642
+			]
+		}
+	]
+}

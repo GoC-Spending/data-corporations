@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Weber St N, Waterloo, ON N2L 4E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab13855544414413b56489f2fb59fb9a|BN20171457|7.7.0.0|",
+				"addressLine": "500 Weber St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Weber St N, Waterloo, ON N2L 4E9, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 4E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.53694,
+					43.49212
+				]
+			},
+			"bbox": [
+				-80.5384896,
+				43.4909958,
+				-80.5353904,
+				43.4932442
+			]
+		}
+	]
+}

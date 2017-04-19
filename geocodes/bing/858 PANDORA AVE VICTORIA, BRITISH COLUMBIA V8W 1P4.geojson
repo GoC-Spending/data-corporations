@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "858 Pandora Ave, Victoria, BC V8W 1P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08f943a44edd460187c19acb81d6eabf|BN20130719|7.7.0.0|",
+				"addressLine": "858 Pandora Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "858 Pandora Ave, Victoria, BC V8W 1P4, Canada",
+				"locality": "Victoria",
+				"neighborhood": "North Park",
+				"postalCode": "V8W 1P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.35971,
+					48.42774
+				]
+			},
+			"bbox": [
+				-123.3614041,
+				48.4266158,
+				-123.3580159,
+				48.4288642
+			]
+		}
+	]
+}

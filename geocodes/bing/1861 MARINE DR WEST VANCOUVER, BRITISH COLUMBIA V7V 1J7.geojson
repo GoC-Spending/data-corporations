@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1861 Marine Dr, West Vancouver, BC V7V 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d2e507aac6f47cf9bde2b591495d9aa|BN20190642|7.7.0.0|",
+				"addressLine": "1861 Marine Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1861 Marine Dr, West Vancouver, BC V7V 1J7, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Ambleside",
+				"postalCode": "V7V 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1635182,
+					49.3288015
+				]
+			},
+			"bbox": [
+				-123.1652431,
+				49.3276774,
+				-123.1617933,
+				49.3299257
+			]
+		}
+	]
+}

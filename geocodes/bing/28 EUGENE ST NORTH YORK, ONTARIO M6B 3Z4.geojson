@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "28 Eugene St, North York, ON M6B 3Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05d6fc34f7ed4d0886d2b1b97120958d|BN20130530|7.7.0.0|",
+				"addressLine": "28 Eugene St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "28 Eugene St, North York, ON M6B 3Z4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6B 3Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46879,
+					43.70845
+				]
+			},
+			"bbox": [
+				-79.4703451,
+				43.7073258,
+				-79.4672349,
+				43.7095742
+			]
+		}
+	]
+}

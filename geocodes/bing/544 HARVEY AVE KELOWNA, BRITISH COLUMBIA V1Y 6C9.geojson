@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "544 Harvey Ave, Kelowna, BC V1Y 6C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "884ee99ca8d544d1a504f48c534076c3|BN20260223|7.7.0.0|",
+				"addressLine": "544 Harvey Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "544 Harvey Ave, Kelowna, BC V1Y 6C9, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Downtown Kelowna",
+				"postalCode": "V1Y 6C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.49228,
+					49.88394
+				]
+			},
+			"bbox": [
+				-119.4940247,
+				49.8828158,
+				-119.4905353,
+				49.8850642
+			]
+		}
+	]
+}

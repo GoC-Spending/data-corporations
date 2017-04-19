@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Sherbrooke, J1L 2T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b0241069dab40c9842a75c24d199ad0|BN20280152|7.7.0.0|",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "Sherbrooke, J1L 2T9, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1L 2T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.9677429199219,
+					45.4137306213379
+				]
+			},
+			"bbox": [
+				-71.9750791976886,
+				45.4098679037672,
+				-71.9604066421552,
+				45.4175933389086
+			]
+		}
+	]
+}

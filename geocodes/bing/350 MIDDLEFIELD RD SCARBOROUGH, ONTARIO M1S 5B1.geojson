@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 Middlefield Rd, Scarborough, ON M1S 5B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a83a3d21552049c78ca84d1c66a68575|BN20130431|7.7.0.0|",
+				"addressLine": "350 Middlefield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 Middlefield Rd, Scarborough, ON M1S 5B1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt North",
+				"postalCode": "M1S 5B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25535,
+					43.80473
+				]
+			},
+			"bbox": [
+				-79.2569076,
+				43.8036058,
+				-79.2537924,
+				43.8058542
+			]
+		}
+	]
+}

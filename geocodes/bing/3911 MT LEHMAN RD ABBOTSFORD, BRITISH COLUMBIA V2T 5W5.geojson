@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3911 Mt Lehman Rd, Abbotsford, BC V4X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1da4a7bb82c4c8ca9ee10c6403ad406|BN20181720|7.7.0.0|",
+				"addressLine": "3911 Mt Lehman Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3911 Mt Lehman Rd, Abbotsford, BC V4X, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Bradner-Mt Lehman",
+				"postalCode": "V4X"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.38146,
+					49.0736599
+				]
+			},
+			"bbox": [
+				-122.383176,
+				49.0725357,
+				-122.379744,
+				49.0747841
+			]
+		}
+	]
+}

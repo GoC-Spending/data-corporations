@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 6,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Brisco Rd, East Kootenay, BC V0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63d148d0d4be48ada566877b66143448|BN20130422|7.7.0.0|",
+				"addressLine": "Brisco Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "East Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Brisco Rd, East Kootenay, BC V0A, Canada",
+				"locality": "East Kootenay",
+				"neighborhood": "East Kootenay",
+				"postalCode": "V0A 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.31341,
+					50.82909
+				]
+			},
+			"bbox": [
+				-116.35165,
+				50.82473,
+				-116.26878,
+				50.85377
+			]
+		}
+	]
+}

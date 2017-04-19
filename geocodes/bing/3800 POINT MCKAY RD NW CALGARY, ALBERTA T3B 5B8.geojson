@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3800 Point McKay Rd NW, Calgary, AB T3B 5B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2efa810767847f7b2f2ff609460a649|BN20130447|7.7.0.0|",
+				"addressLine": "3800 Point McKay Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3800 Point McKay Rd NW, Calgary, AB T3B 5B8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Point McKay",
+				"postalCode": "T3B 5B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.14229,
+					51.05823
+				]
+			},
+			"bbox": [
+				-114.1440785,
+				51.0571058,
+				-114.1405015,
+				51.0593542
+			]
+		}
+	]
+}

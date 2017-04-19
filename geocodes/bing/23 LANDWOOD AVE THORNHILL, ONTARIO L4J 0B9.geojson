@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Landwood Ave, Thornhill, ON L4J 0B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "303604d29da2484ab87da8b22dff2ba1|BN20130422|7.7.0.0|",
+				"addressLine": "23 Landwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Landwood Ave, Thornhill, ON L4J 0B9, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 0B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4800099,
+					43.83669
+				]
+			},
+			"bbox": [
+				-79.4815684,
+				43.8355658,
+				-79.4784514,
+				43.8378142
+			]
+		}
+	]
+}

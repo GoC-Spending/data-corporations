@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "614 Alexander St, Vancouver, BC V6A 1C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b0fd8798b6194ee0a54cad69d4edecd0|BN20130532|7.7.0.0|",
+				"addressLine": "614 Alexander St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "614 Alexander St, Vancouver, BC V6A 1C9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown Eastside",
+				"postalCode": "V6A 1C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09088,
+					49.28367
+				]
+			},
+			"bbox": [
+				-123.0926033,
+				49.2825458,
+				-123.0891567,
+				49.2847942
+			]
+		}
+	]
+}

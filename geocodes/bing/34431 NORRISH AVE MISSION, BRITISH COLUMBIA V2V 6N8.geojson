@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34431 Norrish Ave, Mission, BC V2V 6N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec77515b4e764eb7a05834aad27016f8|BN20190642|7.7.0.0|",
+				"addressLine": "34431 Norrish Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "34431 Norrish Ave, Mission, BC V2V 6N8, Canada",
+				"locality": "Mission",
+				"postalCode": "V2V 6N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2690974,
+					49.1463439
+				]
+			},
+			"bbox": [
+				-122.270816,
+				49.1452198,
+				-122.2673789,
+				49.1474681
+			]
+		}
+	]
+}

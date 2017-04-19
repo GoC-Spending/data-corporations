@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18446 53 Ave, Surrey, BC V3S 7A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7620ae3d3c6e42e199cff3cdaebdd7a6|BN20260223|7.7.0.0|",
+				"addressLine": "18446 53 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "18446 53 Ave, Surrey, BC V3S 7A4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 7A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.71125,
+					49.0989099
+				]
+			},
+			"bbox": [
+				-122.7129669,
+				49.0977857,
+				-122.7095331,
+				49.1000341
+			]
+		}
+	]
+}

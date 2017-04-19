@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "482 Belmont Ave W, Kitchener, ON N2M 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78262b0b6c8a4fc2928f78fa736be1a1|BN20130621|7.7.0.0|",
+				"addressLine": "482 Belmont Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "482 Belmont Ave W, Kitchener, ON N2M 1N3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Cherry Hill",
+				"postalCode": "N2M 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5134,
+					43.44701
+				]
+			},
+			"bbox": [
+				-80.5149484,
+				43.4458858,
+				-80.5118516,
+				43.4481342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Patterson Ave, Scarborough, ON M1L 3Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "26b277cd223a46b5b3ce7678bbabe2e5|BN20200239|7.7.0.0|",
+				"addressLine": "107 Patterson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Patterson Ave, Scarborough, ON M1L 3Y1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakridge",
+				"postalCode": "M1L 3Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27779,
+					43.6986599
+				]
+			},
+			"bbox": [
+				-79.2793449,
+				43.6975357,
+				-79.2762351,
+				43.6997841
+			]
+		}
+	]
+}

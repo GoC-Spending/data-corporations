@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 1 Ave NW, Airdrie, AB T4B 2M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08f8885b6d11404f860b21142de09133|BN20190642|7.7.0.0|",
+				"addressLine": "225 1 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 1 Ave NW, Airdrie, AB T4B 2M8, Canada",
+				"locality": "Airdrie",
+				"postalCode": "T4B 2M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.01725,
+					51.29252
+				]
+			},
+			"bbox": [
+				-114.0190477,
+				51.2913958,
+				-114.0154523,
+				51.2936442
+			]
+		}
+	]
+}

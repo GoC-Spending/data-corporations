@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14485 88A Ave, Surrey, BC V3R 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a11ba89fe94e49bab6cac65607af8448|BN20130522|7.7.0.0|",
+				"addressLine": "14485 88A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "14485 88A Ave, Surrey, BC V3R 1A2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Fleetwood",
+				"postalCode": "V3R 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8194837,
+					49.1638806
+				]
+			},
+			"bbox": [
+				-122.8212029,
+				49.1627564,
+				-122.8177646,
+				49.1650048
+			]
+		}
+	]
+}

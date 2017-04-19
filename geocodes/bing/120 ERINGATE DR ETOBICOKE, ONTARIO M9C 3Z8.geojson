@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Eringate Dr, Etobicoke, ON M9C 3Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08c579c402eb403b948112431ea6066c|BN20130442|7.7.0.0|",
+				"addressLine": "120 Eringate Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Eringate Dr, Etobicoke, ON M9C 3Z8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Eringate-Centennial-West Deane",
+				"postalCode": "M9C 3Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5821799,
+					43.66053
+				]
+			},
+			"bbox": [
+				-79.5837338,
+				43.6594058,
+				-79.580626,
+				43.6616542
+			]
+		}
+	]
+}

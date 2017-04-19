@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8750 58 Ave NW, Edmonton, AB T6E 6G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d856bbbf1add480a8187f55763e1a96e|BN20130431|7.7.0.0|",
+				"addressLine": "8750 58 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8750 58 Ave NW, Edmonton, AB T6E 6G6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial West",
+				"postalCode": "T6E 6G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46224,
+					53.4944599
+				]
+			},
+			"bbox": [
+				-113.4641296,
+				53.4933357,
+				-113.4603504,
+				53.4955841
+			]
+		}
+	]
+}

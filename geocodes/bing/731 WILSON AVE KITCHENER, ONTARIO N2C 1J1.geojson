@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "731 Wilson Ave, Kitchener, ON N2C 1J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e98f8e0a53344bf3ad49a78c4d8ba505|BN20200239|7.7.0.0|",
+				"addressLine": "731 Wilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "731 Wilson Ave, Kitchener, ON N2C 1J1, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Trillium Industrial Park",
+				"postalCode": "N2C 1J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.44291,
+					43.41616
+				]
+			},
+			"bbox": [
+				-80.4444576,
+				43.4150358,
+				-80.4413624,
+				43.4172842
+			]
+		}
+	]
+}

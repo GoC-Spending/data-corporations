@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4716 Yonge St, North York, ON M2N 5M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e27e0b6527594a86b94496c325dbc2e1|BN20210145|7.7.0.0|",
+				"addressLine": "4716 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4716 Yonge St, North York, ON M2N 5M4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 5M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4106239,
+					43.7595692
+				]
+			},
+			"bbox": [
+				-79.4121804,
+				43.758445,
+				-79.4090675,
+				43.7606933
+			]
+		}
+	]
+}

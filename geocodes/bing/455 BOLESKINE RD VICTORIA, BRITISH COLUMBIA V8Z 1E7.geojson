@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "455 Boleskine Rd, Victoria, BC V8Z 1E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58d866e61ddd4326a7a2309120741f63|BN20130520|7.7.0.0|",
+				"addressLine": "455 Boleskine Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "455 Boleskine Rd, Victoria, BC V8Z 1E7, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8Z 1E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.37948,
+					48.45205
+				]
+			},
+			"bbox": [
+				-123.3811749,
+				48.4509258,
+				-123.3777851,
+				48.4531742
+			]
+		}
+	]
+}

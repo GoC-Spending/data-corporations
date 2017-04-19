@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1452 McAra St, Regina, SK S4N 6C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0b3e79d765c4051a1de2a00a45754a0|BN20130530|7.7.0.0|",
+				"addressLine": "1452 McAra St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1452 McAra St, Regina, SK S4N 6C8, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 6C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.58261,
+					50.45619
+				]
+			},
+			"bbox": [
+				-104.5843757,
+				50.4550658,
+				-104.5808443,
+				50.4573142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "875 Highland Rd W, Kitchener, ON N2N 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abee7b606208486387f2df17704bde32|BN20130719|7.7.0.0|",
+				"addressLine": "875 Highland Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "875 Highland Rd W, Kitchener, ON N2N 2Y2, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Forest Heights",
+				"postalCode": "N2N 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52717,
+					43.42926
+				]
+			},
+			"bbox": [
+				-80.5287179,
+				43.4281358,
+				-80.5256221,
+				43.4303842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Rue King E, Sherbrooke, QC J1G 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e0a83abdbb946e59b62bb0bcf297160|BN20130532|7.7.0.0|",
+				"addressLine": "250 Rue King E",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Rue King E, Sherbrooke, QC J1G 1A9, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1G 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.88292,
+					45.40594
+				]
+			},
+			"bbox": [
+				-71.8845212,
+				45.4048158,
+				-71.8813188,
+				45.4070642
+			]
+		}
+	]
+}

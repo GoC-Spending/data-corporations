@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "408 Terminal Ave, Vancouver, BC V6A 0C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef545abea484436cbf5c5795e2727573|BN20130422|7.7.0.0|",
+				"addressLine": "408 Terminal Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "408 Terminal Ave, Vancouver, BC V6A 0C1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A 0C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0959632,
+					49.2718904
+				]
+			},
+			"bbox": [
+				-123.0976861,
+				49.2707663,
+				-123.0942402,
+				49.2730146
+			]
+		}
+	]
+}

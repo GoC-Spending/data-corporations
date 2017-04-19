@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2560 Shepard Ave, Mississauga, ON L5A 4E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdb14b25118a48dc9b97cd37aedc9e15|BN20121762|7.7.0.0|",
+				"addressLine": "2560 Shepard Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "2560 Shepard Ave, Mississauga, ON L5A 4E1, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5A 4E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61351,
+					43.57984
+				]
+			},
+			"bbox": [
+				-79.6150618,
+				43.5787158,
+				-79.6119582,
+				43.5809642
+			]
+		}
+	]
+}

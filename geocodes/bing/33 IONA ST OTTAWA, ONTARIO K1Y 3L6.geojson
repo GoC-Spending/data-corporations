@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Iona St, Ottawa, ON K1Y 3L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "311cc783b0794d23bc1c38f54bf4972d|BN20280152|7.7.0.0|",
+				"addressLine": "33 Iona St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Iona St, Ottawa, ON K1Y 3L6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Island Park",
+				"postalCode": "K1Y 3L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73332,
+					45.3949799
+				]
+			},
+			"bbox": [
+				-75.7349209,
+				45.3938557,
+				-75.7317191,
+				45.3961041
+			]
+		}
+	]
+}

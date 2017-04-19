@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5815 34 Ave NW, Edmonton, AB T6L 7B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a425a02225b9484b9bae526a74bceebc|BN20171457|7.7.0.0|",
+				"addressLine": "5815 34 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5815 34 Ave NW, Edmonton, AB T6L 7B8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Tawa",
+				"postalCode": "T6L 7B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.42869,
+					53.46453
+				]
+			},
+			"bbox": [
+				-113.4305783,
+				53.4634058,
+				-113.4268017,
+				53.4656542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Fable St, Nepean, ON K2J 2A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd3c391813da41b4a4b0ea476a1bf38a|BN20130521|7.7.0.0|",
+				"addressLine": "20 Fable St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Fable St, Nepean, ON K2J 2A6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 2A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7641,
+					45.27505
+				]
+			},
+			"bbox": [
+				-75.7656975,
+				45.2739258,
+				-75.7625025,
+				45.2761742
+			]
+		}
+	]
+}

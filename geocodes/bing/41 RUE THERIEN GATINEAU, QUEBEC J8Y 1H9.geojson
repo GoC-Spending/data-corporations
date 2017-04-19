@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 Rue Thérien, Gatineau, QC J8Y 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc2ca023d01a4d7795697f35ec254f22|BN20280152|7.7.0.0|",
+				"addressLine": "41 Rue Thérien",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 Rue Thérien, Gatineau, QC J8Y 1H9, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8Y 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7559799,
+					45.45395
+				]
+			},
+			"bbox": [
+				-75.7575824,
+				45.4528258,
+				-75.7543774,
+				45.4550742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Bloor St E, Oshawa, ON L1H 3M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3252edb4f73a45d58dfc592468bc5622|BN20130530|7.7.0.0|",
+				"addressLine": "70 Bloor St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Bloor St E, Oshawa, ON L1H 3M2, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Lakeview",
+				"postalCode": "L1H 3M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8531339,
+					43.8811686
+				]
+			},
+			"bbox": [
+				-78.8546935,
+				43.8800444,
+				-78.8515743,
+				43.8822927
+			]
+		}
+	]
+}

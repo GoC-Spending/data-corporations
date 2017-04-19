@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Lorette, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa55e57fba444f61b173a9317cfe3541|BN20130520|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lorette, Manitoba, Canada",
+				"locality": "Lorette"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.8747024536133,
+					49.7397193908691
+				]
+			},
+			"bbox": [
+				-96.8849868774414,
+				49.7347793579102,
+				-96.8621826171875,
+				49.7495498657227
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Tache, R0A 0Y0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa55e57fba444f61b173a9317cfe3541|BN20130520|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Tache, R0A 0Y0, Canada",
+				"locality": "Tache",
+				"postalCode": "R0A 0Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.8631057739258,
+					49.7388534545898
+				]
+			},
+			"bbox": [
+				-96.8710743638998,
+				49.7349907370192,
+				-96.8551371839517,
+				49.7427161721605
+			]
+		}
+	]
+}

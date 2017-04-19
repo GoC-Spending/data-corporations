@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Comeau Rd, Digby Municipal District, NS B0W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "253980c4dc4d405abd392e302c84f522|BN20130532|7.7.0.0|",
+				"addressLine": "75 Comeau Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Digby",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Comeau Rd, Digby Municipal District, NS B0W, Canada",
+				"locality": "Digby Municipal District",
+				"neighborhood": "Weymouth",
+				"postalCode": "B0W 2L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.9942936,
+					44.4117875
+				]
+			},
+			"bbox": [
+				-65.9958674,
+				44.4106633,
+				-65.9927199,
+				44.4129117
+			]
+		}
+	]
+}

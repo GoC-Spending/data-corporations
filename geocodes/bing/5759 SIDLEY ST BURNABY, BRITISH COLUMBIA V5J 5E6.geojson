@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5759 Sidley St, Burnaby, BC V5J 5E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "35031e7a47fa4d548000373fa92f2eb3|BN20130530|7.7.0.0|",
+				"addressLine": "5759 Sidley St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5759 Sidley St, Burnaby, BC V5J 5E6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Clinton-Glenwood",
+				"postalCode": "V5J 5E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9801,
+					49.2175299
+				]
+			},
+			"bbox": [
+				-122.981821,
+				49.2164057,
+				-122.978379,
+				49.2186541
+			]
+		}
+	]
+}

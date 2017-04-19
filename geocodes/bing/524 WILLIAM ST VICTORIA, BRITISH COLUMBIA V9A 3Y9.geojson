@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "524 William St, Victoria, BC V9A 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e21db8240694411ea945f78af8f4a1a7|BN20130631|7.7.0.0|",
+				"addressLine": "524 William St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "524 William St, Victoria, BC V9A 3Y9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3891171,
+					48.432108
+				]
+			},
+			"bbox": [
+				-123.3908114,
+				48.4309838,
+				-123.3874229,
+				48.4332321
+			]
+		}
+	]
+}

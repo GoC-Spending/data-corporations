@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5748 176 St, Surrey, BC V3S 4C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4883862570e14573a44a5e11a424f60b|BN20130632|7.7.0.0|",
+				"addressLine": "5748 176 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5748 176 St, Surrey, BC V3S 4C8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 4C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.73478,
+					49.10684
+				]
+			},
+			"bbox": [
+				-122.7364972,
+				49.1057158,
+				-122.7330628,
+				49.1079642
+			]
+		}
+	]
+}

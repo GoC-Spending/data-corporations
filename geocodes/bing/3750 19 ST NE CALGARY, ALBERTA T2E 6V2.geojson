@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3750 19 St NE, Calgary, AB T2E 6V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9653028c47274d8a97ce4bac87cec363|BN20130521|7.7.0.0|",
+				"addressLine": "3750 19 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3750 19 St NE, Calgary, AB T2E 6V2, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 6V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.01118,
+					51.0863299
+				]
+			},
+			"bbox": [
+				-114.0129696,
+				51.0852057,
+				-114.0093904,
+				51.0874541
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Church St, Corner Brook, NL A2H 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d78c67b12324a9bb50bde776e818d5f|BN20240253|7.7.0.0|",
+				"addressLine": "1 Church St",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Church St, Corner Brook, NL A2H 2Z4, Canada",
+				"locality": "Corner Brook",
+				"postalCode": "A2H 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-57.9377,
+					48.95062
+				]
+			},
+			"bbox": [
+				-57.9394118,
+				48.9494958,
+				-57.9359882,
+				48.9517442
+			]
+		}
+	]
+}

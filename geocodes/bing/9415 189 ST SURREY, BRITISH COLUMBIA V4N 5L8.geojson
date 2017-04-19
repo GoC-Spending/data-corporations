@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9415 189 St, Surrey, BC V4N 5L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa4a360ca8ca43019c7f3ecfadfbcdb5|BN20130620|7.7.0.0|",
+				"addressLine": "9415 189 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9415 189 St, Surrey, BC V4N 5L8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V4N 5L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6991,
+					49.1736
+				]
+			},
+			"bbox": [
+				-122.7008195,
+				49.1724758,
+				-122.6973805,
+				49.1747242
+			]
+		}
+	]
+}

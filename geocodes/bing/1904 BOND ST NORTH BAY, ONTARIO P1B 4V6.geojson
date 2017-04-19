@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1904 Bond St, North Bay, ON P1B 4V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b2d05e3010bb41a3905a36975a77b5d5|BN20250135|7.7.0.0|",
+				"addressLine": "1904 Bond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "1904 Bond St, North Bay, ON P1B 4V6, Canada",
+				"locality": "North Bay",
+				"postalCode": "P1B 4V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49014,
+					46.32746
+				]
+			},
+			"bbox": [
+				-79.4917679,
+				46.3263358,
+				-79.4885121,
+				46.3285842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "251 Harvey Ave, Kelowna, BC V1Y 6C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95c48d795ff24c6eb87f928ef8eed338|BN20130520|7.7.0.0|",
+				"addressLine": "251 Harvey Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "251 Harvey Ave, Kelowna, BC V1Y 6C2, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Downtown Kelowna",
+				"postalCode": "V1Y 6C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.49761,
+					49.88324
+				]
+			},
+			"bbox": [
+				-119.4993546,
+				49.8821158,
+				-119.4958654,
+				49.8843642
+			]
+		}
+	]
+}

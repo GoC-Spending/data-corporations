@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2501 Alyth Rd SE, Calgary, AB T2G 1P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff705b08d5ff43b79e65d6b96e17bf5e|BN20130533|7.7.0.0|",
+				"addressLine": "2501 Alyth Rd SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2501 Alyth Rd SE, Calgary, AB T2G 1P7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2G 1P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.02395,
+					51.03108
+				]
+			},
+			"bbox": [
+				-114.0257375,
+				51.0299558,
+				-114.0221625,
+				51.0322042
+			]
+		}
+	]
+}

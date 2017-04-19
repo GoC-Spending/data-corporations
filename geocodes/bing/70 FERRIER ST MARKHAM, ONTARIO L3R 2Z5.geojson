@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Ferrier St, Markham, ON L3R 2Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1a34567eca1f4e4a9b38fcd34a46b522|BN20280152|7.7.0.0|",
+				"addressLine": "70 Ferrier St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Ferrier St, Markham, ON L3R 2Z5, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 2Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3298,
+					43.82527
+				]
+			},
+			"bbox": [
+				-79.3313582,
+				43.8241458,
+				-79.3282418,
+				43.8263942
+			]
+		}
+	]
+}

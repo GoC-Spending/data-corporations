@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "370 Main St E, Hamilton, ON L8N 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "284c916beef54eb496a64a5d1902cc51|BN20130719|7.7.0.0|",
+				"addressLine": "370 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "370 Main St E, Hamilton, ON L8N 1J6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stinson",
+				"postalCode": "L8N 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.85521,
+					43.25137
+				]
+			},
+			"bbox": [
+				-79.8567534,
+				43.2502458,
+				-79.8536666,
+				43.2524942
+			]
+		}
+	]
+}

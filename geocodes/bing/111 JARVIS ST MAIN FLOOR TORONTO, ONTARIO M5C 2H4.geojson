@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Jarvis St, Toronto, ON M5C 2H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e851bff5cc5045b59fe21bbea0b21a8a|BN20260223|7.7.0.0|",
+				"addressLine": "111 Jarvis St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Jarvis St, Toronto, ON M5C 2H4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5C 2H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3725696,
+					43.6525688
+				]
+			},
+			"bbox": [
+				-79.3741233,
+				43.6514446,
+				-79.3710159,
+				43.6536929
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "203 Riverside Dr, Toronto, ON M6S 4A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d7abaca3ad64b26aa95fd19493fb85f|BN20320521|7.7.0.0|",
+				"addressLine": "203 Riverside Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "203 Riverside Dr, Toronto, ON M6S 4A8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6S 4A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47986,
+					43.64077
+				]
+			},
+			"bbox": [
+				-79.4814134,
+				43.6396458,
+				-79.4783066,
+				43.6418942
+			]
+		}
+	]
+}

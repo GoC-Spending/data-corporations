@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Morris Dr, Saskatoon, SK S7L 3T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f9452a55e1a740f5a14445d7342dd804|BN20130634|7.7.0.0|",
+				"addressLine": "12 Morris Dr",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Morris Dr, Saskatoon, SK S7L 3T9, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Massey Place",
+				"postalCode": "S7L 3T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.7126399,
+					52.14325
+				]
+			},
+			"bbox": [
+				-106.7144717,
+				52.1421258,
+				-106.7108081,
+				52.1443742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4007 17 St SW, Calgary, AB T2T 4P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4af28a0436f4a23b5f6fd5c4d6dd852|BN20130522|7.7.0.0|",
+				"addressLine": "4007 17 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4007 17 St SW, Calgary, AB T2T 4P5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Altadore",
+				"postalCode": "T2T 4P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.10358,
+					51.01883
+				]
+			},
+			"bbox": [
+				-114.105367,
+				51.0177058,
+				-114.101793,
+				51.0199542
+			]
+		}
+	]
+}

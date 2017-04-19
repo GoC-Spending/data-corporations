@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1495 E 21st Ave, Vancouver, BC V5N 2N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3604e9641f94a5889a308f0ea554bf4|BN20260231|7.7.0.0|",
+				"addressLine": "1495 E 21st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1495 E 21st Ave, Vancouver, BC V5N 2N3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5N 2N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07333,
+					49.2519
+				]
+			},
+			"bbox": [
+				-123.0750522,
+				49.2507758,
+				-123.0716078,
+				49.2530242
+			]
+		}
+	]
+}

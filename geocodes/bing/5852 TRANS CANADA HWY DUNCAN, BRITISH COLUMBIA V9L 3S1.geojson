@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5852 Trans Canada Hwy, Duncan, BC V9L 3S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58800e00c4c9437c9b2ee998f047b938|BN20121763|7.7.0.0|",
+				"addressLine": "5852 Trans Canada Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "5852 Trans Canada Hwy, Duncan, BC V9L 3S1, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 3S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.7023906,
+					48.7843701
+				]
+			},
+			"bbox": [
+				-123.7040967,
+				48.783246,
+				-123.7006845,
+				48.7854943
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "895 St Laurent Blvd, Ottawa, ON K1K 3B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00544374cd27422f91e3115761a08598|BN20130422|7.7.0.0|",
+				"addressLine": "895 St Laurent Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "895 St Laurent Blvd, Ottawa, ON K1K 3B1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Cummings",
+				"postalCode": "K1K 3B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6416927,
+					45.4324749
+				]
+			},
+			"bbox": [
+				-75.6432947,
+				45.4313507,
+				-75.6400908,
+				45.433599
+			]
+		}
+	]
+}

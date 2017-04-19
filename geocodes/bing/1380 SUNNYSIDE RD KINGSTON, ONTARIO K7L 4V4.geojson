@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1380 Sunnyside Rd, Kingston, ON K0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c577c75681164d2caa51684180b834e6|BN20130532|7.7.0.0|",
+				"addressLine": "1380 Sunnyside Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "1380 Sunnyside Rd, Kingston, ON K0H, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Silvers Corners",
+				"postalCode": "K0H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.52964,
+					44.28023
+				]
+			},
+			"bbox": [
+				-76.5312102,
+				44.2791058,
+				-76.5280698,
+				44.2813542
+			]
+		}
+	]
+}

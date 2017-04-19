@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "187 King St E, Toronto, ON M5A 1J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c3a3703201f4c629c4a51ec4e373e55|BN20130522|7.7.0.0|",
+				"addressLine": "187 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "187 King St E, Toronto, ON M5A 1J5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 1J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3704,
+					43.6506
+				]
+			},
+			"bbox": [
+				-79.3719536,
+				43.6494758,
+				-79.3688464,
+				43.6517242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7661 Mays Rd, Duncan, BC V9L 6A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94ee61cfeced45dc8f5104a0c051deda|BN20220145|7.7.0.0|",
+				"addressLine": "7661 Mays Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "7661 Mays Rd, Duncan, BC V9L 6A8, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.70913,
+					48.8371
+				]
+			},
+			"bbox": [
+				-123.7108379,
+				48.8359758,
+				-123.7074221,
+				48.8382242
+			]
+		}
+	]
+}

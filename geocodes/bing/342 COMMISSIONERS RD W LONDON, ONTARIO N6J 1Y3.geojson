@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "342 Commissioners Rd W, London, ON N6J 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "72167d330d8e4b52aa5889bb281465e1|BN20130721|7.7.0.0|",
+				"addressLine": "342 Commissioners Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "342 Commissioners Rd W, London, ON N6J 1Y3, Canada",
+				"locality": "London",
+				"neighborhood": "Westmount",
+				"postalCode": "N6J 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2792,
+					42.9554
+				]
+			},
+			"bbox": [
+				-81.280736,
+				42.9542758,
+				-81.277664,
+				42.9565242
+			]
+		}
+	]
+}

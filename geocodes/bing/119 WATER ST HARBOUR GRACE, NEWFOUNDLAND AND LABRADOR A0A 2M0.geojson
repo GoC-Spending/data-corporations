@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "119 Water St, Harbour Grace, NL A0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c1d4738767c473db1ed9ccacd86b63e|BN20130522|7.7.0.0|",
+				"addressLine": "119 Water St",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "119 Water St, Harbour Grace, NL A0A, Canada",
+				"locality": "Harbour Grace",
+				"postalCode": "A0A 2M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-53.2203475,
+					47.6905514
+				]
+			},
+			"bbox": [
+				-53.2220175,
+				47.6894273,
+				-53.2186775,
+				47.6916756
+			]
+		}
+	]
+}

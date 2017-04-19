@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3912 74 Ave NW, Edmonton, AB T6B 2P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18465adafb8246749f3b147e148448f3|BN20130423|7.7.0.0|",
+				"addressLine": "3912 74 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3912 74 Ave NW, Edmonton, AB T6B 2P7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Weir Industrial",
+				"postalCode": "T6B 2P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.40161,
+					53.51071
+				]
+			},
+			"bbox": [
+				-113.4035004,
+				53.5095858,
+				-113.3997196,
+				53.5118342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2605 Place des Tourterelles, Laval, QC H7L 3T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f27d0ae194164755aa38ca1ac39760de|BN20131519|7.7.0.0|",
+				"addressLine": "2605 Place des Tourterelles",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2605 Place des Tourterelles, Laval, QC H7L 3T8, Canada",
+				"locality": "Laval",
+				"neighborhood": "Champ-Fleuri",
+				"postalCode": "H7L 3T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.78042,
+					45.59062
+				]
+			},
+			"bbox": [
+				-73.7820264,
+				45.5894958,
+				-73.7788136,
+				45.5917442
+			]
+		}
+	]
+}

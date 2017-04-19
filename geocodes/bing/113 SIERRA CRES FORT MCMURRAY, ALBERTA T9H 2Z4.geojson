@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "113 Sierra Cres, Fort McMurray, AB T9H 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a48eaeeae234101b424aab496a189aa|BN20130530|7.7.0.0|",
+				"addressLine": "113 Sierra Cres",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "113 Sierra Cres, Fort McMurray, AB T9H 2Z4, Canada",
+				"locality": "Wood Buffalo",
+				"neighborhood": "Fort McMurray",
+				"postalCode": "T9H 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.4171,
+					56.73028
+				]
+			},
+			"bbox": [
+				-111.4191492,
+				56.7291558,
+				-111.4150508,
+				56.7314042
+			]
+		}
+	]
+}

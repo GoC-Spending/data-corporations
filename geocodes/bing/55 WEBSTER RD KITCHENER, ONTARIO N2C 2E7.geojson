@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Webster Rd, Kitchener, ON N2C 2E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "989b784704bc4a65a575b15158824fa7|BN20130721|7.7.0.0|",
+				"addressLine": "55 Webster Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Webster Rd, Kitchener, ON N2C 2E7, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Trillium Industrial Park",
+				"postalCode": "N2C 2E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.44412,
+					43.41622
+				]
+			},
+			"bbox": [
+				-80.4456676,
+				43.4150958,
+				-80.4425724,
+				43.4173442
+			]
+		}
+	]
+}

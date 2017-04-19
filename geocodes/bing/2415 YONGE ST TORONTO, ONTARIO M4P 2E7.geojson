@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2415 Yonge St, Toronto, ON M4P 2E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f549ce2f3c146c6b17622a3c1d8a00b|BN20130625|7.7.0.0|",
+				"addressLine": "2415 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2415 Yonge St, Toronto, ON M4P 2E7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant West",
+				"postalCode": "M4P 2E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39884,
+					43.71051
+				]
+			},
+			"bbox": [
+				-79.4003952,
+				43.7093858,
+				-79.3972848,
+				43.7116342
+			]
+		}
+	]
+}

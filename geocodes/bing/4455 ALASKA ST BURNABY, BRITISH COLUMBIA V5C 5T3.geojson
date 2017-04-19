@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4455 Alaska St, Burnaby, BC V5C 5T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90f2a487c3fa4745bc48f92518163251|BN20130422|7.7.0.0|",
+				"addressLine": "4455 Alaska St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4455 Alaska St, Burnaby, BC V5C 5T3, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 5T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.00402,
+					49.26276
+				]
+			},
+			"bbox": [
+				-123.0057426,
+				49.2616358,
+				-123.0022974,
+				49.2638842
+			]
+		}
+	]
+}

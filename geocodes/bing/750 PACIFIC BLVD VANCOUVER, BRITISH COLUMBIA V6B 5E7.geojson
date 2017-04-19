@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "750 Pacific Blvd, Vancouver, BC V6B 5E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f64c1a1ad0a34a338dfaeedb7dd04e1c|BN20181720|7.7.0.0|",
+				"addressLine": "750 Pacific Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "750 Pacific Blvd, Vancouver, BC V6B 5E7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 5E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.109491,
+					49.2763908
+				]
+			},
+			"bbox": [
+				-123.1112141,
+				49.2752666,
+				-123.107768,
+				49.2775149
+			]
+		}
+	]
+}

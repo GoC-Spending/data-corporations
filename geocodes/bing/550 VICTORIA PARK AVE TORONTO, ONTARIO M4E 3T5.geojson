@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 Victoria Park Ave, Toronto, ON M4E 3T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "831ca2e992ce42399c3cc2f899494c2e|BN20130533|7.7.0.0|",
+				"addressLine": "550 Victoria Park Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 Victoria Park Ave, Toronto, ON M4E 3T5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "East End-Danforth",
+				"postalCode": "M4E 3T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28625,
+					43.68556
+				]
+			},
+			"bbox": [
+				-79.2878045,
+				43.6844358,
+				-79.2846955,
+				43.6866842
+			]
+		}
+	]
+}

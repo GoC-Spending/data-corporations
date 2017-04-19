@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Farquhar St, Guelph, ON N1H 3N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d4d73d53ece4ea9ac0ea2fb5b8f53b5|BN20250135|7.7.0.0|",
+				"addressLine": "111 Farquhar St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Farquhar St, Guelph, ON N1H 3N4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 3N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.24521,
+					43.5451
+				]
+			},
+			"bbox": [
+				-80.2467609,
+				43.5439758,
+				-80.2436591,
+				43.5462242
+			]
+		}
+	]
+}

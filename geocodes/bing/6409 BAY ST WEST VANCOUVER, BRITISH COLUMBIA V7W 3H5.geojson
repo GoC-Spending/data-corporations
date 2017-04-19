@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6409 Bay St, West Vancouver, BC V7W 3H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "672ef8670c784bcdadf2a209f575b9fe|BN20190653|7.7.0.0|",
+				"addressLine": "6409 Bay St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6409 Bay St, West Vancouver, BC V7W 3H5, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Horseshoe Bay",
+				"postalCode": "V7W 3H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.2743806,
+					49.3747121
+				]
+			},
+			"bbox": [
+				-123.2761071,
+				49.373588,
+				-123.2726541,
+				49.3758363
+			]
+		}
+	]
+}

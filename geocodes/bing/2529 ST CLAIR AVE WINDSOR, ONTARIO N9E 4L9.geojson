@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2529 St Clair Ave, Windsor, ON N9E 4L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "258c03bdd8544194bc3c52e25ed77ae2|BN20160335|7.7.0.0|",
+				"addressLine": "2529 St Clair Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2529 St Clair Ave, Windsor, ON N9E 4L9, Canada",
+				"locality": "Windsor",
+				"neighborhood": "South Windsor",
+				"postalCode": "N9E 4L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.04298,
+					42.27071
+				]
+			},
+			"bbox": [
+				-83.0444992,
+				42.2695858,
+				-83.0414608,
+				42.2718342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Steelcase Rd E, Markham, ON L3R 1G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f588c094ac24e33847485083c7dc27e|BN20260223|7.7.0.0|",
+				"addressLine": "165 Steelcase Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Steelcase Rd E, Markham, ON L3R 1G1, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34514,
+					43.82067
+				]
+			},
+			"bbox": [
+				-79.3466981,
+				43.8195458,
+				-79.3435819,
+				43.8217942
+			]
+		}
+	]
+}

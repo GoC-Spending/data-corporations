@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "499 Main St S, Brampton, ON L6Y 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1593e3e0377346d392887bd3fb3cf6f4|BN20130422|7.7.0.0|",
+				"addressLine": "499 Main St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "499 Main St S, Brampton, ON L6Y 1N7, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Peel Village",
+				"postalCode": "L6Y 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7356903,
+					43.667492
+				]
+			},
+			"bbox": [
+				-79.7372444,
+				43.6663679,
+				-79.7341363,
+				43.6686162
+			]
+		}
+	]
+}

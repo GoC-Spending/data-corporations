@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2774 Alma St, Vancouver, BC V6R 3S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "853a4247fb544a35ac5808c49d6bea63|BN20200239|7.7.0.0|",
+				"addressLine": "2774 Alma St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2774 Alma St, Vancouver, BC V6R 3S4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6R 3S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.185762,
+					49.2618282
+				]
+			},
+			"bbox": [
+				-123.1874846,
+				49.260704,
+				-123.1840395,
+				49.2629524
+			]
+		}
+	]
+}

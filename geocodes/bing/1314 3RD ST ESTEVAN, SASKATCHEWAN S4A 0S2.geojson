@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1314 3rd St, Estevan, SK S4A 0S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b1b9e71a9d1422eaf5c00ddcbdb9671|BN20160335|7.7.0.0|",
+				"addressLine": "1314 3rd St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1314 3rd St, Estevan, SK S4A 0S2, Canada",
+				"locality": "Estevan",
+				"postalCode": "S4A 0S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.9982064,
+					49.1403958
+				]
+			},
+			"bbox": [
+				-102.9999247,
+				49.1392716,
+				-102.996488,
+				49.1415199
+			]
+		}
+	]
+}

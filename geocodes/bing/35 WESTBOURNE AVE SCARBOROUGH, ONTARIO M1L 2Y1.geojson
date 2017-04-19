@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Westbourne Ave, Scarborough, ON M1L 2Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03dab7ee81e74fbdbdfe9666550fd87f|BN20121763|7.7.0.0|",
+				"addressLine": "35 Westbourne Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Westbourne Ave, Scarborough, ON M1L 2Y1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1L 2Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2894,
+					43.70183
+				]
+			},
+			"bbox": [
+				-79.290955,
+				43.7007058,
+				-79.287845,
+				43.7029542
+			]
+		}
+	]
+}

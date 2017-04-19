@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "882 Gilead Rd, Bloomfield, ON K0K 1G0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f8891336f95468db28d2de1bb3ea2cc|BN20130719|7.7.0.0|",
+				"addressLine": "882 Gilead Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "882 Gilead Rd, Bloomfield, ON K0K 1G0, Canada",
+				"locality": "Prince Edward",
+				"neighborhood": "Bloomfield",
+				"postalCode": "K0K 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.31001,
+					43.9798474
+				]
+			},
+			"bbox": [
+				-77.3115722,
+				43.9787232,
+				-77.3084478,
+				43.9809715
+			]
+		}
+	]
+}

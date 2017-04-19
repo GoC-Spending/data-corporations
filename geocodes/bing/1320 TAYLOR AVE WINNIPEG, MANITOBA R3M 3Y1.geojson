@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1320 Taylor Ave, Winnipeg, MB R3M 3Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "056d66252cb649a199a9d1238a3db011|BN20200239|7.7.0.0|",
+				"addressLine": "1320 Taylor Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1320 Taylor Ave, Winnipeg, MB R3M 3Y1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Grant Park",
+				"postalCode": "R3M 3Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17416,
+					49.85134
+				]
+			},
+			"bbox": [
+				-97.1759035,
+				49.8502158,
+				-97.1724165,
+				49.8524642
+			]
+		}
+	]
+}

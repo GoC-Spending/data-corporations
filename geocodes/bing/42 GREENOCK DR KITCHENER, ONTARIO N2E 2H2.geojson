@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Greenock Dr, Kitchener, ON N2E 2H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc0c6767bce442828a0a4163b7eef581|BN20130621|7.7.0.0|",
+				"addressLine": "42 Greenock Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Greenock Dr, Kitchener, ON N2E 2H2, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Laurentian Hills",
+				"postalCode": "N2E 2H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4933,
+					43.41505
+				]
+			},
+			"bbox": [
+				-80.4948476,
+				43.4139258,
+				-80.4917524,
+				43.4161742
+			]
+		}
+	]
+}

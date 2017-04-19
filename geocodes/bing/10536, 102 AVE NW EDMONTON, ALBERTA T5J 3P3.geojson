@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10536 102 Ave NW, Edmonton, AB T5J 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "294b0a92d6544f1dad6ccb842cf10082|BN20260223|7.7.0.0|",
+				"addressLine": "10536 102 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10536 102 Ave NW, Edmonton, AB T5J 3P3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.50245,
+					53.54332
+				]
+			},
+			"bbox": [
+				-113.5043418,
+				53.5421958,
+				-113.5005582,
+				53.5444442
+			]
+		}
+	]
+}

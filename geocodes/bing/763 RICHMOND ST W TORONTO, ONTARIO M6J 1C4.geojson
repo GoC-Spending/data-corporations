@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "763 Richmond St W, Toronto, ON M6J 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32f0784fb1bc45d8b334be02974b5ce1|BN20240253|7.7.0.0|",
+				"addressLine": "763 Richmond St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "763 Richmond St W, Toronto, ON M6J 1C4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Niagara",
+				"postalCode": "M6J 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40897,
+					43.64521
+				]
+			},
+			"bbox": [
+				-79.4105235,
+				43.6440858,
+				-79.4074165,
+				43.6463342
+			]
+		}
+	]
+}

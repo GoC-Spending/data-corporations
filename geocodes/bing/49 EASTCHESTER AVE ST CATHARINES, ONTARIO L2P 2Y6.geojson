@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 Eastchester Ave, St Catharines, ON L2P 2Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54c4ebd56f0442b5a7753eff6e83f4db|BN20160335|7.7.0.0|",
+				"addressLine": "49 Eastchester Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 Eastchester Ave, St Catharines, ON L2P 2Y6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Queenston",
+				"postalCode": "L2P 2Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22362,
+					43.16238
+				]
+			},
+			"bbox": [
+				-79.2251612,
+				43.1612558,
+				-79.2220788,
+				43.1635042
+			]
+		}
+	]
+}

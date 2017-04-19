@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "245 Robie St, Truro, NS B2N 5N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fdbba137c4a4350acaebed17bbc9618|BN20130447|7.7.0.0|",
+				"addressLine": "245 Robie St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "245 Robie St, Truro, NS B2N 5N6, Canada",
+				"locality": "Truro",
+				"postalCode": "B2N 5N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.30256,
+					45.3710499
+				]
+			},
+			"bbox": [
+				-63.3041602,
+				45.3699257,
+				-63.3009598,
+				45.3721741
+			]
+		}
+	]
+}

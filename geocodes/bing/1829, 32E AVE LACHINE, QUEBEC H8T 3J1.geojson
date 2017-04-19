@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1829 32e Avenue, Lachine, QC H8T 3J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f93c0a1de4e44766b7e77f1035619efe|BN20130620|7.7.0.0|",
+				"addressLine": "1829 32e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1829 32e Avenue, Lachine, QC H8T 3J1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7066251,
+					45.4611476
+				]
+			},
+			"bbox": [
+				-73.7082278,
+				45.4600235,
+				-73.7050223,
+				45.4622718
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 McGriskin Rd, Scarborough, ON M1S 5C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4be4ef359a6481abde0039d2e3bfe92|BN20130442|7.7.0.0|",
+				"addressLine": "70 McGriskin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 McGriskin Rd, Scarborough, ON M1S 5C5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 5C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24635,
+					43.7948499
+				]
+			},
+			"bbox": [
+				-79.2479074,
+				43.7937257,
+				-79.2447926,
+				43.7959741
+			]
+		}
+	]
+}

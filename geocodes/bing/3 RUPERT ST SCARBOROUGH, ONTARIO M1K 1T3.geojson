@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Rupert St, Scarborough, ON M1K 1T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ce78a61e12048b5b4ad4d920421b81b|BN20190642|7.7.0.0|",
+				"addressLine": "3 Rupert St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Rupert St, Scarborough, ON M1K 1T3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1K 1T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26521,
+					43.70619
+				]
+			},
+			"bbox": [
+				-79.2667651,
+				43.7050658,
+				-79.2636549,
+				43.7073142
+			]
+		}
+	]
+}

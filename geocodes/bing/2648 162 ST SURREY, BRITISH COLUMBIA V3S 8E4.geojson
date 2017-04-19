@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2648 162 St, Surrey, BC V3Z 8E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e11fd4b444b74114b28e7df08b216fa6|BN20130532|7.7.0.0|",
+				"addressLine": "2648 162 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2648 162 St, Surrey, BC V3Z 8E4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V3Z 8E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.77173,
+					49.05016
+				]
+			},
+			"bbox": [
+				-122.7734452,
+				49.0490358,
+				-122.7700148,
+				49.0512842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "73 Healey Rd, Bolton, ON L7E 5A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c851b3f6211849e9aabcd121533b8b15|BN20200239|7.7.0.0|",
+				"addressLine": "73 Healey Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "73 Healey Rd, Bolton, ON L7E 5A8, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 5A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71964,
+					43.86381
+				]
+			},
+			"bbox": [
+				-79.7211992,
+				43.8626858,
+				-79.7180808,
+				43.8649342
+			]
+		}
+	]
+}

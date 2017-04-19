@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Queen St, Selwyn, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c4a39ad23db4b399fb7c6c3f1ebe40c|BN20200137|7.7.0.0|",
+				"addressLine": "12 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Queen St, Selwyn, ON K0L, Canada",
+				"locality": "Selwyn",
+				"neighborhood": "Lakefield",
+				"postalCode": "K0L 2H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.27257,
+					44.4229399
+				]
+			},
+			"bbox": [
+				-78.274144,
+				44.4218157,
+				-78.270996,
+				44.4240641
+			]
+		}
+	]
+}

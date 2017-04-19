@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Kitto Ct, Brampton, ON L6Y 5B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7d4d450232a4994a6168b8fc8014a90|BN20300154|7.7.0.0|",
+				"addressLine": "42 Kitto Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Kitto Ct, Brampton, ON L6Y 5B1, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6Y 5B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7736199,
+					43.66476
+				]
+			},
+			"bbox": [
+				-79.7751739,
+				43.6636358,
+				-79.7720659,
+				43.6658842
+			]
+		}
+	]
+}

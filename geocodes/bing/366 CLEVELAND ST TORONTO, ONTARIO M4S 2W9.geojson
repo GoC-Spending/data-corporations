@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "366 Cleveland St, Toronto, ON M4S 2W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c6a0084475740279804be139b2ace8c|BN20130532|7.7.0.0|",
+				"addressLine": "366 Cleveland St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "366 Cleveland St, Toronto, ON M4S 2W9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 2W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38081,
+					43.70931
+				]
+			},
+			"bbox": [
+				-79.3823652,
+				43.7081858,
+				-79.3792548,
+				43.7104342
+			]
+		}
+	]
+}

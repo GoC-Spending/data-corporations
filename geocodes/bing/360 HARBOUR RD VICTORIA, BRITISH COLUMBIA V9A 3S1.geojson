@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "360 Harbour Rd, Victoria, BC V9A 3S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bb4c10a07c741df9cb97617b767438c|BN20130422|7.7.0.0|",
+				"addressLine": "360 Harbour Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "360 Harbour Rd, Victoria, BC V9A 3S1, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3777544,
+					48.4317709
+				]
+			},
+			"bbox": [
+				-123.3794486,
+				48.4306467,
+				-123.3760601,
+				48.4328951
+			]
+		}
+	]
+}

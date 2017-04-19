@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5287 Westminster Ave, Delta, BC V4K 2J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f2cd992018d432a8c1b5e2ae5aadacf|BN20130632|7.7.0.0|",
+				"addressLine": "5287 Westminster Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5287 Westminster Ave, Delta, BC V4K 2J4, Canada",
+				"locality": "Delta",
+				"neighborhood": "Ladner",
+				"postalCode": "V4K 2J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07584,
+					49.09941
+				]
+			},
+			"bbox": [
+				-123.0775569,
+				49.0982858,
+				-123.0741231,
+				49.1005342
+			]
+		}
+	]
+}

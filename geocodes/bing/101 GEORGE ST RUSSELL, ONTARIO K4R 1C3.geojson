@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 George St, Russell, ON K4R 1C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb7e31d0ff484f73a16214ac323fec7d|BN20200239|7.7.0.0|",
+				"addressLine": "101 George St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 George St, Russell, ON K4R 1C3, Canada",
+				"locality": "Russell",
+				"postalCode": "K4R 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.3470547,
+					45.2633618
+				]
+			},
+			"bbox": [
+				-75.3486519,
+				45.2622376,
+				-75.3454576,
+				45.2644859
+			]
+		}
+	]
+}

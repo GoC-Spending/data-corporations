@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Steele Rd, South Frontenac, ON K0H 2V0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "36b24e579df74b8aa46c222410bb8a91|BN20121762|7.7.0.0|",
+				"addressLine": "200 Steele Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Steele Rd, South Frontenac, ON K0H 2V0, Canada",
+				"locality": "South Frontenac",
+				"postalCode": "K0H 2V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.6417214,
+					44.6652547
+				]
+			},
+			"bbox": [
+				-76.6433019,
+				44.6641305,
+				-76.6401408,
+				44.6663788
+			]
+		}
+	]
+}

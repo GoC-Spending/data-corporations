@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "46 N Queen St, Etobicoke, ON M8Z 2C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca701129462c4f4ba3cc94f57bd30ffc|BN20130447|7.7.0.0|",
+				"addressLine": "46 N Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "46 N Queen St, Etobicoke, ON M8Z 2C4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5382599,
+					43.62339
+				]
+			},
+			"bbox": [
+				-79.5398128,
+				43.6222658,
+				-79.536707,
+				43.6245142
+			]
+		}
+	]
+}

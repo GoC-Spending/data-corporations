@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Marble Bridge Dr, Richmond Hill, ON L4E 4K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e21470ebba7e416a90f2b351fc11bf1b|BN20190642|7.7.0.0|",
+				"addressLine": "29 Marble Bridge Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Marble Bridge Dr, Richmond Hill, ON L4E 4K5, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Jefferson",
+				"postalCode": "L4E 4K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4345699,
+					43.9150599
+				]
+			},
+			"bbox": [
+				-79.4361304,
+				43.9139357,
+				-79.4330094,
+				43.9161841
+			]
+		}
+	]
+}

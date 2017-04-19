@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "103 Crockford Blvd, Scarborough, ON M1R 3B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "310cb0560b684440a50d7ae1dec2e5ec|BN20130423|7.7.0.0|",
+				"addressLine": "103 Crockford Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "103 Crockford Blvd, Scarborough, ON M1R 3B7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 3B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28958,
+					43.74345
+				]
+			},
+			"bbox": [
+				-79.291136,
+				43.7423258,
+				-79.288024,
+				43.7445742
+			]
+		}
+	]
+}

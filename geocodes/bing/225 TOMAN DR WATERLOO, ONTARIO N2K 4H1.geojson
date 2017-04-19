@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Toman Dr, Waterloo, ON N2K 4H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bec4267c96ec4fa197f1b969a31864d8|BN20190642|7.7.0.0|",
+				"addressLine": "225 Toman Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Toman Dr, Waterloo, ON N2K 4H1, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2K 4H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.51882,
+					43.51337
+				]
+			},
+			"bbox": [
+				-80.5203701,
+				43.5122458,
+				-80.5172699,
+				43.5144942
+			]
+		}
+	]
+}

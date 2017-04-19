@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2927 25 St NW, Edmonton, AB T6T 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a52663b61b6c45b6a47b5527683ba748|BN20200137|7.7.0.0|",
+				"addressLine": "2927 25 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2927 25 St NW, Edmonton, AB T6T 1Z9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Silver Berry",
+				"postalCode": "T6T 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.3787,
+					53.46027
+				]
+			},
+			"bbox": [
+				-113.3805881,
+				53.4591458,
+				-113.3768119,
+				53.4613942
+			]
+		}
+	]
+}

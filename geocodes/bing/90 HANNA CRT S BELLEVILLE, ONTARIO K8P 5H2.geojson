@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Hanna Ct S, Belleville, ON K8P 5H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ee509a7ba9e4022b471f25ab5d323d1|BN20131519|7.7.0.0|",
+				"addressLine": "90 Hanna Ct S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Hanna Ct S, Belleville, ON K8P 5H2, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8P 5H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.4162,
+					44.18146
+				]
+			},
+			"bbox": [
+				-77.4177676,
+				44.1803358,
+				-77.4146324,
+				44.1825842
+			]
+		}
+	]
+}

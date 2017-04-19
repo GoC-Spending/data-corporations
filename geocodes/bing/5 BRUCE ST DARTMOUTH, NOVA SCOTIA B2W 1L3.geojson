@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Bruce St, Dartmouth, NS B2W 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7f0c6ab4d10486f98d5e2d0169d27b7|BN20121762|7.7.0.0|",
+				"addressLine": "5 Bruce St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Bruce St, Dartmouth, NS B2W 1L3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2W 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5313,
+					44.67219
+				]
+			},
+			"bbox": [
+				-63.5328808,
+				44.6710658,
+				-63.5297192,
+				44.6733142
+			]
+		}
+	]
+}

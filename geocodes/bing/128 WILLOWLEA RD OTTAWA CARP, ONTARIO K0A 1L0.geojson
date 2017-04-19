@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "128 Willowlea Rd, Carp, ON K0A 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e036518ec3c4025b625bea6849c7538|BN20130621|7.7.0.0|",
+				"addressLine": "128 Willowlea Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "128 Willowlea Rd, Carp, ON K0A 1L0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carp",
+				"postalCode": "K0A 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9667431,
+					45.2718919
+				]
+			},
+			"bbox": [
+				-75.9683405,
+				45.2707677,
+				-75.9651457,
+				45.273016
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2795 Bathurst St, North York, ON M6B 3A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e866347347842c0b3c59c65aec49101|BN20320521|7.7.0.0|",
+				"addressLine": "2795 Bathurst St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2795 Bathurst St, North York, ON M6B 3A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bedford Park-Nortown",
+				"postalCode": "M6B 3A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42792,
+					43.71275
+				]
+			},
+			"bbox": [
+				-79.4294752,
+				43.7116258,
+				-79.4263648,
+				43.7138742
+			]
+		}
+	]
+}

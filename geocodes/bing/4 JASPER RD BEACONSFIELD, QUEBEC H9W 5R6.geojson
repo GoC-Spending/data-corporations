@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Jasper Rd, Beaconsfield, QC H9W 5R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae6289fd56da41a58fc229a9d2bc408a|BN20130520|7.7.0.0|",
+				"addressLine": "4 Jasper Rd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Jasper Rd, Beaconsfield, QC H9W 5R6, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 5R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8323398,
+					45.4287806
+				]
+			},
+			"bbox": [
+				-73.8339417,
+				45.4276564,
+				-73.830738,
+				45.4299047
+			]
+		}
+	]
+}

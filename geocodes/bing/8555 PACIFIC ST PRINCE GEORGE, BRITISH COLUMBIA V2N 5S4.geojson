@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8555 Pacific St, Prince George, BC V2N 5S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dca79180bd80477e9520dd2299192a2b|BN20260223|7.7.0.0|",
+				"addressLine": "8555 Pacific St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "8555 Pacific St, Prince George, BC V2N 5S4, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2N 5S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7296525,
+					53.8422764
+				]
+			},
+			"bbox": [
+				-122.7315578,
+				53.8411522,
+				-122.7277472,
+				53.8434005
+			]
+		}
+	]
+}

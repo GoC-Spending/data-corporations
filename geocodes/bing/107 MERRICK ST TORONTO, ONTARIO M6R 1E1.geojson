@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Merrick St, Toronto, ON M6R 1E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7b78c0b47a74fd99ea014f1a3302c95|BN20130522|7.7.0.0|",
+				"addressLine": "107 Merrick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Merrick St, Toronto, ON M6R 1E1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6R 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45283,
+					43.64018
+				]
+			},
+			"bbox": [
+				-79.4543834,
+				43.6390558,
+				-79.4512766,
+				43.6413042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11672 Trafalgar Rd, Georgetown, ON L7G 4S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abd445cf24fc4ea69cd7b33f231b1c72|BN20130530|7.7.0.0|",
+				"addressLine": "11672 Trafalgar Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "11672 Trafalgar Rd, Georgetown, ON L7G 4S4, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9390329,
+					43.6411496
+				]
+			},
+			"bbox": [
+				-79.9405862,
+				43.6400255,
+				-79.9374795,
+				43.6422738
+			]
+		}
+	]
+}

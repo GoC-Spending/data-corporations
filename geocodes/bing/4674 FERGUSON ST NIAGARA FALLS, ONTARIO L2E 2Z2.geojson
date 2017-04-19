@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4674 Ferguson St, Niagara Falls, ON L2E 2Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31d7bfc7175f4455b7d49b63512c3b67|BN20130625|7.7.0.0|",
+				"addressLine": "4674 Ferguson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "4674 Ferguson St, Niagara Falls, ON L2E 2Z2, Canada",
+				"locality": "Niagara Falls",
+				"postalCode": "L2E 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.07071,
+					43.11291
+				]
+			},
+			"bbox": [
+				-79.0722499,
+				43.1117858,
+				-79.0691701,
+				43.1140342
+			]
+		}
+	]
+}

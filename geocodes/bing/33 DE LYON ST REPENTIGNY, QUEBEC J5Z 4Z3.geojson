@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Rue de Lyon, Repentigny, QC J5Z 4Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c657a92a76cb4cd5a06277bfde9d5e77|BN20320521|7.7.0.0|",
+				"addressLine": "33 Rue de Lyon",
+				"adminDistrict": "QC",
+				"adminDistrict2": "L'Assomption",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Rue de Lyon, Repentigny, QC J5Z 4Z3, Canada",
+				"locality": "Repentigny",
+				"neighborhood": "Le Gardeur",
+				"postalCode": "J5Z 4Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.4878347,
+					45.7350825
+				]
+			},
+			"bbox": [
+				-73.4894453,
+				45.7339583,
+				-73.4862241,
+				45.7362066
+			]
+		}
+	]
+}

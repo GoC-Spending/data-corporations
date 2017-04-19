@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1055 Alston St, Victoria, BC V9A 3S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0acd80f01d4b43aa9231ee2840ce4be0|BN20290118|7.7.0.0|",
+				"addressLine": "1055 Alston St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1055 Alston St, Victoria, BC V9A 3S6, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38295,
+					48.43598
+				]
+			},
+			"bbox": [
+				-123.3846444,
+				48.4348558,
+				-123.3812556,
+				48.4371042
+			]
+		}
+	]
+}

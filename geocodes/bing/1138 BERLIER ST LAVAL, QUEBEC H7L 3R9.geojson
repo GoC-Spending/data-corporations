@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1138 Rue Berlier, Laval, QC H7L 3R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0bad110991c467e86b14a9c9acf67fd|BN20130447|7.7.0.0|",
+				"addressLine": "1138 Rue Berlier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1138 Rue Berlier, Laval, QC H7L 3R9, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 3R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74149,
+					45.58605
+				]
+			},
+			"bbox": [
+				-73.7430963,
+				45.5849258,
+				-73.7398837,
+				45.5871742
+			]
+		}
+	]
+}

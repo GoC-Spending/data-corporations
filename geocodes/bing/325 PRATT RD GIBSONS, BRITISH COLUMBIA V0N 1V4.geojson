@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "325 Pratt Rd, Gibsons, BC V0N 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97676a8fcdbd448cb8d3099126c170c1|BN20130442|7.7.0.0|",
+				"addressLine": "325 Pratt Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "325 Pratt Rd, Gibsons, BC V0N 1V4, Canada",
+				"locality": "Sunshine Coast",
+				"neighborhood": "Gibsons",
+				"postalCode": "V0N 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.529728,
+					49.3949353
+				]
+			},
+			"bbox": [
+				-123.5314552,
+				49.3938111,
+				-123.5280007,
+				49.3960594
+			]
+		}
+	]
+}

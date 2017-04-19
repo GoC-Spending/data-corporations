@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "533 Queen St E, Toronto, ON M5A 1V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "417eb77edff7430c9ec6bd83ade9a612|BN20220145|7.7.0.0|",
+				"addressLine": "533 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "533 Queen St E, Toronto, ON M5A 1V1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 1V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35701,
+					43.65712
+				]
+			},
+			"bbox": [
+				-79.3585638,
+				43.6559958,
+				-79.3554562,
+				43.6582442
+			]
+		}
+	]
+}

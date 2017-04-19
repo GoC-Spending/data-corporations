@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "186 Bedford Rd, Toronto, ON M5R 2K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "966767ee52634f259be50feca3a0159a|BN20130532|7.7.0.0|",
+				"addressLine": "186 Bedford Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "186 Bedford Rd, Toronto, ON M5R 2K9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40033,
+					43.67551
+				]
+			},
+			"bbox": [
+				-79.4018843,
+				43.6743858,
+				-79.3987757,
+				43.6766342
+			]
+		}
+	]
+}

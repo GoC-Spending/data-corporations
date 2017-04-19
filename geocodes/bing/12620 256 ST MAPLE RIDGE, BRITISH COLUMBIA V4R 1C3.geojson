@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12620 256 St, Maple Ridge, BC V4R 1C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a4b46021fc049a8a2ede9e2ab1c0ad9|BN20130625|7.7.0.0|",
+				"addressLine": "12620 256 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12620 256 St, Maple Ridge, BC V4R 1C3, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V4R 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.5119596,
+					49.2317284
+				]
+			},
+			"bbox": [
+				-122.5136811,
+				49.2306043,
+				-122.5102381,
+				49.2328526
+			]
+		}
+	]
+}

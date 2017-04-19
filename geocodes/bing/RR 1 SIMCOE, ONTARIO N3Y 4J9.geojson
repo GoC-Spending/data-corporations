@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 2,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Simcoe, N3Y, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1d6669fc2ef4bd08acac503275ae126|BN20130721|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "Simcoe, N3Y, Canada",
+				"locality": "Simcoe",
+				"postalCode": "N3Y"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3284225463867,
+					42.8290901184082
+				]
+			},
+			"bbox": [
+				-80.4306182861328,
+				42.7751312255859,
+				-80.2113265991211,
+				42.8830490112305
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Norfolk, N3Y 4J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1d6669fc2ef4bd08acac503275ae126|BN20130721|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "Norfolk, N3Y 4J9, Canada",
+				"locality": "Norfolk",
+				"postalCode": "N3Y 4J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3791427612305,
+					42.8333282470703
+				]
+			},
+			"bbox": [
+				-80.3861654338411,
+				42.8294655294996,
+				-80.3721200886198,
+				42.837190964641
+			]
+		}
+	]
+}

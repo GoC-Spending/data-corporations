@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "602 Acheson Rd, Parkland County, AB T7X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "178f1caacedb46b8b14366526fbe0bcf|BN20220145|7.7.0.0|",
+				"addressLine": "602 Acheson Rd",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "602 Acheson Rd, Parkland County, AB T7X, Canada",
+				"locality": "Parkland County",
+				"neighborhood": "Acheson",
+				"postalCode": "T7X 5A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.7873349,
+					53.5461672
+				]
+			},
+			"bbox": [
+				-113.7892268,
+				53.545043,
+				-113.7854429,
+				53.5472913
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "86 Main St E, Huntsville, ON P1H 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4c919e7016be42188d0019e47508542e|BN20300154|7.7.0.0|",
+				"addressLine": "86 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "86 Main St E, Huntsville, ON P1H 2C7, Canada",
+				"locality": "Huntsville",
+				"postalCode": "P1H 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.21636,
+					45.32726
+				]
+			},
+			"bbox": [
+				-79.2179589,
+				45.3261358,
+				-79.2147611,
+				45.3283842
+			]
+		}
+	]
+}

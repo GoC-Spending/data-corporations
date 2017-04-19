@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "249 Shaw St, Toronto, ON M6J 2W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b563eecc92c4060b1e7ef12cdca11eb|BN20121764|7.7.0.0|",
+				"addressLine": "249 Shaw St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "249 Shaw St, Toronto, ON M6J 2W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 2W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41741,
+					43.64865
+				]
+			},
+			"bbox": [
+				-79.4189636,
+				43.6475258,
+				-79.4158564,
+				43.6497742
+			]
+		}
+	]
+}

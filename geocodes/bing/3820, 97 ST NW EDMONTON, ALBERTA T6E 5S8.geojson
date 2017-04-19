@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3820 97 St NW, Edmonton, AB T6E 5S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2074dcbee8ff4fd8892c16223fa4b11c|BN20190642|7.7.0.0|",
+				"addressLine": "3820 97 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3820 97 St NW, Edmonton, AB T6E 5S8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 5S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48048,
+					53.47336
+				]
+			},
+			"bbox": [
+				-113.4823687,
+				53.4722358,
+				-113.4785913,
+				53.4744842
+			]
+		}
+	]
+}

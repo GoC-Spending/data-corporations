@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6577 Northwest Dr, Mississauga, ON L4V 1L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a2cb863d5684ad6a9229708eef16639|BN20260231|7.7.0.0|",
+				"addressLine": "6577 Northwest Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6577 Northwest Dr, Mississauga, ON L4V 1L1, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Malton",
+				"postalCode": "L4V 1L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6271299,
+					43.70382
+				]
+			},
+			"bbox": [
+				-79.6286849,
+				43.7026958,
+				-79.6255749,
+				43.7049442
+			]
+		}
+	]
+}

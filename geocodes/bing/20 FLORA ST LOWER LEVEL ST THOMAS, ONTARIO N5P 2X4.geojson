@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Flora St, St Thomas, ON N5P 2X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c4c5cb236174f0eb1d3121abd0537f8|BN20130530|7.7.0.0|",
+				"addressLine": "20 Flora St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Flora St, St Thomas, ON N5P 2X4, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 2X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1890905,
+					42.7797756
+				]
+			},
+			"bbox": [
+				-81.1906221,
+				42.7786515,
+				-81.1875589,
+				42.7808998
+			]
+		}
+	]
+}

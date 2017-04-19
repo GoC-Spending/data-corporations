@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "193 Maxome Ave, North York, ON M2M 3L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7a6acdda2c64034b6a283046fb9862c|BN20260223|7.7.0.0|",
+				"addressLine": "193 Maxome Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "193 Maxome Ave, North York, ON M2M 3L1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook East",
+				"postalCode": "M2M 3L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40311,
+					43.79621
+				]
+			},
+			"bbox": [
+				-79.4046674,
+				43.7950858,
+				-79.4015526,
+				43.7973342
+			]
+		}
+	]
+}

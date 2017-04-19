@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1633 Snyder's Rd E, Wilmot, ON N0B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69c24a8214044ad181499ccc290b23f4|BN20130423|7.7.0.0|",
+				"addressLine": "1633 Snyder's Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1633 Snyder's Rd E, Wilmot, ON N0B, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "Petersburg",
+				"postalCode": "N0B 2H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.6073688,
+					43.4130299
+				]
+			},
+			"bbox": [
+				-80.6089164,
+				43.4119057,
+				-80.6058213,
+				43.414154
+			]
+		}
+	]
+}

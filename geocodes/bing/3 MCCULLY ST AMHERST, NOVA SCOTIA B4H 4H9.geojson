@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 McCully St, Amherst, NS B4H 4H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1ed04d970bc4b119458f25986c0e6bf|BN20130422|7.7.0.0|",
+				"addressLine": "3 McCully St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 McCully St, Amherst, NS B4H 4H9, Canada",
+				"locality": "Amherst",
+				"postalCode": "B4H 4H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.21258,
+					45.81435
+				]
+			},
+			"bbox": [
+				-64.2141929,
+				45.8132258,
+				-64.2109671,
+				45.8154742
+			]
+		}
+	]
+}

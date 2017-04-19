@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "520 Coronation Dr, Scarborough, ON M1E 5C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60460b45760f4939aa447affd641bf4c|BN20160335|7.7.0.0|",
+				"addressLine": "520 Coronation Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "520 Coronation Dr, Scarborough, ON M1E 5C7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Hill",
+				"postalCode": "M1E 5C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1658099,
+					43.76511
+				]
+			},
+			"bbox": [
+				-79.1673665,
+				43.7639858,
+				-79.1642533,
+				43.7662342
+			]
+		}
+	]
+}

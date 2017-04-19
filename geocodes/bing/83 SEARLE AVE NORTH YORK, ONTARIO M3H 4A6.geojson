@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "83 Searle Ave, North York, ON M3H 4A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62dfc84d47b9445e8a333961e7674da9|BN20181720|7.7.0.0|",
+				"addressLine": "83 Searle Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "83 Searle Ave, North York, ON M3H 4A6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 4A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44471,
+					43.75924
+				]
+			},
+			"bbox": [
+				-79.4462665,
+				43.7581158,
+				-79.4431535,
+				43.7603642
+			]
+		}
+	]
+}

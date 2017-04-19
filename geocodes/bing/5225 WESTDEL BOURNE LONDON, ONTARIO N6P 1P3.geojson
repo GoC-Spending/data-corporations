@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5225 Westdel Bourne, London, ON N6P 1P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1242e72d33804e249301c3336f31fa7e|CO30324010|7.7.0.0|",
+				"addressLine": "5225 Westdel Bourne",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "5225 Westdel Bourne, London, ON N6P 1P3, Canada",
+				"locality": "London",
+				"neighborhood": "Tempo",
+				"postalCode": "N6P 1P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3257078,
+					42.878128
+				]
+			},
+			"bbox": [
+				-81.3272418,
+				42.8770038,
+				-81.3241737,
+				42.8792521
+			]
+		}
+	]
+}

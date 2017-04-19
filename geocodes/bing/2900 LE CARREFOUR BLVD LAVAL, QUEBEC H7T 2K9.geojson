@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2900 Boulevard le Carrefour, Laval, QC H7T 2K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "639d208aaba84233a8036a07146258b3|BN20260231|7.7.0.0|",
+				"addressLine": "2900 Boulevard le Carrefour",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2900 Boulevard le Carrefour, Laval, QC H7T 2K9, Canada",
+				"locality": "Laval",
+				"postalCode": "H7T 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74609,
+					45.56909
+				]
+			},
+			"bbox": [
+				-73.7476958,
+				45.5679658,
+				-73.7444842,
+				45.5702142
+			]
+		}
+	]
+}

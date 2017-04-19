@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "965 Talbot St, St Thomas, ON N5P 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d1cfa3c495f46b783b945b9909caa7f|BN20200137|7.7.0.0|",
+				"addressLine": "965 Talbot St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "965 Talbot St, St Thomas, ON N5P 1E8, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1789706,
+					42.7789292
+				]
+			},
+			"bbox": [
+				-81.1805022,
+				42.777805,
+				-81.1774391,
+				42.7800533
+			]
+		}
+	]
+}

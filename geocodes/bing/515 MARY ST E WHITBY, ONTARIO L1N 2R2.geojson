@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "515 Mary St E, Whitby, ON L1N 2R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac29b3d78ff144f8b1b7c175666e0d7d|BN20130423|7.7.0.0|",
+				"addressLine": "515 Mary St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "515 Mary St E, Whitby, ON L1N 2R2, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 2R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.93661,
+					43.88285
+				]
+			},
+			"bbox": [
+				-78.9381697,
+				43.8817258,
+				-78.9350503,
+				43.8839742
+			]
+		}
+	]
+}

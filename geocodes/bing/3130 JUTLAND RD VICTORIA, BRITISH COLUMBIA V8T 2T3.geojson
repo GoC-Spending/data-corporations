@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3130 Jutland Rd, Victoria, BC V8T 2T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a11da78d67994f34a7f9037b46769c31|BN20280152|7.7.0.0|",
+				"addressLine": "3130 Jutland Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3130 Jutland Rd, Victoria, BC V8T 2T3, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Burnside",
+				"postalCode": "V8T 2T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.37557,
+					48.44373
+				]
+			},
+			"bbox": [
+				-123.3772646,
+				48.4426058,
+				-123.3738754,
+				48.4448542
+			]
+		}
+	]
+}

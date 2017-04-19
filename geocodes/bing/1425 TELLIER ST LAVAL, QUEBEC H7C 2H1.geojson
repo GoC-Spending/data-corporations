@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1425 Rue Tellier, Laval, QC H7C 2H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8423fb97e124ddf8da86913e0b1f7bb|BN20250135|7.7.0.0|",
+				"addressLine": "1425 Rue Tellier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1425 Rue Tellier, Laval, QC H7C 2H1, Canada",
+				"locality": "Laval",
+				"postalCode": "H7C 2H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.66053,
+					45.61817
+				]
+			},
+			"bbox": [
+				-73.6621372,
+				45.6170458,
+				-73.6589228,
+				45.6192942
+			]
+		}
+	]
+}

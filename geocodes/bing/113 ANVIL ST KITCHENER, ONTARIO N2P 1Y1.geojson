@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "113 Anvil St, Kitchener, ON N2P 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3cc51999769644b28415905ee6f4ff9f|BN20130522|7.7.0.0|",
+				"addressLine": "113 Anvil St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "113 Anvil St, Kitchener, ON N2P 1Y1, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Pioneer Park",
+				"postalCode": "N2P 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.44283,
+					43.38917
+				]
+			},
+			"bbox": [
+				-80.4443769,
+				43.3880458,
+				-80.4412831,
+				43.3902942
+			]
+		}
+	]
+}

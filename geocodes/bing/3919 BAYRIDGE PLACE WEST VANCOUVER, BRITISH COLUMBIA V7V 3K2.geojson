@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3919 Bayridge Pl, West Vancouver, BC V7V 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9b23f2471fcb42b7ac26ea6c61dadacb|BN20280152|7.7.0.0|",
+				"addressLine": "3919 Bayridge Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3919 Bayridge Pl, West Vancouver, BC V7V 3K2, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Cypress Park & Upper Caulfeild",
+				"postalCode": "V7V 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.22595,
+					49.34474
+				]
+			},
+			"bbox": [
+				-123.2276755,
+				49.3436158,
+				-123.2242245,
+				49.3458642
+			]
+		}
+	]
+}

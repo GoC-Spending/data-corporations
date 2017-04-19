@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Nordin Ave, Etobicoke, ON M8Z 2B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85dc78d212814b55bde89aa14fb94c52|BN20130631|7.7.0.0|",
+				"addressLine": "39 Nordin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Nordin Ave, Etobicoke, ON M8Z 2B2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52179,
+					43.62535
+				]
+			},
+			"bbox": [
+				-79.523343,
+				43.6242258,
+				-79.520237,
+				43.6264742
+			]
+		}
+	]
+}

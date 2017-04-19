@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 W Front St, Stirling-Rawdon, ON K0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8eb311a390dc44019795d581dfacc2ce|BN20130721|7.7.0.0|",
+				"addressLine": "1 W Front St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 W Front St, Stirling-Rawdon, ON K0K, Canada",
+				"locality": "Stirling-Rawdon",
+				"neighborhood": "Stirling",
+				"postalCode": "K0K 3E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.54745,
+					44.29605
+				]
+			},
+			"bbox": [
+				-77.5490206,
+				44.2949258,
+				-77.5458794,
+				44.2971742
+			]
+		}
+	]
+}

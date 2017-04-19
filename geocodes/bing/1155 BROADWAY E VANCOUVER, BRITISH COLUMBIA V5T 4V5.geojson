@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1155 E Broadway, Vancouver, BC V5T 4V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4c2e0baaacf744ea8fdca85950cb48c0|BN20130634|7.7.0.0|",
+				"addressLine": "1155 E Broadway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1155 E Broadway, Vancouver, BC V5T 4V5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 4V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0806604,
+					49.2625349
+				]
+			},
+			"bbox": [
+				-123.082383,
+				49.2614107,
+				-123.0789378,
+				49.263659
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12654 82 Ave, Surrey, BC V3W 3G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3da216864531460ca32ccb34bc5c60b9|BN20130532|7.7.0.0|",
+				"addressLine": "12654 82 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12654 82 Ave, Surrey, BC V3W 3G1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 3G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87178,
+					49.15173
+				]
+			},
+			"bbox": [
+				-122.8734987,
+				49.1506058,
+				-122.8700613,
+				49.1528542
+			]
+		}
+	]
+}

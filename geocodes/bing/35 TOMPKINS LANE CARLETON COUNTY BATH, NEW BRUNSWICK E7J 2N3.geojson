@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "35 Tompkins Ln, Kent, NB E7J 1X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ee9398ab40140dfb7f50c22840f4438|BN20130442|7.7.0.0|",
+				"addressLine": "35 Tompkins Ln",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Carleton",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Tompkins Ln, Kent, NB E7J 1X5, Canada",
+				"locality": "Kent",
+				"postalCode": "E7J 1X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-67.603459,
+					46.5180452
+				]
+			},
+			"bbox": [
+				-67.6050927,
+				46.516921,
+				-67.6018254,
+				46.5191693
+			]
+		}
+	]
+}

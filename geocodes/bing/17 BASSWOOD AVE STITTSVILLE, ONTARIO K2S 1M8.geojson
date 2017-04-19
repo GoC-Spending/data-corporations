@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Basswood Ave, Stittsville, ON K2S 1M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8628e6cf9314d678b9fb3457cf01282|BN20130530|7.7.0.0|",
+				"addressLine": "17 Basswood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Basswood Ave, Stittsville, ON K2S 1M8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9131,
+					45.25892
+				]
+			},
+			"bbox": [
+				-75.914697,
+				45.2577958,
+				-75.911503,
+				45.2600442
+			]
+		}
+	]
+}

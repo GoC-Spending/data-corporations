@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "385 De Baets St, Winnipeg, MB R2J 4J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3153d3a4dbe942b39e5f0d9392153faa|BN20200137|7.7.0.0|",
+				"addressLine": "385 De Baets St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "385 De Baets St, Winnipeg, MB R2J 4J8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St Boniface Industrial Park",
+				"postalCode": "R2J 4J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.03195,
+					49.87802
+				]
+			},
+			"bbox": [
+				-97.0336944,
+				49.8768958,
+				-97.0302056,
+				49.8791442
+			]
+		}
+	]
+}

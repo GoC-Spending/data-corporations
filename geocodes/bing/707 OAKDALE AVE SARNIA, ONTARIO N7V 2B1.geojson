@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "707 Oakdale Ave, Sarnia, ON N7V 2B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "213a0289c79b4d41942c27451a11f764|BN20190642|7.7.0.0|",
+				"addressLine": "707 Oakdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "707 Oakdale Ave, Sarnia, ON N7V 2B1, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7V 2B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3855448,
+					42.9885471
+				]
+			},
+			"bbox": [
+				-82.3870816,
+				42.987423,
+				-82.384008,
+				42.9896713
+			]
+		}
+	]
+}

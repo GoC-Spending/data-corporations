@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Duffie Dr, Fredericton, NB E3B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73c762e0595948799c4ece5a3a4767be|BN20250135|7.7.0.0|",
+				"addressLine": "6 Duffie Dr",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Duffie Dr, Fredericton, NB E3B, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 5A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.64554,
+					45.94278
+				]
+			},
+			"bbox": [
+				-66.6471566,
+				45.9416558,
+				-66.6439234,
+				45.9439042
+			]
+		}
+	]
+}

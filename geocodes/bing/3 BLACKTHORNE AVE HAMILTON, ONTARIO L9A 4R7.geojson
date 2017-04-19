@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Blackthorne Ave, Hamilton, ON L9A 4R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b52bd49365d4f7a8cd3e30afe6b6e26|BN20200137|7.7.0.0|",
+				"addressLine": "3 Blackthorne Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Blackthorne Ave, Hamilton, ON L9A 4R7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Bruleville",
+				"postalCode": "L9A 4R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86409,
+					43.22316
+				]
+			},
+			"bbox": [
+				-79.8656327,
+				43.2220358,
+				-79.8625473,
+				43.2242842
+			]
+		}
+	]
+}

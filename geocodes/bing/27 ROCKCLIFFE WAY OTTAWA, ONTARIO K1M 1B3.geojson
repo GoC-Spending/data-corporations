@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Rockcliffe Way, Ottawa, ON K1M 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1738b9282174f4d91b67eae97210146|BN20130447|7.7.0.0|",
+				"addressLine": "27 Rockcliffe Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Rockcliffe Way, Ottawa, ON K1M 1B3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lindenlea-New Edinburgh",
+				"postalCode": "K1M 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67555,
+					45.44518
+				]
+			},
+			"bbox": [
+				-75.6771523,
+				45.4440558,
+				-75.6739477,
+				45.4463042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "44 Wanless Ave, Toronto, ON M4N 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9fb98ca0429040fdb72d3a6099e0f965|BN20130530|7.7.0.0|",
+				"addressLine": "44 Wanless Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "44 Wanless Ave, Toronto, ON M4N 1V6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lawrence Park North",
+				"postalCode": "M4N 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4010799,
+					43.72703
+				]
+			},
+			"bbox": [
+				-79.4026355,
+				43.7259058,
+				-79.3995243,
+				43.7281542
+			]
+		}
+	]
+}

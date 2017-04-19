@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5460 Yonge St, North York, ON M2N 6K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "304a6ff9e4c1418582a246f60d4e955d|BN20130621|7.7.0.0|",
+				"addressLine": "5460 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5460 Yonge St, North York, ON M2N 6K7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale West",
+				"postalCode": "M2N 6K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41548,
+					43.7772099
+				]
+			},
+			"bbox": [
+				-79.4170369,
+				43.7760857,
+				-79.4139231,
+				43.7783341
+			]
+		}
+	]
+}

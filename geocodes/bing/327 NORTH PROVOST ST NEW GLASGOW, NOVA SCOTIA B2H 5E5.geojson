@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "327 N Provost St, New Glasgow, NS B2H 2P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "77dc023431ca452d9489ff47d4209344|BN20190642|7.7.0.0|",
+				"addressLine": "327 N Provost St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Pictou",
+				"countryRegion": "Canada",
+				"formattedAddress": "327 N Provost St, New Glasgow, NS B2H 2P2, Canada",
+				"locality": "New Glasgow",
+				"postalCode": "B2H 2P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.640684,
+					45.595318
+				]
+			},
+			"bbox": [
+				-62.6422906,
+				45.5941939,
+				-62.6390775,
+				45.5964422
+			]
+		}
+	]
+}

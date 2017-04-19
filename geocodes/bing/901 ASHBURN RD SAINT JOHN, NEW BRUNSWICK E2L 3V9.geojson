@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "901 Ashburn Rd, Saint John, NB E2K 5J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a2767cae07f442ec909a8d156abbfd6b|BN20121762|7.7.0.0|",
+				"addressLine": "901 Ashburn Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "901 Ashburn Rd, Saint John, NB E2K 5J9, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2K 5J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.03202,
+					45.32875
+				]
+			},
+			"bbox": [
+				-66.033619,
+				45.3276258,
+				-66.030421,
+				45.3298742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "220 HWY-14, Chester, NS B0J 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64491d3d7af148beb1bb5d4415774455|BN20130431|7.7.0.0|",
+				"addressLine": "220 HWY-14",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "220 HWY-14, Chester, NS B0J 1J0, Canada",
+				"locality": "Chester",
+				"postalCode": "B0J 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.2613466,
+					44.5691143
+				]
+			},
+			"bbox": [
+				-64.2629245,
+				44.5679901,
+				-64.2597686,
+				44.5702385
+			]
+		}
+	]
+}

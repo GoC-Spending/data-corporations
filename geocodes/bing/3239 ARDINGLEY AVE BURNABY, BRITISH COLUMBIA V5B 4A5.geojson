@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3239 Ardingley Ave, Burnaby, BC V5B 4A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69e04a8f8ee14f53ae456f50c2fc0d08|BN20200137|7.7.0.0|",
+				"addressLine": "3239 Ardingley Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3239 Ardingley Ave, Burnaby, BC V5B 4A5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Ardingley-Sprott",
+				"postalCode": "V5B 4A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9712839,
+					49.2548115
+				]
+			},
+			"bbox": [
+				-122.9730062,
+				49.2536874,
+				-122.9695616,
+				49.2559357
+			]
+		}
+	]
+}

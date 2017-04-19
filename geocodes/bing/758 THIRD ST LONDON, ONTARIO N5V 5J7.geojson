@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "758 3rd St, London, ON N5V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1012945c4b9f4b028810c0008b48c0a0|BN20130520|7.7.0.0|",
+				"addressLine": "758 3rd St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "758 3rd St, London, ON N5V, Canada",
+				"locality": "London",
+				"neighborhood": "Huron Heights",
+				"postalCode": "N5V 5J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1921432,
+					43.0176505
+				]
+			},
+			"bbox": [
+				-81.1936807,
+				43.0165264,
+				-81.1906056,
+				43.0187747
+			]
+		}
+	]
+}

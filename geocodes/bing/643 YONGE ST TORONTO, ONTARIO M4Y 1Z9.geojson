@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "643 Yonge St, Toronto, ON M4Y 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08f05f5b214243709c53aef52d6a9b1f|BN20130532|7.7.0.0|",
+				"addressLine": "643 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "643 Yonge St, Toronto, ON M4Y 1Z9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M4Y 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38546,
+					43.66785
+				]
+			},
+			"bbox": [
+				-79.3870141,
+				43.6667258,
+				-79.3839059,
+				43.6689742
+			]
+		}
+	]
+}

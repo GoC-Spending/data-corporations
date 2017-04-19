@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5024 50 St, Camrose, AB T4V 1R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7a255c6a6524369bd2a50861c69455c|BN20130634|7.7.0.0|",
+				"addressLine": "5024 50 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5024 50 St, Camrose, AB T4V 1R2, Canada",
+				"locality": "Camrose",
+				"postalCode": "T4V 1R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.82548,
+					53.02265
+				]
+			},
+			"bbox": [
+				-112.8273489,
+				53.0215258,
+				-112.8236111,
+				53.0237742
+			]
+		}
+	]
+}

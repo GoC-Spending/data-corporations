@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Baywood Rd, Etobicoke, ON M9V 3Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e9f5085dad4404eb96933054103b2fa|BN20130423|7.7.0.0|",
+				"addressLine": "55 Baywood Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Baywood Rd, Etobicoke, ON M9V 3Y8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9V 3Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6057,
+					43.74768
+				]
+			},
+			"bbox": [
+				-79.6072562,
+				43.7465558,
+				-79.6041438,
+				43.7488042
+			]
+		}
+	]
+}

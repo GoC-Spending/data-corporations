@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "290 Monte Carlo Dr, Woodbridge, ON L4H 1R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b7d278947e1465582e7fabacc3eb90d|BN20130442|7.7.0.0|",
+				"addressLine": "290 Monte Carlo Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "290 Monte Carlo Dr, Woodbridge, ON L4H 1R2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4H 1R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61996,
+					43.82236
+				]
+			},
+			"bbox": [
+				-79.6215181,
+				43.8212358,
+				-79.6184019,
+				43.8234842
+			]
+		}
+	]
+}

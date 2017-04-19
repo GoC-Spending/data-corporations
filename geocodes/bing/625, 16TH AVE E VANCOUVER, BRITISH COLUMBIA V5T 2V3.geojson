@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "625 E 16th Ave, Vancouver, BC V5T 2V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9189697fa0934e30952b983570ac7078|BN20130719|7.7.0.0|",
+				"addressLine": "625 E 16th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "625 E 16th Ave, Vancouver, BC V5T 2V3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 2V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09124,
+					49.2566599
+				]
+			},
+			"bbox": [
+				-123.0929624,
+				49.2555357,
+				-123.0895176,
+				49.2577841
+			]
+		}
+	]
+}

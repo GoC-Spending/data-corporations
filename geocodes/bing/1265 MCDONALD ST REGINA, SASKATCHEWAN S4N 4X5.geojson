@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1265 McDonald St, Regina, SK S4N 4X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "87ffffa41b274e1e8496bd6001f364dd|BN20130621|7.7.0.0|",
+				"addressLine": "1265 McDonald St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1265 McDonald St, Regina, SK S4N 4X5, Canada",
+				"locality": "Regina",
+				"neighborhood": "Eastview",
+				"postalCode": "S4N 4X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.58281,
+					50.45861
+				]
+			},
+			"bbox": [
+				-104.5845758,
+				50.4574858,
+				-104.5810442,
+				50.4597342
+			]
+		}
+	]
+}

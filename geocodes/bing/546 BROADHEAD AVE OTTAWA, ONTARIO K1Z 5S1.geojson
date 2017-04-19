@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "546 Broadhead Ave, Ottawa, ON K1Z 5S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "296f5e0c71e84f2aad1f678a8d106c0a|BN20220145|7.7.0.0|",
+				"addressLine": "546 Broadhead Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "546 Broadhead Ave, Ottawa, ON K1Z 5S1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Westboro",
+				"postalCode": "K1Z 5S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.74619,
+					45.38872
+				]
+			},
+			"bbox": [
+				-75.7477907,
+				45.3875958,
+				-75.7445893,
+				45.3898442
+			]
+		}
+	]
+}

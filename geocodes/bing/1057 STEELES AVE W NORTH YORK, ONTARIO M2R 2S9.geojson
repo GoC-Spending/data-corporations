@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1057 Steeles Ave W, North York, ON M2R 2S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99c045359ec74e989a009e3bc301dfde|BN20131519|7.7.0.0|",
+				"addressLine": "1057 Steeles Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1057 Steeles Ave W, North York, ON M2R 2S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Westminster-Branson",
+				"postalCode": "M2R 2S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.448551,
+					43.7917067
+				]
+			},
+			"bbox": [
+				-79.4501083,
+				43.7905826,
+				-79.4469937,
+				43.7928309
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1204 Nestor St, Coquitlam, BC V3E 1H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e5ca10a1eb34c2ab05ffd70fb4d593a|BN20130530|7.7.0.0|",
+				"addressLine": "1204 Nestor St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1204 Nestor St, Coquitlam, BC V3E 1H6, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Hockaday Nestor",
+				"postalCode": "V3E 1H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.77878,
+					49.28631
+				]
+			},
+			"bbox": [
+				-122.7805034,
+				49.2851858,
+				-122.7770566,
+				49.2874342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "533 Henry Ave, Winnipeg, MB R3A 0T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "473ff3f69c774b48b8d96adfa05f1540|BN20130520|7.7.0.0|",
+				"addressLine": "533 Henry Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "533 Henry Ave, Winnipeg, MB R3A 0T8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Logan-CPR",
+				"postalCode": "R3A 0T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14779,
+					49.9080299
+				]
+			},
+			"bbox": [
+				-97.1495355,
+				49.9069057,
+				-97.1460445,
+				49.9091541
+			]
+		}
+	]
+}

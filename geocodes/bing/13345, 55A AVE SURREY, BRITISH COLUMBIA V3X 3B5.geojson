@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13345 55A Ave, Surrey, BC V3X 3B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83ffc14e2a124e09a12337ffb4950f48|BN20130442|7.7.0.0|",
+				"addressLine": "13345 55A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "13345 55A Ave, Surrey, BC V3X 3B5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3X 3B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8527669,
+					49.1033149
+				]
+			},
+			"bbox": [
+				-122.854484,
+				49.1021907,
+				-122.8510499,
+				49.1044391
+			]
+		}
+	]
+}

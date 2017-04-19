@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3321 Rue de Beauvoir, Boisbriand, QC J7H 1H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c04a64bb80f94af29a20314aa965eb17|BN20121762|7.7.0.0|",
+				"addressLine": "3321 Rue de Beauvoir",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Thérèse-de-Blainville",
+				"countryRegion": "Canada",
+				"formattedAddress": "3321 Rue de Beauvoir, Boisbriand, QC J7H 1H6, Canada",
+				"locality": "Boisbriand",
+				"postalCode": "J7H 1H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8607,
+					45.62474
+				]
+			},
+			"bbox": [
+				-73.8623074,
+				45.6236158,
+				-73.8590926,
+				45.6258642
+			]
+		}
+	]
+}

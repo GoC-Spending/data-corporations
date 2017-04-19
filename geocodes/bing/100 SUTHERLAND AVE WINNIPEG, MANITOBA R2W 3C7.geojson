@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Sutherland Ave, Winnipeg, MB R2W 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b83d6f1c2ef042a2a790dd170d568645|BN20121764|7.7.0.0|",
+				"addressLine": "100 Sutherland Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Sutherland Ave, Winnipeg, MB R2W 3C7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North Point Douglas",
+				"postalCode": "R2W 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12634,
+					49.90524
+				]
+			},
+			"bbox": [
+				-97.1280854,
+				49.9041158,
+				-97.1245946,
+				49.9063642
+			]
+		}
+	]
+}

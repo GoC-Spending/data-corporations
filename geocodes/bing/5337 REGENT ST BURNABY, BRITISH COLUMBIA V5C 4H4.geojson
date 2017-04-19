@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5337 Regent St, Burnaby, BC V5C 4H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c967af87a85c44079d160874fe764545|BN20240423|7.7.0.0|",
+				"addressLine": "5337 Regent St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5337 Regent St, Burnaby, BC V5C 4H4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Dawson-Delta",
+				"postalCode": "V5C 4H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9856983,
+					49.258496
+				]
+			},
+			"bbox": [
+				-122.9874207,
+				49.2573719,
+				-122.9839758,
+				49.2596202
+			]
+		}
+	]
+}

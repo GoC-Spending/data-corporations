@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1301 Spence Ave, Hawkesbury, ON K6A 3T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04d03c9c719b4dc5986bda586223d3d4|BN20250135|7.7.0.0|",
+				"addressLine": "1301 Spence Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "1301 Spence Ave, Hawkesbury, ON K6A 3T4, Canada",
+				"locality": "Hawkesbury",
+				"postalCode": "K6A 3T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.5933384,
+					45.5946092
+				]
+			},
+			"bbox": [
+				-74.594945,
+				45.593485,
+				-74.5917319,
+				45.5957333
+			]
+		}
+	]
+}

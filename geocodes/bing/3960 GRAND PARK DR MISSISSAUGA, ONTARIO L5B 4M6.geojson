@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3960 Grand Park Dr, Mississauga, ON L5B 4M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7be482553a7842ed898beccf4897154e|BN20130521|7.7.0.0|",
+				"addressLine": "3960 Grand Park Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "3960 Grand Park Dr, Mississauga, ON L5B 4M6, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5B 4M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6472,
+					43.58024
+				]
+			},
+			"bbox": [
+				-79.6487518,
+				43.5791158,
+				-79.6456482,
+				43.5813642
+			]
+		}
+	]
+}

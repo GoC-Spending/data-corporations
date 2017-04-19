@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "745 Woodward Ave, Hamilton, ON L8H 6P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca08b3f5ef9b45a9a2de517eaedc6de9|BN20130521|7.7.0.0|",
+				"addressLine": "745 Woodward Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "745 Woodward Ave, Hamilton, ON L8H 6P5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Parkview West",
+				"postalCode": "L8H 6P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77485,
+					43.25363
+				]
+			},
+			"bbox": [
+				-79.7763935,
+				43.2525058,
+				-79.7733065,
+				43.2547542
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Breslau, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60f2c328f4f945b095e202c83244f976|BN20240423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Breslau, Ontario, Canada",
+				"locality": "Breslau"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4139709472656,
+					43.4756889343262
+				]
+			},
+			"bbox": [
+				-80.4238815307617,
+				43.4687690734863,
+				-80.407112121582,
+				43.4914016723633
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Woolwich, N0B 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60f2c328f4f945b095e202c83244f976|BN20240423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Woolwich, N0B 1M0, Canada",
+				"locality": "Woolwich",
+				"postalCode": "N0B 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.418571472168,
+					43.4816284179688
+				]
+			},
+			"bbox": [
+				-80.4256690410448,
+				43.4777657003981,
+				-80.4114739032912,
+				43.4854911355394
+			]
+		}
+	]
+}

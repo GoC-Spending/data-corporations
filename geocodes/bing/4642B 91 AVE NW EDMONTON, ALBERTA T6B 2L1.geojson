@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4642 91 Ave NW, Edmonton, AB T6B 2L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef2cb306b96c44dd9f4ae8a67bb1affb|BN20160335|7.7.0.0|",
+				"addressLine": "4642 91 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4642 91 Ave NW, Edmonton, AB T6B 2L1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Lambton Industrial",
+				"postalCode": "T6B 2L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.414303,
+					53.5248878
+				]
+			},
+			"bbox": [
+				-113.416194,
+				53.5237636,
+				-113.412412,
+				53.5260119
+			]
+		}
+	]
+}

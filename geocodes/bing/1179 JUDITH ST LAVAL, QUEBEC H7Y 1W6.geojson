@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1179 Rue Judith, Laval, QC H7Y 1W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fee72e492a5546b4816fa496cf8e419a|BN20220145|7.7.0.0|",
+				"addressLine": "1179 Rue Judith",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1179 Rue Judith, Laval, QC H7Y 1W6, Canada",
+				"locality": "Laval",
+				"postalCode": "H7Y 1W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8461,
+					45.52255
+				]
+			},
+			"bbox": [
+				-73.8477045,
+				45.5214258,
+				-73.8444955,
+				45.5236742
+			]
+		}
+	]
+}

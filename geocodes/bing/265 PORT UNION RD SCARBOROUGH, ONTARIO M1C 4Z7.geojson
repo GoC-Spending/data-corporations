@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "265 Port Union Rd, Scarborough, ON M1C 2L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ddefb2d0ff2242c485dd59adea3f7891|BN20220145|7.7.0.0|",
+				"addressLine": "265 Port Union Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "265 Port Union Rd, Scarborough, ON M1C 2L3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1C 2L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.13946,
+					43.78862
+				]
+			},
+			"bbox": [
+				-79.1410172,
+				43.7874958,
+				-79.1379028,
+				43.7897442
+			]
+		}
+	]
+}

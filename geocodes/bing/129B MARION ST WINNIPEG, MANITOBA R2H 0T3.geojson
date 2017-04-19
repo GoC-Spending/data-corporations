@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "129 Marion St, Winnipeg, MB R2H 0T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73420829d26a4697bb8256481616218b|BN20130431|7.7.0.0|",
+				"addressLine": "129 Marion St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "129 Marion St, Winnipeg, MB R2H 0T3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Central St Boniface",
+				"postalCode": "R2H 0T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1229199,
+					49.88167
+				]
+			},
+			"bbox": [
+				-97.1246645,
+				49.8805458,
+				-97.1211753,
+				49.8827942
+			]
+		}
+	]
+}

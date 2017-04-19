@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Oxford St E, London, ON N6A 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea9531542820450fbe08c076b11cb81a|BN20130719|7.7.0.0|",
+				"addressLine": "165 Oxford St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Oxford St E, London, ON N6A 1T4, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2554,
+					42.9946
+				]
+			},
+			"bbox": [
+				-81.2569369,
+				42.9934758,
+				-81.2538631,
+				42.9957242
+			]
+		}
+	]
+}

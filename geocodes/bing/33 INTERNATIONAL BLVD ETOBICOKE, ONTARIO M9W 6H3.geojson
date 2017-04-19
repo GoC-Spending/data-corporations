@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 International Blvd, Etobicoke, ON M9W 6H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c56700ef538d413db01ea755ba0e852a|BN20260223|7.7.0.0|",
+				"addressLine": "33 International Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 International Blvd, Etobicoke, ON M9W 6H3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 6H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5888,
+					43.67721
+				]
+			},
+			"bbox": [
+				-79.5903543,
+				43.6760858,
+				-79.5872457,
+				43.6783342
+			]
+		}
+	]
+}

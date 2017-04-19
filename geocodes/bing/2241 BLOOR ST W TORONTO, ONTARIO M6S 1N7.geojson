@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2241 Bloor St W, Toronto, ON M6S 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8bcfc54aedf24b189c3d776c29cf41ee|BN20121763|7.7.0.0|",
+				"addressLine": "2241 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2241 Bloor St W, Toronto, ON M6S 1N7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6S 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47685,
+					43.65082
+				]
+			},
+			"bbox": [
+				-79.4784036,
+				43.6496958,
+				-79.4752964,
+				43.6519442
+			]
+		}
+	]
+}

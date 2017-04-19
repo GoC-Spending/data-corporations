@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Lundar, R0C 1Y0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a73ee171eff747c89728dbd2bcfe4099|BN20130620|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lundar, R0C 1Y0, Canada",
+				"locality": "Lundar",
+				"postalCode": "R0C 1Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.030517578125,
+					50.6976089477539
+				]
+			},
+			"bbox": [
+				-98.0386479206114,
+				50.6937462301832,
+				-98.0223872356386,
+				50.7014716653246
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Lundar, Coldwell, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a73ee171eff747c89728dbd2bcfe4099|BN20130620|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lundar, Coldwell, Manitoba, Canada",
+				"locality": "Coldwell",
+				"neighborhood": "Lundar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.030517578125,
+					50.6976089477539
+				]
+			},
+			"bbox": [
+				-98.0386479206114,
+				50.6937462301832,
+				-98.0223872356386,
+				50.7014716653246
+			]
+		}
+	]
+}

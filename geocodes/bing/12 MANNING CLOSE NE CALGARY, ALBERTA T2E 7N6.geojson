@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Manning Clos NE, Calgary, AB T2E 7N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6c53349266742d09e8c82559a456ea2|BN20210145|7.7.0.0|",
+				"addressLine": "12 Manning Clos NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Manning Clos NE, Calgary, AB T2E 7N6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Mayland Heights",
+				"postalCode": "T2E 7N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.01767,
+					51.05538
+				]
+			},
+			"bbox": [
+				-114.0194584,
+				51.0542558,
+				-114.0158816,
+				51.0565042
+			]
+		}
+	]
+}

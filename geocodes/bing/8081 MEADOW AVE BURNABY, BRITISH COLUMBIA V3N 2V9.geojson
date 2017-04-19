@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8081 Meadow Ave, Burnaby, BC V3N 2V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f16f6134a7fa485983f9bb62b530e6bd|BN20121763|7.7.0.0|",
+				"addressLine": "8081 Meadow Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8081 Meadow Ave, Burnaby, BC V3N 2V9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V3N 2V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9656,
+					49.19513
+				]
+			},
+			"bbox": [
+				-122.9673202,
+				49.1940058,
+				-122.9638798,
+				49.1962542
+			]
+		}
+	]
+}

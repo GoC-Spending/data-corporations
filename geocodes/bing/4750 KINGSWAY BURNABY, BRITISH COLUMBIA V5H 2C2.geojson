@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4750 Kingsway, Burnaby, BC V5H 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe0d3419a84d42b6a24fdfedfb018064|BN20121764|7.7.0.0|",
+				"addressLine": "4750 Kingsway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4750 Kingsway, Burnaby, BC V5H 2C2, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Maywood",
+				"postalCode": "V5H 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9975186,
+					49.2276395
+				]
+			},
+			"bbox": [
+				-122.99924,
+				49.2265153,
+				-122.9957972,
+				49.2287636
+			]
+		}
+	]
+}

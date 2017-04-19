@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Robson Ave, Cambridge, ON N1T 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "131b3c76d898490bb428fcddab6ea9b7|BN20121762|7.7.0.0|",
+				"addressLine": "27 Robson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Robson Ave, Cambridge, ON N1T 1K9, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Fiddlesticks",
+				"postalCode": "N1T 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.29705,
+					43.38702
+				]
+			},
+			"bbox": [
+				-80.2985969,
+				43.3858958,
+				-80.2955031,
+				43.3881442
+			]
+		}
+	]
+}

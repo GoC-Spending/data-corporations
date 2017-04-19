@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Braemar Ave, Toronto, ON M5P 2L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd5a0eba35a542cfa26bb53471b6d933|BN20130431|7.7.0.0|",
+				"addressLine": "32 Braemar Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Braemar Ave, Toronto, ON M5P 2L2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yonge-Eglinton",
+				"postalCode": "M5P 2L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40849,
+					43.70047
+				]
+			},
+			"bbox": [
+				-79.4100449,
+				43.6993458,
+				-79.4069351,
+				43.7015942
+			]
+		}
+	]
+}

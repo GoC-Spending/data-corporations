@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1023 Pacific Ave, Winnipeg, MB R3E 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49cf9c9bd70e4d60bea90cb920b44b1b|BN20260231|7.7.0.0|",
+				"addressLine": "1023 Pacific Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1023 Pacific Ave, Winnipeg, MB R3E 1G5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Logan-CPR",
+				"postalCode": "R3E 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.16949,
+					49.91169
+				]
+			},
+			"bbox": [
+				-97.1712357,
+				49.9105658,
+				-97.1677443,
+				49.9128142
+			]
+		}
+	]
+}

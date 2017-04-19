@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "400 Martha St, Burlington, ON L7R 2P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ce8583f4b3c94f99adfacc2cbf3ac5de|BN20200137|7.7.0.0|",
+				"addressLine": "400 Martha St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "400 Martha St, Burlington, ON L7R 2P7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Central",
+				"postalCode": "L7R 2P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7936,
+					43.32709
+				]
+			},
+			"bbox": [
+				-79.7951453,
+				43.3259658,
+				-79.7920547,
+				43.3282142
+			]
+		}
+	]
+}

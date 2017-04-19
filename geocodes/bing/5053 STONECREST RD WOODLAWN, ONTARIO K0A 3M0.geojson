@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5053 Stonecrest Rd, Woodlawn, ON K0A 3M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f1edb86ce2524241b572b0a606ecfc86|BN20200137|7.7.0.0|",
+				"addressLine": "5053 Stonecrest Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5053 Stonecrest Rd, Woodlawn, ON K0A 3M0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Woodlawn",
+				"postalCode": "K0A 3M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.17936,
+					45.49043
+				]
+			},
+			"bbox": [
+				-76.1809636,
+				45.4893058,
+				-76.1777564,
+				45.4915542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Glebe Ave, Ottawa, ON K1S 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af781db6fe844d76a9940533da837dbd|BN20130431|7.7.0.0|",
+				"addressLine": "95 Glebe Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Glebe Ave, Ottawa, ON K1S 2C2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Glebe-Dows Lake",
+				"postalCode": "K1S 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6884199,
+					45.40589
+				]
+			},
+			"bbox": [
+				-75.6900211,
+				45.4047658,
+				-75.6868187,
+				45.4070142
+			]
+		}
+	]
+}

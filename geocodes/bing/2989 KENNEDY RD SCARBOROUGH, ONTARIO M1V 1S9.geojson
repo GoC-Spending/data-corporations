@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2989 Kennedy Rd, Scarborough, ON M1V 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "913b5430db9a47e7b6495fc97e889436|BN20130634|7.7.0.0|",
+				"addressLine": "2989 Kennedy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2989 Kennedy Rd, Scarborough, ON M1V 1S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29874,
+					43.80695
+				]
+			},
+			"bbox": [
+				-79.3002977,
+				43.8058258,
+				-79.2971823,
+				43.8080742
+			]
+		}
+	]
+}

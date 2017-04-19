@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "615 Deercroft Way SE, Calgary, AB T2J 5V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a38e513334664076bd160e05a7587097|BN20250135|7.7.0.0|",
+				"addressLine": "615 Deercroft Way SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "615 Deercroft Way SE, Calgary, AB T2J 5V4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Deer Run",
+				"postalCode": "T2J 5V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.00358,
+					50.9183499
+				]
+			},
+			"bbox": [
+				-114.0053632,
+				50.9172257,
+				-114.0017968,
+				50.9194741
+			]
+		}
+	]
+}

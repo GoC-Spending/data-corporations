@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4929 Rue de la Diligence, Pierrefonds, QC H9K 1S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c455b6c876514df29a71de3817226ef4|BN20260231|7.7.0.0|",
+				"addressLine": "4929 Rue de la Diligence",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "4929 Rue de la Diligence, Pierrefonds, QC H9K 1S4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H9K 1S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.9042,
+					45.46003
+				]
+			},
+			"bbox": [
+				-73.9058027,
+				45.4589058,
+				-73.9025973,
+				45.4611542
+			]
+		}
+	]
+}

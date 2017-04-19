@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 5th St, Weyburn, SK S4H 0Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70f61b0e34f64a0b9de52cf8d90a768d|BN20130442|7.7.0.0|",
+				"addressLine": "123 5th St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 5th St, Weyburn, SK S4H 0Z2, Canada",
+				"locality": "Weyburn",
+				"postalCode": "S4H 0Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-103.8511586,
+					49.6618129
+				]
+			},
+			"bbox": [
+				-103.8528953,
+				49.6606887,
+				-103.849422,
+				49.662937
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "330 Nantucket Blvd, Scarborough, ON M1P 2P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e5e5d47bc954c75b14f4f6466587238|BN20210145|7.7.0.0|",
+				"addressLine": "330 Nantucket Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "330 Nantucket Blvd, Scarborough, ON M1P 2P4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dorset Park",
+				"postalCode": "M1P 2P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2773799,
+					43.7626599
+				]
+			},
+			"bbox": [
+				-79.2789364,
+				43.7615357,
+				-79.2758234,
+				43.7637841
+			]
+		}
+	]
+}

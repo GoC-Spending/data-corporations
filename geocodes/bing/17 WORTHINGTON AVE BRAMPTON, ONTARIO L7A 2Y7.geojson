@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Worthington Ave, Brampton, ON L7A 2Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7a76102a2ac4ed5b159b700f8f8698f|BN20130530|7.7.0.0|",
+				"addressLine": "17 Worthington Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Worthington Ave, Brampton, ON L7A 2Y7, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L7A 2Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81549,
+					43.6819
+				]
+			},
+			"bbox": [
+				-79.8170444,
+				43.6807758,
+				-79.8139356,
+				43.6830242
+			]
+		}
+	]
+}

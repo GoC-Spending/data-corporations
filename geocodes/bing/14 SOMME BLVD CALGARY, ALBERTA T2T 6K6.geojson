@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14 Somme Blvd SW, Calgary, AB T2T 6K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7a6a458d16b4532a76ac9ed85fef6de|BN20130422|7.7.0.0|",
+				"addressLine": "14 Somme Blvd SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14 Somme Blvd SW, Calgary, AB T2T 6K6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Altadore",
+				"postalCode": "T2T 6K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.11034,
+					51.0204
+				]
+			},
+			"bbox": [
+				-114.1121271,
+				51.0192758,
+				-114.1085529,
+				51.0215242
+			]
+		}
+	]
+}

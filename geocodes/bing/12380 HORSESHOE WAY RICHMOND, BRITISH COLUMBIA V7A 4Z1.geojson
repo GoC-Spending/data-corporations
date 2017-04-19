@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12380 Horseshoe Way, Richmond, BC V7A 4Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d515fd8c04254602b82cd214e5593a6b|BN20240423|7.7.0.0|",
+				"addressLine": "12380 Horseshoe Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12380 Horseshoe Way, Richmond, BC V7A 4Z1, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Shellmont",
+				"postalCode": "V7A 4Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09542,
+					49.12276
+				]
+			},
+			"bbox": [
+				-123.0971377,
+				49.1216358,
+				-123.0937023,
+				49.1238842
+			]
+		}
+	]
+}

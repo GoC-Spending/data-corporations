@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "421 University Ave, Charlottetown, PE C1A 4N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c067210d5414dcd896f1c9b07179f57|BN20130634|7.7.0.0|",
+				"addressLine": "421 University Ave",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "421 University Ave, Charlottetown, PE C1A 4N7, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Spring Park",
+				"postalCode": "C1A 4N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.13615,
+					46.24747
+				]
+			},
+			"bbox": [
+				-63.1377756,
+				46.2463458,
+				-63.1345244,
+				46.2485942
+			]
+		}
+	]
+}

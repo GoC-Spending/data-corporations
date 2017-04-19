@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "370 Rexdale Blvd, Etobicoke, ON M9W 1R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "59f5cc9b0eef497ab44c8c4096801a8b|BN20130521|7.7.0.0|",
+				"addressLine": "370 Rexdale Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "370 Rexdale Blvd, Etobicoke, ON M9W 1R6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 1R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.59042,
+					43.71647
+				]
+			},
+			"bbox": [
+				-79.5919753,
+				43.7153458,
+				-79.5888647,
+				43.7175942
+			]
+		}
+	]
+}

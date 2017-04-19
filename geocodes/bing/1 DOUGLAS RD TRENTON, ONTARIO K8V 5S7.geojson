@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Douglas Rd, Quinte West, ON K8V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2873988098324091bad873e6296998c1|BN20200239|7.7.0.0|",
+				"addressLine": "1 Douglas Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Douglas Rd, Quinte West, ON K8V, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 5S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.5815104,
+					44.128832
+				]
+			},
+			"bbox": [
+				-77.5830765,
+				44.1277079,
+				-77.5799442,
+				44.1299562
+			]
+		}
+	]
+}

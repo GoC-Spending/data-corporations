@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2035 Fisher Dr, Peterborough, ON K9J 6X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fab895f1c99446f9abbba96cf4d78484|BN20130422|7.7.0.0|",
+				"addressLine": "2035 Fisher Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "2035 Fisher Dr, Peterborough, ON K9J 6X6, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 6X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.35182,
+					44.26384
+				]
+			},
+			"bbox": [
+				-78.3533898,
+				44.2627158,
+				-78.3502502,
+				44.2649642
+			]
+		}
+	]
+}

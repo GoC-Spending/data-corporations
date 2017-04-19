@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3311 Millar Ave, Saskatoon, SK S7K 5Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e824438d861248838e02816ef0c3761b|BN20130521|7.7.0.0|",
+				"addressLine": "3311 Millar Ave",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "3311 Millar Ave, Saskatoon, SK S7K 5Y5, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Hudson Bay Industrial",
+				"postalCode": "S7K 5Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.6472,
+					52.1842
+				]
+			},
+			"bbox": [
+				-106.6490335,
+				52.1830758,
+				-106.6453665,
+				52.1853242
+			]
+		}
+	]
+}

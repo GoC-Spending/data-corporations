@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Gibson St, Parry Sound, ON P2A 1X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7747b39855a3450da651784aa93e5592|BN20130625|7.7.0.0|",
+				"addressLine": "80 Gibson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Parry Sound",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Gibson St, Parry Sound, ON P2A 1X3, Canada",
+				"locality": "Parry Sound",
+				"postalCode": "P2A 1X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0351699,
+					45.34794
+				]
+			},
+			"bbox": [
+				-80.0367694,
+				45.3468158,
+				-80.0335704,
+				45.3490642
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "646 Hewitson St, Thunder Bay, ON P7B 6E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89f91a1256fe4620b8436514b599c3cd|BN20130621|7.7.0.0|",
+				"addressLine": "646 Hewitson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "646 Hewitson St, Thunder Bay, ON P7B 6E4, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7B 6E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.2520239,
+					48.4049011
+				]
+			},
+			"bbox": [
+				-89.2537172,
+				48.403777,
+				-89.2503305,
+				48.4060253
+			]
+		}
+	]
+}

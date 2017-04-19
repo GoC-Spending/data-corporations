@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2435 Greenwood Rd, Pembroke, ON K8A 6W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b0baa154ec3486c8c4233362da734ae|BN20130520|7.7.0.0|",
+				"addressLine": "2435 Greenwood Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "2435 Greenwood Rd, Pembroke, ON K8A 6W2, Canada",
+				"locality": "Laurentian Valley",
+				"neighborhood": "Pembroke",
+				"postalCode": "K8A 6W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.05946,
+					45.7906199
+				]
+			},
+			"bbox": [
+				-77.0610722,
+				45.7894957,
+				-77.0578478,
+				45.7917441
+			]
+		}
+	]
+}

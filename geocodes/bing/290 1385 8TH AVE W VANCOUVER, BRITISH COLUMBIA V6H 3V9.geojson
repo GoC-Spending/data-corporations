@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1385 W 8th Ave, Vancouver, BC V6H 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85ac5248e3b74371819e157b7b4b01ce|BN20181720|7.7.0.0|",
+				"addressLine": "1385 W 8th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1385 W 8th Ave, Vancouver, BC V6H 3V9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V6H 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.13558,
+					49.26487
+				]
+			},
+			"bbox": [
+				-123.1373027,
+				49.2637458,
+				-123.1338573,
+				49.2659942
+			]
+		}
+	]
+}

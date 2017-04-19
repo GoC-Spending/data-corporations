@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3611 27 St NE, Calgary, AB T1Y 5E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf78e570e0f346a1a80c4449365c0af9|BN20250135|7.7.0.0|",
+				"addressLine": "3611 27 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3611 27 St NE, Calgary, AB T1Y 5E4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Horizon",
+				"postalCode": "T1Y 5E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.99505,
+					51.08497
+				]
+			},
+			"bbox": [
+				-113.9968396,
+				51.0838458,
+				-113.9932604,
+				51.0860942
+			]
+		}
+	]
+}

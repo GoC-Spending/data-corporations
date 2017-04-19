@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "313 Armadale Ave, Toronto, ON M6S 3X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7937ef73e8d4966ac6ac3ef10f1ae8a|BN20220145|7.7.0.0|",
+				"addressLine": "313 Armadale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "313 Armadale Ave, Toronto, ON M6S 3X5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 3X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48351,
+					43.65184
+				]
+			},
+			"bbox": [
+				-79.4850637,
+				43.6507158,
+				-79.4819563,
+				43.6529642
+			]
+		}
+	]
+}

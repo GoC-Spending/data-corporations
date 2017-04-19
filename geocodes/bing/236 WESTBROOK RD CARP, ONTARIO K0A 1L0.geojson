@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "236 Westbrook Rd, Carp, ON K0A 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4303a270be2c464b94437c89c32325e9|BN20280152|7.7.0.0|",
+				"addressLine": "236 Westbrook Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "236 Westbrook Rd, Carp, ON K0A 1L0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carp",
+				"postalCode": "K0A 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.96148,
+					45.27241
+				]
+			},
+			"bbox": [
+				-75.9630774,
+				45.2712858,
+				-75.9598826,
+				45.2735342
+			]
+		}
+	]
+}

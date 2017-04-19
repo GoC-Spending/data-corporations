@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Stuart St, London, ON N5Y 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4aaab62f9e84694bfced755945cd404|CO30276339|7.7.0.0|",
+				"addressLine": "4 Stuart St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Stuart St, London, ON N5Y 1S1, Canada",
+				"locality": "London",
+				"neighborhood": "Carling",
+				"postalCode": "N5Y 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2214,
+					43.0052
+				]
+			},
+			"bbox": [
+				-81.2229372,
+				43.0040758,
+				-81.2198628,
+				43.0063242
+			]
+		}
+	]
+}

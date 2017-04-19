@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "616 Gardiners Rd, Kingston, ON K7M 9B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39807b5973d44176a8c2d3045fbdd956|BN20300154|7.7.0.0|",
+				"addressLine": "616 Gardiners Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "616 Gardiners Rd, Kingston, ON K7M 9B8, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Gardiners",
+				"postalCode": "K7M 9B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.5676539,
+					44.2431783
+				]
+			},
+			"bbox": [
+				-76.5692231,
+				44.2420542,
+				-76.5660847,
+				44.2443025
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 2nd Ave NW, Swift Current, SK S9H 0P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "964e29ab4da84e7c9f6035704ddf9559|BN20200137|7.7.0.0|",
+				"addressLine": "140 2nd Ave NW",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 2nd Ave NW, Swift Current, SK S9H 0P2, Canada",
+				"locality": "Swift Current",
+				"postalCode": "S9H 0P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-107.80311,
+					50.28413
+				]
+			},
+			"bbox": [
+				-107.8048693,
+				50.2830058,
+				-107.8013507,
+				50.2852542
+			]
+		}
+	]
+}

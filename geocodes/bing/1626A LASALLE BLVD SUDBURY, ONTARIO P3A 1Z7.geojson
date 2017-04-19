@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1626 Lasalle Blvd, Sudbury, ON P3A 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd78291ef4cc42eabd8c0372ed534abb|BN20200239|7.7.0.0|",
+				"addressLine": "1626 Lasalle Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "1626 Lasalle Blvd, Sudbury, ON P3A 1Z7, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3A 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.93747,
+					46.52235
+				]
+			},
+			"bbox": [
+				-80.9391038,
+				46.5212258,
+				-80.9358362,
+				46.5234742
+			]
+		}
+	]
+}

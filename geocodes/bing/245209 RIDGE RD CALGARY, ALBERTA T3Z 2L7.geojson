@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Calgary, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f8b01bb3c094132a87a820e17abfe1c|BN20260223|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Calgary, Alberta, Canada",
+				"locality": "Calgary"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.063011169434,
+					51.0453186035156
+				]
+			},
+			"bbox": [
+				-114.950271606445,
+				50.6940574645996,
+				-113.167610168457,
+				51.3868217468262
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rocky View County, T3Z 2L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f8b01bb3c094132a87a820e17abfe1c|BN20260223|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rocky View County, T3Z 2L7, Canada",
+				"locality": "Rocky View County",
+				"postalCode": "T3Z 2L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.563835144043,
+					51.0904884338379
+				]
+			},
+			"bbox": [
+				-114.5720343537,
+				51.0866257162672,
+				-114.555635934386,
+				51.0943511514086
+			]
+		}
+	]
+}

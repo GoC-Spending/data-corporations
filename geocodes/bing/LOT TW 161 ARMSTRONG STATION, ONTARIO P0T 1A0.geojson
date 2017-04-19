@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Armstrong Station, P0T 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cce878b615ca4de48441f1b15c649a93|BN20200137|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Armstrong Station, P0T 1A0, Canada",
+				"locality": "Armstrong Station",
+				"postalCode": "P0T 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.0420989990234,
+					50.3012313842773
+				]
+			},
+			"bbox": [
+				-89.0501614046212,
+				50.2973686667067,
+				-89.0340365934257,
+				50.305094101848
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "CountryRegion",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Taiwan",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cce878b615ca4de48441f1b15c649a93|BN20200137|7.7.0.0|",
+				"countryRegion": "Taiwan",
+				"formattedAddress": "Taiwan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.897491455078,
+					23.6857891082764
+				]
+			},
+			"bbox": [
+				118.271362304688,
+				21.8977375030518,
+				122.011795043945,
+				26.3859024047852
+			]
+		}
+	]
+}

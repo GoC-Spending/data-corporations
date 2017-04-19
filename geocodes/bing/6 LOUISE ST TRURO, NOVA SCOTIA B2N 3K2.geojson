@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Louise St, Truro, NS B2N 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e76d15713084610a50c587edd1fa891|BN20121763|7.7.0.0|",
+				"addressLine": "6 Louise St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Louise St, Truro, NS B2N 3K2, Canada",
+				"locality": "Truro",
+				"postalCode": "B2N 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.28267,
+					45.3662599
+				]
+			},
+			"bbox": [
+				-63.2842701,
+				45.3651357,
+				-63.2810699,
+				45.3673841
+			]
+		}
+	]
+}

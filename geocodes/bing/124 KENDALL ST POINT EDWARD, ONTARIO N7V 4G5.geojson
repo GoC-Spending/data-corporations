@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 Kendall St, Point Edward, ON N7V 4G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5942868466b4a13bc2ec513d2c84062|BN20131519|7.7.0.0|",
+				"addressLine": "124 Kendall St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 Kendall St, Point Edward, ON N7V 4G5, Canada",
+				"locality": "Point Edward",
+				"postalCode": "N7V 4G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.401952,
+					42.9958363
+				]
+			},
+			"bbox": [
+				-82.403489,
+				42.9947122,
+				-82.400415,
+				42.9969605
+			]
+		}
+	]
+}

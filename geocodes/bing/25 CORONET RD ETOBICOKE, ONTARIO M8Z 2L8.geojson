@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Coronet Rd, Etobicoke, ON M8Z 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bbf412be1984ad6b92900abd7836d04|BN20280152|7.7.0.0|",
+				"addressLine": "25 Coronet Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Coronet Rd, Etobicoke, ON M8Z 2L8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54818,
+					43.62282
+				]
+			},
+			"bbox": [
+				-79.5497329,
+				43.6216958,
+				-79.5466271,
+				43.6239442
+			]
+		}
+	]
+}

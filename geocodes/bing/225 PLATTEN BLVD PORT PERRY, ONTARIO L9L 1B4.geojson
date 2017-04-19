@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Platten Blvd, Port Perry, ON L9L 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e45d5859fb1643a79400e18b0ee5c277|BN20130634|7.7.0.0|",
+				"addressLine": "225 Platten Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Platten Blvd, Port Perry, ON L9L 1B4, Canada",
+				"locality": "Scugog",
+				"neighborhood": "Port Perry",
+				"postalCode": "L9L 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.91254,
+					44.16148
+				]
+			},
+			"bbox": [
+				-78.914107,
+				44.1603558,
+				-78.910973,
+				44.1626042
+			]
+		}
+	]
+}

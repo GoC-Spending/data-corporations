@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 St Regis Cres N, North York, ON M3J 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2830bf23c974bfd8c81cdb778e740e6|BN20240423|7.7.0.0|",
+				"addressLine": "99 St Regis Cres N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 St Regis Cres N, North York, ON M3J 1Y9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48164,
+					43.7567499
+				]
+			},
+			"bbox": [
+				-79.4831964,
+				43.7556257,
+				-79.4800836,
+				43.7578741
+			]
+		}
+	]
+}

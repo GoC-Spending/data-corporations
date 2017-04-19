@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "235 Guelph St, Georgetown, ON L7G 4A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76b641b4d4ca4270bdca5799b3992476|BN20130447|7.7.0.0|",
+				"addressLine": "235 Guelph St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "235 Guelph St, Georgetown, ON L7G 4A8, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8968094,
+					43.6500647
+				]
+			},
+			"bbox": [
+				-79.898363,
+				43.6489405,
+				-79.8952558,
+				43.6511888
+			]
+		}
+	]
+}

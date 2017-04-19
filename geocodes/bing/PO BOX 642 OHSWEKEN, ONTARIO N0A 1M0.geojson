@@ -1,0 +1,113 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ohsweken, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91371c5c67a14279a7837a3e6545abb4|BN20130522|7.7.0.0|",
+				"adminDistrict": "ON",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ohsweken, Ontario, Canada",
+				"locality": "Ohsweken"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1169967651367,
+					43.0670013427734
+				]
+			},
+			"bbox": [
+				-80.1698454941613,
+				43.0380309597809,
+				-80.0641480361121,
+				43.095971725766
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ohsweken, Brant, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91371c5c67a14279a7837a3e6545abb4|BN20130522|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ohsweken, Brant, Ontario, Canada",
+				"locality": "Brant",
+				"neighborhood": "Ohsweken"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1187973022461,
+					43.0690689086914
+				]
+			},
+			"bbox": [
+				-80.1258469213842,
+				43.0652061911207,
+				-80.111747683108,
+				43.0729316262621
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Brant, N0A 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91371c5c67a14279a7837a3e6545abb4|BN20130522|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "Brant, N0A 1M0, Canada",
+				"locality": "Brant",
+				"postalCode": "N0A 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1143798828125,
+					43.0708694458008
+				]
+			},
+			"bbox": [
+				-80.121429709018,
+				43.0670067282301,
+				-80.107330056607,
+				43.0747321633715
+			]
+		}
+	]
+}

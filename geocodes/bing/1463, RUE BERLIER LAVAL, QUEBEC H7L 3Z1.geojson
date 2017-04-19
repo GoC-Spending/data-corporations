@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1463 Rue Berlier, Laval, QC H7L 3Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5415e8fc40784521bdf120ebf67707be|BN20130721|7.7.0.0|",
+				"addressLine": "1463 Rue Berlier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1463 Rue Berlier, Laval, QC H7L 3Z1, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 3Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74317,
+					45.5865
+				]
+			},
+			"bbox": [
+				-73.7447763,
+				45.5853758,
+				-73.7415637,
+				45.5876242
+			]
+		}
+	]
+}

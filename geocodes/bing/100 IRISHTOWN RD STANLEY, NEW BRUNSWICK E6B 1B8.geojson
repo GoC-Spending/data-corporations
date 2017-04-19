@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Irishtown Rd, Stanley, NB E6B 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b73ed3205424a87b372c5dcd9d28b2b|BN20280152|7.7.0.0|",
+				"addressLine": "100 Irishtown Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Irishtown Rd, Stanley, NB E6B 1B8, Canada",
+				"locality": "Stanley",
+				"postalCode": "E6B 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.7307425,
+					46.2820682
+				]
+			},
+			"bbox": [
+				-66.7323691,
+				46.2809441,
+				-66.7291159,
+				46.2831924
+			]
+		}
+	]
+}

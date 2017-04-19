@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1929 Bayview Ave, Toronto, ON M4G 3E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a9aef31575c4f45b3c4097b9bba6236|BN20130447|7.7.0.0|",
+				"addressLine": "1929 Bayview Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1929 Bayview Ave, Toronto, ON M4G 3E8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bridle Path-Sunnybrook-York Mills",
+				"postalCode": "M4G 3E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37748,
+					43.7173299
+				]
+			},
+			"bbox": [
+				-79.3790354,
+				43.7162057,
+				-79.3759246,
+				43.7184541
+			]
+		}
+	]
+}

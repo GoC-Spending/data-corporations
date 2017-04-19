@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Mallard Rd, North York, ON M3B 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c51381a26c3a4e06a4b96d2bd0643783|BN20130625|7.7.0.0|",
+				"addressLine": "24 Mallard Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Mallard Rd, North York, ON M3B 1S1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34895,
+					43.74822
+				]
+			},
+			"bbox": [
+				-79.3505062,
+				43.7470958,
+				-79.3473938,
+				43.7493442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19159 33 Ave, Surrey, BC V3Z 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3d9cd26027e74cd49b5b4501d7ca8ff6|BN20130621|7.7.0.0|",
+				"addressLine": "19159 33 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19159 33 Ave, Surrey, BC V3Z 1A1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V3Z 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6927251,
+					49.0624349
+				]
+			},
+			"bbox": [
+				-122.6944407,
+				49.0613107,
+				-122.6910095,
+				49.0635591
+			]
+		}
+	]
+}

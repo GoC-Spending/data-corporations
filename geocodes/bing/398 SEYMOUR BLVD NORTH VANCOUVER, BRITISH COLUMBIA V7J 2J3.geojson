@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "398 Seymour Blvd, North Vancouver, BC V7J 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "535b93269fde49f6a440e6f755012887|BN20121764|7.7.0.0|",
+				"addressLine": "398 Seymour Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "398 Seymour Blvd, North Vancouver, BC V7J 2J3, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "North Vancouver",
+				"postalCode": "V7J 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0234168,
+					49.3087906
+				]
+			},
+			"bbox": [
+				-123.025141,
+				49.3076665,
+				-123.0216926,
+				49.3099148
+			]
+		}
+	]
+}

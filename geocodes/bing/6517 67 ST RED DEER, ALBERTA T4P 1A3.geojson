@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6517 67 St, Red Deer, AB T4P 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5e84771385a4c4795b10146096eeee5|BN20130533|7.7.0.0|",
+				"addressLine": "6517 67 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6517 67 St, Red Deer, AB T4P 1A3, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4P 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.8439,
+					52.28782
+				]
+			},
+			"bbox": [
+				-113.8457378,
+				52.2866958,
+				-113.8420622,
+				52.2889442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "842 Farewell St, Oshawa, ON L1H 6N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b55e96a8c522420a8d94b511ba023ad8|BN20130621|7.7.0.0|",
+				"addressLine": "842 Farewell St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "842 Farewell St, Oshawa, ON L1H 6N6, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Farewell",
+				"postalCode": "L1H 6N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.82904,
+					43.87863
+				]
+			},
+			"bbox": [
+				-78.8305996,
+				43.8775058,
+				-78.8274804,
+				43.8797542
+			]
+		}
+	]
+}

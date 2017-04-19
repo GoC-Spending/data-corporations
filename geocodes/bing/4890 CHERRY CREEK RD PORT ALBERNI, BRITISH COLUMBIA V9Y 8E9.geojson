@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4890 Cherry Creek Rd, Port Alberni, BC V9Y 8E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab13053481334ecf9659ae6e0c38962d|BN20220145|7.7.0.0|",
+				"addressLine": "4890 Cherry Creek Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Alberni-Clayoquot",
+				"countryRegion": "Canada",
+				"formattedAddress": "4890 Cherry Creek Rd, Port Alberni, BC V9Y 8E9, Canada",
+				"locality": "Port Alberni",
+				"postalCode": "V9Y 8E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.7886981,
+					49.2635353
+				]
+			},
+			"bbox": [
+				-124.7904207,
+				49.2624112,
+				-124.7869755,
+				49.2646595
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "248 Reid St, Quesnel, BC V2J 2M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c3ba901c166412dbc014f6820a257a6|BN20130422|7.7.0.0|",
+				"addressLine": "248 Reid St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cariboo",
+				"countryRegion": "Canada",
+				"formattedAddress": "248 Reid St, Quesnel, BC V2J 2M2, Canada",
+				"locality": "Quesnel",
+				"postalCode": "V2J 2M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.49621,
+					52.97655
+				]
+			},
+			"bbox": [
+				-122.4980769,
+				52.9754258,
+				-122.4943431,
+				52.9776742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "862 Bellister Ave, Nepean, ON K2J 0K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4db716127c5f45eca2b86905912f9be4|BN20130621|7.7.0.0|",
+				"addressLine": "862 Bellister Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "862 Bellister Ave, Nepean, ON K2J 0K8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 0K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.77597,
+					45.26818
+				]
+			},
+			"bbox": [
+				-75.7775673,
+				45.2670558,
+				-75.7743727,
+				45.2693042
+			]
+		}
+	]
+}

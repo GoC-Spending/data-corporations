@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4408 Stone Cres, West Vancouver, BC V7W 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fec23d15901947bd85131d70e817ca9d|BN20220145|7.7.0.0|",
+				"addressLine": "4408 Stone Cres",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4408 Stone Cres, West Vancouver, BC V7W 1B7, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Caulfeild",
+				"postalCode": "V7W 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.24198,
+					49.34174
+				]
+			},
+			"bbox": [
+				-123.2437054,
+				49.3406158,
+				-123.2402546,
+				49.3428642
+			]
+		}
+	]
+}

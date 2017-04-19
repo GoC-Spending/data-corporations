@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "137 Mike Myers Dr, Scarborough, ON M1P 5G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e15be4920c33442ba26e501c0cdb8ff8|BN20320521|7.7.0.0|",
+				"addressLine": "137 Mike Myers Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "137 Mike Myers Dr, Scarborough, ON M1P 5G4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dorset Park",
+				"postalCode": "M1P 5G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27151,
+					43.74913
+				]
+			},
+			"bbox": [
+				-79.2730662,
+				43.7480058,
+				-79.2699538,
+				43.7502542
+			]
+		}
+	]
+}

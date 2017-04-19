@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "360 McMillan Ave, Winnipeg, MB R3L 0N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4a3b49922d2c46bbbc4b908af1be29f8|BN20190653|7.7.0.0|",
+				"addressLine": "360 McMillan Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "360 McMillan Ave, Winnipeg, MB R3L 0N2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River-Osborne",
+				"postalCode": "R3L 0N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13978,
+					49.87607
+				]
+			},
+			"bbox": [
+				-97.1415244,
+				49.8749458,
+				-97.1380356,
+				49.8771942
+			]
+		}
+	]
+}

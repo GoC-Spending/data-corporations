@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 James St S, Hamilton, ON L8P 4R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "394cf56a100043c8a3d81b01880757e4|BN20260231|7.7.0.0|",
+				"addressLine": "1 James St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 James St S, Hamilton, ON L8P 4R5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Beasley",
+				"postalCode": "L8P 4R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86918,
+					43.25597
+				]
+			},
+			"bbox": [
+				-79.8707235,
+				43.2548458,
+				-79.8676365,
+				43.2570942
+			]
+		}
+	]
+}

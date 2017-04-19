@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 George St W, Ottawa, ON K1S 3J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2710629a816244dda1310b4c51c329b4|BN20130422|7.7.0.0|",
+				"addressLine": "31 George St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 George St W, Ottawa, ON K1S 3J1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "West Centre Town-Little Italy-Civic",
+				"postalCode": "K1S 3J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7114,
+					45.40186
+				]
+			},
+			"bbox": [
+				-75.7130011,
+				45.4007358,
+				-75.7097989,
+				45.4029842
+			]
+		}
+	]
+}

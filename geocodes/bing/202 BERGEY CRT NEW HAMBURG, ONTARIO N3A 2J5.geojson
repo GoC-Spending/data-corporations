@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "202 Bergey Ct, New Hamburg, ON N3A 2J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af5f38ab18ed4f339de79481c94b2858|BN20130632|7.7.0.0|",
+				"addressLine": "202 Bergey Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "202 Bergey Ct, New Hamburg, ON N3A 2J5, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "New Hamburg",
+				"postalCode": "N3A 2J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.6984017,
+					43.3750654
+				]
+			},
+			"bbox": [
+				-80.6999482,
+				43.3739413,
+				-80.6968551,
+				43.3761896
+			]
+		}
+	]
+}

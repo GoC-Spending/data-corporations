@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Rue Deveault, Gatineau, QC J8Z 1S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "473b3a0e175f4bb2b33b7c75cbc16fae|BN20121763|7.7.0.0|",
+				"addressLine": "250 Rue Deveault",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Rue Deveault, Gatineau, QC J8Z 1S6, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8Z 1S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7371299,
+					45.46225
+				]
+			},
+			"bbox": [
+				-75.7387327,
+				45.4611258,
+				-75.7355271,
+				45.4633742
+			]
+		}
+	]
+}

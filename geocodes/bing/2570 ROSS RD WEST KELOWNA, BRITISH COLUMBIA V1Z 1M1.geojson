@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2570 Ross Rd, West Kelowna, BC V1Z 1M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99866e2edfa147d88f85b523d3c90e43|BN20190642|7.7.0.0|",
+				"addressLine": "2570 Ross Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2570 Ross Rd, West Kelowna, BC V1Z 1M1, Canada",
+				"locality": "West Kelowna",
+				"postalCode": "V1Z 1M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.57632,
+					49.8630799
+				]
+			},
+			"bbox": [
+				-119.5780639,
+				49.8619557,
+				-119.5745761,
+				49.8642041
+			]
+		}
+	]
+}

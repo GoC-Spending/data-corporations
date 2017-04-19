@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "328 Somerset St W, Ottawa, ON K2P 0J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be9491a91a8c4829b8fbb3bf2fcdbd80|BN20121763|7.7.0.0|",
+				"addressLine": "328 Somerset St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "328 Somerset St W, Ottawa, ON K2P 0J9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K2P 0J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6954073,
+					45.415622
+				]
+			},
+			"bbox": [
+				-75.6970087,
+				45.4144979,
+				-75.6938058,
+				45.4167462
+			]
+		}
+	]
+}

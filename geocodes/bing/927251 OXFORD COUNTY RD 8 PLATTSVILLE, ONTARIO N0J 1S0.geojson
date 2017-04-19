@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Plattsville, N0J 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e85eab0ecb0548489e64ed6c4db4c86e|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "Plattsville, N0J 1S0, Canada",
+				"locality": "Plattsville",
+				"postalCode": "N0J 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.6168518066406,
+					43.3088531494141
+				]
+			},
+			"bbox": [
+				-80.6239291708741,
+				43.3049904318434,
+				-80.6097744424071,
+				43.3127158669847
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "AdminDivision2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Oxford, ME",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e85eab0ecb0548489e64ed6c4db4c86e|BN20130423|7.7.0.0|",
+				"adminDistrict": "ME",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "United States",
+				"formattedAddress": "Oxford, ME"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.7566070556641,
+					44.4996490478516
+				]
+			},
+			"bbox": [
+				-71.084342956543,
+				43.7850189208984,
+				-70.2388381958008,
+				45.347339630127
+			]
+		}
+	]
+}

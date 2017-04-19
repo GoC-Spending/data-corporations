@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26777 Gloucester Way, Langley, BC V4W 3X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc8f4b9b97df474f9007586cf36c8d64|BN20131519|7.7.0.0|",
+				"addressLine": "26777 Gloucester Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "26777 Gloucester Way, Langley, BC V4W 3X6, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V4W 3X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.4836316,
+					49.1009113
+				]
+			},
+			"bbox": [
+				-122.4853486,
+				49.0997872,
+				-122.4819147,
+				49.1020355
+			]
+		}
+	]
+}

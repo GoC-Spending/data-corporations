@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Northline Rd, East York, ON M4B 3E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0f7aa1d7bb44d3f9765538e29b276de|BN20130532|7.7.0.0|",
+				"addressLine": "50 Northline Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Northline Rd, East York, ON M4B 3E2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "O'Connor-Parkview",
+				"postalCode": "M4B 3E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31343,
+					43.71542
+				]
+			},
+			"bbox": [
+				-79.3149853,
+				43.7142958,
+				-79.3118747,
+				43.7165442
+			]
+		}
+	]
+}

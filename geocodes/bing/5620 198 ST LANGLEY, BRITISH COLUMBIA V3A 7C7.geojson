@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5620 198 St, Langley, BC V3A 7C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6556d34edc74f8f91f83290ef221f1c|BN20240423|7.7.0.0|",
+				"addressLine": "5620 198 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5620 198 St, Langley, BC V3A 7C7, Canada",
+				"locality": "Langley",
+				"neighborhood": "Nicomeki",
+				"postalCode": "V3A 7C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6730963,
+					49.1046675
+				]
+			},
+			"bbox": [
+				-122.6748134,
+				49.1035434,
+				-122.6713792,
+				49.1057917
+			]
+		}
+	]
+}

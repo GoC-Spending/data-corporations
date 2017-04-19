@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "478 Hamilton Ave, Nanaimo, BC V9R 4E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e68310898d4044a38eefa2b2df60d4fb|BN20130422|7.7.0.0|",
+				"addressLine": "478 Hamilton Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "478 Hamilton Ave, Nanaimo, BC V9R 4E9, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 4E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.94514,
+					49.15599
+				]
+			},
+			"bbox": [
+				-123.9468589,
+				49.1548658,
+				-123.9434211,
+				49.1571142
+			]
+		}
+	]
+}

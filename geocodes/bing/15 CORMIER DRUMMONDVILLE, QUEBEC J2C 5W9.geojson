@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Rue Cormier, Drummondville, QC J2C 5W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db2dd25539464221b391c838c2b7e968|BN20300154|7.7.0.0|",
+				"addressLine": "15 Rue Cormier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Drummond",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Rue Cormier, Drummondville, QC J2C 5W9, Canada",
+				"locality": "Drummondville",
+				"postalCode": "J2C 5W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.5303799,
+					45.89647
+				]
+			},
+			"bbox": [
+				-72.5319952,
+				45.8953458,
+				-72.5287646,
+				45.8975942
+			]
+		}
+	]
+}

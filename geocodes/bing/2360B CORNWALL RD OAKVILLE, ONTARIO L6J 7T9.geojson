@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2360 Cornwall Rd, Oakville, ON L6J 7T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb7bb448241d440ca25e0ce2ca8315eb|BN20130447|7.7.0.0|",
+				"addressLine": "2360 Cornwall Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2360 Cornwall Rd, Oakville, ON L6J 7T9, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Ford",
+				"postalCode": "L6J 7T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64692,
+					43.49051
+				]
+			},
+			"bbox": [
+				-79.6484695,
+				43.4893858,
+				-79.6453705,
+				43.4916342
+			]
+		}
+	]
+}

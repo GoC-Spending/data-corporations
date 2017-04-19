@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7260 Winston St, Burnaby, BC V5A 4N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8992266a306442358089c90693d96dbd|BN20210145|7.7.0.0|",
+				"addressLine": "7260 Winston St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7260 Winston St, Burnaby, BC V5A 4N2, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Government Road",
+				"postalCode": "V5A 4N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9525428,
+					49.2498651
+				]
+			},
+			"bbox": [
+				-122.9542649,
+				49.2487409,
+				-122.9508207,
+				49.2509893
+			]
+		}
+	]
+}

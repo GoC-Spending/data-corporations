@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Baldwin St N, Whitby, ON L1M 0K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25bc53f8c7d4425f858399ffe74eea54|BN20121764|7.7.0.0|",
+				"addressLine": "15 Baldwin St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Baldwin St N, Whitby, ON L1M 0K8, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1M 0K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.961579,
+					43.9547518
+				]
+			},
+			"bbox": [
+				-78.9631406,
+				43.9536276,
+				-78.9600174,
+				43.9558759
+			]
+		}
+	]
+}

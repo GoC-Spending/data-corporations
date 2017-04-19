@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "495 Banks Rd, Kelowna, BC V1X 6A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d5a9687e2b4844a184ebf76a00a5e74e|BN20280152|7.7.0.0|",
+				"addressLine": "495 Banks Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "495 Banks Rd, Kelowna, BC V1X 6A2, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Central City",
+				"postalCode": "V1X 6A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.42109,
+					49.88337
+				]
+			},
+			"bbox": [
+				-119.4228346,
+				49.8822458,
+				-119.4193454,
+				49.8844942
+			]
+		}
+	]
+}

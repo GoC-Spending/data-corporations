@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3256 Sharp Rd, Burlington, ON L7M 0J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cfcbf1ced8fb468c8505a03c5afd596c|BN20200239|7.7.0.0|",
+				"addressLine": "3256 Sharp Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3256 Sharp Rd, Burlington, ON L7M 0J4, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Alton North",
+				"postalCode": "L7M 0J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81734,
+					43.4072699
+				]
+			},
+			"bbox": [
+				-79.8188874,
+				43.4061457,
+				-79.8157926,
+				43.4083941
+			]
+		}
+	]
+}

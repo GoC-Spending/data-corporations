@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2844 Bainbridge Ave, Burnaby, BC V5A 3W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7687748446a74936bbffec2b8197e1ee|BN20130522|7.7.0.0|",
+				"addressLine": "2844 Bainbridge Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2844 Bainbridge Ave, Burnaby, BC V5A 3W7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Sperling-Broadway",
+				"postalCode": "V5A 3W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9557971,
+					49.2590755
+				]
+			},
+			"bbox": [
+				-122.9575196,
+				49.2579514,
+				-122.9540747,
+				49.2601997
+			]
+		}
+	]
+}

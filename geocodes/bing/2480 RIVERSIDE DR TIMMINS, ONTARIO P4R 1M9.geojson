@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2480 Riverside Dr, Timmins, ON P4R 1M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70ba01d4e095415e937aa8edfac03323|BN20160335|7.7.0.0|",
+				"addressLine": "2480 Riverside Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "2480 Riverside Dr, Timmins, ON P4R 1M9, Canada",
+				"locality": "Timmins",
+				"postalCode": "P4R 1M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4202661,
+					48.4708325
+				]
+			},
+			"bbox": [
+				-81.4219616,
+				48.4697084,
+				-81.4185705,
+				48.4719567
+			]
+		}
+	]
+}

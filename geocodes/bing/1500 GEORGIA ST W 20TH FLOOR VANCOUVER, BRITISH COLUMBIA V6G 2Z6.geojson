@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1500 W Georgia St, Vancouver, BC V6G 2Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e3d121032be94fa39d96d11801608f34|BN20160335|7.7.0.0|",
+				"addressLine": "1500 W Georgia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1500 W Georgia St, Vancouver, BC V6G 2Z6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6G 2Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.13035,
+					49.28994
+				]
+			},
+			"bbox": [
+				-123.1320735,
+				49.2888158,
+				-123.1286265,
+				49.2910642
+			]
+		}
+	]
+}

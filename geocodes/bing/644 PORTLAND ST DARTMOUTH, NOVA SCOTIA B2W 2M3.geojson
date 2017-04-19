@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "644 Portland St, Dartmouth, NS B2W 2M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "67a75b96f6a64fca8d1b9f3e5fb19f4a|BN20130442|7.7.0.0|",
+				"addressLine": "644 Portland St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "644 Portland St, Dartmouth, NS B2W 2M3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2W 2M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.52561,
+					44.67057
+				]
+			},
+			"bbox": [
+				-63.5271907,
+				44.6694458,
+				-63.5240293,
+				44.6716942
+			]
+		}
+	]
+}

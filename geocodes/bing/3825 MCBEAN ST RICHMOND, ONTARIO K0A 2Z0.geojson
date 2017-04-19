@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3825 McBean St, Richmond, ON K0A 2Z0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a78bc1887e542f8b0aed5364e1e2d72|BN20130447|7.7.0.0|",
+				"addressLine": "3825 McBean St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3825 McBean St, Richmond, ON K0A 2Z0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Richmond",
+				"postalCode": "K0A 2Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.82199,
+					45.1813999
+				]
+			},
+			"bbox": [
+				-75.8235848,
+				45.1802757,
+				-75.8203952,
+				45.1825241
+			]
+		}
+	]
+}

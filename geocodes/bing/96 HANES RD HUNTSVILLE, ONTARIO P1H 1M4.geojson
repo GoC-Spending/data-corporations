@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "96 Hanes Rd, Huntsville, ON P1H 2P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c01efe3db4134dfa9d96ad00f9018722|BN20181720|7.7.0.0|",
+				"addressLine": "96 Hanes Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "96 Hanes Rd, Huntsville, ON P1H 2P6, Canada",
+				"locality": "Huntsville",
+				"postalCode": "P1H 2P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.234,
+					45.33617
+				]
+			},
+			"bbox": [
+				-79.2355992,
+				45.3350458,
+				-79.2324008,
+				45.3372942
+			]
+		}
+	]
+}

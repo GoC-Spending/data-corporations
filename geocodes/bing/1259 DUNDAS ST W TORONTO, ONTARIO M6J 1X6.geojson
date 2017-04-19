@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1259 Dundas St W, Toronto, ON M6J 1X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06132853d9bc4b27bf5e323e949ecd9d|BN20130520|7.7.0.0|",
+				"addressLine": "1259 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1259 Dundas St W, Toronto, ON M6J 1X6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 1X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42422,
+					43.64923
+				]
+			},
+			"bbox": [
+				-79.4257736,
+				43.6481058,
+				-79.4226664,
+				43.6503542
+			]
+		}
+	]
+}

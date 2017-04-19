@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Queen St E, Brampton, ON L6V 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43a201df85c54ba7921ce9baeae9d385|BN20131519|7.7.0.0|",
+				"addressLine": "20 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Queen St E, Brampton, ON L6V 1A2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6V 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75941,
+					43.68663
+				]
+			},
+			"bbox": [
+				-79.7609646,
+				43.6855058,
+				-79.7578554,
+				43.6877542
+			]
+		}
+	]
+}

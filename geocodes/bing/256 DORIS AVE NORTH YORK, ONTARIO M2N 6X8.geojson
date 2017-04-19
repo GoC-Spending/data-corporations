@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "256 Doris Ave, North York, ON M2N 6X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be83bd190a2545b8a886f668389c9081|BN20181720|7.7.0.0|",
+				"addressLine": "256 Doris Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "256 Doris Ave, North York, ON M2N 6X8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 6X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41209,
+					43.7716
+				]
+			},
+			"bbox": [
+				-79.4136468,
+				43.7704758,
+				-79.4105332,
+				43.7727242
+			]
+		}
+	]
+}

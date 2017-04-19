@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "660 Caldew St, Delta, BC V3M 5S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c9d9b73c16f4db8ae570044f8850d16|BN20121764|7.7.0.0|",
+				"addressLine": "660 Caldew St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "660 Caldew St, Delta, BC V3M 5S2, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 5S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9322895,
+					49.1780401
+				]
+			},
+			"bbox": [
+				-122.9340091,
+				49.1769159,
+				-122.9305698,
+				49.1791642
+			]
+		}
+	]
+}

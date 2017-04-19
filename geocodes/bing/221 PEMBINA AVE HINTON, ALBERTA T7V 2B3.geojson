@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 Pembina Ave, Hinton, AB T7V 2B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1cc30e7ff5f46fda1e3240c590db391|BN20260223|7.7.0.0|",
+				"addressLine": "221 Pembina Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 Pembina Ave, Hinton, AB T7V 2B3, Canada",
+				"locality": "Hinton",
+				"postalCode": "T7V 2B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.5916497,
+					53.3980687
+				]
+			},
+			"bbox": [
+				-117.593535,
+				53.3969446,
+				-117.5897643,
+				53.3991929
+			]
+		}
+	]
+}

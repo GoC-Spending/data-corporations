@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 Park St, Moncton, NB E1C 2B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "84aae750fcef42d399297e2062b123c9|BN20130719|7.7.0.0|",
+				"addressLine": "132 Park St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 Park St, Moncton, NB E1C 2B5, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 2B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.78743,
+					46.0913899
+				]
+			},
+			"bbox": [
+				-64.789051,
+				46.0902657,
+				-64.785809,
+				46.0925141
+			]
+		}
+	]
+}

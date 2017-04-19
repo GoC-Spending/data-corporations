@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 Cedar St, Sudbury, ON P3E 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c99ef9ed359048c987c00697c50e37b6|BN20130632|7.7.0.0|",
+				"addressLine": "124 Cedar St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 Cedar St, Sudbury, ON P3E 1B4, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3E 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9922352,
+					46.4923649
+				]
+			},
+			"bbox": [
+				-80.993868,
+				46.4912407,
+				-80.9906023,
+				46.493489
+			]
+		}
+	]
+}

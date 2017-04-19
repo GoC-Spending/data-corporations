@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "422 Seaman St, Stoney Creek, ON L8E 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83261bfb027343cb931dd4a9121fa584|BN20130533|7.7.0.0|",
+				"addressLine": "422 Seaman St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "422 Seaman St, Stoney Creek, ON L8E 3P3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71592,
+					43.23308
+				]
+			},
+			"bbox": [
+				-79.7174629,
+				43.2319558,
+				-79.7143771,
+				43.2342042
+			]
+		}
+	]
+}

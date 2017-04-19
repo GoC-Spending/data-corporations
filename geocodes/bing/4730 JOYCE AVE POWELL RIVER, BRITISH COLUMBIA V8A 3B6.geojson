@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4730 Joyce Ave, Powell River, BC V8A 3B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "88aecbe5386f4c87aeef4e5ebad983cd|BN20130521|7.7.0.0|",
+				"addressLine": "4730 Joyce Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Powell River",
+				"countryRegion": "Canada",
+				"formattedAddress": "4730 Joyce Ave, Powell River, BC V8A 3B6, Canada",
+				"locality": "Powell River",
+				"postalCode": "V8A 3B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.5205507,
+					49.8438972
+				]
+			},
+			"bbox": [
+				-124.5222939,
+				49.8427731,
+				-124.5188075,
+				49.8450214
+			]
+		}
+	]
+}

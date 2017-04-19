@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Scott Ave, Paris, ON N3L 3K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6536d30fe9a94726a4fce56c0e802daf|BN20130625|7.7.0.0|",
+				"addressLine": "105 Scott Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Scott Ave, Paris, ON N3L 3K4, Canada",
+				"locality": "Brant",
+				"neighborhood": "Paris",
+				"postalCode": "N3L 3K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.40017,
+					43.2121
+				]
+			},
+			"bbox": [
+				-80.4017124,
+				43.2109758,
+				-80.3986276,
+				43.2132242
+			]
+		}
+	]
+}

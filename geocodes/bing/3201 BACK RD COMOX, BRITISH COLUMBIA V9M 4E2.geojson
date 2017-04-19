@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3201 Back Rd, Comox, BC V9M 4E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ceb1af103a9b443ab7ffc7cd40cb4fdb|BN20181720|7.7.0.0|",
+				"addressLine": "3201 Back Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3201 Back Rd, Comox, BC V9M 4E2, Canada",
+				"locality": "Comox Valley",
+				"neighborhood": "Comox",
+				"postalCode": "V9M 4E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.9505824,
+					49.6791794
+				]
+			},
+			"bbox": [
+				-124.9523197,
+				49.6780553,
+				-124.9488451,
+				49.6803036
+			]
+		}
+	]
+}

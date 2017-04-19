@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Depew St, Hamilton, ON L8L 7H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd7a8fb8629c4e9b9097b711055ae487|BN20130522|7.7.0.0|",
+				"addressLine": "20 Depew St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Depew St, Hamilton, ON L8L 7H8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector D",
+				"postalCode": "L8L 7H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81878,
+					43.2576899
+				]
+			},
+			"bbox": [
+				-79.8203236,
+				43.2565657,
+				-79.8172364,
+				43.2588141
+			]
+		}
+	]
+}

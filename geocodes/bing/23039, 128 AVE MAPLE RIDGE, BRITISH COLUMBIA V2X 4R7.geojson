@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23039 128 Ave, Maple Ridge, BC V2X 4R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b28f164133d74a3297043c370f3bda83|BN20130634|7.7.0.0|",
+				"addressLine": "23039 128 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "23039 128 Ave, Maple Ridge, BC V2X 4R7, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 4R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.58452,
+					49.23541
+				]
+			},
+			"bbox": [
+				-122.5862416,
+				49.2342858,
+				-122.5827984,
+				49.2365342
+			]
+		}
+	]
+}

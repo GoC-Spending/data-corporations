@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5360 Ritchie Rd, MacKenzie, BC V0J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81a753718987487fac3c34a96fa6562d|BN20260223|7.7.0.0|",
+				"addressLine": "5360 Ritchie Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "5360 Ritchie Rd, MacKenzie, BC V0J, Canada",
+				"locality": "MacKenzie",
+				"postalCode": "V0J 2C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1519361,
+					55.3098885
+				]
+			},
+			"bbox": [
+				-123.1539112,
+				55.3087644,
+				-123.1499609,
+				55.3110127
+			]
+		}
+	]
+}

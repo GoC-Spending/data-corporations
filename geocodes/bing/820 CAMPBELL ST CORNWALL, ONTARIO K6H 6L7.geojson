@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "820 Campbell St, Cornwall, ON K6H 6L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fc76af244a64d6ebfc5a2eaa954cd31|BN20130532|7.7.0.0|",
+				"addressLine": "820 Campbell St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "820 Campbell St, Cornwall, ON K6H 6L7, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6H 6L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.69206,
+					45.04164
+				]
+			},
+			"bbox": [
+				-74.6936509,
+				45.0405158,
+				-74.6904691,
+				45.0427642
+			]
+		}
+	]
+}

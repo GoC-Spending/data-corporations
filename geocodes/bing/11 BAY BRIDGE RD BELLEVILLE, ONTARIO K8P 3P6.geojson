@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Bay Bridge Rd, Belleville, ON K8P 3P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c4e6244f21b44639381b1db97cbfaee|BN20200137|7.7.0.0|",
+				"addressLine": "11 Bay Bridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Bay Bridge Rd, Belleville, ON K8P 3P6, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8P 3P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3886395,
+					44.1540669
+				]
+			},
+			"bbox": [
+				-77.3902063,
+				44.1529427,
+				-77.3870727,
+				44.155191
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "251 Mill Rd, Moncton, NB E1A 4A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39ce3bb01b1b4763b9fa8db331d21263|BN20300154|7.7.0.0|",
+				"addressLine": "251 Mill Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "251 Mill Rd, Moncton, NB E1A 4A7, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1A 4A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.77056,
+					46.11273
+				]
+			},
+			"bbox": [
+				-64.7721816,
+				46.1116058,
+				-64.7689384,
+				46.1138542
+			]
+		}
+	]
+}

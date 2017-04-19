@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Avenue Pl, Welland, ON L3B 4B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e1ef1f911e5a40f8906c727500d92fcb|BN20190642|7.7.0.0|",
+				"addressLine": "17 Avenue Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Avenue Pl, Welland, ON L3B 4B2, Canada",
+				"locality": "Welland",
+				"postalCode": "L3B 4B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25012,
+					42.99
+				]
+			},
+			"bbox": [
+				-79.2516568,
+				42.9888758,
+				-79.2485832,
+				42.9911242
+			]
+		}
+	]
+}

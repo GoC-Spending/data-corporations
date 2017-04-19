@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Nanaimo, V9T 6M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f541bdf8852b4de19688a5b5347fe0de|BN20260223|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Nanaimo, V9T 6M7, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9T 6M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.936157226563,
+					49.164249420166
+				]
+			},
+			"bbox": [
+				-123.94403296442,
+				49.1603867025953,
+				-123.928281488705,
+				49.1681121377367
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 2,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Mentor, KY 41007",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f541bdf8852b4de19688a5b5347fe0de|BN20260223|7.7.0.0|",
+				"adminDistrict": "KY",
+				"adminDistrict2": "Campbell",
+				"countryRegion": "United States",
+				"formattedAddress": "Mentor, KY 41007",
+				"locality": "Mentor",
+				"postalCode": "41007"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.2928009033203,
+					38.9056854248047
+				]
+			},
+			"bbox": [
+				-84.3942031860352,
+				38.8133010864258,
+				-84.2305297851563,
+				38.9873504638672
+			]
+		}
+	]
+}

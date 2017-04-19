@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3630 Brentwood Rd NW, Calgary, AB T2L 1K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9370d44a4fd14de2a038020b665d4484|BN20130521|7.7.0.0|",
+				"addressLine": "3630 Brentwood Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3630 Brentwood Rd NW, Calgary, AB T2L 1K8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Brentwood",
+				"postalCode": "T2L 1K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.1269,
+					51.0850099
+				]
+			},
+			"bbox": [
+				-114.1286896,
+				51.0838857,
+				-114.1251104,
+				51.0861341
+			]
+		}
+	]
+}

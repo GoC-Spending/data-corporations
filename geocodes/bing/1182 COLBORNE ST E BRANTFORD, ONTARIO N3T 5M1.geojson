@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1182 Colborne St E, Brantford, ON N3T 5M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ade2887ab8174ec187c2248350d842bb|BN20200239|7.7.0.0|",
+				"addressLine": "1182 Colborne St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "1182 Colborne St E, Brantford, ON N3T 5M1, Canada",
+				"locality": "Brant",
+				"neighborhood": "Brantford",
+				"postalCode": "N3T 5M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1946878,
+					43.1474146
+				]
+			},
+			"bbox": [
+				-80.1962285,
+				43.1462904,
+				-80.193147,
+				43.1485388
+			]
+		}
+	]
+}

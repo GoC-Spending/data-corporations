@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "87 Caster Ave, Woodbridge, ON L4L 5Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a833c6462e1437abd035a80c0e7e660|BN20160335|7.7.0.0|",
+				"addressLine": "87 Caster Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "87 Caster Ave, Woodbridge, ON L4L 5Z2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 5Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.55865,
+					43.78363
+				]
+			},
+			"bbox": [
+				-79.5602071,
+				43.7825058,
+				-79.5570929,
+				43.7847542
+			]
+		}
+	]
+}

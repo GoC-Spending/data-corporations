@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "877 Hutchinson Rd, Cobble Hill, BC V0R 1L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "57fbf6b45ca8451fa99832d6ec145183|BN20160335|7.7.0.0|",
+				"addressLine": "877 Hutchinson Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "877 Hutchinson Rd, Cobble Hill, BC V0R 1L4, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Cobble Hill",
+				"postalCode": "V0R 1L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5631232,
+					48.686791
+				]
+			},
+			"bbox": [
+				-123.564826,
+				48.6856668,
+				-123.5614204,
+				48.6879151
+			]
+		}
+	]
+}

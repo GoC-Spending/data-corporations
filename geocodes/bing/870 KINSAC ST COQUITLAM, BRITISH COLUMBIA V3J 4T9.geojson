@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "870 Kinsac St, Coquitlam, BC V3J 4T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "103f74ca27a74888b2d59653003432b0|BN20130632|7.7.0.0|",
+				"addressLine": "870 Kinsac St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "870 Kinsac St, Coquitlam, BC V3J 4T9, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cariboo/Burquitlam",
+				"postalCode": "V3J 4T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87038,
+					49.2667
+				]
+			},
+			"bbox": [
+				-122.8721027,
+				49.2655758,
+				-122.8686573,
+				49.2678242
+			]
+		}
+	]
+}

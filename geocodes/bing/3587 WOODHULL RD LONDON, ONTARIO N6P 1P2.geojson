@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3587 Woodhull Rd, London, ON N6P 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dad3178eab4747a18a54dbf1921aab75|CO30324209|7.7.0.0|",
+				"addressLine": "3587 Woodhull Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3587 Woodhull Rd, London, ON N6P 1P2, Canada",
+				"locality": "Middlesex Centre",
+				"neighborhood": "London",
+				"postalCode": "N6P 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3602179,
+					42.915501
+				]
+			},
+			"bbox": [
+				-81.3617528,
+				42.9143768,
+				-81.3586829,
+				42.9166251
+			]
+		}
+	]
+}

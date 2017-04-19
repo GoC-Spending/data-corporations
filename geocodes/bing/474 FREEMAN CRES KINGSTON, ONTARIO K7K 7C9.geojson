@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "474 Freeman Cres, Kingston, ON K7K 7C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "72b0fb1744534bfdbbaae32e9709e269|BN20130532|7.7.0.0|",
+				"addressLine": "474 Freeman Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "474 Freeman Cres, Kingston, ON K7K 7C9, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Greenwood Park/St Lawrence South",
+				"postalCode": "K7K 7C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.45011,
+					44.2680099
+				]
+			},
+			"bbox": [
+				-76.4516799,
+				44.2668857,
+				-76.4485401,
+				44.2691341
+			]
+		}
+	]
+}

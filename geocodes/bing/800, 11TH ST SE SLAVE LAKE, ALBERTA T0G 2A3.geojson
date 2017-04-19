@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "800 11 St SE, Slave Lake, AB T0G 2A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16c97914e5094e2eb3435bb3cbbe5af5|BN20160335|7.7.0.0|",
+				"addressLine": "800 11 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "800 11 St SE, Slave Lake, AB T0G 2A3, Canada",
+				"locality": "Slave Lake",
+				"postalCode": "T0G 2A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.76084,
+					55.27375
+				]
+			},
+			"bbox": [
+				-114.7628134,
+				55.2726258,
+				-114.7588666,
+				55.2748742
+			]
+		}
+	]
+}

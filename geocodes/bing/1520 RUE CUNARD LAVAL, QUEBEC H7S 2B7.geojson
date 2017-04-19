@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1520 Rue Cunard, Laval, QC H7S 2B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74aae9c1640e428e89db8764d0b825fa|BN20121762|7.7.0.0|",
+				"addressLine": "1520 Rue Cunard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1520 Rue Cunard, Laval, QC H7S 2B7, Canada",
+				"locality": "Laval",
+				"neighborhood": "Renaud",
+				"postalCode": "H7S 2B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.73566,
+					45.57976
+				]
+			},
+			"bbox": [
+				-73.7372661,
+				45.5786358,
+				-73.7340539,
+				45.5808842
+			]
+		}
+	]
+}

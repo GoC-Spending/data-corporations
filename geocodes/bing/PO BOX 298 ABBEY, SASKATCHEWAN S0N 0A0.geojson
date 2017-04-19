@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Abbey, S0N 0A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71034fe82ded4b659faa518d0f4b04f6|BN20130431|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Abbey, S0N 0A0, Canada",
+				"locality": "Abbey",
+				"postalCode": "S0N 0A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-108.756690979004,
+					50.736141204834
+				]
+			},
+			"bbox": [
+				-108.764828007651,
+				50.7322784872633,
+				-108.748553950357,
+				50.7400039224047
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "298",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71034fe82ded4b659faa518d0f4b04f6|BN20130431|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "298",
+				"postalCode": "298"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.5847091674805,
+					33.4457511901855
+				]
+			},
+			"bbox": [
+				-82.5944213867188,
+				32.7448196411133,
+				-81.0738220214844,
+				34.1466827392578
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "175 Eloy Rd, North Bay, ON P1B 9T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd0860cf0cbf43269317b45bdefcdad5|BN20130442|7.7.0.0|",
+				"addressLine": "175 Eloy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "175 Eloy Rd, North Bay, ON P1B 9T9, Canada",
+				"locality": "North Bay",
+				"postalCode": "P1B 9T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49135,
+					46.33141
+				]
+			},
+			"bbox": [
+				-79.4929781,
+				46.3302858,
+				-79.4897219,
+				46.3325342
+			]
+		}
+	]
+}

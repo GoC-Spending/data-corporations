@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3000 28th St, Vernon, BC V1T 9W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58be6dd511e74fe9a3f397c3698775ee|BN20190653|7.7.0.0|",
+				"addressLine": "3000 28th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "3000 28th St, Vernon, BC V1T 9W9, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 9W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.26825,
+					50.26465
+				]
+			},
+			"bbox": [
+				-119.2700086,
+				50.2635258,
+				-119.2664914,
+				50.2657742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 Convent St, South Bruce, ON N0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7060a05487e14cafaef8f2af0410c75f|BN20121763|7.7.0.0|",
+				"addressLine": "9 Convent St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 Convent St, South Bruce, ON N0G, Canada",
+				"locality": "South Bruce",
+				"neighborhood": "Formosa",
+				"postalCode": "N0G 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.21296,
+					44.06636
+				]
+			},
+			"bbox": [
+				-81.2145245,
+				44.0652358,
+				-81.2113955,
+				44.0674842
+			]
+		}
+	]
+}

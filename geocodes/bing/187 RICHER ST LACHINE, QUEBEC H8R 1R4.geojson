@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "187 Rue Richer, Lachine, QC H8R 1R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81ac2475bd134a818de8e7b2b8b04f58|BN20181720|7.7.0.0|",
+				"addressLine": "187 Rue Richer",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "187 Rue Richer, Lachine, QC H8R 1R4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8R 1R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.66578,
+					45.45038
+				]
+			},
+			"bbox": [
+				-73.6673824,
+				45.4492558,
+				-73.6641776,
+				45.4515042
+			]
+		}
+	]
+}

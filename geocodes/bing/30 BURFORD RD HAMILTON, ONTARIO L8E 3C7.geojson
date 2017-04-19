@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Burford Rd, Hamilton, ON L8E 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcde17d37fd644a1af29d14478aeb740|BN20130431|7.7.0.0|",
+				"addressLine": "30 Burford Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Burford Rd, Hamilton, ON L8E 3C7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Grayside",
+				"postalCode": "L8E 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73797,
+					43.23918
+				]
+			},
+			"bbox": [
+				-79.7395131,
+				43.2380558,
+				-79.7364269,
+				43.2403042
+			]
+		}
+	]
+}

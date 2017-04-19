@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Flin Flon, R8A 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55d529a968db4f488203ce49d151aa2f|BN20210145|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Flin Flon, R8A 1N1, Canada",
+				"locality": "Flin Flon",
+				"postalCode": "R8A 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-101.876968383789,
+					54.7682189941406
+				]
+			},
+			"bbox": [
+				-101.885895282938,
+				54.7643562765699,
+				-101.86804148464,
+				54.7720817117113
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Bakers Narrows, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55d529a968db4f488203ce49d151aa2f|BN20210145|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Bakers Narrows, Manitoba, Canada",
+				"locality": "Bakers Narrows"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-101.661529541016,
+					54.6767387390137
+				]
+			},
+			"bbox": [
+				-101.728289119029,
+				54.6477683560211,
+				-101.594769963002,
+				54.7057091220062
+			]
+		}
+	]
+}

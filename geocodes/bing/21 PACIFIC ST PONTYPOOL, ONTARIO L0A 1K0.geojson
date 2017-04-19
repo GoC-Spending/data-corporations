@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Pacific St, Kawartha Lakes, ON L0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e49032f7456d47ad8042cfa09718de54|BN20260223|7.7.0.0|",
+				"addressLine": "21 Pacific St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Pacific St, Kawartha Lakes, ON L0A, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Pontypool",
+				"postalCode": "L0A 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6327636,
+					44.0965754
+				]
+			},
+			"bbox": [
+				-78.6343289,
+				44.0954513,
+				-78.6311983,
+				44.0976996
+			]
+		}
+	]
+}

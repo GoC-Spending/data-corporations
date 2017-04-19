@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Queen St N, Kitchener, ON N2H 2G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f017e3928946474f929810b003070b72|BN20300154|7.7.0.0|",
+				"addressLine": "8 Queen St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Queen St N, Kitchener, ON N2H 2G8, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "City Commercial Core",
+				"postalCode": "N2H 2G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.48915,
+					43.45043
+				]
+			},
+			"bbox": [
+				-80.4906985,
+				43.4493058,
+				-80.4876015,
+				43.4515542
+			]
+		}
+	]
+}

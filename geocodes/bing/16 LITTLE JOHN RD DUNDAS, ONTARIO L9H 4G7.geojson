@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Little John Rd, Dundas, ON L9H 4G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5dfc86bce50f4322a3b4da9992b4f7f8|BN20121763|7.7.0.0|",
+				"addressLine": "16 Little John Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Little John Rd, Dundas, ON L9H 4G7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 4G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.95573,
+					43.25639
+				]
+			},
+			"bbox": [
+				-79.9572735,
+				43.2552658,
+				-79.9541865,
+				43.2575142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5675 Riverside St, Abbotsford, BC V4X 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f79f897161934a19b8e443a416d07b68|BN20260223|7.7.0.0|",
+				"addressLine": "5675 Riverside St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "5675 Riverside St, Abbotsford, BC V4X 1T4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Matsqui Prarie",
+				"postalCode": "V4X 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2945,
+					49.10493
+				]
+			},
+			"bbox": [
+				-122.2962171,
+				49.1038058,
+				-122.2927829,
+				49.1060542
+			]
+		}
+	]
+}

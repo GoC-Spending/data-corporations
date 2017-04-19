@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6337 166A St, Surrey, BC V3S 0W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4702bf4014134989813811d81f8623f9|BN20200239|7.7.0.0|",
+				"addressLine": "6337 166A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6337 166A St, Surrey, BC V3S 0W1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 0W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7614924,
+					49.1168982
+				]
+			},
+			"bbox": [
+				-122.7632099,
+				49.1157741,
+				-122.7597749,
+				49.1180224
+			]
+		}
+	]
+}

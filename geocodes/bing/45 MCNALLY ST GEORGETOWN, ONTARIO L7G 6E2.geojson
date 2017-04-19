@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 McNally St, Georgetown, ON L7G 6E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e38ba5286ad488badecc5fe68090daf|BN20130530|7.7.0.0|",
+				"addressLine": "45 McNally St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 McNally St, Georgetown, ON L7G 6E2, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 6E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.91857,
+					43.63359
+				]
+			},
+			"bbox": [
+				-79.9201232,
+				43.6324658,
+				-79.9170168,
+				43.6347142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9901 Rue Colbert, Anjou, QC H1J 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6825ee5b6a7f4b3291b96203a214617c|BN20130632|7.7.0.0|",
+				"addressLine": "9901 Rue Colbert",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "9901 Rue Colbert, Anjou, QC H1J 1Z9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57838,
+					45.61269
+				]
+			},
+			"bbox": [
+				-73.5799871,
+				45.6115658,
+				-73.5767729,
+				45.6138142
+			]
+		}
+	]
+}

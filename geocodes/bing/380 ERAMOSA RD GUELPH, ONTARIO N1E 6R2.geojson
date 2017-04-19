@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "380 Eramosa Rd, Guelph, ON N1E 6R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3dd2514325da4dbb92b93d5e3755c778|BN20130522|7.7.0.0|",
+				"addressLine": "380 Eramosa Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "380 Eramosa Rd, Guelph, ON N1E 6R2, Canada",
+				"locality": "Guelph",
+				"neighborhood": "General Hospital/Riverside Park",
+				"postalCode": "N1E 6R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.24967,
+					43.56169
+				]
+			},
+			"bbox": [
+				-80.2512213,
+				43.5605658,
+				-80.2481187,
+				43.5628142
+			]
+		}
+	]
+}

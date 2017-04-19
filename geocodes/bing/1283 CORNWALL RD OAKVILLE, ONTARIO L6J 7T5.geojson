@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1283 Cornwall Rd, Oakville, ON L6J 7T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8179fb6261c0435b804c22d72635b502|BN20190653|7.7.0.0|",
+				"addressLine": "1283 Cornwall Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1283 Cornwall Rd, Oakville, ON L6J 7T5, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Morrison",
+				"postalCode": "L6J 7T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.66584,
+					43.47244
+				]
+			},
+			"bbox": [
+				-79.667389,
+				43.4713158,
+				-79.664291,
+				43.4735642
+			]
+		}
+	]
+}

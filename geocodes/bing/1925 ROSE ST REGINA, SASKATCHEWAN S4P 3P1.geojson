@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1925 Rose St, Regina, SK S4P 3P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8f42ac105d54132837737f7f65c61b7|BN20130530|7.7.0.0|",
+				"addressLine": "1925 Rose St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1925 Rose St, Regina, SK S4P 3P1, Canada",
+				"locality": "Regina",
+				"neighborhood": "Downtown Regina",
+				"postalCode": "S4P 3P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.6078351,
+					50.4483964
+				]
+			},
+			"bbox": [
+				-104.6096005,
+				50.4472722,
+				-104.6060697,
+				50.4495206
+			]
+		}
+	]
+}

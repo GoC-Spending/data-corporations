@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "162 Oakdale Rd, North York, ON M3N 2S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7686000ebbe4f1ca996c6962ebff200|BN20130532|7.7.0.0|",
+				"addressLine": "162 Oakdale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "162 Oakdale Rd, North York, ON M3N 2S5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Glenfield-Jane Heights",
+				"postalCode": "M3N 2S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5261947,
+					43.7450237
+				]
+			},
+			"bbox": [
+				-79.5277508,
+				43.7438995,
+				-79.5246386,
+				43.7461479
+			]
+		}
+	]
+}

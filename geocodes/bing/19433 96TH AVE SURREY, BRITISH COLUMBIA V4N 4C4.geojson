@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19433 96 Ave, Surrey, BC V4N 4C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c76dd2e942a449f5b570e3bc47349d1b|BN20130520|7.7.0.0|",
+				"addressLine": "19433 96 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19433 96 Ave, Surrey, BC V4N 4C4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V4N 4C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.68403,
+					49.17776
+				]
+			},
+			"bbox": [
+				-122.6857496,
+				49.1766358,
+				-122.6823104,
+				49.1788842
+			]
+		}
+	]
+}

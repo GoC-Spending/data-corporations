@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Jefferson Ave, Toronto, ON M6K 1Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee47fd8730134ab6adca986a4fc30884|BN20130521|7.7.0.0|",
+				"addressLine": "70 Jefferson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Jefferson Ave, Toronto, ON M6K 1Y4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Parkdale",
+				"postalCode": "M6K 1Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42178,
+					43.63794
+				]
+			},
+			"bbox": [
+				-79.4233333,
+				43.6368158,
+				-79.4202267,
+				43.6390642
+			]
+		}
+	]
+}

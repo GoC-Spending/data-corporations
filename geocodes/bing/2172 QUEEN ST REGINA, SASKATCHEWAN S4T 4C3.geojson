@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2172 Queen St, Regina, SK S4T 4C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48a643bc4cf6498ca40d134403a3bb70|BN20130621|7.7.0.0|",
+				"addressLine": "2172 Queen St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2172 Queen St, Regina, SK S4T 4C3, Canada",
+				"locality": "Regina",
+				"neighborhood": "Cathedral",
+				"postalCode": "S4T 4C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.63733,
+					50.44418
+				]
+			},
+			"bbox": [
+				-104.6390952,
+				50.4430558,
+				-104.6355648,
+				50.4453042
+			]
+		}
+	]
+}

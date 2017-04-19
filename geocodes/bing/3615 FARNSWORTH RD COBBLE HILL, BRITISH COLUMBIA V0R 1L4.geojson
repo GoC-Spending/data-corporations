@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3615 Farnsworth Rd, Cobble Hill, BC V0R 1L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "441c24a9a5024380909eb9812cdb08eb|BN20160335|7.7.0.0|",
+				"addressLine": "3615 Farnsworth Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3615 Farnsworth Rd, Cobble Hill, BC V0R 1L4, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Cobble Hill",
+				"postalCode": "V0R 1L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5770251,
+					48.6914612
+				]
+			},
+			"bbox": [
+				-123.5787281,
+				48.690337,
+				-123.5753221,
+				48.6925853
+			]
+		}
+	]
+}

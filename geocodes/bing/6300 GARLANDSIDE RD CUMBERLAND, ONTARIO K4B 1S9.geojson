@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6300 Garlandside Rd, Cumberland, ON K4B 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8013e80dd254b1dbd3b65f8fccee519|BN20130522|7.7.0.0|",
+				"addressLine": "6300 Garlandside Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "6300 Garlandside Rd, Cumberland, ON K4B 1S9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Cumberland",
+				"postalCode": "K4B 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.2774,
+					45.3541
+				]
+			},
+			"bbox": [
+				-75.2789997,
+				45.3529758,
+				-75.2758003,
+				45.3552242
+			]
+		}
+	]
+}

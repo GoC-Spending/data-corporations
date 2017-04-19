@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5821 Marine Way, Burnaby, BC V3N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "249a178bab3a428dae3ad740d6314d1c|BN20130632|7.7.0.0|",
+				"addressLine": "5821 Marine Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5821 Marine Way, Burnaby, BC V3N, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V3N"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9745277,
+					49.1975774
+				]
+			},
+			"bbox": [
+				-122.976248,
+				49.1964533,
+				-122.9728073,
+				49.1987016
+			]
+		}
+	]
+}

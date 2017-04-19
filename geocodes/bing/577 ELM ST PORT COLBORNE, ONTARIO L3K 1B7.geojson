@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "577 Elm St, Port Colborne, ON L3K 4P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0f13f4a87024173b743e5cb1f1b94c1|BN20130632|7.7.0.0|",
+				"addressLine": "577 Elm St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "577 Elm St, Port Colborne, ON L3K 4P5, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 4P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2544999,
+					42.89418
+				]
+			},
+			"bbox": [
+				-79.2560343,
+				42.8930558,
+				-79.2529655,
+				42.8953042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10323 174 St NW, Edmonton, AB T5S 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23056005a0cd4c049c75766cdfb82d6e|BN20290118|7.7.0.0|",
+				"addressLine": "10323 174 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10323 174 St NW, Edmonton, AB T5S 1H1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Stone Industrial",
+				"postalCode": "T5S 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.61979,
+					53.54632
+				]
+			},
+			"bbox": [
+				-113.621682,
+				53.5451958,
+				-113.617898,
+				53.5474442
+			]
+		}
+	]
+}

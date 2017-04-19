@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ottawa, K1S 5N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5c3902572964923a8a9077e45c288b4|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ottawa, K1S 5N2, Canada",
+				"locality": "Ottawa",
+				"postalCode": "K1S 5N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6911926269531,
+					45.4217796325684
+				]
+			},
+			"bbox": [
+				-75.6985299504059,
+				45.4179169149977,
+				-75.6838553035003,
+				45.425642350139
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ottawa South, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5c3902572964923a8a9077e45c288b4|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ottawa South, Ontario, Canada",
+				"locality": "Ottawa South"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68408203125,
+					45.3843688964844
+				]
+			},
+			"bbox": [
+				-75.7390511370949,
+				45.3553985134918,
+				-75.6291129254051,
+				45.4133392794769
+			]
+		}
+	]
+}

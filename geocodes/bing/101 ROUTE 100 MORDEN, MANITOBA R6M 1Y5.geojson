@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Route 100, Morden, MB R6M 1Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0c35a0f260d403697697e59d8c33b4e|BN20121764|7.7.0.0|",
+				"addressLine": "101 Route 100",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Route 100, Morden, MB R6M 1Y5, Canada",
+				"locality": "Morden",
+				"postalCode": "R6M 1Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.0914532,
+					49.1921314
+				]
+			},
+			"bbox": [
+				-98.0931733,
+				49.1910073,
+				-98.0897331,
+				49.1932556
+			]
+		}
+	]
+}

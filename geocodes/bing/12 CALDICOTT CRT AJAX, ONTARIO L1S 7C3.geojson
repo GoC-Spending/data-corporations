@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Caldicott Ct, Ajax, ON L1S 7C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c69d5cbe9b6466dac6ba79ba961893f|BN20130625|7.7.0.0|",
+				"addressLine": "12 Caldicott Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Caldicott Ct, Ajax, ON L1S 7C3, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1S 7C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.99755,
+					43.83537
+				]
+			},
+			"bbox": [
+				-78.9991084,
+				43.8342458,
+				-78.9959916,
+				43.8364942
+			]
+		}
+	]
+}

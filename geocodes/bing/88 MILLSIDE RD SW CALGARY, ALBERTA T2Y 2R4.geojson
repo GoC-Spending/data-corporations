@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "88 Millside Rd SW, Calgary, AB T2Y 2R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc1a04f665c94a3992e0b57f6c561883|BN20130631|7.7.0.0|",
+				"addressLine": "88 Millside Rd SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "88 Millside Rd SW, Calgary, AB T2Y 2R4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Millrise",
+				"postalCode": "T2Y 2R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.07609,
+					50.91704
+				]
+			},
+			"bbox": [
+				-114.0778731,
+				50.9159158,
+				-114.0743069,
+				50.9181642
+			]
+		}
+	]
+}

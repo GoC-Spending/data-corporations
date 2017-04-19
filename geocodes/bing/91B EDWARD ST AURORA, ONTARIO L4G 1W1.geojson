@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Edward St, Aurora, ON L4G 1W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7062f262d9db4ae09786a5c91d911cdb|BN20280152|7.7.0.0|",
+				"addressLine": "91 Edward St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Edward St, Aurora, ON L4G 1W1, Canada",
+				"locality": "Aurora",
+				"postalCode": "L4G 1W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46008,
+					43.99718
+				]
+			},
+			"bbox": [
+				-79.4616427,
+				43.9960558,
+				-79.4585173,
+				43.9983042
+			]
+		}
+	]
+}

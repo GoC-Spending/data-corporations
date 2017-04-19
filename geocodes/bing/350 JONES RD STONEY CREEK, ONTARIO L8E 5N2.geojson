@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 Jones Rd, Stoney Creek, ON L8E 5N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb7591be212c4786bd6e19865a541616|BN20200239|7.7.0.0|",
+				"addressLine": "350 Jones Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 Jones Rd, Stoney Creek, ON L8E 5N2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 5N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68839,
+					43.2226799
+				]
+			},
+			"bbox": [
+				-79.6899327,
+				43.2215557,
+				-79.6868473,
+				43.2238041
+			]
+		}
+	]
+}

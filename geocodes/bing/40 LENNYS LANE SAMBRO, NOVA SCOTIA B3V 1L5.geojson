@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Lennys Ln, Sambro, NS B3V 1L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d23ae348e9f348ed91999af026d1fa64|BN20320521|7.7.0.0|",
+				"addressLine": "40 Lennys Ln",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Lennys Ln, Sambro, NS B3V 1L5, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Sambro",
+				"postalCode": "B3V 1L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.59883,
+					44.47962
+				]
+			},
+			"bbox": [
+				-63.6004055,
+				44.4784958,
+				-63.5972545,
+				44.4807442
+			]
+		}
+	]
+}

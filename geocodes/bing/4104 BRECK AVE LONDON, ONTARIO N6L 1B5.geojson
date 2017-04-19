@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4104 Breck Ave, London, ON N6L 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a9b07a65e56481dab3d4ca391362955|CO30275938|7.7.0.0|",
+				"addressLine": "4104 Breck Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4104 Breck Ave, London, ON N6L 1B5, Canada",
+				"locality": "London",
+				"neighborhood": "Longwoods",
+				"postalCode": "N6L 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2533,
+					42.9198
+				]
+			},
+			"bbox": [
+				-81.2548351,
+				42.9186758,
+				-81.2517649,
+				42.9209242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Pavillion St, Unionville, ON L3R 1N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa71bc85d35549188ac29a51e86ffe98|BN20200239|7.7.0.0|",
+				"addressLine": "16 Pavillion St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Pavillion St, Unionville, ON L3R 1N9, Canada",
+				"locality": "Markham",
+				"neighborhood": "Unionville",
+				"postalCode": "L3R 1N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31233,
+					43.862
+				]
+			},
+			"bbox": [
+				-79.3138891,
+				43.8608758,
+				-79.3107709,
+				43.8631242
+			]
+		}
+	]
+}

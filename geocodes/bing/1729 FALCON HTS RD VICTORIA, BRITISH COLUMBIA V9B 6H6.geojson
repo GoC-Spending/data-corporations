@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1729 Falcon Heights Rd, Langford, BC V9B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec4aa36c56d94f06a9e7b2334a6ff121|BN20260231|7.7.0.0|",
+				"addressLine": "1729 Falcon Heights Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1729 Falcon Heights Rd, Langford, BC V9B, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 6H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.54838,
+					48.49219
+				]
+			},
+			"bbox": [
+				-123.5500763,
+				48.4910658,
+				-123.5466837,
+				48.4933142
+			]
+		}
+	]
+}

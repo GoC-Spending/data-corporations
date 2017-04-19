@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "219 Wood St, West Lorne, ON N0L 2P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "feb846e242454d15afb395ca26cb084a|BN20210145|7.7.0.0|",
+				"addressLine": "219 Wood St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "219 Wood St, West Lorne, ON N0L 2P0, Canada",
+				"locality": "West Elgin",
+				"neighborhood": "West Lorne",
+				"postalCode": "N0L 2P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.6016173,
+					42.6061796
+				]
+			},
+			"bbox": [
+				-81.6031446,
+				42.6050555,
+				-81.6000899,
+				42.6073038
+			]
+		}
+	]
+}

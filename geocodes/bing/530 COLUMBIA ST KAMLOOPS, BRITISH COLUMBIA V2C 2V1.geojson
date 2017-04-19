@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Columbia St, Kamloops, BC V2C 2V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1cf7071a5e4e4288b31d54f588a87047|BN20130522|7.7.0.0|",
+				"addressLine": "530 Columbia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Columbia St, Kamloops, BC V2C 2V1, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "City Center",
+				"postalCode": "V2C 2V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.3287,
+					50.67159
+				]
+			},
+			"bbox": [
+				-120.3304738,
+				50.6704658,
+				-120.3269262,
+				50.6727142
+			]
+		}
+	]
+}

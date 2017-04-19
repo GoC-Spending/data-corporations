@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Pinebush Rd, Cambridge, ON N1R 8J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7443733dd30844bfa09be95f020c5b56|BN20130532|7.7.0.0|",
+				"addressLine": "150 Pinebush Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Pinebush Rd, Cambridge, ON N1R 8J8, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 8J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31448,
+					43.41096
+				]
+			},
+			"bbox": [
+				-80.3160275,
+				43.4098358,
+				-80.3129325,
+				43.4120842
+			]
+		}
+	]
+}

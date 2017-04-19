@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1112 Avenue Laurier O, Outremont, QC H2V 2L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3460d458344846c89f76716648773a1e|BN20250135|7.7.0.0|",
+				"addressLine": "1112 Avenue Laurier O",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1112 Avenue Laurier O, Outremont, QC H2V 2L4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Outremont",
+				"postalCode": "H2V 2L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5975799,
+					45.51718
+				]
+			},
+			"bbox": [
+				-73.5991842,
+				45.5160558,
+				-73.5959756,
+				45.5183042
+			]
+		}
+	]
+}

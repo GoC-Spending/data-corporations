@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1329 E 13th Ave, Vancouver, BC V5N 2B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e11942fae904fc89ba3b04de335332c|BN20130520|7.7.0.0|",
+				"addressLine": "1329 E 13th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1329 E 13th Ave, Vancouver, BC V5N 2B5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5N 2B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07684,
+					49.25897
+				]
+			},
+			"bbox": [
+				-123.0785625,
+				49.2578458,
+				-123.0751175,
+				49.2600942
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Frobisher Dr, Waterloo, ON N2V 2B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7dc0ce8960234e4cac5866fbe41ae13d|BN20130625|7.7.0.0|",
+				"addressLine": "160 Frobisher Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Frobisher Dr, Waterloo, ON N2V 2B1, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 2B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52742,
+					43.50694
+				]
+			},
+			"bbox": [
+				-80.5289699,
+				43.5058158,
+				-80.5258701,
+				43.5080642
+			]
+		}
+	]
+}

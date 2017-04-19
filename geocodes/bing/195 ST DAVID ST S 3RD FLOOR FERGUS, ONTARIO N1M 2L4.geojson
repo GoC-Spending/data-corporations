@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "195 St David St S, Fergus, ON N1M 2L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8158391b2fb49398abbd88e4c1819f3|BN20171457|7.7.0.0|",
+				"addressLine": "195 St David St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "195 St David St S, Fergus, ON N1M 2L4, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 2L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3762519,
+					43.7050208
+				]
+			},
+			"bbox": [
+				-80.377807,
+				43.7038966,
+				-80.3746969,
+				43.7061449
+			]
+		}
+	]
+}

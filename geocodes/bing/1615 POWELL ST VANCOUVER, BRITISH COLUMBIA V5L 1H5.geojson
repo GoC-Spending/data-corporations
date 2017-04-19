@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1615 Powell St, Vancouver, BC V5L 1H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0e5ed602fb7a45b9ad358e649f01008a|BN20200137|7.7.0.0|",
+				"addressLine": "1615 Powell St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1615 Powell St, Vancouver, BC V5L 1H5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5L 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07207,
+					49.28367
+				]
+			},
+			"bbox": [
+				-123.0737933,
+				49.2825458,
+				-123.0703467,
+				49.2847942
+			]
+		}
+	]
+}

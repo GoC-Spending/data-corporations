@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4716 60 St, Red Deer, AB T4N 7C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68b540deb42b40d1b1d979cd79de4568|BN20320521|7.7.0.0|",
+				"addressLine": "4716 60 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4716 60 St, Red Deer, AB T4N 7C7, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4N 7C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.80742,
+					52.28151
+				]
+			},
+			"bbox": [
+				-113.8092575,
+				52.2803858,
+				-113.8055825,
+				52.2826342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1800 Wellington Ave, Winnipeg, MB R3H 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a942336c7f74d629babdb78ac2bca67|BN20130721|7.7.0.0|",
+				"addressLine": "1800 Wellington Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1800 Wellington Ave, Winnipeg, MB R3H 1B2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2087899,
+					49.90074
+				]
+			},
+			"bbox": [
+				-97.2105352,
+				49.8996158,
+				-97.2070446,
+				49.9018642
+			]
+		}
+	]
+}

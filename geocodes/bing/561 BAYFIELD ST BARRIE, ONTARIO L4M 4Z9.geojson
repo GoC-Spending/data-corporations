@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "561 Bayfield St, Barrie, ON L4M 4Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e8f6202a7c34c74b1dc45e074b319b8|BN20121764|7.7.0.0|",
+				"addressLine": "561 Bayfield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "561 Bayfield St, Barrie, ON L4M 4Z9, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Bayfield",
+				"postalCode": "L4M 4Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71371,
+					44.41695
+				]
+			},
+			"bbox": [
+				-79.7152839,
+				44.4158258,
+				-79.7121361,
+				44.4180742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "322 Eastview Rd, Guelph, ON N1E 0L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "530399b8651a41af9c158e0a868b43ed|BN20290118|7.7.0.0|",
+				"addressLine": "322 Eastview Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "322 Eastview Rd, Guelph, ON N1E 0L2, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Grange Road",
+				"postalCode": "N1E 0L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2233886,
+					43.5787243
+				]
+			},
+			"bbox": [
+				-80.2249404,
+				43.5776002,
+				-80.2218369,
+				43.5798485
+			]
+		}
+	]
+}

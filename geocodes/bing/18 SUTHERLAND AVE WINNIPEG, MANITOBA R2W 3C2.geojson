@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Sutherland Ave, Winnipeg, MB R2W 3C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "efaf567cbcb147cf819bcf252a3100f2|BN20220145|7.7.0.0|",
+				"addressLine": "18 Sutherland Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Sutherland Ave, Winnipeg, MB R2W 3C2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North Point Douglas",
+				"postalCode": "R2W 3C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.11968,
+					49.90381
+				]
+			},
+			"bbox": [
+				-97.1214254,
+				49.9026858,
+				-97.1179346,
+				49.9049342
+			]
+		}
+	]
+}

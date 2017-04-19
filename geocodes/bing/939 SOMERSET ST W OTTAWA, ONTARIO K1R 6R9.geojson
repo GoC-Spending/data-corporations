@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "939 Somerset St W, Ottawa, ON K1R 6R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98257bcef6444bccb83da6cc96b5fd64|BN20130620|7.7.0.0|",
+				"addressLine": "939 Somerset St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "939 Somerset St W, Ottawa, ON K1R 6R8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "West Centre Town-Little Italy-Civic",
+				"postalCode": "K1R 6R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7153699,
+					45.40827
+				]
+			},
+			"bbox": [
+				-75.7169711,
+				45.4071458,
+				-75.7137687,
+				45.4093942
+			]
+		}
+	]
+}

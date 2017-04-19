@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1639 Pinewood Ave, Victoria, BC V8S 1K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "202dd657195d4165bd789c2ab6826e2a|BN20160335|7.7.0.0|",
+				"addressLine": "1639 Pinewood Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1639 Pinewood Ave, Victoria, BC V8S 1K8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Gonzales",
+				"postalCode": "V8S 1K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.33456,
+					48.41139
+				]
+			},
+			"bbox": [
+				-123.3362536,
+				48.4102658,
+				-123.3328664,
+				48.4125142
+			]
+		}
+	]
+}

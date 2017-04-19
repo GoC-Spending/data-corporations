@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Coxwell Ave, Toronto, ON M4L 3B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05ab14759e424873927088c9fd7fbab5|BN20130447|7.7.0.0|",
+				"addressLine": "300 Coxwell Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Coxwell Ave, Toronto, ON M4L 3B6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Greenwood-Coxwell",
+				"postalCode": "M4L 3B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3199099,
+					43.67385
+				]
+			},
+			"bbox": [
+				-79.3214641,
+				43.6727258,
+				-79.3183557,
+				43.6749742
+			]
+		}
+	]
+}

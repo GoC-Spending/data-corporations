@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "518 5 Ave S, Lethbridge, AB T1J 0T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ce40878734e4bd993806507cd226e3c|BN20130533|7.7.0.0|",
+				"addressLine": "518 5 Ave S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "518 5 Ave S, Lethbridge, AB T1J 0T8, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1J 0T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.8395702,
+					49.692656
+				]
+			},
+			"bbox": [
+				-112.841308,
+				49.6915319,
+				-112.8378324,
+				49.6937802
+			]
+		}
+	]
+}

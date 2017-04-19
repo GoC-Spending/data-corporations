@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3430 Trans Canada Hwy, Cobble Hill, BC V0R 1L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a70bb4da1c5248feb9bb5a41eb311053|BN20171457|7.7.0.0|",
+				"addressLine": "3430 Trans Canada Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3430 Trans Canada Hwy, Cobble Hill, BC V0R 1L2, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Cobble Hill",
+				"postalCode": "V0R 1L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5743212,
+					48.6831046
+				]
+			},
+			"bbox": [
+				-123.5760238,
+				48.6819805,
+				-123.5726185,
+				48.6842288
+			]
+		}
+	]
+}

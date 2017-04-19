@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "873 Devonshire Ave, Woodstock, ON N4S 8Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "632c403ff49c4886ae3377708447a6d7|BN20171457|7.7.0.0|",
+				"addressLine": "873 Devonshire Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "873 Devonshire Ave, Woodstock, ON N4S 8Z4, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 8Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.74223,
+					43.14493
+				]
+			},
+			"bbox": [
+				-80.7437707,
+				43.1438058,
+				-80.7406893,
+				43.1460542
+			]
+		}
+	]
+}

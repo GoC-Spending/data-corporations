@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11728 152B Ave NW, Edmonton, AB T5X 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2f89ed148256410888205e4647756754|BN20130447|7.7.0.0|",
+				"addressLine": "11728 152B Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11728 152B Ave NW, Edmonton, AB T5X 1G2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Caernarvon",
+				"postalCode": "T5X 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.52397,
+					53.61436
+				]
+			},
+			"bbox": [
+				-113.525865,
+				53.6132358,
+				-113.522075,
+				53.6154842
+			]
+		}
+	]
+}

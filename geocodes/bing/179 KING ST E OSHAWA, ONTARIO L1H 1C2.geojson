@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "179 King St E, Oshawa, ON L1H 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01cc2bd233b640ac9b3661a05387472b|BN20130520|7.7.0.0|",
+				"addressLine": "179 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "179 King St E, Oshawa, ON L1H 1C2, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Central Oshawa",
+				"postalCode": "L1H 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.85693,
+					43.89879
+				]
+			},
+			"bbox": [
+				-78.8584901,
+				43.8976658,
+				-78.8553699,
+				43.8999142
+			]
+		}
+	]
+}

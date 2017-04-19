@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4120 Granville Ave, Saanich, BC V9E 2C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e951fb5b26545109faeff03c61a19d3|BN20130721|7.7.0.0|",
+				"addressLine": "4120 Granville Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4120 Granville Ave, Saanich, BC V9E 2C9, Canada",
+				"locality": "Saanich",
+				"postalCode": "V9E 2C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4281494,
+					48.4807563
+				]
+			},
+			"bbox": [
+				-123.4298453,
+				48.4796322,
+				-123.4264535,
+				48.4818805
+			]
+		}
+	]
+}

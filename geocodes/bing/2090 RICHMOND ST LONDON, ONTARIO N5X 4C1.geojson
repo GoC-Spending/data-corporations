@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2090 Richmond St, London, ON N5X 4C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5369774b41b84943aadb02df2ed3bf70|BN20130522|7.7.0.0|",
+				"addressLine": "2090 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2090 Richmond St, London, ON N5X 4C1, Canada",
+				"locality": "London",
+				"neighborhood": "Uplands",
+				"postalCode": "N5X 4C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2881,
+					43.0383
+				]
+			},
+			"bbox": [
+				-81.289638,
+				43.0371758,
+				-81.286562,
+				43.0394242
+			]
+		}
+	]
+}

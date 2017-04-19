@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "511 Robinson Ave, Selkirk, MB R1A 1E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8d78437c1bb6412fa6c7087b7e1d5c63|BN20160335|7.7.0.0|",
+				"addressLine": "511 Robinson Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "511 Robinson Ave, Selkirk, MB R1A 1E5, Canada",
+				"locality": "Selkirk",
+				"postalCode": "R1A 1E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.8757171,
+					50.1507621
+				]
+			},
+			"bbox": [
+				-96.8774714,
+				50.1496379,
+				-96.8739627,
+				50.1518862
+			]
+		}
+	]
+}

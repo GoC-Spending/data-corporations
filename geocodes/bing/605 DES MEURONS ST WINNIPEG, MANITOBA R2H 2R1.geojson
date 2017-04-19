@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 Des Meurons St, Winnipeg, MB R2H 2R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed4fb5d31cfe4a7bb671dc14a889156b|BN20260223|7.7.0.0|",
+				"addressLine": "605 Des Meurons St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 Des Meurons St, Winnipeg, MB R2H 2R1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Central St Boniface",
+				"postalCode": "R2H 2R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.11271,
+					49.8921
+				]
+			},
+			"bbox": [
+				-97.114455,
+				49.8909758,
+				-97.110965,
+				49.8932242
+			]
+		}
+	]
+}

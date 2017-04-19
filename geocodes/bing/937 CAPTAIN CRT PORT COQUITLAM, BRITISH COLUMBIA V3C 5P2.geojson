@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "937 Captain Ct, Port Coquitlam, BC V3C 5P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7cce71f8691f4785806f9c5b8ea45123|BN20121764|7.7.0.0|",
+				"addressLine": "937 Captain Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "937 Captain Ct, Port Coquitlam, BC V3C 5P2, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3C 5P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.78295,
+					49.2347899
+				]
+			},
+			"bbox": [
+				-122.7846716,
+				49.2336657,
+				-122.7812284,
+				49.2359141
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5610 Soleil Blvd, Beaumont, AB T4X 0E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b8d68bc556348d6b82181194c10cf86|BN20130625|7.7.0.0|",
+				"addressLine": "5610 Soleil Blvd",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5610 Soleil Blvd, Beaumont, AB T4X 0E1, Canada",
+				"locality": "Beaumont",
+				"postalCode": "T4X 0E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4235175,
+					53.3431502
+				]
+			},
+			"bbox": [
+				-113.4254004,
+				53.3420261,
+				-113.4216345,
+				53.3442744
+			]
+		}
+	]
+}

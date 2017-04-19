@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Creek Ridge St, Kitchener, ON N2P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "827ffc6cd9bd46e782729ba72ae53984|BN20130631|7.7.0.0|",
+				"addressLine": "10 Creek Ridge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Creek Ridge St, Kitchener, ON N2P, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Doon South",
+				"postalCode": "N2P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.44123,
+					43.38168
+				]
+			},
+			"bbox": [
+				-80.4427767,
+				43.3805558,
+				-80.4396833,
+				43.3828042
+			]
+		}
+	]
+}

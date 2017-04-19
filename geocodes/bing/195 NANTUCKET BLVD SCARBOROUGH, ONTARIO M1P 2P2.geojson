@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "195 Nantucket Blvd, Scarborough, ON M1P 2P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c2e7b08178a4879accaa418da440220|BN20131519|7.7.0.0|",
+				"addressLine": "195 Nantucket Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "195 Nantucket Blvd, Scarborough, ON M1P 2P2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dorset Park",
+				"postalCode": "M1P 2P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27424,
+					43.75861
+				]
+			},
+			"bbox": [
+				-79.2757964,
+				43.7574858,
+				-79.2726836,
+				43.7597342
+			]
+		}
+	]
+}

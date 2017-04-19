@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "236 1st Ave, Ottawa, ON K1S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2f6fae411c74015b186f0183c64b49e|BN20190653|7.7.0.0|",
+				"addressLine": "236 1st Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "236 1st Ave, Ottawa, ON K1S, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Glebe-Dows Lake",
+				"postalCode": "K1S 2G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6906,
+					45.40353
+				]
+			},
+			"bbox": [
+				-75.6922011,
+				45.4024058,
+				-75.6889989,
+				45.4046542
+			]
+		}
+	]
+}

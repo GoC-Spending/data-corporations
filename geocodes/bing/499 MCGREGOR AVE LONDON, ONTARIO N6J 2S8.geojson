@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "499 McGregor Ave, London, ON N6J 2S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fae2a64059f4443ba6332257c94c7374|BN20130719|7.7.0.0|",
+				"addressLine": "499 McGregor Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "499 McGregor Ave, London, ON N6J 2S8, Canada",
+				"locality": "London",
+				"neighborhood": "Southcrest",
+				"postalCode": "N6J 2S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2628,
+					42.9577
+				]
+			},
+			"bbox": [
+				-81.264336,
+				42.9565758,
+				-81.261264,
+				42.9588242
+			]
+		}
+	]
+}

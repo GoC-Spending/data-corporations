@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Chapleau, P0M 1K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "185bdea99813462785d185fb990a243d|BN20130631|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "Chapleau, P0M 1K0, Canada",
+				"locality": "Chapleau",
+				"postalCode": "P0M 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.404899597168,
+					47.8424682617188
+				]
+			},
+			"bbox": [
+				-83.4125726108271,
+				47.8386055441481,
+				-83.3972265835088,
+				47.8463309792894
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Margaret, NC, 275",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "185bdea99813462785d185fb990a243d|BN20130631|7.7.0.0|",
+				"adminDistrict": "NC",
+				"adminDistrict2": "Franklin",
+				"countryRegion": "United States",
+				"formattedAddress": "Margaret, NC, 275",
+				"locality": "Margaret"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.2258987426758,
+					36.024829864502
+				]
+			},
+			"bbox": [
+				-78.2736420565228,
+				35.9958594815094,
+				-78.1781554288287,
+				36.0538002474945
+			]
+		}
+	]
+}

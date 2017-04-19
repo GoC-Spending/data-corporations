@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "172 Western Ave, Delhi, ON N4B 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0238f5d13e734036a57e5cb667e81ea1|BN20181720|7.7.0.0|",
+				"addressLine": "172 Western Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "172 Western Ave, Delhi, ON N4B 1S1, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Delhi",
+				"postalCode": "N4B 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5038827,
+					42.8540497
+				]
+			},
+			"bbox": [
+				-80.5054161,
+				42.8529256,
+				-80.5023492,
+				42.8551739
+			]
+		}
+	]
+}

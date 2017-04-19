@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "586 Iverson Rd, Fraser Valley, BC V2R 4X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e51a7b47763f476795d53f62a076bf0f|BN20131519|7.7.0.0|",
+				"addressLine": "586 Iverson Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "586 Iverson Rd, Fraser Valley, BC V2R 4X5, Canada",
+				"locality": "Fraser Valley",
+				"neighborhood": "Fraser Valley",
+				"postalCode": "V2R 4X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.0860115,
+					49.0161412
+				]
+			},
+			"bbox": [
+				-122.0877256,
+				49.0150171,
+				-122.0842975,
+				49.0172654
+			]
+		}
+	]
+}

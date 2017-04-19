@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2070 Oxford St, Halifax, NS B3L 2T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "948108efafe84b0782894564bd86880e|BN20130634|7.7.0.0|",
+				"addressLine": "2070 Oxford St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "2070 Oxford St, Halifax, NS B3L 2T2, Canada",
+				"locality": "Halifax",
+				"neighborhood": "West End",
+				"postalCode": "B3L 2T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.60132,
+					44.64576
+				]
+			},
+			"bbox": [
+				-63.6029001,
+				44.6446358,
+				-63.5997399,
+				44.6468842
+			]
+		}
+	]
+}

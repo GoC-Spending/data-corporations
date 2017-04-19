@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Rue Chianti, Kirkland, QC H9H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f1bcc893c13f4896b15711ddd6c1a392|BN20320521|7.7.0.0|",
+				"addressLine": "12 Rue Chianti",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Rue Chianti, Kirkland, QC H9H, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9H 5B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.84922,
+					45.46408
+				]
+			},
+			"bbox": [
+				-73.8508228,
+				45.4629558,
+				-73.8476172,
+				45.4652042
+			]
+		}
+	]
+}

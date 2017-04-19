@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "733 Barton St, Stoney Creek, ON L8E 5L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2f352e0e2184b8884315e9867b110c5|BN20260231|7.7.0.0|",
+				"addressLine": "733 Barton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "733 Barton St, Stoney Creek, ON L8E 5L7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 5L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69221,
+					43.22098
+				]
+			},
+			"bbox": [
+				-79.6937526,
+				43.2198558,
+				-79.6906674,
+				43.2221042
+			]
+		}
+	]
+}

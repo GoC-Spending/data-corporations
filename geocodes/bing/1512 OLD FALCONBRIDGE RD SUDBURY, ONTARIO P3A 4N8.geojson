@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1512 Old Falconbridge Rd, Sudbury, ON P3A 4N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "883d22a6a67b48308631a819bee0274e|BN20130431|7.7.0.0|",
+				"addressLine": "1512 Old Falconbridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "1512 Old Falconbridge Rd, Sudbury, ON P3A 4N8, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3A 4N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9125115,
+					46.5286948
+				]
+			},
+			"bbox": [
+				-80.9141455,
+				46.5275707,
+				-80.9108775,
+				46.529819
+			]
+		}
+	]
+}

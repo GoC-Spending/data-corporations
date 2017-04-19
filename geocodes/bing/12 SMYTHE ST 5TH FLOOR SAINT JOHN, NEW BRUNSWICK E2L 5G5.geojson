@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Smythe St, Saint John, NB E2L 5G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27f1c6b93ee6410aa9fde28d242e43d1|BN20290118|7.7.0.0|",
+				"addressLine": "12 Smythe St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Smythe St, Saint John, NB E2L 5G5, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 5G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.0658,
+					45.27483
+				]
+			},
+			"bbox": [
+				-66.0673975,
+				45.2737058,
+				-66.0642025,
+				45.2759542
+			]
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Dorchester, N0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70d1700257ee4719bf1bbc8df360ce58|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "Dorchester, N0L, Canada",
+				"locality": "Dorchester",
+				"postalCode": "N0L"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4558029174805,
+					42.6980056762695
+				]
+			},
+			"bbox": [
+				-81.8463287353516,
+				42.4417610168457,
+				-80.7602767944336,
+				43.0504302978516
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Thames Centre, N0L 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70d1700257ee4719bf1bbc8df360ce58|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "Thames Centre, N0L 1G4, Canada",
+				"locality": "Thames Centre",
+				"postalCode": "N0L 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0418853759766,
+					43.0163612365723
+				]
+			},
+			"bbox": [
+				-81.0489289420311,
+				43.0124985190016,
+				-81.034841809922,
+				43.0202239541429
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Palmer Rd NE, Calgary, AB T2E 7G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3f1cdc24ffa4b798c3c447e7aefea1f|BN20280152|7.7.0.0|",
+				"addressLine": "275 Palmer Rd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Palmer Rd NE, Calgary, AB T2E 7G4, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 7G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.00833,
+					51.09728
+				]
+			},
+			"bbox": [
+				-114.0101201,
+				51.0961558,
+				-114.0065399,
+				51.0984042
+			]
+		}
+	]
+}

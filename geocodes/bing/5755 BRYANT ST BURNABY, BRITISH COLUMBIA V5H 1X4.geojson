@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5755 Bryant St, Burnaby, BC V5H 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "225b4f2dd6064b5b88b46df415fd9fd4|BN20181720|7.7.0.0|",
+				"addressLine": "5755 Bryant St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5755 Bryant St, Burnaby, BC V5H 1X4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Windsor",
+				"postalCode": "V5H 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9795841,
+					49.2251249
+				]
+			},
+			"bbox": [
+				-122.9813054,
+				49.2240007,
+				-122.9778628,
+				49.226249
+			]
+		}
+	]
+}

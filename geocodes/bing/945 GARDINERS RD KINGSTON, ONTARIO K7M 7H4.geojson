@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "945 Gardiners Rd, Kingston, ON K7M 7H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d7bbb31f9eb4cce8cf6df6844e6b148|BN20130632|7.7.0.0|",
+				"addressLine": "945 Gardiners Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "945 Gardiners Rd, Kingston, ON K7M 7H4, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Sutton Mills",
+				"postalCode": "K7M 7H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.5688934,
+					44.2562617
+				]
+			},
+			"bbox": [
+				-76.5704629,
+				44.2551376,
+				-76.5673238,
+				44.2573859
+			]
+		}
+	]
+}

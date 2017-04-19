@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Charlotte St, Brantford, ON N3T 5W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "915a52ac1d8e43dbbd6cad101704533f|BN20240423|7.7.0.0|",
+				"addressLine": "7 Charlotte St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Charlotte St, Brantford, ON N3T 5W7, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3T 5W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.26035,
+					43.1392
+				]
+			},
+			"bbox": [
+				-80.2618906,
+				43.1380758,
+				-80.2588094,
+				43.1403242
+			]
+		}
+	]
+}

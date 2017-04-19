@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "43 Roslyn Rd, Winnipeg, MB R3L 0G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "042d04ccea7d48d6a69873a54b055989|BN20130522|7.7.0.0|",
+				"addressLine": "43 Roslyn Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "43 Roslyn Rd, Winnipeg, MB R3L 0G1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River-Osborne",
+				"postalCode": "R3L 0G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14442,
+					49.8813699
+				]
+			},
+			"bbox": [
+				-97.1461646,
+				49.8802457,
+				-97.1426754,
+				49.8824941
+			]
+		}
+	]
+}

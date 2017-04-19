@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Logan Ave, Toronto, ON M4M 2M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3fb0b001b7be4566b49682e2431f0123|BN20130632|7.7.0.0|",
+				"addressLine": "Logan Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "Logan Ave, Toronto, ON M4M 2M9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Riverdale",
+				"postalCode": "M4M 2M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34045,
+					43.65571
+				]
+			},
+			"bbox": [
+				-79.34518,
+				43.65163,
+				-79.33774,
+				43.66708
+			]
+		}
+	]
+}

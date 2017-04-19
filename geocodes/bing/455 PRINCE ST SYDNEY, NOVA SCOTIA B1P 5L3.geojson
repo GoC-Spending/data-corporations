@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "455 Prince St, Sydney, NS B1P 5L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "720ca9a9966644458c87a80af7903a53|BN20130631|7.7.0.0|",
+				"addressLine": "455 Prince St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "455 Prince St, Sydney, NS B1P 5L3, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 5L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.17842,
+					46.1406599
+				]
+			},
+			"bbox": [
+				-60.1800424,
+				46.1395357,
+				-60.1767976,
+				46.1417841
+			]
+		}
+	]
+}

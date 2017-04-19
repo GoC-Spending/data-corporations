@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Union St, Elmira, ON N3B 3P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c304cd8c8514b3fb95fb2e1d8ebf775|BN20240253|7.7.0.0|",
+				"addressLine": "275 Union St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Union St, Elmira, ON N3B 3P1, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Elmira",
+				"postalCode": "N3B 3P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5559,
+					43.57936
+				]
+			},
+			"bbox": [
+				-80.5574518,
+				43.5782358,
+				-80.5543482,
+				43.5804842
+			]
+		}
+	]
+}

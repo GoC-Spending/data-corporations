@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7578 6th St, Burnaby, BC V3N 3M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "463c18d1eda743a2a6fc76e81a7a75eb|BN20250135|7.7.0.0|",
+				"addressLine": "7578 6th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7578 6th St, Burnaby, BC V3N 3M3, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Second Street",
+				"postalCode": "V3N 3M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9323118,
+					49.2228874
+				]
+			},
+			"bbox": [
+				-122.934033,
+				49.2217633,
+				-122.9305906,
+				49.2240116
+			]
+		}
+	]
+}

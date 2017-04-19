@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1925 Stevenson Rd N, Oshawa, ON L1H 7K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43dfb0db8b1f4dda9843e888f3905684|BN20130621|7.7.0.0|",
+				"addressLine": "1925 Stevenson Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1925 Stevenson Rd N, Oshawa, ON L1H 7K4, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Northwood",
+				"postalCode": "L1H 7K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9043499,
+					43.94345
+				]
+			},
+			"bbox": [
+				-78.9059112,
+				43.9423258,
+				-78.9027886,
+				43.9445742
+			]
+		}
+	]
+}

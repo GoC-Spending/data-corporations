@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "562 Maple Ave, Burlington, ON L7S 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae68b05f7c4b4669b2d54d8d45d52506|BN20320521|7.7.0.0|",
+				"addressLine": "562 Maple Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "562 Maple Ave, Burlington, ON L7S 1M6, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Maple",
+				"postalCode": "L7S 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80782,
+					43.32161
+				]
+			},
+			"bbox": [
+				-79.8093652,
+				43.3204858,
+				-79.8062748,
+				43.3227342
+			]
+		}
+	]
+}

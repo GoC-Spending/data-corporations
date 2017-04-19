@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "237 Airport Rd, Kenora, ON P9N 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0934d5eead74cd5ba354a30abb999e1|BN20130634|7.7.0.0|",
+				"addressLine": "237 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kenora",
+				"countryRegion": "Canada",
+				"formattedAddress": "237 Airport Rd, Kenora, ON P9N 0A2, Canada",
+				"locality": "Kenora",
+				"postalCode": "P9N 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-94.44091,
+					49.78266
+				]
+			},
+			"bbox": [
+				-94.442651,
+				49.7815358,
+				-94.439169,
+				49.7837842
+			]
+		}
+	]
+}

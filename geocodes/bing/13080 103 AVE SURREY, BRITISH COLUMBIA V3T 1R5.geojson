@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13080 103 Ave, Surrey, BC V3T 1R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b977066e21d54b9e81cf1608fbd96d87|BN20260231|7.7.0.0|",
+				"addressLine": "13080 103 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "13080 103 Ave, Surrey, BC V3T 1R5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3T 1R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.85989,
+					49.1897
+				]
+			},
+			"bbox": [
+				-122.8616101,
+				49.1885758,
+				-122.8581699,
+				49.1908242
+			]
+		}
+	]
+}

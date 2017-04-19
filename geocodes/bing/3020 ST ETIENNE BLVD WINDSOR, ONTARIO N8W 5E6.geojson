@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3020 St Etienne Blvd, Windsor, ON N8W 5E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b226eba6983d498e852f6d0e51f0e813|BN20130532|7.7.0.0|",
+				"addressLine": "3020 St Etienne Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3020 St Etienne Blvd, Windsor, ON N8W 5E6, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Walker Farm",
+				"postalCode": "N8W 5E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.9711,
+					42.28001
+				]
+			},
+			"bbox": [
+				-82.9726194,
+				42.2788858,
+				-82.9695806,
+				42.2811342
+			]
+		}
+	]
+}

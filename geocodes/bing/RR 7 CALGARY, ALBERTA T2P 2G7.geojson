@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Calgary, T2P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58edc82a97134b10bdb8fa59a618bf4f|BN20190642|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Calgary, T2P, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.075126647949,
+					51.0491752624512
+				]
+			},
+			"bbox": [
+				-114.10912322998,
+				51.0151748657227,
+				-114.041130065918,
+				51.0831756591797
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rocky View County, T2P 2G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58edc82a97134b10bdb8fa59a618bf4f|BN20190642|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rocky View County, T2P 2G7, Canada",
+				"locality": "Rocky View County",
+				"postalCode": "T2P 2G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.705451965332,
+					51.0178756713867
+				]
+			},
+			"bbox": [
+				-113.713638330026,
+				51.014012953816,
+				-113.697265600639,
+				51.0217383889574
+			]
+		}
+	]
+}

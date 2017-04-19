@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Woodlawn Rd W, Guelph, ON N1H 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb9164e357ec4d99a2bfcc295f9e88c8|BN20130530|7.7.0.0|",
+				"addressLine": "107 Woodlawn Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Woodlawn Rd W, Guelph, ON N1H 1B4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2841823,
+					43.560315
+				]
+			},
+			"bbox": [
+				-80.2857336,
+				43.5591908,
+				-80.282631,
+				43.5614391
+			]
+		}
+	]
+}

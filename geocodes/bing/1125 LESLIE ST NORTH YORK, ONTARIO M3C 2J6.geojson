@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1125 Leslie St, North York, ON M3C 2J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aad5732d62df44269f1b7b1bc9ab00a0|BN20130522|7.7.0.0|",
+				"addressLine": "1125 Leslie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1125 Leslie St, North York, ON M3C 2J6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3C 2J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3485,
+					43.72387
+				]
+			},
+			"bbox": [
+				-79.3500555,
+				43.7227458,
+				-79.3469445,
+				43.7249942
+			]
+		}
+	]
+}

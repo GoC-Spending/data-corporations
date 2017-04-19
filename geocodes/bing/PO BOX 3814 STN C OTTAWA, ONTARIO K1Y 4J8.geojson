@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ottawa, K1Y 4J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d88c01f18e8a4e11ab9e7a315ca85a62|BN20130442|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ottawa, K1Y 4J8, Canada",
+				"locality": "Ottawa",
+				"postalCode": "K1Y 4J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6911926269531,
+					45.4217796325684
+				]
+			},
+			"bbox": [
+				-75.6985299504059,
+				45.4179169149977,
+				-75.6838553035003,
+				45.425642350139
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "AdminDivision1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "North Carolina",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d88c01f18e8a4e11ab9e7a315ca85a62|BN20130442|7.7.0.0|",
+				"adminDistrict": "NC",
+				"countryRegion": "United States",
+				"formattedAddress": "North Carolina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1854095458984,
+					35.5393447875977
+				]
+			},
+			"bbox": [
+				-84.3216400146484,
+				33.843189239502,
+				-75.4526824951172,
+				36.5881385803223
+			]
+		}
+	]
+}

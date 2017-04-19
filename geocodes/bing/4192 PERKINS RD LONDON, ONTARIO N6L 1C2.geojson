@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4192 Perkins Rd, London, ON N6L 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b6f5cf3343041c4932f3bf8991e1349|CO30324209|7.7.0.0|",
+				"addressLine": "4192 Perkins Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4192 Perkins Rd, London, ON N6L 1C2, Canada",
+				"locality": "London",
+				"neighborhood": "Longwoods",
+				"postalCode": "N6L 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.249,
+					42.9186
+				]
+			},
+			"bbox": [
+				-81.2505351,
+				42.9174758,
+				-81.2474649,
+				42.9197242
+			]
+		}
+	]
+}

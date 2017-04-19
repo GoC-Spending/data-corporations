@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "317 Pearl Ave, Peterborough, ON K9J 5G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0a6cf8c0439f4fd2875d515ef1965af3|BN20200239|7.7.0.0|",
+				"addressLine": "317 Pearl Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "317 Pearl Ave, Peterborough, ON K9J 5G4, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 5G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.33139,
+					44.30228
+				]
+			},
+			"bbox": [
+				-78.3329608,
+				44.3011558,
+				-78.3298192,
+				44.3034042
+			]
+		}
+	]
+}

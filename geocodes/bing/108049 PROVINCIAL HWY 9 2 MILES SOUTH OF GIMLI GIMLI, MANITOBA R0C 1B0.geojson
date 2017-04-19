@@ -1,0 +1,109 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Gimli, R0C 1B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f037e392094b4b6c9376655ba1898036|BN20220145|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gimli, R0C 1B0, Canada",
+				"locality": "Gimli",
+				"postalCode": "R0C 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.9941864013672,
+					50.6368598937988
+				]
+			},
+			"bbox": [
+				-97.0023062323484,
+				50.6329971762282,
+				-96.9860665703859,
+				50.6407226113695
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Gimli, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f037e392094b4b6c9376655ba1898036|BN20220145|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gimli, Canada",
+				"locality": "Gimli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0640029907227,
+					50.7639999389648
+				]
+			},
+			"bbox": [
+				-97.1250343013864,
+				50.7350295559723,
+				-97.0029716800589,
+				50.7929703219574
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Rural Municipality of Gimli, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f037e392094b4b6c9376655ba1898036|BN20220145|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rural Municipality of Gimli, Manitoba, Canada",
+				"locality": "Rural Municipality of Gimli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0297164916992,
+					50.6619415283203
+				]
+			},
+			"bbox": [
+				-97.0906152015982,
+				50.6329711453278,
+				-96.9688177818003,
+				50.6909119113129
+			]
+		}
+	]
+}

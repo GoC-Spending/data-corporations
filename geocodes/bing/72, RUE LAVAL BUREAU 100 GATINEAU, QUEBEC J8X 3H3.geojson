@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "72 Rue Laval, Gatineau, QC J8X 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cdebdb3217b9403a93cff9d661eeaabb|BN20320521|7.7.0.0|",
+				"addressLine": "72 Rue Laval",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "72 Rue Laval, Gatineau, QC J8X 3H3, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8X 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71576,
+					45.42786
+				]
+			},
+			"bbox": [
+				-75.7173618,
+				45.4267358,
+				-75.7141582,
+				45.4289842
+			]
+		}
+	]
+}

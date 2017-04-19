@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1262 Don Mills Rd, North York, ON M3B 2W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db8f303d534f449fb8c5e6b957a92aa2|BN20190642|7.7.0.0|",
+				"addressLine": "1262 Don Mills Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1262 Don Mills Rd, North York, ON M3B 2W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 2W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34643,
+					43.74471
+				]
+			},
+			"bbox": [
+				-79.3479861,
+				43.7435858,
+				-79.3448739,
+				43.7458342
+			]
+		}
+	]
+}

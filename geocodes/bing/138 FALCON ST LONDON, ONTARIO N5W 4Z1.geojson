@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "138 Falcon St, London, ON N5W 4Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0fe84dd622d442fb88fa270f0845808d|BN20130422|7.7.0.0|",
+				"addressLine": "138 Falcon St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "138 Falcon St, London, ON N5W 4Z1, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5W 4Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1754,
+					42.9899
+				]
+			},
+			"bbox": [
+				-81.1769368,
+				42.9887758,
+				-81.1738632,
+				42.9910242
+			]
+		}
+	]
+}

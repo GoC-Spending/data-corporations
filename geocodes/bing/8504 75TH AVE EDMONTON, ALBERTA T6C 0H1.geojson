@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8504 75 Ave NW, Edmonton, AB T6C 0H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f74e7ace85754d4cb284f0e45bf72d0a|BN20130621|7.7.0.0|",
+				"addressLine": "8504 75 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8504 75 Ave NW, Edmonton, AB T6C 0H1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Avonmore",
+				"postalCode": "T6C 0H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45801,
+					53.5116
+				]
+			},
+			"bbox": [
+				-113.4599004,
+				53.5104758,
+				-113.4561196,
+				53.5127242
+			]
+		}
+	]
+}

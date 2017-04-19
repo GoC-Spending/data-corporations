@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2310 Kami Ct, Victoria, BC V9B 6J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1a5155be68f426d9ed09ca802708193|BN20200137|7.7.0.0|",
+				"addressLine": "2310 Kami Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2310 Kami Ct, Victoria, BC V9B 6J5, Canada",
+				"locality": "View Royal",
+				"neighborhood": "Victoria",
+				"postalCode": "V9B 6J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4467918,
+					48.4662786
+				]
+			},
+			"bbox": [
+				-123.4484872,
+				48.4651544,
+				-123.4450964,
+				48.4674027
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Janessa Ct, Maple, ON L6A 0C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed8426094d6f4797aa7c995717dd694d|BN20130621|7.7.0.0|",
+				"addressLine": "23 Janessa Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Janessa Ct, Maple, ON L6A 0C8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 0C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4855199,
+					43.87684
+				]
+			},
+			"bbox": [
+				-79.4870794,
+				43.8757158,
+				-79.4839604,
+				43.8779642
+			]
+		}
+	]
+}

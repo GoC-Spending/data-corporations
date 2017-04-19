@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1450 Clarence Ave, Winnipeg, MB R3T 1T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6e333da499b43f1bdd75a944dac525a|BN20240253|7.7.0.0|",
+				"addressLine": "1450 Clarence Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1450 Clarence Ave, Winnipeg, MB R3T 1T6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chevrier",
+				"postalCode": "R3T 1T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.16958,
+					49.82933
+				]
+			},
+			"bbox": [
+				-97.1713227,
+				49.8282058,
+				-97.1678373,
+				49.8304542
+			]
+		}
+	]
+}

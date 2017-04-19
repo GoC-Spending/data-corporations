@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2285 Commissioner St, Vancouver, BC V5L 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "468e3d403c5c40c182dca87980b46660|BN20130447|7.7.0.0|",
+				"addressLine": "2285 Commissioner St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2285 Commissioner St, Vancouver, BC V5L 1A8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5L 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0589214,
+					49.2905855
+				]
+			},
+			"bbox": [
+				-123.0606449,
+				49.2894614,
+				-123.0571978,
+				49.2917097
+			]
+		}
+	]
+}

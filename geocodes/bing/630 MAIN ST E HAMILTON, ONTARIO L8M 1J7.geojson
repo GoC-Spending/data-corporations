@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "630 Main St E, Hamilton, ON L8M 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa8e5f80ae0c4f27a9e195b660a85359|BN20130533|7.7.0.0|",
+				"addressLine": "630 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "630 Main St E, Hamilton, ON L8M 1J7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "St Clair",
+				"postalCode": "L8M 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8453,
+					43.24883
+				]
+			},
+			"bbox": [
+				-79.8468433,
+				43.2477058,
+				-79.8437567,
+				43.2499542
+			]
+		}
+	]
+}

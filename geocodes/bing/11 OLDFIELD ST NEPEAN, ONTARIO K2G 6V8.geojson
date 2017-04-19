@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Oldfield St, Nepean, ON K2G 6V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8acac3baf0994f849ac22307ccc7ecb3|BN20220145|7.7.0.0|",
+				"addressLine": "11 Oldfield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Oldfield St, Nepean, ON K2G 6V8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 6V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7128199,
+					45.27843
+				]
+			},
+			"bbox": [
+				-75.7144175,
+				45.2773058,
+				-75.7112223,
+				45.2795542
+			]
+		}
+	]
+}

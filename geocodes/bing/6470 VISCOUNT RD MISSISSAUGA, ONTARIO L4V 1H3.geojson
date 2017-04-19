@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6470 Viscount Rd, Mississauga, ON L4V 1H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b059abd30c184e4caeea84bce414ac32|BN20200137|7.7.0.0|",
+				"addressLine": "6470 Viscount Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6470 Viscount Rd, Mississauga, ON L4V 1H3, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Malton",
+				"postalCode": "L4V 1H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.62653,
+					43.69496
+				]
+			},
+			"bbox": [
+				-79.6280848,
+				43.6938358,
+				-79.6249752,
+				43.6960842
+			]
+		}
+	]
+}

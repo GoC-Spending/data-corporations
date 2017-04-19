@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "680 Moray St, Winnipeg, MB R3J 3S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "891159c690c541f9bed001d23b223eb2|BN20200137|7.7.0.0|",
+				"addressLine": "680 Moray St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "680 Moray St, Winnipeg, MB R3J 3S3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Murray Industrial Park",
+				"postalCode": "R3J 3S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2598,
+					49.89534
+				]
+			},
+			"bbox": [
+				-97.2615451,
+				49.8942158,
+				-97.2580549,
+				49.8964642
+			]
+		}
+	]
+}

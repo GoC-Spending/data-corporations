@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Auto Vaughan Dr, Maple, ON L6A 4A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48e322d9d25640a8bf96ab0e90a4a8fb|BN20290118|7.7.0.0|",
+				"addressLine": "100 Auto Vaughan Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Auto Vaughan Dr, Maple, ON L6A 4A1, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 4A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5360754,
+					43.8358945
+				]
+			},
+			"bbox": [
+				-79.5376339,
+				43.8347704,
+				-79.534517,
+				43.8370187
+			]
+		}
+	]
+}

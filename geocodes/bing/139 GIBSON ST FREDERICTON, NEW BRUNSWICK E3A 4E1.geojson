@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "139 Gibson St, Fredericton, NB E3A 4E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f17af4cd52b413281eb75832f751b4d|BN20130422|7.7.0.0|",
+				"addressLine": "139 Gibson St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "139 Gibson St, Fredericton, NB E3A 4E1, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3A 4E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.62384,
+					45.96232
+				]
+			},
+			"bbox": [
+				-66.6254572,
+				45.9611958,
+				-66.6222228,
+				45.9634442
+			]
+		}
+	]
+}

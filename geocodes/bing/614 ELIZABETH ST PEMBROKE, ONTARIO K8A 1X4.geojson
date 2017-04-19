@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "614 Elizabeth St, Pembroke, ON K8A 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18047ec25cae4f40935f2a4f4eca31b3|BN20290118|7.7.0.0|",
+				"addressLine": "614 Elizabeth St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "614 Elizabeth St, Pembroke, ON K8A 1X4, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8A 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.10182,
+					45.81304
+				]
+			},
+			"bbox": [
+				-77.1034328,
+				45.8119158,
+				-77.1002072,
+				45.8141642
+			]
+		}
+	]
+}

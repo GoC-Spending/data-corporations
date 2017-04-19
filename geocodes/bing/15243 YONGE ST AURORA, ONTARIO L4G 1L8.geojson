@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15243 Yonge St, Aurora, ON L4G 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "321fa8ff640d40fd9999e5cc5a0605f4|BN20290118|7.7.0.0|",
+				"addressLine": "15243 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "15243 Yonge St, Aurora, ON L4G 1L8, Canada",
+				"locality": "Aurora",
+				"postalCode": "L4G 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4673,
+					43.99953
+				]
+			},
+			"bbox": [
+				-79.4688627,
+				43.9984058,
+				-79.4657373,
+				44.0006542
+			]
+		}
+	]
+}

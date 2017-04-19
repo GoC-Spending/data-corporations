@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Rue Taylor, Waterloo, QC J2M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c4f6b61d4d3441f9d9d7e6d18053214|BN20121763|7.7.0.0|",
+				"addressLine": "33 Rue Taylor",
+				"adminDistrict": "QC",
+				"adminDistrict2": "La Haute-Yamaska",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Rue Taylor, Waterloo, QC J2M, Canada",
+				"locality": "Waterloo",
+				"postalCode": "J2M"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.51479,
+					45.34672
+				]
+			},
+			"bbox": [
+				-72.5163895,
+				45.3455958,
+				-72.5131905,
+				45.3478442
+			]
+		}
+	]
+}

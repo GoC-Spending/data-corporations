@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "54 Clark St, Welland, ON L3B 5W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "430245d2371e439087d5d2517a21e403|BN20130422|7.7.0.0|",
+				"addressLine": "54 Clark St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "54 Clark St, Welland, ON L3B 5W6, Canada",
+				"locality": "Welland",
+				"postalCode": "L3B 5W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2592899,
+					42.96338
+				]
+			},
+			"bbox": [
+				-79.2608261,
+				42.9622558,
+				-79.2577537,
+				42.9645042
+			]
+		}
+	]
+}

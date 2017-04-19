@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10212 111 St NW, Edmonton, AB T5K 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c66dd119ff6b42ffb032c6252886e93d|BN20280152|7.7.0.0|",
+				"addressLine": "10212 111 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10212 111 St NW, Edmonton, AB T5K 1K9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Oliver",
+				"postalCode": "T5K 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5126,
+					53.5435299
+				]
+			},
+			"bbox": [
+				-113.5144918,
+				53.5424057,
+				-113.5107082,
+				53.5446541
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "103 Cheryl St E, Pembroke, ON K8A 7N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "238c6aca055d4fd6b906a74c437ddfed|BN20121764|7.7.0.0|",
+				"addressLine": "103 Cheryl St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "103 Cheryl St E, Pembroke, ON K8A 7N3, Canada",
+				"locality": "Laurentian Valley",
+				"neighborhood": "Pembroke",
+				"postalCode": "K8A 7N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.07337,
+					45.81247
+				]
+			},
+			"bbox": [
+				-77.0749828,
+				45.8113458,
+				-77.0717572,
+				45.8135942
+			]
+		}
+	]
+}

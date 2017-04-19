@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Nepean, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf7d708502184706bc450b45e2a4fc14|BN20130721|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Nepean, Ontario, Canada",
+				"locality": "Nepean"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7355117797852,
+					45.2719459533691
+				]
+			},
+			"bbox": [
+				-75.8019638061523,
+				45.2422714233398,
+				-75.699348449707,
+				45.3031387329102
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Nepean, Ottawa, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf7d708502184706bc450b45e2a4fc14|BN20130721|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Nepean, Ottawa, Ontario, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7643432617188,
+					45.3442993164063
+				]
+			},
+			"bbox": [
+				-75.8487777709961,
+				45.309398651123,
+				-75.7643356323242,
+				45.3442993164063
+			]
+		}
+	]
+}

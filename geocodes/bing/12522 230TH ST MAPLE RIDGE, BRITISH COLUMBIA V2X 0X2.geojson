@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12522 230 St, Maple Ridge, BC V2X 0X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a1c99865b454b50940a2e6c12237dde|BN20290118|7.7.0.0|",
+				"addressLine": "12522 230 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12522 230 St, Maple Ridge, BC V2X 0X2, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 0X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.58453,
+					49.22941
+				]
+			},
+			"bbox": [
+				-122.5862514,
+				49.2282858,
+				-122.5828086,
+				49.2305342
+			]
+		}
+	]
+}

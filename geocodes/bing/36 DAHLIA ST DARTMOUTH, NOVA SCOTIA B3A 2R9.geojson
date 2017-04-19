@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Dahlia St, Dartmouth, NS B3A 2R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f254b4bdb0454190952aad11b58b4b02|BN20290118|7.7.0.0|",
+				"addressLine": "36 Dahlia St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Dahlia St, Dartmouth, NS B3A 2R9, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3A 2R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.56683,
+					44.67157
+				]
+			},
+			"bbox": [
+				-63.5684108,
+				44.6704458,
+				-63.5652492,
+				44.6726942
+			]
+		}
+	]
+}

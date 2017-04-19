@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7626 Arvin Ct, Burnaby, BC V5A 4M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "924c0488fa2f4b30bcd1f3930d010733|BN20130442|7.7.0.0|",
+				"addressLine": "7626 Arvin Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7626 Arvin Ct, Burnaby, BC V5A 4M9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lochdale",
+				"postalCode": "V5A 4M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.94182,
+					49.2739
+				]
+			},
+			"bbox": [
+				-122.943543,
+				49.2727758,
+				-122.940097,
+				49.2750242
+			]
+		}
+	]
+}

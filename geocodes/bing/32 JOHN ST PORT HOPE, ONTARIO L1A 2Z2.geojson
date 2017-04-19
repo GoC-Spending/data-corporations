@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 John St, Port Hope, ON L1A 2Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "909eca11e2ea4c2eacb814b776bc64ef|BN20121763|7.7.0.0|",
+				"addressLine": "32 John St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 John St, Port Hope, ON L1A 2Z2, Canada",
+				"locality": "Port Hope",
+				"postalCode": "L1A 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.29501,
+					43.95123
+				]
+			},
+			"bbox": [
+				-78.2965715,
+				43.9501058,
+				-78.2934485,
+				43.9523542
+			]
+		}
+	]
+}

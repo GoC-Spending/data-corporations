@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "199 Breithaupt St, Kitchener, ON N2H 5H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07008cc9df924787ade889ab511d1a16|BN20121763|7.7.0.0|",
+				"addressLine": "199 Breithaupt St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "199 Breithaupt St, Kitchener, ON N2H 5H3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Mt Hope Huron Park",
+				"postalCode": "N2H 5H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4911599,
+					43.45691
+				]
+			},
+			"bbox": [
+				-80.4927085,
+				43.4557858,
+				-80.4896113,
+				43.4580342
+			]
+		}
+	]
+}

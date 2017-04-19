@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1822 Mackay St, Regina, SK S4N 6R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "756d189a3129496ebd156dcb84446e85|BN20130719|7.7.0.0|",
+				"addressLine": "1822 Mackay St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1822 Mackay St, Regina, SK S4N 6R4, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 6R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.5808749,
+					50.4498808
+				]
+			},
+			"bbox": [
+				-104.5826403,
+				50.4487566,
+				-104.5791095,
+				50.4510049
+			]
+		}
+	]
+}

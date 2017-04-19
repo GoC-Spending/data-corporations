@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Lincoln Ave, Toronto, ON M6P 1M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "133e2b9e59334b579fa9dad5f8dbf170|BN20130621|7.7.0.0|",
+				"addressLine": "38 Lincoln Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Lincoln Ave, Toronto, ON M6P 1M8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park North",
+				"postalCode": "M6P 1M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47889,
+					43.65976
+				]
+			},
+			"bbox": [
+				-79.4804439,
+				43.6586358,
+				-79.4773361,
+				43.6608842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Water St, Saint John, NB E2L 0B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "844d9040fbc7477494653ad51daf9ba7|BN20130442|7.7.0.0|",
+				"addressLine": "111 Water St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Water St, Saint John, NB E2L 0B1, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 0B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.06236,
+					45.27
+				]
+			},
+			"bbox": [
+				-66.0639573,
+				45.2688758,
+				-66.0607627,
+				45.2711242
+			]
+		}
+	]
+}

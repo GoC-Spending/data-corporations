@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Geraldton, P0T 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71bf596c8952434fb744b2ac595f5ead|BN20130533|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "Geraldton, P0T 1M0, Canada",
+				"locality": "Geraldton",
+				"postalCode": "P0T 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.9500579833984,
+					49.7195892333984
+				]
+			},
+			"bbox": [
+				-86.9580234119218,
+				49.7157265158278,
+				-86.942092554875,
+				49.7234519509691
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Lot 6, Prince Edward Island, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71bf596c8952434fb744b2ac595f5ead|BN20130533|7.7.0.0|",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lot 6, Prince Edward Island, Canada",
+				"locality": "Lot 6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.1669998168945,
+					46.7169990539551
+				]
+			},
+			"bbox": [
+				-64.2233100920903,
+				46.6880286709625,
+				-64.1106895416988,
+				46.7459694369476
+			]
+		}
+	]
+}

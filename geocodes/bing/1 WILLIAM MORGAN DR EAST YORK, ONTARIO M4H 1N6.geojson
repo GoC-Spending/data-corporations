@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 William Morgan Dr, East York, ON M4H 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "41b26dc802b84fdd9b81414c83e8e4b5|BN20121763|7.7.0.0|",
+				"addressLine": "1 William Morgan Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 William Morgan Dr, East York, ON M4H 1N6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Thorncliffe Park",
+				"postalCode": "M4H 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34212,
+					43.7084199
+				]
+			},
+			"bbox": [
+				-79.3436751,
+				43.7072957,
+				-79.3405649,
+				43.7095441
+			]
+		}
+	]
+}

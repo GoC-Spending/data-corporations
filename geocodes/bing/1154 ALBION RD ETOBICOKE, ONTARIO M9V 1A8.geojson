@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1154 Albion Rd, Etobicoke, ON M9V 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "acf4127b304648a1a2894c0b876b67cb|BN20130632|7.7.0.0|",
+				"addressLine": "1154 Albion Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1154 Albion Rd, Etobicoke, ON M9V 1A8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Thistletown-Beaumond Heights",
+				"postalCode": "M9V 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56733,
+					43.73804
+				]
+			},
+			"bbox": [
+				-79.5688859,
+				43.7369158,
+				-79.5657741,
+				43.7391642
+			]
+		}
+	]
+}

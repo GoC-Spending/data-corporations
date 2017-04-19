@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5980 McMurray Ave, Burnaby, BC V5H 3E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "393954d65f944ab5b421424cfbab0e68|BN20130620|7.7.0.0|",
+				"addressLine": "5980 McMurray Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5980 McMurray Ave, Burnaby, BC V5H 3E4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Marlborough",
+				"postalCode": "V5H 3E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.99602,
+					49.23015
+				]
+			},
+			"bbox": [
+				-122.9977415,
+				49.2290258,
+				-122.9942985,
+				49.2312742
+			]
+		}
+	]
+}

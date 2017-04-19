@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "173 Forest Lake Rd, Sudbury, ON P3G 1K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "17c0c47bc5334e369bfbb16d813505df|BN20220145|7.7.0.0|",
+				"addressLine": "173 Forest Lake Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "173 Forest Lake Rd, Sudbury, ON P3G 1K8, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3G 1K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0017822,
+					46.3923343
+				]
+			},
+			"bbox": [
+				-81.003412,
+				46.3912102,
+				-81.0001523,
+				46.3934585
+			]
+		}
+	]
+}

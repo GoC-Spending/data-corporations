@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Rutherford Rd N, Brampton, ON L6V 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c302eb5b6fe4d1b86255e99179e54f6|BN20300154|7.7.0.0|",
+				"addressLine": "99 Rutherford Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Rutherford Rd N, Brampton, ON L6V 2J3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6V 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.74944,
+					43.70516
+				]
+			},
+			"bbox": [
+				-79.750995,
+				43.7040358,
+				-79.747885,
+				43.7062842
+			]
+		}
+	]
+}

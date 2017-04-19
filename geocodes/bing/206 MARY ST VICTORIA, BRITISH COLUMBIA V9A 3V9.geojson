@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "206 Mary St, Victoria, BC V9A 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "72c3c15da8c84060ac6094454675493c|BN20200137|7.7.0.0|",
+				"addressLine": "206 Mary St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "206 Mary St, Victoria, BC V9A 3V9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38633,
+					48.42857
+				]
+			},
+			"bbox": [
+				-123.3880241,
+				48.4274458,
+				-123.3846359,
+				48.4296942
+			]
+		}
+	]
+}

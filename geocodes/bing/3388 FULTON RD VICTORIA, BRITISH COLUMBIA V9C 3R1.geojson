@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3388 Fulton Rd, Colwood, BC V9C 3R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1764fb39aa134f378d01853a6901d86a|BN20130522|7.7.0.0|",
+				"addressLine": "3388 Fulton Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3388 Fulton Rd, Colwood, BC V9C 3R1, Canada",
+				"locality": "Colwood",
+				"postalCode": "V9C 3R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5078,
+					48.4216
+				]
+			},
+			"bbox": [
+				-123.5094939,
+				48.4204758,
+				-123.5061061,
+				48.4227242
+			]
+		}
+	]
+}

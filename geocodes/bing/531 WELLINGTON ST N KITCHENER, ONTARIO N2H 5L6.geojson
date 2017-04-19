@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "531 Wellington St N, Kitchener, ON N2H 5L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7663f126d88a45c98c068b2ec6a8b908|BN20130422|7.7.0.0|",
+				"addressLine": "531 Wellington St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "531 Wellington St N, Kitchener, ON N2H 5L6, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Northward",
+				"postalCode": "N2H 5L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.47976,
+					43.46203
+				]
+			},
+			"bbox": [
+				-80.4813088,
+				43.4609058,
+				-80.4782112,
+				43.4631542
+			]
+		}
+	]
+}

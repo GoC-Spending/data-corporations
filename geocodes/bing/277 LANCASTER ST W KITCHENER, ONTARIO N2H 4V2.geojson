@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "277 Lancaster St W, Kitchener, ON N2H 4V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c88b6eb75b624d528ebea6d9e31d5670|BN20130522|7.7.0.0|",
+				"addressLine": "277 Lancaster St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "277 Lancaster St W, Kitchener, ON N2H 4V2, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Fairfield",
+				"postalCode": "N2H 4V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.48457,
+					43.46812
+				]
+			},
+			"bbox": [
+				-80.4861189,
+				43.4669958,
+				-80.4830211,
+				43.4692442
+			]
+		}
+	]
+}

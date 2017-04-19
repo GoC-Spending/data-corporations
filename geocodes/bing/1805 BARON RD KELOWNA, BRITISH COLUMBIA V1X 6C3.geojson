@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1805 Baron Rd, Kelowna, BC V1X 6C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa7973fc26424b6aadd8288f8b428fe2|BN20181720|7.7.0.0|",
+				"addressLine": "1805 Baron Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1805 Baron Rd, Kelowna, BC V1X 6C3, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Central City",
+				"postalCode": "V1X 6C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.422759,
+					49.8856095
+				]
+			},
+			"bbox": [
+				-119.4245038,
+				49.8844854,
+				-119.4210143,
+				49.8867337
+			]
+		}
+	]
+}

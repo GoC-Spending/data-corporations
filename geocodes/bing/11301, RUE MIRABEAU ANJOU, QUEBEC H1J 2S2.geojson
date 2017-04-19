@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11301 Rue Mirabeau, Anjou, QC H1J 2S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6fc7be4f2da4a85951fa3674eb7b611|BN20130521|7.7.0.0|",
+				"addressLine": "11301 Rue Mirabeau",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "11301 Rue Mirabeau, Anjou, QC H1J 2S2, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 2S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.58784,
+					45.6186999
+				]
+			},
+			"bbox": [
+				-73.5894472,
+				45.6175757,
+				-73.5862328,
+				45.6198241
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 Fennings St, Toronto, ON M6J 3B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48cacdb41e304bfabb58c23d14fa66fc|BN20260223|7.7.0.0|",
+				"addressLine": "41 Fennings St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 Fennings St, Toronto, ON M6J 3B9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 3B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42137,
+					43.64512
+				]
+			},
+			"bbox": [
+				-79.4229235,
+				43.6439958,
+				-79.4198165,
+				43.6462442
+			]
+		}
+	]
+}

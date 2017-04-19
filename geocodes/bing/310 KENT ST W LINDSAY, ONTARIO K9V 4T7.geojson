@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "310 Kent St W, Lindsay, ON K9V 4T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b255b90ce764bc5b5b52682dfebfc8a|BN20130521|7.7.0.0|",
+				"addressLine": "310 Kent St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "310 Kent St W, Lindsay, ON K9V 4T7, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Lindsay",
+				"postalCode": "K9V 4T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.75194,
+					44.35219
+				]
+			},
+			"bbox": [
+				-78.7535121,
+				44.3510658,
+				-78.7503679,
+				44.3533142
+			]
+		}
+	]
+}

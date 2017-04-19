@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3095 Lonsdale Ave, North Vancouver, BC V7N 3J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92bb8cbdf6eb420ebc7735eab8a83dbe|BN20131519|7.7.0.0|",
+				"addressLine": "3095 Lonsdale Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3095 Lonsdale Ave, North Vancouver, BC V7N 3J6, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norwood Queens",
+				"postalCode": "V7N 3J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0721049,
+					49.3372879
+				]
+			},
+			"bbox": [
+				-123.0738301,
+				49.3361637,
+				-123.0703797,
+				49.338412
+			]
+		}
+	]
+}

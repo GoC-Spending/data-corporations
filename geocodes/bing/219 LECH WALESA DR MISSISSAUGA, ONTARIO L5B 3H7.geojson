@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "219 Lech Walesa Dr, Mississauga, ON L5B 3H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e401ed8fae384b04ab1d692413b09fc1|BN20130625|7.7.0.0|",
+				"addressLine": "219 Lech Walesa Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "219 Lech Walesa Dr, Mississauga, ON L5B 3H7, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5B 3H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.62879,
+					43.58035
+				]
+			},
+			"bbox": [
+				-79.6303418,
+				43.5792258,
+				-79.6272382,
+				43.5814742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1703 Victoria Park Ave, Toronto, ON M1R 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3adfcfcfe8064b1ba64e63a8815b04c8|BN20181720|7.7.0.0|",
+				"addressLine": "1703 Victoria Park Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1703 Victoria Park Ave, Toronto, ON M1R 1R9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30693,
+					43.73589
+				]
+			},
+			"bbox": [
+				-79.3084858,
+				43.7347658,
+				-79.3053742,
+				43.7370142
+			]
+		}
+	]
+}

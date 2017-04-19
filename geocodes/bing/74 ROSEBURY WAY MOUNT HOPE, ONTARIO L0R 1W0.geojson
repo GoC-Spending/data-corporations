@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "74 Rosebury Way, Mt Hope, ON L0R 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d827d1c260f74410bd3a248e184a6d56|BN20130620|7.7.0.0|",
+				"addressLine": "74 Rosebury Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "74 Rosebury Way, Mt Hope, ON L0R 1W0, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Mt Hope",
+				"postalCode": "L0R 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92192,
+					43.14843
+				]
+			},
+			"bbox": [
+				-79.9234608,
+				43.1473058,
+				-79.9203792,
+				43.1495542
+			]
+		}
+	]
+}

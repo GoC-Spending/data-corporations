@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5191 Smith Ave, Burnaby, BC V5G 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fbbb57308d140119da88fd91351fa29|BN20200137|7.7.0.0|",
+				"addressLine": "5191 Smith Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5191 Smith Ave, Burnaby, BC V5G 2W8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Garden Village",
+				"postalCode": "V5G 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02029,
+					49.23727
+				]
+			},
+			"bbox": [
+				-123.0220117,
+				49.2361458,
+				-123.0185683,
+				49.2383942
+			]
+		}
+	]
+}

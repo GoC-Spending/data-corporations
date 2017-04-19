@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15995 Airport Rd, Caledon East, ON L7C 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da76805681b944c1a032e7abc4acbfe0|BN20300154|7.7.0.0|",
+				"addressLine": "15995 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "15995 Airport Rd, Caledon East, ON L7C 1H9, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Caledon East",
+				"postalCode": "L7C 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86664,
+					43.87012
+				]
+			},
+			"bbox": [
+				-79.8681993,
+				43.8689958,
+				-79.8650807,
+				43.8712442
+			]
+		}
+	]
+}

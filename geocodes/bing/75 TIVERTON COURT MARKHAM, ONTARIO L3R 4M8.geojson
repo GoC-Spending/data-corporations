@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Tiverton Ct, Markham, ON L3R 4M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d311930ae30f46ae8f15bdf471a13a68|BN20130621|7.7.0.0|",
+				"addressLine": "75 Tiverton Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Tiverton Ct, Markham, ON L3R 4M8, Canada",
+				"locality": "Markham",
+				"neighborhood": "Buttonville",
+				"postalCode": "L3R 4M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37088,
+					43.85392
+				]
+			},
+			"bbox": [
+				-79.3724389,
+				43.8527958,
+				-79.3693211,
+				43.8550442
+			]
+		}
+	]
+}

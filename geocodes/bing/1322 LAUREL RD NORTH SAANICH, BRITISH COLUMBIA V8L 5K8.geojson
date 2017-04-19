@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1322 Laurel Rd, North Saanich, BC V8L 5K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03b131b2b3954d918f7f754335f3a3ae|BN20240253|7.7.0.0|",
+				"addressLine": "1322 Laurel Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1322 Laurel Rd, North Saanich, BC V8L 5K8, Canada",
+				"locality": "North Saanich",
+				"postalCode": "V8L 5K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.44436,
+					48.68648
+				]
+			},
+			"bbox": [
+				-123.4460628,
+				48.6853558,
+				-123.4426572,
+				48.6876042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "435 Stone Rd W, Guelph, ON N1G 2X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dade7cf088f740fba64c90af94a51b6b|BN20220145|7.7.0.0|",
+				"addressLine": "435 Stone Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "435 Stone Rd W, Guelph, ON N1G 2X6, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Old University",
+				"postalCode": "N1G 2X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2379967,
+					43.5169509
+				]
+			},
+			"bbox": [
+				-80.2395469,
+				43.5158267,
+				-80.2364465,
+				43.518075
+			]
+		}
+	]
+}

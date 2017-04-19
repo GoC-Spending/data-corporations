@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "586 Rue David, Gatineau, QC J8L 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4d3b44059884d8b8d3658fe87b4483d|BN20130423|7.7.0.0|",
+				"addressLine": "586 Rue David",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "586 Rue David, Gatineau, QC J8L 2A7, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier de Masson-Angers",
+				"postalCode": "J8L 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.4237799,
+					45.58431
+				]
+			},
+			"bbox": [
+				-75.4253862,
+				45.5831858,
+				-75.4221736,
+				45.5854342
+			]
+		}
+	]
+}

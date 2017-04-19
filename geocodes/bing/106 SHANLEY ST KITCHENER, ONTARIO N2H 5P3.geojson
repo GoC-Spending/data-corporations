@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 Shanley St, Kitchener, ON N2H 5P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "34d6c75b79984881a5339901d5984a01|BN20130533|7.7.0.0|",
+				"addressLine": "106 Shanley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 Shanley St, Kitchener, ON N2H 5P3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Mt Hope Huron Park",
+				"postalCode": "N2H 5P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.50069,
+					43.45729
+				]
+			},
+			"bbox": [
+				-80.5022387,
+				43.4561658,
+				-80.4991413,
+				43.4584142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11260 184 St NW, Edmonton, AB T5S 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a76a269dd9b47959b9395111e2cc634|BN20240423|7.7.0.0|",
+				"addressLine": "11260 184 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11260 184 St NW, Edmonton, AB T5S 2S6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "White Industrial",
+				"postalCode": "T5S 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.64033,
+					53.56265
+				]
+			},
+			"bbox": [
+				-113.6422227,
+				53.5615258,
+				-113.6384373,
+				53.5637742
+			]
+		}
+	]
+}

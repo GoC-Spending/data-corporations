@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7242 Colonel Talbot Rd, London, ON N6L 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31eceb14aba84ba5a1d8927c9006d022|CO30275936|7.7.0.0|",
+				"addressLine": "7242 Colonel Talbot Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "7242 Colonel Talbot Rd, London, ON N6L 1H8, Canada",
+				"locality": "London",
+				"neighborhood": "Tempo",
+				"postalCode": "N6L 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.267,
+					42.8361
+				]
+			},
+			"bbox": [
+				-81.268533,
+				42.8349758,
+				-81.265467,
+				42.8372242
+			]
+		}
+	]
+}

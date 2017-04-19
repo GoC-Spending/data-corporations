@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2530 Rue Lapierre, La Salle, QC H8N 2W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d11392928a9f470cbe124c8699227149|BN20130447|7.7.0.0|",
+				"addressLine": "2530 Rue Lapierre",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2530 Rue Lapierre, La Salle, QC H8N 2W9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8N 2W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.63095,
+					45.44239
+				]
+			},
+			"bbox": [
+				-73.6325522,
+				45.4412658,
+				-73.6293478,
+				45.4435142
+			]
+		}
+	]
+}

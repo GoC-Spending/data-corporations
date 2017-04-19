@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 King St W, Bowmanville, ON L1C 1R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f57d561f5ac4052abc8db15ff9636c8|BN20130634|7.7.0.0|",
+				"addressLine": "38 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 King St W, Bowmanville, ON L1C 1R3, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Bowmanville",
+				"postalCode": "L1C 1R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6901847,
+					43.9126982
+				]
+			},
+			"bbox": [
+				-78.6917452,
+				43.911574,
+				-78.6886242,
+				43.9138223
+			]
+		}
+	]
+}

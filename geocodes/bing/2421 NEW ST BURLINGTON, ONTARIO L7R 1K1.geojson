@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2421 New St, Burlington, ON L7R 1K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "02651ee8b97e48248f5a2849ee193431|BN20130521|7.7.0.0|",
+				"addressLine": "2421 New St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2421 New St, Burlington, ON L7R 1K1, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Central",
+				"postalCode": "L7R 1K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7871399,
+					43.3379199
+				]
+			},
+			"bbox": [
+				-79.7886855,
+				43.3367957,
+				-79.7855943,
+				43.3390441
+			]
+		}
+	]
+}

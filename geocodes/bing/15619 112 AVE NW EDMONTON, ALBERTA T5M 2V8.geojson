@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15619 112 Ave NW, Edmonton, AB T5M 2V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0ab9b1f9c9d4fa080df2dad8cb001de|BN20130625|7.7.0.0|",
+				"addressLine": "15619 112 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15619 112 Ave NW, Edmonton, AB T5M 2V8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Sheffield Industrial",
+				"postalCode": "T5M 2V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.59254,
+					53.56048
+				]
+			},
+			"bbox": [
+				-113.5944326,
+				53.5593558,
+				-113.5906474,
+				53.5616042
+			]
+		}
+	]
+}

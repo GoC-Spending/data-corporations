@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "308 Golden Forest Rd, Maple, ON L6A 0S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8f537acf8934e69a1fc7771af404baf|BN20130721|7.7.0.0|",
+				"addressLine": "308 Golden Forest Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "308 Golden Forest Rd, Maple, ON L6A 0S8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 0S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49533,
+					43.84864
+				]
+			},
+			"bbox": [
+				-79.4968888,
+				43.8475158,
+				-79.4937712,
+				43.8497642
+			]
+		}
+	]
+}

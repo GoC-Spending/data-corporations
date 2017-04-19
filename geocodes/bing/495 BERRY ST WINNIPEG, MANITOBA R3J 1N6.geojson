@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "495 Berry St, Winnipeg, MB R3J 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a22a245494bf4fbbb6723f6cd4327d14|BN20130447|7.7.0.0|",
+				"addressLine": "495 Berry St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "495 Berry St, Winnipeg, MB R3J 1N6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "King Edward",
+				"postalCode": "R3J 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2099099,
+					49.89034
+				]
+			},
+			"bbox": [
+				-97.2116548,
+				49.8892158,
+				-97.208165,
+				49.8914642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "341 Marwood Dr, Oshawa, ON L1H 7P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd36cefd6ee44467a6640c66bed0555b|BN20210145|7.7.0.0|",
+				"addressLine": "341 Marwood Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "341 Marwood Dr, Oshawa, ON L1H 7P8, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Farewell",
+				"postalCode": "L1H 7P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8308,
+					43.87592
+				]
+			},
+			"bbox": [
+				-78.8323595,
+				43.8747958,
+				-78.8292405,
+				43.8770442
+			]
+		}
+	]
+}

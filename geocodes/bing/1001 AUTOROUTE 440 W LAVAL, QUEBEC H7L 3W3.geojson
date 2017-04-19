@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1001 AUT-440 O, Laval, QC H7L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c75548a729cf426ea6d8bca4571cc143|BN20130625|7.7.0.0|",
+				"addressLine": "1001 AUT-440 O",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1001 AUT-440 O, Laval, QC H7L, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 3W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7392135,
+					45.5840287
+				]
+			},
+			"bbox": [
+				-73.7408198,
+				45.5829046,
+				-73.7376073,
+				45.5851529
+			]
+		}
+	]
+}

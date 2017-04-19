@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Konrad Cres, Markham, ON L3R 8T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2ada6d51621433aa38170fad2a69dc0|BN20130620|7.7.0.0|",
+				"addressLine": "10 Konrad Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Konrad Cres, Markham, ON L3R 8T7, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 8T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35679,
+					43.83477
+				]
+			},
+			"bbox": [
+				-79.3583484,
+				43.8336458,
+				-79.3552316,
+				43.8358942
+			]
+		}
+	]
+}

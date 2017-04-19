@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "145 Wellington St, St Thomas, ON N5R 2R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "120342fd24ef4aa5ab9b4a5d395c72b1|BN20121764|7.7.0.0|",
+				"addressLine": "145 Wellington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "145 Wellington St, St Thomas, ON N5R 2R8, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5R 2R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1899231,
+					42.7753249
+				]
+			},
+			"bbox": [
+				-81.1914546,
+				42.7742007,
+				-81.1883916,
+				42.776449
+			]
+		}
+	]
+}

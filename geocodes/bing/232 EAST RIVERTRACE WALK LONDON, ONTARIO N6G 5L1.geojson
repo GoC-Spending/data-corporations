@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "232 E Rivertrace Walk, London, ON N6G 5L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75801a02027a4e77adb089af317427e1|BN20130533|7.7.0.0|",
+				"addressLine": "232 E Rivertrace Walk",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "232 E Rivertrace Walk, London, ON N6G 5L1, Canada",
+				"locality": "London",
+				"neighborhood": "Sunningdale",
+				"postalCode": "N6G 5L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3006,
+					43.0252
+				]
+			},
+			"bbox": [
+				-81.3021377,
+				43.0240758,
+				-81.2990623,
+				43.0263242
+			]
+		}
+	]
+}

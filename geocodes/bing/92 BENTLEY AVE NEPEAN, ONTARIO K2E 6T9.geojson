@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "92 Bentley Ave, Nepean, ON K2E 6T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcb9643fec4543ca8a6d94c3b469f122|BN20240253|7.7.0.0|",
+				"addressLine": "92 Bentley Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "92 Bentley Ave, Nepean, ON K2E 6T9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 6T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71302,
+					45.33466
+				]
+			},
+			"bbox": [
+				-75.7146192,
+				45.3335358,
+				-75.7114208,
+				45.3357842
+			]
+		}
+	]
+}

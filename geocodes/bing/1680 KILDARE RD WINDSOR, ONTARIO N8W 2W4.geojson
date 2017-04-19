@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1680 Kildare Rd, Windsor, ON N8W 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a317c1b834d40b7a24db7b19b0257fc|BN20210145|7.7.0.0|",
+				"addressLine": "1680 Kildare Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1680 Kildare Rd, Windsor, ON N8W 2W4, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Walkerville",
+				"postalCode": "N8W 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.00137,
+					42.30557
+				]
+			},
+			"bbox": [
+				-83.00289,
+				42.3044458,
+				-82.99985,
+				42.3066942
+			]
+		}
+	]
+}

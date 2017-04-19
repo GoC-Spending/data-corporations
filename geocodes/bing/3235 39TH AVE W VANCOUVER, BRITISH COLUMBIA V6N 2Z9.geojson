@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3235 W 39th Ave, Vancouver, BC V6N 2Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21eb656f712b407db245545a804334fd|BN20130423|7.7.0.0|",
+				"addressLine": "3235 W 39th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3235 W 39th Ave, Vancouver, BC V6N 2Z9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6N 2Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17687,
+					49.2369
+				]
+			},
+			"bbox": [
+				-123.1785917,
+				49.2357758,
+				-123.1751483,
+				49.2380242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1001 Fennell Ave E, Hamilton, ON L8T 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0a412285e84b46e48a429146992c307b|BN20240253|7.7.0.0|",
+				"addressLine": "1001 Fennell Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1001 Fennell Ave E, Hamilton, ON L8T 1R1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Sunninghill",
+				"postalCode": "L8T 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8364033,
+					43.2274722
+				]
+			},
+			"bbox": [
+				-79.8379461,
+				43.2263481,
+				-79.8348605,
+				43.2285964
+			]
+		}
+	]
+}

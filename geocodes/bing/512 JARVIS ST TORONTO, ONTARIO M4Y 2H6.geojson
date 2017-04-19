@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "512 Jarvis St, Toronto, ON M4Y 2H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7368220a27140c3bfc32587483b69fe|BN20130522|7.7.0.0|",
+				"addressLine": "512 Jarvis St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "512 Jarvis St, Toronto, ON M4Y 2H6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M4Y 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37923,
+					43.66761
+				]
+			},
+			"bbox": [
+				-79.3807841,
+				43.6664858,
+				-79.3776759,
+				43.6687342
+			]
+		}
+	]
+}

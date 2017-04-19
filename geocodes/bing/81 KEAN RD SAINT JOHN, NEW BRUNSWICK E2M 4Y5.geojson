@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 Kean Rd, Saint John, NB E2M 4Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c59d25e24997481fb4df81e477d0e1ad|BN20130634|7.7.0.0|",
+				"addressLine": "81 Kean Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 Kean Rd, Saint John, NB E2M 4Y5, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 4Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.09625,
+					45.24179
+				]
+			},
+			"bbox": [
+				-66.0978465,
+				45.2406658,
+				-66.0946535,
+				45.2429142
+			]
+		}
+	]
+}

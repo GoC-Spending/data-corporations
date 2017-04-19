@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Victoria St, New Hamburg, ON N3A 4M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "770026a0b1dc4114bcb8ff3bd230235f|BN20250135|7.7.0.0|",
+				"addressLine": "8 Victoria St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Victoria St, New Hamburg, ON N3A 4M4, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "New Hamburg",
+				"postalCode": "N3A 4M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7069928,
+					43.3835199
+				]
+			},
+			"bbox": [
+				-80.7085396,
+				43.3823958,
+				-80.705446,
+				43.3846441
+			]
+		}
+	]
+}

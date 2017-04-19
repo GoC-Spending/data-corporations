@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "145 N Meadow Cres, Thornhill, ON L4J 3C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "37a33a48afb9488fbec8c895c4d54374|BN20130632|7.7.0.0|",
+				"addressLine": "145 N Meadow Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "145 N Meadow Cres, Thornhill, ON L4J 3C4, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 3C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43522,
+					43.80041
+				]
+			},
+			"bbox": [
+				-79.4367775,
+				43.7992858,
+				-79.4336625,
+				43.8015342
+			]
+		}
+	]
+}

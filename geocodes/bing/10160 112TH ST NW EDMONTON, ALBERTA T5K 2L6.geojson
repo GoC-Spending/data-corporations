@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10160 112 St NW, Edmonton, AB T5K 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5c4bd16a5fc4f9da70ce69a22c6a205|BN20240423|7.7.0.0|",
+				"addressLine": "10160 112 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10160 112 St NW, Edmonton, AB T5K 2L6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Oliver",
+				"postalCode": "T5K 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51447,
+					53.54231
+				]
+			},
+			"bbox": [
+				-113.5163618,
+				53.5411858,
+				-113.5125782,
+				53.5434342
+			]
+		}
+	]
+}

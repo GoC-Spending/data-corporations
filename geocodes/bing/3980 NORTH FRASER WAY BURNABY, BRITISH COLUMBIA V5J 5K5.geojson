@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3980 North Fraser Way, Burnaby, BC V5J 5K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1027c51de382436ba9854ae85ae87165|BN20130447|7.7.0.0|",
+				"addressLine": "3980 North Fraser Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3980 North Fraser Way, Burnaby, BC V5J 5K5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0130446,
+					49.200096
+				]
+			},
+			"bbox": [
+				-123.0147651,
+				49.1989719,
+				-123.0113242,
+				49.2012202
+			]
+		}
+	]
+}

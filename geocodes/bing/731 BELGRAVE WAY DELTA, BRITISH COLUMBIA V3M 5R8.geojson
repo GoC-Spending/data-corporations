@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "731 Belgrave Way, Delta, BC V3M 5R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e10f4f35c694eca9a0bc130b26d8eed|BN20250135|7.7.0.0|",
+				"addressLine": "731 Belgrave Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "731 Belgrave Way, Delta, BC V3M 5R8, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 5R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9349215,
+					49.1799345
+				]
+			},
+			"bbox": [
+				-122.9366412,
+				49.1788103,
+				-122.9332018,
+				49.1810586
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8600 Franklin Ave, Fort McMurray, AB T9H 4G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c99ad7b06cd4dec97ff911fa523feb3|BN20130721|7.7.0.0|",
+				"addressLine": "8600 Franklin Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8600 Franklin Ave, Fort McMurray, AB T9H 4G8, Canada",
+				"locality": "Wood Buffalo",
+				"neighborhood": "Fort McMurray",
+				"postalCode": "T9H 4G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.3603465,
+					56.7196517
+				]
+			},
+			"bbox": [
+				-111.3623952,
+				56.7185276,
+				-111.3582979,
+				56.7207759
+			]
+		}
+	]
+}

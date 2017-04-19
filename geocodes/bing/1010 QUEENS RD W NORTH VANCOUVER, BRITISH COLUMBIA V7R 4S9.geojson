@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1010 W Queens Rd, North Vancouver, BC V7R 4S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69cf668283374bbb89421580f10916bf|BN20130423|7.7.0.0|",
+				"addressLine": "1010 W Queens Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1010 W Queens Rd, North Vancouver, BC V7R 4S9, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Highlands",
+				"postalCode": "V7R 4S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10044,
+					49.33684
+				]
+			},
+			"bbox": [
+				-123.1021652,
+				49.3357158,
+				-123.0987148,
+				49.3379642
+			]
+		}
+	]
+}

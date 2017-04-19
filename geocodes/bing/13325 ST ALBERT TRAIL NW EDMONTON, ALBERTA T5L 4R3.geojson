@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13325 St Albert Trl NW, Edmonton, AB T5L 4R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8b99d53680746c880a45e00faf3410a|BN20300154|7.7.0.0|",
+				"addressLine": "13325 St Albert Trl NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "13325 St Albert Trl NW, Edmonton, AB T5L 4R3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McArthur Industrial",
+				"postalCode": "T5L 4R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5688442,
+					53.593975
+				]
+			},
+			"bbox": [
+				-113.5707383,
+				53.5928509,
+				-113.5669501,
+				53.5950992
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Hayfield Cres, Richmond Hill, ON L4E 0A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "51322c8118cf4497934307cda57a5f21|BN20171457|7.7.0.0|",
+				"addressLine": "36 Hayfield Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Hayfield Cres, Richmond Hill, ON L4E 0A4, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Jefferson",
+				"postalCode": "L4E 0A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47374,
+					43.91261
+				]
+			},
+			"bbox": [
+				-79.4753005,
+				43.9114858,
+				-79.4721795,
+				43.9137342
+			]
+		}
+	]
+}

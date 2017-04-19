@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Rockley Ct, Thornhill, ON L3T 6V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "12c6977a77f84744b908371761016228|BN20121764|7.7.0.0|",
+				"addressLine": "11 Rockley Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Rockley Ct, Thornhill, ON L3T 6V1, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 6V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37192,
+					43.8274199
+				]
+			},
+			"bbox": [
+				-79.3734782,
+				43.8262957,
+				-79.3703618,
+				43.8285441
+			]
+		}
+	]
+}

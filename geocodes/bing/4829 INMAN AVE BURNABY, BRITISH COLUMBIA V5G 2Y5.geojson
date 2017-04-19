@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4829 Inman Ave, Burnaby, BC V5G 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "560837ada8304afa8b47fa420e1aaf23|BN20171457|7.7.0.0|",
+				"addressLine": "4829 Inman Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4829 Inman Ave, Burnaby, BC V5G 2Y5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Garden Village",
+				"postalCode": "V5G 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0159549,
+					49.2408801
+				]
+			},
+			"bbox": [
+				-123.0176767,
+				49.2397559,
+				-123.0142331,
+				49.2420043
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Nesbitt St, Nepean, ON K2H 8C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d54befaaa6674a5e9ce00b24efb2a034|BN20290118|7.7.0.0|",
+				"addressLine": "15 Nesbitt St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Nesbitt St, Nepean, ON K2H 8C4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2H 8C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.84778,
+					45.3563
+				]
+			},
+			"bbox": [
+				-75.8493798,
+				45.3551758,
+				-75.8461802,
+				45.3574242
+			]
+		}
+	]
+}

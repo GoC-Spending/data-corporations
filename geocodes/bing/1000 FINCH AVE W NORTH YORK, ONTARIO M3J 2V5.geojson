@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1000 Finch Ave W, North York, ON M3J 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c50e6fc5ff8d4a35941243cae947d1bc|BN20130533|7.7.0.0|",
+				"addressLine": "1000 Finch Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1000 Finch Ave W, North York, ON M3J 2V5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4686,
+					43.7691299
+				]
+			},
+			"bbox": [
+				-79.4701567,
+				43.7680057,
+				-79.4670433,
+				43.7702541
+			]
+		}
+	]
+}

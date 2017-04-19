@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Traymore St, Brampton, ON L7A 2G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c11443f4cb1c45d397304ad5403e8632|BN20130719|7.7.0.0|",
+				"addressLine": "16 Traymore St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Traymore St, Brampton, ON L7A 2G2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L7A 2G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80172,
+					43.6976299
+				]
+			},
+			"bbox": [
+				-79.8032749,
+				43.6965057,
+				-79.8001651,
+				43.6987541
+			]
+		}
+	]
+}

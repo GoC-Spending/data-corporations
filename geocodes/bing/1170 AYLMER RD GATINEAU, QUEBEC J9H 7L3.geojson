@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1170 Chemin d'Aylmer, Gatineau, QC J9H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22838e81471b457b8ffbd82940000ff4|BN20210145|7.7.0.0|",
+				"addressLine": "1170 Chemin d'Aylmer",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "1170 Chemin d'Aylmer, Gatineau, QC J9H, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Aylmer",
+				"postalCode": "J9H 7L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.778552,
+					45.4099655
+				]
+			},
+			"bbox": [
+				-75.7801533,
+				45.4088414,
+				-75.7769507,
+				45.4110897
+			]
+		}
+	]
+}

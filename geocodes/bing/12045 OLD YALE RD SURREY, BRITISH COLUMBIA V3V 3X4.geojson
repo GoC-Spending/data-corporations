@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12045 Old Yale Rd, Surrey, BC V3V 3X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1dd2dea08eb4477e958c70b5420ff1c9|BN20260231|7.7.0.0|",
+				"addressLine": "12045 Old Yale Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12045 Old Yale Rd, Surrey, BC V3V 3X4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 3X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.88843,
+					49.20235
+				]
+			},
+			"bbox": [
+				-122.8901505,
+				49.2012258,
+				-122.8867095,
+				49.2034742
+			]
+		}
+	]
+}

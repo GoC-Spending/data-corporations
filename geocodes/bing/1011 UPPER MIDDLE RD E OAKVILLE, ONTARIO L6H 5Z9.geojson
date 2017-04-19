@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1011 Upper Middle Rd E, Oakville, ON L6H 5Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "29c6b46ff4d04af1a5724db4fb155245|BN20130631|7.7.0.0|",
+				"addressLine": "1011 Upper Middle Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1011 Upper Middle Rd E, Oakville, ON L6H 5Z9, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Joshua Creek",
+				"postalCode": "L6H 5Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69485,
+					43.48283
+				]
+			},
+			"bbox": [
+				-79.6963993,
+				43.4817058,
+				-79.6933007,
+				43.4839542
+			]
+		}
+	]
+}

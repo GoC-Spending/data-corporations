@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6181 Avenue du Bocage, Anjou, QC H1M 1X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1be931195c57476da97eece47404f73b|BN20130533|7.7.0.0|",
+				"addressLine": "6181 Avenue du Bocage",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "6181 Avenue du Bocage, Anjou, QC H1M 1X5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1M 1X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.55278,
+					45.5930899
+				]
+			},
+			"bbox": [
+				-73.5543865,
+				45.5919657,
+				-73.5511735,
+				45.5942141
+			]
+		}
+	]
+}

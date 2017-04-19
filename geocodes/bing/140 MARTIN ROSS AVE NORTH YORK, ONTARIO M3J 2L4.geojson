@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Martin Ross Ave, North York, ON M3J 2L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee2b5c94c9374d83adf4df9e626a8080|BN20190642|7.7.0.0|",
+				"addressLine": "140 Martin Ross Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Martin Ross Ave, North York, ON M3J 2L4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4784411,
+					43.7732651
+				]
+			},
+			"bbox": [
+				-79.4799979,
+				43.7721409,
+				-79.4768843,
+				43.7743892
+			]
+		}
+	]
+}

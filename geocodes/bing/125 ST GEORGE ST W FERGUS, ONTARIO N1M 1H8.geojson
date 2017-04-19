@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 St George St W, Fergus, ON N1M 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cfcb82819f6940fcb659e11882ced83f|BN20130625|7.7.0.0|",
+				"addressLine": "125 St George St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 St George St W, Fergus, ON N1M 1H8, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.38018,
+					43.70653
+				]
+			},
+			"bbox": [
+				-80.3817351,
+				43.7054058,
+				-80.3786249,
+				43.7076542
+			]
+		}
+	]
+}

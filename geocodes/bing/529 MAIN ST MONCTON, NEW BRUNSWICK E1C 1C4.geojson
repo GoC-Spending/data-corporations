@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "529 Main St, Moncton, NB E1C 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3b84a7c56dc747358d5e869a3765290a|BN20130423|7.7.0.0|",
+				"addressLine": "529 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "529 Main St, Moncton, NB E1C 1C4, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.77298,
+					46.09003
+				]
+			},
+			"bbox": [
+				-64.7746009,
+				46.0889058,
+				-64.7713591,
+				46.0911542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1141 Montroyal Blvd, North Vancouver, BC V7R 2H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "328dc380b21f4219b630d1d861f55bca|BN20130625|7.7.0.0|",
+				"addressLine": "1141 Montroyal Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1141 Montroyal Blvd, North Vancouver, BC V7R 2H8, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Handsworth",
+				"postalCode": "V7R 2H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1050573,
+					49.3560551
+				]
+			},
+			"bbox": [
+				-123.1067831,
+				49.3549309,
+				-123.1033314,
+				49.3571793
+			]
+		}
+	]
+}

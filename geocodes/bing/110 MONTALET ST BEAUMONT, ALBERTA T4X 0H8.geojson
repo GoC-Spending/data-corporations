@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Montalet St, Beaumont, AB T4X 0H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab2cce6d103146eda6ca9aa21719a0b9|BN20130423|7.7.0.0|",
+				"addressLine": "110 Montalet St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Montalet St, Beaumont, AB T4X 0H8, Canada",
+				"locality": "Beaumont",
+				"postalCode": "T4X 0H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4295208,
+					53.3639657
+				]
+			},
+			"bbox": [
+				-113.4314047,
+				53.3628416,
+				-113.427637,
+				53.3650899
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Wycliffe St, Nepean, ON K2G 5L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8907d1788e834db2b17a6460c511e5fc|BN20171457|7.7.0.0|",
+				"addressLine": "5 Wycliffe St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Wycliffe St, Nepean, ON K2G 5L7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 5L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.76596,
+					45.33732
+				]
+			},
+			"bbox": [
+				-75.7675592,
+				45.3361958,
+				-75.7643608,
+				45.3384442
+			]
+		}
+	]
+}

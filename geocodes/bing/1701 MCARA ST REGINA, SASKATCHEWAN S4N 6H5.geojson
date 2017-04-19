@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1701 McAra St, Regina, SK S4N 6H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a948dc01fea4576a74ab7fc103de690|BN20260231|7.7.0.0|",
+				"addressLine": "1701 McAra St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1701 McAra St, Regina, SK S4N 6H5, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 6H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.58178,
+					50.45174
+				]
+			},
+			"bbox": [
+				-104.5835455,
+				50.4506158,
+				-104.5800145,
+				50.4528642
+			]
+		}
+	]
+}

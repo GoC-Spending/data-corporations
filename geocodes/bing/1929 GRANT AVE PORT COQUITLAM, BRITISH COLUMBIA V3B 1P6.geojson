@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1929 Grant Ave, Port Coquitlam, BC V3B 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73df11e2d0f646bcb3fe4d3f2e0cd110|BN20131519|7.7.0.0|",
+				"addressLine": "1929 Grant Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1929 Grant Ave, Port Coquitlam, BC V3B 1P6, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3B 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.76795,
+					49.27037
+				]
+			},
+			"bbox": [
+				-122.7696729,
+				49.2692458,
+				-122.7662271,
+				49.2714942
+			]
+		}
+	]
+}

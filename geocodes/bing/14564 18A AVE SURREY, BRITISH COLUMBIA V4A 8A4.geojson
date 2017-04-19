@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14564 18A Ave, Surrey, BC V4A 8A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "539a38d697994e7aa4f8edddaaeff316|BN20130442|7.7.0.0|",
+				"addressLine": "14564 18A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "14564 18A Ave, Surrey, BC V4A 8A4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V4A 8A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8178677,
+					49.0355943
+				]
+			},
+			"bbox": [
+				-122.8195824,
+				49.0344702,
+				-122.8161529,
+				49.0367185
+			]
+		}
+	]
+}

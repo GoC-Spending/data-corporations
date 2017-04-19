@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3605 Rue Isabelle, Brossard, QC J4Y 2R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f67a64198dd42b3b403b70673a391f1|BN20130422|7.7.0.0|",
+				"addressLine": "3605 Rue Isabelle",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Longueuil",
+				"countryRegion": "Canada",
+				"formattedAddress": "3605 Rue Isabelle, Brossard, QC J4Y 2R2, Canada",
+				"locality": "Brossard",
+				"neighborhood": "Brosseau",
+				"postalCode": "J4Y 2R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.46584,
+					45.4293
+				]
+			},
+			"bbox": [
+				-73.4674418,
+				45.4281758,
+				-73.4642382,
+				45.4304242
+			]
+		}
+	]
+}

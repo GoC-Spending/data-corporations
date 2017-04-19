@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7369 Rue Chouinard, La Salle, QC H8N 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "80eedc3f6d614fcfbb9278494733836c|BN20130423|7.7.0.0|",
+				"addressLine": "7369 Rue Chouinard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "7369 Rue Chouinard, La Salle, QC H8N 2L6, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8N 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.6168299,
+					45.43988
+				]
+			},
+			"bbox": [
+				-73.618432,
+				45.4387558,
+				-73.6152278,
+				45.4410042
+			]
+		}
+	]
+}

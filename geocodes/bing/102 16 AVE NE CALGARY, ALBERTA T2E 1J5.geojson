@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "102 16 Ave NE, Calgary, AB T2E 1J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dcb6ba0c05a1476b9b4d33ddcb8fb64b|BN20121764|7.7.0.0|",
+				"addressLine": "102 16 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 16 Ave NE, Calgary, AB T2E 1J5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Tuxedo Park",
+				"postalCode": "T2E 1J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06211,
+					51.06712
+				]
+			},
+			"bbox": [
+				-114.0638989,
+				51.0659958,
+				-114.0603211,
+				51.0682442
+			]
+		}
+	]
+}

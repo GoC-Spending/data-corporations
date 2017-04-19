@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11039 Jardine Rd, Lake Country, BC V4V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f88f63c4015e4446a068869a3896bd16|BN20130632|7.7.0.0|",
+				"addressLine": "11039 Jardine Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "11039 Jardine Rd, Lake Country, BC V4V, Canada",
+				"locality": "Lake Country",
+				"postalCode": "V4V 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4123847,
+					50.0421766
+				]
+			},
+			"bbox": [
+				-119.4141351,
+				50.0410525,
+				-119.4106343,
+				50.0433008
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Great Lakes Dr, Brampton, ON L6R 2K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d48b836a3ad148f6ae6f7819edfb19b5|BN20320521|7.7.0.0|",
+				"addressLine": "150 Great Lakes Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Great Lakes Dr, Brampton, ON L6R 2K7, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Springdale",
+				"postalCode": "L6R 2K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7643873,
+					43.7327543
+				]
+			},
+			"bbox": [
+				-79.7659431,
+				43.7316302,
+				-79.7628316,
+				43.7338785
+			]
+		}
+	]
+}

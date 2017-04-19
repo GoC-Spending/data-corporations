@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 W Beaver Creek Rd, Richmond Hill, ON L4B 1E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3d246fddc3084571ad467b2b0eb13019|BN20181720|7.7.0.0|",
+				"addressLine": "90 W Beaver Creek Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 W Beaver Creek Rd, Richmond Hill, ON L4B 1E7, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4B 1E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3942299,
+					43.85235
+				]
+			},
+			"bbox": [
+				-79.3957888,
+				43.8512258,
+				-79.392671,
+				43.8534742
+			]
+		}
+	]
+}

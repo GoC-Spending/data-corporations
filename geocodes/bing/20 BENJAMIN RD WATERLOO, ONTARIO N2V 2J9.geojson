@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Benjamin Rd, Waterloo, ON N2V 2J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff16ca5df70d4dd3a58cf794f8076785|BN20130631|7.7.0.0|",
+				"addressLine": "20 Benjamin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Benjamin Rd, Waterloo, ON N2V 2J9, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Waterloo",
+				"postalCode": "N2V 2J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5555527,
+					43.5093575
+				]
+			},
+			"bbox": [
+				-80.5571027,
+				43.5082334,
+				-80.5540027,
+				43.5104817
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Granville St, Vancouver, BC V6C 2R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb0e9819988d4cb9877b8a657714602a|BN20130530|7.7.0.0|",
+				"addressLine": "200 Granville St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Granville St, Vancouver, BC V6C 2R6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6C 2R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1128832,
+					49.2857798
+				]
+			},
+			"bbox": [
+				-123.1146066,
+				49.2846557,
+				-123.1111598,
+				49.286904
+			]
+		}
+	]
+}

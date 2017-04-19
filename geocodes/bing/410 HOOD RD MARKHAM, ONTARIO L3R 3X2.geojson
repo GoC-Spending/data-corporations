@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "410 Hood Rd, Markham, ON L3R 3X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75940acd55524c5c8b9571c2419e1c81|BN20171457|7.7.0.0|",
+				"addressLine": "410 Hood Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "410 Hood Rd, Markham, ON L3R 3X2, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 3X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.32944,
+					43.82991
+				]
+			},
+			"bbox": [
+				-79.3309983,
+				43.8287858,
+				-79.3278817,
+				43.8310342
+			]
+		}
+	]
+}

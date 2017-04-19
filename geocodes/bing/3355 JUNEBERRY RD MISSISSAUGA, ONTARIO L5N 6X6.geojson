@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3355 Juneberry Rd, Mississauga, ON L5N 6X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "699def64f7184240b46ede0e958c3d00|BN20130719|7.7.0.0|",
+				"addressLine": "3355 Juneberry Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "3355 Juneberry Rd, Mississauga, ON L5N 6X6, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Meadowvale",
+				"postalCode": "L5N 6X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77628,
+					43.57815
+				]
+			},
+			"bbox": [
+				-79.7778318,
+				43.5770258,
+				-79.7747282,
+				43.5792742
+			]
+		}
+	]
+}

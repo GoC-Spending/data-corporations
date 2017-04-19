@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13719 Jennifer Dr, Ladysmith, BC V9G 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d4075882e40b4f7a8e77028343bcf797|BN20130520|7.7.0.0|",
+				"addressLine": "13719 Jennifer Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "13719 Jennifer Dr, Ladysmith, BC V9G 1G4, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Ladysmith",
+				"postalCode": "V9G 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.7947134,
+					49.0531921
+				]
+			},
+			"bbox": [
+				-123.7964288,
+				49.0520679,
+				-123.7929981,
+				49.0543162
+			]
+		}
+	]
+}

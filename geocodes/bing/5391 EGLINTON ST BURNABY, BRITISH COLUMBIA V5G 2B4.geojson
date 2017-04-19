@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5391 Eglinton St, Burnaby, BC V5G 2B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f0cca9a6a5b4f62b030ecc9587e7d53|BN20130532|7.7.0.0|",
+				"addressLine": "5391 Eglinton St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5391 Eglinton St, Burnaby, BC V5G 2B4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Douglas-Gilpin",
+				"postalCode": "V5G 2B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9857888,
+					49.2439619
+				]
+			},
+			"bbox": [
+				-122.9875107,
+				49.2428377,
+				-122.9840668,
+				49.245086
+			]
+		}
+	]
+}

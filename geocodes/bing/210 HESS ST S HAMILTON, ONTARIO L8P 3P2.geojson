@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 Hess St S, Hamilton, ON L8P 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01d8d74099c74c07aa048d8b85e4e03f|BN20290118|7.7.0.0|",
+				"addressLine": "210 Hess St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 Hess St S, Hamilton, ON L8P 3P2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Durand",
+				"postalCode": "L8P 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.88035,
+					43.25266
+				]
+			},
+			"bbox": [
+				-79.8818934,
+				43.2515358,
+				-79.8788066,
+				43.2537842
+			]
+		}
+	]
+}

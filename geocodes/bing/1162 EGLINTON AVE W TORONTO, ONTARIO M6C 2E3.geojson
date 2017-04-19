@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1162 Eglinton Ave W, Toronto, ON M6C 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b25375df29894622b1c6d3fe7151a405|BN20130533|7.7.0.0|",
+				"addressLine": "1162 Eglinton Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1162 Eglinton Ave W, Toronto, ON M6C 2E3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Forest Hill North",
+				"postalCode": "M6C 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43304,
+					43.69965
+				]
+			},
+			"bbox": [
+				-79.4345949,
+				43.6985258,
+				-79.4314851,
+				43.7007742
+			]
+		}
+	]
+}

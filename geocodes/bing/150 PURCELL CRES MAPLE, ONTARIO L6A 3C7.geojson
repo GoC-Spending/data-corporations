@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Purcell Cres, Maple, ON L6A 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf54d200f4f04a1b8983eb85dacaadb5|BN20190642|7.7.0.0|",
+				"addressLine": "150 Purcell Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Purcell Cres, Maple, ON L6A 3C7, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52124,
+					43.86603
+				]
+			},
+			"bbox": [
+				-79.5227992,
+				43.8649058,
+				-79.5196808,
+				43.8671542
+			]
+		}
+	]
+}

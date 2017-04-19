@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "833 E 20th Ave, Vancouver, BC V5V 1N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ebf1828b8d84175a51a702a56e4e232|BN20190653|7.7.0.0|",
+				"addressLine": "833 E 20th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "833 E 20th Ave, Vancouver, BC V5V 1N4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5V 1N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08678,
+					49.25301
+				]
+			},
+			"bbox": [
+				-123.0885023,
+				49.2518858,
+				-123.0850577,
+				49.2541342
+			]
+		}
+	]
+}

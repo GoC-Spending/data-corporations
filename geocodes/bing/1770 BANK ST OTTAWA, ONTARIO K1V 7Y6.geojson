@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1770 Bank St, Ottawa, ON K1V 7Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1fea2a848d194e6c9bdc6cd9e97f15b4|BN20130431|7.7.0.0|",
+				"addressLine": "1770 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1770 Bank St, Ottawa, ON K1V 7Y6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Ledbury-Heron GT-Ridgemont-Elmwood",
+				"postalCode": "K1V 7Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6647365,
+					45.3729518
+				]
+			},
+			"bbox": [
+				-75.6663367,
+				45.3718277,
+				-75.6631362,
+				45.374076
+			]
+		}
+	]
+}

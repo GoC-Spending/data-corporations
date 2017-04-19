@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Bank St, Ottawa, ON K1P 5N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01f7ab9d6c6d410592e692eb3e651707|BN20130533|7.7.0.0|",
+				"addressLine": "131 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Bank St, Ottawa, ON K1P 5N7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1P 5N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6994531,
+					45.4192697
+				]
+			},
+			"bbox": [
+				-75.7010546,
+				45.4181455,
+				-75.6978515,
+				45.4203938
+			]
+		}
+	]
+}

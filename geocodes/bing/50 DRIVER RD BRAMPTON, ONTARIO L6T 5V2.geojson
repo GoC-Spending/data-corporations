@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Driver Rd, Brampton, ON L6T 5V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22f75b76b5de499aa289d42b56de3a45|BN20130422|7.7.0.0|",
+				"addressLine": "50 Driver Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Driver Rd, Brampton, ON L6T 5V2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Malton",
+				"postalCode": "L6T 5V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6617521,
+					43.7234594
+				]
+			},
+			"bbox": [
+				-79.6633076,
+				43.7223353,
+				-79.6601966,
+				43.7245836
+			]
+		}
+	]
+}

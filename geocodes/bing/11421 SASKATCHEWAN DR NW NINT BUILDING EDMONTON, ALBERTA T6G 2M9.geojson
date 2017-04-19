@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11421 Saskatchewan Dr NW, Edmonton, AB T6G 2M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dafc14b0a85f43968b2e6a6314e777ea|BN20220145|7.7.0.0|",
+				"addressLine": "11421 Saskatchewan Dr NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11421 Saskatchewan Dr NW, Edmonton, AB T6G 2M9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "University of Alberta",
+				"postalCode": "T6G 2M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5263618,
+					53.5297521
+				]
+			},
+			"bbox": [
+				-113.528253,
+				53.528628,
+				-113.5244705,
+				53.5308763
+			]
+		}
+	]
+}

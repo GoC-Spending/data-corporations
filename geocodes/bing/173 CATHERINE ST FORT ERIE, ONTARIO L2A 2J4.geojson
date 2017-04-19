@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "173 Catherine St, Fort Erie, ON L2A 2J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9db4bd12c32f4e86b517fa30d5c02269|BN20130422|7.7.0.0|",
+				"addressLine": "173 Catherine St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "173 Catherine St, Fort Erie, ON L2A 2J4, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 2J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.92552,
+					42.91633
+				]
+			},
+			"bbox": [
+				-78.927055,
+				42.9152058,
+				-78.923985,
+				42.9174542
+			]
+		}
+	]
+}

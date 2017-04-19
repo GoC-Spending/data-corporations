@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1091 Florence St, London, ON N5W 2M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3aefaa0520d54e1392aa4345e4ce2fcc|BN20160335|7.7.0.0|",
+				"addressLine": "1091 Florence St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1091 Florence St, London, ON N5W 2M7, Canada",
+				"locality": "London",
+				"neighborhood": "East London",
+				"postalCode": "N5W 2M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2129,
+					42.9903
+				]
+			},
+			"bbox": [
+				-81.2144368,
+				42.9891758,
+				-81.2113632,
+				42.9914242
+			]
+		}
+	]
+}

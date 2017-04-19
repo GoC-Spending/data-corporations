@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1455 Bellevue Ave, West Vancouver, BC V7T 1C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e7f8797f9494798b532b2c54026b266|BN20260223|7.7.0.0|",
+				"addressLine": "1455 Bellevue Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1455 Bellevue Ave, West Vancouver, BC V7T 1C3, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Ambleside",
+				"postalCode": "V7T 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.15584,
+					49.3276899
+				]
+			},
+			"bbox": [
+				-123.1575649,
+				49.3265657,
+				-123.1541151,
+				49.3288141
+			]
+		}
+	]
+}

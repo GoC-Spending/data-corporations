@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 Bernard Ave, Kelowna, BC V1Y 1H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "35184ad14d694ee78e0ec0c6597be495|BN20130625|7.7.0.0|",
+				"addressLine": "210 Bernard Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 Bernard Ave, Kelowna, BC V1Y 1H2, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Downtown Kelowna",
+				"postalCode": "V1Y 1H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4989737,
+					49.8863925
+				]
+			},
+			"bbox": [
+				-119.5007184,
+				49.8852684,
+				-119.4972289,
+				49.8875167
+			]
+		}
+	]
+}

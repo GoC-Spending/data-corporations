@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Rue de Villebois, Gatineau, QC J8T 8J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "060c67ee411b4c67b3e32d591e496d5f|BN20240253|7.7.0.0|",
+				"addressLine": "45 Rue de Villebois",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Rue de Villebois, Gatineau, QC J8T 8J7, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier des Riverains",
+				"postalCode": "J8T 8J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7062,
+					45.49298
+				]
+			},
+			"bbox": [
+				-75.7078036,
+				45.4918558,
+				-75.7045964,
+				45.4941042
+			]
+		}
+	]
+}

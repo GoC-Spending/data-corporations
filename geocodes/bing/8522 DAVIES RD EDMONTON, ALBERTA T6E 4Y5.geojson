@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8522 Davies Rd NW, Edmonton, AB T6E 4Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82567a7ba17847cc8ab0904a690812de|BN20121763|7.7.0.0|",
+				"addressLine": "8522 Davies Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8522 Davies Rd NW, Edmonton, AB T6E 4Y5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial West",
+				"postalCode": "T6E 4Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45457,
+					53.49437
+				]
+			},
+			"bbox": [
+				-113.4564596,
+				53.4932458,
+				-113.4526804,
+				53.4954942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12105 101B Ave, Surrey, BC V3V 7X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "931fc5d0315c47f18d8b8bc85a362c99|BN20280152|7.7.0.0|",
+				"addressLine": "12105 101B Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12105 101B Ave, Surrey, BC V3V 7X6, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 7X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8869826,
+					49.1877232
+				]
+			},
+			"bbox": [
+				-122.8887026,
+				49.1865991,
+				-122.8852627,
+				49.1888474
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1400 10 St, Nisku, AB T9E 8J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27114f42e7a244658ab1a484faaf0c85|BN20220145|7.7.0.0|",
+				"addressLine": "1400 10 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1400 10 St, Nisku, AB T9E 8J4, Canada",
+				"locality": "Leduc County",
+				"neighborhood": "Nisku",
+				"postalCode": "T9E 8J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5111246,
+					53.3180362
+				]
+			},
+			"bbox": [
+				-113.5130064,
+				53.316912,
+				-113.5092427,
+				53.3191603
+			]
+		}
+	]
+}

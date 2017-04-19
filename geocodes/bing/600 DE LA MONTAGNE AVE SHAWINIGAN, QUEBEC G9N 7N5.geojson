@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 Avenue de la Montagne, Shawinigan, QC G9N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16eaa8eaecba418dbeb4c0cabf3981c1|BN20130422|7.7.0.0|",
+				"addressLine": "600 Avenue de la Montagne",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Shawinigan",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 Avenue de la Montagne, Shawinigan, QC G9N, Canada",
+				"locality": "Shawinigan",
+				"postalCode": "G9N 7N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.7744694,
+					46.5607606
+				]
+			},
+			"bbox": [
+				-72.7761044,
+				46.5596365,
+				-72.7728345,
+				46.5618848
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "119 John Cavanaugh Dr, Carp, ON K0A 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f80a248723dd4967ad8061a513120dec|BN20130422|7.7.0.0|",
+				"addressLine": "119 John Cavanaugh Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "119 John Cavanaugh Dr, Carp, ON K0A 1L0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carp",
+				"postalCode": "K0A 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.99891,
+					45.31653
+				]
+			},
+			"bbox": [
+				-76.0005086,
+				45.3154058,
+				-75.9973114,
+				45.3176542
+			]
+		}
+	]
+}

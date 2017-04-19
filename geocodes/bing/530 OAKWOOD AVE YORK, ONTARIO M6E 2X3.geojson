@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Oakwood Ave, York, ON M6E 2X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48ccb612035949da853e16e5f63bf2b5|BN20121764|7.7.0.0|",
+				"addressLine": "530 Oakwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Oakwood Ave, York, ON M6E 2X3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakwood Village",
+				"postalCode": "M6E 2X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44086,
+					43.6923
+				]
+			},
+			"bbox": [
+				-79.4424147,
+				43.6911758,
+				-79.4393053,
+				43.6934242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2293 Douglas Rd, Burnaby, BC V5C 5A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "292957a70c1d4f099f7284f3de471822|BN20130447|7.7.0.0|",
+				"addressLine": "2293 Douglas Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2293 Douglas Rd, Burnaby, BC V5C 5A9, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Dawson-Delta",
+				"postalCode": "V5C 5A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.98873,
+					49.26262
+				]
+			},
+			"bbox": [
+				-122.9904526,
+				49.2614958,
+				-122.9870074,
+				49.2637442
+			]
+		}
+	]
+}

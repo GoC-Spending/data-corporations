@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "28 Gilgorm Rd, Toronto, ON M5N 2M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf9a9bdadda44a89bdafad09069e2ec2|BN20160335|7.7.0.0|",
+				"addressLine": "28 Gilgorm Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "28 Gilgorm Rd, Toronto, ON M5N 2M5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Forest Hill North",
+				"postalCode": "M5N 2M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4177,
+					43.7040999
+				]
+			},
+			"bbox": [
+				-79.419255,
+				43.7029757,
+				-79.416145,
+				43.7052241
+			]
+		}
+	]
+}

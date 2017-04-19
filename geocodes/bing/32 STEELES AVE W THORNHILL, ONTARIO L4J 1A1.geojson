@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Steeles Ave W, Thornhill, ON L4J 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f88804e4c73429893976e67108cc6fa|BN20121764|7.7.0.0|",
+				"addressLine": "32 Steeles Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Steeles Ave W, Thornhill, ON L4J 1A1, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42143,
+					43.79812
+				]
+			},
+			"bbox": [
+				-79.4229875,
+				43.7969958,
+				-79.4198725,
+				43.7992442
+			]
+		}
+	]
+}

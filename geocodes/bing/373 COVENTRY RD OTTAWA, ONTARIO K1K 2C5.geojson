@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "373 Coventry Rd, Ottawa, ON K1K 2C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bea06068bd8b4ee0b56c12953f2f1645|BN20200239|7.7.0.0|",
+				"addressLine": "373 Coventry Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "373 Coventry Rd, Ottawa, ON K1K 2C5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Overbrook West-McArthur",
+				"postalCode": "K1K 2C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6493799,
+					45.42199
+				]
+			},
+			"bbox": [
+				-75.6509815,
+				45.4208658,
+				-75.6477783,
+				45.4231142
+			]
+		}
+	]
+}

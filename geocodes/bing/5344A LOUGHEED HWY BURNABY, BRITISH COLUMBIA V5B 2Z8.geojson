@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5344 Lougheed Hwy, Burnaby, BC V5B 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e28ab1de80ab4c30a1e072588828b106|BN20131519|7.7.0.0|",
+				"addressLine": "5344 Lougheed Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5344 Lougheed Hwy, Burnaby, BC V5B 2Z8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Ardingley-Sprott",
+				"postalCode": "V5B 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9851378,
+					49.2648658
+				]
+			},
+			"bbox": [
+				-122.9868605,
+				49.2637417,
+				-122.9834151,
+				49.26599
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 John St N, Hamilton, ON L8R 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5471b5bcc61749c78b8a7f3e49e90512|BN20121762|7.7.0.0|",
+				"addressLine": "27 John St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 John St N, Hamilton, ON L8R 1H1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Beasley",
+				"postalCode": "L8R 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86644,
+					43.25672
+				]
+			},
+			"bbox": [
+				-79.8679835,
+				43.2555958,
+				-79.8648965,
+				43.2578442
+			]
+		}
+	]
+}

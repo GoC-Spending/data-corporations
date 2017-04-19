@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1411 Hidden Valley Rd, Burlington, ON L7P 0T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9474e4b09b74b599e739ce91d759cdd|BN20130634|7.7.0.0|",
+				"addressLine": "1411 Hidden Valley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1411 Hidden Valley Rd, Burlington, ON L7P 0T5, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot West",
+				"postalCode": "L7P 0T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87433,
+					43.31097
+				]
+			},
+			"bbox": [
+				-79.8758749,
+				43.3098458,
+				-79.8727851,
+				43.3120942
+			]
+		}
+	]
+}

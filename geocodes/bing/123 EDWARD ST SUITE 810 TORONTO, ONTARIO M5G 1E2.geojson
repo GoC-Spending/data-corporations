@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Edward St, Toronto, ON M5G 1E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f551c46168c4f7aafc23efc952f7c45|BN20130423|7.7.0.0|",
+				"addressLine": "123 Edward St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Edward St, Toronto, ON M5G 1E2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5G 1E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38676,
+					43.65563
+				]
+			},
+			"bbox": [
+				-79.3883138,
+				43.6545058,
+				-79.3852062,
+				43.6567542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5733 Collingwood St, Vancouver, BC V6N 4K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7c146b06e1444c3a33cafa7b227e373|BN20121764|7.7.0.0|",
+				"addressLine": "5733 Collingwood St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5733 Collingwood St, Vancouver, BC V6N 4K6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6N 4K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1822142,
+					49.2344629
+				]
+			},
+			"bbox": [
+				-123.1839358,
+				49.2333388,
+				-123.1804926,
+				49.2355871
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22765 Fraser Hwy, Langley, BC V2Z 2T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adfd250c0aa9414ba6a75687cdfa3e27|BN20130423|7.7.0.0|",
+				"addressLine": "22765 Fraser Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "22765 Fraser Hwy, Langley, BC V2Z 2T5, Canada",
+				"locality": "Langley",
+				"neighborhood": "Murrayville",
+				"postalCode": "V2Z 2T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.59325,
+					49.08728
+				]
+			},
+			"bbox": [
+				-122.5949665,
+				49.0861558,
+				-122.5915335,
+				49.0884042
+			]
+		}
+	]
+}

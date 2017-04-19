@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Forman Ave, Toronto, ON M4S 2R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1b7a5b03b4143698135a06be6f12860|BN20190642|7.7.0.0|",
+				"addressLine": "67 Forman Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Forman Ave, Toronto, ON M4S 2R4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 2R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38085,
+					43.70238
+				]
+			},
+			"bbox": [
+				-79.382405,
+				43.7012558,
+				-79.379295,
+				43.7035042
+			]
+		}
+	]
+}

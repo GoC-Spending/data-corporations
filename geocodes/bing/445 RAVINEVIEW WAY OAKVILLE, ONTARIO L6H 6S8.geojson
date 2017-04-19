@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "445 Ravineview Way, Oakville, ON L6H 6S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bad5b6afead436084e0982f58b97151|BN20130632|7.7.0.0|",
+				"addressLine": "445 Ravineview Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "445 Ravineview Way, Oakville, ON L6H 6S8, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Joshua Creek",
+				"postalCode": "L6H 6S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7104899,
+					43.48712
+				]
+			},
+			"bbox": [
+				-79.7120393,
+				43.4859958,
+				-79.7089405,
+				43.4882442
+			]
+		}
+	]
+}

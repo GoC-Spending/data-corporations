@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "271 Main St, Queens, NS B0T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6bfcfa3e6ba741acb3c3c1d43cf81b56|BN20130621|7.7.0.0|",
+				"addressLine": "271 Main St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "271 Main St, Queens, NS B0T, Canada",
+				"locality": "Queens",
+				"neighborhood": "Liverpool",
+				"postalCode": "B0T 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7158539,
+					44.0383838
+				]
+			},
+			"bbox": [
+				-64.7174177,
+				44.0372596,
+				-64.7142901,
+				44.039508
+			]
+		}
+	]
+}

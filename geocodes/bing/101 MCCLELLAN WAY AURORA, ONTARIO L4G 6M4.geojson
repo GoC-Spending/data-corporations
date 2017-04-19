@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 McClellan Way, Aurora, ON L4G 6M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8029621b32e54858afebece57fbbbb67|BN20200239|7.7.0.0|",
+				"addressLine": "101 McClellan Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 McClellan Way, Aurora, ON L4G 6M4, Canada",
+				"locality": "Aurora",
+				"postalCode": "L4G 6M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47466,
+					43.97397
+				]
+			},
+			"bbox": [
+				-79.4762221,
+				43.9728458,
+				-79.4730979,
+				43.9750942
+			]
+		}
+	]
+}

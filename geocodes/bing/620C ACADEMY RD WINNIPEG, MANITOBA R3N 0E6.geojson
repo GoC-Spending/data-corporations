@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "620 Academy Rd, Winnipeg, MB R3N 0E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16e6586c53274c27af66f597de11930b|BN20200239|7.7.0.0|",
+				"addressLine": "620 Academy Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "620 Academy Rd, Winnipeg, MB R3N 0E6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Sir John Franklin",
+				"postalCode": "R3N 0E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20084,
+					49.87422
+				]
+			},
+			"bbox": [
+				-97.2025843,
+				49.8730958,
+				-97.1990957,
+				49.8753442
+			]
+		}
+	]
+}

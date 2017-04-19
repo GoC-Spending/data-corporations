@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "522 Ivy Green Way, Gloucester, ON K1T 0L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1967ad0d076458e96ce2cd9e44c95dc|BN20260231|7.7.0.0|",
+				"addressLine": "522 Ivy Green Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "522 Ivy Green Way, Gloucester, ON K1T 0L2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 0L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.591564,
+					45.3292042
+				]
+			},
+			"bbox": [
+				-75.593163,
+				45.32808,
+				-75.589965,
+				45.3303283
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1925 46e Avenue, Lachine, QC H8T 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "554d2b09d19c47ad9bd063ab74f4a7f2|BN20130634|7.7.0.0|",
+				"addressLine": "1925 46e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1925 46e Avenue, Lachine, QC H8T 2P1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.715,
+					45.4581
+				]
+			},
+			"bbox": [
+				-73.7166027,
+				45.4569758,
+				-73.7133973,
+				45.4592242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Spring Park Rd, Charlottetown, PE C1A 3X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ecd203c8adb4205a6f17a4abf16cc45|BN20200239|7.7.0.0|",
+				"addressLine": "33 Spring Park Rd",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Spring Park Rd, Charlottetown, PE C1A 3X7, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Brighton",
+				"postalCode": "C1A 3X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.13354,
+					46.2369
+				]
+			},
+			"bbox": [
+				-63.1351653,
+				46.2357758,
+				-63.1319147,
+				46.2380242
+			]
+		}
+	]
+}

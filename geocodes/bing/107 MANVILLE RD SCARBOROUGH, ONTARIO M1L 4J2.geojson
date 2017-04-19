@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Manville Rd, Scarborough, ON M1L 4J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8d707f1a85d4799b8b404caa81d1ecc|BN20130530|7.7.0.0|",
+				"addressLine": "107 Manville Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Manville Rd, Scarborough, ON M1L 4J2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1L 4J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28142,
+					43.72289
+				]
+			},
+			"bbox": [
+				-79.2829755,
+				43.7217658,
+				-79.2798645,
+				43.7240142
+			]
+		}
+	]
+}

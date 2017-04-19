@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6925 Chardonnay Pl, Oliver, BC V0H 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52d74267827e4f5bb376301646433467|BN20260231|7.7.0.0|",
+				"addressLine": "6925 Chardonnay Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Okanagan-Similkameen",
+				"countryRegion": "Canada",
+				"formattedAddress": "6925 Chardonnay Pl, Oliver, BC V0H 1T4, Canada",
+				"locality": "Oliver",
+				"postalCode": "V0H 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.5462351,
+					49.1973227
+				]
+			},
+			"bbox": [
+				-119.5479554,
+				49.1961986,
+				-119.5445148,
+				49.1984469
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "542 Hillside St, Peterborough, ON K9H 5N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef4bb1fca10e48c9a4f861fee576985c|BN20131519|7.7.0.0|",
+				"addressLine": "542 Hillside St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "542 Hillside St, Peterborough, ON K9H 5N6, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9H 5N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3443099,
+					44.31938
+				]
+			},
+			"bbox": [
+				-78.3458811,
+				44.3182558,
+				-78.3427387,
+				44.3205042
+			]
+		}
+	]
+}

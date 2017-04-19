@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "349 Manitoba Rd, Winkler, MB R6W 0J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea874c9824444e8c86004c8370ba0d93|BN20130632|7.7.0.0|",
+				"addressLine": "349 Manitoba Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "349 Manitoba Rd, Winkler, MB R6W 0J8, Canada",
+				"locality": "Winkler",
+				"postalCode": "R6W 0J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.92968,
+					49.16765
+				]
+			},
+			"bbox": [
+				-97.9313993,
+				49.1665258,
+				-97.9279607,
+				49.1687742
+			]
+		}
+	]
+}

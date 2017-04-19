@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14922 54A Ave, Surrey, BC V3S 5X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "739b2e42cd5b45c691f9c7c72bc926db|BN20240253|7.7.0.0|",
+				"addressLine": "14922 54A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "14922 54A Ave, Surrey, BC V3S 5X7, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3S 5X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8090391,
+					49.1016451
+				]
+			},
+			"bbox": [
+				-122.8107561,
+				49.1005209,
+				-122.8073221,
+				49.1027692
+			]
+		}
+	]
+}

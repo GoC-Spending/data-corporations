@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Plastics Ave, Etobicoke, ON M8Z 4B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e66a88acccc44c628b61f7fb165091c3|BN20130423|7.7.0.0|",
+				"addressLine": "20 Plastics Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Plastics Ave, Etobicoke, ON M8Z 4B7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Stonegate-Queensway",
+				"postalCode": "M8Z 4B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50954,
+					43.62314
+				]
+			},
+			"bbox": [
+				-79.5110929,
+				43.6220158,
+				-79.5079871,
+				43.6242642
+			]
+		}
+	]
+}

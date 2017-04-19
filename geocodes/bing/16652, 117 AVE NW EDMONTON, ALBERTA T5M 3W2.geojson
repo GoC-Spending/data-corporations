@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16652 117 Ave NW, Edmonton, AB T5M 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4623e5a76c77412c85c854b2f12dc854|BN20250135|7.7.0.0|",
+				"addressLine": "16652 117 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "16652 117 Ave NW, Edmonton, AB T5M 3W2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Norwester Industrial",
+				"postalCode": "T5M 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.60849,
+					53.56779
+				]
+			},
+			"bbox": [
+				-113.6103829,
+				53.5666658,
+				-113.6065971,
+				53.5689142
+			]
+		}
+	]
+}

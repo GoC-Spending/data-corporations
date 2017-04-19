@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Colonnade Rd, Nepean, ON K2E 7J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30463fc3f64742a98b36c2058edc4faa|BN20130520|7.7.0.0|",
+				"addressLine": "48 Colonnade Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Colonnade Rd, Nepean, ON K2E 7J6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 7J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71552,
+					45.34434
+				]
+			},
+			"bbox": [
+				-75.7171194,
+				45.3432158,
+				-75.7139206,
+				45.3454642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 Sunset Way, Priddis, AB T0L 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe1606de33964c75ac66b905aac8f879|BN20280152|7.7.0.0|",
+				"addressLine": "104 Sunset Way",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 Sunset Way, Priddis, AB T0L 1W0, Canada",
+				"locality": "Foothills No 31",
+				"neighborhood": "Priddis",
+				"postalCode": "T0L 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.41408,
+					50.90056
+				]
+			},
+			"bbox": [
+				-114.4158625,
+				50.8994358,
+				-114.4122975,
+				50.9016842
+			]
+		}
+	]
+}

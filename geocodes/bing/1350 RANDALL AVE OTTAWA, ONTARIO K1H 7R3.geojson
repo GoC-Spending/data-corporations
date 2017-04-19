@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1350 Randall Ave, Ottawa, ON K1H 7R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "150fd893fb2a44068c57061223679a8a|BN20181720|7.7.0.0|",
+				"addressLine": "1350 Randall Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1350 Randall Ave, Ottawa, ON K1H 7R3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Billings Bridge-Alta Vista",
+				"postalCode": "K1H 7R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66465,
+					45.3827799
+				]
+			},
+			"bbox": [
+				-75.6662505,
+				45.3816557,
+				-75.6630495,
+				45.3839041
+			]
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Tecumseh Rd E, Windsor, ON N8N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0599cc0c071d4854b7971077e0f35345|BN20130423|7.7.0.0|",
+				"addressLine": "Tecumseh Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "Tecumseh Rd E, Windsor, ON N8N, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Sandwich South",
+				"postalCode": "N8N 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.89931,
+					42.31228
+				]
+			},
+			"bbox": [
+				-82.90092,
+				42.31206,
+				-82.89771,
+				42.31248
+			]
+		}
+	]
+}

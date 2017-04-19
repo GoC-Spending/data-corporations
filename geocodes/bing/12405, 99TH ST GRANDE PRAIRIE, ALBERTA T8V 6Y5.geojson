@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12405 99 St, Grande Prairie, AB T8V 6Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "059b3093e2cf4d3abac38b5a7323fe89|BN20130533|7.7.0.0|",
+				"addressLine": "12405 99 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12405 99 St, Grande Prairie, AB T8V 6Y5, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Northgate",
+				"postalCode": "T8V 6Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.7912333,
+					55.192568
+				]
+			},
+			"bbox": [
+				-118.7932026,
+				55.1914439,
+				-118.7892639,
+				55.1936922
+			]
+		}
+	]
+}

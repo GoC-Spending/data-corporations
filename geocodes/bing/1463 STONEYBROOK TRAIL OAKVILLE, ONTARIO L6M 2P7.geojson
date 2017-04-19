@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1463 Stoneybrook Trl, Oakville, ON L6M 2P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60b3717d02ad4093ae79684befc9d45a|BN20200137|7.7.0.0|",
+				"addressLine": "1463 Stoneybrook Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1463 Stoneybrook Trl, Oakville, ON L6M 2P7, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Glen Abbey",
+				"postalCode": "L6M 2P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73466,
+					43.44255
+				]
+			},
+			"bbox": [
+				-79.7362083,
+				43.4414258,
+				-79.7331117,
+				43.4436742
+			]
+		}
+	]
+}

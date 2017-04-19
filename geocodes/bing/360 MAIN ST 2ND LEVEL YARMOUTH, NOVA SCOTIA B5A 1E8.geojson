@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "360 Main St, Yarmouth, NS B5A 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23efa59ae7d24f9abdbc2f2b475c2bac|BN20190642|7.7.0.0|",
+				"addressLine": "360 Main St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Yarmouth",
+				"countryRegion": "Canada",
+				"formattedAddress": "360 Main St, Yarmouth, NS B5A 1E8, Canada",
+				"locality": "Yarmouth",
+				"postalCode": "B5A 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.12023,
+					43.83686
+				]
+			},
+			"bbox": [
+				-66.1217885,
+				43.8357358,
+				-66.1186715,
+				43.8379842
+			]
+		}
+	]
+}

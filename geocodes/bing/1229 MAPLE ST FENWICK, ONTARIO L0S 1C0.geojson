@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1229 Maple St, Pelham, ON L0S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fde56ad8efe491d86e9a91cc66ed9a6|BN20130521|7.7.0.0|",
+				"addressLine": "1229 Maple St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "1229 Maple St, Pelham, ON L0S, Canada",
+				"locality": "Pelham",
+				"neighborhood": "Fenwick",
+				"postalCode": "L0S 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35996,
+					43.03201
+				]
+			},
+			"bbox": [
+				-79.3614979,
+				43.0308858,
+				-79.3584221,
+				43.0331342
+			]
+		}
+	]
+}

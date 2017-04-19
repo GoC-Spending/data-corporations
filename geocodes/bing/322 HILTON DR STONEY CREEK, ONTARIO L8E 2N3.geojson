@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "322 Hilton Dr, Stoney Creek, ON L8E 2N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39e1c5de38484f6b81b557f9ad0b3ea1|BN20190642|7.7.0.0|",
+				"addressLine": "322 Hilton Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "322 Hilton Dr, Stoney Creek, ON L8E 2N3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 2N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7250593,
+					43.2295337
+				]
+			},
+			"bbox": [
+				-79.7266021,
+				43.2284095,
+				-79.7235164,
+				43.2306578
+			]
+		}
+	]
+}

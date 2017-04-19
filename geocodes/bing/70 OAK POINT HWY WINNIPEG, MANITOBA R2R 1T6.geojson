@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Oak Point Hwy, Winnipeg, MB R2R 1T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6510bd3241494559af51159a1e9373cf|BN20260223|7.7.0.0|",
+				"addressLine": "70 Oak Point Hwy",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Oak Point Hwy, Winnipeg, MB R2R 1T6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Oak Point Highway",
+				"postalCode": "R2R 1T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2106,
+					49.92988
+				]
+			},
+			"bbox": [
+				-97.2123463,
+				49.9287558,
+				-97.2088537,
+				49.9310042
+			]
+		}
+	]
+}

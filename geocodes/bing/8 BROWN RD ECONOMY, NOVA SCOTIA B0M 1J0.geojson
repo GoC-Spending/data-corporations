@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Brown Rd, Colchester, NS B0M 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5781284cc5243818865f7113a5ada6f|BN20200137|7.7.0.0|",
+				"addressLine": "8 Brown Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Brown Rd, Colchester, NS B0M 1J0, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Colchester",
+				"postalCode": "B0M 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.83637,
+					45.38936
+				]
+			},
+			"bbox": [
+				-63.8379707,
+				45.3882358,
+				-63.8347693,
+				45.3904842
+			]
+		}
+	]
+}

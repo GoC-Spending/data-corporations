@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Hillside Ave, Etobicoke, ON M8V 1S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2615b0c6311543398a6d923f041f20c2|BN20130634|7.7.0.0|",
+				"addressLine": "58 Hillside Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Hillside Ave, Etobicoke, ON M8V 1S8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mimico",
+				"postalCode": "M8V 1S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49291,
+					43.61105
+				]
+			},
+			"bbox": [
+				-79.4944626,
+				43.6099258,
+				-79.4913574,
+				43.6121742
+			]
+		}
+	]
+}

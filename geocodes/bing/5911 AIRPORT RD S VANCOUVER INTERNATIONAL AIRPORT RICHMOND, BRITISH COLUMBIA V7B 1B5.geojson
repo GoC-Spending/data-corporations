@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5911 Airport Rd S, Richmond, BC V7B 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ce93f9281a8843efa59f9a65b4d8608f|BN20130447|7.7.0.0|",
+				"addressLine": "5911 Airport Rd S",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5911 Airport Rd S, Richmond, BC V7B 1B5, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Sea Island",
+				"postalCode": "V7B 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1554321,
+					49.1796463
+				]
+			},
+			"bbox": [
+				-123.1571518,
+				49.1785221,
+				-123.1537124,
+				49.1807704
+			]
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Fort Alexander, Manitoba, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af72e3e0fffb418592f02b7a1790cb2e|BN20260223|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Fort Alexander, Manitoba, Manitoba, Canada",
+				"locality": "Manitoba",
+				"neighborhood": "Fort Alexander"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.296142578125,
+					50.6122207641602
+				]
+			},
+			"bbox": [
+				-96.3042581561006,
+				50.6083580465895,
+				-96.2880270001494,
+				50.6160834817308
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "346",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af72e3e0fffb418592f02b7a1790cb2e|BN20260223|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "346",
+				"postalCode": "346"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4979248046875,
+					28.4444618225098
+				]
+			},
+			"bbox": [
+				-82.8517684936523,
+				27.9774074554443,
+				-82.1950378417969,
+				28.6947803497314
+			]
+		}
+	]
+}

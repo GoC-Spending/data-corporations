@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Coronet Rd, Etobicoke, ON M8Z 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24052cb725ab48beaad62f48c6641dde|BN20131519|7.7.0.0|",
+				"addressLine": "31 Coronet Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Coronet Rd, Etobicoke, ON M8Z 2L8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54718,
+					43.62294
+				]
+			},
+			"bbox": [
+				-79.5487329,
+				43.6218158,
+				-79.5456271,
+				43.6240642
+			]
+		}
+	]
+}

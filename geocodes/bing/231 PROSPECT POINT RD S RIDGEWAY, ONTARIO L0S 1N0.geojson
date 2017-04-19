@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "231 Prospect Point Rd S, Fort Erie, ON L0S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9af682a9614440fba9cb8d1d03538be|BN20130522|7.7.0.0|",
+				"addressLine": "231 Prospect Point Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "231 Prospect Point Rd S, Fort Erie, ON L0S, Canada",
+				"locality": "Fort Erie",
+				"neighborhood": "Crystal Beach",
+				"postalCode": "L0S 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.04925,
+					42.8693
+				]
+			},
+			"bbox": [
+				-79.0507838,
+				42.8681758,
+				-79.0477162,
+				42.8704242
+			]
+		}
+	]
+}

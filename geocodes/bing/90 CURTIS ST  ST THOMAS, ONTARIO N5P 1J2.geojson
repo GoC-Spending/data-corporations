@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Curtis St, St Thomas, ON N5P 1J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d2f5a681f574ac696866b5ed9ff6ed4|BN20130625|7.7.0.0|",
+				"addressLine": "90 Curtis St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Curtis St, St Thomas, ON N5P 1J2, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 1J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1954804,
+					42.7796811
+				]
+			},
+			"bbox": [
+				-81.197012,
+				42.778557,
+				-81.1939488,
+				42.7808053
+			]
+		}
+	]
+}

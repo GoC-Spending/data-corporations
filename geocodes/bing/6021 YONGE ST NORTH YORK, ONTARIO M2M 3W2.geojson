@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6021 Yonge St, North York, ON M2M 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7ea8f130a114e7e8be59b593600bb68|BN20130521|7.7.0.0|",
+				"addressLine": "6021 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "6021 Yonge St, North York, ON M2M 3W2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook East",
+				"postalCode": "M2M 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4176845,
+					43.7892194
+				]
+			},
+			"bbox": [
+				-79.4192418,
+				43.7880952,
+				-79.4161273,
+				43.7903436
+			]
+		}
+	]
+}

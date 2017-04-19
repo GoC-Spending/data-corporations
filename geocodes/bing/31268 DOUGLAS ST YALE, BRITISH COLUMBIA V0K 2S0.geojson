@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31268 Douglas St, Fraser Valley, BC V0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f37513ee8cc42a28b3226eed8a3a7cc|BN20181720|7.7.0.0|",
+				"addressLine": "31268 Douglas St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "31268 Douglas St, Fraser Valley, BC V0K, Canada",
+				"locality": "Fraser Valley",
+				"neighborhood": "Yale",
+				"postalCode": "V0K 2S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.42848,
+					49.56186
+				]
+			},
+			"bbox": [
+				-121.4302131,
+				49.5607358,
+				-121.4267469,
+				49.5629842
+			]
+		}
+	]
+}

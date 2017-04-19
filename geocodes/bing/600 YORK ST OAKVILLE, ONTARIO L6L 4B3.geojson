@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 York St, Oakville, ON L6L 4B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f41e0ad33f54cbe8ce20e07d84c0957|BN20130532|7.7.0.0|",
+				"addressLine": "600 York St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 York St, Oakville, ON L6L 4B3, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6L 4B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71389,
+					43.42018
+				]
+			},
+			"bbox": [
+				-79.7154377,
+				43.4190558,
+				-79.7123423,
+				43.4213042
+			]
+		}
+	]
+}

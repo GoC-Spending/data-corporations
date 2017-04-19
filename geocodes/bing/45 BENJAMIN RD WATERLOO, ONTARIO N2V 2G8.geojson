@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Benjamin Rd, Waterloo, ON N2V 0C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40d944a3109e4d41ac78ba0c0700d351|BN20130533|7.7.0.0|",
+				"addressLine": "45 Benjamin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Benjamin Rd, Waterloo, ON N2V 0C6, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Waterloo",
+				"postalCode": "N2V 0C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.55288,
+					43.50734
+				]
+			},
+			"bbox": [
+				-80.5544299,
+				43.5062158,
+				-80.5513301,
+				43.5084642
+			]
+		}
+	]
+}

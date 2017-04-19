@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Victoria, V8W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "efa86e730d804ba586ada140cd2dcf91|BN20130522|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "Victoria, V8W, Canada",
+				"locality": "Victoria",
+				"postalCode": "V8W"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.365394592285,
+					48.425048828125
+				]
+			},
+			"bbox": [
+				-123.399391174316,
+				48.3910484313965,
+				-123.331390380859,
+				48.4590492248535
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Oak Bay, V8W 3S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "efa86e730d804ba586ada140cd2dcf91|BN20130522|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "Oak Bay, V8W 3S3, Canada",
+				"locality": "Oak Bay",
+				"postalCode": "V8W 3S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.317657470703,
+					48.4265289306641
+				]
+			},
+			"bbox": [
+				-123.325418252361,
+				48.4226662130934,
+				-123.309896689045,
+				48.4303916482347
+			]
+		}
+	]
+}

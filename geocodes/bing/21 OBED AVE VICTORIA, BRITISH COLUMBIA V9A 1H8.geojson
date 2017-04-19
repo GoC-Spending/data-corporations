@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Obed Ave, Victoria, BC V9A 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d92f145335f64b89bea291704bc39ffa|BN20130533|7.7.0.0|",
+				"addressLine": "21 Obed Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Obed Ave, Victoria, BC V9A 1H8, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V9A 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38974,
+					48.44564
+				]
+			},
+			"bbox": [
+				-123.3914347,
+				48.4445158,
+				-123.3880453,
+				48.4467642
+			]
+		}
+	]
+}

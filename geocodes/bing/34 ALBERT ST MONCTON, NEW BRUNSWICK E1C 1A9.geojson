@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Albert St, Moncton, NB E1C 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "224b7b5973c7472580a56c2eb46a1029|BN20200137|7.7.0.0|",
+				"addressLine": "34 Albert St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Albert St, Moncton, NB E1C 1A9, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.78183,
+					46.08395
+				]
+			},
+			"bbox": [
+				-64.7834507,
+				46.0828258,
+				-64.7802093,
+				46.0850742
+			]
+		}
+	]
+}

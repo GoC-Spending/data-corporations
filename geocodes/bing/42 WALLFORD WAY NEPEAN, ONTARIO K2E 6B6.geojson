@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Wallford Way, Nepean, ON K2E 6B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d64f8e001531403e877d4afbbe07103c|BN20130423|7.7.0.0|",
+				"addressLine": "42 Wallford Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Wallford Way, Nepean, ON K2E 6B6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 6B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72972,
+					45.36059
+				]
+			},
+			"bbox": [
+				-75.7313199,
+				45.3594658,
+				-75.7281201,
+				45.3617142
+			]
+		}
+	]
+}

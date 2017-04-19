@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8537 Commerce Ct, Burnaby, BC V5A 4N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1863be7157044369bcffa5ad38985361|BN20250135|7.7.0.0|",
+				"addressLine": "8537 Commerce Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8537 Commerce Ct, Burnaby, BC V5A 4N4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lake City",
+				"postalCode": "V5A 4N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9166572,
+					49.2549463
+				]
+			},
+			"bbox": [
+				-122.9183795,
+				49.2538222,
+				-122.9149349,
+				49.2560705
+			]
+		}
+	]
+}

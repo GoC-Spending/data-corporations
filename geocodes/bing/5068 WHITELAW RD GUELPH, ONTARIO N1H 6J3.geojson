@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5068 Whitelaw Rd, Guelph, ON N1H 6J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b0c7a214701d4e8990566b7a84e12678|BN20290118|7.7.0.0|",
+				"addressLine": "5068 Whitelaw Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "5068 Whitelaw Rd, Guelph, ON N1H 6J3, Canada",
+				"locality": "Guelph/Eramosa",
+				"neighborhood": "Guelph",
+				"postalCode": "N1H 6J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2708756,
+					43.5067653
+				]
+			},
+			"bbox": [
+				-80.2724256,
+				43.5056411,
+				-80.2693257,
+				43.5078894
+			]
+		}
+	]
+}

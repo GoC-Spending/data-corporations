@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "333 Bethany Hills Rd, Bethany, ON L0A 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d6ad5120017c4c72b7dd698d1d1610ea|BN20131519|7.7.0.0|",
+				"addressLine": "333 Bethany Hills Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "333 Bethany Hills Rd, Bethany, ON L0A 1A0, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Bethany",
+				"postalCode": "L0A 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.63795,
+					44.20716
+				]
+			},
+			"bbox": [
+				-78.6395182,
+				44.2060358,
+				-78.6363818,
+				44.2082842
+			]
+		}
+	]
+}

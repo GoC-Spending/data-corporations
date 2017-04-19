@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "112 Westbank Trl, Stoney Creek, ON L8J 0H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ee855402d6b48b5871ac1a94e4df991|BN20130625|7.7.0.0|",
+				"addressLine": "112 Westbank Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "112 Westbank Trl, Stoney Creek, ON L8J 0H3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8J 0H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7885903,
+					43.1978702
+				]
+			},
+			"bbox": [
+				-79.7901324,
+				43.196746,
+				-79.7870482,
+				43.1989943
+			]
+		}
+	]
+}

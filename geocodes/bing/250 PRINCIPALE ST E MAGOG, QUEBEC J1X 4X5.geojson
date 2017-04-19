@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Rue Principale E, Magog, QC J1X 4X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "135884373346434bb4cefb225594288a|BN20121763|7.7.0.0|",
+				"addressLine": "250 Rue Principale E",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Memphrémagog",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Rue Principale E, Magog, QC J1X 4X5, Canada",
+				"locality": "Magog",
+				"postalCode": "J1X 4X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.14,
+					45.26272
+				]
+			},
+			"bbox": [
+				-72.1415971,
+				45.2615958,
+				-72.1384029,
+				45.2638442
+			]
+		}
+	]
+}

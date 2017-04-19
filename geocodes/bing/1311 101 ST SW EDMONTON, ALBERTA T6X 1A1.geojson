@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1311 101 St SW, Edmonton, AB T6X 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b930303499640549a18c60da19b1206|BN20121762|7.7.0.0|",
+				"addressLine": "1311 101 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1311 101 St SW, Edmonton, AB T6X 1A1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ellerslie Industrial",
+				"postalCode": "T6X 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49154,
+					53.4202299
+				]
+			},
+			"bbox": [
+				-113.4934263,
+				53.4191057,
+				-113.4896537,
+				53.4213541
+			]
+		}
+	]
+}

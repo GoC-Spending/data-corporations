@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 3e Avenue, Laval, QC H7R 4J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5802dae4895844e5846028e9c4c2a167|BN20320521|7.7.0.0|",
+				"addressLine": "600 3e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 3e Avenue, Laval, QC H7R 4J4, Canada",
+				"locality": "Laval",
+				"postalCode": "H7R 4J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.85918,
+					45.5515199
+				]
+			},
+			"bbox": [
+				-73.8607853,
+				45.5503957,
+				-73.8575747,
+				45.5526441
+			]
+		}
+	]
+}

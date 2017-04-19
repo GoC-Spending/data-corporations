@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1640 Market St, Halifax, NS B3J 2C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1217553dea3e41ba9503b5ea735657fe|BN20130632|7.7.0.0|",
+				"addressLine": "1640 Market St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1640 Market St, Halifax, NS B3J 2C8, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Downtown Halifax",
+				"postalCode": "B3J 2C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57559,
+					44.64561
+				]
+			},
+			"bbox": [
+				-63.57717,
+				44.6444858,
+				-63.57401,
+				44.6467342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "211 33rd St W, Saskatoon, SK S7L 0V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8d4e2f2c826f487da969f2294f489d32|BN20130620|7.7.0.0|",
+				"addressLine": "211 33rd St W",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "211 33rd St W, Saskatoon, SK S7L 0V2, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Caswell Hill",
+				"postalCode": "S7L 0V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.67273,
+					52.14359
+				]
+			},
+			"bbox": [
+				-106.6745618,
+				52.1424658,
+				-106.6708982,
+				52.1447142
+			]
+		}
+	]
+}

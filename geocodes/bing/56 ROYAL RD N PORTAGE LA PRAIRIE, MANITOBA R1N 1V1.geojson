@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 Royal Rd N, Portage la Prairie, MB R1N 1V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe5329112bd6495d901b71150d51e829|BN20210145|7.7.0.0|",
+				"addressLine": "56 Royal Rd N",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 Royal Rd N, Portage la Prairie, MB R1N 1V1, Canada",
+				"locality": "Portage la Prairie",
+				"postalCode": "R1N 1V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.2895937,
+					49.9741131
+				]
+			},
+			"bbox": [
+				-98.2913417,
+				49.9729889,
+				-98.2878458,
+				49.9752372
+			]
+		}
+	]
+}

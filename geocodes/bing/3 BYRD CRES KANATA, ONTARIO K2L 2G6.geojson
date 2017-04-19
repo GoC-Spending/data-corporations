@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Byrd Cres, Kanata, ON K2L 2G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b6c36c3916e64c43b3c9678bfd2dd621|BN20130520|7.7.0.0|",
+				"addressLine": "3 Byrd Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Byrd Cres, Kanata, ON K2L 2G6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2L 2G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.89339,
+					45.31018
+				]
+			},
+			"bbox": [
+				-75.8949885,
+				45.3090558,
+				-75.8917915,
+				45.3113042
+			]
+		}
+	]
+}

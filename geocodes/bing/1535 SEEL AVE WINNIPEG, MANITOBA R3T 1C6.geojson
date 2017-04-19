@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1535 Seel Ave, Winnipeg, MB R3T 1C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d346bf6941c4425871a0244232cd876|BN20130520|7.7.0.0|",
+				"addressLine": "1535 Seel Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1535 Seel Ave, Winnipeg, MB R3T 1C6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Buffalo",
+				"postalCode": "R3T 1C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17102,
+					49.84193
+				]
+			},
+			"bbox": [
+				-97.1727631,
+				49.8408058,
+				-97.1692769,
+				49.8430542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "119 Jefferson Ave, Toronto, ON M6K 3E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5dcb056b8944f0ebfeb96be04571be5|BN20130631|7.7.0.0|",
+				"addressLine": "119 Jefferson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "119 Jefferson Ave, Toronto, ON M6K 3E4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Parkdale",
+				"postalCode": "M6K 3E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4217199,
+					43.6393
+				]
+			},
+			"bbox": [
+				-79.4232732,
+				43.6381758,
+				-79.4201666,
+				43.6404242
+			]
+		}
+	]
+}

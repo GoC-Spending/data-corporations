@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Northland Rd, Waterloo, ON N2V 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fc61898acd7547c799ce461c27705fea|BN20280152|7.7.0.0|",
+				"addressLine": "30 Northland Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Northland Rd, Waterloo, ON N2V 1Y1, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.53595,
+					43.50672
+				]
+			},
+			"bbox": [
+				-80.5374999,
+				43.5055958,
+				-80.5344001,
+				43.5078442
+			]
+		}
+	]
+}

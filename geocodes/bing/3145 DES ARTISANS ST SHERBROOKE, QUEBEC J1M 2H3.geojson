@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3145 Rue des Artisans, Sherbrooke, QC J1K 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7bb85f36281d4106a47adba383680635|BN20171457|7.7.0.0|",
+				"addressLine": "3145 Rue des Artisans",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "3145 Rue des Artisans, Sherbrooke, QC J1K 2W3, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1K 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.95234,
+					45.38127
+				]
+			},
+			"bbox": [
+				-71.9539405,
+				45.3801458,
+				-71.9507395,
+				45.3823942
+			]
+		}
+	]
+}

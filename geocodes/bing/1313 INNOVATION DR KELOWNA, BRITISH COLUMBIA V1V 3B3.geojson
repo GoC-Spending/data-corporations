@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1313 Innovation Dr, Kelowna, BC V1V 3B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0974e6a4f7874b2ab98b5f2b598e05f1|BN20200137|7.7.0.0|",
+				"addressLine": "1313 Innovation Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1313 Innovation Dr, Kelowna, BC V1V 3B3, Canada",
+				"locality": "Kelowna",
+				"postalCode": "V1V 3B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.3889365,
+					49.9457918
+				]
+			},
+			"bbox": [
+				-119.3906834,
+				49.9446677,
+				-119.3871896,
+				49.946916
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Hobart Cres, Nepean, ON K2H 5S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1735b467eab4463c8767f49bf3d17e17|BN20130532|7.7.0.0|",
+				"addressLine": "24 Hobart Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Hobart Cres, Nepean, ON K2H 5S4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2H 5S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.79386,
+					45.32653
+				]
+			},
+			"bbox": [
+				-75.7954589,
+				45.3254058,
+				-75.7922611,
+				45.3276542
+			]
+		}
+	]
+}

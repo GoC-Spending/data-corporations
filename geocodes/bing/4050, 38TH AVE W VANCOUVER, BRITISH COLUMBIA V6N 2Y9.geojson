@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4050 W 38th Ave, Vancouver, BC V6N 2Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50b54715d71942d094398c09e5e77ee5|BN20130521|7.7.0.0|",
+				"addressLine": "4050 W 38th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4050 W 38th Ave, Vancouver, BC V6N 2Y9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6N 2Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.19532,
+					49.23728
+				]
+			},
+			"bbox": [
+				-123.1970417,
+				49.2361558,
+				-123.1935983,
+				49.2384042
+			]
+		}
+	]
+}

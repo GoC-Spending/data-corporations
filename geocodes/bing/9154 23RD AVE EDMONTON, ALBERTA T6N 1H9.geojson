@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9154 23 Ave NW, Edmonton, AB T6N 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4699e2e83f89437eb0f57fccdb86813b|BN20130532|7.7.0.0|",
+				"addressLine": "9154 23 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9154 23 Ave NW, Edmonton, AB T6N 1H9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Parsons Industrial",
+				"postalCode": "T6N 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.47053,
+					53.45283
+				]
+			},
+			"bbox": [
+				-113.4724178,
+				53.4517058,
+				-113.4686422,
+				53.4539542
+			]
+		}
+	]
+}

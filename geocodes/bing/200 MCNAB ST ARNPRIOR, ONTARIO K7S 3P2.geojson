@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 McNab St, Arnprior, ON K7S 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c01c43c3b8fc41feb5935c2b7e04f0dd|BN20130631|7.7.0.0|",
+				"addressLine": "200 McNab St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 McNab St, Arnprior, ON K7S 2C7, Canada",
+				"locality": "Arnprior",
+				"postalCode": "K7S 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.3377584,
+					45.436989
+				]
+			},
+			"bbox": [
+				-76.3393605,
+				45.4358648,
+				-76.3361564,
+				45.4381131
+			]
+		}
+	]
+}

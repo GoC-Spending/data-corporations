@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "624 King St W, Toronto, ON M5V 1M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4ab7a06a17e418dbf0baaa93e9fa755|BN20130620|7.7.0.0|",
+				"addressLine": "624 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "624 King St W, Toronto, ON M5V 1M7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40102,
+					43.64452
+				]
+			},
+			"bbox": [
+				-79.4025735,
+				43.6433958,
+				-79.3994665,
+				43.6456442
+			]
+		}
+	]
+}

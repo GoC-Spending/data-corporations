@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4205 52 Ave, Beaumont, AB T4X 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "faa4031f1c3a436cb9152d99b7ba16ef|BN20121764|7.7.0.0|",
+				"addressLine": "4205 52 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4205 52 Ave, Beaumont, AB T4X 1J4, Canada",
+				"locality": "Beaumont",
+				"postalCode": "T4X 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.40389,
+					53.35392
+				]
+			},
+			"bbox": [
+				-113.4057734,
+				53.3527958,
+				-113.4020066,
+				53.3550442
+			]
+		}
+	]
+}

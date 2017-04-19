@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "139 Morley Ave, Winnipeg, MB R3L 0X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2106f6ac24fd40e1aadf5d020b65435b|BN20130532|7.7.0.0|",
+				"addressLine": "139 Morley Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "139 Morley Ave, Winnipeg, MB R3L 0X7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Riverview",
+				"postalCode": "R3L 0X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12887,
+					49.86726
+				]
+			},
+			"bbox": [
+				-97.1306141,
+				49.8661358,
+				-97.1271259,
+				49.8683842
+			]
+		}
+	]
+}

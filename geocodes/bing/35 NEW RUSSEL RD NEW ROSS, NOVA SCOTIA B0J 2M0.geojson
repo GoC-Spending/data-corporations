@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 New Russell Rd, Chester, NS B0J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89160c8ce76e4becbb0d870acd95d1f5|BN20130520|7.7.0.0|",
+				"addressLine": "35 New Russell Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 New Russell Rd, Chester, NS B0J, Canada",
+				"locality": "Chester",
+				"neighborhood": "New Ross",
+				"postalCode": "B0J 2M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.45403,
+					44.73851
+				]
+			},
+			"bbox": [
+				-64.4556126,
+				44.7373858,
+				-64.4524474,
+				44.7396342
+			]
+		}
+	]
+}

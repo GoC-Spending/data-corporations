@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Bethridge Rd, Etobicoke, ON M9W 1M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f31d65b6571e480a93951f63978f06f0|BN20130632|7.7.0.0|",
+				"addressLine": "25 Bethridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Bethridge Rd, Etobicoke, ON M9W 1M7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 1M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57038,
+					43.70776
+				]
+			},
+			"bbox": [
+				-79.5719351,
+				43.7066358,
+				-79.5688249,
+				43.7088842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 Speers Rd, Oakville, ON L6K 2E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ec7160b168e4a61a4b216dcaf3478e1|BN20131519|7.7.0.0|",
+				"addressLine": "132 Speers Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 Speers Rd, Oakville, ON L6K 2E7, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Central Oakville",
+				"postalCode": "L6K 2E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6878,
+					43.4455699
+				]
+			},
+			"bbox": [
+				-79.6893484,
+				43.4444457,
+				-79.6862516,
+				43.4466941
+			]
+		}
+	]
+}

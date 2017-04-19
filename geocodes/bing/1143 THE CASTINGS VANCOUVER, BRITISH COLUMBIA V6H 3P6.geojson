@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1143 The Castings, Vancouver, BC V6H 3P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6169e63f490b4733a9cf800539154871|BN20130719|7.7.0.0|",
+				"addressLine": "1143 The Castings",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1143 The Castings, Vancouver, BC V6H 3P6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V6H 3P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1313682,
+					49.2671491
+				]
+			},
+			"bbox": [
+				-123.133091,
+				49.2660249,
+				-123.1296455,
+				49.2682732
+			]
+		}
+	]
+}

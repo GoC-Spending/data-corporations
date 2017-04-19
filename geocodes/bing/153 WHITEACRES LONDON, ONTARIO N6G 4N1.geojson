@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "153 Whiteacres Ct, London, ON N6G 4N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1aa9afdbd08846329ba65b867b8e730b|BN20160335|7.7.0.0|",
+				"addressLine": "153 Whiteacres Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "153 Whiteacres Ct, London, ON N6G 4N1, Canada",
+				"locality": "London",
+				"neighborhood": "Medway",
+				"postalCode": "N6G 4N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3028999,
+					43.0105999
+				]
+			},
+			"bbox": [
+				-81.3044372,
+				43.0094757,
+				-81.3013626,
+				43.0117241
+			]
+		}
+	]
+}

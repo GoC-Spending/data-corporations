@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Collahie St, Toronto, ON M6J 1T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62394f1940cd492a94a2a43e36342de2|BN20171457|7.7.0.0|",
+				"addressLine": "15 Collahie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Collahie St, Toronto, ON M6J 1T6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Little Portugal",
+				"postalCode": "M6J 1T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42858,
+					43.6487
+				]
+			},
+			"bbox": [
+				-79.4301336,
+				43.6475758,
+				-79.4270264,
+				43.6498242
+			]
+		}
+	]
+}

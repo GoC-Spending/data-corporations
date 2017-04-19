@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2210 Bank St, Ottawa, ON K1V 1J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b819e70c89704c519a0c23edd0aa4e57|BN20130620|7.7.0.0|",
+				"addressLine": "2210 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2210 Bank St, Ottawa, ON K1V 1J5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "South Keys-Heron Gate-Greenboro",
+				"postalCode": "K1V 1J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6551,
+					45.35802
+				]
+			},
+			"bbox": [
+				-75.6566998,
+				45.3568958,
+				-75.6535002,
+				45.3591442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "253 Finholm St N, Parksville, BC V9P 1H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2aac6c243f7649de974b64b6f01f59c8|BN20200137|7.7.0.0|",
+				"addressLine": "253 Finholm St N",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "253 Finholm St N, Parksville, BC V9P 1H3, Canada",
+				"locality": "Parksville",
+				"postalCode": "V9P 1H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.32917,
+					49.32463
+				]
+			},
+			"bbox": [
+				-124.3308948,
+				49.3235058,
+				-124.3274452,
+				49.3257542
+			]
+		}
+	]
+}

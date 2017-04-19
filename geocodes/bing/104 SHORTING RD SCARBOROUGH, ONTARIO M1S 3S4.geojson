@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 Shorting Rd, Scarborough, ON M1S 3S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9aae7fe4c4045a886a9b7a2aaacdce1|BN20130442|7.7.0.0|",
+				"addressLine": "104 Shorting Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 Shorting Rd, Scarborough, ON M1S 3S4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 3S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2506829,
+					43.7953819
+				]
+			},
+			"bbox": [
+				-79.2522403,
+				43.7942577,
+				-79.2491255,
+				43.796506
+			]
+		}
+	]
+}

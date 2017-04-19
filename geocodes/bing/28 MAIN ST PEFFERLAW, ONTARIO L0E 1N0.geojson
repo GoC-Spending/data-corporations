@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "28 Main St, Pefferlaw, ON L0E 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5a5610edfe3409ea7ab02743f4edf44|BN20200137|7.7.0.0|",
+				"addressLine": "28 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "28 Main St, Pefferlaw, ON L0E 1N0, Canada",
+				"locality": "Georgina",
+				"neighborhood": "Pefferlaw",
+				"postalCode": "L0E 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.19517,
+					44.31562
+				]
+			},
+			"bbox": [
+				-79.1967411,
+				44.3144958,
+				-79.1935989,
+				44.3167442
+			]
+		}
+	]
+}

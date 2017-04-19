@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2434 9th Ave N, Regina, SK S4R 7W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "650aab81b49543998aa17d4cbc45b097|BN20250135|7.7.0.0|",
+				"addressLine": "2434 9th Ave N",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2434 9th Ave N, Regina, SK S4R 7W3, Canada",
+				"locality": "Regina",
+				"neighborhood": "Northeast Regina",
+				"postalCode": "S4R 7W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.615882,
+					50.4845582
+				]
+			},
+			"bbox": [
+				-104.6176488,
+				50.4834341,
+				-104.6141153,
+				50.4856824
+			]
+		}
+	]
+}

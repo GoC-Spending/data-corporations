@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "304 Greenfield Rd, Colchester, NS B6L 3M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b70f9fabcff84caea6fec33030f70ef3|BN20320521|7.7.0.0|",
+				"addressLine": "304 Greenfield Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "304 Greenfield Rd, Colchester, NS B6L 3M9, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Murrays Siding",
+				"postalCode": "B6L 3M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.19704,
+					45.36321
+				]
+			},
+			"bbox": [
+				-63.19864,
+				45.3620858,
+				-63.19544,
+				45.3643342
+			]
+		}
+	]
+}

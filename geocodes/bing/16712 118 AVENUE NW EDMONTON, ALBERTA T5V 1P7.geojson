@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16712 118 Ave NW, Edmonton, AB T5V 1P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3395289a03e4970959dce51a29233e4|BN20280152|7.7.0.0|",
+				"addressLine": "16712 118 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "16712 118 Ave NW, Edmonton, AB T5V 1P7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Carleton Square Industrial",
+				"postalCode": "T5V 1P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6094487,
+					53.5706349
+				]
+			},
+			"bbox": [
+				-113.6113417,
+				53.5695107,
+				-113.6075556,
+				53.571759
+			]
+		}
+	]
+}

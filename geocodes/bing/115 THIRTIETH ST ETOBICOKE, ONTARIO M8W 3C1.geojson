@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 30th St, Toronto, ON M8W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99b2aeac304c4c378e8a02a9a7fea56b|BN20130423|7.7.0.0|",
+				"addressLine": "115 30th St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 30th St, Toronto, ON M8W, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Alderwood",
+				"postalCode": "M8W 3C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5315194,
+					43.5997775
+				]
+			},
+			"bbox": [
+				-79.5330717,
+				43.5986533,
+				-79.5299671,
+				43.6009016
+			]
+		}
+	]
+}

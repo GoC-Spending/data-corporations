@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Homer St, Vancouver, BC V6B 1T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "29000c39b9a449c1ab64a1434d89610f|BN20320521|7.7.0.0|",
+				"addressLine": "Homer St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Homer St, Vancouver, BC V6B 1T7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 1T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11887,
+					49.27814
+				]
+			},
+			"bbox": [
+				-123.12588,
+				49.27315,
+				-123.11089,
+				49.28341
+			]
+		}
+	]
+}

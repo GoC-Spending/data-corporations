@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "525 Horton St E, London, ON N6B 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83f4694d868f4d4ab098680d49f189ce|CO30275839|7.7.0.0|",
+				"addressLine": "525 Horton St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "525 Horton St E, London, ON N6B 1M6, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2323,
+					42.9829
+				]
+			},
+			"bbox": [
+				-81.2338367,
+				42.9817758,
+				-81.2307633,
+				42.9840242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Myrtle Rd W, Ashburn, ON L0B 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e485853296c4b86bf8cb0b8aa39b266|BN20130533|7.7.0.0|",
+				"addressLine": "140 Myrtle Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Myrtle Rd W, Ashburn, ON L0B 1A0, Canada",
+				"locality": "Whitby",
+				"neighborhood": "Ashburn",
+				"postalCode": "L0B 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.975719,
+					44.0067734
+				]
+			},
+			"bbox": [
+				-78.9772819,
+				44.0056492,
+				-78.974156,
+				44.0078975
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3366 Barrington Rd, Nanaimo, BC V9T 5W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb3aaa9303a04b3c86dad3b44ff47867|BN20130522|7.7.0.0|",
+				"addressLine": "3366 Barrington Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "3366 Barrington Rd, Nanaimo, BC V9T 5W3, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9T 5W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.98379,
+					49.2152699
+				]
+			},
+			"bbox": [
+				-123.9855109,
+				49.2141457,
+				-123.9820691,
+				49.2163941
+			]
+		}
+	]
+}

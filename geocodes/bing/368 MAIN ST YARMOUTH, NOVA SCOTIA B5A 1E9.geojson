@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "368 Main St, Yarmouth, NS B5A 1E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa9d384e995e4b56918ac12bea968d83|BN20130522|7.7.0.0|",
+				"addressLine": "368 Main St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Yarmouth",
+				"countryRegion": "Canada",
+				"formattedAddress": "368 Main St, Yarmouth, NS B5A 1E9, Canada",
+				"locality": "Yarmouth",
+				"postalCode": "B5A 1E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1201899,
+					43.8372
+				]
+			},
+			"bbox": [
+				-66.1217484,
+				43.8360758,
+				-66.1186314,
+				43.8383242
+			]
+		}
+	]
+}

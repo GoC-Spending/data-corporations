@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "438 Gateway Cres S, Lethbridge, AB T1K 4X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9787a9da107447238fe7247a147b4c73|BN20320521|7.7.0.0|",
+				"addressLine": "438 Gateway Cres S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "438 Gateway Cres S, Lethbridge, AB T1K 4X2, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1K 4X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.7838,
+					49.6613
+				]
+			},
+			"bbox": [
+				-112.7855367,
+				49.6601758,
+				-112.7820633,
+				49.6624242
+			]
+		}
+	]
+}

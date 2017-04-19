@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "335 River Rd, Gloucester, ON K1V 1C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "59267e67bedb4416a7705754d611ea97|BN20130533|7.7.0.0|",
+				"addressLine": "335 River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "335 River Rd, Gloucester, ON K1V 1C7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1V 1C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6899,
+					45.3159599
+				]
+			},
+			"bbox": [
+				-75.6914986,
+				45.3148357,
+				-75.6883014,
+				45.3170841
+			]
+		}
+	]
+}

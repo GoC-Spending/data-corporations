@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "383 Rue Demers, Laval, QC H7L 3C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2761bc4b9fb8446886d1242a7319a238|BN20130521|7.7.0.0|",
+				"addressLine": "383 Rue Demers",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "383 Rue Demers, Laval, QC H7L 3C3, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 3C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.79234,
+					45.60203
+				]
+			},
+			"bbox": [
+				-73.7939468,
+				45.6009058,
+				-73.7907332,
+				45.6031542
+			]
+		}
+	]
+}

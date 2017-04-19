@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45905 Yale Rd W, Chilliwack, BC V2P 2M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b23089f15cf64f33a7a742006fca55c3|BN20130522|7.7.0.0|",
+				"addressLine": "45905 Yale Rd W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "45905 Yale Rd W, Chilliwack, BC V2P 2M6, Canada",
+				"locality": "Chilliwack",
+				"neighborhood": "Chilliwack Proper Village West",
+				"postalCode": "V2P 2M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.9588206,
+					49.1666889
+				]
+			},
+			"bbox": [
+				-121.9605398,
+				49.1655647,
+				-121.9571013,
+				49.167813
+			]
+		}
+	]
+}

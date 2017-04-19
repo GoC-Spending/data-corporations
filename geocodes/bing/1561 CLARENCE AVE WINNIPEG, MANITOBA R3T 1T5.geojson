@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1561 Clarence Ave, Winnipeg, MB R3T 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6f2d82974194c09951ae9738d857e74|BN20130422|7.7.0.0|",
+				"addressLine": "1561 Clarence Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1561 Clarence Ave, Winnipeg, MB R3T 1T5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chevrier",
+				"postalCode": "R3T 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17694,
+					49.82809
+				]
+			},
+			"bbox": [
+				-97.1786826,
+				49.8269658,
+				-97.1751974,
+				49.8292142
+			]
+		}
+	]
+}

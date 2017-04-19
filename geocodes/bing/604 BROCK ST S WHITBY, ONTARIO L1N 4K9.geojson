@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "604 Brock St S, Whitby, ON L1N 4K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69536aff9455468aa5e0b169ad7da348|BN20130521|7.7.0.0|",
+				"addressLine": "604 Brock St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "604 Brock St S, Whitby, ON L1N 4K9, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 4K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94018,
+					43.87421
+				]
+			},
+			"bbox": [
+				-78.9417395,
+				43.8730858,
+				-78.9386205,
+				43.8753342
+			]
+		}
+	]
+}

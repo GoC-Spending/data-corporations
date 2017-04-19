@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Holly Meadow Rd, Barrie, ON L4N 0E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aad3e233d64d4db6a163f50fe2e6fba8|BN20320521|7.7.0.0|",
+				"addressLine": "45 Holly Meadow Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Holly Meadow Rd, Barrie, ON L4N 0E2, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Holly",
+				"postalCode": "L4N 0E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72495,
+					44.33307
+				]
+			},
+			"bbox": [
+				-79.7265216,
+				44.3319458,
+				-79.7233784,
+				44.3341942
+			]
+		}
+	]
+}

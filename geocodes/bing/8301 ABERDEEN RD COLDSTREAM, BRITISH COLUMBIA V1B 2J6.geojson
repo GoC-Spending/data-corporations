@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8301 Aberdeen Rd, Coldstream, BC V1B 2L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c52aa8c73a2243a094acdfe6f342a33f|BN20220145|7.7.0.0|",
+				"addressLine": "8301 Aberdeen Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "8301 Aberdeen Rd, Coldstream, BC V1B 2L9, Canada",
+				"locality": "Coldstream",
+				"postalCode": "V1B 2L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.2280951,
+					50.2263702
+				]
+			},
+			"bbox": [
+				-119.2298523,
+				50.2252461,
+				-119.2263379,
+				50.2274944
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Whitmer St, Milton, ON L9T 8L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c33353ae3bc54a159155f3d60de1643e|BN20181720|7.7.0.0|",
+				"addressLine": "90 Whitmer St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Whitmer St, Milton, ON L9T 8L4, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 8L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.888351,
+					43.5044281
+				]
+			},
+			"bbox": [
+				-79.8899009,
+				43.5033039,
+				-79.8868012,
+				43.5055522
+			]
+		}
+	]
+}

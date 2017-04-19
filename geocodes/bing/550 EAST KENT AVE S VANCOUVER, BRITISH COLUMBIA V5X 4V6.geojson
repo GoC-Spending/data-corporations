@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 E Kent Ave S, Vancouver, BC V5X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "578154c330a341e89e7b21bc7711f8ce|BN20130719|7.7.0.0|",
+				"addressLine": "550 E Kent Ave S",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 E Kent Ave S, Vancouver, BC V5X, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Sunset",
+				"postalCode": "V5X 4V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0951766,
+					49.2075079
+				]
+			},
+			"bbox": [
+				-123.0968973,
+				49.2063837,
+				-123.0934559,
+				49.208632
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Peter St, Port Hope, ON L1A 3V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c041b268a1e42399f62e9dd6e52d2a6|BN20130521|7.7.0.0|",
+				"addressLine": "205 Peter St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Peter St, Port Hope, ON L1A 3V6, Canada",
+				"locality": "Port Hope",
+				"postalCode": "L1A 3V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.27289,
+					43.95369
+				]
+			},
+			"bbox": [
+				-78.2744515,
+				43.9525658,
+				-78.2713285,
+				43.9548142
+			]
+		}
+	]
+}

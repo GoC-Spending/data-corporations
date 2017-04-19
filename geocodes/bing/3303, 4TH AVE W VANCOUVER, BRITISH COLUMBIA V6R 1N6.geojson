@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3303 W 4th Ave, Vancouver, BC V6R 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab86717f3464471997cfc135464c5b03|BN20130721|7.7.0.0|",
+				"addressLine": "3303 W 4th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3303 W 4th Ave, Vancouver, BC V6R 1N6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kitsilano",
+				"postalCode": "V6R 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1779333,
+					49.2686355
+				]
+			},
+			"bbox": [
+				-123.1796561,
+				49.2675113,
+				-123.1762105,
+				49.2697596
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "417 Montreal Ave S, Saskatoon, SK S7M 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9086c3dc3cdd40139a569feea2d6776f|BN20130620|7.7.0.0|",
+				"addressLine": "417 Montreal Ave S",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "417 Montreal Ave S, Saskatoon, SK S7M 3L2, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Meadow Green",
+				"postalCode": "S7M 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.71222,
+					52.12333
+				]
+			},
+			"bbox": [
+				-106.714051,
+				52.1222058,
+				-106.710389,
+				52.1244542
+			]
+		}
+	]
+}

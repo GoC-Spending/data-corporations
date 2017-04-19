@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35465 Stafford Pl, Abbotsford, BC V3G 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44c53414fb1340c58da15fc78549c081|BN20240423|7.7.0.0|",
+				"addressLine": "35465 Stafford Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "35465 Stafford Pl, Abbotsford, BC V3G 2C7, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "McMillan",
+				"postalCode": "V3G 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2420165,
+					49.0389819
+				]
+			},
+			"bbox": [
+				-122.2437313,
+				49.0378578,
+				-122.2403017,
+				49.0401061
+			]
+		}
+	]
+}

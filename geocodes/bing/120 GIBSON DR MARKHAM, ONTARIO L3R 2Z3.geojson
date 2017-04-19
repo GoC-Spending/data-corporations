@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Gibson Dr, Markham, ON L3R 2Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46eee89451a249fcbcaa30739fb67a85|BN20130620|7.7.0.0|",
+				"addressLine": "120 Gibson Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Gibson Dr, Markham, ON L3R 2Z3, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 2Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33002,
+					43.82338
+				]
+			},
+			"bbox": [
+				-79.3315781,
+				43.8222558,
+				-79.3284619,
+				43.8245042
+			]
+		}
+	]
+}

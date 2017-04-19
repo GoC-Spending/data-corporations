@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12142 98A Ave, Surrey, BC V3V 7S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1321b630af3e40bfa543e74963d56f99|BN20130431|7.7.0.0|",
+				"addressLine": "12142 98A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12142 98A Ave, Surrey, BC V3V 7S5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 7S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.88689,
+					49.1814851
+				]
+			},
+			"bbox": [
+				-122.8886098,
+				49.1803609,
+				-122.8851703,
+				49.1826093
+			]
+		}
+	]
+}

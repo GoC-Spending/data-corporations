@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5250 185A St, Surrey, BC V3S 7A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ef788ee8cde4818a22bb86bd2ccec40|BN20130522|7.7.0.0|",
+				"addressLine": "5250 185A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5250 185A St, Surrey, BC V3S 7A4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 7A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7079637,
+					49.0973754
+				]
+			},
+			"bbox": [
+				-122.7096805,
+				49.0962512,
+				-122.7062468,
+				49.0984995
+			]
+		}
+	]
+}

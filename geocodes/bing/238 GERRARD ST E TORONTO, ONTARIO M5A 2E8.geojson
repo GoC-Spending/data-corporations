@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "238 Gerrard St E, Toronto, ON M5A 2E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ae01cb188f54f2eb48fb34b95273a95|BN20300154|7.7.0.0|",
+				"addressLine": "238 Gerrard St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "238 Gerrard St E, Toronto, ON M5A 2E8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 2E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36998,
+					43.66187
+				]
+			},
+			"bbox": [
+				-79.3715339,
+				43.6607458,
+				-79.3684261,
+				43.6629942
+			]
+		}
+	]
+}

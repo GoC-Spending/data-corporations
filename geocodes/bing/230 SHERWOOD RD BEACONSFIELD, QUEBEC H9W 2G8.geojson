@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Sherwood Rd, Beaconsfield, QC H9W 2G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d47eae26971542daa3d8c361343b073b|BN20130634|7.7.0.0|",
+				"addressLine": "230 Sherwood Rd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Sherwood Rd, Beaconsfield, QC H9W 2G8, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 2G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.87694,
+					45.4370199
+				]
+			},
+			"bbox": [
+				-73.8785421,
+				45.4358957,
+				-73.8753379,
+				45.4381441
+			]
+		}
+	]
+}

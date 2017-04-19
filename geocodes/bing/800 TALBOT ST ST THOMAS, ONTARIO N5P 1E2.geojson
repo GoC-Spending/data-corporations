@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "800 Talbot St, St Thomas, ON N5P 1E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6de89924b5344057895479407038e9d4|BN20160335|7.7.0.0|",
+				"addressLine": "800 Talbot St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "800 Talbot St, St Thomas, ON N5P 1E2, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 1E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1853355,
+					42.7787251
+				]
+			},
+			"bbox": [
+				-81.1868671,
+				42.777601,
+				-81.1838039,
+				42.7798493
+			]
+		}
+	]
+}

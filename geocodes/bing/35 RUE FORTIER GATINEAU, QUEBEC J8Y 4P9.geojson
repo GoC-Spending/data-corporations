@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Rue Fortier, Gatineau, QC J8Y 4P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99193245ecd74cd193ed849b83ef6996|BN20130719|7.7.0.0|",
+				"addressLine": "35 Rue Fortier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Rue Fortier, Gatineau, QC J8Y 4P9, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8Y 4P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73734,
+					45.44037
+				]
+			},
+			"bbox": [
+				-75.7389422,
+				45.4392458,
+				-75.7357378,
+				45.4414942
+			]
+		}
+	]
+}

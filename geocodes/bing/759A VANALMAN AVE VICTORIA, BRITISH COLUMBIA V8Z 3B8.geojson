@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "759 Vanalman Ave, Victoria, BC V8Z 3B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d55c7ecdd454629b2cdddf445bf6a22|BN20290118|7.7.0.0|",
+				"addressLine": "759 Vanalman Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "759 Vanalman Ave, Victoria, BC V8Z 3B8, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8Z 3B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38874,
+					48.4807599
+				]
+			},
+			"bbox": [
+				-123.3904359,
+				48.4796357,
+				-123.3870441,
+				48.4818841
+			]
+		}
+	]
+}

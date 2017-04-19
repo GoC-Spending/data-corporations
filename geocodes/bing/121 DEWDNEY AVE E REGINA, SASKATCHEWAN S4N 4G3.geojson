@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "121 Dewdney Ave E, Regina, SK S4N 4G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e160992c9af449b19dcc5c75c59bd57d|BN20190642|7.7.0.0|",
+				"addressLine": "121 Dewdney Ave E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "121 Dewdney Ave E, Regina, SK S4N 4G3, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 4G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.58174,
+					50.45482
+				]
+			},
+			"bbox": [
+				-104.5835056,
+				50.4536958,
+				-104.5799744,
+				50.4559442
+			]
+		}
+	]
+}

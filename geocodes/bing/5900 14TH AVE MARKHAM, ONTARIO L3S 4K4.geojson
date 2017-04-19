@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5900 14th Ave, Markham, ON L3S 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb2c474f0f1a4acbb389f4dfb77025c1|BN20130625|7.7.0.0|",
+				"addressLine": "5900 14th Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "5900 14th Ave, Markham, ON L3S 4K4, Canada",
+				"locality": "Markham",
+				"postalCode": "L3S 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26128,
+					43.85462
+				]
+			},
+			"bbox": [
+				-79.2628389,
+				43.8534958,
+				-79.2597211,
+				43.8557442
+			]
+		}
+	]
+}

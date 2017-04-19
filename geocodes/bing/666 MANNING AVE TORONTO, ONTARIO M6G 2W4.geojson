@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "666 Manning Ave, Toronto, ON M6G 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7b685c93b794e84975acd93dffa6ecc|BN20130520|7.7.0.0|",
+				"addressLine": "666 Manning Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "666 Manning Ave, Toronto, ON M6G 2W4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M6G 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41621,
+					43.66434
+				]
+			},
+			"bbox": [
+				-79.417764,
+				43.6632158,
+				-79.414656,
+				43.6654642
+			]
+		}
+	]
+}

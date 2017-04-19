@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 Milson Cres, Guelph, ON N1C 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3f23a1b192c4a8897d0ba503b048b5d|BN20130522|7.7.0.0|",
+				"addressLine": "106 Milson Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 Milson Cres, Guelph, ON N1C 1G5, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Dovercliffe Park/Kortright Hills",
+				"postalCode": "N1C 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.22995,
+					43.50013
+				]
+			},
+			"bbox": [
+				-80.2314998,
+				43.4990058,
+				-80.2284002,
+				43.5012542
+			]
+		}
+	]
+}

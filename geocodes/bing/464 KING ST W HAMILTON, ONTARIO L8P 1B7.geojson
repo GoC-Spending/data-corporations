@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "464 King St W, Hamilton, ON L8P 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ac2636096cf4ab3a9c35b595994283a|BN20130625|7.7.0.0|",
+				"addressLine": "464 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "464 King St W, Hamilton, ON L8P 1B7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Strathcona",
+				"postalCode": "L8P 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8828544,
+					43.2608252
+				]
+			},
+			"bbox": [
+				-79.8843981,
+				43.259701,
+				-79.8813108,
+				43.2619493
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "311 Henderson Hwy, Winnipeg, MB R2L 1M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "021d8fd37d354a1fa8617befc9b9bc02|BN20260231|7.7.0.0|",
+				"addressLine": "311 Henderson Hwy",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "311 Henderson Hwy, Winnipeg, MB R2L 1M4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chalmers",
+				"postalCode": "R2L 1M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.11361,
+					49.91624
+				]
+			},
+			"bbox": [
+				-97.1153558,
+				49.9151158,
+				-97.1118642,
+				49.9173642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "220 Holmes Ave, North York, ON M2N 4N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7b2e51c10ef4cd68b75c2371ff492d4|BN20240423|7.7.0.0|",
+				"addressLine": "220 Holmes Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "220 Holmes Ave, North York, ON M2N 4N1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 4N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39891,
+					43.78145
+				]
+			},
+			"bbox": [
+				-79.400467,
+				43.7803258,
+				-79.397353,
+				43.7825742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1783 Manitoba St, Vancouver, BC V5Y 0K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85294fc961f44eef822c4f95f85de263|BN20300154|7.7.0.0|",
+				"addressLine": "1783 Manitoba St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1783 Manitoba St, Vancouver, BC V5Y 0K1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Southeast False Creek",
+				"postalCode": "V5Y 0K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1067779,
+					49.2695101
+				]
+			},
+			"bbox": [
+				-123.1085007,
+				49.268386,
+				-123.1050551,
+				49.2706343
+			]
+		}
+	]
+}

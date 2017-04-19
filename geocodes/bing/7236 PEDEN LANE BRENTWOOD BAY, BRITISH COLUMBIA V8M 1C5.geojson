@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7236 Peden Ln, Brentwood Bay, BC V8M 1C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aba647c9e8d24b95aa6abe961e075d36|BN20121762|7.7.0.0|",
+				"addressLine": "7236 Peden Ln",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "7236 Peden Ln, Brentwood Bay, BC V8M 1C5, Canada",
+				"locality": "Central Saanich",
+				"neighborhood": "Brentwood Bay",
+				"postalCode": "V8M 1C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4660852,
+					48.5786513
+				]
+			},
+			"bbox": [
+				-123.4677844,
+				48.5775271,
+				-123.4643861,
+				48.5797754
+			]
+		}
+	]
+}

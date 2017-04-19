@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "677 7e Avenue, Lachine, QC H8S 3A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "148979998e0746afac9c5081d9e5e14e|BN20130522|7.7.0.0|",
+				"addressLine": "677 7e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "677 7e Avenue, Lachine, QC H8S 3A1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8S 3A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.6705999,
+					45.44132
+				]
+			},
+			"bbox": [
+				-73.6722021,
+				45.4401958,
+				-73.6689977,
+				45.4424442
+			]
+		}
+	]
+}

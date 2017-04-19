@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "310 15 Ave SW, Calgary, AB T2R 0P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "448ff01cb8a242d1a8e7015b8c688dd3|BN20320521|7.7.0.0|",
+				"addressLine": "310 15 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "310 15 Ave SW, Calgary, AB T2R 0P8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Beltline",
+				"postalCode": "T2R 0P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06907,
+					51.03905
+				]
+			},
+			"bbox": [
+				-114.0708578,
+				51.0379258,
+				-114.0672822,
+				51.0401742
+			]
+		}
+	]
+}

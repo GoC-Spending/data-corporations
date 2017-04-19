@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "460 McCartney St, Arnprior, ON K7S 0B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "049b921854a348e5a125eb61bcc764c0|BN20121762|7.7.0.0|",
+				"addressLine": "460 McCartney St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "460 McCartney St, Arnprior, ON K7S 0B6, Canada",
+				"locality": "Arnprior",
+				"postalCode": "K7S 0B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.3412216,
+					45.4249072
+				]
+			},
+			"bbox": [
+				-76.3428233,
+				45.423783,
+				-76.3396199,
+				45.4260313
+			]
+		}
+	]
+}

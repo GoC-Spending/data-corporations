@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "766 Taunton Rd E, Oshawa, ON L1H 7K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eef69bd0c8e04ae0820711ba9e528542|BN20130521|7.7.0.0|",
+				"addressLine": "766 Taunton Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "766 Taunton Rd E, Oshawa, ON L1H 7K5, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Taunton",
+				"postalCode": "L1H 7K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8535888,
+					43.9387545
+				]
+			},
+			"bbox": [
+				-78.8551499,
+				43.9376303,
+				-78.8520276,
+				43.9398787
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Adelaide St E, Toronto, ON M5C 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70b28f2ea7414cb58f2405a0ba4390b8|BN20130532|7.7.0.0|",
+				"addressLine": "31 Adelaide St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Adelaide St E, Toronto, ON M5C 1J4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37694,
+					43.65059
+				]
+			},
+			"bbox": [
+				-79.3784936,
+				43.6494658,
+				-79.3753864,
+				43.6517142
+			]
+		}
+	]
+}

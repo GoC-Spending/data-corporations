@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "141 Palliser Way, Yorkton, SK S3N 4C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99939da715e14e24862c7c447e07de85|BN20210145|7.7.0.0|",
+				"addressLine": "141 Palliser Way",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "141 Palliser Way, Yorkton, SK S3N 4C6, Canada",
+				"locality": "Yorkton",
+				"postalCode": "S3N 4C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.44767,
+					51.20612
+				]
+			},
+			"bbox": [
+				-102.4494643,
+				51.2049958,
+				-102.4458757,
+				51.2072442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Church St, Moncton, NB E1C 4Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2af13c00f4543e1bf6db2cc73cdced0|BN20130530|7.7.0.0|",
+				"addressLine": "59 Church St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Church St, Moncton, NB E1C 4Z3, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 4Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.77844,
+					46.09012
+				]
+			},
+			"bbox": [
+				-64.7800609,
+				46.0889958,
+				-64.7768191,
+				46.0912442
+			]
+		}
+	]
+}

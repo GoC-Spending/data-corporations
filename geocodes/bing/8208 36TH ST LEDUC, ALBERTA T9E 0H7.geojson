@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8208 36 St, Leduc, AB T9E 0H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "203df006694e4912a7c5f39a3f1fdec4|BN20250135|7.7.0.0|",
+				"addressLine": "8208 36 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8208 36 St, Leduc, AB T9E 0H7, Canada",
+				"locality": "Leduc",
+				"postalCode": "T9E 0H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.52424,
+					53.3073
+				]
+			},
+			"bbox": [
+				-113.5261214,
+				53.3061758,
+				-113.5223586,
+				53.3084242
+			]
+		}
+	]
+}

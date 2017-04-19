@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 William St S, Lindsay, ON K9V 3A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d4667c089f4497d8ab5cd75b78ae08a|BN20181720|7.7.0.0|",
+				"addressLine": "33 William St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 William St S, Lindsay, ON K9V 3A3, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Lindsay",
+				"postalCode": "K9V 3A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7367513,
+					44.3539444
+				]
+			},
+			"bbox": [
+				-78.7383234,
+				44.3528202,
+				-78.7351791,
+				44.3550685
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1370 Johnson Ave, Bathurst, NB E2A 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b9d9a8da12b24f4db2419ab281e4d9c4|BN20130634|7.7.0.0|",
+				"addressLine": "1370 Johnson Ave",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Gloucester",
+				"countryRegion": "Canada",
+				"formattedAddress": "1370 Johnson Ave, Bathurst, NB E2A 3T7, Canada",
+				"locality": "Bathurst",
+				"postalCode": "E2A 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.6917,
+					47.6392
+				]
+			},
+			"bbox": [
+				-65.6933684,
+				47.6380758,
+				-65.6900316,
+				47.6403242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Grist Mill Dr, Georgetown, ON L7G 6C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b6d71503c09f4bd680be27ed9aec337a|BN20300154|7.7.0.0|",
+				"addressLine": "39 Grist Mill Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Grist Mill Dr, Georgetown, ON L7G 6C1, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 6C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9149599,
+					43.63759
+				]
+			},
+			"bbox": [
+				-79.9165132,
+				43.6364658,
+				-79.9134066,
+				43.6387142
+			]
+		}
+	]
+}

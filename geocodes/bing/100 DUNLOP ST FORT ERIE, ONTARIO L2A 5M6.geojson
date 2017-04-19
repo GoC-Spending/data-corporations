@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Dunlop St, Fort Erie, ON L2A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1a8cb4fa3fb415c8ecb45974c633f1d|BN20300154|7.7.0.0|",
+				"addressLine": "100 Dunlop St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Dunlop St, Fort Erie, ON L2A, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 5M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9282999,
+					42.92531
+				]
+			},
+			"bbox": [
+				-78.9298351,
+				42.9241858,
+				-78.9267647,
+				42.9264342
+			]
+		}
+	]
+}

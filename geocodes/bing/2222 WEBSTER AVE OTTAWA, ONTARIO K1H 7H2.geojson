@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2222 Webster Ave, Ottawa, ON K1H 7H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "edf6b183bb3f468988061ae464dfb514|BN20130721|7.7.0.0|",
+				"addressLine": "2222 Webster Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2222 Webster Ave, Ottawa, ON K1H 7H2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Billings Bridge-Alta Vista",
+				"postalCode": "K1H 7H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.65713,
+					45.38604
+				]
+			},
+			"bbox": [
+				-75.6587306,
+				45.3849158,
+				-75.6555294,
+				45.3871642
+			]
+		}
+	]
+}

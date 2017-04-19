@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "439 Waterloo St, London, ON N6B 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20a32e2c91b347a89cb023af26d3d227|BN20121764|7.7.0.0|",
+				"addressLine": "439 Waterloo St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "439 Waterloo St, London, ON N6B 2P1, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2431338,
+					42.9865917
+				]
+			},
+			"bbox": [
+				-81.2446706,
+				42.9854675,
+				-81.2415971,
+				42.9877158
+			]
+		}
+	]
+}

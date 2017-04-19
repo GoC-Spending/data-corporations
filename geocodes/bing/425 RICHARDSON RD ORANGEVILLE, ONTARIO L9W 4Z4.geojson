@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "425 Richardson Rd, Orangeville, ON L9W 4Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ab782ce28194df1bc00200304cb4c67|BN20130632|7.7.0.0|",
+				"addressLine": "425 Richardson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Dufferin",
+				"countryRegion": "Canada",
+				"formattedAddress": "425 Richardson Rd, Orangeville, ON L9W 4Z4, Canada",
+				"locality": "Orangeville",
+				"postalCode": "L9W 4Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.11362,
+					43.90108
+				]
+			},
+			"bbox": [
+				-80.1151802,
+				43.8999558,
+				-80.1120598,
+				43.9022042
+			]
+		}
+	]
+}

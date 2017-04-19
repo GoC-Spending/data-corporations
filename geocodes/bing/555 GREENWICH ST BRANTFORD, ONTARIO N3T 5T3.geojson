@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "555 Greenwich St, Brantford, ON N3S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83b5a8ed704f4ecc8b39a8441e963a10|BN20130632|7.7.0.0|",
+				"addressLine": "555 Greenwich St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "555 Greenwich St, Brantford, ON N3S, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.23835,
+					43.13116
+				]
+			},
+			"bbox": [
+				-80.2398904,
+				43.1300358,
+				-80.2368096,
+				43.1322842
+			]
+		}
+	]
+}

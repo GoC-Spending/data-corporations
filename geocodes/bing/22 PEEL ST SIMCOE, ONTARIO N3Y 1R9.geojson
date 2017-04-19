@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Peel St, Simcoe, ON N3Y 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bdc2ad60225b4673985798d61db09bb1|BN20200137|7.7.0.0|",
+				"addressLine": "22 Peel St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Peel St, Simcoe, ON N3Y 1R9, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Simcoe",
+				"postalCode": "N3Y 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3043,
+					42.83593
+				]
+			},
+			"bbox": [
+				-80.305833,
+				42.8348058,
+				-80.302767,
+				42.8370542
+			]
+		}
+	]
+}

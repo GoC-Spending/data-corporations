@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "761 Main St E, Milton, ON L9T 3Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "012ba3c639054d078cbe8aa0979bfd0d|BN20190642|7.7.0.0|",
+				"addressLine": "761 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "761 Main St E, Milton, ON L9T 3Z3, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 3Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87151,
+					43.52473
+				]
+			},
+			"bbox": [
+				-79.8730604,
+				43.5236058,
+				-79.8699596,
+				43.5258542
+			]
+		}
+	]
+}

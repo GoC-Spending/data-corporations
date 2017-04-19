@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1256 Barrington St, Halifax, NS B3J 1Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fff495169294b1aaad8c603e86a5ad3|BN20200137|7.7.0.0|",
+				"addressLine": "1256 Barrington St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1256 Barrington St, Halifax, NS B3J 1Y6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3J 1Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5714,
+					44.64085
+				]
+			},
+			"bbox": [
+				-63.5729799,
+				44.6397258,
+				-63.5698201,
+				44.6419742
+			]
+		}
+	]
+}

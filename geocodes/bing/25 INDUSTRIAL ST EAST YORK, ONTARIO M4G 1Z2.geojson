@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Industrial St, East York, ON M4G 1Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0cb460a845fa43469139c7bfc269c65e|BN20190642|7.7.0.0|",
+				"addressLine": "25 Industrial St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Industrial St, East York, ON M4G 1Z2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Thorncliffe Park",
+				"postalCode": "M4G 1Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35978,
+					43.70756
+				]
+			},
+			"bbox": [
+				-79.3613351,
+				43.7064358,
+				-79.3582249,
+				43.7086842
+			]
+		}
+	]
+}

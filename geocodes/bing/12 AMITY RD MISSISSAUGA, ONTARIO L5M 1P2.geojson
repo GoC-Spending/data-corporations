@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Amity Rd, Mississauga, ON L5M 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f98ad2de0e547548d7fe21d77a1d080|BN20240423|7.7.0.0|",
+				"addressLine": "12 Amity Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Amity Rd, Mississauga, ON L5M 1P2, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Streetsville",
+				"postalCode": "L5M 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7188199,
+					43.5907399
+				]
+			},
+			"bbox": [
+				-79.720372,
+				43.5896157,
+				-79.7172678,
+				43.5918641
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12397 221 St, Maple Ridge, BC V2X 1Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "144334e4dace49688038d084a1028d78|BN20160335|7.7.0.0|",
+				"addressLine": "12397 221 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12397 221 St, Maple Ridge, BC V2X 1Y7, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 1Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.61058,
+					49.22743
+				]
+			},
+			"bbox": [
+				-122.6123014,
+				49.2263058,
+				-122.6088586,
+				49.2285542
+			]
+		}
+	]
+}

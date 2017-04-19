@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "758 E 27th Ave, Vancouver, BC V5V 2K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fcdf7032efcb490faef32592d539499e|BN20250135|7.7.0.0|",
+				"addressLine": "758 E 27th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "758 E 27th Ave, Vancouver, BC V5V 2K9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5V 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08895,
+					49.24622
+				]
+			},
+			"bbox": [
+				-123.090672,
+				49.2450958,
+				-123.087228,
+				49.2473442
+			]
+		}
+	]
+}

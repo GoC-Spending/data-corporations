@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "79 Bolton St, Bobcaygeon, ON K0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1631c324ad784d4ea1612abd2068aa58|BN20171457|7.7.0.0|",
+				"addressLine": "79 Bolton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "79 Bolton St, Bobcaygeon, ON K0M, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Bobcaygeon",
+				"postalCode": "K0M 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.5446,
+					44.5364
+				]
+			},
+			"bbox": [
+				-78.5461771,
+				44.5352758,
+				-78.5430229,
+				44.5375242
+			]
+		}
+	]
+}

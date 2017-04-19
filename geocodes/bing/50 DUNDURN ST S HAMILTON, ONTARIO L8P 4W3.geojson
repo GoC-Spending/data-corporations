@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Dundurn St S, Hamilton, ON L8P 4W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d3fc3f538d24031ba95f2df15aefd26|BN20260231|7.7.0.0|",
+				"addressLine": "50 Dundurn St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Dundurn St S, Hamilton, ON L8P 4W3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Strathcona",
+				"postalCode": "L8P 4W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.88939,
+					43.26135
+				]
+			},
+			"bbox": [
+				-79.8909337,
+				43.2602258,
+				-79.8878463,
+				43.2624742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "432 W Pender St, Vancouver, BC V6B 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "41fba386cc474f0f8a3b57a5e5621dcf|BN20300154|7.7.0.0|",
+				"addressLine": "432 W Pender St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "432 W Pender St, Vancouver, BC V6B 1T5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1125876,
+					49.2830264
+				]
+			},
+			"bbox": [
+				-123.1143109,
+				49.2819022,
+				-123.1108643,
+				49.2841505
+			]
+		}
+	]
+}

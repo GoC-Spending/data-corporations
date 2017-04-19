@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2601 Wyandotte St E, Windsor, ON N8Y 0A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae4e79f721bd4e3e88da74f53881057a|BN20171457|7.7.0.0|",
+				"addressLine": "2601 Wyandotte St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2601 Wyandotte St E, Windsor, ON N8Y 0A5, Canada",
+				"locality": "Windsor",
+				"neighborhood": "East Windsor",
+				"postalCode": "N8Y 0A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.0035635,
+					42.3236397
+				]
+			},
+			"bbox": [
+				-83.0050839,
+				42.3225156,
+				-83.002043,
+				42.3247639
+			]
+		}
+	]
+}

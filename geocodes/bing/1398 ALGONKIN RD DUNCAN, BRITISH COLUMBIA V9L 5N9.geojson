@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1398 Algonkin Rd, Duncan, BC V9L 5N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b443d33a674e4406a3a469ded4ff32f9|BN20250135|7.7.0.0|",
+				"addressLine": "1398 Algonkin Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "1398 Algonkin Rd, Duncan, BC V9L 5N9, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 5N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.63353,
+					48.79744
+				]
+			},
+			"bbox": [
+				-123.6352366,
+				48.7963158,
+				-123.6318234,
+				48.7985642
+			]
+		}
+	]
+}

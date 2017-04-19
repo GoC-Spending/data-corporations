@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "582 Champlain Blvd, Cambridge, ON N1R 7Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a20ef475ee984760b98a17deeeaa72bb|BN20130530|7.7.0.0|",
+				"addressLine": "582 Champlain Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "582 Champlain Blvd, Cambridge, ON N1R 7Z4, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 7Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.28666,
+					43.34875
+				]
+			},
+			"bbox": [
+				-80.2882059,
+				43.3476258,
+				-80.2851141,
+				43.3498742
+			]
+		}
+	]
+}

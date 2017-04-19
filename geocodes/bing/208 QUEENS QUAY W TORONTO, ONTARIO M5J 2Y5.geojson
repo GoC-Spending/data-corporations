@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 Queens Quay W, Toronto, ON M5J 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a69b099096784258a36e8d749df557df|BN20260231|7.7.0.0|",
+				"addressLine": "208 Queens Quay W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 Queens Quay W, Toronto, ON M5J 2Y5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5J 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38123,
+					43.64012
+				]
+			},
+			"bbox": [
+				-79.3827834,
+				43.6389958,
+				-79.3796766,
+				43.6412442
+			]
+		}
+	]
+}

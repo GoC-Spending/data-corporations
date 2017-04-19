@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Bay St, Ottawa, ON K1R 5Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1efdb7eae76d4e7790b6c8309777e8e9|BN20130520|7.7.0.0|",
+				"addressLine": "275 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Bay St, Ottawa, ON K1R 5Z5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K1R 5Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70343,
+					45.41483
+				]
+			},
+			"bbox": [
+				-75.7050314,
+				45.4137058,
+				-75.7018286,
+				45.4159542
+			]
+		}
+	]
+}

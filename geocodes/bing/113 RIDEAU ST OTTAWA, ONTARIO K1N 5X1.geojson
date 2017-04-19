@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "113 Rideau St, Ottawa, ON K1N 5X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "135d5baf267b4f7fb8fb14a5d2edc68d|BN20130532|7.7.0.0|",
+				"addressLine": "113 Rideau St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "113 Rideau St, Ottawa, ON K1N 5X1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1N 5X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6915413,
+					45.4264352
+				]
+			},
+			"bbox": [
+				-75.6931431,
+				45.425311,
+				-75.6899396,
+				45.4275593
+			]
+		}
+	]
+}

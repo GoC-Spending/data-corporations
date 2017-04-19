@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "333 Main St, Winnipeg, MB R3C 4Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9578b91bf91b4f3ab11cc6c4a3c522ee|BN20200239|7.7.0.0|",
+				"addressLine": "333 Main St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "333 Main St, Winnipeg, MB R3C 4Y7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Portage & Main",
+				"postalCode": "R3C 4Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13764,
+					49.89491
+				]
+			},
+			"bbox": [
+				-97.1393851,
+				49.8937858,
+				-97.1358949,
+				49.8960342
+			]
+		}
+	]
+}

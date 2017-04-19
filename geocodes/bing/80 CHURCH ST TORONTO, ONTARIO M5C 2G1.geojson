@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Church St, Toronto, ON M5C 2G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ecd4e6a77c3246a1bc7305ed11d586e4|BN20130631|7.7.0.0|",
+				"addressLine": "80 Church St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Church St, Toronto, ON M5C 2G1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 2G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37501,
+					43.65079
+				]
+			},
+			"bbox": [
+				-79.3765636,
+				43.6496658,
+				-79.3734564,
+				43.6519142
+			]
+		}
+	]
+}

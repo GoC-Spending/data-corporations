@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "137 Rue Wright, Gatineau, QC J8X 2G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "029dcbab2c9a4530af3fee0e650f0a21|BN20130621|7.7.0.0|",
+				"addressLine": "137 Rue Wright",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "137 Rue Wright, Gatineau, QC J8X 2G8, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8X 2G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71692,
+					45.42725
+				]
+			},
+			"bbox": [
+				-75.7185218,
+				45.4261258,
+				-75.7153182,
+				45.4283742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Stayner Ave, North York, ON M6B 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "86a1867f95674709ba1b3bd9e3fe8c69|BN20200239|7.7.0.0|",
+				"addressLine": "15 Stayner Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Stayner Ave, North York, ON M6B 1N3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6B 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44111,
+					43.70556
+				]
+			},
+			"bbox": [
+				-79.4426651,
+				43.7044358,
+				-79.4395549,
+				43.7066842
+			]
+		}
+	]
+}

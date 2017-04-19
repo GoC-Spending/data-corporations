@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3798 Bank St, Gloucester, ON K1T 3W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "805f75aacd0b470196ebd2e329a92f51|BN20121763|7.7.0.0|",
+				"addressLine": "3798 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3798 Bank St, Gloucester, ON K1T 3W4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 3W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6079362,
+					45.3380644
+				]
+			},
+			"bbox": [
+				-75.6095354,
+				45.3369403,
+				-75.6063369,
+				45.3391886
+			]
+		}
+	]
+}

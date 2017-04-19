@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1556 Railway Ave, Canmore, AB T1W 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2967ac7fe0e417c9db19f948aa7ab9c|BN20210145|7.7.0.0|",
+				"addressLine": "1556 Railway Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1556 Railway Ave, Canmore, AB T1W 1P6, Canada",
+				"locality": "Canmore",
+				"postalCode": "T1W 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.3586867,
+					51.0955535
+				]
+			},
+			"bbox": [
+				-115.3604767,
+				51.0944293,
+				-115.3568967,
+				51.0966777
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "53 Soudan Ave, Toronto, ON M4S 1V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "806b64c11ab547109de1af990fad9ed5|BN20320521|7.7.0.0|",
+				"addressLine": "53 Soudan Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "53 Soudan Ave, Toronto, ON M4S 1V5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant West",
+				"postalCode": "M4S 1V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3961099,
+					43.7044799
+				]
+			},
+			"bbox": [
+				-79.3976649,
+				43.7033557,
+				-79.3945549,
+				43.7056041
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Albert St, Waterloo, ON N2L 3S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba0a731c4c944d4ca58a119d92d24028|BN20320521|7.7.0.0|",
+				"addressLine": "50 Albert St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Albert St, Waterloo, ON N2L 3S2, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 3S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52441,
+					43.46688
+				]
+			},
+			"bbox": [
+				-80.5259589,
+				43.4657558,
+				-80.5228611,
+				43.4680042
+			]
+		}
+	]
+}

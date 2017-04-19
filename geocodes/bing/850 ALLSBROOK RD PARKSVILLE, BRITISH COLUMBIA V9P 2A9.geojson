@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "850 Allsbrook Rd, Parksville, BC V9P 2A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f248ebf105734f168edf5e194124f5e1|BN20320521|7.7.0.0|",
+				"addressLine": "850 Allsbrook Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "850 Allsbrook Rd, Parksville, BC V9P 2A9, Canada",
+				"locality": "Nanaimo District",
+				"neighborhood": "Parksville",
+				"postalCode": "V9P 2A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.3248941,
+					49.3035953
+				]
+			},
+			"bbox": [
+				-124.3266181,
+				49.3024712,
+				-124.32317,
+				49.3047195
+			]
+		}
+	]
+}

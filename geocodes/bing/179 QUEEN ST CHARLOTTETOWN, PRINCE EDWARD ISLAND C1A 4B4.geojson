@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "179 Queen St, Charlottetown, PE C1A 4B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "79172a589e2d4257a77abe9fb2245d44|BN20130625|7.7.0.0|",
+				"addressLine": "179 Queen St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "179 Queen St, Charlottetown, PE C1A 4B4, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 4B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12902,
+					46.23492
+				]
+			},
+			"bbox": [
+				-63.1306452,
+				46.2337958,
+				-63.1273948,
+				46.2360442
+			]
+		}
+	]
+}

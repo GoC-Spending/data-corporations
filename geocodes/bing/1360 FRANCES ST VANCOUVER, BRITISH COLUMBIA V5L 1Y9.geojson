@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1360 Frances St, Vancouver, BC V5L 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23c9ba7371f04a459ac7ccd74371e1f7|BN20300154|7.7.0.0|",
+				"addressLine": "1360 Frances St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1360 Frances St, Vancouver, BC V5L 1Y9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5L 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07574,
+					49.27917
+				]
+			},
+			"bbox": [
+				-123.0774632,
+				49.2780458,
+				-123.0740168,
+				49.2802942
+			]
+		}
+	]
+}

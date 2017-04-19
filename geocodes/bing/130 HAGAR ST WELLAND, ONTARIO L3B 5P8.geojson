@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Hagar St, Welland, ON L3B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fee5380404d44416941cbd7a5d5dcc5f|BN20130719|7.7.0.0|",
+				"addressLine": "130 Hagar St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Hagar St, Welland, ON L3B, Canada",
+				"locality": "Welland",
+				"postalCode": "L3B 5P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23904,
+					42.9881
+				]
+			},
+			"bbox": [
+				-79.2405768,
+				42.9869758,
+				-79.2375032,
+				42.9892242
+			]
+		}
+	]
+}

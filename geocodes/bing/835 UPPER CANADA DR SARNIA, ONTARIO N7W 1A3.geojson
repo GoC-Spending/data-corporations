@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "835 Upper Canada Dr, Sarnia, ON N7W 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75c3e00335d94ad2a9b607f5e2e42f15|BN20190642|7.7.0.0|",
+				"addressLine": "835 Upper Canada Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "835 Upper Canada Dr, Sarnia, ON N7W 1A3, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7W 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3422896,
+					42.9614157
+				]
+			},
+			"bbox": [
+				-82.3438257,
+				42.9602916,
+				-82.3407535,
+				42.9625399
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Morisot Ave, Thornhill, ON L4J 9H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "14a0bc972a98407b82c251306f279512|BN20130625|7.7.0.0|",
+				"addressLine": "55 Morisot Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Morisot Ave, Thornhill, ON L4J 9H4, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 9H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47201,
+					43.83032
+				]
+			},
+			"bbox": [
+				-79.4735683,
+				43.8291958,
+				-79.4704517,
+				43.8314442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1400 S Service Rd W, Oakville, ON L6L 5Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c3aaf0b292cb466aa348f2f19cfd038a|BN20130530|7.7.0.0|",
+				"addressLine": "1400 S Service Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1400 S Service Rd W, Oakville, ON L6L 5Y7, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6L 5Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72031,
+					43.42742
+				]
+			},
+			"bbox": [
+				-79.7218579,
+				43.4262958,
+				-79.7187621,
+				43.4285442
+			]
+		}
+	]
+}

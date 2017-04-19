@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "685 Reid Rd, Saskatoon, SK S7N 3J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94ae918972964a52baef427e4e322112|BN20200137|7.7.0.0|",
+				"addressLine": "685 Reid Rd",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "685 Reid Rd, Saskatoon, SK S7N 3J4, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Sutherland",
+				"postalCode": "S7N 3J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.60098,
+					52.14991
+				]
+			},
+			"bbox": [
+				-106.6028121,
+				52.1487858,
+				-106.5991479,
+				52.1510342
+			]
+		}
+	]
+}

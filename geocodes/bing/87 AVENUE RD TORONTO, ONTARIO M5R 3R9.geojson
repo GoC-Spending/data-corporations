@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "87 Avenue Rd, Toronto, ON M5R 3R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca0f855835e24fe5a8625c3493842a3b|BN20240253|7.7.0.0|",
+				"addressLine": "87 Avenue Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "87 Avenue Rd, Toronto, ON M5R 3R9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 3R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39515,
+					43.67202
+				]
+			},
+			"bbox": [
+				-79.3967042,
+				43.6708958,
+				-79.3935958,
+				43.6731442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1830 Wharncliffe Rd S, London, ON N6L 1K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2db1429f35164e9ab7809f503727226b|BN20190642|7.7.0.0|",
+				"addressLine": "1830 Wharncliffe Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1830 Wharncliffe Rd S, London, ON N6L 1K1, Canada",
+				"locality": "London",
+				"neighborhood": "Longwoods",
+				"postalCode": "N6L 1K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2796384,
+					42.9214686
+				]
+			},
+			"bbox": [
+				-81.2811736,
+				42.9203445,
+				-81.2781033,
+				42.9225928
+			]
+		}
+	]
+}

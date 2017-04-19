@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2488 Bristol Cir, Oakville, ON L6H 5S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b936ad3645f46a5a002cf1c8bde8b3b|BN20130719|7.7.0.0|",
+				"addressLine": "2488 Bristol Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2488 Bristol Cir, Oakville, ON L6H 5S1, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6H 5S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68144,
+					43.51943
+				]
+			},
+			"bbox": [
+				-79.6829903,
+				43.5183058,
+				-79.6798897,
+				43.5205542
+			]
+		}
+	]
+}

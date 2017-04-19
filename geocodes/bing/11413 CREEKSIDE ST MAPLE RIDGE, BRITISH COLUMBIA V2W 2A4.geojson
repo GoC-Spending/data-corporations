@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11413 Creekside St, Maple Ridge, BC V2W 2A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47bb084ff1eb46caa58095a6f523b9fe|BN20130530|7.7.0.0|",
+				"addressLine": "11413 Creekside St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "11413 Creekside St, Maple Ridge, BC V2W 2A4, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2W 2A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.56605,
+					49.20946
+				]
+			},
+			"bbox": [
+				-122.5677707,
+				49.2083358,
+				-122.5643293,
+				49.2105842
+			]
+		}
+	]
+}

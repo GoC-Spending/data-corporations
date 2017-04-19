@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "253 Industrial Park Rd, Colborne, ON K0K 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25be3ef090d14f29b77e80f74225621f|BN20130625|7.7.0.0|",
+				"addressLine": "253 Industrial Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "253 Industrial Park Rd, Colborne, ON K0K 1S0, Canada",
+				"locality": "Cramahe",
+				"neighborhood": "Colborne",
+				"postalCode": "K0K 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.8904913,
+					44.018776
+				]
+			},
+			"bbox": [
+				-77.8920545,
+				44.0176518,
+				-77.888928,
+				44.0199001
+			]
+		}
+	]
+}

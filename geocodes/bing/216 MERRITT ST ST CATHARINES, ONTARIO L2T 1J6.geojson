@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "216 Merritt St, St Catharines, ON L2T 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ccf36627cc74e668dd9ab568ff39726|BN20130721|7.7.0.0|",
+				"addressLine": "216 Merritt St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "216 Merritt St, St Catharines, ON L2T 1J6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Merritton",
+				"postalCode": "L2T 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.20999,
+					43.13572
+				]
+			},
+			"bbox": [
+				-79.2115305,
+				43.1345958,
+				-79.2084495,
+				43.1368442
+			]
+		}
+	]
+}

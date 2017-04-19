@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1885 Clements Rd, Pickering, ON L1W 3V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9eeb8a63b14f4cd28f44b7f5c45c3f13|BN20200137|7.7.0.0|",
+				"addressLine": "1885 Clements Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1885 Clements Rd, Pickering, ON L1W 3V4, Canada",
+				"locality": "Pickering",
+				"postalCode": "L1W 3V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0558667,
+					43.8265535
+				]
+			},
+			"bbox": [
+				-79.0574249,
+				43.8254294,
+				-79.0543085,
+				43.8276777
+			]
+		}
+	]
+}

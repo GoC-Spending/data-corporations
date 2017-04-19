@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4929 Harrison Ct, Kelowna, BC V1W 4Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15ab483dc84b4094ba2b16c9ed1b8a34|BN20130533|7.7.0.0|",
+				"addressLine": "4929 Harrison Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "4929 Harrison Ct, Kelowna, BC V1W 4Z2, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Southwest Mission",
+				"postalCode": "V1W 4Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.48013,
+					49.80532
+				]
+			},
+			"bbox": [
+				-119.4818718,
+				49.8041958,
+				-119.4783882,
+				49.8064442
+			]
+		}
+	]
+}

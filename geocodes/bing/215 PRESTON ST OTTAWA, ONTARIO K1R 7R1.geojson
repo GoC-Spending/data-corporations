@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "215 Preston St, Ottawa, ON K1R 7R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "197e626923c5412cb5337b8a3001cbb6|BN20320521|7.7.0.0|",
+				"addressLine": "215 Preston St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "215 Preston St, Ottawa, ON K1R 7R1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "West Centre Town-Little Italy-Civic",
+				"postalCode": "K1R 7R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7118,
+					45.40591
+				]
+			},
+			"bbox": [
+				-75.7134012,
+				45.4047858,
+				-75.7101988,
+				45.4070342
+			]
+		}
+	]
+}

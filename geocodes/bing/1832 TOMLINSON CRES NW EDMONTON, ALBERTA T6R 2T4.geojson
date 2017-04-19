@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1832 Tomlinson Cres NW, Edmonton, AB T6R 2T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a25cf3b93d984c96b503d44e1e914da0|BN20130621|7.7.0.0|",
+				"addressLine": "1832 Tomlinson Cres NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1832 Tomlinson Cres NW, Edmonton, AB T6R 2T4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Terwillegar Towne",
+				"postalCode": "T6R 2T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5827,
+					53.45137
+				]
+			},
+			"bbox": [
+				-113.5845877,
+				53.4502458,
+				-113.5808123,
+				53.4524942
+			]
+		}
+	]
+}

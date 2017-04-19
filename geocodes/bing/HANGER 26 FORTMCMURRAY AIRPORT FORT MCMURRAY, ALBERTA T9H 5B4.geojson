@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Fort McMurray, T9H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "660784fea8d74943b16b7bfa2fb68614|BN20130620|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Fort McMurray, T9H, Canada",
+				"locality": "Fort McMurray",
+				"postalCode": "T9H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.900276184082,
+					56.8474998474121
+				]
+			},
+			"bbox": [
+				-111.472846984863,
+				56.5936698913574,
+				-110.821853637695,
+				57.0396003723145
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 2,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Fort McMurray, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "660784fea8d74943b16b7bfa2fb68614|BN20130620|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Fort McMurray, Alberta, Canada",
+				"locality": "Fort McMurray"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.380279541016,
+					56.7271995544434
+				]
+			},
+			"bbox": [
+				-111.487396240234,
+				56.6375007629395,
+				-111.180450439453,
+				56.7824287414551
+			]
+		}
+	]
+}

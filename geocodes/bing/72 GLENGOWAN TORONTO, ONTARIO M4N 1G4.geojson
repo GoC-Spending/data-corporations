@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "72 Glengowan Rd, Toronto, ON M4N 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1419466e5064b74900e50e1d3677fbf|BN20260223|7.7.0.0|",
+				"addressLine": "72 Glengowan Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "72 Glengowan Rd, Toronto, ON M4N 1G4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lawrence Park South",
+				"postalCode": "M4N 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3915899,
+					43.72135
+				]
+			},
+			"bbox": [
+				-79.3931454,
+				43.7202258,
+				-79.3900344,
+				43.7224742
+			]
+		}
+	]
+}

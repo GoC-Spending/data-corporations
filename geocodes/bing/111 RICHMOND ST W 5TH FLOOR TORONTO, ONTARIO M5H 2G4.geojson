@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Richmond St W, Toronto, ON M5H 2G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d22ba681be5d4fd59920edd83e835a91|BN20190653|7.7.0.0|",
+				"addressLine": "111 Richmond St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Richmond St W, Toronto, ON M5H 2G4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H 2G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38378,
+					43.65035
+				]
+			},
+			"bbox": [
+				-79.3853336,
+				43.6492258,
+				-79.3822264,
+				43.6514742
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Hay River, X0E 0R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "233457de71f14880bd6ebace5b08362c|BN20171457|7.7.0.0|",
+				"adminDistrict": "NT",
+				"countryRegion": "Canada",
+				"formattedAddress": "Hay River, X0E 0R9, Canada",
+				"locality": "Hay River",
+				"postalCode": "X0E 0R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.747955322266,
+					60.865852355957
+				]
+			},
+			"bbox": [
+				-115.758532714139,
+				60.8619896383864,
+				-115.737377930392,
+				60.8697150735277
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Beverly Hills, MI 48025",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "233457de71f14880bd6ebace5b08362c|BN20171457|7.7.0.0|",
+				"adminDistrict": "MI",
+				"adminDistrict2": "Oakland",
+				"countryRegion": "United States",
+				"formattedAddress": "Beverly Hills, MI 48025",
+				"locality": "Beverly Hills",
+				"postalCode": "48025"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.2854995727539,
+					42.5159034729004
+				]
+			},
+			"bbox": [
+				-83.3312225341797,
+				42.5045585632324,
+				-83.2037506103516,
+				42.5325393676758
+			]
+		}
+	]
+}

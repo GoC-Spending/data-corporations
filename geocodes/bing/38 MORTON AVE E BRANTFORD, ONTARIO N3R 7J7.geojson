@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Morton Ave E, Brantford, ON N3R 7J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2bfb753f28c84573891441759b73c4e4|BN20130719|7.7.0.0|",
+				"addressLine": "38 Morton Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Morton Ave E, Brantford, ON N3R 7J7, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 7J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2491488,
+					43.1597584
+				]
+			},
+			"bbox": [
+				-80.2506899,
+				43.1586342,
+				-80.2476077,
+				43.1608825
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1340 Wilson Ave, North York, ON M3M 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf4edc30019f43b7880488e2e3a41f92|BN20130422|7.7.0.0|",
+				"addressLine": "1340 Wilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1340 Wilson Ave, North York, ON M3M 1H8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Downsview-Roding-CFB",
+				"postalCode": "M3M 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49706,
+					43.7236
+				]
+			},
+			"bbox": [
+				-79.4986155,
+				43.7224758,
+				-79.4955045,
+				43.7247242
+			]
+		}
+	]
+}

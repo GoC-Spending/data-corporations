@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Rue Hemlock, Gatineau, QC J9H 3T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b90904fd96046639de5e6f3de51d636|BN20121763|7.7.0.0|",
+				"addressLine": "38 Rue Hemlock",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Rue Hemlock, Gatineau, QC J9H 3T9, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Aylmer",
+				"postalCode": "J9H 3T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.83283,
+					45.38382
+				]
+			},
+			"bbox": [
+				-75.8344305,
+				45.3826958,
+				-75.8312295,
+				45.3849442
+			]
+		}
+	]
+}

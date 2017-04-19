@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "376 Sovereign Rd, London, ON N6M 1A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75d4e816c2704dd2b8e5737e57513155|BN20290118|7.7.0.0|",
+				"addressLine": "376 Sovereign Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "376 Sovereign Rd, London, ON N6M 1A5, Canada",
+				"locality": "London",
+				"neighborhood": "Crumlin",
+				"postalCode": "N6M 1A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1419,
+					42.9948
+				]
+			},
+			"bbox": [
+				-81.143437,
+				42.9936758,
+				-81.140363,
+				42.9959242
+			]
+		}
+	]
+}

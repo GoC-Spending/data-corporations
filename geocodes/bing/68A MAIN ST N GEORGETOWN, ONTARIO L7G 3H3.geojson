@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "68 Main St N, Georgetown, ON L7G 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bbb93179653345c3bfb440d8c2bf0377|BN20220145|7.7.0.0|",
+				"addressLine": "68 Main St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "68 Main St N, Georgetown, ON L7G 3H3, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.93407,
+					43.65443
+				]
+			},
+			"bbox": [
+				-79.9356237,
+				43.6533058,
+				-79.9325163,
+				43.6555542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1932 Jack Nash Ter, London, ON N6K 5R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adfc9278ea21466d90276ada4613bfba|BN20121764|7.7.0.0|",
+				"addressLine": "1932 Jack Nash Ter",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1932 Jack Nash Ter, London, ON N6K 5R1, Canada",
+				"locality": "London",
+				"neighborhood": "River Bend",
+				"postalCode": "N6K 5R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3505,
+					42.9775
+				]
+			},
+			"bbox": [
+				-81.3520365,
+				42.9763758,
+				-81.3489635,
+				42.9786242
+			]
+		}
+	]
+}

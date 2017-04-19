@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "374 Wilbrod St, Ottawa, ON K1N 6M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b8df11eaf554925be5ba30d5b1f5604|BN20121764|7.7.0.0|",
+				"addressLine": "374 Wilbrod St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "374 Wilbrod St, Ottawa, ON K1N 6M8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Sandy Hill-Ottawa East-Ottawa U",
+				"postalCode": "K1N 6M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6782999,
+					45.42827
+				]
+			},
+			"bbox": [
+				-75.6799017,
+				45.4271458,
+				-75.6766981,
+				45.4293942
+			]
+		}
+	]
+}

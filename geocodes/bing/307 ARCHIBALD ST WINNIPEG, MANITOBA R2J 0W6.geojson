@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "307 Archibald St, Winnipeg, MB R2J 0W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e95e854c5d214f60a14b00bfd5ecb158|BN20181720|7.7.0.0|",
+				"addressLine": "307 Archibald St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "307 Archibald St, Winnipeg, MB R2J 0W6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Mission Industrial",
+				"postalCode": "R2J 0W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.10394,
+					49.89199
+				]
+			},
+			"bbox": [
+				-97.105685,
+				49.8908658,
+				-97.102195,
+				49.8931142
+			]
+		}
+	]
+}

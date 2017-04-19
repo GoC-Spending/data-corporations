@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5014 55 Ave, Camrose, AB T4V 4J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "027e4278f37540d396ff372c77f0c2e1|BN20130621|7.7.0.0|",
+				"addressLine": "5014 55 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5014 55 Ave, Camrose, AB T4V 4J1, Canada",
+				"locality": "Camrose",
+				"postalCode": "T4V 4J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.82696,
+					53.03158
+				]
+			},
+			"bbox": [
+				-112.8288293,
+				53.0304558,
+				-112.8250907,
+				53.0327042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Columbine Ave, Toronto, ON M4L 1P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c243137129fe4a6d9e65fb715a74f299|BN20130532|7.7.0.0|",
+				"addressLine": "36 Columbine Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Columbine Ave, Toronto, ON M4L 1P3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4L 1P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30864,
+					43.67159
+				]
+			},
+			"bbox": [
+				-79.3101942,
+				43.6704658,
+				-79.3070858,
+				43.6727142
+			]
+		}
+	]
+}

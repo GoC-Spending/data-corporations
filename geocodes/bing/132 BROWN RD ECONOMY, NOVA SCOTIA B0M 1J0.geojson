@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 Brown Rd, Colchester, NS B0M 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "880e0cb64fde437e98ce75f3dc173425|BN20280152|7.7.0.0|",
+				"addressLine": "132 Brown Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 Brown Rd, Colchester, NS B0M 1J0, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Colchester",
+				"postalCode": "B0M 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.8378328,
+					45.3936945
+				]
+			},
+			"bbox": [
+				-63.8394336,
+				45.3925704,
+				-63.8362319,
+				45.3948187
+			]
+		}
+	]
+}

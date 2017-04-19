@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "68 Harrison St, Toronto, ON M6J 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fc131dc4dfcb4f72b946c4d90862b71a|BN20130621|7.7.0.0|",
+				"addressLine": "68 Harrison St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "68 Harrison St, Toronto, ON M6J 1Z9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Trinity-Bellwoods",
+				"postalCode": "M6J 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41996,
+					43.6514
+				]
+			},
+			"bbox": [
+				-79.4215137,
+				43.6502758,
+				-79.4184063,
+				43.6525242
+			]
+		}
+	]
+}

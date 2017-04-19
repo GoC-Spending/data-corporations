@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "268 Piccadilly St, London, ON N6A 1S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3b4d69351c5244519d40f1d617bb17bf|BN20130533|7.7.0.0|",
+				"addressLine": "268 Piccadilly St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "268 Piccadilly St, London, ON N6A 1S4, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.251,
+					42.9951999
+				]
+			},
+			"bbox": [
+				-81.252537,
+				42.9940757,
+				-81.249463,
+				42.9963241
+			]
+		}
+	]
+}

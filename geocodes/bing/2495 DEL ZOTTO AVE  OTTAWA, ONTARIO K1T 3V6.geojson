@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2495 Del Zotto Ave, Gloucester, ON K1T 3V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ce60db67ced24a65b9a2501eb9e2df69|BN20130521|7.7.0.0|",
+				"addressLine": "2495 Del Zotto Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2495 Del Zotto Ave, Gloucester, ON K1T 3V6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 3V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6273,
+					45.31176
+				]
+			},
+			"bbox": [
+				-75.6288985,
+				45.3106358,
+				-75.6257015,
+				45.3128842
+			]
+		}
+	]
+}

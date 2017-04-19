@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Arlington Ave, Toronto, ON M6G 3K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10ab92b8b742462792ac1e38e540ff48|BN20130422|7.7.0.0|",
+				"addressLine": "58 Arlington Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Arlington Ave, Toronto, ON M6G 3K8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wychwood",
+				"postalCode": "M6G 3K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42831,
+					43.67909
+				]
+			},
+			"bbox": [
+				-79.4298644,
+				43.6779658,
+				-79.4267556,
+				43.6802142
+			]
+		}
+	]
+}

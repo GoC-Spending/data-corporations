@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1175 Premier Rd, North Bay, ON P1A 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a250cde29e440fdbf47aeebbcd5a219|BN20210145|7.7.0.0|",
+				"addressLine": "1175 Premier Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "1175 Premier Rd, North Bay, ON P1A 2J3, Canada",
+				"locality": "North Bay",
+				"neighborhood": "West Ferris",
+				"postalCode": "P1A 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42318,
+					46.24611
+				]
+			},
+			"bbox": [
+				-79.4248055,
+				46.2449858,
+				-79.4215545,
+				46.2472342
+			]
+		}
+	]
+}

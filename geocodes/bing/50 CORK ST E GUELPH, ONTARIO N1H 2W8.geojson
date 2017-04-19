@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Cork St E, Guelph, ON N1H 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "691360e9e127441d9c79a5fc3a954dba|BN20260231|7.7.0.0|",
+				"addressLine": "50 Cork St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Cork St E, Guelph, ON N1H 2W8, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.24944,
+					43.54533
+				]
+			},
+			"bbox": [
+				-80.2509909,
+				43.5442058,
+				-80.2478891,
+				43.5464542
+			]
+		}
+	]
+}

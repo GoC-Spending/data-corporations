@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Clyde St, Forest, ON N0N 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28763eae44c04c47a323a502b981e4fb|BN20130620|7.7.0.0|",
+				"addressLine": "2 Clyde St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Clyde St, Forest, ON N0N 1J0, Canada",
+				"locality": "Lambton Shores",
+				"neighborhood": "Forest",
+				"postalCode": "N0N 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.003037,
+					43.0968683
+				]
+			},
+			"bbox": [
+				-82.0045765,
+				43.0957442,
+				-82.0014975,
+				43.0979925
+			]
+		}
+	]
+}

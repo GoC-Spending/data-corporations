@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "495 W 6th Ave, Vancouver, BC V5Y 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13edb413aca94e6b8bbc86edd0f2464d|BN20130423|7.7.0.0|",
+				"addressLine": "495 W 6th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "495 W 6th Ave, Vancouver, BC V5Y 1L3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11436,
+					49.266
+				]
+			},
+			"bbox": [
+				-123.1160827,
+				49.2648758,
+				-123.1126373,
+				49.2671242
+			]
+		}
+	]
+}

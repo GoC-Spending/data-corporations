@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Bonnie Blvd, Jacksons Point, ON L0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5d09982988e4e0393d97aa614c36dce|BN20130520|7.7.0.0|",
+				"addressLine": "20 Bonnie Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Bonnie Blvd, Jacksons Point, ON L0E, Canada",
+				"locality": "Georgina",
+				"neighborhood": "Jacksons Point",
+				"postalCode": "L0E 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36947,
+					44.3275999
+				]
+			},
+			"bbox": [
+				-79.3710415,
+				44.3264757,
+				-79.3678985,
+				44.3287241
+			]
+		}
+	]
+}

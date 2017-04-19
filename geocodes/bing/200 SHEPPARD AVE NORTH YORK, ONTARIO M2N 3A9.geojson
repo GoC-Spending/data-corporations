@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Sheppard Ave E, North York, ON M2N 3A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "968905abfc7d4ef58a30ecde3db9b45f|BN20130423|7.7.0.0|",
+				"addressLine": "200 Sheppard Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Sheppard Ave E, North York, ON M2N 3A9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 3A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40162,
+					43.76386
+				]
+			},
+			"bbox": [
+				-79.4031766,
+				43.7627358,
+				-79.4000634,
+				43.7649842
+			]
+		}
+	]
+}

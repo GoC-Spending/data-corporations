@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1745 Hallmark Ave, Windsor, ON N8W 4Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "79ef17d1dc5447fdbba15dee70586e20|BN20320521|7.7.0.0|",
+				"addressLine": "1745 Hallmark Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1745 Hallmark Ave, Windsor, ON N8W 4Y4, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Devonshire",
+				"postalCode": "N8W 4Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.98811,
+					42.2810599
+				]
+			},
+			"bbox": [
+				-82.9896294,
+				42.2799357,
+				-82.9865906,
+				42.2821841
+			]
+		}
+	]
+}

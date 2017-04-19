@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Lakegate Dr, Stoney Creek, ON L8E 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43800dfa0df54f7ba5c5d11601f34dd1|BN20130422|7.7.0.0|",
+				"addressLine": "33 Lakegate Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Lakegate Dr, Stoney Creek, ON L8E 3T7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7313099,
+					43.24499
+				]
+			},
+			"bbox": [
+				-79.7328532,
+				43.2438658,
+				-79.7297666,
+				43.2461142
+			]
+		}
+	]
+}

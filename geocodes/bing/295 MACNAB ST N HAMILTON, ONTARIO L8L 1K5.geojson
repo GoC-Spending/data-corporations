@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "295 MacNab St N, Hamilton, ON L8L 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ec9917188b14f5d8e6f8bce7df2a3e5|BN20220145|7.7.0.0|",
+				"addressLine": "295 MacNab St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "295 MacNab St N, Hamilton, ON L8L 1K5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Central Hamilton",
+				"postalCode": "L8L 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8668489,
+					43.2660119
+				]
+			},
+			"bbox": [
+				-79.8683927,
+				43.2648877,
+				-79.8653051,
+				43.267136
+			]
+		}
+	]
+}

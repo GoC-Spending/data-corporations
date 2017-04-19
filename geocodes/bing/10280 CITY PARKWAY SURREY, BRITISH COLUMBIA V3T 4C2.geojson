@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10280 City Pkwy, Surrey, BC V3T 4C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2f99fc67bfe64206821b3b2106d35260|BN20171457|7.7.0.0|",
+				"addressLine": "10280 City Pkwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10280 City Pkwy, Surrey, BC V3T 4C2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3T 4C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8474,
+					49.1894599
+				]
+			},
+			"bbox": [
+				-122.84912,
+				49.1883357,
+				-122.84568,
+				49.1905841
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1360 Speers Rd, Oakville, ON L6L 5V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "596c066e23ce4fe28406361df232645a|BN20260223|7.7.0.0|",
+				"addressLine": "1360 Speers Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1360 Speers Rd, Oakville, ON L6L 5V3, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6L 5V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71228,
+					43.42351
+				]
+			},
+			"bbox": [
+				-79.7138278,
+				43.4223858,
+				-79.7107322,
+				43.4246342
+			]
+		}
+	]
+}

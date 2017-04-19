@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5010 Rue Curie, Laval, QC H7W 4W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c7361b47bec4bf09b97ff24b2992cf8|BN20131519|7.7.0.0|",
+				"addressLine": "5010 Rue Curie",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "5010 Rue Curie, Laval, QC H7W 4W5, Canada",
+				"locality": "Laval",
+				"postalCode": "H7W 4W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.76788,
+					45.52773
+				]
+			},
+			"bbox": [
+				-73.7694846,
+				45.5266058,
+				-73.7662754,
+				45.5288542
+			]
+		}
+	]
+}

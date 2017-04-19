@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "814 Erin St, Winnipeg, MB R3G 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56ce38979b0b43118967b6d18b8fe4d1|BN20290118|7.7.0.0|",
+				"addressLine": "814 Erin St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "814 Erin St, Winnipeg, MB R3G 2W4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Minto",
+				"postalCode": "R3G 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18505,
+					49.88987
+				]
+			},
+			"bbox": [
+				-97.1867949,
+				49.8887458,
+				-97.1833051,
+				49.8909942
+			]
+		}
+	]
+}

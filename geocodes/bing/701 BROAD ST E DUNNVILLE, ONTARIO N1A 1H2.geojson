@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "701 Broad St E, Dunnville, ON N1A 1H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "840db1cd354d4863b20ab7712bc79581|BN20240253|7.7.0.0|",
+				"addressLine": "701 Broad St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Haldimand",
+				"countryRegion": "Canada",
+				"formattedAddress": "701 Broad St E, Dunnville, ON N1A 1H2, Canada",
+				"locality": "Haldimand",
+				"neighborhood": "Dunnville",
+				"postalCode": "N1A 1H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6051628,
+					42.9031669
+				]
+			},
+			"bbox": [
+				-79.6066975,
+				42.9020427,
+				-79.6036281,
+				42.904291
+			]
+		}
+	]
+}

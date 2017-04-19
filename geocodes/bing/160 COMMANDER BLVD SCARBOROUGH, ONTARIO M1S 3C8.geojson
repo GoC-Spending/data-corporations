@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Commander Blvd, Scarborough, ON M1S 3C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98fc82af057845be8fcbbfaa2a4e63fe|BN20240253|7.7.0.0|",
+				"addressLine": "160 Commander Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Commander Blvd, Scarborough, ON M1S 3C8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt North",
+				"postalCode": "M1S 3C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26812,
+					43.79592
+				]
+			},
+			"bbox": [
+				-79.2696774,
+				43.7947958,
+				-79.2665626,
+				43.7970442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Paquin Rd, Winnipeg, MB R2J 3V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "583f5037d2bd4c9281470a30b858814e|BN20160335|7.7.0.0|",
+				"addressLine": "140 Paquin Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Paquin Rd, Winnipeg, MB R2J 3V4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St Boniface Industrial Park",
+				"postalCode": "R2J 3V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0381699,
+					49.88012
+				]
+			},
+			"bbox": [
+				-97.0399144,
+				49.8789958,
+				-97.0364254,
+				49.8812442
+			]
+		}
+	]
+}

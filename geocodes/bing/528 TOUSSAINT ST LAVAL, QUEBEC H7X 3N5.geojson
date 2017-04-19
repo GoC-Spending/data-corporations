@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "528 Rue Toussaint, Laval, QC H7X 3N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a316fb39c6048b7bd4104c4147eb880|BN20240423|7.7.0.0|",
+				"addressLine": "528 Rue Toussaint",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "528 Rue Toussaint, Laval, QC H7X 3N5, Canada",
+				"locality": "Laval",
+				"postalCode": "H7X 3N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.79155,
+					45.52241
+				]
+			},
+			"bbox": [
+				-73.7931545,
+				45.5212858,
+				-73.7899455,
+				45.5235342
+			]
+		}
+	]
+}

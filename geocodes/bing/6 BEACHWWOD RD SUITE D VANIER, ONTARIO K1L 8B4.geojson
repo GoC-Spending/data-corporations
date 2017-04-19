@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Place Eastwood, Vanier, ON K1L 6X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d87e305ca00f47f382f94ec802df23f8|BN20121764|7.7.0.0|",
+				"addressLine": "6 Place Eastwood",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Place Eastwood, Vanier, ON K1L 6X1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Vanier",
+				"postalCode": "K1L 6X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6531546,
+					45.4324329
+				]
+			},
+			"bbox": [
+				-75.6547566,
+				45.4313087,
+				-75.6515527,
+				45.433557
+			]
+		}
+	]
+}

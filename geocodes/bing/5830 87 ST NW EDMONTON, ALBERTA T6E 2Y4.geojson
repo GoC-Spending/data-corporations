@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5830 87 St NW, Edmonton, AB T6E 2Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27e66f9e221b4f32a547d2ea3061dbdf|BN20220145|7.7.0.0|",
+				"addressLine": "5830 87 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5830 87 St NW, Edmonton, AB T6E 2Y4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial West",
+				"postalCode": "T6E 2Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.45899,
+					53.4947299
+				]
+			},
+			"bbox": [
+				-113.4608797,
+				53.4936057,
+				-113.4571003,
+				53.4958541
+			]
+		}
+	]
+}

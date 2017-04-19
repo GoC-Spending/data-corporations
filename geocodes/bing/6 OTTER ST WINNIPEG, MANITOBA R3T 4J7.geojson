@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Otter St, Winnipeg, MB R3T 4J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb62a2ac29dd499eab60156f87fab512|BN20130625|7.7.0.0|",
+				"addressLine": "6 Otter St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Otter St, Winnipeg, MB R3T 4J7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Buffalo",
+				"postalCode": "R3T 4J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17605,
+					49.84152
+				]
+			},
+			"bbox": [
+				-97.1777931,
+				49.8403958,
+				-97.1743069,
+				49.8426442
+			]
+		}
+	]
+}

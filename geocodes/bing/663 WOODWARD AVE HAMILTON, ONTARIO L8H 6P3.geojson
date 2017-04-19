@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "663 Woodward Ave, Hamilton, ON L8H 6P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2487eb2a862f42efacaf79c5f4dc7834|BN20131519|7.7.0.0|",
+				"addressLine": "663 Woodward Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "663 Woodward Ave, Hamilton, ON L8H 6P3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Parkview West",
+				"postalCode": "L8H 6P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77611,
+					43.25111
+				]
+			},
+			"bbox": [
+				-79.7776534,
+				43.2499858,
+				-79.7745666,
+				43.2522342
+			]
+		}
+	]
+}

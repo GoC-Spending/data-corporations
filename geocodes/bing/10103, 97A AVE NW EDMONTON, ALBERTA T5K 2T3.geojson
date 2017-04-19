@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10103 97A Ave NW, Edmonton, AB T5K 2T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2f4987a11cdf4e72bf56c1de009f35b6|BN20160335|7.7.0.0|",
+				"addressLine": "10103 97A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10103 97A Ave NW, Edmonton, AB T5K 2T3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Rossdale",
+				"postalCode": "T5K 2T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49433,
+					53.53454
+				]
+			},
+			"bbox": [
+				-113.4962214,
+				53.5334158,
+				-113.4924386,
+				53.5356642
+			]
+		}
+	]
+}

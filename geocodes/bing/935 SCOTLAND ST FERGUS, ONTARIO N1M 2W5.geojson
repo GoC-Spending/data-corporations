@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "935 Scotland St, Fergus, ON N1M 2W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "097da4622ec74d04a7de2aeae51a5522|BN20130447|7.7.0.0|",
+				"addressLine": "935 Scotland St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "935 Scotland St, Fergus, ON N1M 2W5, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 2W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3537491,
+					43.6999636
+				]
+			},
+			"bbox": [
+				-80.355304,
+				43.6988395,
+				-80.3521941,
+				43.7010878
+			]
+		}
+	]
+}

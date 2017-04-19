@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "77 Adelaide St W, Toronto, ON M5H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ffdd391382040908690897e9139944c|BN20240423|7.7.0.0|",
+				"addressLine": "77 Adelaide St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "77 Adelaide St W, Toronto, ON M5H, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38214,
+					43.6493899
+				]
+			},
+			"bbox": [
+				-79.3836936,
+				43.6482657,
+				-79.3805864,
+				43.6505141
+			]
+		}
+	]
+}

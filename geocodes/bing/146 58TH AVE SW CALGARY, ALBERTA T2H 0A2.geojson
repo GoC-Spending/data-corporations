@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "146 58 Ave SW, Calgary, AB T2H 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd482e02ebcf48f3861c8b7177157aed|BN20250135|7.7.0.0|",
+				"addressLine": "146 58 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "146 58 Ave SW, Calgary, AB T2H 0A2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2H 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0667625,
+					51.0014949
+				]
+			},
+			"bbox": [
+				-114.0685488,
+				51.0003707,
+				-114.0649761,
+				51.002619
+			]
+		}
+	]
+}

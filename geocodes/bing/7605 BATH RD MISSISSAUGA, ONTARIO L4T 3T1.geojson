@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7605 Bath Rd, Mississauga, ON L4T 3T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fed5f91d72724fcaa1a581b9dce85854|BN20130431|7.7.0.0|",
+				"addressLine": "7605 Bath Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "7605 Bath Rd, Mississauga, ON L4T 3T1, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4T 3T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.66057,
+					43.71402
+				]
+			},
+			"bbox": [
+				-79.6621253,
+				43.7128958,
+				-79.6590147,
+				43.7151442
+			]
+		}
+	]
+}

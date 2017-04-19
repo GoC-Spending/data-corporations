@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Buttermill Ave, Concord, ON L4K 3X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3643b935f4f447c4ad8b64d22d8ae554|BN20130423|7.7.0.0|",
+				"addressLine": "90 Buttermill Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Buttermill Ave, Concord, ON L4K 3X7, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 3X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5316,
+					43.79985
+				]
+			},
+			"bbox": [
+				-79.5331575,
+				43.7987258,
+				-79.5300425,
+				43.8009742
+			]
+		}
+	]
+}

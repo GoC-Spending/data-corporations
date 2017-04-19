@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "541 3 St SE, Medicine Hat, AB T1A 0H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b321e1ba45a04c52bc5e95215d0e9e15|BN20190642|7.7.0.0|",
+				"addressLine": "541 3 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "541 3 St SE, Medicine Hat, AB T1A 0H2, Canada",
+				"locality": "Medicine Hat",
+				"postalCode": "T1A 0H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.6766,
+					50.0393199
+				]
+			},
+			"bbox": [
+				-110.6783503,
+				50.0381957,
+				-110.6748497,
+				50.0404441
+			]
+		}
+	]
+}

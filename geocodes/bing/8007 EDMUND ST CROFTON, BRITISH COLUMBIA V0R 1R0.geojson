@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8007 Edmund St, North Cowichan, BC V0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58cd55f2976e485b9f3f3771872780ca|CO30276301|7.7.0.0|",
+				"addressLine": "8007 Edmund St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "8007 Edmund St, North Cowichan, BC V0R, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Crofton",
+				"postalCode": "V0R 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.64768,
+					48.86037
+				]
+			},
+			"bbox": [
+				-123.6493887,
+				48.8592458,
+				-123.6459713,
+				48.8614942
+			]
+		}
+	]
+}

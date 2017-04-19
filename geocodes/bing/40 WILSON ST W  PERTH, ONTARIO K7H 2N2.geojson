@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Wilson St W, Perth, ON K7H 2N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7de0036c30f34023a7791f1dcfec8926|BN20190653|7.7.0.0|",
+				"addressLine": "40 Wilson St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Wilson St W, Perth, ON K7H 2N2, Canada",
+				"locality": "Perth",
+				"postalCode": "K7H 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.25479,
+					44.90203
+				]
+			},
+			"bbox": [
+				-76.2563771,
+				44.9009058,
+				-76.2532029,
+				44.9031542
+			]
+		}
+	]
+}

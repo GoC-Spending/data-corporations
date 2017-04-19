@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1250 Grand Lake Rd, Cape Breton, NS B1M 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03099dde8e084b68b9c501c7d53ecf60|BN20130634|7.7.0.0|",
+				"addressLine": "1250 Grand Lake Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1250 Grand Lake Rd, Cape Breton, NS B1M 1A2, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1M 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.0955212,
+					46.1707731
+				]
+			},
+			"bbox": [
+				-60.0971445,
+				46.1696489,
+				-60.0938979,
+				46.1718972
+			]
+		}
+	]
+}

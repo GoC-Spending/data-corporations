@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Mariposa Ave, York, ON M6N 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba805c1be30749dc937a15e89b6e726b|BN20130521|7.7.0.0|",
+				"addressLine": "5 Mariposa Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Mariposa Ave, York, ON M6N 4A3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rockcliffe-Smythe",
+				"postalCode": "M6N 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48975,
+					43.66821
+				]
+			},
+			"bbox": [
+				-79.4913041,
+				43.6670858,
+				-79.4881959,
+				43.6693342
+			]
+		}
+	]
+}

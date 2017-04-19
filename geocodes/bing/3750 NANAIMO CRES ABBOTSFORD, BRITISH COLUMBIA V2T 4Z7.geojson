@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3750 Nanaimo Cres, Abbotsford, BC V2T 4Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f4bc18720eb4e22a4a1cd0a457236bf|BN20130532|7.7.0.0|",
+				"addressLine": "3750 Nanaimo Cres",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3750 Nanaimo Cres, Abbotsford, BC V2T 4Z7, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "North Clearbrook",
+				"postalCode": "V2T 4Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3164942,
+					49.0702454
+				]
+			},
+			"bbox": [
+				-122.3182101,
+				49.0691212,
+				-122.3147782,
+				49.0713695
+			]
+		}
+	]
+}

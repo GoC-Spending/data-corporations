@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Elm St, Tillsonburg, ON N4G 0C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa0e10048c524a1683b47b72333fc8c8|BN20130721|7.7.0.0|",
+				"addressLine": "4 Elm St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Elm St, Tillsonburg, ON N4G 0C4, Canada",
+				"locality": "Tillsonburg",
+				"postalCode": "N4G 0C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.71872,
+					42.85534
+				]
+			},
+			"bbox": [
+				-80.7202535,
+				42.8542158,
+				-80.7171865,
+				42.8564642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Park Royal, West Vancouver, BC V7T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ed0191235894a5f99d58a98dda1a385|BN20121764|7.7.0.0|",
+				"addressLine": "100 Park Royal",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Park Royal, West Vancouver, BC V7T, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Capilano Indian Reserve 5",
+				"postalCode": "V7T 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1350149,
+					49.3251403
+				]
+			},
+			"bbox": [
+				-123.1367397,
+				49.3240162,
+				-123.1332901,
+				49.3262645
+			]
+		}
+	]
+}

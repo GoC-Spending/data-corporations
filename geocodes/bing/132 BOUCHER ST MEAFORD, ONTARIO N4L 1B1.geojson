@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "132 Boucher St E, Meaford, ON N4L 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e3ba338c32b4db58116c3a81c4d4341|BN20130423|7.7.0.0|",
+				"addressLine": "132 Boucher St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Grey",
+				"countryRegion": "Canada",
+				"formattedAddress": "132 Boucher St E, Meaford, ON N4L 1B8, Canada",
+				"locality": "Meaford",
+				"postalCode": "N4L 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.58618,
+					44.60613
+				]
+			},
+			"bbox": [
+				-80.587759,
+				44.6050058,
+				-80.584601,
+				44.6072542
+			]
+		}
+	]
+}

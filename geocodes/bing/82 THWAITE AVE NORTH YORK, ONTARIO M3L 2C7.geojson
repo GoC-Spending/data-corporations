@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Thwaite Ave, North York, ON M3L 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "749a5ec9a40741ee8f6e1bff8782a2ab|BN20130521|7.7.0.0|",
+				"addressLine": "82 Thwaite Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Thwaite Ave, North York, ON M3L 2C7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Glenfield-Jane Heights",
+				"postalCode": "M3L 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.504,
+					43.74278
+				]
+			},
+			"bbox": [
+				-79.505556,
+				43.7416558,
+				-79.502444,
+				43.7439042
+			]
+		}
+	]
+}

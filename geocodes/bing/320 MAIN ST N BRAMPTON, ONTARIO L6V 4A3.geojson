@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "320 Main St N, Brampton, ON L6V 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3d8857aaa9e2405a9d3e868d52963033|BN20131519|7.7.0.0|",
+				"addressLine": "320 Main St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "320 Main St N, Brampton, ON L6V 4A3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6V 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76819,
+					43.69318
+				]
+			},
+			"bbox": [
+				-79.7697447,
+				43.6920558,
+				-79.7666353,
+				43.6943042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "608 W Cordova St, Vancouver, BC V6B 5A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be47d577c0fc4b8bab94d76496c90e9d|BN20210145|7.7.0.0|",
+				"addressLine": "608 W Cordova St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "608 W Cordova St, Vancouver, BC V6B 5A7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 5A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1120739,
+					49.2853268
+				]
+			},
+			"bbox": [
+				-123.1137973,
+				49.2842027,
+				-123.1103505,
+				49.286451
+			]
+		}
+	]
+}

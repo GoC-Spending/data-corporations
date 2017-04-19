@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Eaton Ave, Selkirk, MB R1A 0W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "601a82cc3e484e8386175db46bf78dd2|BN20130621|7.7.0.0|",
+				"addressLine": "200 Eaton Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Eaton Ave, Selkirk, MB R1A 0W6, Canada",
+				"locality": "Selkirk",
+				"postalCode": "R1A 0W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.87169,
+					50.14258
+				]
+			},
+			"bbox": [
+				-96.8734441,
+				50.1414558,
+				-96.8699359,
+				50.1437042
+			]
+		}
+	]
+}

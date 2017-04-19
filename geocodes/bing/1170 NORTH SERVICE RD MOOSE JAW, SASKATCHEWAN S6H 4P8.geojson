@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1170 N Service Rd, Moose Jaw, SK S6J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc9cb8ba1a5944259440ed0015d45b1c|BN20130632|7.7.0.0|",
+				"addressLine": "1170 N Service Rd",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1170 N Service Rd, Moose Jaw, SK S6J, Canada",
+				"locality": "Moose Jaw",
+				"postalCode": "S6J"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.5676502,
+					50.4264949
+				]
+			},
+			"bbox": [
+				-105.5694148,
+				50.4253707,
+				-105.5658856,
+				50.4276191
+			]
+		}
+	]
+}

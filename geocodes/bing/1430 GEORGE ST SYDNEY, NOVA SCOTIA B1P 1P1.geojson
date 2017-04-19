@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1430 George St, Sydney, NS B1P 1P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "efb6fb77bb3f4329ae16ed661fa4c53e|BN20320521|7.7.0.0|",
+				"addressLine": "1430 George St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1430 George St, Sydney, NS B1P 1P1, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 1P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.17179,
+					46.11784
+				]
+			},
+			"bbox": [
+				-60.1734117,
+				46.1167158,
+				-60.1701683,
+				46.1189642
+			]
+		}
+	]
+}

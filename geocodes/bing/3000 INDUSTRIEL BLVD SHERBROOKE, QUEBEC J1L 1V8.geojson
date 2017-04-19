@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3000 Boulevard Industriel, Sherbrooke, QC J1L 1V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb92a5617da94ebe989ddfccb9cab439|BN20121762|7.7.0.0|",
+				"addressLine": "3000 Boulevard Industriel",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "3000 Boulevard Industriel, Sherbrooke, QC J1L 1V8, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1L 1V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.9663679,
+					45.4131163
+				]
+			},
+			"bbox": [
+				-71.9679693,
+				45.4119921,
+				-71.9647665,
+				45.4142404
+			]
+		}
+	]
+}

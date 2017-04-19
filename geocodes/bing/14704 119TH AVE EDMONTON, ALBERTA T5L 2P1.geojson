@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14704 119 Ave NW, Edmonton, AB T5L 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4bee848c50b143f995870c6804b22440|BN20160335|7.7.0.0|",
+				"addressLine": "14704 119 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14704 119 Ave NW, Edmonton, AB T5L 2P1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Dominion Industrial",
+				"postalCode": "T5L 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57518,
+					53.57212
+				]
+			},
+			"bbox": [
+				-113.5770731,
+				53.5709958,
+				-113.5732869,
+				53.5732442
+			]
+		}
+	]
+}

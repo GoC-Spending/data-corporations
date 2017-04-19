@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Avenue du Conseil, Courcelles, QC G0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a15f9857ac1b429c95f8335285935d41|BN20190642|7.7.0.0|",
+				"addressLine": "100 Avenue du Conseil",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Le Granit",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Avenue du Conseil, Courcelles, QC G0M, Canada",
+				"locality": "Courcelles",
+				"postalCode": "G0M 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.98792,
+					45.87205
+				]
+			},
+			"bbox": [
+				-70.9895346,
+				45.8709258,
+				-70.9863054,
+				45.8731742
+			]
+		}
+	]
+}

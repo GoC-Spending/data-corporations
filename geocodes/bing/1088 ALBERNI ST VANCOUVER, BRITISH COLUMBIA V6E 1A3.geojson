@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1088 Alberni St, Vancouver, BC V6E 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed16724a6bc444ee8c18aa585553a70c|BN20260223|7.7.0.0|",
+				"addressLine": "1088 Alberni St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1088 Alberni St, Vancouver, BC V6E 1A3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6E 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1235549,
+					49.284969
+				]
+			},
+			"bbox": [
+				-123.1252782,
+				49.2838449,
+				-123.1218315,
+				49.2860932
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1381 McKeen Ave, North Vancouver, BC V7P 3H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47b5e2531821488d820a28ac3865d1a0|BN20130520|7.7.0.0|",
+				"addressLine": "1381 McKeen Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1381 McKeen Ave, North Vancouver, BC V7P 3H9, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norgate",
+				"postalCode": "V7P 3H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11344,
+					49.31438
+				]
+			},
+			"bbox": [
+				-123.1151644,
+				49.3132558,
+				-123.1117156,
+				49.3155042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "167 Denison St, Markham, ON L3R 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a93e2247691841a9bdb4b2cadd386c86|BN20130719|7.7.0.0|",
+				"addressLine": "167 Denison St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "167 Denison St, Markham, ON L3R 1B5, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3536,
+					43.82081
+				]
+			},
+			"bbox": [
+				-79.3551581,
+				43.8196858,
+				-79.3520419,
+				43.8219342
+			]
+		}
+	]
+}

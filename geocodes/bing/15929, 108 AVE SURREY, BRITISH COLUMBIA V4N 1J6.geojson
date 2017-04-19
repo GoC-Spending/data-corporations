@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15929 108 Ave, Surrey, BC V4N 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe480c007cd44791bfad44d577ae8a18|BN20121763|7.7.0.0|",
+				"addressLine": "15929 108 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "15929 108 Ave, Surrey, BC V4N 1J6, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V4N 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.78073,
+					49.19896
+				]
+			},
+			"bbox": [
+				-122.7824504,
+				49.1978358,
+				-122.7790096,
+				49.2000842
+			]
+		}
+	]
+}

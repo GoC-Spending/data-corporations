@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1380 London Rd, Sarnia, ON N7S 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a75271599584a199b5abaa37c20105f|BN20260223|7.7.0.0|",
+				"addressLine": "1380 London Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1380 London Rd, Sarnia, ON N7S 1P8, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7S 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3530141,
+					42.9804475
+				]
+			},
+			"bbox": [
+				-82.3545507,
+				42.9793233,
+				-82.3514775,
+				42.9815716
+			]
+		}
+	]
+}

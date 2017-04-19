@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1757 Burlington St E, Hamilton, ON L8H 3L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "499723449f5840f1adf5c1934db6c444|BN20130521|7.7.0.0|",
+				"addressLine": "1757 Burlington St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1757 Burlington St E, Hamilton, ON L8H 3L5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector G",
+				"postalCode": "L8H 3L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7895283,
+					43.2569849
+				]
+			},
+			"bbox": [
+				-79.7910719,
+				43.2558607,
+				-79.7879848,
+				43.2581091
+			]
+		}
+	]
+}

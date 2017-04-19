@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "606 Browns Line, Etobicoke, ON M8W 3V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39099813a24e4652a494623beb50c982|BN20130625|7.7.0.0|",
+				"addressLine": "606 Browns Line",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "606 Browns Line, Etobicoke, ON M8W 3V5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Alderwood",
+				"postalCode": "M8W 3V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54725,
+					43.6053
+				]
+			},
+			"bbox": [
+				-79.5488025,
+				43.6041758,
+				-79.5456975,
+				43.6064242
+			]
+		}
+	]
+}

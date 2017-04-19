@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12148 Glenhurst St, Maple Ridge, BC V2X 6V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b115522b6c14a74b008caad105def8a|BN20130520|7.7.0.0|",
+				"addressLine": "12148 Glenhurst St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12148 Glenhurst St, Maple Ridge, BC V2X 6V9, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 6V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.57515,
+					49.22321
+				]
+			},
+			"bbox": [
+				-122.5768712,
+				49.2220858,
+				-122.5734288,
+				49.2243342
+			]
+		}
+	]
+}

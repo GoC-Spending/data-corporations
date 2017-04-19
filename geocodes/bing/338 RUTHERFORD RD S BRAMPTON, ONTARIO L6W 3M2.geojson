@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "338 Rutherford Rd S, Brampton, ON L6W 3M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42b53a7319334d829250f22699efef09|BN20240423|7.7.0.0|",
+				"addressLine": "338 Rutherford Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "338 Rutherford Rd S, Brampton, ON L6W 3M2, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6W 3M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71814,
+					43.68189
+				]
+			},
+			"bbox": [
+				-79.7196944,
+				43.6807658,
+				-79.7165856,
+				43.6830142
+			]
+		}
+	]
+}

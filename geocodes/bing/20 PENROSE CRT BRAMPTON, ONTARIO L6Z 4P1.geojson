@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Penrose Ct, Brampton, ON L6Z 4P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9718610e57c641488ed4b5869fe41a42|BN20130634|7.7.0.0|",
+				"addressLine": "20 Penrose Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Penrose Ct, Brampton, ON L6Z 4P1, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L6Z 4P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81538,
+					43.73026
+				]
+			},
+			"bbox": [
+				-79.8169357,
+				43.7291358,
+				-79.8138243,
+				43.7313842
+			]
+		}
+	]
+}

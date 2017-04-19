@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1245 California Ave, Brockville, ON K6V 7N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f83e719735c840bda5c0e2b701f2170d|BN20130520|7.7.0.0|",
+				"addressLine": "1245 California Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "1245 California Ave, Brockville, ON K6V 7N5, Canada",
+				"locality": "Brockville",
+				"postalCode": "K6V 7N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69475,
+					44.616
+				]
+			},
+			"bbox": [
+				-75.6963292,
+				44.6148758,
+				-75.6931708,
+				44.6171242
+			]
+		}
+	]
+}

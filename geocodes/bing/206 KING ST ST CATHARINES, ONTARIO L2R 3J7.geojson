@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "206 King St, St Catharines, ON L2R 3J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e599bdc9ab94a8c97d544b49d8686b1|BN20131519|7.7.0.0|",
+				"addressLine": "206 King St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "206 King St, St Catharines, ON L2R 3J7, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Downtown",
+				"postalCode": "L2R 3J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24254,
+					43.16205
+				]
+			},
+			"bbox": [
+				-79.2440812,
+				43.1609258,
+				-79.2409988,
+				43.1631742
+			]
+		}
+	]
+}

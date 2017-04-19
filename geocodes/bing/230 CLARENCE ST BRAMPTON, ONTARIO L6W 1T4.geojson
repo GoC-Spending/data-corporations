@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Clarence St, Brampton, ON L6W 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38b87b1d728e45419066358c7697ff0d|BN20131519|7.7.0.0|",
+				"addressLine": "230 Clarence St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Clarence St, Brampton, ON L6W 1T4, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6W 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7375868,
+					43.6908923
+				]
+			},
+			"bbox": [
+				-79.7391415,
+				43.6897682,
+				-79.7360321,
+				43.6920165
+			]
+		}
+	]
+}

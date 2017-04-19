@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Banks Ct, Dartmouth, NS B2X 2Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d960ca5318541d49ffa5d29f6f5dffc|BN20130719|7.7.0.0|",
+				"addressLine": "8 Banks Ct",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Banks Ct, Dartmouth, NS B2X 2Y6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2X 2Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.54393,
+					44.70552
+				]
+			},
+			"bbox": [
+				-63.5455117,
+				44.7043958,
+				-63.5423483,
+				44.7066442
+			]
+		}
+	]
+}

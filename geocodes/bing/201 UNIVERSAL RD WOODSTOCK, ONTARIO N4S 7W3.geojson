@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "201 Universal Rd, Woodstock, ON N4S 7W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f374f722d8b48abb88567e7a0cf03d8|BN20220145|7.7.0.0|",
+				"addressLine": "201 Universal Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "201 Universal Rd, Woodstock, ON N4S 7W3, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 7W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.70994,
+					43.12783
+				]
+			},
+			"bbox": [
+				-80.7114803,
+				43.1267058,
+				-80.7083997,
+				43.1289542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "635 Hood Rd, Markham, ON L3R 4N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e26ee01d06d42239f748e426c112cc3|BN20121764|7.7.0.0|",
+				"addressLine": "635 Hood Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "635 Hood Rd, Markham, ON L3R 4N6, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 4N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3296699,
+					43.83569
+				]
+			},
+			"bbox": [
+				-79.3312283,
+				43.8345658,
+				-79.3281115,
+				43.8368142
+			]
+		}
+	]
+}

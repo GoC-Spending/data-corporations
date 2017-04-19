@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12731 Cannington Way SW, Calgary, AB T2W 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ed881c900b14e98a6e97bf3f1e557fb|BN20260223|7.7.0.0|",
+				"addressLine": "12731 Cannington Way SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12731 Cannington Way SW, Calgary, AB T2W 1Z7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Canyon Meadows",
+				"postalCode": "T2W 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0795,
+					50.9374899
+				]
+			},
+			"bbox": [
+				-114.0812839,
+				50.9363657,
+				-114.0777161,
+				50.9386141
+			]
+		}
+	]
+}

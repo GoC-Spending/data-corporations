@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Needham St, Lindsay, ON K9V 4Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e8bfc3cfb4842999093a3df4ba7b0f6|BN20190642|7.7.0.0|",
+				"addressLine": "55 Needham St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Needham St, Lindsay, ON K9V 4Z7, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Lindsay",
+				"postalCode": "K9V 4Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7299666,
+					44.3685573
+				]
+			},
+			"bbox": [
+				-78.7315392,
+				44.3674332,
+				-78.7283941,
+				44.3696815
+			]
+		}
+	]
+}

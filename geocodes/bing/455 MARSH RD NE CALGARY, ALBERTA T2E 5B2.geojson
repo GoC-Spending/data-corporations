@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "455 Marsh Rd NE, Calgary, AB T2E 5B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7809cb6c239a4520bf1f3138cc8a25e6|BN20130431|7.7.0.0|",
+				"addressLine": "455 Marsh Rd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "455 Marsh Rd NE, Calgary, AB T2E 5B2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Crescent Heights",
+				"postalCode": "T2E 5B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0524,
+					51.0525499
+				]
+			},
+			"bbox": [
+				-114.0541883,
+				51.0514257,
+				-114.0506117,
+				51.0536741
+			]
+		}
+	]
+}

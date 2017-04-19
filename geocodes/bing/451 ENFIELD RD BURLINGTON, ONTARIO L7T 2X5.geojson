@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "451 Enfield Rd, Burlington, ON L7T 2X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a0f1364fb074c4c86928e1cb5f6fb8f|BN20130634|7.7.0.0|",
+				"addressLine": "451 Enfield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "451 Enfield Rd, Burlington, ON L7T 2X5, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot Central",
+				"postalCode": "L7T 2X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84165,
+					43.32068
+				]
+			},
+			"bbox": [
+				-79.8431952,
+				43.3195558,
+				-79.8401048,
+				43.3218042
+			]
+		}
+	]
+}

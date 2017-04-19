@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "71 Kenilworth St, Ottawa, ON K1Y 3Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "413e90e4860640c38aa112771985baa9|BN20130442|7.7.0.0|",
+				"addressLine": "71 Kenilworth St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "71 Kenilworth St, Ottawa, ON K1Y 3Y5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Civic Hosp-Exp Farm-Central Park",
+				"postalCode": "K1Y 3Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72331,
+					45.39556
+				]
+			},
+			"bbox": [
+				-75.7249109,
+				45.3944358,
+				-75.7217091,
+				45.3966842
+			]
+		}
+	]
+}

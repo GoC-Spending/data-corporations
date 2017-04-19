@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1890 Cooper Rd, Kelowna, BC V1Y 8B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c361cfbc51014397842e0a155017ff0e|BN20131519|7.7.0.0|",
+				"addressLine": "1890 Cooper Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1890 Cooper Rd, Kelowna, BC V1Y 8B7, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Central City",
+				"postalCode": "V1Y 8B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4434778,
+					49.8799359
+				]
+			},
+			"bbox": [
+				-119.4452223,
+				49.8788118,
+				-119.4417333,
+				49.8810601
+			]
+		}
+	]
+}

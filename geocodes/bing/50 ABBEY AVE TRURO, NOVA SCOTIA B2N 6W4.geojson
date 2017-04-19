@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Abbey Ave, Truro, NS B2N 6W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d005585c36e4c0189e973cb0daa9fdc|BN20130533|7.7.0.0|",
+				"addressLine": "50 Abbey Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Abbey Ave, Truro, NS B2N 6W4, Canada",
+				"locality": "Truro",
+				"postalCode": "B2N 6W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.29107,
+					45.34631
+				]
+			},
+			"bbox": [
+				-63.2926695,
+				45.3451858,
+				-63.2894705,
+				45.3474342
+			]
+		}
+	]
+}

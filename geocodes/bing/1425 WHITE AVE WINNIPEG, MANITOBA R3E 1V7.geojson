@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1425 Whyte Ave, Winnipeg, MB R3E 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "830886fbec954f7a9bad6e893e528542|BN20190653|7.7.0.0|",
+				"addressLine": "1425 Whyte Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1425 Whyte Ave, Winnipeg, MB R3E 1V7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Weston",
+				"postalCode": "R3E 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1816599,
+					49.9193799
+				]
+			},
+			"bbox": [
+				-97.1834058,
+				49.9182557,
+				-97.179914,
+				49.9205041
+			]
+		}
+	]
+}

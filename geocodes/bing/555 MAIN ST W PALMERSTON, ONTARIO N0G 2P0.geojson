@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "555 Main St W, Palmerston, ON N0G 2P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa2a6f3392914334b59f65fb1b56fc92|BN20181720|7.7.0.0|",
+				"addressLine": "555 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "555 Main St W, Palmerston, ON N0G 2P0, Canada",
+				"locality": "Minto",
+				"neighborhood": "Palmerston",
+				"postalCode": "N0G 2P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.8598768,
+					43.8331224
+				]
+			},
+			"bbox": [
+				-80.8614352,
+				43.8319983,
+				-80.8583184,
+				43.8342466
+			]
+		}
+	]
+}

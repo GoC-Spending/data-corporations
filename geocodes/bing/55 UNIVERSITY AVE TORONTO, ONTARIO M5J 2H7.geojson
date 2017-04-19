@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 University Ave, Toronto, ON M5J 2H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48e56880fa774fff86f9c7578824775b|BN20130447|7.7.0.0|",
+				"addressLine": "55 University Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 University Ave, Toronto, ON M5J 2H7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5J 2H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38397,
+					43.6469499
+				]
+			},
+			"bbox": [
+				-79.3855235,
+				43.6458257,
+				-79.3824165,
+				43.6480741
+			]
+		}
+	]
+}

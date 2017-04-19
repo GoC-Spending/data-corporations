@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11363 174 St NW, Edmonton, AB T5S 0B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3cdc94a0cc5b4553ad91edae1428d201|BN20250135|7.7.0.0|",
+				"addressLine": "11363 174 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11363 174 St NW, Edmonton, AB T5S 0B7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Armstrong Industrial",
+				"postalCode": "T5S 0B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.62032,
+					53.56182
+				]
+			},
+			"bbox": [
+				-113.6222127,
+				53.5606958,
+				-113.6184273,
+				53.5629442
+			]
+		}
+	]
+}

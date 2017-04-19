@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Richmond St, Chatham, ON N7M 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "450400d5615349c994e88ba56e3f52f9|BN20130533|7.7.0.0|",
+				"addressLine": "50 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Richmond St, Chatham, ON N7M 1N6, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7M 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.18485,
+					42.40022
+				]
+			},
+			"bbox": [
+				-82.1863723,
+				42.3990958,
+				-82.1833277,
+				42.4013442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "761 Broadway Ave, Cornwallis, NS B0S 1H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2807abf7a91a40bb80352ec486542754|BN20200137|7.7.0.0|",
+				"addressLine": "761 Broadway Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Annapolis",
+				"countryRegion": "Canada",
+				"formattedAddress": "761 Broadway Ave, Cornwallis, NS B0S 1H0, Canada",
+				"locality": "Annapolis",
+				"neighborhood": "Cornwallis",
+				"postalCode": "B0S 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.63384,
+					44.65648
+				]
+			},
+			"bbox": [
+				-65.6354203,
+				44.6553558,
+				-65.6322597,
+				44.6576042
+			]
+		}
+	]
+}

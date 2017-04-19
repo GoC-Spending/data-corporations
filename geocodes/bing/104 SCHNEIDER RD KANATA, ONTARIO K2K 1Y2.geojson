@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 Schneider Rd, Kanata, ON K2K 1Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1bdd78495d4f40939d2bf897058c14bf|BN20250135|7.7.0.0|",
+				"addressLine": "104 Schneider Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 Schneider Rd, Kanata, ON K2K 1Y2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 1Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.90385,
+					45.34001
+				]
+			},
+			"bbox": [
+				-75.9054493,
+				45.3388858,
+				-75.9022507,
+				45.3411342
+			]
+		}
+	]
+}

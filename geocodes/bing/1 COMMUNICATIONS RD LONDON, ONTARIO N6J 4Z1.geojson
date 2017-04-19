@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Communications Rd, London, ON N6J 4Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7607bbedf2a74e36b0fb8d4bc3ca43da|CO30275741|7.7.0.0|",
+				"addressLine": "1 Communications Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Communications Rd, London, ON N6J 4Z1, Canada",
+				"locality": "London",
+				"neighborhood": "Highland",
+				"postalCode": "N6J 4Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2660595,
+					42.9528498
+				]
+			},
+			"bbox": [
+				-81.2675954,
+				42.9517256,
+				-81.2645236,
+				42.9539739
+			]
+		}
+	]
+}

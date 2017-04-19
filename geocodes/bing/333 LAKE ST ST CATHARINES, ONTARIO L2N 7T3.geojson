@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "333 Lake St, St Catharines, ON L2N 7T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65f95e3deef1486982af861c9b6639a6|BN20130442|7.7.0.0|",
+				"addressLine": "333 Lake St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "333 Lake St, St Catharines, ON L2N 7T3, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Lakeport",
+				"postalCode": "L2N 7T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25222,
+					43.18009
+				]
+			},
+			"bbox": [
+				-79.2537616,
+				43.1789658,
+				-79.2506784,
+				43.1812142
+			]
+		}
+	]
+}

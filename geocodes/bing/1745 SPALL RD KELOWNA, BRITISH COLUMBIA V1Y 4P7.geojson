@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1745 Spall Rd, Kelowna, BC V1Y 4P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5e1237aff654867a75f6778259ae684|BN20130522|7.7.0.0|",
+				"addressLine": "1745 Spall Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1745 Spall Rd, Kelowna, BC V1Y 4P7, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Central City",
+				"postalCode": "V1Y 4P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.45328,
+					49.88346
+				]
+			},
+			"bbox": [
+				-119.4550246,
+				49.8823358,
+				-119.4515354,
+				49.8845842
+			]
+		}
+	]
+}

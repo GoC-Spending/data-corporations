@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Katimavik Rd, Kanata, ON K2L 2N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abb1238fe1894ca09d234532117782e3|BN20260223|7.7.0.0|",
+				"addressLine": "150 Katimavik Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Katimavik Rd, Kanata, ON K2L 2N2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2L 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8956199,
+					45.31281
+				]
+			},
+			"bbox": [
+				-75.8972184,
+				45.3116858,
+				-75.8940214,
+				45.3139342
+			]
+		}
+	]
+}

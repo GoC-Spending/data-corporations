@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1610 Champlain Ave, Whitby, ON L1N 6A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee8501bc03614ca4bedbcd175bf16d57|BN20130621|7.7.0.0|",
+				"addressLine": "1610 Champlain Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1610 Champlain Ave, Whitby, ON L1N 6A7, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 6A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8997965,
+					43.8709906
+				]
+			},
+			"bbox": [
+				-78.9013558,
+				43.8698664,
+				-78.8982371,
+				43.8721147
+			]
+		}
+	]
+}

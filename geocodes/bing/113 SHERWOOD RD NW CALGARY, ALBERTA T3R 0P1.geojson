@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "113 Sherwood Rd NW, Calgary, AB T3R 0P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f173adca468c4f28844fb7aebf96f071|BN20130719|7.7.0.0|",
+				"addressLine": "113 Sherwood Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "113 Sherwood Rd NW, Calgary, AB T3R 0P1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Symons Valley",
+				"postalCode": "T3R 0P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.14919,
+					51.16248
+				]
+			},
+			"bbox": [
+				-114.1509826,
+				51.1613558,
+				-114.1473974,
+				51.1636042
+			]
+		}
+	]
+}

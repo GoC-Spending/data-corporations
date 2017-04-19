@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Ashland Ave, London, ON N5W 4G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e8c65fdc0fd4f34b308bea76f5758ac|BN20130533|7.7.0.0|",
+				"addressLine": "375 Ashland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Ashland Ave, London, ON N5W 4G1, Canada",
+				"locality": "London",
+				"neighborhood": "East London",
+				"postalCode": "N5W 4G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2086999,
+					42.9944
+				]
+			},
+			"bbox": [
+				-81.2102368,
+				42.9932758,
+				-81.207163,
+				42.9955242
+			]
+		}
+	]
+}

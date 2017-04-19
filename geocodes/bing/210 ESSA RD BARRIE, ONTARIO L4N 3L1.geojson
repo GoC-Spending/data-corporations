@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 Essa Rd, Barrie, ON L4N 3L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95ac0a7bf8f94007a18c5173ece613a5|BN20200239|7.7.0.0|",
+				"addressLine": "210 Essa Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 Essa Rd, Barrie, ON L4N 3L1, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Allandale",
+				"postalCode": "L4N 3L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69649,
+					44.36548
+				]
+			},
+			"bbox": [
+				-79.6980625,
+				44.3643558,
+				-79.6949175,
+				44.3666042
+			]
+		}
+	]
+}

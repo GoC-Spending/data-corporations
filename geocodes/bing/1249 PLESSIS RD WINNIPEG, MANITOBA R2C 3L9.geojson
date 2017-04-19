@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous"
+				],
+				"name": "1249 Plessis Rd, Winnipeg, MB R2C 3L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3a1714d7350488e9a77604d0d1d667d|BN20130423|7.7.0.0|",
+				"addressLine": "1249 Plessis Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1249 Plessis Rd, Winnipeg, MB R2C 3L9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Mission Gardens",
+				"postalCode": "R2C 3L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.02471,
+					49.89226
+				]
+			},
+			"bbox": [
+				-97.026455,
+				49.8911358,
+				-97.022965,
+				49.8933842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1076 3rd St, North Vancouver District, BC V7P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae15f093cc074014acba15b5284cd2f8|BN20130521|7.7.0.0|",
+				"addressLine": "1076 3rd St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1076 3rd St, North Vancouver District, BC V7P, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norgate",
+				"postalCode": "V7P 3J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10434,
+					49.32044
+				]
+			},
+			"bbox": [
+				-123.1060646,
+				49.3193158,
+				-123.1026154,
+				49.3215642
+			]
+		}
+	]
+}

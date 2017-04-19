@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1931 Robertson Rd, Nepean, ON K2H 5B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e465e1d1ecf84dddbb6c29a2314a98e6|BN20130521|7.7.0.0|",
+				"addressLine": "1931 Robertson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1931 Robertson Rd, Nepean, ON K2H 5B7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2H 5B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8236953,
+					45.3261339
+				]
+			},
+			"bbox": [
+				-75.8252942,
+				45.3250098,
+				-75.8220964,
+				45.3272581
+			]
+		}
+	]
+}

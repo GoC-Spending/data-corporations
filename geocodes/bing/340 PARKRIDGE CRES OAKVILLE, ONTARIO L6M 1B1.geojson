@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Parkridge Cres, Oakville, ON L6M 1B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25bf62bed17e44afa7912e0f84285b76|BN20130719|7.7.0.0|",
+				"addressLine": "340 Parkridge Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Parkridge Cres, Oakville, ON L6M 1B1, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Glen Abbey",
+				"postalCode": "L6M 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70869,
+					43.44413
+				]
+			},
+			"bbox": [
+				-79.7102383,
+				43.4430058,
+				-79.7071417,
+				43.4452542
+			]
+		}
+	]
+}

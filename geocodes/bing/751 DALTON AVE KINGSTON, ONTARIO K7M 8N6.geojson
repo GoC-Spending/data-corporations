@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "751 Dalton Ave, Kingston, ON K7M 8N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e086d2eac4724e15a4f211cda112ddd5|BN20130719|7.7.0.0|",
+				"addressLine": "751 Dalton Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "751 Dalton Ave, Kingston, ON K7M 8N6, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Alcan",
+				"postalCode": "K7M 8N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.5244441,
+					44.2698
+				]
+			},
+			"bbox": [
+				-76.526014,
+				44.2686759,
+				-76.5228742,
+				44.2709242
+			]
+		}
+	]
+}

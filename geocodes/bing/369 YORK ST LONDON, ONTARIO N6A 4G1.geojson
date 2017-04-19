@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "369 York St, London, ON N6B 3R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "14df6a885f3644a394c1e0daea6e1888|BN20130431|7.7.0.0|",
+				"addressLine": "369 York St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "369 York St, London, ON N6B 3R4, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 3R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2401,
+					42.9831999
+				]
+			},
+			"bbox": [
+				-81.2416367,
+				42.9820757,
+				-81.2385633,
+				42.9843241
+			]
+		}
+	]
+}

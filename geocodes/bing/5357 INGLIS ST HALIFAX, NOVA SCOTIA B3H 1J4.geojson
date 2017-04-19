@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5357 Inglis St, Halifax, NS B3H 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8b86590121d458aaf28e852d4b00e46|BN20240423|7.7.0.0|",
+				"addressLine": "5357 Inglis St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5357 Inglis St, Halifax, NS B3H 1J4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3H 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57,
+					44.6361
+				]
+			},
+			"bbox": [
+				-63.5715798,
+				44.6349758,
+				-63.5684202,
+				44.6372242
+			]
+		}
+	]
+}

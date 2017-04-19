@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 North Rd, Coquitlam, BC V3K 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3088d18297f0409f90b569046565b313|BN20240253|7.7.0.0|",
+				"addressLine": "225 North Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 North Rd, Coquitlam, BC V3K 3V7, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cariboo/Burquitlam",
+				"postalCode": "V3K 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.89226,
+					49.23898
+				]
+			},
+			"bbox": [
+				-122.8939818,
+				49.2378558,
+				-122.8905382,
+				49.2401042
+			]
+		}
+	]
+}

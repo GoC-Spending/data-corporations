@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "676 Yonge St, Toronto, ON M4Y 2A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "000c47ae6820429988da9601dd63bf16|BN20121763|7.7.0.0|",
+				"addressLine": "676 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "676 Yonge St, Toronto, ON M4Y 2A6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M4Y 2A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3858,
+					43.66733
+				]
+			},
+			"bbox": [
+				-79.3873541,
+				43.6662058,
+				-79.3842459,
+				43.6684542
+			]
+		}
+	]
+}

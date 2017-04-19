@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1228 Fieldown St, Cumberland, ON K4C 1R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f96d3b4e3e147bb9b7f49908fc02d93|BN20130422|7.7.0.0|",
+				"addressLine": "1228 Fieldown St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1228 Fieldown St, Cumberland, ON K4C 1R7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Cumberland",
+				"postalCode": "K4C 1R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.40403,
+					45.5096
+				]
+			},
+			"bbox": [
+				-75.4056341,
+				45.5084758,
+				-75.4024259,
+				45.5107242
+			]
+		}
+	]
+}

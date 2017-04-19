@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "153 Augusta Ave, Toronto, ON M5T 2L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e413c1835bf41a5b19303331f71896a|BN20130431|7.7.0.0|",
+				"addressLine": "153 Augusta Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "153 Augusta Ave, Toronto, ON M5T 2L4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kensington-Chinatown",
+				"postalCode": "M5T 2L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4011521,
+					43.6528918
+				]
+			},
+			"bbox": [
+				-79.4027058,
+				43.6517677,
+				-79.3995985,
+				43.654016
+			]
+		}
+	]
+}

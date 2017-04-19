@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "935 Woodlawn Rd W, Guelph, ON N1K 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c880ea57d0e4436b727168556ba6efb|BN20240253|7.7.0.0|",
+				"addressLine": "935 Woodlawn Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "935 Woodlawn Rd W, Guelph, ON N1K 1B7, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1K 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3193311,
+					43.5348102
+				]
+			},
+			"bbox": [
+				-80.3208817,
+				43.5336861,
+				-80.3177804,
+				43.5359344
+			]
+		}
+	]
+}

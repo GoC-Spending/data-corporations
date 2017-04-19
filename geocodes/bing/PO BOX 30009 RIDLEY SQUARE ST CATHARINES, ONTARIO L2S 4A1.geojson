@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "St Catharines, L2S 4A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6dddad44806e408cb990c42ca7fae44d|BN20130634|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "St Catharines, L2S 4A1, Canada",
+				"locality": "St Catharines",
+				"postalCode": "L2S 4A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2486724853516,
+					43.1563301086426
+				]
+			},
+			"bbox": [
+				-79.2557321618402,
+				43.1524673910719,
+				-79.2416128088629,
+				43.1601928262133
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Alpharetta, GA 30009",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6dddad44806e408cb990c42ca7fae44d|BN20130634|7.7.0.0|",
+				"adminDistrict": "GA",
+				"adminDistrict2": "Fulton",
+				"countryRegion": "United States",
+				"formattedAddress": "Alpharetta, GA 30009",
+				"locality": "Alpharetta",
+				"postalCode": "30009"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.295295715332,
+					34.0711860656738
+				]
+			},
+			"bbox": [
+				-84.3324584960938,
+				34.0353202819824,
+				-84.2689208984375,
+				34.1148300170898
+			]
+		}
+	]
+}

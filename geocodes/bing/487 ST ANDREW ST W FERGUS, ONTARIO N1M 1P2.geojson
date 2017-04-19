@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "487 St Andrew St W, Fergus, ON N1M 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "26c1fdae014f43fe90b1ac4a4f6f8867|BN20130719|7.7.0.0|",
+				"addressLine": "487 St Andrew St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "487 St Andrew St W, Fergus, ON N1M 1P2, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.38095,
+					43.70194
+				]
+			},
+			"bbox": [
+				-80.382505,
+				43.7008158,
+				-80.379395,
+				43.7030642
+			]
+		}
+	]
+}

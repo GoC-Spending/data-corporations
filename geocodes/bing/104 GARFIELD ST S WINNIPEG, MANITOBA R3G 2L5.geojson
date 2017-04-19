@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 Garfield St S, Winnipeg, MB R3G 2L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bbc2a098a9b466387453cb375089a1c|BN20290118|7.7.0.0|",
+				"addressLine": "104 Garfield St S",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 Garfield St S, Winnipeg, MB R3G 2L5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Wolseley",
+				"postalCode": "R3G 2L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17825,
+					49.87868
+				]
+			},
+			"bbox": [
+				-97.1799945,
+				49.8775558,
+				-97.1765055,
+				49.8798042
+			]
+		}
+	]
+}

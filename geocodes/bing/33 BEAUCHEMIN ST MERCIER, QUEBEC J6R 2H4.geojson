@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Rue Beauchemin, Mercier, QC J6R 2H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8717819deb1c44be842c670aaf24bdb0|BN20121763|7.7.0.0|",
+				"addressLine": "33 Rue Beauchemin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Roussillon",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Rue Beauchemin, Mercier, QC J6R 2H4, Canada",
+				"locality": "Mercier",
+				"postalCode": "J6R 2H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.73455,
+					45.3415899
+				]
+			},
+			"bbox": [
+				-73.7361494,
+				45.3404657,
+				-73.7329506,
+				45.3427141
+			]
+		}
+	]
+}

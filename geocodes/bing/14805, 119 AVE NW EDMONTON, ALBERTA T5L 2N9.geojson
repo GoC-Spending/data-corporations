@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14805 119 Ave NW, Edmonton, AB T5L 2N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39f65fbda85740528fe363bb37962daa|BN20130422|7.7.0.0|",
+				"addressLine": "14805 119 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14805 119 Ave NW, Edmonton, AB T5L 2N9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Dominion Industrial",
+				"postalCode": "T5L 2N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5766,
+					53.57129
+				]
+			},
+			"bbox": [
+				-113.5784931,
+				53.5701658,
+				-113.5747069,
+				53.5724142
+			]
+		}
+	]
+}

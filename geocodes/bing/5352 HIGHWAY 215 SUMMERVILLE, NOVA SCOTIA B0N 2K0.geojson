@@ -1,0 +1,79 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Summerville, B0N 2K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63f37d5b288f4a81a0d5a1ee8e9f8a1b|BN20290118|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Hants",
+				"countryRegion": "Canada",
+				"formattedAddress": "Summerville, B0N 2K0, Canada",
+				"locality": "Summerville",
+				"postalCode": "B0N 2K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.1644287109375,
+					45.0984992980957
+				]
+			},
+			"bbox": [
+				-64.1717243814038,
+				45.094636580525,
+				-64.1571330404712,
+				45.1023620156664
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Summerville, West Hants, Nova Scotia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63f37d5b288f4a81a0d5a1ee8e9f8a1b|BN20290118|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Hants",
+				"countryRegion": "Canada",
+				"formattedAddress": "Summerville, West Hants, Nova Scotia, Canada",
+				"locality": "West Hants",
+				"neighborhood": "Summerville"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.1644287109375,
+					45.0984992980957
+				]
+			},
+			"bbox": [
+				-64.1717243814038,
+				45.094636580525,
+				-64.1571330404712,
+				45.1023620156664
+			]
+		}
+	]
+}

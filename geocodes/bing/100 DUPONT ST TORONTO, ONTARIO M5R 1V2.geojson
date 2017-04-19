@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Dupont St, Toronto, ON M5R 1V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "312179471a2b44b492bc0e68ec38f424|BN20130621|7.7.0.0|",
+				"addressLine": "100 Dupont St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Dupont St, Toronto, ON M5R 1V2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 1V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4009899,
+					43.67646
+				]
+			},
+			"bbox": [
+				-79.4025442,
+				43.6753358,
+				-79.3994356,
+				43.6775842
+			]
+		}
+	]
+}

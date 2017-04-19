@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Electric St, Ottawa, ON K1M 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c47c9c6b6e4436ba41d9ff4494419b2|BN20130532|7.7.0.0|",
+				"addressLine": "16 Electric St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Electric St, Ottawa, ON K1M 1X4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lindenlea-New Edinburgh",
+				"postalCode": "K1M 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67972,
+					45.43941
+				]
+			},
+			"bbox": [
+				-75.6813221,
+				45.4382858,
+				-75.6781179,
+				45.4405342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Toro Rd, North York, ON M3J 2A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85f0f36405544f6290a0e30f712b5787|BN20320521|7.7.0.0|",
+				"addressLine": "150 Toro Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Toro Rd, North York, ON M3J 2A9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4834841,
+					43.7613915
+				]
+			},
+			"bbox": [
+				-79.4850406,
+				43.7602674,
+				-79.4819276,
+				43.7625157
+			]
+		}
+	]
+}

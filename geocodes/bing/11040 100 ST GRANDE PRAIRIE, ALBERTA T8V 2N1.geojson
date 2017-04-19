@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11040 100 St, Grande Prairie, AB T8V 2N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a45df0e47f8a45d5a521c0f2368438ac|BN20130721|7.7.0.0|",
+				"addressLine": "11040 100 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11040 100 St, Grande Prairie, AB T8V 2N1, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Northgate",
+				"postalCode": "T8V 2N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.7951949,
+					55.1808212
+				]
+			},
+			"bbox": [
+				-118.7971637,
+				55.179697,
+				-118.7932261,
+				55.1819453
+			]
+		}
+	]
+}

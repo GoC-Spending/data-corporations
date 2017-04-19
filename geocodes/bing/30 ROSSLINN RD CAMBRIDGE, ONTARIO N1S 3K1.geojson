@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Rosslinn Rd, Cambridge, ON N1S 3K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c0fba06e0674c2eaa9e803c2df11fa7|BN20130447|7.7.0.0|",
+				"addressLine": "30 Rosslinn Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Rosslinn Rd, Cambridge, ON N1S 3K1, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Blair Road",
+				"postalCode": "N1S 3K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.34332,
+					43.3724599
+				]
+			},
+			"bbox": [
+				-80.3448665,
+				43.3713357,
+				-80.3417735,
+				43.3735841
+			]
+		}
+	]
+}

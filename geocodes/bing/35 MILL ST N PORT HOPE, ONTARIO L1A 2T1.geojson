@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Mill St N, Port Hope, ON L1A 2T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "35acaae1f20a42e3a22f92d8a1ab5a35|BN20190642|7.7.0.0|",
+				"addressLine": "35 Mill St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Mill St N, Port Hope, ON L1A 2T1, Canada",
+				"locality": "Port Hope",
+				"postalCode": "L1A 2T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.2918399,
+					43.95199
+				]
+			},
+			"bbox": [
+				-78.2934014,
+				43.9508658,
+				-78.2902784,
+				43.9531142
+			]
+		}
+	]
+}

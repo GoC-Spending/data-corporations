@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "143 Wheeler St, Saskatoon, SK S7K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9aad5a11acd9418b8ee1e55f82609f0b|BN20131519|7.7.0.0|",
+				"addressLine": "143 Wheeler St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "143 Wheeler St, Saskatoon, SK S7K, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Marquis Industrial",
+				"postalCode": "S7K"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.62685,
+					52.19109
+				]
+			},
+			"bbox": [
+				-106.6286838,
+				52.1899658,
+				-106.6250162,
+				52.1922142
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Avenue Lindsay, Dorval, QC H9P 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa6daeb3d0114bcbbc3ae46dfa923f0d|BN20130634|7.7.0.0|",
+				"addressLine": "135 Avenue Lindsay",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Avenue Lindsay, Dorval, QC H9P 2S6, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9P 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72721,
+					45.45547
+				]
+			},
+			"bbox": [
+				-73.7288126,
+				45.4543458,
+				-73.7256074,
+				45.4565942
+			]
+		}
+	]
+}

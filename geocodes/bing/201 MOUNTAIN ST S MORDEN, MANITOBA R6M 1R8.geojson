@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "201 Mountain St S, Morden, MB R6M 1R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "902a60f291f245d982f990501c4807e7|BN20130620|7.7.0.0|",
+				"addressLine": "201 Mountain St S",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "201 Mountain St S, Morden, MB R6M 1R8, Canada",
+				"locality": "Morden",
+				"postalCode": "R6M 1R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.11304,
+					49.18686
+				]
+			},
+			"bbox": [
+				-98.11476,
+				49.1857358,
+				-98.11132,
+				49.1879842
+			]
+		}
+	]
+}

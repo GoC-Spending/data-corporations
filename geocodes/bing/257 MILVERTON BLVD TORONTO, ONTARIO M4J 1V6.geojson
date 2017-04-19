@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "257 Milverton Blvd, Toronto, ON M4J 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65d033372c8f4b1a837ae0c7a4956f81|BN20130522|7.7.0.0|",
+				"addressLine": "257 Milverton Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "257 Milverton Blvd, Toronto, ON M4J 1V6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Danforth Village-Toronto",
+				"postalCode": "M4J 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33161,
+					43.6849599
+				]
+			},
+			"bbox": [
+				-79.3331645,
+				43.6838357,
+				-79.3300555,
+				43.6860841
+			]
+		}
+	]
+}

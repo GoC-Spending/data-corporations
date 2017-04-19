@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3518 Lakeshore Rd, Burlington, ON L7N 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5d7d488f6b1419aa3c7efa353188546|BN20130520|7.7.0.0|",
+				"addressLine": "3518 Lakeshore Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3518 Lakeshore Rd, Burlington, ON L7N 1B7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Roseland",
+				"postalCode": "L7N 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76158,
+					43.3459
+				]
+			},
+			"bbox": [
+				-79.7631258,
+				43.3447758,
+				-79.7600342,
+				43.3470242
+			]
+		}
+	]
+}

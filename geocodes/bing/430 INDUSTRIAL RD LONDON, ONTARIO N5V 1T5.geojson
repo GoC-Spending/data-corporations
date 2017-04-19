@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "430 Industrial Rd, London, ON N5V 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16ca3e88fbab426eb8cfd429de29b6dd|BN20280152|7.7.0.0|",
+				"addressLine": "430 Industrial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "430 Industrial Rd, London, ON N5V 1T5, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5V 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.159,
+					43.0112
+				]
+			},
+			"bbox": [
+				-81.1605374,
+				43.0100758,
+				-81.1574626,
+				43.0123242
+			]
+		}
+	]
+}

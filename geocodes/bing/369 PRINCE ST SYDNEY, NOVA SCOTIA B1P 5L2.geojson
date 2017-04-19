@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "369 Prince St, Sydney, NS B1P 5L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aeb307a40d354395ba3af72a5c9a4e83|BN20130442|7.7.0.0|",
+				"addressLine": "369 Prince St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "369 Prince St, Sydney, NS B1P 5L2, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 5L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.18051,
+					46.14071
+				]
+			},
+			"bbox": [
+				-60.1821324,
+				46.1395858,
+				-60.1788876,
+				46.1418342
+			]
+		}
+	]
+}

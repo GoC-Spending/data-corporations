@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19388 Enterprise Way, Surrey, BC V3S 6J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62ad4d6513db412c88dc2c64e3299844|BN20130621|7.7.0.0|",
+				"addressLine": "19388 Enterprise Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19388 Enterprise Way, Surrey, BC V3S 6J9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 6J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.68581,
+					49.10951
+				]
+			},
+			"bbox": [
+				-122.6875273,
+				49.1083858,
+				-122.6840927,
+				49.1106342
+			]
+		}
+	]
+}

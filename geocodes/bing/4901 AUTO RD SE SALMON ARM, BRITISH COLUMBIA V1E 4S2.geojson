@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4901 Auto Rd SE, Salmon Arm, BC V1E 1X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb2810a6949b4a369ff5ca257a28f615|BN20130447|7.7.0.0|",
+				"addressLine": "4901 Auto Rd SE",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Columbia-Shuswap",
+				"countryRegion": "Canada",
+				"formattedAddress": "4901 Auto Rd SE, Salmon Arm, BC V1E 1X1, Canada",
+				"locality": "Salmon Arm",
+				"postalCode": "V1E 1X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.2290574,
+					50.6701113
+				]
+			},
+			"bbox": [
+				-119.2308311,
+				50.6689872,
+				-119.2272837,
+				50.6712355
+			]
+		}
+	]
+}

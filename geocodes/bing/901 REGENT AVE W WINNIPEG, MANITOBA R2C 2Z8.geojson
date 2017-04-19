@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "901 Regent Ave W, Winnipeg, MB R2C 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bd217c4cadf40da9ab6046e6dfaf472|BN20260223|7.7.0.0|",
+				"addressLine": "901 Regent Ave W",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "901 Regent Ave W, Winnipeg, MB R2C 2Z8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Regent",
+				"postalCode": "R2C 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.03033,
+					49.896
+				]
+			},
+			"bbox": [
+				-97.0320751,
+				49.8948758,
+				-97.0285849,
+				49.8971242
+			]
+		}
+	]
+}

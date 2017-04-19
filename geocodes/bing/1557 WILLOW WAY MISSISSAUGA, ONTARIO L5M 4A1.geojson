@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1557 Willow Way, Mississauga, ON L5M 4A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb3a9e1aea04434a9ba9002b9a58f82d|BN20190653|7.7.0.0|",
+				"addressLine": "1557 Willow Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1557 Willow Way, Mississauga, ON L5M 4A1, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Streetsville",
+				"postalCode": "L5M 4A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70432,
+					43.58964
+				]
+			},
+			"bbox": [
+				-79.7058721,
+				43.5885158,
+				-79.7027679,
+				43.5907642
+			]
+		}
+	]
+}

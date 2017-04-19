@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "430 Kenny Ct, Port Perry, ON L9L 1M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a1410bd9d3d4748a8a476f2811b0d60|BN20290118|7.7.0.0|",
+				"addressLine": "430 Kenny Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "430 Kenny Ct, Port Perry, ON L9L 1M8, Canada",
+				"locality": "Scugog",
+				"neighborhood": "Port Perry",
+				"postalCode": "L9L 1M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.95483,
+					44.10802
+				]
+			},
+			"bbox": [
+				-78.9563956,
+				44.1068958,
+				-78.9532644,
+				44.1091442
+			]
+		}
+	]
+}

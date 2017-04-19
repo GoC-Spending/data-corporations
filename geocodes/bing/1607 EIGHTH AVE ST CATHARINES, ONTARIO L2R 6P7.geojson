@@ -1,0 +1,79 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "St Catharines, L2R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b12334bf9ba14012a4277d48be8435be|BN20171457|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "St Catharines, L2R, Canada",
+				"locality": "St Catharines",
+				"postalCode": "L2R"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3033828735352,
+					43.1358795166016
+				]
+			},
+			"bbox": [
+				-79.3373870849609,
+				43.101879119873,
+				-79.2198333740234,
+				43.1792411804199
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "St Catharines, Lincoln, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b12334bf9ba14012a4277d48be8435be|BN20171457|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "St Catharines, Lincoln, Ontario, Canada",
+				"locality": "Lincoln",
+				"neighborhood": "St Catharines"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3169021606445,
+					43.1372985839844
+				]
+			},
+			"bbox": [
+				-79.3239596397992,
+				43.1334358664137,
+				-79.3098446814898,
+				43.1411613015551
+			]
+		}
+	]
+}

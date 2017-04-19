@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "103 2nd St, Trent Hills, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "345782c4e902475499d48a10587c9059|BN20320521|7.7.0.0|",
+				"addressLine": "103 2nd St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "103 2nd St, Trent Hills, ON K0L, Canada",
+				"locality": "Trent Hills",
+				"neighborhood": "Campbellford",
+				"postalCode": "K0L 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.79535,
+					44.30441
+				]
+			},
+			"bbox": [
+				-77.7969208,
+				44.3032858,
+				-77.7937792,
+				44.3055342
+			]
+		}
+	]
+}

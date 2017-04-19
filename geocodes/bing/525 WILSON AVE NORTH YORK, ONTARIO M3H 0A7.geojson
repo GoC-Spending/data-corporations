@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "525 Wilson Ave, North York, ON M3H 0A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27d934c9b1c641ddad0b190dd8509bbc|BN20121764|7.7.0.0|",
+				"addressLine": "525 Wilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "525 Wilson Ave, North York, ON M3H 0A7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clanton Park",
+				"postalCode": "M3H 0A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44638,
+					43.73447
+				]
+			},
+			"bbox": [
+				-79.4479358,
+				43.7333458,
+				-79.4448242,
+				43.7355942
+			]
+		}
+	]
+}

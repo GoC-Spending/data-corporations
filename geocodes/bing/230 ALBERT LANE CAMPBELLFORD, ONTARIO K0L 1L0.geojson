@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Albert Ln, Campbellford, ON K0L 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e91897b6c69045df9ae0f76aeb92508a|BN20130533|7.7.0.0|",
+				"addressLine": "230 Albert Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Albert Ln, Campbellford, ON K0L 1L0, Canada",
+				"locality": "Trent Hills",
+				"neighborhood": "Campbellford",
+				"postalCode": "K0L 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.8047707,
+					44.3019123
+				]
+			},
+			"bbox": [
+				-77.8063414,
+				44.3007881,
+				-77.8031999,
+				44.3030364
+			]
+		}
+	]
+}

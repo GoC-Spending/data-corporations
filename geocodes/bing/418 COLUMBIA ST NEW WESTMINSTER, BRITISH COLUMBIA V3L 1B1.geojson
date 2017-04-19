@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "418 Columbia St, New Westminster, BC V3L 1B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d04ca6c541a4d2193c3ce96fbce9fcf|BN20130719|7.7.0.0|",
+				"addressLine": "418 Columbia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "418 Columbia St, New Westminster, BC V3L 1B1, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Downtown New Westminster",
+				"postalCode": "V3L 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.90547,
+					49.20421
+				]
+			},
+			"bbox": [
+				-122.9071906,
+				49.2030858,
+				-122.9037494,
+				49.2053342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "503 Rideau St, Ottawa, ON K1N 5Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bb1b2737e48423fbe02749df1a3066b|BN20130631|7.7.0.0|",
+				"addressLine": "503 Rideau St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "503 Rideau St, Ottawa, ON K1N 5Z5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lower Town",
+				"postalCode": "K1N 5Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67879,
+					45.4318
+				]
+			},
+			"bbox": [
+				-75.6803919,
+				45.4306758,
+				-75.6771881,
+				45.4329242
+			]
+		}
+	]
+}

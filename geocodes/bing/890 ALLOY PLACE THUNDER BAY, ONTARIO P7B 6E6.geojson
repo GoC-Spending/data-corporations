@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "890 Alloy Pl, Thunder Bay, ON P7B 6E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65fe2ca078734826a5e251e5197f9067|BN20130625|7.7.0.0|",
+				"addressLine": "890 Alloy Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "890 Alloy Pl, Thunder Bay, ON P7B 6E6, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7B 6E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.25194,
+					48.41278
+				]
+			},
+			"bbox": [
+				-89.2536336,
+				48.4116558,
+				-89.2502464,
+				48.4139042
+			]
+		}
+	]
+}

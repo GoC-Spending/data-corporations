@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Zokol Cres, Kanata, ON K2K 2K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1485c73931b461eb0515d6c7ef2eb84|BN20130533|7.7.0.0|",
+				"addressLine": "30 Zokol Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Zokol Cres, Kanata, ON K2K 2K4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 2K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.91668,
+					45.3261899
+				]
+			},
+			"bbox": [
+				-75.9182789,
+				45.3250657,
+				-75.9150811,
+				45.3273141
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1157 40 Ave NE, Calgary, AB T2E 6M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc1462f16c5a46c8a9ec517aa76b476d|BN20260223|7.7.0.0|",
+				"addressLine": "1157 40 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1157 40 Ave NE, Calgary, AB T2E 6M9, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 6M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0354832,
+					51.0885752
+				]
+			},
+			"bbox": [
+				-114.037273,
+				51.087451,
+				-114.0336935,
+				51.0896993
+			]
+		}
+	]
+}

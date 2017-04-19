@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1317 Wellington St W, Ottawa, ON K1Y 3B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1663d87d1464407e9c32056e29bc4d02|BN20130431|7.7.0.0|",
+				"addressLine": "1317 Wellington St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1317 Wellington St W, Ottawa, ON K1Y 3B1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Island Park",
+				"postalCode": "K1Y 3B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73621,
+					45.39908
+				]
+			},
+			"bbox": [
+				-75.737811,
+				45.3979558,
+				-75.734609,
+				45.4002042
+			]
+		}
+	]
+}

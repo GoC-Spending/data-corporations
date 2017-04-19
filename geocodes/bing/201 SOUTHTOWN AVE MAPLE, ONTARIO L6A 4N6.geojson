@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "201 Southdown Ave, Maple, ON L6A 4N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "29ee6af227b049d1b8a49ae2c6e959aa|BN20130442|7.7.0.0|",
+				"addressLine": "201 Southdown Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "201 Southdown Ave, Maple, ON L6A 4N6, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 4N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46357,
+					43.86513
+				]
+			},
+			"bbox": [
+				-79.4651292,
+				43.8640058,
+				-79.4620108,
+				43.8662542
+			]
+		}
+	]
+}

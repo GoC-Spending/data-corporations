@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Province St S, Hamilton, ON L8K 2K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "169330835f3a469494d141c708ad775c|BN20171457|7.7.0.0|",
+				"addressLine": "22 Province St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Province St S, Hamilton, ON L8K 2K6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Delta East",
+				"postalCode": "L8K 2K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8165,
+					43.24083
+				]
+			},
+			"bbox": [
+				-79.8180431,
+				43.2397058,
+				-79.8149569,
+				43.2419542
+			]
+		}
+	]
+}

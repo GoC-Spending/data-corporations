@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Muskoka Ave, Etobicoke, ON M8W 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d6ffd8536c84cfba7f53081ef6d7ddb|BN20190642|7.7.0.0|",
+				"addressLine": "40 Muskoka Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Muskoka Ave, Etobicoke, ON M8W 1H8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Long Branch",
+				"postalCode": "M8W 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53496,
+					43.59123
+				]
+			},
+			"bbox": [
+				-79.5365121,
+				43.5901058,
+				-79.5334079,
+				43.5923542
+			]
+		}
+	]
+}

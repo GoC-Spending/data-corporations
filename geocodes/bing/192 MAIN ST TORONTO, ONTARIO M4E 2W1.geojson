@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "192 Main St, Toronto, ON M4E 2W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ef5636f96824fe98d2fddc368ef608f|BN20130632|7.7.0.0|",
+				"addressLine": "192 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "192 Main St, Toronto, ON M4E 2W1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "East End-Danforth",
+				"postalCode": "M4E 2W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30063,
+					43.68446
+				]
+			},
+			"bbox": [
+				-79.3021845,
+				43.6833358,
+				-79.2990755,
+				43.6855842
+			]
+		}
+	]
+}

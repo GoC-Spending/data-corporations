@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "552 Clarke Rd, Coquitlam, BC V3J 0A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dca27ddfca2f4e9ba0951f791ec627ae|BN20130719|7.7.0.0|",
+				"addressLine": "552 Clarke Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "552 Clarke Rd, Coquitlam, BC V3J 0A3, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cariboo/Burquitlam",
+				"postalCode": "V3J 0A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8900698,
+					49.2613428
+				]
+			},
+			"bbox": [
+				-122.8917924,
+				49.2602186,
+				-122.8883473,
+				49.2624669
+			]
+		}
+	]
+}

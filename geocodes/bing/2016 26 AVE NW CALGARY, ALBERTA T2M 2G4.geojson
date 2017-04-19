@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2016 26 Ave NW, Calgary, AB T2M 2G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55e8f482dd8e4d4797c105c1b6dac02d|BN20130520|7.7.0.0|",
+				"addressLine": "2016 26 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2016 26 Ave NW, Calgary, AB T2M 2G4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Banff Trail",
+				"postalCode": "T2M 2G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.11128,
+					51.07638
+				]
+			},
+			"bbox": [
+				-114.1130692,
+				51.0752558,
+				-114.1094908,
+				51.0775042
+			]
+		}
+	]
+}

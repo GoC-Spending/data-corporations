@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "651 Inverness Ave, Burlington, ON L7T 3S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99997e81305e4c2298824627a318b3df|BN20121763|7.7.0.0|",
+				"addressLine": "651 Inverness Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "651 Inverness Ave, Burlington, ON L7T 3S9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot Central",
+				"postalCode": "L7T 3S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83266,
+					43.32386
+				]
+			},
+			"bbox": [
+				-79.8342053,
+				43.3227358,
+				-79.8311147,
+				43.3249842
+			]
+		}
+	]
+}

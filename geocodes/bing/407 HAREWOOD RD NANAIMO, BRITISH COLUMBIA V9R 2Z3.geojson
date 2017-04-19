@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "407 Harewood Rd, Nanaimo, BC V9R 2Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "979eb25b23f44aad9c7389e679e49ab7|BN20320521|7.7.0.0|",
+				"addressLine": "407 Harewood Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "407 Harewood Rd, Nanaimo, BC V9R 2Z3, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 2Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.95783,
+					49.15439
+				]
+			},
+			"bbox": [
+				-123.9595488,
+				49.1532658,
+				-123.9561112,
+				49.1555142
+			]
+		}
+	]
+}

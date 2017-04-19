@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1211 Ave E N, Saskatoon, SK S7L 1T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ca53122fa1d4885bec805c59eba52a5|BN20250135|7.7.0.0|",
+				"addressLine": "1211 Ave E N",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1211 Ave E N, Saskatoon, SK S7L 1T3, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Mayfair",
+				"postalCode": "S7L 1T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.67657,
+					52.14443
+				]
+			},
+			"bbox": [
+				-106.6784018,
+				52.1433058,
+				-106.6747382,
+				52.1455542
+			]
+		}
+	]
+}

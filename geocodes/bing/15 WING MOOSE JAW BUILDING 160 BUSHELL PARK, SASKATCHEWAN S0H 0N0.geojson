@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Bushell Park, S0H 0N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a18f8070d4064aaba773a7d9fe491ae2|BN20130532|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Bushell Park, S0H 0N0, Canada",
+				"locality": "Bushell Park",
+				"postalCode": "S0H 0N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.554061889648,
+					50.3389511108398
+				]
+			},
+			"bbox": [
+				-105.562130694688,
+				50.3350883932692,
+				-105.545993084609,
+				50.3428138284105
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Moose Jaw, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a18f8070d4064aaba773a7d9fe491ae2|BN20130532|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Moose Jaw, Saskatchewan, Canada",
+				"locality": "Moose Jaw"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.537033081055,
+					50.3968887329102
+				]
+			},
+			"bbox": [
+				-105.62654876709,
+				50.3526802062988,
+				-105.466079711914,
+				50.4341812133789
+			]
+		}
+	]
+}

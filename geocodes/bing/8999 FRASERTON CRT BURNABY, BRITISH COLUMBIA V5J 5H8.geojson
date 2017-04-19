@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8999 Fraserton Ct, Burnaby, BC V5J 5H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c04e814501f472299c8b9f59e8ee233|BN20121764|7.7.0.0|",
+				"addressLine": "8999 Fraserton Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8999 Fraserton Ct, Burnaby, BC V5J 5H8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0145349,
+					49.1994304
+				]
+			},
+			"bbox": [
+				-123.0162553,
+				49.1983063,
+				-123.0128145,
+				49.2005546
+			]
+		}
+	]
+}

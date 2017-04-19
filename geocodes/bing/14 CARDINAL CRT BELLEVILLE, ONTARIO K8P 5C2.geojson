@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14 Cardinal Ct, Belleville, ON K8P 5C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90d502ff8f564f07a79969a67fea53fe|BN20200137|7.7.0.0|",
+				"addressLine": "14 Cardinal Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "14 Cardinal Ct, Belleville, ON K8P 5C2, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8P 5C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3987,
+					44.18331
+				]
+			},
+			"bbox": [
+				-77.4002676,
+				44.1821858,
+				-77.3971324,
+				44.1844342
+			]
+		}
+	]
+}

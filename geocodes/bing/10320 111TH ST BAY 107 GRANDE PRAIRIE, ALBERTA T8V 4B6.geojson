@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10320 111 St, Grande Prairie, AB T8V 3B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca1234865d814a7687098115fca46f80|BN20130423|7.7.0.0|",
+				"addressLine": "10320 111 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10320 111 St, Grande Prairie, AB T8V 3B7, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Gateway",
+				"postalCode": "T8V 3B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.83072,
+					55.17231
+				]
+			},
+			"bbox": [
+				-118.8326884,
+				55.1711858,
+				-118.8287516,
+				55.1734342
+			]
+		}
+	]
+}

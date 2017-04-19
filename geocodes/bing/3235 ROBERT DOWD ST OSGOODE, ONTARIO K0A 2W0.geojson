@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3235 Robert Dowd St, Ottawa, ON K0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "88eae4e38af8405a9eca7b92ab5bb8b2|BN20250135|7.7.0.0|",
+				"addressLine": "3235 Robert Dowd St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3235 Robert Dowd St, Ottawa, ON K0A, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Osgoode",
+				"postalCode": "K0A 2W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.60831,
+					45.14463
+				]
+			},
+			"bbox": [
+				-75.6099038,
+				45.1435058,
+				-75.6067162,
+				45.1457542
+			]
+		}
+	]
+}

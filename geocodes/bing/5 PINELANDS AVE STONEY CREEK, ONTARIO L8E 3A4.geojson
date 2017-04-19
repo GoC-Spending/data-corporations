@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Pinelands Ave, Stoney Creek, ON L8E 3A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07b14962aab7448b8d584833bde3cef6|BN20130423|7.7.0.0|",
+				"addressLine": "5 Pinelands Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Pinelands Ave, Stoney Creek, ON L8E 3A4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 3A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73573,
+					43.23704
+				]
+			},
+			"bbox": [
+				-79.7372731,
+				43.2359158,
+				-79.7341869,
+				43.2381642
+			]
+		}
+	]
+}

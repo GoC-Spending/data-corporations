@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Harlowe Rd, Hamilton, ON L8W 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6301fc0a90974a77a49ab28746382228|BN20130520|7.7.0.0|",
+				"addressLine": "21 Harlowe Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Harlowe Rd, Hamilton, ON L8W 3R5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Hannon North",
+				"postalCode": "L8W 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82235,
+					43.19209
+				]
+			},
+			"bbox": [
+				-79.8238919,
+				43.1909658,
+				-79.8208081,
+				43.1932142
+			]
+		}
+	]
+}

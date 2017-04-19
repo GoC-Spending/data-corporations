@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 Galbraith Cres, Winnipeg, MB R2Y 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1cb172758dd24cbbab84f66de2c6e9e1|BN20130533|7.7.0.0|",
+				"addressLine": "56 Galbraith Cres",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 Galbraith Cres, Winnipeg, MB R2Y 1L3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Crestview",
+				"postalCode": "R2Y 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.31245,
+					49.89487
+				]
+			},
+			"bbox": [
+				-97.3141951,
+				49.8937458,
+				-97.3107049,
+				49.8959942
+			]
+		}
+	]
+}

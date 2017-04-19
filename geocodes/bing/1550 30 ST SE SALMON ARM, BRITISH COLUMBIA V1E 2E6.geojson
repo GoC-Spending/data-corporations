@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1550 30th St SE, Salmon Arm, BC V1E 2E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c90336fa4564b768747c382cccb9014|BN20130530|7.7.0.0|",
+				"addressLine": "1550 30th St SE",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Columbia-Shuswap",
+				"countryRegion": "Canada",
+				"formattedAddress": "1550 30th St SE, Salmon Arm, BC V1E 2E6, Canada",
+				"locality": "Salmon Arm",
+				"postalCode": "V1E 2E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.2503226,
+					50.6873822
+				]
+			},
+			"bbox": [
+				-119.2520969,
+				50.686258,
+				-119.2485482,
+				50.6885063
+			]
+		}
+	]
+}

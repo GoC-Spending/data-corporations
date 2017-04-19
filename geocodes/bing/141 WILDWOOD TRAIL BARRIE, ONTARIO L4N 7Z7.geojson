@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "141 Wildwood Trl, Barrie, ON L4N 7Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ede6624381444f7a9d9aaf223df0e8c|BN20200137|7.7.0.0|",
+				"addressLine": "141 Wildwood Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "141 Wildwood Trl, Barrie, ON L4N 7Z7, Canada",
+				"locality": "Barrie",
+				"postalCode": "L4N 7Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70952,
+					44.35039
+				]
+			},
+			"bbox": [
+				-79.7110921,
+				44.3492658,
+				-79.7079479,
+				44.3515142
+			]
+		}
+	]
+}

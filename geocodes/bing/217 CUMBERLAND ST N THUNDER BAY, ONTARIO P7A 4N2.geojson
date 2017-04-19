@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "217 Cumberland St N, Thunder Bay, ON P7A 4N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc5981d191564b6a8691bc89a89cc2e7|BN20260231|7.7.0.0|",
+				"addressLine": "217 Cumberland St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "217 Cumberland St N, Thunder Bay, ON P7A 4N2, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7A 4N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.21119,
+					48.44152
+				]
+			},
+			"bbox": [
+				-89.2128846,
+				48.4403958,
+				-89.2094954,
+				48.4426442
+			]
+		}
+	]
+}

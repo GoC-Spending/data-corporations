@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "777 Fort St, Victoria, BC V8W 1G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e4d87fd11ef64ba3bf5f7befd1f3f054|BN20130423|7.7.0.0|",
+				"addressLine": "777 Fort St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "777 Fort St, Victoria, BC V8W 1G9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3632,
+					48.42412
+				]
+			},
+			"bbox": [
+				-123.364894,
+				48.4229958,
+				-123.361506,
+				48.4252442
+			]
+		}
+	]
+}

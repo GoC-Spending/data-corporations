@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "211 Centreville Rd, Stanley Parish, NB E6B 2J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f451bc65d724955a7298232d28328ed|BN20190642|7.7.0.0|",
+				"addressLine": "211 Centreville Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "211 Centreville Rd, Stanley Parish, NB E6B 2J5, Canada",
+				"locality": "Stanley Parish",
+				"postalCode": "E6B 2J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.7227285,
+					46.3414191
+				]
+			},
+			"bbox": [
+				-66.7243569,
+				46.340295,
+				-66.7211002,
+				46.3425433
+			]
+		}
+	]
+}

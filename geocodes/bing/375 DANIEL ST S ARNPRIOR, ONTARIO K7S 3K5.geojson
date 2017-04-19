@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Daniel St S, Arnprior, ON K7S 3K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c798a49ff9b84b349cf5906a4016699c|BN20130530|7.7.0.0|",
+				"addressLine": "375 Daniel St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Daniel St S, Arnprior, ON K7S 3K5, Canada",
+				"locality": "Arnprior",
+				"postalCode": "K7S 3K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.36718,
+					45.42539
+				]
+			},
+			"bbox": [
+				-76.3687817,
+				45.4242658,
+				-76.3655783,
+				45.4265142
+			]
+		}
+	]
+}

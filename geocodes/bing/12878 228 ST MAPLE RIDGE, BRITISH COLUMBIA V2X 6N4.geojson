@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12878 228 St, Maple Ridge, BC V2X 6N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0710084c26c94dcea463eebe2d99c172|BN20121762|7.7.0.0|",
+				"addressLine": "12878 228 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12878 228 St, Maple Ridge, BC V2X 6N4, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 6N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.58997,
+					49.2363799
+				]
+			},
+			"bbox": [
+				-122.5916917,
+				49.2352557,
+				-122.5882483,
+				49.2375041
+			]
+		}
+	]
+}

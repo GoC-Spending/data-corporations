@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Malcolm Rd, Guelph, ON N1K 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ebf67836be64464e81a58a7c87f14959|BN20260223|7.7.0.0|",
+				"addressLine": "31 Malcolm Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Malcolm Rd, Guelph, ON N1K 1A7, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1K 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.32082,
+					43.53831
+				]
+			},
+			"bbox": [
+				-80.3223707,
+				43.5371858,
+				-80.3192693,
+				43.5394342
+			]
+		}
+	]
+}

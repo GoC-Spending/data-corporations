@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3388 190 St, Surrey, BC V3Z 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f95192d3e60b4be09c457cb9f4410d00|BN20190642|7.7.0.0|",
+				"addressLine": "3388 190 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3388 190 St, Surrey, BC V3Z 1A7, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V3Z 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6968551,
+					49.0641033
+				]
+			},
+			"bbox": [
+				-122.6985708,
+				49.0629791,
+				-122.6951394,
+				49.0652274
+			]
+		}
+	]
+}

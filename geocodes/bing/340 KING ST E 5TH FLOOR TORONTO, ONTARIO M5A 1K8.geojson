@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 King St E, Toronto, ON M5A 1K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c53e86443324136ae7bdfc40c567474|BN20220145|7.7.0.0|",
+				"addressLine": "340 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 King St E, Toronto, ON M5A 1K8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 1K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36286,
+					43.65317
+				]
+			},
+			"bbox": [
+				-79.3644137,
+				43.6520458,
+				-79.3613063,
+				43.6542942
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2729 48 Ave SE, Calgary, AB T2B 0M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e9932da2dc14bba9e04dd4d16b4665f|BN20130520|7.7.0.0|",
+				"addressLine": "2729 48 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2729 48 Ave SE, Calgary, AB T2B 0M4, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2B 0M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.99611,
+					51.01038
+				]
+			},
+			"bbox": [
+				-113.9978967,
+				51.0092558,
+				-113.9943233,
+				51.0115042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "85 Bridge St S, Trent Hills, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "808b6128bec048a8b28c3441b590a811|BN20260223|7.7.0.0|",
+				"addressLine": "85 Bridge St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "85 Bridge St S, Trent Hills, ON K0L, Canada",
+				"locality": "Trent Hills",
+				"neighborhood": "Hastings",
+				"postalCode": "K0L 1Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.95557,
+					44.30372
+				]
+			},
+			"bbox": [
+				-77.9571408,
+				44.3025958,
+				-77.9539992,
+				44.3048442
+			]
+		}
+	]
+}

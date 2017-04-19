@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1005 Hamilton Rd, London, ON N5W 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df3af5d304c2455790fe3de340c72506|CO30275839|7.7.0.0|",
+				"addressLine": "1005 Hamilton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1005 Hamilton Rd, London, ON N5W 1A4, Canada",
+				"locality": "London",
+				"neighborhood": "Hamilton Road",
+				"postalCode": "N5W 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1897,
+					42.9767
+				]
+			},
+			"bbox": [
+				-81.1912365,
+				42.9755758,
+				-81.1881635,
+				42.9778242
+			]
+		}
+	]
+}

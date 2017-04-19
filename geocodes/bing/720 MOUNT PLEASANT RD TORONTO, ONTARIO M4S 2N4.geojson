@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "720 Mt Pleasant Rd, Toronto, ON M4S 2N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3efc0f2013b24e25b64fb0bd067cc26b|BN20121762|7.7.0.0|",
+				"addressLine": "720 Mt Pleasant Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "720 Mt Pleasant Rd, Toronto, ON M4S 2N6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant West",
+				"postalCode": "M4S 2N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38977,
+					43.70653
+				]
+			},
+			"bbox": [
+				-79.3913251,
+				43.7054058,
+				-79.3882149,
+				43.7076542
+			]
+		}
+	]
+}

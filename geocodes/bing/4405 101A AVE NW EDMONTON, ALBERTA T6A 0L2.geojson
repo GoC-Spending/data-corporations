@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4405 101A Ave NW, Edmonton, AB T6A 0L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea1cdea9502c4955b040b2edd6e39e15|BN20130631|7.7.0.0|",
+				"addressLine": "4405 101A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4405 101A Ave NW, Edmonton, AB T6A 0L2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Fulton Place",
+				"postalCode": "T6A 0L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4209479,
+					53.5420551
+				]
+			},
+			"bbox": [
+				-113.4228397,
+				53.5409309,
+				-113.4190561,
+				53.5431793
+			]
+		}
+	]
+}

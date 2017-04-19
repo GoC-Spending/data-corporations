@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Binnington Ct, Kingston, ON K7M 8R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7eab80db00c4b33ace5b8f542db4278|BN20130632|7.7.0.0|",
+				"addressLine": "200 Binnington Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Binnington Ct, Kingston, ON K7M 8R6, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Alcan",
+				"postalCode": "K7M 8R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.52933,
+					44.27172
+				]
+			},
+			"bbox": [
+				-76.5309,
+				44.2705958,
+				-76.52776,
+				44.2728442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14 Place du Commerce, Verdun, QC H3E 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "705bdd86ec354875a24e2e86a8084e8c|BN20280152|7.7.0.0|",
+				"addressLine": "14 Place du Commerce",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "14 Place du Commerce, Verdun, QC H3E 1T5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H3E 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.53971,
+					45.46911
+				]
+			},
+			"bbox": [
+				-73.541313,
+				45.4679858,
+				-73.538107,
+				45.4702342
+			]
+		}
+	]
+}

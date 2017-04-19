@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "995 Elm St, Port Colborne, ON L3K 4R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6f5875d02a748d69dc83e643cfee670|BN20190653|7.7.0.0|",
+				"addressLine": "995 Elm St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "995 Elm St, Port Colborne, ON L3K 4R8, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 4R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25382,
+					42.90929
+				]
+			},
+			"bbox": [
+				-79.2553548,
+				42.9081658,
+				-79.2522852,
+				42.9104142
+			]
+		}
+	]
+}

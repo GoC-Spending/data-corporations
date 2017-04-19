@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "710 Rue Bernard, Granby, QC J2J 0H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8571e4f46e048f093a816cdaca1339e|BN20130632|7.7.0.0|",
+				"addressLine": "710 Rue Bernard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "La Haute-Yamaska",
+				"countryRegion": "Canada",
+				"formattedAddress": "710 Rue Bernard, Granby, QC J2J 0H6, Canada",
+				"locality": "Granby",
+				"postalCode": "J2J 0H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.7772322,
+					45.3869121
+				]
+			},
+			"bbox": [
+				-72.7788329,
+				45.3857879,
+				-72.7756316,
+				45.3880362
+			]
+		}
+	]
+}

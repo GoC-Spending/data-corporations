@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Ridge Rd, Picton, ON K0K 2T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ae665cc21054efe91688108590ec8fa|BN20121762|7.7.0.0|",
+				"addressLine": "55 Ridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Ridge Rd, Picton, ON K0K 2T0, Canada",
+				"locality": "Prince Edward",
+				"neighborhood": "Picton",
+				"postalCode": "K0K 2T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.15995,
+					43.98737
+				]
+			},
+			"bbox": [
+				-77.1615124,
+				43.9862458,
+				-77.1583876,
+				43.9884942
+			]
+		}
+	]
+}

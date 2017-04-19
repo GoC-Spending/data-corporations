@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9040 22 Ave SW, Edmonton, AB T6X 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec24e8e638c34be49f64056f8b29b8cd|BN20160335|7.7.0.0|",
+				"addressLine": "9040 22 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9040 22 Ave SW, Edmonton, AB T6X 1Z6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "The Orchards at Ellerslie",
+				"postalCode": "T6X 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48026,
+					53.41393
+				]
+			},
+			"bbox": [
+				-113.4821461,
+				53.4128058,
+				-113.4783739,
+				53.4150542
+			]
+		}
+	]
+}

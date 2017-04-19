@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "61 Woodstone Ave, Richmond Hill, ON L4S 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa1a9065fab248de9c1bd9677ece7fad|BN20130521|7.7.0.0|",
+				"addressLine": "61 Woodstone Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "61 Woodstone Ave, Richmond Hill, ON L4S 1H1, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4S 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43693,
+					43.9072
+				]
+			},
+			"bbox": [
+				-79.4384903,
+				43.9060758,
+				-79.4353697,
+				43.9083242
+			]
+		}
+	]
+}

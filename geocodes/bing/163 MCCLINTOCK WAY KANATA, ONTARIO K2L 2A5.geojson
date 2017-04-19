@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "163 McClintock Way, Kanata, ON K2L 2A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3da35eeb254c4ee7880ca2b05b1924b2|BN20130522|7.7.0.0|",
+				"addressLine": "163 McClintock Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "163 McClintock Way, Kanata, ON K2L 2A5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2L 2A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8960679,
+					45.3078966
+				]
+			},
+			"bbox": [
+				-75.8976663,
+				45.3067724,
+				-75.8944695,
+				45.3090207
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2940 Laurie Ln, Coldbrook, NS B4R 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b06dcf7cf4a426ab059325e8327d3e8|BN20130631|7.7.0.0|",
+				"addressLine": "2940 Laurie Ln",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "2940 Laurie Ln, Coldbrook, NS B4R 1A3, Canada",
+				"locality": "Kings",
+				"neighborhood": "Coldbrook",
+				"postalCode": "B4R 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.57453,
+					45.07748
+				]
+			},
+			"bbox": [
+				-64.5761219,
+				45.0763558,
+				-64.5729381,
+				45.0786042
+			]
+		}
+	]
+}

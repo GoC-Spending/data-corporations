@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "558 Rochester Ave, Coquitlam, BC V3K 2T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "383227a16a104599a3c1bb7a654aef01|BN20130621|7.7.0.0|",
+				"addressLine": "558 Rochester Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "558 Rochester Ave, Coquitlam, BC V3K 2T9, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cariboo/Burquitlam",
+				"postalCode": "V3K 2T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.88838,
+					49.24518
+				]
+			},
+			"bbox": [
+				-122.890102,
+				49.2440558,
+				-122.886658,
+				49.2463042
+			]
+		}
+	]
+}

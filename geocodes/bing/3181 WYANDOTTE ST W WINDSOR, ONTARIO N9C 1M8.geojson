@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3181 Wyandotte St W, Windsor, ON N9C 1M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00a69237236e43e4929e13d34b7695f4|BN20181720|7.7.0.0|",
+				"addressLine": "3181 Wyandotte St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3181 Wyandotte St W, Windsor, ON N9C 1M8, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Sandwich",
+				"postalCode": "N9C 1M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.07069,
+					42.30087
+				]
+			},
+			"bbox": [
+				-83.0722099,
+				42.2997458,
+				-83.0691701,
+				42.3019942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1354 Baden Ave, Gloucester, ON K1T 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fac939e647f44be89bb2517e938ee282|BN20130522|7.7.0.0|",
+				"addressLine": "1354 Baden Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1354 Baden Ave, Gloucester, ON K1T 1V7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.63802,
+					45.34093
+				]
+			},
+			"bbox": [
+				-75.6396193,
+				45.3398058,
+				-75.6364207,
+				45.3420542
+			]
+		}
+	]
+}

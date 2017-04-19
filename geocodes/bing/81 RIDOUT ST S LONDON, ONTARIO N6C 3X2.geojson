@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 Ridout St S, London, ON N6C 3X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2777edbd8df94f6596a40e4b1f845581|BN20160335|7.7.0.0|",
+				"addressLine": "81 Ridout St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 Ridout St S, London, ON N6C 3X2, Canada",
+				"locality": "London",
+				"neighborhood": "South London",
+				"postalCode": "N6C 3X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2495,
+					42.9731
+				]
+			},
+			"bbox": [
+				-81.2510364,
+				42.9719758,
+				-81.2479636,
+				42.9742242
+			]
+		}
+	]
+}

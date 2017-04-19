@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Milner Ave, Scarborough, ON M1S 4S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fbfcbda7d7648199c092e3c96f8a95b|BN20260223|7.7.0.0|",
+				"addressLine": "101 Milner Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Milner Ave, Scarborough, ON M1S 4S6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 4S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24878,
+					43.78351
+				]
+			},
+			"bbox": [
+				-79.2503371,
+				43.7823858,
+				-79.2472229,
+				43.7846342
+			]
+		}
+	]
+}

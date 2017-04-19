@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "409 Weber St W, Kitchener, ON N2H 4B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee86f03880fb487bb1c892af60d69935|BN20260223|7.7.0.0|",
+				"addressLine": "409 Weber St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "409 Weber St W, Kitchener, ON N2H 4B1, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Mt Hope Huron Park",
+				"postalCode": "N2H 4B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5020399,
+					43.4622699
+				]
+			},
+			"bbox": [
+				-80.5035887,
+				43.4611457,
+				-80.5004911,
+				43.4633941
+			]
+		}
+	]
+}

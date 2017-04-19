@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "490 Okanagan Way, Kamloops, BC V2H 1G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3fa3050259b44601b3b421ef3f9ccb4b|BN20130621|7.7.0.0|",
+				"addressLine": "490 Okanagan Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "490 Okanagan Way, Kamloops, BC V2H 1G7, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "Kamloops Indian Reserve 1",
+				"postalCode": "V2H 1G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.3275289,
+					50.6952293
+				]
+			},
+			"bbox": [
+				-120.3293035,
+				50.6941051,
+				-120.3257542,
+				50.6963535
+			]
+		}
+	]
+}

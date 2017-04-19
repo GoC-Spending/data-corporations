@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2351 Palmerston Ave, West Vancouver, BC V7V 2W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad235ce7e7ee44789d2c2f634e7d4286|BN20130632|7.7.0.0|",
+				"addressLine": "2351 Palmerston Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2351 Palmerston Ave, West Vancouver, BC V7V 2W2, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Dundarave",
+				"postalCode": "V7V 2W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17676,
+					49.34142
+				]
+			},
+			"bbox": [
+				-123.1784853,
+				49.3402958,
+				-123.1750347,
+				49.3425442
+			]
+		}
+	]
+}

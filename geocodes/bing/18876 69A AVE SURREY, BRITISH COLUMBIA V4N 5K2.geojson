@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18876 69A Ave, Surrey, BC V4N 5K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53cbd19318de40ca880b49cbf4bc46a6|BN20250135|7.7.0.0|",
+				"addressLine": "18876 69A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "18876 69A Ave, Surrey, BC V4N 5K2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V4N 5K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6992407,
+					49.1290706
+				]
+			},
+			"bbox": [
+				-122.7009587,
+				49.1279464,
+				-122.6975228,
+				49.1301947
+			]
+		}
+	]
+}

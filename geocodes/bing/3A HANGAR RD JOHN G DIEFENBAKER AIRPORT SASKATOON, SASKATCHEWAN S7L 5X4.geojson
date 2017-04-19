@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Saskatoon, S7L 5X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7572e68f5844472a238ae28d965878c|BN20220145|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Saskatoon, S7L 5X4, Canada",
+				"locality": "Saskatoon",
+				"postalCode": "S7L 5X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.674446105957,
+					52.1684341430664
+				]
+			},
+			"bbox": [
+				-106.682842466704,
+				52.1645714254957,
+				-106.666049745211,
+				52.1722968606371
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Airport",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "John G Diefenbaker International Airport, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7572e68f5844472a238ae28d965878c|BN20220145|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "John G Diefenbaker International Airport, Saskatchewan, Canada",
+				"locality": "Saskatoon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.689727783203,
+					52.1699752807617
+				]
+			},
+			"bbox": [
+				-106.698124434749,
+				52.166112563191,
+				-106.681331131658,
+				52.1738379983324
+			]
+		}
+	]
+}

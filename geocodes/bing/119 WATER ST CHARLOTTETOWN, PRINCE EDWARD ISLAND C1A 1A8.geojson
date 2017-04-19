@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "119 Water St, Charlottetown, PE C1A 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ca63c88fc23493bba864dbf10949eff|BN20280152|7.7.0.0|",
+				"addressLine": "119 Water St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "119 Water St, Charlottetown, PE C1A 1A8, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12324,
+					46.23318
+				]
+			},
+			"bbox": [
+				-63.1248651,
+				46.2320558,
+				-63.1216149,
+				46.2343042
+			]
+		}
+	]
+}

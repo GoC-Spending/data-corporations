@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "169 Lake St, Pembroke, ON K8A 5L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c58e0e5032744b28479b60e4b83f7da|BN20130532|7.7.0.0|",
+				"addressLine": "169 Lake St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "169 Lake St, Pembroke, ON K8A 5L8, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8A 5L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.11754,
+					45.82637
+				]
+			},
+			"bbox": [
+				-77.1191532,
+				45.8252458,
+				-77.1159268,
+				45.8274942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2200 52e Avenue, Lachine, QC H8T 2Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba718a2814484e9b8baf70ab7351e3cc|BN20181720|7.7.0.0|",
+				"addressLine": "2200 52e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2200 52e Avenue, Lachine, QC H8T 2Y3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 2Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7207943,
+					45.4599975
+				]
+			},
+			"bbox": [
+				-73.722397,
+				45.4588734,
+				-73.7191916,
+				45.4611217
+			]
+		}
+	]
+}

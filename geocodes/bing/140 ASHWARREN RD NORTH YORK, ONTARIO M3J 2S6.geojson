@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Ashwarren Rd, North York, ON M3J 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "851c706c559549c9ab1ddf282dcc797d|BN20130632|7.7.0.0|",
+				"addressLine": "140 Ashwarren Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Ashwarren Rd, North York, ON M3J 2S6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48664,
+					43.75711
+				]
+			},
+			"bbox": [
+				-79.4881964,
+				43.7559858,
+				-79.4850836,
+				43.7582342
+			]
+		}
+	]
+}

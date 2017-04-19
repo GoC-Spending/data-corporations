@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 New St, Petawawa, ON K8H 2H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b25d63edbef341e1937aad3909186ac7|BN20240423|7.7.0.0|",
+				"addressLine": "8 New St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 New St, Petawawa, ON K8H 2H6, Canada",
+				"locality": "Petawawa",
+				"postalCode": "K8H 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.25538,
+					45.8818399
+				]
+			},
+			"bbox": [
+				-77.2569948,
+				45.8807157,
+				-77.2537652,
+				45.8829641
+			]
+		}
+	]
+}

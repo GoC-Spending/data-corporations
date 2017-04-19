@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 George St, Oakville, ON L6J 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73ffbb09df34475c9f7c7ea1d322e234|BN20130533|7.7.0.0|",
+				"addressLine": "115 George St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 George St, Oakville, ON L6J 0A2, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Old Oakville",
+				"postalCode": "L6J 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.66864,
+					43.44616
+				]
+			},
+			"bbox": [
+				-79.6701884,
+				43.4450358,
+				-79.6670916,
+				43.4472842
+			]
+		}
+	]
+}

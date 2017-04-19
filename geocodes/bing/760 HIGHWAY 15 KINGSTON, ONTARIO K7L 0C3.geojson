@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "760 CR-15, Kingston, ON K7K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a5614496bf34ae2ab051b7dc05c0c7b|BN20220145|7.7.0.0|",
+				"addressLine": "760 CR-15",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "760 CR-15, Kingston, ON K7K, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Cataraqui River East",
+				"postalCode": "K7K"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.4608342,
+					44.2522917
+				]
+			},
+			"bbox": [
+				-76.4624036,
+				44.2511675,
+				-76.4592647,
+				44.2534158
+			]
+		}
+	]
+}

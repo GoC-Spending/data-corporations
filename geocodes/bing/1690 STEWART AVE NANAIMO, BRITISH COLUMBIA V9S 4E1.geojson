@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1690 Stewart Ave, Nanaimo, BC V9S 4E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0efe9ab42f054109adc93c449f70425f|BN20130423|7.7.0.0|",
+				"addressLine": "1690 Stewart Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1690 Stewart Ave, Nanaimo, BC V9S 4E1, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9S 4E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.94968,
+					49.18807
+				]
+			},
+			"bbox": [
+				-123.9514,
+				49.1869458,
+				-123.94796,
+				49.1891942
+			]
+		}
+	]
+}

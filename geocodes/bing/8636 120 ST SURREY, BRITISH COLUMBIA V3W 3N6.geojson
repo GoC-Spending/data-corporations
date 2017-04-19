@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8636 120 St, Surrey, BC V3W 3N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d4adc19cb2b402fb95b781e908bdacf|BN20130442|7.7.0.0|",
+				"addressLine": "8636 120 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8636 120 St, Surrey, BC V3W 3N6, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 3N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8901551,
+					49.1606463
+				]
+			},
+			"bbox": [
+				-122.8918741,
+				49.1595221,
+				-122.888436,
+				49.1617704
+			]
+		}
+	]
+}

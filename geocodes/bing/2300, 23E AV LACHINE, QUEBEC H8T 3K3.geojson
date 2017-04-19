@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2300 23e Avenue, Lachine, QC H8T 0A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "837c585b6bcf492fa197d9061b2c75ad|BN20200239|7.7.0.0|",
+				"addressLine": "2300 23e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2300 23e Avenue, Lachine, QC H8T 0A3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 0A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.70736,
+					45.47128
+				]
+			},
+			"bbox": [
+				-73.708963,
+				45.4701558,
+				-73.705757,
+				45.4724042
+			]
+		}
+	]
+}

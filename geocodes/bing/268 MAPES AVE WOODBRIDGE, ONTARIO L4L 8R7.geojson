@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "268 Mapes Ave, Woodbridge, ON L4L 8R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90107e95a1e441ccb9ef7cffa15452cd|BN20130431|7.7.0.0|",
+				"addressLine": "268 Mapes Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "268 Mapes Ave, Woodbridge, ON L4L 8R7, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 8R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61637,
+					43.7836799
+				]
+			},
+			"bbox": [
+				-79.6179271,
+				43.7825557,
+				-79.6148129,
+				43.7848041
+			]
+		}
+	]
+}

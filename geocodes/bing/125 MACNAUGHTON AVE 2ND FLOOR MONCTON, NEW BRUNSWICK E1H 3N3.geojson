@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 MacNaughton Ave, Moncton, NB E1H 3N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb276f1c5f6940838e562d3502517e15|BN20121764|7.7.0.0|",
+				"addressLine": "125 MacNaughton Ave",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 MacNaughton Ave, Moncton, NB E1H 3N3, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1H 3N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7373,
+					46.12962
+				]
+			},
+			"bbox": [
+				-64.7389221,
+				46.1284958,
+				-64.7356779,
+				46.1307442
+			]
+		}
+	]
+}

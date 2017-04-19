@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "850 Avenue Munck, Laval, QC H7S 1B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1b24fe8b16e4d5591acb3dc201c9e01|BN20131519|7.7.0.0|",
+				"addressLine": "850 Avenue Munck",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "850 Avenue Munck, Laval, QC H7S 1B1, Canada",
+				"locality": "Laval",
+				"postalCode": "H7S 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72633,
+					45.5804199
+				]
+			},
+			"bbox": [
+				-73.7279361,
+				45.5792957,
+				-73.7247239,
+				45.5815441
+			]
+		}
+	]
+}

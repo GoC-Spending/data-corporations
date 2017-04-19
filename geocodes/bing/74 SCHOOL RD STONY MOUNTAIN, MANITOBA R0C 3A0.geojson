@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "74 School Rd, Rockwood, MB R0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "800e19ac53304b63b225e8c2df483317|BN20181720|7.7.0.0|",
+				"addressLine": "74 School Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "74 School Rd, Rockwood, MB R0C, Canada",
+				"locality": "Rockwood",
+				"neighborhood": "Stony Mountain",
+				"postalCode": "R0C 3A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2217741,
+					50.0860589
+				]
+			},
+			"bbox": [
+				-97.2235262,
+				50.0849347,
+				-97.2200221,
+				50.087183
+			]
+		}
+	]
+}

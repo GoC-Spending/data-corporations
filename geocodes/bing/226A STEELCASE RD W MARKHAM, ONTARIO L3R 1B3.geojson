@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "226 Steelcase Rd W, Markham, ON L3R 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b2c89b111fe448c1a87f644dce094676|BN20131519|7.7.0.0|",
+				"addressLine": "226 Steelcase Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "226 Steelcase Rd W, Markham, ON L3R 1B3, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35818,
+					43.82141
+				]
+			},
+			"bbox": [
+				-79.3597381,
+				43.8202858,
+				-79.3566219,
+				43.8225342
+			]
+		}
+	]
+}

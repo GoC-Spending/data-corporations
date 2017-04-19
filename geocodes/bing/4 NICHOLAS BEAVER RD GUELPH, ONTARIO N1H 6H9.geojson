@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Nicholas Beaver Rd, Puslinch, ON N1H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "499350cad9b04a36afebd5a39b25cc2e|BN20130521|7.7.0.0|",
+				"addressLine": "4 Nicholas Beaver Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Nicholas Beaver Rd, Puslinch, ON N1H, Canada",
+				"locality": "Puslinch",
+				"neighborhood": "Guelph",
+				"postalCode": "N1H 6H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.13105,
+					43.45899
+				]
+			},
+			"bbox": [
+				-80.1325987,
+				43.4578658,
+				-80.1295013,
+				43.4601142
+			]
+		}
+	]
+}

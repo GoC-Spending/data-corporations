@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Homewood Ave, Toronto, ON M4Y 2K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d171b7fdaacb4ea4884f134ed614fdfd|BN20200137|7.7.0.0|",
+				"addressLine": "51 Homewood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Homewood Ave, Toronto, ON M4Y 2K1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Cabbagetown-South St James Town",
+				"postalCode": "M4Y 2K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37476,
+					43.66475
+				]
+			},
+			"bbox": [
+				-79.376314,
+				43.6636258,
+				-79.373206,
+				43.6658742
+			]
+		}
+	]
+}

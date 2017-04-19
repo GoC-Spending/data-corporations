@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "243 Queen St W, Toronto, ON M5V 1Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93383427b30f45528360d9da4755e893|BN20250135|7.7.0.0|",
+				"addressLine": "243 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "243 Queen St W, Toronto, ON M5V 1Z4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38845,
+					43.65012
+				]
+			},
+			"bbox": [
+				-79.3900036,
+				43.6489958,
+				-79.3868964,
+				43.6512442
+			]
+		}
+	]
+}

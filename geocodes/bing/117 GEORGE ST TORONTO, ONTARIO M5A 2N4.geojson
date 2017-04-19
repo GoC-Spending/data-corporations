@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "117 George St, Toronto, ON M5A 2N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1325f8f016c646eca992ce8d5abfa1cb|BN20131519|7.7.0.0|",
+				"addressLine": "117 George St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "117 George St, Toronto, ON M5A 2N4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 2N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37115,
+					43.6525
+				]
+			},
+			"bbox": [
+				-79.3727037,
+				43.6513758,
+				-79.3695963,
+				43.6536242
+			]
+		}
+	]
+}

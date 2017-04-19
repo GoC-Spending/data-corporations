@@ -1,0 +1,79 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Cambridge, N1R 5S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3610b74c5e54b938289df5f7ca74d71|BN20130522|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Cambridge, N1R 5S3, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 5S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3430709838867,
+					43.371166229248
+				]
+			},
+			"bbox": [
+				-80.3501556144197,
+				43.3673035116774,
+				-80.3359863533537,
+				43.3750289468187
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Cambridge, North Dumfries, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3610b74c5e54b938289df5f7ca74d71|BN20130522|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Cambridge, North Dumfries, Ontario, Canada",
+				"locality": "North Dumfries",
+				"neighborhood": "Cambridge"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.320198059082,
+					43.3157997131348
+				]
+			},
+			"bbox": [
+				-80.3272762321983,
+				43.3119369955641,
+				-80.3131198859657,
+				43.3196624307054
+			]
+		}
+	]
+}

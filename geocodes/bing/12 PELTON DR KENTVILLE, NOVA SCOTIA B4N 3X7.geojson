@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Pelton Dr, Kentville, NS B4N 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "11bfcaf8f65542fbbe0af5a2fefe999f|BN20130422|7.7.0.0|",
+				"addressLine": "12 Pelton Dr",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Pelton Dr, Kentville, NS B4N 3V7, Canada",
+				"locality": "Kentville",
+				"postalCode": "B4N 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.54741,
+					45.06958
+				]
+			},
+			"bbox": [
+				-64.5490017,
+				45.0684558,
+				-64.5458183,
+				45.0707042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Edinburgh Rd N, Guelph, ON N1H 7J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e4ac24beabe47729e6fa5d7c9b4df60|BN20260231|7.7.0.0|",
+				"addressLine": "30 Edinburgh Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Edinburgh Rd N, Guelph, ON N1H 7J1, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Waterloo/West Acres",
+				"postalCode": "N1H 7J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25946,
+					43.53802
+				]
+			},
+			"bbox": [
+				-80.2610107,
+				43.5368958,
+				-80.2579093,
+				43.5391442
+			]
+		}
+	]
+}

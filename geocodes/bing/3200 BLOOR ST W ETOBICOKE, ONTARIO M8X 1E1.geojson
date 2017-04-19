@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3200 Bloor St W, Etobicoke, ON M8X 1E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf0516b842c24fe99f100241b281dc43|BN20130431|7.7.0.0|",
+				"addressLine": "3200 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3200 Bloor St W, Etobicoke, ON M8X 1E1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kingsway South",
+				"postalCode": "M8X 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.51606,
+					43.64676
+				]
+			},
+			"bbox": [
+				-79.5176135,
+				43.6456358,
+				-79.5145065,
+				43.6478842
+			]
+		}
+	]
+}

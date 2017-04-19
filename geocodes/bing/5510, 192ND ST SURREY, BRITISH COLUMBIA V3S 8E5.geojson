@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5510 192 St, Surrey, BC V3S 8E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6ea5e1ff89c4dfd93ff8f5da456384e|BN20160335|7.7.0.0|",
+				"addressLine": "5510 192 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5510 192 St, Surrey, BC V3S 8E5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 8E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.69083,
+					49.10275
+				]
+			},
+			"bbox": [
+				-122.692547,
+				49.1016258,
+				-122.689113,
+				49.1038742
+			]
+		}
+	]
+}

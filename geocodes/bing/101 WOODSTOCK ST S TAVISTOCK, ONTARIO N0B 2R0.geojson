@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Woodstock St S, Tavistock, ON N0B 2R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e660281fef14f4cb5e807c725837ebd|BN20130447|7.7.0.0|",
+				"addressLine": "101 Woodstock St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Woodstock St S, Tavistock, ON N0B 2R0, Canada",
+				"locality": "East Zorra-Tavistock",
+				"neighborhood": "Tavistock",
+				"postalCode": "N0B 2R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.8382513,
+					43.3185803
+				]
+			},
+			"bbox": [
+				-80.8397964,
+				43.3174562,
+				-80.8367062,
+				43.3197045
+			]
+		}
+	]
+}

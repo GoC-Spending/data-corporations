@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20460 Duncan Way, Langley, BC V3A 7A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0932b6b68d2c4dbca2a34ef297dabc86|BN20130431|7.7.0.0|",
+				"addressLine": "20460 Duncan Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "20460 Duncan Way, Langley, BC V3A 7A3, Canada",
+				"locality": "Langley",
+				"neighborhood": "Douglas",
+				"postalCode": "V3A 7A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6563693,
+					49.1110951
+				]
+			},
+			"bbox": [
+				-122.6580866,
+				49.1099709,
+				-122.654652,
+				49.1122192
+			]
+		}
+	]
+}

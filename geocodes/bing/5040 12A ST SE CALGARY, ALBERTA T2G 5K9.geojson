@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5040 12A St SE, Calgary, AB T2G 5K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "faa62575752d4a168f2f9f9e0e07ecff|BN20190653|7.7.0.0|",
+				"addressLine": "5040 12A St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5040 12A St SE, Calgary, AB T2G 5K9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2G 5K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.03534,
+					51.00819
+				]
+			},
+			"bbox": [
+				-114.0371266,
+				51.0070658,
+				-114.0335534,
+				51.0093142
+			]
+		}
+	]
+}

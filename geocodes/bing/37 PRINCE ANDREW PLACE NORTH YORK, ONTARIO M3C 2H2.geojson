@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Prince Andrew Pl, North York, ON M3C 2H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9185d70f4b747aeb6be81884e4b2326|BN20171457|7.7.0.0|",
+				"addressLine": "37 Prince Andrew Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Prince Andrew Pl, North York, ON M3C 2H2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3C 2H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34497,
+					43.7278
+				]
+			},
+			"bbox": [
+				-79.3465256,
+				43.7266758,
+				-79.3434144,
+				43.7289242
+			]
+		}
+	]
+}

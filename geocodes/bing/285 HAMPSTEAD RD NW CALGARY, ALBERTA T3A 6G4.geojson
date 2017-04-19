@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "285 Hampstead Rd NW, Calgary, AB T3A 6G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "773da08016cc4187ba168dd129c05ee5|BN20240423|7.7.0.0|",
+				"addressLine": "285 Hampstead Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "285 Hampstead Rd NW, Calgary, AB T3A 6G4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Hamptons",
+				"postalCode": "T3A 6G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.13578,
+					51.14165
+				]
+			},
+			"bbox": [
+				-114.1375718,
+				51.1405258,
+				-114.1339882,
+				51.1427742
+			]
+		}
+	]
+}

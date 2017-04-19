@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "940 Century St, Winnipeg, MB R3H 0V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a3e7463c45640dbb7548071489aa41e|BN20130423|7.7.0.0|",
+				"addressLine": "940 Century St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "940 Century St, Winnipeg, MB R3H 0V7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2031862,
+					49.9067939
+				]
+			},
+			"bbox": [
+				-97.2049317,
+				49.9056697,
+				-97.2014407,
+				49.907918
+			]
+		}
+	]
+}

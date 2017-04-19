@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Beaconsfield Ave, Toronto, ON M6J 3J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba7462aa8cd14654add9778a64a66861|BN20130621|7.7.0.0|",
+				"addressLine": "130 Beaconsfield Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Beaconsfield Ave, Toronto, ON M6J 3J6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Little Portugal",
+				"postalCode": "M6J 3J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42774,
+					43.64804
+				]
+			},
+			"bbox": [
+				-79.4292936,
+				43.6469158,
+				-79.4261864,
+				43.6491642
+			]
+		}
+	]
+}

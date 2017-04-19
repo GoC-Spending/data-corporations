@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5250 Finch Ave E, Scarborough, ON M1S 5A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cba63e81da354ed7883deb5448b6ef60|BN20130719|7.7.0.0|",
+				"addressLine": "5250 Finch Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5250 Finch Ave E, Scarborough, ON M1S 5A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1S 5A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25385,
+					43.81133
+				]
+			},
+			"bbox": [
+				-79.2554078,
+				43.8102058,
+				-79.2522922,
+				43.8124542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "155 Hedgedale Rd, Brampton, ON L6T 5P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f297e7e5fb6844828b7f7407657c75dc|BN20130631|7.7.0.0|",
+				"addressLine": "155 Hedgedale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "155 Hedgedale Rd, Brampton, ON L6T 5P3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 5P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70648,
+					43.68664
+				]
+			},
+			"bbox": [
+				-79.7080346,
+				43.6855158,
+				-79.7049254,
+				43.6877642
+			]
+		}
+	]
+}

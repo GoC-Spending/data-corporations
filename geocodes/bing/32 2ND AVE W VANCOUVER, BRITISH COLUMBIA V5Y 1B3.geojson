@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 W 2nd Ave, Vancouver, BC V5Y 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23aee51499fd42df9f497042bc96a082|BN20130625|7.7.0.0|",
+				"addressLine": "32 W 2nd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 W 2nd Ave, Vancouver, BC V5Y 1B3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1057828,
+					49.2691431
+				]
+			},
+			"bbox": [
+				-123.1075057,
+				49.268019,
+				-123.10406,
+				49.2702673
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1072 Doran Rd, Pembroke, ON K8A 6W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc8748ed420249f386cb3aa6134a4c85|BN20130631|7.7.0.0|",
+				"addressLine": "1072 Doran Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "1072 Doran Rd, Pembroke, ON K8A 6W7, Canada",
+				"locality": "Petawawa",
+				"neighborhood": "Pembroke",
+				"postalCode": "K8A 6W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.2536499,
+					45.84639
+				]
+			},
+			"bbox": [
+				-77.2552637,
+				45.8452658,
+				-77.2520361,
+				45.8475142
+			]
+		}
+	]
+}

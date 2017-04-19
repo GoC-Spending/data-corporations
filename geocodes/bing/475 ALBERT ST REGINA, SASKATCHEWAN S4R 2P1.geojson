@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "475 Albert St, Regina, SK S4R 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30b8806c18404ed68210d305a74ecd58|BN20160335|7.7.0.0|",
+				"addressLine": "475 Albert St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "475 Albert St, Regina, SK S4R 2P1, Canada",
+				"locality": "Regina",
+				"neighborhood": "Northeast Regina",
+				"postalCode": "S4R 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.61763,
+					50.47124
+				]
+			},
+			"bbox": [
+				-104.6193962,
+				50.4701158,
+				-104.6158638,
+				50.4723642
+			]
+		}
+	]
+}

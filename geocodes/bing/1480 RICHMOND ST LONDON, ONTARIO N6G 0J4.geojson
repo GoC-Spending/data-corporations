@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1480 Richmond St, London, ON N6G 0J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "948ee9976ef44dbf840ff094f28f1705|CO30323811|7.7.0.0|",
+				"addressLine": "1480 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1480 Richmond St, London, ON N6G 0J4, Canada",
+				"locality": "London",
+				"neighborhood": "Masonville",
+				"postalCode": "N6G 0J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2705299,
+					43.0156133
+				]
+			},
+			"bbox": [
+				-81.2720674,
+				43.0144892,
+				-81.2689924,
+				43.0167375
+			]
+		}
+	]
+}

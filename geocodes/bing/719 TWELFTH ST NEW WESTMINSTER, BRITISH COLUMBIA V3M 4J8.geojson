@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "719 12th St, New Westminster, BC V3M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf24e53f550f4b27b6eb4a12655f2ac9|BN20130632|7.7.0.0|",
+				"addressLine": "719 12th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "719 12th St, New Westminster, BC V3M, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Kelvin",
+				"postalCode": "V3M 4J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.93308,
+					49.21003
+				]
+			},
+			"bbox": [
+				-122.9348008,
+				49.2089058,
+				-122.9313592,
+				49.2111542
+			]
+		}
+	]
+}

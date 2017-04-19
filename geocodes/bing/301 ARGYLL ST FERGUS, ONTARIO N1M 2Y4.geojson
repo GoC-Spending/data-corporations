@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "301 Argyll St, Fergus, ON N1M 2Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d34af765c1c41e5bb28403dbfa8c126|BN20130431|7.7.0.0|",
+				"addressLine": "301 Argyll St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "301 Argyll St, Fergus, ON N1M 2Y4, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 2Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.36827,
+					43.70396
+				]
+			},
+			"bbox": [
+				-80.369825,
+				43.7028358,
+				-80.366715,
+				43.7050842
+			]
+		}
+	]
+}

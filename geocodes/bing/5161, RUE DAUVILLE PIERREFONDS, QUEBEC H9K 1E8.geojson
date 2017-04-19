@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5161 Rue Dauville, Pierrefonds, QC H9K 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab0b05622b214a20930d02099c5d115f|BN20130520|7.7.0.0|",
+				"addressLine": "5161 Rue Dauville",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "5161 Rue Dauville, Pierrefonds, QC H9K 1E8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H9K 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8950799,
+					45.46587
+				]
+			},
+			"bbox": [
+				-73.8966828,
+				45.4647458,
+				-73.893477,
+				45.4669942
+			]
+		}
+	]
+}

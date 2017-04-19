@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "347 5th St W, North Vancouver, BC V7M 1K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac823379eb5243e79541bff1d281aaab|BN20130634|7.7.0.0|",
+				"addressLine": "347 5th St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "347 5th St W, North Vancouver, BC V7M 1K2, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7M 1K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0828012,
+					49.3181909
+				]
+			},
+			"bbox": [
+				-123.0845257,
+				49.3170667,
+				-123.0810767,
+				49.319315
+			]
+		}
+	]
+}

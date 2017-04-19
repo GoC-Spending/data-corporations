@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2661 Lillooet St, Vancouver, BC V5M 4P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "57b45790e6d04af89cb90d9bdd15c71f|BN20130521|7.7.0.0|",
+				"addressLine": "2661 Lillooet St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2661 Lillooet St, Vancouver, BC V5M 4P7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5M 4P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0381509,
+					49.2604036
+				]
+			},
+			"bbox": [
+				-123.0398734,
+				49.2592795,
+				-123.0364284,
+				49.2615278
+			]
+		}
+	]
+}

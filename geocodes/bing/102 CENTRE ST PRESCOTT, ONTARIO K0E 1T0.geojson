@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "102 Centre St, Prescott, ON K0E 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4545428fd61f49399440ed2099f8e9de|BN20240253|7.7.0.0|",
+				"addressLine": "102 Centre St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 Centre St, Prescott, ON K0E 1N0, Canada",
+				"locality": "Prescott",
+				"postalCode": "K0E 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.5138599,
+					44.70924
+				]
+			},
+			"bbox": [
+				-75.5154417,
+				44.7081158,
+				-75.5122781,
+				44.7103642
+			]
+		}
+	]
+}

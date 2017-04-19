@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3608 69 Ave NW, Edmonton, AB T6B 2V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e4a685da81d48b38897c4337f8bba79|BN20181720|7.7.0.0|",
+				"addressLine": "3608 69 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3608 69 Ave NW, Edmonton, AB T6B 2V2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Pylypow Industrial",
+				"postalCode": "T6B 2V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.39785,
+					53.50658
+				]
+			},
+			"bbox": [
+				-113.3997402,
+				53.5054558,
+				-113.3959598,
+				53.5077042
+			]
+		}
+	]
+}

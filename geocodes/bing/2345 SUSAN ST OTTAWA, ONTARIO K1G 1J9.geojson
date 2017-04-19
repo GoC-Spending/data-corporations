@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2345 Susan St, Ottawa, ON K1G 1J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1fa32b3c32d24aed9628e083d77a3df3|BN20130620|7.7.0.0|",
+				"addressLine": "2345 Susan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2345 Susan St, Ottawa, ON K1G 1J9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hawthorne Meadows-Sheffield Glen",
+				"postalCode": "K1G 1J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61615,
+					45.39145
+				]
+			},
+			"bbox": [
+				-75.6177508,
+				45.3903258,
+				-75.6145492,
+				45.3925742
+			]
+		}
+	]
+}

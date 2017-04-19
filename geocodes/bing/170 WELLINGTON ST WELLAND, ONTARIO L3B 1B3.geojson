@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 Wellington St, Welland, ON L3B 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb11a6fdbe6c4626809a4dd7f5188de4|BN20130423|7.7.0.0|",
+				"addressLine": "170 Wellington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 Wellington St, Welland, ON L3B 1B3, Canada",
+				"locality": "Welland",
+				"postalCode": "L3B 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22368,
+					42.987
+				]
+			},
+			"bbox": [
+				-79.2252168,
+				42.9858758,
+				-79.2221432,
+				42.9881242
+			]
+		}
+	]
+}

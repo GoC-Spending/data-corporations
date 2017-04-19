@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "93 Rue Wellington N, Sherbrooke, QC J1H 5B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad34dd48bd8c4593872fe9182abe8197|BN20260223|7.7.0.0|",
+				"addressLine": "93 Rue Wellington N",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "93 Rue Wellington N, Sherbrooke, QC J1H 5B6, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1H 5B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.89155,
+					45.40285
+				]
+			},
+			"bbox": [
+				-71.8931511,
+				45.4017258,
+				-71.8899489,
+				45.4039742
+			]
+		}
+	]
+}

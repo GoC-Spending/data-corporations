@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Quebec St, Regina, SK S4R 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bfefa34a6c0e467284e31d47b047dcf3|BN20260223|7.7.0.0|",
+				"addressLine": "375 Quebec St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Quebec St, Regina, SK S4R 1K5, Canada",
+				"locality": "Regina",
+				"neighborhood": "Northeast Regina",
+				"postalCode": "S4R 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.5961251,
+					50.4728011
+				]
+			},
+			"bbox": [
+				-104.5978914,
+				50.4716769,
+				-104.5943588,
+				50.4739252
+			]
+		}
+	]
+}

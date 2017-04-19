@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11003 85 Ave NW, Edmonton, AB T6G 0W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "96737f99e6624ffe8f9d22f882c57700|BN20300154|7.7.0.0|",
+				"addressLine": "11003 85 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11003 85 Ave NW, Edmonton, AB T6G 0W5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Garneau",
+				"postalCode": "T6G 0W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51529,
+					53.52073
+				]
+			},
+			"bbox": [
+				-113.5171808,
+				53.5196058,
+				-113.5133992,
+				53.5218542
+			]
+		}
+	]
+}

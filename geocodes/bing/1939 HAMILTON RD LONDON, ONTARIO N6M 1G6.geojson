@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1939 Hamilton Rd, London, ON N6M 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd00ccf277b6472d895d7975111f4d14|BN20200239|7.7.0.0|",
+				"addressLine": "1939 Hamilton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1939 Hamilton Rd, London, ON N6M 1G6, Canada",
+				"locality": "London",
+				"neighborhood": "Old Victoria",
+				"postalCode": "N6M 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1334,
+					42.9649
+				]
+			},
+			"bbox": [
+				-81.1349362,
+				42.9637758,
+				-81.1318638,
+				42.9660242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2056 Valley Run Blvd, London, ON N6G 5M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c41cabb12f5746fca8759fde3d873c66|BN20320521|7.7.0.0|",
+				"addressLine": "2056 Valley Run Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2056 Valley Run Blvd, London, ON N6G 5M8, Canada",
+				"locality": "London",
+				"neighborhood": "Sunningdale",
+				"postalCode": "N6G 5M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3028999,
+					43.0272999
+				]
+			},
+			"bbox": [
+				-81.3044377,
+				43.0261757,
+				-81.3013621,
+				43.0284241
+			]
+		}
+	]
+}

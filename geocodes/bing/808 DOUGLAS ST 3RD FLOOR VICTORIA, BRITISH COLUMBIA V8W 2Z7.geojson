@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "808 Douglas St, Victoria, BC V8W 2Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0070603f799644a78ae5a88791ce063a|BN20130442|7.7.0.0|",
+				"addressLine": "808 Douglas St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "808 Douglas St, Victoria, BC V8W 2Z7, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 2Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36627,
+					48.42244
+				]
+			},
+			"bbox": [
+				-123.3679639,
+				48.4213158,
+				-123.3645761,
+				48.4235642
+			]
+		}
+	]
+}

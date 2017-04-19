@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "321 Ave P S, Saskatoon, SK S7M 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ace3b3b78fe4d90b48f892e52e8741b|BN20190642|7.7.0.0|",
+				"addressLine": "321 Ave P S",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "321 Ave P S, Saskatoon, SK S7M 2W3, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Pleasant Hill",
+				"postalCode": "S7M 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.69467,
+					52.12524
+				]
+			},
+			"bbox": [
+				-106.6965011,
+				52.1241158,
+				-106.6928389,
+				52.1263642
+			]
+		}
+	]
+}

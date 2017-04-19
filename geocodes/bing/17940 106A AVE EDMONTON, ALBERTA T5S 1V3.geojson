@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17940 106A Ave NW, Edmonton, AB T5S 1V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75c9a2ee5eaa4532b3accbc70c31b951|BN20130431|7.7.0.0|",
+				"addressLine": "17940 106A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17940 106A Ave NW, Edmonton, AB T5S 1V3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Wilson Industrial",
+				"postalCode": "T5S 1V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.63231,
+					53.55188
+				]
+			},
+			"bbox": [
+				-113.6342022,
+				53.5507558,
+				-113.6304178,
+				53.5530042
+			]
+		}
+	]
+}

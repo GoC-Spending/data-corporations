@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Wellington St, Sioux Lookout, ON P8T 1E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83a01c29871541b0acb6a537e72fe010|BN20130522|7.7.0.0|",
+				"addressLine": "15 Wellington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kenora",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Wellington St, Sioux Lookout, ON P8T 1E3, Canada",
+				"locality": "Sioux Lookout",
+				"postalCode": "P8T 1E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-91.9106479,
+					50.0930401
+				]
+			},
+			"bbox": [
+				-91.9124002,
+				50.0919159,
+				-91.9088957,
+				50.0941642
+			]
+		}
+	]
+}

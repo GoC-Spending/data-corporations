@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "420 York St, London, ON N6B 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d00d88d0611e4d948763ad4ba10e9827|BN20130625|7.7.0.0|",
+				"addressLine": "420 York St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "420 York St, London, ON N6B 1R1, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.23764,
+					42.98476
+				]
+			},
+			"bbox": [
+				-81.2391767,
+				42.9836358,
+				-81.2361033,
+				42.9858842
+			]
+		}
+	]
+}

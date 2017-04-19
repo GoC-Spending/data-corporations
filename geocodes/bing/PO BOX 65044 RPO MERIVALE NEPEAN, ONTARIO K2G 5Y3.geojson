@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Nepean, Ottawa, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30fb0f88757f4651a05bfc7e43a0e0ba|BN20280152|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Nepean, Ottawa, Ontario, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7643432617188,
+					45.3442993164063
+				]
+			},
+			"bbox": [
+				-75.8487777709961,
+				45.309398651123,
+				-75.7643356323242,
+				45.3442993164063
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Merivale, Christchurch, Canterbury, New Zealand",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30fb0f88757f4651a05bfc7e43a0e0ba|BN20280152|7.7.0.0|",
+				"adminDistrict": "Canterbury",
+				"countryRegion": "New Zealand",
+				"formattedAddress": "Merivale, Christchurch, Canterbury, New Zealand",
+				"locality": "Christchurch",
+				"neighborhood": "Merivale"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.621887207031,
+					-43.512279510498
+				]
+			},
+			"bbox": [
+				172.601196289063,
+				-43.5239791870117,
+				172.627975463867,
+				-43.5105209350586
+			]
+		}
+	]
+}

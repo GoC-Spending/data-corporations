@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3258 Marentette Ave, Windsor, ON N8X 4G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9be6f949ca6141208b76ab8c40d3b374|BN20130719|7.7.0.0|",
+				"addressLine": "3258 Marentette Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3258 Marentette Ave, Windsor, ON N8X 4G4, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Devonshire",
+				"postalCode": "N8X 4G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.99642,
+					42.27343
+				]
+			},
+			"bbox": [
+				-82.9979392,
+				42.2723058,
+				-82.9949008,
+				42.2745542
+			]
+		}
+	]
+}

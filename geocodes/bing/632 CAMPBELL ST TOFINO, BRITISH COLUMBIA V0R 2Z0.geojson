@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "632 Campbell St, Tofino, BC V0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "34de83d7fbfb472da97dc194d1f775d1|BN20121763|7.7.0.0|",
+				"addressLine": "632 Campbell St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Alberni-Clayoquot",
+				"countryRegion": "Canada",
+				"formattedAddress": "632 Campbell St, Tofino, BC V0R, Canada",
+				"locality": "Tofino",
+				"postalCode": "V0R 2Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.8958031,
+					49.1498259
+				]
+			},
+			"bbox": [
+				-125.8975217,
+				49.1487018,
+				-125.8940844,
+				49.1509501
+			]
+		}
+	]
+}

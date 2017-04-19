@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Robinson Ave, Ottawa, ON K1N 8N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "09b6b08d903c4df280c424b9071ce7cb|BN20181720|7.7.0.0|",
+				"addressLine": "36 Robinson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Robinson Ave, Ottawa, ON K1N 8N9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Sandy Hill-Ottawa East-Ottawa U",
+				"postalCode": "K1N 8N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66596,
+					45.41836
+				]
+			},
+			"bbox": [
+				-75.6675615,
+				45.4172358,
+				-75.6643585,
+				45.4194842
+			]
+		}
+	]
+}

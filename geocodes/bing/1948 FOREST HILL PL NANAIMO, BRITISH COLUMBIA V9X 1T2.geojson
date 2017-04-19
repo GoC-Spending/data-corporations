@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1948 Forest Hill Pl, Nanaimo District, BC V9X 1T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21614ad2a90241b7bc46acfd127ca942|BN20130532|7.7.0.0|",
+				"addressLine": "1948 Forest Hill Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1948 Forest Hill Pl, Nanaimo District, BC V9X 1T2, Canada",
+				"locality": "Nanaimo District",
+				"neighborhood": "Cedar",
+				"postalCode": "V9X 1T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.8743717,
+					49.0690899
+				]
+			},
+			"bbox": [
+				-123.8760876,
+				49.0679658,
+				-123.8726558,
+				49.0702141
+			]
+		}
+	]
+}

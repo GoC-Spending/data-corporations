@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "660 Queen St E, Toronto, ON M4M 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dda3b5f3d6fa4ff79605c0af95401b41|BN20190642|7.7.0.0|",
+				"addressLine": "660 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "660 Queen St E, Toronto, ON M4M 1G5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Riverdale",
+				"postalCode": "M4M 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35172,
+					43.6587
+				]
+			},
+			"bbox": [
+				-79.3532738,
+				43.6575758,
+				-79.3501662,
+				43.6598242
+			]
+		}
+	]
+}

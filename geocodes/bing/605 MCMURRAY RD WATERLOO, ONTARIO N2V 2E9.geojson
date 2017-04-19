@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 McMurray Rd, Waterloo, ON N2V 2E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95771bfd5e274d8dac816f74af66f084|BN20130533|7.7.0.0|",
+				"addressLine": "605 McMurray Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 McMurray Rd, Waterloo, ON N2V 2E9, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 2E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52764,
+					43.50756
+				]
+			},
+			"bbox": [
+				-80.5291899,
+				43.5064358,
+				-80.5260901,
+				43.5086842
+			]
+		}
+	]
+}

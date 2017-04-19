@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Main St, Selkirk, MB R1A 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "348bb4ca6eb24620967f8b292b2b085e|BN20260223|7.7.0.0|",
+				"addressLine": "27 Main St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Main St, Selkirk, MB R1A 1P6, Canada",
+				"locality": "Selkirk",
+				"postalCode": "R1A 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.8929712,
+					50.1291372
+				]
+			},
+			"bbox": [
+				-96.8947248,
+				50.1280131,
+				-96.8912176,
+				50.1302614
+			]
+		}
+	]
+}

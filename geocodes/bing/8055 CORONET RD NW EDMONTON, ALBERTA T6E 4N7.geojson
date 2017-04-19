@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8055 Coronet Rd NW, Edmonton, AB T6E 4N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43d437252c0d46ec9501940a19706486|BN20190642|7.7.0.0|",
+				"addressLine": "8055 Coronet Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8055 Coronet Rd NW, Edmonton, AB T6E 4N7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Coronet Addition Industrial",
+				"postalCode": "T6E 4N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.44939,
+					53.50317
+				]
+			},
+			"bbox": [
+				-113.45128,
+				53.5020458,
+				-113.4475,
+				53.5042942
+			]
+		}
+	]
+}

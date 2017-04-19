@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15830 100A Ave NW, Edmonton, AB T5P 0L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24c4236198a94b0a8208fc495ff896c0|BN20130620|7.7.0.0|",
+				"addressLine": "15830 100A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15830 100A Ave NW, Edmonton, AB T5P 0L8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Glenwood",
+				"postalCode": "T5P 0L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.59541,
+					53.5406
+				]
+			},
+			"bbox": [
+				-113.5973017,
+				53.5394758,
+				-113.5935183,
+				53.5417242
+			]
+		}
+	]
+}

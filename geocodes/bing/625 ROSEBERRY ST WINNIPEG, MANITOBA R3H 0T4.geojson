@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "625 Roseberry St, Winnipeg, MB R3H 0T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b7c65e4748e4618b701e4c7c71b4b33|BN20200239|7.7.0.0|",
+				"addressLine": "625 Roseberry St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "625 Roseberry St, Winnipeg, MB R3H 0T4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21445,
+					49.89347
+				]
+			},
+			"bbox": [
+				-97.216195,
+				49.8923458,
+				-97.212705,
+				49.8945942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "324 12 Ave NW, Calgary, AB T2M 0C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "702715f920914918880caf8ff545177e|BN20121762|7.7.0.0|",
+				"addressLine": "324 12 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "324 12 Ave NW, Calgary, AB T2M 0C7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Crescent Heights",
+				"postalCode": "T2M 0C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06881,
+					51.06358
+				]
+			},
+			"bbox": [
+				-114.0705987,
+				51.0624558,
+				-114.0670213,
+				51.0647042
+			]
+		}
+	]
+}

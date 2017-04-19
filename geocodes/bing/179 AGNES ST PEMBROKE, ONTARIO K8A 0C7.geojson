@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "179 Agnes St, Pembroke, ON K8A 0C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ffae70c546c4420e8522b98ed34468f4|BN20260223|7.7.0.0|",
+				"addressLine": "179 Agnes St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "179 Agnes St, Pembroke, ON K8A 0C7, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8A 0C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.11816,
+					45.82534
+				]
+			},
+			"bbox": [
+				-77.1197732,
+				45.8242158,
+				-77.1165468,
+				45.8264642
+			]
+		}
+	]
+}

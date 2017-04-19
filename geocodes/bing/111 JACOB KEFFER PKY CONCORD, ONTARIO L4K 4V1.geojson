@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Jacob Keffer Pkwy, Concord, ON L4K 4V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9320ad01f41a4f2b8aabf0f524451f01|BN20131519|7.7.0.0|",
+				"addressLine": "111 Jacob Keffer Pkwy",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Jacob Keffer Pkwy, Concord, ON L4K 4V1, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50336,
+					43.83228
+				]
+			},
+			"bbox": [
+				-79.5049184,
+				43.8311558,
+				-79.5018016,
+				43.8334042
+			]
+		}
+	]
+}

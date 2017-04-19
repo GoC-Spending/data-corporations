@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "636 11 Ave SW, Medicine Hat, AB T1A 1E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f17cc876eef4aa8b18e1e8d907ebfe6|BN20130631|7.7.0.0|",
+				"addressLine": "636 11 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "636 11 Ave SW, Medicine Hat, AB T1A 1E1, Canada",
+				"locality": "Medicine Hat",
+				"postalCode": "T1A 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.71271,
+					50.03414
+				]
+			},
+			"bbox": [
+				-110.7144601,
+				50.0330158,
+				-110.7109599,
+				50.0352642
+			]
+		}
+	]
+}

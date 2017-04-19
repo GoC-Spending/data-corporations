@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Loch Lomond Rd, Saint John, NB E2J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97d9e7e6f018426299a60e3240f35bd2|BN20210145|7.7.0.0|",
+				"addressLine": "340 Loch Lomond Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Loch Lomond Rd, Saint John, NB E2J, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2J"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.0226323,
+					45.2914793
+				]
+			},
+			"bbox": [
+				-66.0242303,
+				45.2903551,
+				-66.0210344,
+				45.2926034
+			]
+		}
+	]
+}

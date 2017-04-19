@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1050 Rue de Magellan, Laval, QC H7R 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c390477be3ea47a992abbffa510bf0d4|BN20130620|7.7.0.0|",
+				"addressLine": "1050 Rue de Magellan",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1050 Rue de Magellan, Laval, QC H7R 0A2, Canada",
+				"locality": "Laval",
+				"postalCode": "H7R 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.84679,
+					45.56834
+				]
+			},
+			"bbox": [
+				-73.8483958,
+				45.5672158,
+				-73.8451842,
+				45.5694642
+			]
+		}
+	]
+}

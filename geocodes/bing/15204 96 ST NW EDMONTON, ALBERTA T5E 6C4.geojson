@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15204 96 St NW, Edmonton, AB T5E 6C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0d0c523e9a74c2d98294931ced02424|BN20160335|7.7.0.0|",
+				"addressLine": "15204 96 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15204 96 St NW, Edmonton, AB T5E 6C4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Evansdale",
+				"postalCode": "T5E 6C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48989,
+					53.6124
+				]
+			},
+			"bbox": [
+				-113.4917849,
+				53.6112758,
+				-113.4879951,
+				53.6135242
+			]
+		}
+	]
+}

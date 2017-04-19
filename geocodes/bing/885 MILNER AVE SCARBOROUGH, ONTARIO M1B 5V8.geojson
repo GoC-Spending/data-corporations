@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "885 Milner Ave, Scarborough, ON M1B 5V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f0a06282e11411480752dc6144dcd66|BN20130522|7.7.0.0|",
+				"addressLine": "885 Milner Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "885 Milner Ave, Scarborough, ON M1B 5V8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1B 5V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.19341,
+					43.79827
+				]
+			},
+			"bbox": [
+				-79.1949675,
+				43.7971458,
+				-79.1918525,
+				43.7993942
+			]
+		}
+	]
+}

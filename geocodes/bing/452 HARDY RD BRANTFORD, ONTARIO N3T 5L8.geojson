@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "452 Hardy Rd, Brantford, ON N3T 5L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03899179ef0e4cd19a9f008d90c48056|BN20190642|7.7.0.0|",
+				"addressLine": "452 Hardy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "452 Hardy Rd, Brantford, ON N3T 5L8, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3T 5L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3289146,
+					43.1595804
+				]
+			},
+			"bbox": [
+				-80.3304557,
+				43.1584562,
+				-80.3273735,
+				43.1607045
+			]
+		}
+	]
+}

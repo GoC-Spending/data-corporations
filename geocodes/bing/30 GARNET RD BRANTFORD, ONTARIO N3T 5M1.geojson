@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Garnet Rd, Brantford, ON N3T 5M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "80a37c8257c7485f87cf4d256f5a18ee|BN20121764|7.7.0.0|",
+				"addressLine": "30 Garnet Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Garnet Rd, Brantford, ON N3T 5M1, Canada",
+				"locality": "Brant",
+				"neighborhood": "Brantford",
+				"postalCode": "N3T 5M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.19371,
+					43.14491
+				]
+			},
+			"bbox": [
+				-80.1952507,
+				43.1437858,
+				-80.1921693,
+				43.1460342
+			]
+		}
+	]
+}

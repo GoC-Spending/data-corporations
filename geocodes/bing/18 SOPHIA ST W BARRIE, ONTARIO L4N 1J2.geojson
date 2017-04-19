@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Sophia St W, Barrie, ON L4N 1J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f05074929934448e8ff9f996bf7a5051|BN20130625|7.7.0.0|",
+				"addressLine": "18 Sophia St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Sophia St W, Barrie, ON L4N 1J2, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Queen's Park",
+				"postalCode": "L4N 1J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69394,
+					44.3915
+				]
+			},
+			"bbox": [
+				-79.6955132,
+				44.3903758,
+				-79.6923668,
+				44.3926242
+			]
+		}
+	]
+}

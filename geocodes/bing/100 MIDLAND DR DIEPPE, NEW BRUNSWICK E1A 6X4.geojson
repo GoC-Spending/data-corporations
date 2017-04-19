@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Midland Dr, Dieppe, NB E1A 6X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7da89b03ed67448f9ec8c70d04392884|BN20200239|7.7.0.0|",
+				"addressLine": "100 Midland Dr",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Midland Dr, Dieppe, NB E1A 6X4, Canada",
+				"locality": "Dieppe",
+				"postalCode": "E1A 6X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7104662,
+					46.1033113
+				]
+			},
+			"bbox": [
+				-64.7120876,
+				46.1021871,
+				-64.7088449,
+				46.1044354
+			]
+		}
+	]
+}

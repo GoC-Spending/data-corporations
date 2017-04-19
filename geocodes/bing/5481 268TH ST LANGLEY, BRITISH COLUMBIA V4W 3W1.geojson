@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5481 268 St, Langley, BC V4W 3W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "87426aa3ae3843e0879fafa5a891eb4b|BN20280152|7.7.0.0|",
+				"addressLine": "5481 268 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5481 268 St, Langley, BC V4W 3W1, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V4W 3W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.48345,
+					49.10101
+				]
+			},
+			"bbox": [
+				-122.485167,
+				49.0998858,
+				-122.481733,
+				49.1021342
+			]
+		}
+	]
+}

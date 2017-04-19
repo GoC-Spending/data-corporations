@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "349 W Georgia St, Vancouver, BC V6B 0N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e36fb22731b46df8552ab1552022e1e|BN20220145|7.7.0.0|",
+				"addressLine": "349 W Georgia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "349 W Georgia St, Vancouver, BC V6B 0N2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 0N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11476,
+					49.28052
+				]
+			},
+			"bbox": [
+				-123.1164832,
+				49.2793958,
+				-123.1130368,
+				49.2816442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1775 Main St, North Vancouver, BC V7J 3J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5689678b4d774bccb5e18e1dbcf5f327|BN20181720|7.7.0.0|",
+				"addressLine": "1775 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1775 Main St, North Vancouver, BC V7J 3J1, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "North Vancouver",
+				"postalCode": "V7J 3J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0236987,
+					49.3049853
+				]
+			},
+			"bbox": [
+				-123.0254228,
+				49.3038612,
+				-123.0219746,
+				49.3061095
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5307 47 St NW, Edmonton, AB T6B 3T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b35dca54b514cdf9ffeaa28d0c2fd35|BN20130620|7.7.0.0|",
+				"addressLine": "5307 47 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5307 47 St NW, Edmonton, AB T6B 3T4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Pylypow Industrial",
+				"postalCode": "T6B 3T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4127855,
+					53.4907037
+				]
+			},
+			"bbox": [
+				-113.414675,
+				53.4895796,
+				-113.410896,
+				53.4918279
+			]
+		}
+	]
+}

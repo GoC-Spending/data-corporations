@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "385 Adelaide St, Dalhousie, NB E8C 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63d4c37497cc4c64b845daa0bb2bbfae|BN20160335|7.7.0.0|",
+				"addressLine": "385 Adelaide St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Restigouche",
+				"countryRegion": "Canada",
+				"formattedAddress": "385 Adelaide St, Dalhousie, NB E8C 1B4, Canada",
+				"locality": "Dalhousie",
+				"postalCode": "E8C 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.3735,
+					48.06527
+				]
+			},
+			"bbox": [
+				-66.3751821,
+				48.0641458,
+				-66.3718179,
+				48.0663942
+			]
+		}
+	]
+}

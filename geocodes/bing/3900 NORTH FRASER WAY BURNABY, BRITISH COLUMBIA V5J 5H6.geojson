@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3900 North Fraser Way, Burnaby, BC V5J 5H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f524e0be1eaa4e219ea55ab76fc7f4a7|BN20171457|7.7.0.0|",
+				"addressLine": "3900 North Fraser Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3900 North Fraser Way, Burnaby, BC V5J 5H6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.014083,
+					49.2002755
+				]
+			},
+			"bbox": [
+				-123.0158034,
+				49.1991513,
+				-123.0123626,
+				49.2013996
+			]
+		}
+	]
+}

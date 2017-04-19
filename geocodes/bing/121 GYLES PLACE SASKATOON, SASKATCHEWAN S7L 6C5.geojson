@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "121 Gyles Pl, Saskatoon, SK S7L 6C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30205aab69c540c78988d74858a83fc5|BN20290118|7.7.0.0|",
+				"addressLine": "121 Gyles Pl",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "121 Gyles Pl, Saskatoon, SK S7L 6C5, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Airport Business Area",
+				"postalCode": "S7L 6C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.67253,
+					52.16078
+				]
+			},
+			"bbox": [
+				-106.6743625,
+				52.1596558,
+				-106.6706975,
+				52.1619042
+			]
+		}
+	]
+}

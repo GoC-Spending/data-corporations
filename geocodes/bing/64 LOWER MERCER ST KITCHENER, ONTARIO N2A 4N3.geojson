@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "64 Lower Mercer St, Kitchener, ON N2A 4N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1cd848b4f16e4961b215d18a1f4389b2|BN20130431|7.7.0.0|",
+				"addressLine": "64 Lower Mercer St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "64 Lower Mercer St, Kitchener, ON N2A 4N3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Grand River South",
+				"postalCode": "N2A 4N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.40346,
+					43.44494
+				]
+			},
+			"bbox": [
+				-80.4050083,
+				43.4438158,
+				-80.4019117,
+				43.4460642
+			]
+		}
+	]
+}

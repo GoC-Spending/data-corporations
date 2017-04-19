@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "273 Falwood Way NE, Calgary, AB T3J 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1a8efd05d6564241bc431b962a862687|BN20130530|7.7.0.0|",
+				"addressLine": "273 Falwood Way NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "273 Falwood Way NE, Calgary, AB T3J 1A9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Falconridge",
+				"postalCode": "T3J 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9380968,
+					51.0990261
+				]
+			},
+			"bbox": [
+				-113.9398869,
+				51.0979019,
+				-113.9363067,
+				51.1001502
+			]
+		}
+	]
+}

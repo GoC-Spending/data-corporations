@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "352 Belmont Ave, Winnipeg, MB R2V 0Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1a4aa47293fe4c678a280d80b8e75b1d|BN20130625|7.7.0.0|",
+				"addressLine": "352 Belmont Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "352 Belmont Ave, Winnipeg, MB R2V 0Y7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Jefferson",
+				"postalCode": "R2V 0Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12522,
+					49.9391
+				]
+			},
+			"bbox": [
+				-97.1269667,
+				49.9379758,
+				-97.1234733,
+				49.9402242
+			]
+		}
+	]
+}

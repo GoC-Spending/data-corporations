@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "356 Maclaren St, Ottawa, ON K2P 0M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "293e03b940004b8c8ae9e9efa8948f86|BN20130422|7.7.0.0|",
+				"addressLine": "356 Maclaren St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "356 Maclaren St, Ottawa, ON K2P 0M6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K2P 0M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69503,
+					45.41476
+				]
+			},
+			"bbox": [
+				-75.6966314,
+				45.4136358,
+				-75.6934286,
+				45.4158842
+			]
+		}
+	]
+}

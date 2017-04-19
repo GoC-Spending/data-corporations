@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33821 S Fraser Way, Abbotsford, BC V2S 2C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d970b75dc4124a489e6b26363bda5956|BN20220145|7.7.0.0|",
+				"addressLine": "33821 S Fraser Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "33821 S Fraser Way, Abbotsford, BC V2S 2C4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Highway 11",
+				"postalCode": "V2S 2C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.28806,
+					49.04649
+				]
+			},
+			"bbox": [
+				-122.2897751,
+				49.0453658,
+				-122.2863449,
+				49.0476142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1247 Ellis St, Kelowna, BC V1Y 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d74f46fde7f243698733c0db7638727e|BN20280152|7.7.0.0|",
+				"addressLine": "1247 Ellis St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1247 Ellis St, Kelowna, BC V1Y 1Z6, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "North End",
+				"postalCode": "V1Y 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4933222,
+					49.8928259
+				]
+			},
+			"bbox": [
+				-119.4950672,
+				49.8917018,
+				-119.4915772,
+				49.8939501
+			]
+		}
+	]
+}

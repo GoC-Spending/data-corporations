@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "217 Morningside Ave, Scarborough, ON M1E 3E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "855129da536e449ab8970320ae84fb37|BN20121763|7.7.0.0|",
+				"addressLine": "217 Morningside Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "217 Morningside Ave, Scarborough, ON M1E 3E4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Hill",
+				"postalCode": "M1E 3E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1846,
+					43.76667
+				]
+			},
+			"bbox": [
+				-79.1861566,
+				43.7655458,
+				-79.1830434,
+				43.7677942
+			]
+		}
+	]
+}

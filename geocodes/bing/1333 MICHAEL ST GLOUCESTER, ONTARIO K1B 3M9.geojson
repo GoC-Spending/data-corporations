@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1333 Michael St, Ottawa, ON K1B 3M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "138be17ee81c4c38a096b9f9e7dcc0e9|BN20250135|7.7.0.0|",
+				"addressLine": "1333 Michael St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1333 Michael St, Ottawa, ON K1B 3M9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1B 3M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6304119,
+					45.4191358
+				]
+			},
+			"bbox": [
+				-75.6320135,
+				45.4180117,
+				-75.6288104,
+				45.42026
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "367 Lake St, St Catharines, ON L2N 4H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e677895d8cd434b8d8ecf0d656f910f|BN20220145|7.7.0.0|",
+				"addressLine": "367 Lake St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "367 Lake St, St Catharines, ON L2N 4H5, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Lakeport",
+				"postalCode": "L2N 4H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25228,
+					43.18444
+				]
+			},
+			"bbox": [
+				-79.2538217,
+				43.1833158,
+				-79.2507383,
+				43.1855642
+			]
+		}
+	]
+}

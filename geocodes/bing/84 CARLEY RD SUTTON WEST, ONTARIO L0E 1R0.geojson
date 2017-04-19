@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "84 Carley Rd, Georgina, ON L0E 1R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4564c03d9b8b49979edb747d2f3bd898|BN20290118|7.7.0.0|",
+				"addressLine": "84 Carley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "84 Carley Rd, Georgina, ON L0E 1R0, Canada",
+				"locality": "Georgina",
+				"postalCode": "L0E 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38135,
+					44.2231499
+				]
+			},
+			"bbox": [
+				-79.3829187,
+				44.2220257,
+				-79.3797813,
+				44.2242741
+			]
+		}
+	]
+}

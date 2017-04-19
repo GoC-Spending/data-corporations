@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "726 3e Avenue, Laval, QC H7R 4J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20605f222b2f45aeb06f4eb31530db44|BN20320521|7.7.0.0|",
+				"addressLine": "726 3e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "726 3e Avenue, Laval, QC H7R 4J7, Canada",
+				"locality": "Laval",
+				"postalCode": "H7R 4J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.86197,
+					45.55417
+				]
+			},
+			"bbox": [
+				-73.8635754,
+				45.5530458,
+				-73.8603646,
+				45.5552942
+			]
+		}
+	]
+}

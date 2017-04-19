@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Monarch Rd, Guelph, ON N1K 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fee5a9009680405eaf3500b3d8c6fa41|BN20130423|7.7.0.0|",
+				"addressLine": "90 Monarch Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Monarch Rd, Guelph, ON N1K 1S3, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1K 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30864,
+					43.5498
+				]
+			},
+			"bbox": [
+				-80.310191,
+				43.5486758,
+				-80.307089,
+				43.5509242
+			]
+		}
+	]
+}

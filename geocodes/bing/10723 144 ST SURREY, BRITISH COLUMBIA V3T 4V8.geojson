@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10723 144 St, Surrey, BC V3T 4V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3709a372283c440bbc5f521704302d48|BN20130447|7.7.0.0|",
+				"addressLine": "10723 144 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10723 144 St, Surrey, BC V3T 4V8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3T 4V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8231149,
+					49.1976947
+				]
+			},
+			"bbox": [
+				-122.8248352,
+				49.1965706,
+				-122.8213946,
+				49.1988189
+			]
+		}
+	]
+}

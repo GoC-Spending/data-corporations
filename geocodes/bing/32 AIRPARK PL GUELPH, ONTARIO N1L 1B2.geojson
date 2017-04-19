@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Airpark Pl, Guelph, ON N1L 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52de067e932d41cb9cab294e7c82bba4|BN20260223|7.7.0.0|",
+				"addressLine": "32 Airpark Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Airpark Pl, Guelph, ON N1L 1B2, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Old University",
+				"postalCode": "N1L 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.20097,
+					43.56406
+				]
+			},
+			"bbox": [
+				-80.2025214,
+				43.5629358,
+				-80.1994186,
+				43.5651842
+			]
+		}
+	]
+}

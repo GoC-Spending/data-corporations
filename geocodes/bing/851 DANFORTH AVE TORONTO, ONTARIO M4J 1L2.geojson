@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "851 Danforth Ave, Toronto, ON M4J 1L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c72a3739e4894e1986ca135dc3f9bfdb|BN20260231|7.7.0.0|",
+				"addressLine": "851 Danforth Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "851 Danforth Ave, Toronto, ON M4J 1L2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Blake-Jones",
+				"postalCode": "M4J 1L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34022,
+					43.67964
+				]
+			},
+			"bbox": [
+				-79.3417744,
+				43.6785158,
+				-79.3386656,
+				43.6807642
+			]
+		}
+	]
+}

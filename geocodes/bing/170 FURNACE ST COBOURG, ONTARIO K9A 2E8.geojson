@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 Furnace St, Cobourg, ON K9A 2E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81bc5b29a3c942caa0e113fdd9088d17|BN20290118|7.7.0.0|",
+				"addressLine": "170 Furnace St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 Furnace St, Cobourg, ON K9A 2E8, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 2E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1745399,
+					43.96414
+				]
+			},
+			"bbox": [
+				-78.1761017,
+				43.9630158,
+				-78.1729781,
+				43.9652642
+			]
+		}
+	]
+}

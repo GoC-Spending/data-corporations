@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2332 Queen St E, Toronto, ON M4E 1G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "baca256db1ef4c0fac2aa60409da7226|BN20320521|7.7.0.0|",
+				"addressLine": "2332 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2332 Queen St E, Toronto, ON M4E 1G9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4E 1G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28254,
+					43.67384
+				]
+			},
+			"bbox": [
+				-79.2840942,
+				43.6727158,
+				-79.2809858,
+				43.6749642
+			]
+		}
+	]
+}

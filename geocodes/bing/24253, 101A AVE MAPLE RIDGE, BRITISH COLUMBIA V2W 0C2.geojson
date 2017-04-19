@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24253 101A Ave, Maple Ridge, BC V2W 0C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a61895b5fd4f4fab9d206a4c5a6375e0|BN20200137|7.7.0.0|",
+				"addressLine": "24253 101A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "24253 101A Ave, Maple Ridge, BC V2W 0C2, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2W 0C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.550581,
+					49.1868391
+				]
+			},
+			"bbox": [
+				-122.5523009,
+				49.1857149,
+				-122.548861,
+				49.1879632
+			]
+		}
+	]
+}

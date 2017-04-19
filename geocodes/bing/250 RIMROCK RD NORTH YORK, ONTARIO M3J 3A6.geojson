@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Rimrock Rd, North York, ON M3J 3A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b6090bf7df048e786009f529796a471|BN20121762|7.7.0.0|",
+				"addressLine": "250 Rimrock Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Rimrock Rd, North York, ON M3J 3A6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 3A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46774,
+					43.7573
+				]
+			},
+			"bbox": [
+				-79.4692964,
+				43.7561758,
+				-79.4661836,
+				43.7584242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2489 Huron St, London, ON N5V 5J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9b639c8b8b59454e93cf16bcf19382ad|BN20121764|7.7.0.0|",
+				"addressLine": "2489 Huron St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2489 Huron St, London, ON N5V 5J1, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 5J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1641299,
+					43.0343884
+				]
+			},
+			"bbox": [
+				-81.1656679,
+				43.0332642,
+				-81.162592,
+				43.0355125
+			]
+		}
+	]
+}

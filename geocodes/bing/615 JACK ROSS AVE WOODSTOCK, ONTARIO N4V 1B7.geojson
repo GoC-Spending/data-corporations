@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "615 Jack Ross Ave, Woodstock, ON N4V 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "310074e7589e49f7a8b05554fa224c63|BN20300154|7.7.0.0|",
+				"addressLine": "615 Jack Ross Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "615 Jack Ross Ave, Woodstock, ON N4V 1B7, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4V 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7201155,
+					43.1134853
+				]
+			},
+			"bbox": [
+				-80.7216555,
+				43.1123611,
+				-80.7185756,
+				43.1146094
+			]
+		}
+	]
+}

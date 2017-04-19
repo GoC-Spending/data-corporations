@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "759 Wall St, Winnipeg, MB R3G 2T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b6a09b1164a24f5b8bdddde5fdcff213|BN20200137|7.7.0.0|",
+				"addressLine": "759 Wall St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "759 Wall St, Winnipeg, MB R3G 2T6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Minto",
+				"postalCode": "R3G 2T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18225,
+					49.88914
+				]
+			},
+			"bbox": [
+				-97.1839948,
+				49.8880158,
+				-97.1805052,
+				49.8902642
+			]
+		}
+	]
+}

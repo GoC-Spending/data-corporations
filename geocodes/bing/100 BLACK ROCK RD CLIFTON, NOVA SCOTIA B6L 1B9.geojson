@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Black Rock Rd, Clifton, NS B6L 1B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "762ec6b51ac743f2a3d537370d94ce86|BN20200137|7.7.0.0|",
+				"addressLine": "100 Black Rock Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Black Rock Rd, Clifton, NS B6L 1B9, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Clifton",
+				"postalCode": "B6L 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.47763,
+					45.31892
+				]
+			},
+			"bbox": [
+				-63.4792287,
+				45.3177958,
+				-63.4760313,
+				45.3200442
+			]
+		}
+	]
+}

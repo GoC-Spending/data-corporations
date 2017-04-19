@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "98 Glencliffe Ct, Kitchener, ON N2B 3X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c16832711ff4079b3035885116f355a|BN20200239|7.7.0.0|",
+				"addressLine": "98 Glencliffe Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "98 Glencliffe Ct, Kitchener, ON N2B 3X1, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Grand River North",
+				"postalCode": "N2B 3X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.43186,
+					43.46253
+				]
+			},
+			"bbox": [
+				-80.4334088,
+				43.4614058,
+				-80.4303112,
+				43.4636542
+			]
+		}
+	]
+}

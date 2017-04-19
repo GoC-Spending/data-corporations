@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1039 McNicoll Ave, Scarborough, ON M1W 3W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "294bfbcba0f0417dad5fbd62e231b8c2|BN20130431|7.7.0.0|",
+				"addressLine": "1039 McNicoll Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1039 McNicoll Ave, Scarborough, ON M1W 3W6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Steeles",
+				"postalCode": "M1W 3W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33422,
+					43.80407
+				]
+			},
+			"bbox": [
+				-79.3357776,
+				43.8029458,
+				-79.3326624,
+				43.8051942
+			]
+		}
+	]
+}

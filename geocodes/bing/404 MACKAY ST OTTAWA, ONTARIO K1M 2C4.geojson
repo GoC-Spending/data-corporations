@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "404 Mackay St, Ottawa, ON K1M 2C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f634f8f629644dd8b0335846926666f1|BN20130447|7.7.0.0|",
+				"addressLine": "404 Mackay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "404 Mackay St, Ottawa, ON K1M 2C4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lindenlea-New Edinburgh",
+				"postalCode": "K1M 2C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6782107,
+					45.4397441
+				]
+			},
+			"bbox": [
+				-75.6798128,
+				45.4386199,
+				-75.6766086,
+				45.4408683
+			]
+		}
+	]
+}

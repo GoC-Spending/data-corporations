@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2706 Rue Michelin, Laval, QC H7L 5Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3635fd52476047b8ab90a8e138528a6b|BN20121763|7.7.0.0|",
+				"addressLine": "2706 Rue Michelin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2706 Rue Michelin, Laval, QC H7L 5Y1, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.76969,
+					45.58166
+				]
+			},
+			"bbox": [
+				-73.7712962,
+				45.5805358,
+				-73.7680838,
+				45.5827842
+			]
+		}
+	]
+}

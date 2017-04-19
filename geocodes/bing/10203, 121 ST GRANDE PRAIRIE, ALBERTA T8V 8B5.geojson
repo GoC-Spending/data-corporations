@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10203 121 St, Grande Prairie, AB T8V 8B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b8e52873ca34bbfad78bd0421f426d1|BN20260231|7.7.0.0|",
+				"addressLine": "10203 121 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10203 121 St, Grande Prairie, AB T8V 8B5, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Brochu Industrial",
+				"postalCode": "T8V 8B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.86022,
+					55.17293
+				]
+			},
+			"bbox": [
+				-118.8621884,
+				55.1718058,
+				-118.8582516,
+				55.1740542
+			]
+		}
+	]
+}

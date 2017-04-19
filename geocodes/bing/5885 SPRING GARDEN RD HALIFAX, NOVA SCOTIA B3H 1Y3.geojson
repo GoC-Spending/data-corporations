@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5885 Spring Garden Rd, Halifax, NS B3H 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6bc303c2fcb3458e94eee3ede3c74a00|BN20220145|7.7.0.0|",
+				"addressLine": "5885 Spring Garden Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5885 Spring Garden Rd, Halifax, NS B3H 1Y3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3H 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5847112,
+					44.6410927
+				]
+			},
+			"bbox": [
+				-63.5862911,
+				44.6399685,
+				-63.5831312,
+				44.6422168
+			]
+		}
+	]
+}

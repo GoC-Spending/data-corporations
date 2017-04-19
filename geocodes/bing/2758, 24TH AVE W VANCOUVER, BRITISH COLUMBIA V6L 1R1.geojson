@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2758 W 24th Ave, Vancouver, BC V6L 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2553ed46e513411b96fc3d173344517c|BN20130532|7.7.0.0|",
+				"addressLine": "2758 W 24th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2758 W 24th Ave, Vancouver, BC V6L 1R1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Arbutus Ridge",
+				"postalCode": "V6L 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.16677,
+					49.25071
+				]
+			},
+			"bbox": [
+				-123.1684922,
+				49.2495858,
+				-123.1650478,
+				49.2518342
+			]
+		}
+	]
+}

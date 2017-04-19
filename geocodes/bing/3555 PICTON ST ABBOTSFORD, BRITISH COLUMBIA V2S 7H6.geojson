@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3555 Picton St, Abbotsford, BC V2S 7H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8400c1f96a5749639416e20650cc8d31|BN20121762|7.7.0.0|",
+				"addressLine": "3555 Picton St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3555 Picton St, Abbotsford, BC V2S 7H6, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Lower Ten Oaks",
+				"postalCode": "V2S 7H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.27065,
+					49.06675
+				]
+			},
+			"bbox": [
+				-122.2723658,
+				49.0656258,
+				-122.2689342,
+				49.0678742
+			]
+		}
+	]
+}

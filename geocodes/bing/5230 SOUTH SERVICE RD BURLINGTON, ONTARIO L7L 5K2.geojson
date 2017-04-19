@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5230 S Service Rd, Burlington, ON L7L 5K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "653c2f061053437a831a0683ff2d2c78|BN20260231|7.7.0.0|",
+				"addressLine": "5230 S Service Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5230 S Service Rd, Burlington, ON L7L 5K2, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Pinedale",
+				"postalCode": "L7L 5K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76395,
+					43.38671
+				]
+			},
+			"bbox": [
+				-79.7654969,
+				43.3855858,
+				-79.7624031,
+				43.3878342
+			]
+		}
+	]
+}

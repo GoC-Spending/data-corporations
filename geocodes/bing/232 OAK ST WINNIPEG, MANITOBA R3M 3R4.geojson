@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "232 Oak St, Winnipeg, MB R3M 3R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65a5da84c762461f92626b4478fa6b2e|BN20220145|7.7.0.0|",
+				"addressLine": "232 Oak St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "232 Oak St, Winnipeg, MB R3M 3R4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North River Heights",
+				"postalCode": "R3M 3R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18084,
+					49.87145
+				]
+			},
+			"bbox": [
+				-97.1825842,
+				49.8703258,
+				-97.1790958,
+				49.8725742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3900 52 Ave NE, Calgary, AB T3J 3X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc669bb93499435aaf499a87040b0031|BN20130442|7.7.0.0|",
+				"addressLine": "3900 52 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3900 52 Ave NE, Calgary, AB T3J 3X4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Westwinds",
+				"postalCode": "T3J 3X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.97753,
+					51.1006799
+				]
+			},
+			"bbox": [
+				-113.9793202,
+				51.0995557,
+				-113.9757398,
+				51.1018041
+			]
+		}
+	]
+}

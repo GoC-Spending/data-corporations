@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Memory Gardens Ln, North York, ON M2H 3K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b199f41cc0494d0483be18f0e5fdb2d3|BN20130530|7.7.0.0|",
+				"addressLine": "33 Memory Gardens Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Memory Gardens Ln, North York, ON M2H 3K4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Hillcrest Village",
+				"postalCode": "M2H 3K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3540485,
+					43.8063508
+				]
+			},
+			"bbox": [
+				-79.3556062,
+				43.8052266,
+				-79.3524908,
+				43.8074749
+			]
+		}
+	]
+}

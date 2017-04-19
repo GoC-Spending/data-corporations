@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1100 Grant St, Vancouver, BC V6A 2J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cfef3704a95d4b04aeb0b3c41cd4b324|BN20121764|7.7.0.0|",
+				"addressLine": "1100 Grant St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1100 Grant St, Vancouver, BC V6A 2J6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A 2J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07925,
+					49.27122
+				]
+			},
+			"bbox": [
+				-123.0809729,
+				49.2700958,
+				-123.0775271,
+				49.2723442
+			]
+		}
+	]
+}

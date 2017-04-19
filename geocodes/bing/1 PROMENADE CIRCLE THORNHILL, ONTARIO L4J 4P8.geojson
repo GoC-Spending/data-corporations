@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Promenade Cir, Thornhill, ON L4J 4P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "995ec05a97054539a62410eb090b25c1|BN20130631|7.7.0.0|",
+				"addressLine": "1 Promenade Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Promenade Cir, Thornhill, ON L4J 4P8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 4P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4530018,
+					43.8091484
+				]
+			},
+			"bbox": [
+				-79.4545596,
+				43.8080242,
+				-79.4514441,
+				43.8102725
+			]
+		}
+	]
+}

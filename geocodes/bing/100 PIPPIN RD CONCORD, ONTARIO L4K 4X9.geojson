@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Pippin Rd, Concord, ON L4K 4X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "283e68f7ccc345b7aec2d03a9252275d|BN20260231|7.7.0.0|",
+				"addressLine": "100 Pippin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Pippin Rd, Concord, ON L4K 4X9, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52395,
+					43.81083
+				]
+			},
+			"bbox": [
+				-79.5255078,
+				43.8097058,
+				-79.5223922,
+				43.8119542
+			]
+		}
+	]
+}

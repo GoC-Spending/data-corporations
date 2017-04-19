@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Midair Ct, Brampton, ON L6T 5V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e38843b111a24f399f738d758e17d556|BN20130422|7.7.0.0|",
+				"addressLine": "30 Midair Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Midair Ct, Brampton, ON L6T 5V1, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Castlemore",
+				"postalCode": "L6T 5V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67213,
+					43.73164
+				]
+			},
+			"bbox": [
+				-79.6736857,
+				43.7305158,
+				-79.6705743,
+				43.7327642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5495 Colony Heights Rd, Ottawa, ON K4M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "137cc9c48f3744f79094f87f3f620d80|BN20130533|7.7.0.0|",
+				"addressLine": "5495 Colony Heights Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5495 Colony Heights Rd, Ottawa, ON K4M, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Manotick",
+				"postalCode": "K4M 1A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69073,
+					45.22609
+				]
+			},
+			"bbox": [
+				-75.6923261,
+				45.2249658,
+				-75.6891339,
+				45.2272142
+			]
+		}
+	]
+}

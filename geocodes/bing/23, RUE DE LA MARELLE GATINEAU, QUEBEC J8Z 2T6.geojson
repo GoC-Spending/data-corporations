@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Rue de la Marelle, Gatineau, QC J8Z 2T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85fde0b87ccd4813a31a45e559924849|BN20210145|7.7.0.0|",
+				"addressLine": "23 Rue de la Marelle",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Rue de la Marelle, Gatineau, QC J8Z 2T6, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8Z 2T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.77462,
+					45.4705
+				]
+			},
+			"bbox": [
+				-75.776223,
+				45.4693758,
+				-75.773017,
+				45.4716242
+			]
+		}
+	]
+}

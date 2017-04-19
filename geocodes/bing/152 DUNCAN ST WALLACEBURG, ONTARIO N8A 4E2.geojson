@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "152 Duncan St, Wallaceburg, ON N8A 4E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ecd7edcd02f4c26980bbb2f3e44d6ad|BN20190642|7.7.0.0|",
+				"addressLine": "152 Duncan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "152 Duncan St, Wallaceburg, ON N8A 4E2, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Wallaceburg",
+				"postalCode": "N8A 4E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.38388,
+					42.5948
+				]
+			},
+			"bbox": [
+				-82.3854071,
+				42.5936758,
+				-82.3823529,
+				42.5959242
+			]
+		}
+	]
+}

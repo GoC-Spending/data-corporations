@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9915 65 Ave NW, Edmonton, AB T6E 0L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5641dcb61ab412ca374698e01411b20|BN20130442|7.7.0.0|",
+				"addressLine": "9915 65 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9915 65 Ave NW, Edmonton, AB T6E 0L1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "CPR Irvine",
+				"postalCode": "T6E 0L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48765,
+					53.50139
+				]
+			},
+			"bbox": [
+				-113.48954,
+				53.5002658,
+				-113.48576,
+				53.5025142
+			]
+		}
+	]
+}

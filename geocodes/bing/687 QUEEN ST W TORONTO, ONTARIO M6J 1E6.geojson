@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "687 Queen St W, Toronto, ON M6J 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9237abc8f7b4e7fa1d35392bdaf5984|BN20210145|7.7.0.0|",
+				"addressLine": "687 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "687 Queen St W, Toronto, ON M6J 1E6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Niagara",
+				"postalCode": "M6J 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40501,
+					43.6467699
+				]
+			},
+			"bbox": [
+				-79.4065635,
+				43.6456457,
+				-79.4034565,
+				43.6478941
+			]
+		}
+	]
+}

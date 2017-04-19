@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "223 Whitestone Cres NE, Calgary, AB T1Y 1S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1cdf3cb96094474a27843b417a5d44f|BN20131519|7.7.0.0|",
+				"addressLine": "223 Whitestone Cres NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "223 Whitestone Cres NE, Calgary, AB T1Y 1S8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Whitehorn",
+				"postalCode": "T1Y 1S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.96144,
+					51.0835999
+				]
+			},
+			"bbox": [
+				-113.9632295,
+				51.0824757,
+				-113.9596505,
+				51.0847241
+			]
+		}
+	]
+}

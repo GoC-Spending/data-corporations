@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Amherst Ave, North Vancouver, BC V7H 1S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d1390fce54b46c9aa8361b5c81ebad5|BN20130422|7.7.0.0|",
+				"addressLine": "100 Amherst Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Amherst Ave, North Vancouver, BC V7H 1S4, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Maplewood",
+				"postalCode": "V7H 1S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.01817,
+					49.3040499
+				]
+			},
+			"bbox": [
+				-123.019894,
+				49.3029257,
+				-123.016446,
+				49.3051741
+			]
+		}
+	]
+}

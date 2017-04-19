@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rochester, Athabasca, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2282cb1e0ac849fab3883c077a82a2c2|BN20130423|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Rochester, Athabasca, Alberta, Canada",
+				"locality": "Athabasca",
+				"neighborhood": "Rochester"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.463279724121,
+					54.3695411682129
+				]
+			},
+			"bbox": [
+				-113.472119755543,
+				54.3656784506422,
+				-113.454439692699,
+				54.3734038857836
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Rock Hill, SC 297",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2282cb1e0ac849fab3883c077a82a2c2|BN20130423|7.7.0.0|",
+				"adminDistrict": "SC",
+				"adminDistrict2": "York",
+				"countryRegion": "United States",
+				"formattedAddress": "Rock Hill, SC 297",
+				"locality": "Rock Hill",
+				"postalCode": "297"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7276992797852,
+					34.8020858764648
+				]
+			},
+			"bbox": [
+				-81.6185836791992,
+				34.4298210144043,
+				-79.9697189331055,
+				35.1743507385254
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Braid St, New Westminster, BC V3L 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "415cbb7bb5e447e3a86caf058cd512c2|BN20130634|7.7.0.0|",
+				"addressLine": "39 Braid St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Braid St, New Westminster, BC V3L 3P2, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Brunette Creek",
+				"postalCode": "V3L 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8791746,
+					49.230055
+				]
+			},
+			"bbox": [
+				-122.8808961,
+				49.2289308,
+				-122.8774531,
+				49.2311791
+			]
+		}
+	]
+}

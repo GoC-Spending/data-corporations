@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "399 Vansickle Rd, St Catharines, ON L2S 3T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "593e4267550b47f19bfe613613418a51|BN20200137|7.7.0.0|",
+				"addressLine": "399 Vansickle Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "399 Vansickle Rd, St Catharines, ON L2S 3T4, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Western Hill",
+				"postalCode": "L2S 3T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2715599,
+					43.1512699
+				]
+			},
+			"bbox": [
+				-79.2731008,
+				43.1501457,
+				-79.270019,
+				43.1523941
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Katherine St N, West Montrose, ON N0B 2V0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "722de501447d421a85bd9e7956945409|BN20200137|7.7.0.0|",
+				"addressLine": "90 Katherine St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Katherine St N, West Montrose, ON N0B 2V0, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "West Montrose",
+				"postalCode": "N0B 2V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4676897,
+					43.5634603
+				]
+			},
+			"bbox": [
+				-80.4692411,
+				43.5623361,
+				-80.4661383,
+				43.5645844
+			]
+		}
+	]
+}

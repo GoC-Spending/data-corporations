@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Powell River District, V0R 2J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e8fbf9cfb6d4303b3677ac888826993|BN20130442|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Powell River",
+				"countryRegion": "Canada",
+				"formattedAddress": "Powell River District, V0R 2J0, Canada",
+				"locality": "Powell River District",
+				"postalCode": "V0R 2J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.346092224121,
+					49.4919281005859
+				]
+			},
+			"bbox": [
+				-124.354020547956,
+				49.4880653830153,
+				-124.338163900287,
+				49.4957908181566
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Lasqueti, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e8fbf9cfb6d4303b3677ac888826993|BN20130442|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Powell River",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lasqueti, British Columbia, Canada",
+				"locality": "Lasqueti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.344161987305,
+					49.4814109802246
+				]
+			},
+			"bbox": [
+				-124.40358119914,
+				49.4524405972321,
+				-124.284742775469,
+				49.5103813632172
+			]
+		}
+	]
+}

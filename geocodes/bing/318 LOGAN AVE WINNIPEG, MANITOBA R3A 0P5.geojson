@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "318 Logan Ave, Winnipeg, MB R3A 0P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4083fffe5e4647eba03ecd2bd2c3ce9b|BN20130521|7.7.0.0|",
+				"addressLine": "318 Logan Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "318 Logan Ave, Winnipeg, MB R3A 0P5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Centennial",
+				"postalCode": "R3A 0P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13956,
+					49.90356
+				]
+			},
+			"bbox": [
+				-97.1413054,
+				49.9024358,
+				-97.1378146,
+				49.9046842
+			]
+		}
+	]
+}

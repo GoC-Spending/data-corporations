@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "828 King Rd, Burlington, ON L7T 3K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e62d222b945a41498e2c733761347e97|BN20130442|7.7.0.0|",
+				"addressLine": "828 King Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "828 King Rd, Burlington, ON L7T 3K9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot South",
+				"postalCode": "L7T 3K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82705,
+					43.31742
+				]
+			},
+			"bbox": [
+				-79.8285951,
+				43.3162958,
+				-79.8255049,
+				43.3185442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1455 32e Avenue, Lachine, QC H8T 3J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e275ff477db4435d83edadafe31b8a57|BN20130447|7.7.0.0|",
+				"addressLine": "1455 32e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1455 32e Avenue, Lachine, QC H8T 3J1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7026668,
+					45.458544
+				]
+			},
+			"bbox": [
+				-73.7042695,
+				45.4574198,
+				-73.7010642,
+				45.4596681
+			]
+		}
+	]
+}

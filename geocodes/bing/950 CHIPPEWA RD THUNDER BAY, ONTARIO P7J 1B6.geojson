@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "950 Chippewa Rd, Fort William First Nation, ON P7J 1B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df7e9fa191a54f269feab5293403a014|BN20200137|7.7.0.0|",
+				"addressLine": "950 Chippewa Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "950 Chippewa Rd, Fort William First Nation, ON P7J 1B6, Canada",
+				"locality": "Thunder Bay",
+				"neighborhood": "Fort William First Nation",
+				"postalCode": "P7J 1B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.3028351,
+					48.3456601
+				]
+			},
+			"bbox": [
+				-89.3045265,
+				48.3445359,
+				-89.3011438,
+				48.3467842
+			]
+		}
+	]
+}

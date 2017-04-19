@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "235 Martin Ave W, Winnipeg, MB R2L 0B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "264d1d787bdd4124a21296771accb19f|BN20130431|7.7.0.0|",
+				"addressLine": "235 Martin Ave W",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "235 Martin Ave W, Winnipeg, MB R2L 0B7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chalmers",
+				"postalCode": "R2L 0B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.10939,
+					49.91526
+				]
+			},
+			"bbox": [
+				-97.1111358,
+				49.9141358,
+				-97.1076442,
+				49.9163842
+			]
+		}
+	]
+}

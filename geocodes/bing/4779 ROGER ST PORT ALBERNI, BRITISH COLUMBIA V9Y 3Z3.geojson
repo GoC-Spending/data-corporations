@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4779 Roger St, Port Alberni, BC V9Y 3Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b6601dc2fa9049858318259ca5688d7a|BN20300154|7.7.0.0|",
+				"addressLine": "4779 Roger St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Alberni-Clayoquot",
+				"countryRegion": "Canada",
+				"formattedAddress": "4779 Roger St, Port Alberni, BC V9Y 3Z3, Canada",
+				"locality": "Port Alberni",
+				"postalCode": "V9Y 3Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.8045727,
+					49.2545398
+				]
+			},
+			"bbox": [
+				-124.806295,
+				49.2534157,
+				-124.8028504,
+				49.255664
+			]
+		}
+	]
+}

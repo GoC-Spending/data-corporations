@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1411 Mississauga Rd, Mississauga, ON L5H 2J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdb664a1930747aea0236697431645cf|BN20250135|7.7.0.0|",
+				"addressLine": "1411 Mississauga Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1411 Mississauga Rd, Mississauga, ON L5H 2J5, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Lorne Park",
+				"postalCode": "L5H 2J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60536,
+					43.55182
+				]
+			},
+			"bbox": [
+				-79.6069111,
+				43.5506958,
+				-79.6038089,
+				43.5529442
+			]
+		}
+	]
+}

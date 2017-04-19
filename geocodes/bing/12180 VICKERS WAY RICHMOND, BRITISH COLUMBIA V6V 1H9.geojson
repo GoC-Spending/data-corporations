@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12180 Vickers Way, Richmond, BC V6V 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c76959cdfd149b2a0f9921dc43aedaf|BN20130533|7.7.0.0|",
+				"addressLine": "12180 Vickers Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12180 Vickers Way, Richmond, BC V6V 1H9, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Cambie",
+				"postalCode": "V6V 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08947,
+					49.19067
+				]
+			},
+			"bbox": [
+				-123.0911901,
+				49.1895458,
+				-123.0877499,
+				49.1917942
+			]
+		}
+	]
+}

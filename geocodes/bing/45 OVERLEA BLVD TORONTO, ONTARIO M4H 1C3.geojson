@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Overlea Blvd, Toronto, ON M4H 1C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5fd4d44cb9f34d7fa8780b8b32336892|BN20290118|7.7.0.0|",
+				"addressLine": "45 Overlea Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Overlea Blvd, Toronto, ON M4H 1C3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Thorncliffe Park",
+				"postalCode": "M4H 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.349548,
+					43.70496
+				]
+			},
+			"bbox": [
+				-79.351103,
+				43.7038359,
+				-79.3479929,
+				43.7060842
+			]
+		}
+	]
+}

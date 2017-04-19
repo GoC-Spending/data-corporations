@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1379 Colborne St E, Brantford, ON N3T 5M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e1df90502b74840acf4b735a82fe89d|BN20210145|7.7.0.0|",
+				"addressLine": "1379 Colborne St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "1379 Colborne St E, Brantford, ON N3T 5M1, Canada",
+				"locality": "Brant",
+				"neighborhood": "Brantford",
+				"postalCode": "N3T 5M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.18005,
+					43.14971
+				]
+			},
+			"bbox": [
+				-80.1815908,
+				43.1485858,
+				-80.1785092,
+				43.1508342
+			]
+		}
+	]
+}

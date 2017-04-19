@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27017 20 Ave, Aldergrove, BC V4W 2P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae2bf229634942eabe17cd7fe018ba84|BN20130522|7.7.0.0|",
+				"addressLine": "27017 20 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "27017 20 Ave, Aldergrove, BC V4W 2P2, Canada",
+				"locality": "Langley",
+				"neighborhood": "Aldergrove",
+				"postalCode": "V4W 2P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.47539,
+					49.03958
+				]
+			},
+			"bbox": [
+				-122.4771049,
+				49.0384558,
+				-122.4736751,
+				49.0407042
+			]
+		}
+	]
+}

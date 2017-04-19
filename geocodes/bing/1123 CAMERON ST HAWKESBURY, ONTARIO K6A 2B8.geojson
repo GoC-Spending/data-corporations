@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1123 Cameron St, Hawkesbury, ON K6A 2B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8007c36e807a4cd78e5b9391342664f6|BN20121762|7.7.0.0|",
+				"addressLine": "1123 Cameron St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "1123 Cameron St, Hawkesbury, ON K6A 2B8, Canada",
+				"locality": "Hawkesbury",
+				"postalCode": "K6A 2B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.5978401,
+					45.59767
+				]
+			},
+			"bbox": [
+				-74.5994467,
+				45.5965458,
+				-74.5962334,
+				45.5987941
+			]
+		}
+	]
+}

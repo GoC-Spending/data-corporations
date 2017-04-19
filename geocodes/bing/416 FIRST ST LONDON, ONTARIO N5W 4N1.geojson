@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "416 1st St, London, ON N5W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32e4db22bf594574b088b9b3abf48ff9|BN20130522|7.7.0.0|",
+				"addressLine": "416 1st St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "416 1st St, London, ON N5W, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5W 4N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1944,
+					43.0008
+				]
+			},
+			"bbox": [
+				-81.1959371,
+				42.9996758,
+				-81.1928629,
+				43.0019242
+			]
+		}
+	]
+}

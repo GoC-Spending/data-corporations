@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Front St S, Orillia, ON L3V 4S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64faf54b6824403e95f47c0335e53255|BN20130632|7.7.0.0|",
+				"addressLine": "150 Front St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Front St S, Orillia, ON L3V 4S7, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 4S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4110496,
+					44.606232
+				]
+			},
+			"bbox": [
+				-79.4126286,
+				44.6051078,
+				-79.4094706,
+				44.6073561
+			]
+		}
+	]
+}

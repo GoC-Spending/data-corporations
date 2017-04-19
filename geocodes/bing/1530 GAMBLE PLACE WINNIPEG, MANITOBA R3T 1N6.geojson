@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1530 Gamble Pl, Winnipeg, MB R3T 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9250452dad444fc7ab79f4dcca3392cc|BN20181720|7.7.0.0|",
+				"addressLine": "1530 Gamble Pl",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1530 Gamble Pl, Winnipeg, MB R3T 1N6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chevrier",
+				"postalCode": "R3T 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1738025,
+					49.8342419
+				]
+			},
+			"bbox": [
+				-97.1755454,
+				49.8331177,
+				-97.1720596,
+				49.8353661
+			]
+		}
+	]
+}

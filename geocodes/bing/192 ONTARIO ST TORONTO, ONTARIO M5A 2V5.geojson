@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "192 Ontario St, Toronto, ON M5A 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c810489ff7141b1808e09084194d28e|BN20130520|7.7.0.0|",
+				"addressLine": "192 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "192 Ontario St, Toronto, ON M5A 2V5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36788,
+					43.65673
+				]
+			},
+			"bbox": [
+				-79.3694338,
+				43.6556058,
+				-79.3663262,
+				43.6578542
+			]
+		}
+	]
+}

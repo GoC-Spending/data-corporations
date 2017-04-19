@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 New St, Toronto, ON M5R 1P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "093f2f339ed14c5baeed2a761a155a6c|BN20220145|7.7.0.0|",
+				"addressLine": "9 New St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 New St, Toronto, ON M5R 1P7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 1P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39325,
+					43.6742599
+				]
+			},
+			"bbox": [
+				-79.3948042,
+				43.6731357,
+				-79.3916958,
+				43.6753841
+			]
+		}
+	]
+}

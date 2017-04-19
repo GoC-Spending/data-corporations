@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Lone Oak Ct, Etobicoke, ON M9C 5R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "811cbe96aee146f8b3af6daf9359ff07|BN20130521|7.7.0.0|",
+				"addressLine": "2 Lone Oak Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Lone Oak Ct, Etobicoke, ON M9C 5R9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Eringate-Centennial-West Deane",
+				"postalCode": "M9C 5R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6044659,
+					43.6473359
+				]
+			},
+			"bbox": [
+				-79.6060194,
+				43.6462117,
+				-79.6029123,
+				43.64846
+			]
+		}
+	]
+}

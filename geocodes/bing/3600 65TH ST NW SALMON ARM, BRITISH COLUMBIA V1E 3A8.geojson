@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3600 65th St NW, Salmon Arm, BC V1E 3A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73ead9aa57f045978c8f80ec32741d69|BN20130721|7.7.0.0|",
+				"addressLine": "3600 65th St NW",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Columbia-Shuswap",
+				"countryRegion": "Canada",
+				"formattedAddress": "3600 65th St NW, Salmon Arm, BC V1E 3A8, Canada",
+				"locality": "Salmon Arm",
+				"postalCode": "V1E 3A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.3685061,
+					50.7352934
+				]
+			},
+			"bbox": [
+				-119.3702823,
+				50.7341692,
+				-119.3667299,
+				50.7364175
+			]
+		}
+	]
+}

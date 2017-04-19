@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "513 Westney Rd S, Ajax, ON L1S 6W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "66e98c40bbb14bb2b746acb0f4aa3962|BN20130521|7.7.0.0|",
+				"addressLine": "513 Westney Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "513 Westney Rd S, Ajax, ON L1S 6W8, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1S 6W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.03218,
+					43.83166
+				]
+			},
+			"bbox": [
+				-79.0337383,
+				43.8305358,
+				-79.0306217,
+				43.8327842
+			]
+		}
+	]
+}

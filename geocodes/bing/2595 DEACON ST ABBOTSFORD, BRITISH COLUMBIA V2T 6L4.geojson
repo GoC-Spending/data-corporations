@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2595 Deacon St, Abbotsford, BC V2T 6L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a650381d387441ca5dc5ab10c244fc8|BN20290118|7.7.0.0|",
+				"addressLine": "2595 Deacon St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2595 Deacon St, Abbotsford, BC V2T 6L4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2T 6L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.36793,
+					49.04933
+				]
+			},
+			"bbox": [
+				-122.3696452,
+				49.0482058,
+				-122.3662148,
+				49.0504542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "570 Ebury Pl, Delta, BC V3M 6M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d4135d0f12b4894b560789dcf0a0beb|BN20320521|7.7.0.0|",
+				"addressLine": "570 Ebury Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "570 Ebury Pl, Delta, BC V3M 6M8, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 6M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.95686,
+					49.15957
+				]
+			},
+			"bbox": [
+				-122.958579,
+				49.1584458,
+				-122.955141,
+				49.1606942
+			]
+		}
+	]
+}

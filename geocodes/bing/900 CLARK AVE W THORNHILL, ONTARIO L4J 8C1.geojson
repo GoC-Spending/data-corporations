@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "900 Clark Ave W, Thornhill, ON L4J 8C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8d68801812541929046c31e8429fe35|BN20130621|7.7.0.0|",
+				"addressLine": "900 Clark Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "900 Clark Ave W, Thornhill, ON L4J 8C1, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 8C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45218,
+					43.8031999
+				]
+			},
+			"bbox": [
+				-79.4537376,
+				43.8020757,
+				-79.4506224,
+				43.8043241
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7887 114A St, Delta, BC V4C 5L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f2bd97c1ac24f55a126070fdef24c87|BN20320521|7.7.0.0|",
+				"addressLine": "7887 114A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7887 114A St, Delta, BC V4C 5L8, Canada",
+				"locality": "Delta",
+				"postalCode": "V4C 5L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9062516,
+					49.1464248
+				]
+			},
+			"bbox": [
+				-122.9079702,
+				49.1453006,
+				-122.9045331,
+				49.1475489
+			]
+		}
+	]
+}

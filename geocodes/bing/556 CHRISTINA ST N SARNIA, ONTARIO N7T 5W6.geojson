@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "556 Christina St N, Sarnia, ON N7T 5W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5b9207730e04d4b8ea053a98edc8bc5|BN20121762|7.7.0.0|",
+				"addressLine": "556 Christina St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "556 Christina St N, Sarnia, ON N7T 5W6, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 5W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4007685,
+					42.9838205
+				]
+			},
+			"bbox": [
+				-82.4023052,
+				42.9826963,
+				-82.3992318,
+				42.9849446
+			]
+		}
+	]
+}

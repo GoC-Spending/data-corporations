@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Pacific Ave, Sudbury, ON P3C 3H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "211aeb9d447742fe86edf334588921a6|BN20130442|7.7.0.0|",
+				"addressLine": "48 Pacific Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Pacific Ave, Sudbury, ON P3C 3H9, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3C 3H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0207371,
+					46.4749571
+				]
+			},
+			"bbox": [
+				-81.0223695,
+				46.473833,
+				-81.0191048,
+				46.4760813
+			]
+		}
+	]
+}

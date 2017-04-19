@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1331 Westdel Bourne, London, ON N6K 4R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab8c5543352b4636a5aea2a7ce94aef1|CO30323712|7.7.0.0|",
+				"addressLine": "1331 Westdel Bourne",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1331 Westdel Bourne, London, ON N6K 4R1, Canada",
+				"locality": "London",
+				"neighborhood": "Woodhull",
+				"postalCode": "N6K 4R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3636,
+					42.9592
+				]
+			},
+			"bbox": [
+				-81.3651361,
+				42.9580758,
+				-81.3620639,
+				42.9603242
+			]
+		}
+	]
+}

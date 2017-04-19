@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "800 Jamieson Pkwy, Cambridge, ON N3C 4N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "591fc87f9ea646ad83ef8dc9876e1c10|BN20260231|7.7.0.0|",
+				"addressLine": "800 Jamieson Pkwy",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "800 Jamieson Pkwy, Cambridge, ON N3C 4N6, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Hespeler Village",
+				"postalCode": "N3C 4N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.28642,
+					43.42257
+				]
+			},
+			"bbox": [
+				-80.2879678,
+				43.4214458,
+				-80.2848722,
+				43.4236942
+			]
+		}
+	]
+}

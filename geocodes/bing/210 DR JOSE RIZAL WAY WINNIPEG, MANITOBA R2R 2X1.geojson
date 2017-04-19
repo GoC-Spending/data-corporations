@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 Dr Jose Rizal Way, Winnipeg, MB R2R 2X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1ba5a80e5ab4aa5b88d6cb1cbe53325|BN20130632|7.7.0.0|",
+				"addressLine": "210 Dr Jose Rizal Way",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 Dr Jose Rizal Way, Winnipeg, MB R2R 2X1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Gardens",
+				"postalCode": "R2R 2X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19558,
+					49.95818
+				]
+			},
+			"bbox": [
+				-97.1973274,
+				49.9570558,
+				-97.1938326,
+				49.9593042
+			]
+		}
+	]
+}

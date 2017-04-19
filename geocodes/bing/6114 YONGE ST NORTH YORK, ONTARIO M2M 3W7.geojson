@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6114 Yonge St, North York, ON M2M 3W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97a21239cd8e410ab9548f795299f305|BN20130431|7.7.0.0|",
+				"addressLine": "6114 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "6114 Yonge St, North York, ON M2M 3W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook West",
+				"postalCode": "M2M 3W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4188,
+					43.79135
+				]
+			},
+			"bbox": [
+				-79.4203573,
+				43.7902258,
+				-79.4172427,
+				43.7924742
+			]
+		}
+	]
+}

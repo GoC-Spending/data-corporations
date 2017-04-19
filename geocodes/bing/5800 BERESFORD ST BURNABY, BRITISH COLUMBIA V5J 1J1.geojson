@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5800 Beresford St, Burnaby, BC V5J 1J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "103c9e82323f415fb72998a30bcefdf1|BN20121762|7.7.0.0|",
+				"addressLine": "5800 Beresford St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5800 Beresford St, Burnaby, BC V5J 1J1, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Clinton-Glenwood",
+				"postalCode": "V5J 1J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9792237,
+					49.2178295
+				]
+			},
+			"bbox": [
+				-122.9809447,
+				49.2167053,
+				-122.9775026,
+				49.2189536
+			]
+		}
+	]
+}

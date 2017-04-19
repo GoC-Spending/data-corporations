@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "743 McAllister Loop SW, Edmonton, AB T6W 1R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a63d00ca4534c9598379c4c1c69cc6b|BN20320521|7.7.0.0|",
+				"addressLine": "743 McAllister Loop SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "743 McAllister Loop SW, Edmonton, AB T6W 1R5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "MacEwan",
+				"postalCode": "T6W 1R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.52551,
+					53.43027
+				]
+			},
+			"bbox": [
+				-113.5273968,
+				53.4291458,
+				-113.5236232,
+				53.4313942
+			]
+		}
+	]
+}

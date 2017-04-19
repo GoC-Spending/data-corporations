@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Central Park Ave, Dundas, ON L9H 2M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f443d17e37264f40ac54872cfb8a5c7b|BN20240423|7.7.0.0|",
+				"addressLine": "38 Central Park Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Central Park Ave, Dundas, ON L9H 2M7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 2M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9601,
+					43.26309
+				]
+			},
+			"bbox": [
+				-79.9616437,
+				43.2619658,
+				-79.9585563,
+				43.2642142
+			]
+		}
+	]
+}

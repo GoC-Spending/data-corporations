@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8327 124 St, Surrey, BC V3W 9G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "80e1d51e96b045d19b8795aa95476d82|BN20220145|7.7.0.0|",
+				"addressLine": "8327 124 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8327 124 St, Surrey, BC V3W 9G2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 9G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87935,
+					49.15439
+				]
+			},
+			"bbox": [
+				-122.8810688,
+				49.1532658,
+				-122.8776312,
+				49.1555142
+			]
+		}
+	]
+}

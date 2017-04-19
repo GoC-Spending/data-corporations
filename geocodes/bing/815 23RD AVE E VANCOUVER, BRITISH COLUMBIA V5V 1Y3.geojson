@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "815 E 23rd Ave, Vancouver, BC V5V 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1507f682342a4e7682d19b79f6b4cade|BN20181720|7.7.0.0|",
+				"addressLine": "815 E 23rd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "815 E 23rd Ave, Vancouver, BC V5V 1Y3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5V 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08731,
+					49.25036
+				]
+			},
+			"bbox": [
+				-123.0890322,
+				49.2492358,
+				-123.0855878,
+				49.2514842
+			]
+		}
+	]
+}

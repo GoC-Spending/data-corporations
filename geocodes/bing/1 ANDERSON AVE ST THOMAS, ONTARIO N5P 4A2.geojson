@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Anderson Ave, St Thomas, ON N5P 4A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "67c49932953d45c691603b512d5af2ef|BN20130442|7.7.0.0|",
+				"addressLine": "1 Anderson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Anderson Ave, St Thomas, ON N5P 4A2, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 4A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1559794,
+					42.7874249
+				]
+			},
+			"bbox": [
+				-81.1575112,
+				42.7863007,
+				-81.1544476,
+				42.7885491
+			]
+		}
+	]
+}

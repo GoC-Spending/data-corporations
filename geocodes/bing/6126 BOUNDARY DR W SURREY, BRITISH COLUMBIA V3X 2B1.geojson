@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6126 Boundary Dr W, Surrey, BC V3X 2B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d6a3cb30e1943ccb49f049900c6e15e|BN20160335|7.7.0.0|",
+				"addressLine": "6126 Boundary Dr W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6126 Boundary Dr W, Surrey, BC V3X 2B1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3X 2B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.88597,
+					49.11428
+				]
+			},
+			"bbox": [
+				-122.8876874,
+				49.1131558,
+				-122.8842526,
+				49.1154042
+			]
+		}
+	]
+}

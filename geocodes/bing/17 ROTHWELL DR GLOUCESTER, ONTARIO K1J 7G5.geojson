@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Rothwell Dr, Gloucester, ON K1J 7G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1a28a9a111f94c439fea22ab85592a77|BN20171457|7.7.0.0|",
+				"addressLine": "17 Rothwell Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Rothwell Dr, Gloucester, ON K1J 7G5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1J 7G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61165,
+					45.4535399
+				]
+			},
+			"bbox": [
+				-75.6132525,
+				45.4524157,
+				-75.6100475,
+				45.4546641
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Higgins Ave, Winnipeg, MB R3B 0A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e9bc053da8ac4424aa88cc17d517c590|BN20181720|7.7.0.0|",
+				"addressLine": "7 Higgins Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Higgins Ave, Winnipeg, MB R3B 0A1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North Point Douglas",
+				"postalCode": "R3B 0A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.11579,
+					49.90332
+				]
+			},
+			"bbox": [
+				-97.1175354,
+				49.9021958,
+				-97.1140446,
+				49.9044442
+			]
+		}
+	]
+}

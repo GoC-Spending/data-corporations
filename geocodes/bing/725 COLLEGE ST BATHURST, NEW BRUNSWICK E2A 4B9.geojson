@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "725 College St, Bathurst, NB E2A 4B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f6f7a6d54fc412bb4830906350dda19|BN20130423|7.7.0.0|",
+				"addressLine": "725 College St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Gloucester",
+				"countryRegion": "Canada",
+				"formattedAddress": "725 College St, Bathurst, NB E2A 4B9, Canada",
+				"locality": "Bathurst",
+				"postalCode": "E2A 4B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.6727388,
+					47.6226752
+				]
+			},
+			"bbox": [
+				-65.6744066,
+				47.6215511,
+				-65.6710709,
+				47.6237994
+			]
+		}
+	]
+}

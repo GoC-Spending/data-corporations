@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "235 Wilkinson Rd, Brampton, ON L6T 4M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c263cf271547400e9128c7dbc8079648|BN20200239|7.7.0.0|",
+				"addressLine": "235 Wilkinson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "235 Wilkinson Rd, Brampton, ON L6T 4M2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69772,
+					43.68484
+				]
+			},
+			"bbox": [
+				-79.6992745,
+				43.6837158,
+				-79.6961655,
+				43.6859642
+			]
+		}
+	]
+}

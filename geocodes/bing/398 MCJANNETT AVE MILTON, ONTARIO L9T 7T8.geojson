@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "398 McJannett Ave, Milton, ON L9T 7T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b6dbe2360f8410c830f6e4dc7249208|BN20200137|7.7.0.0|",
+				"addressLine": "398 McJannett Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "398 McJannett Ave, Milton, ON L9T 7T8, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 7T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87502,
+					43.48247
+				]
+			},
+			"bbox": [
+				-79.8765693,
+				43.4813458,
+				-79.8734707,
+				43.4835942
+			]
+		}
+	]
+}

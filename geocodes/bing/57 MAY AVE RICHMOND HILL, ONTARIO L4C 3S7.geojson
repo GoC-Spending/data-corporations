@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "57 May Ave, Richmond Hill, ON L4C 3S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21296cea565349138f74c7f94fa4eb29|BN20130533|7.7.0.0|",
+				"addressLine": "57 May Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "57 May Ave, Richmond Hill, ON L4C 3S7, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Richvale",
+				"postalCode": "L4C 3S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44041,
+					43.8626
+				]
+			},
+			"bbox": [
+				-79.4419691,
+				43.8614758,
+				-79.4388509,
+				43.8637242
+			]
+		}
+	]
+}

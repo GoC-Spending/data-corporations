@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Harbour Rd, Victoria, BC V9A 0G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b1a222758974054930c09a295bf3707|BN20220145|7.7.0.0|",
+				"addressLine": "100 Harbour Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Harbour Rd, Victoria, BC V9A 0G1, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 0G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3750668,
+					48.42823
+				]
+			},
+			"bbox": [
+				-123.3767609,
+				48.4271058,
+				-123.3733727,
+				48.4293541
+			]
+		}
+	]
+}

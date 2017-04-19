@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1544 Glengarry Ave, London, ON N5X 1R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91dfb68aef454fc2917dd2a2b2d60a90|BN20130533|7.7.0.0|",
+				"addressLine": "1544 Glengarry Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1544 Glengarry Ave, London, ON N5X 1R5, Canada",
+				"locality": "London",
+				"neighborhood": "Stoneybrook",
+				"postalCode": "N5X 1R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2453,
+					43.0368
+				]
+			},
+			"bbox": [
+				-81.246838,
+				43.0356758,
+				-81.243762,
+				43.0379242
+			]
+		}
+	]
+}

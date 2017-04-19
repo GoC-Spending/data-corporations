@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Elm St S, Brockton, ON N0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da08d17e229d4665a643724399c565bf|BN20130442|7.7.0.0|",
+				"addressLine": "35 Elm St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Elm St S, Brockton, ON N0G, Canada",
+				"locality": "Brockton",
+				"neighborhood": "Walkerton",
+				"postalCode": "N0G 2V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.141727,
+					44.1335675
+				]
+			},
+			"bbox": [
+				-81.1432933,
+				44.1324434,
+				-81.1401607,
+				44.1346917
+			]
+		}
+	]
+}

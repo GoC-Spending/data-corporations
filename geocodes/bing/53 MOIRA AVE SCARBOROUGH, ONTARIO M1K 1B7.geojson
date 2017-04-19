@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "53 Moira Ave, Scarborough, ON M1K 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40a50fa66897499f82ecc49fb9abe243|BN20130620|7.7.0.0|",
+				"addressLine": "53 Moira Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "53 Moira Ave, Scarborough, ON M1K 1B7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1K 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26185,
+					43.70934
+				]
+			},
+			"bbox": [
+				-79.2634052,
+				43.7082158,
+				-79.2602948,
+				43.7104642
+			]
+		}
+	]
+}

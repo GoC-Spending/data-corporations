@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Stansbury Cres, Scarborough, ON M1K 4R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ad2b1b5ca9749e8aa4ca2933802ac0d|BN20130447|7.7.0.0|",
+				"addressLine": "32 Stansbury Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Stansbury Cres, Scarborough, ON M1K 4R6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bendale",
+				"postalCode": "M1K 4R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25841,
+					43.7425799
+				]
+			},
+			"bbox": [
+				-79.259966,
+				43.7414557,
+				-79.256854,
+				43.7437041
+			]
+		}
+	]
+}

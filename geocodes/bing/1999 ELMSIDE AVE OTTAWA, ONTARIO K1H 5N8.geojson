@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1999 Elmside Ave, Ottawa, ON K1H 5N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3850550e549047b89fa6f269b1cc649f|BN20240423|7.7.0.0|",
+				"addressLine": "1999 Elmside Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1999 Elmside Ave, Ottawa, ON K1H 5N8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Playfair Park-Lynda Park-Guildwood",
+				"postalCode": "K1H 5N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.64548,
+					45.3948899
+				]
+			},
+			"bbox": [
+				-75.6470809,
+				45.3937657,
+				-75.6438791,
+				45.3960141
+			]
+		}
+	]
+}

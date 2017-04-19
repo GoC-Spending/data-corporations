@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1075 Bay St, Toronto, ON M5S 2B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ec29d689e3543b281c984dc3c97e247|BN20130625|7.7.0.0|",
+				"addressLine": "1075 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1075 Bay St, Toronto, ON M5S 2B2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5S 2B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38798,
+					43.66716
+				]
+			},
+			"bbox": [
+				-79.3895341,
+				43.6660358,
+				-79.3864259,
+				43.6682842
+			]
+		}
+	]
+}

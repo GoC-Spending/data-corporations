@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Munster Ave, Etobicoke, ON M8Z 3C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10b9eb3235534582a7b164da1b90f6c0|BN20121763|7.7.0.0|",
+				"addressLine": "375 Munster Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Munster Ave, Etobicoke, ON M8Z 3C8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 3C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53197,
+					43.63793
+				]
+			},
+			"bbox": [
+				-79.5335233,
+				43.6368058,
+				-79.5304167,
+				43.6390542
+			]
+		}
+	]
+}

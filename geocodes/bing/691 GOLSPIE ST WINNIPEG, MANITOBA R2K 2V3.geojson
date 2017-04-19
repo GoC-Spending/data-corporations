@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "691 Golspie St, Winnipeg, MB R2K 2V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c34ee74b57de4b8bb3d435edefdbd1ca|BN20130632|7.7.0.0|",
+				"addressLine": "691 Golspie St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "691 Golspie St, Winnipeg, MB R2K 2V3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Munroe West",
+				"postalCode": "R2K 2V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.08684,
+					49.92046
+				]
+			},
+			"bbox": [
+				-97.088586,
+				49.9193358,
+				-97.085094,
+				49.9215842
+			]
+		}
+	]
+}

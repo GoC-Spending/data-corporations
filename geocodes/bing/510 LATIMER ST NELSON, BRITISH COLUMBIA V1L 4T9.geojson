@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "510 Latimer St, Nelson, BC V1L 4T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f5891ef2d55477ab5c762e7c65b1294|BN20160335|7.7.0.0|",
+				"addressLine": "510 Latimer St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "510 Latimer St, Nelson, BC V1L 4T9, Canada",
+				"locality": "Nelson",
+				"postalCode": "V1L 4T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.29,
+					49.48822
+				]
+			},
+			"bbox": [
+				-117.2917305,
+				49.4870958,
+				-117.2882695,
+				49.4893442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2975 Allenby Rd, Duncan, BC V9L 6V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "124f11348a724b0f9dadc315abcdde76|BN20160335|7.7.0.0|",
+				"addressLine": "2975 Allenby Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2975 Allenby Rd, Duncan, BC V9L 6V8, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.7027581,
+					48.7662858
+				]
+			},
+			"bbox": [
+				-123.7044636,
+				48.7651616,
+				-123.7010526,
+				48.7674099
+			]
+		}
+	]
+}

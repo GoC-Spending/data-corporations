@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3530 Pharmacy Ave, Scarborough, ON M1W 2S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f981b5c8b334b04940a99b636bc1e8e|BN20130532|7.7.0.0|",
+				"addressLine": "3530 Pharmacy Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3530 Pharmacy Ave, Scarborough, ON M1W 2S7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Steeles",
+				"postalCode": "M1W 2S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33416,
+					43.8110799
+				]
+			},
+			"bbox": [
+				-79.3357178,
+				43.8099557,
+				-79.3326022,
+				43.8122041
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "381 Park Ave W, Chatham, ON N7M 1W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97aede46d41440d19d8c608745447453|BN20210145|7.7.0.0|",
+				"addressLine": "381 Park Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "381 Park Ave W, Chatham, ON N7M 1W6, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7M 1W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.18904,
+					42.38935
+				]
+			},
+			"bbox": [
+				-82.190562,
+				42.3882258,
+				-82.187518,
+				42.3904742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Rue Speid, Sherbrooke, QC J1M 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "387d2be13374493f84e392d37d6bdada|BN20240423|7.7.0.0|",
+				"addressLine": "26 Rue Speid",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Rue Speid, Sherbrooke, QC J1M 1S1, Canada",
+				"locality": "Sherbrooke",
+				"neighborhood": "Lennoxville",
+				"postalCode": "J1M 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.86287,
+					45.3690799
+				]
+			},
+			"bbox": [
+				-71.8644701,
+				45.3679557,
+				-71.8612699,
+				45.3702041
+			]
+		}
+	]
+}

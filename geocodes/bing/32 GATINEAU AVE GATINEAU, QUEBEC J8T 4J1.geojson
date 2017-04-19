@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Avenue Gatineau, Gatineau, QC J8T 4J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f31f4bc90ee462588012a3ec5aaa574|BN20130431|7.7.0.0|",
+				"addressLine": "32 Avenue Gatineau",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Avenue Gatineau, Gatineau, QC J8T 4J1, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier des Riverains",
+				"postalCode": "J8T 4J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72761,
+					45.47715
+				]
+			},
+			"bbox": [
+				-75.7292132,
+				45.4760258,
+				-75.7260068,
+				45.4782742
+			]
+		}
+	]
+}

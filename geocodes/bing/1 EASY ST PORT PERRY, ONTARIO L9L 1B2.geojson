@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Easy St, Port Perry, ON L9L 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7e435c8632847c58bc9057d88125b03|BN20121762|7.7.0.0|",
+				"addressLine": "1 Easy St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Easy St, Port Perry, ON L9L 1B2, Canada",
+				"locality": "Scugog",
+				"neighborhood": "Port Perry",
+				"postalCode": "L9L 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9820699,
+					44.09304
+				]
+			},
+			"bbox": [
+				-78.9836351,
+				44.0919158,
+				-78.9805047,
+				44.0941642
+			]
+		}
+	]
+}

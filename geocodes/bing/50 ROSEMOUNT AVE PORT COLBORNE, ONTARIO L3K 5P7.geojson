@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Rosemount Ave, Port Colborne, ON L3K 5P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e715e1918fb4b61a49bc6de5d9d5c3e|BN20121764|7.7.0.0|",
+				"addressLine": "50 Rosemount Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Rosemount Ave, Port Colborne, ON L3K 5P7, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 5P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27065,
+					42.8794899
+				]
+			},
+			"bbox": [
+				-79.2721841,
+				42.8783657,
+				-79.2691159,
+				42.8806141
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1229 Judge Pl, Victoria, BC V8P 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54a1e45e15e8414b90e71d275035098b|BN20130632|7.7.0.0|",
+				"addressLine": "1229 Judge Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1229 Judge Pl, Victoria, BC V8P 2C7, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8P 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.35326,
+					48.46106
+				]
+			},
+			"bbox": [
+				-123.3549552,
+				48.4599358,
+				-123.3515648,
+				48.4621842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "44 Larkmead Cres, Markham, ON L6C 3E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0a21fb9c4a9443359acbc1702209a238|BN20200239|7.7.0.0|",
+				"addressLine": "44 Larkmead Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "44 Larkmead Cres, Markham, ON L6C 3E1, Canada",
+				"locality": "Markham",
+				"postalCode": "L6C 3E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36388,
+					43.89368
+				]
+			},
+			"bbox": [
+				-79.36544,
+				43.8925558,
+				-79.36232,
+				43.8948042
+			]
+		}
+	]
+}

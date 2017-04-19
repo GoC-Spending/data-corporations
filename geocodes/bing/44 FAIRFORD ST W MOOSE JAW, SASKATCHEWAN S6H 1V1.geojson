@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "44 Fairford St W, Moose Jaw, SK S6H 1V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74f9c752f0c64930846badfd83d70324|BN20130521|7.7.0.0|",
+				"addressLine": "44 Fairford St W",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "44 Fairford St W, Moose Jaw, SK S6H 1V1, Canada",
+				"locality": "Moose Jaw",
+				"postalCode": "S6H 1V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.5359824,
+					50.3927067
+				]
+			},
+			"bbox": [
+				-105.5377457,
+				50.3915825,
+				-105.5342191,
+				50.3938308
+			]
+		}
+	]
+}

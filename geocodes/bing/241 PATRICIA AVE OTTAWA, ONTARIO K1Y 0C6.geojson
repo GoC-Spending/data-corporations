@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "241 Patricia Ave, Ottawa, ON K1Y 0C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7eb08c9cfd2d453096bde30d63c2a19a|BN20220145|7.7.0.0|",
+				"addressLine": "241 Patricia Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "241 Patricia Ave, Ottawa, ON K1Y 0C6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Island Park",
+				"postalCode": "K1Y 0C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.74676,
+					45.40049
+				]
+			},
+			"bbox": [
+				-75.748361,
+				45.3993658,
+				-75.745159,
+				45.4016142
+			]
+		}
+	]
+}

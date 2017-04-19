@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10177 104 St NW, Edmonton, AB T5J 0Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "80a0079f30d64cb49710f80f2b9bfaba|BN20130520|7.7.0.0|",
+				"addressLine": "10177 104 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10177 104 St NW, Edmonton, AB T5J 0Z9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 0Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49867,
+					53.54266
+				]
+			},
+			"bbox": [
+				-113.5005618,
+				53.5415358,
+				-113.4967782,
+				53.5437842
+			]
+		}
+	]
+}

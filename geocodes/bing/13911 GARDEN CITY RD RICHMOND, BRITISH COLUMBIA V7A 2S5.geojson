@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 8,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Garden City Rd, Richmond, BC V7A 2S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "543ffe737b144dd1810d1c08a42d1f24|BN20171457|7.7.0.0|",
+				"addressLine": "Garden City Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Garden City Rd, Richmond, BC V7A 2S5, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Gilmore",
+				"postalCode": "V7A 2S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12564,
+					49.11836
+				]
+			},
+			"bbox": [
+				-123.1257,
+				49.1131699,
+				-123.12563,
+				49.11894
+			]
+		}
+	]
+}

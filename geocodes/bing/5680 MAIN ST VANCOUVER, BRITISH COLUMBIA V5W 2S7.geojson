@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5680 Main St, Vancouver, BC V5W 2S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "36b9eae7c9704486b3e3ee91f15e569f|BN20130721|7.7.0.0|",
+				"addressLine": "5680 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5680 Main St, Vancouver, BC V5W 2S7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5W 2S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10112,
+					49.23334
+				]
+			},
+			"bbox": [
+				-123.1028416,
+				49.2322158,
+				-123.0993984,
+				49.2344642
+			]
+		}
+	]
+}

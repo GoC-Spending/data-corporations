@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Main St, Montague, PE C0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "325eac19a72a4f90a34bb658c4ccd080|BN20130634|7.7.0.0|",
+				"addressLine": "500 Main St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Main St, Montague, PE C0A, Canada",
+				"locality": "Montague",
+				"postalCode": "C0A 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.6508928,
+					46.172543
+				]
+			},
+			"bbox": [
+				-62.6525161,
+				46.1714189,
+				-62.6492694,
+				46.1736672
+			]
+		}
+	]
+}

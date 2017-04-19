@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "186 Mary St, Dutton, ON N0L 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "022af3cda25341a9bd6e803cc920844b|BN20130533|7.7.0.0|",
+				"addressLine": "186 Mary St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "186 Mary St, Dutton, ON N0L 1J0, Canada",
+				"locality": "Dutton/Dunwich",
+				"neighborhood": "Dutton",
+				"postalCode": "N0L 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.5002794,
+					42.6652059
+				]
+			},
+			"bbox": [
+				-81.5018082,
+				42.6640817,
+				-81.4987506,
+				42.66633
+			]
+		}
+	]
+}

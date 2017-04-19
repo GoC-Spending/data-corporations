@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 Main St E, Milton, ON L9T 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4c6d5e889f94a60b74778659189bd60|BN20210145|7.7.0.0|",
+				"addressLine": "350 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 Main St E, Milton, ON L9T 1P6, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87966,
+					43.51603
+				]
+			},
+			"bbox": [
+				-79.8812102,
+				43.5149058,
+				-79.8781098,
+				43.5171542
+			]
+		}
+	]
+}

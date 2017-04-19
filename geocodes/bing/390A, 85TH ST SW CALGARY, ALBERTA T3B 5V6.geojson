@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "390 85 St SW, Calgary, AB T3B 5V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7662b474b9e949e8a512a2c09df6cdde|BN20121763|7.7.0.0|",
+				"addressLine": "390 85 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "390 85 St SW, Calgary, AB T3B 5V6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Canada Olympic Park",
+				"postalCode": "T3B 5V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.2108161,
+					51.075903
+				]
+			},
+			"bbox": [
+				-114.2126054,
+				51.0747788,
+				-114.2090269,
+				51.0770271
+			]
+		}
+	]
+}

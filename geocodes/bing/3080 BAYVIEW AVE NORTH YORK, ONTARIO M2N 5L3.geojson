@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3080 Bayview Ave, North York, ON M2N 5L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89efa42e91e14907b0050e194663318f|BN20260223|7.7.0.0|",
+				"addressLine": "3080 Bayview Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3080 Bayview Ave, North York, ON M2N 5L3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 5L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39113,
+					43.77921
+				]
+			},
+			"bbox": [
+				-79.392687,
+				43.7780858,
+				-79.389573,
+				43.7803342
+			]
+		}
+	]
+}

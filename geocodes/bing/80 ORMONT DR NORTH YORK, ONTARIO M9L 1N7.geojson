@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Ormont Dr, North York, ON M9L 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eea376f139e5414387175fef93aaa667|BN20130532|7.7.0.0|",
+				"addressLine": "80 Ormont Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Ormont Dr, North York, ON M9L 1N7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humber Summit",
+				"postalCode": "M9L 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53702,
+					43.76743
+				]
+			},
+			"bbox": [
+				-79.5385767,
+				43.7663058,
+				-79.5354633,
+				43.7685542
+			]
+		}
+	]
+}

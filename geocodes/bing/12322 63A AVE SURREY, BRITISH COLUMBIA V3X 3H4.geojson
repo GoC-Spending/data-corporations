@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12322 63A Ave, Surrey, BC V3X 3H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c20ada13407f445a938084ee24b75dc1|BN20171457|7.7.0.0|",
+				"addressLine": "12322 63A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12322 63A Ave, Surrey, BC V3X 3H4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3X 3H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8814682,
+					49.1181704
+				]
+			},
+			"bbox": [
+				-122.8831858,
+				49.1170463,
+				-122.8797506,
+				49.1192946
+			]
+		}
+	]
+}

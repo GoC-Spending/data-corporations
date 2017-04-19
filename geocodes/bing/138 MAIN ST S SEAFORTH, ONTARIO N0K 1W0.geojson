@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "138 Main St S, Huron East, ON N0K 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1388a00474f2493b95162fb5565716d6|BN20240423|7.7.0.0|",
+				"addressLine": "138 Main St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "138 Main St S, Huron East, ON N0K 1M0, Canada",
+				"locality": "Huron East",
+				"neighborhood": "Seaforth",
+				"postalCode": "N0K 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3963799,
+					43.54933
+				]
+			},
+			"bbox": [
+				-81.3979309,
+				43.5482058,
+				-81.3948289,
+				43.5504542
+			]
+		}
+	]
+}

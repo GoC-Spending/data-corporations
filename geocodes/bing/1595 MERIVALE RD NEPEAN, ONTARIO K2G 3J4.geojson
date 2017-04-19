@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1595 Merivale Rd, Nepean, ON K2G 3J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7288b2aaca540249c63a8adfc16df57|BN20130634|7.7.0.0|",
+				"addressLine": "1595 Merivale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1595 Merivale Rd, Nepean, ON K2G 3J4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 3J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7345023,
+					45.3530822
+				]
+			},
+			"bbox": [
+				-75.736102,
+				45.3519581,
+				-75.7329027,
+				45.3542064
+			]
+		}
+	]
+}

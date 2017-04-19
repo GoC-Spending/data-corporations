@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "361 Victoria Park Ave, Scarborough, ON M4E 3S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5dedb0f60ba4938a90dae37cb6006f9|BN20130625|7.7.0.0|",
+				"addressLine": "361 Victoria Park Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "361 Victoria Park Ave, Scarborough, ON M4E 3S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Birchcliffe-Cliffside",
+				"postalCode": "M4E 3S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28579,
+					43.68567
+				]
+			},
+			"bbox": [
+				-79.2873445,
+				43.6845458,
+				-79.2842355,
+				43.6867942
+			]
+		}
+	]
+}

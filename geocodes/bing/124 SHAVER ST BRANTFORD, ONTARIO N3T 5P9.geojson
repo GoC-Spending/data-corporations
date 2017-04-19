@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 Shaver St, Brantford, ON N3T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "955eeee7e8064a9cb2a61270dc7e7be5|BN20171457|7.7.0.0|",
+				"addressLine": "124 Shaver St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 Shaver St, Brantford, ON N3T, Canada",
+				"locality": "Brant",
+				"neighborhood": "Brantford",
+				"postalCode": "N3T 5P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.18832,
+					43.14223
+				]
+			},
+			"bbox": [
+				-80.1898607,
+				43.1411058,
+				-80.1867793,
+				43.1433542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "185 Magill St, Lively, ON P3Y 1K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f8791e4b339947fcb938d232bdf0161e|BN20131519|7.7.0.0|",
+				"addressLine": "185 Magill St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "185 Magill St, Lively, ON P3Y 1K6, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Lively",
+				"postalCode": "P3Y 1K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.12411,
+					46.43526
+				]
+			},
+			"bbox": [
+				-81.1257412,
+				46.4341358,
+				-81.1224788,
+				46.4363842
+			]
+		}
+	]
+}

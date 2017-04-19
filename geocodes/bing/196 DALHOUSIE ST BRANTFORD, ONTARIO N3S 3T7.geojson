@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "196 Dalhousie St, Brantford, ON N3S 3T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c684c80bca44b328f1aa447c85453d9|BN20121763|7.7.0.0|",
+				"addressLine": "196 Dalhousie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "196 Dalhousie St, Brantford, ON N3S 3T7, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 3T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25826,
+					43.14005
+				]
+			},
+			"bbox": [
+				-80.2598006,
+				43.1389258,
+				-80.2567194,
+				43.1411742
+			]
+		}
+	]
+}

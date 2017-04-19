@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2120 Quadra St, Victoria, BC V8T 4C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "88e3dff9ec1042f3ae29f66fc0621dba|BN20160335|7.7.0.0|",
+				"addressLine": "2120 Quadra St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2120 Quadra St, Victoria, BC V8T 4C5, Canada",
+				"locality": "Victoria",
+				"neighborhood": "North Park",
+				"postalCode": "V8T 4C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.35891,
+					48.43286
+				]
+			},
+			"bbox": [
+				-123.3606043,
+				48.4317358,
+				-123.3572157,
+				48.4339842
+			]
+		}
+	]
+}

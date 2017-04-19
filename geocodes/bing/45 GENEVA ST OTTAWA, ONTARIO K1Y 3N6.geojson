@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Geneva St, Ottawa, ON K1Y 3N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd17688ff77248ccb69a6ef9acdd248d|BN20130522|7.7.0.0|",
+				"addressLine": "45 Geneva St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Geneva St, Ottawa, ON K1Y 3N6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Island Park",
+				"postalCode": "K1Y 3N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7344899,
+					45.39226
+				]
+			},
+			"bbox": [
+				-75.7360907,
+				45.3911358,
+				-75.7328891,
+				45.3933842
+			]
+		}
+	]
+}

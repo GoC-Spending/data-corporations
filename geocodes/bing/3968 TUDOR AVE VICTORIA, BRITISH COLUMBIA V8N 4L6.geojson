@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3968 Tudor Ave, Saanich, BC V8P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c682c12bf6da44a0a479cce2614f12e9|BN20131519|7.7.0.0|",
+				"addressLine": "3968 Tudor Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3968 Tudor Ave, Saanich, BC V8P, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.270836,
+					48.4547143
+				]
+			},
+			"bbox": [
+				-123.272531,
+				48.4535902,
+				-123.269141,
+				48.4558385
+			]
+		}
+	]
+}

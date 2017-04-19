@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "590 Alden Rd, Markham, ON L3R 8N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f6d36097e304f68b164ecf756061bd1|BN20130625|7.7.0.0|",
+				"addressLine": "590 Alden Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "590 Alden Rd, Markham, ON L3R 8N2, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 8N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33157,
+					43.83819
+				]
+			},
+			"bbox": [
+				-79.3331285,
+				43.8370658,
+				-79.3300115,
+				43.8393142
+			]
+		}
+	]
+}

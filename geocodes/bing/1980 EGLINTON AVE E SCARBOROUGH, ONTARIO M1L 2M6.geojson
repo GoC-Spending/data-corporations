@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1980 Eglinton Ave E, Scarborough, ON M1L 2M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fff9841703c452884d688ca0fd87707|BN20290118|7.7.0.0|",
+				"addressLine": "1980 Eglinton Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1980 Eglinton Ave E, Scarborough, ON M1L 2M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1L 2M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2842299,
+					43.7295299
+				]
+			},
+			"bbox": [
+				-79.2857856,
+				43.7284057,
+				-79.2826742,
+				43.7306541
+			]
+		}
+	]
+}

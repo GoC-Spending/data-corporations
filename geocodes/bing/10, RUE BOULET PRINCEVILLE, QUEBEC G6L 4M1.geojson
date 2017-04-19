@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Rue Boulet, Princeville, QC G6L 4M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df12ec76a5c145208e3f383c168dd735|BN20131519|7.7.0.0|",
+				"addressLine": "10 Rue Boulet",
+				"adminDistrict": "QC",
+				"adminDistrict2": "L'Érable",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Rue Boulet, Princeville, QC G6L 4M1, Canada",
+				"locality": "Princeville",
+				"postalCode": "G6L 4M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.88942,
+					46.15717
+				]
+			},
+			"bbox": [
+				-71.8910429,
+				46.1560458,
+				-71.8877971,
+				46.1582942
+			]
+		}
+	]
+}

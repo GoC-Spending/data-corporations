@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "940 Kingsway, Vancouver, BC V5V 3C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03ae22a0a0d44c0fbcdc1df65366bd94|BN20121762|7.7.0.0|",
+				"addressLine": "940 Kingsway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "940 Kingsway, Vancouver, BC V5V 3C4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5V 3C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0848404,
+					49.2542196
+				]
+			},
+			"bbox": [
+				-123.0865627,
+				49.2530955,
+				-123.0831181,
+				49.2553438
+			]
+		}
+	]
+}

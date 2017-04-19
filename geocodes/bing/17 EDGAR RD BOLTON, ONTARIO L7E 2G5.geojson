@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Edgar Rd, Bolton, ON L7E 2G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53d82153920e422ea8881802d0f56fd1|BN20130532|7.7.0.0|",
+				"addressLine": "17 Edgar Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Edgar Rd, Bolton, ON L7E 2G5, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 2G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7097,
+					43.86811
+				]
+			},
+			"bbox": [
+				-79.7112593,
+				43.8669858,
+				-79.7081407,
+				43.8692342
+			]
+		}
+	]
+}

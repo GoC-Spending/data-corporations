@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Larwood Blvd, Scarborough, ON M1M 2M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d07015e5bf2947418b132d48989ea49f|BN20160335|7.7.0.0|",
+				"addressLine": "55 Larwood Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Larwood Blvd, Scarborough, ON M1M 2M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Cliffcrest",
+				"postalCode": "M1M 2M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23711,
+					43.71506
+				]
+			},
+			"bbox": [
+				-79.2386653,
+				43.7139358,
+				-79.2355547,
+				43.7161842
+			]
+		}
+	]
+}

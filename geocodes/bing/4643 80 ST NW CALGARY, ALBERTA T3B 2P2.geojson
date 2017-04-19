@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4643 80 St NW, Calgary, AB T3B 2P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06832513bca0442189cedff7bd9d37ce|BN20121762|7.7.0.0|",
+				"addressLine": "4643 80 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4643 80 St NW, Calgary, AB T3B 2P2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Bowness",
+				"postalCode": "T3B 2P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.2039,
+					51.09352
+				]
+			},
+			"bbox": [
+				-114.2056899,
+				51.0923958,
+				-114.2021101,
+				51.0946442
+			]
+		}
+	]
+}

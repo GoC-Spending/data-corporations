@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Sophia St, Brockville, ON K6V 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3453688f6948424aaa198468cd656e5a|BN20181720|7.7.0.0|",
+				"addressLine": "16 Sophia St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Sophia St, Brockville, ON K6V 1V4, Canada",
+				"locality": "Brockville",
+				"postalCode": "K6V 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6842999,
+					44.59936
+				]
+			},
+			"bbox": [
+				-75.6858787,
+				44.5982358,
+				-75.6827211,
+				44.6004842
+			]
+		}
+	]
+}

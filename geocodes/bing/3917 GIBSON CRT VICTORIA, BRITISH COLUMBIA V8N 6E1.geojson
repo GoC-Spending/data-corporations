@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3917 Gibson Ct, Victoria, BC V8N 6E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d1d29e5ec0544dca01fb75a6a55763d|BN20121762|7.7.0.0|",
+				"addressLine": "3917 Gibson Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3917 Gibson Ct, Victoria, BC V8N 6E1, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8N 6E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.28306,
+					48.45854
+				]
+			},
+			"bbox": [
+				-123.2847551,
+				48.4574158,
+				-123.2813649,
+				48.4596642
+			]
+		}
+	]
+}

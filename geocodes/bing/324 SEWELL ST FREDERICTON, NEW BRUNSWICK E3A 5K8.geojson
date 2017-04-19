@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "324 Sewell St, Fredericton, NB E3A 5K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b98e8da95ea84f54977310ac47982b55|BN20220145|7.7.0.0|",
+				"addressLine": "324 Sewell St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "324 Sewell St, Fredericton, NB E3A 5K8, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3A 5K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.616,
+					45.96461
+				]
+			},
+			"bbox": [
+				-66.6176172,
+				45.9634858,
+				-66.6143828,
+				45.9657342
+			]
+		}
+	]
+}

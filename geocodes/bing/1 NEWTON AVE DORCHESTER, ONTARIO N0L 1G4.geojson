@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Newton Ave, Dorchester, ON N0L 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "365062b9c1ac4eef84beb85435a8a1e6|BN20260231|7.7.0.0|",
+				"addressLine": "1 Newton Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Newton Ave, Dorchester, ON N0L 1G4, Canada",
+				"locality": "Thames Centre",
+				"neighborhood": "Dorchester",
+				"postalCode": "N0L 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0871972,
+					42.9935322
+				]
+			},
+			"bbox": [
+				-81.0887342,
+				42.992408,
+				-81.0856603,
+				42.9946563
+			]
+		}
+	]
+}

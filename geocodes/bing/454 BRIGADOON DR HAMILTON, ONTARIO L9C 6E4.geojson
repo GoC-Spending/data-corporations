@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "454 Brigadoon Dr, Hamilton, ON L9C 6E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3c137818d7a4ff8b2db01dd91544b20|BN20320521|7.7.0.0|",
+				"addressLine": "454 Brigadoon Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "454 Brigadoon Dr, Hamilton, ON L9C 6E4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Gourley",
+				"postalCode": "L9C 6E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.90315,
+					43.22094
+				]
+			},
+			"bbox": [
+				-79.9046926,
+				43.2198158,
+				-79.9016074,
+				43.2220642
+			]
+		}
+	]
+}

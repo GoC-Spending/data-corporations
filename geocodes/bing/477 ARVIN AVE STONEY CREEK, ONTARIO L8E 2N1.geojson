@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "477 Arvin Ave, Stoney Creek, ON L8E 2N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d725da28263e41b2991c973815a85fad|BN20130533|7.7.0.0|",
+				"addressLine": "477 Arvin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "477 Arvin Ave, Stoney Creek, ON L8E 2N1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 2N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71177,
+					43.22923
+				]
+			},
+			"bbox": [
+				-79.7133129,
+				43.2281058,
+				-79.7102271,
+				43.2303542
+			]
+		}
+	]
+}

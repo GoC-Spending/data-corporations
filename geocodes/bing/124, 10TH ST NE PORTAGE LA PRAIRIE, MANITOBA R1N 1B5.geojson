@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 10th St NE, Portage la Prairie, MB R1N 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f009e8e21d64b62bf50dd0ede1b7f78|BN20250135|7.7.0.0|",
+				"addressLine": "124 10th St NE",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 10th St NE, Portage la Prairie, MB R1N 1B5, Canada",
+				"locality": "Portage la Prairie",
+				"postalCode": "R1N 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.275889,
+					49.9750332
+				]
+			},
+			"bbox": [
+				-98.277637,
+				49.9739091,
+				-98.274141,
+				49.9761574
+			]
+		}
+	]
+}

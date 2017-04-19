@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 MacDonald Ave, Dartmouth, NS B3B 1C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "57e876da65e74a21a3a932f99ec0c6ff|BN20130522|7.7.0.0|",
+				"addressLine": "33 MacDonald Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 MacDonald Ave, Dartmouth, NS B3B 1C6, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3B 1C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.59658,
+					44.69839
+				]
+			},
+			"bbox": [
+				-63.5981615,
+				44.6972658,
+				-63.5949985,
+				44.6995142
+			]
+		}
+	]
+}

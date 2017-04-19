@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "944 Henry Ave, Winnipeg, MB R3E 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ec3ee8907ab46d3be4e263d10394dcf|BN20280152|7.7.0.0|",
+				"addressLine": "944 Henry Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "944 Henry Ave, Winnipeg, MB R3E 3L2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Logan-CPR",
+				"postalCode": "R3E 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.16395,
+					49.91255
+				]
+			},
+			"bbox": [
+				-97.1656957,
+				49.9114258,
+				-97.1622043,
+				49.9136742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Buick Blvd, Brampton, ON L7A 3B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "86ed3559d9d544af87e8ff5546c814e3|BN20121762|7.7.0.0|",
+				"addressLine": "51 Buick Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Buick Blvd, Brampton, ON L7A 3B8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L7A 3B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83756,
+					43.6951899
+				]
+			},
+			"bbox": [
+				-79.8391148,
+				43.6940657,
+				-79.8360052,
+				43.6963141
+			]
+		}
+	]
+}

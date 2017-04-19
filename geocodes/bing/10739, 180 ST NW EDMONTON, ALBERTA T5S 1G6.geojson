@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10739 180 St NW, Edmonton, AB T5S 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af64b4b534004ef9aed9190b90b63b57|BN20130632|7.7.0.0|",
+				"addressLine": "10739 180 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10739 180 St NW, Edmonton, AB T5S 1G6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Wilson Industrial",
+				"postalCode": "T5S 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.62991,
+					53.55415
+				]
+			},
+			"bbox": [
+				-113.6318023,
+				53.5530258,
+				-113.6280177,
+				53.5552742
+			]
+		}
+	]
+}

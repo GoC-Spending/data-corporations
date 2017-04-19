@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "655 King St, Bridgewater, NS B4V 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4086f2bf1f8a47338224b66e4d7ff158|BN20320521|7.7.0.0|",
+				"addressLine": "655 King St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "655 King St, Bridgewater, NS B4V 1B5, Canada",
+				"locality": "Bridgewater",
+				"postalCode": "B4V 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.52069,
+					44.37872
+				]
+			},
+			"bbox": [
+				-64.5222628,
+				44.3775958,
+				-64.5191172,
+				44.3798442
+			]
+		}
+	]
+}

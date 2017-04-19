@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "190 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74c427ab17f7406ea48dfba756a663fd|BN20130521|7.7.0.0|",
+				"addressLine": "190 Rhodes Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "190 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Greenwood-Coxwell",
+				"postalCode": "M4L 3A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31971,
+					43.67048
+				]
+			},
+			"bbox": [
+				-79.3212641,
+				43.6693558,
+				-79.3181559,
+				43.6716042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "47 W Broadway, Vancouver, BC V5Y 1P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f8a92e0a0134a109e3689c966dfce36|BN20250135|7.7.0.0|",
+				"addressLine": "47 W Broadway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "47 W Broadway, Vancouver, BC V5Y 1P1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1059464,
+					49.2631728
+				]
+			},
+			"bbox": [
+				-123.107669,
+				49.2620487,
+				-123.1042238,
+				49.264297
+			]
+		}
+	]
+}

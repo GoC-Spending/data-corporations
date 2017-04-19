@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Legion St, Tobermory, ON N0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1e4b247a06a433bbcea44514500ef69|BN20130634|7.7.0.0|",
+				"addressLine": "39 Legion St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Legion St, Tobermory, ON N0H, Canada",
+				"locality": "Northern Bruce Peninsula",
+				"neighborhood": "Tobermory",
+				"postalCode": "N0H 2R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.66828,
+					45.25548
+				]
+			},
+			"bbox": [
+				-81.6698769,
+				45.2543558,
+				-81.6666831,
+				45.2566042
+			]
+		}
+	]
+}

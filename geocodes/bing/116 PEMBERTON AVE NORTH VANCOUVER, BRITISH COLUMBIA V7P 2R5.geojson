@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "116 Pemberton Ave, North Vancouver, BC V7P 2R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1ada974c3874622ae41c18517d2e834|BN20190653|7.7.0.0|",
+				"addressLine": "116 Pemberton Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "116 Pemberton Ave, North Vancouver, BC V7P 2R5, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norgate",
+				"postalCode": "V7P 2R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1078251,
+					49.31677
+				]
+			},
+			"bbox": [
+				-123.1095496,
+				49.3156459,
+				-123.1061006,
+				49.3178942
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2148 Grand Blvd, North Vancouver, BC V7L 3Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1cf3e6053aa4733aae4f99b51f42de3|BN20260223|7.7.0.0|",
+				"addressLine": "2148 Grand Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2148 Grand Blvd, North Vancouver, BC V7L 3Y7, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7L 3Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.061741,
+					49.3287865
+				]
+			},
+			"bbox": [
+				-123.0634659,
+				49.3276624,
+				-123.0600161,
+				49.3299107
+			]
+		}
+	]
+}

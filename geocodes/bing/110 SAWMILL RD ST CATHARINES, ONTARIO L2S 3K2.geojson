@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Sawmill Rd, St Catharines, ON L2S 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3af3df934be64354a194a12b6c3e0bfb|BN20300154|7.7.0.0|",
+				"addressLine": "110 Sawmill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Sawmill Rd, St Catharines, ON L2S 3K2, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Grapeview",
+				"postalCode": "L2S 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26495,
+					43.15896
+				]
+			},
+			"bbox": [
+				-79.2664911,
+				43.1578358,
+				-79.2634089,
+				43.1600842
+			]
+		}
+	]
+}

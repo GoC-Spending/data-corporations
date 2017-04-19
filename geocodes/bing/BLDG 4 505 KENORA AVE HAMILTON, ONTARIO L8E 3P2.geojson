@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "505 Kenora Ave, Hamilton, ON L8E 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "015ac00d74c044a8a4e68bea2c20a09f|BN20121764|7.7.0.0|",
+				"addressLine": "505 Kenora Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "505 Kenora Ave, Hamilton, ON L8E 3P2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Nashdale",
+				"postalCode": "L8E 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76313,
+					43.24535
+				]
+			},
+			"bbox": [
+				-79.7646733,
+				43.2442258,
+				-79.7615867,
+				43.2464742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5015 46 St, Camrose, AB T4V 3G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "77994fe88c3e4f3289dfe41e43d17755|BN20130423|7.7.0.0|",
+				"addressLine": "5015 46 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5015 46 St, Camrose, AB T4V 3G3, Canada",
+				"locality": "Camrose",
+				"postalCode": "T4V 3G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.8179,
+					53.0221
+				]
+			},
+			"bbox": [
+				-112.8197689,
+				53.0209758,
+				-112.8160311,
+				53.0232242
+			]
+		}
+	]
+}

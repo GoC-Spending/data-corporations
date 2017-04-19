@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Atlantic Ct, London, ON N5V 5H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "287335457cf64cdbb30bb897533f4f0b|BN20200137|7.7.0.0|",
+				"addressLine": "50 Atlantic Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Atlantic Ct, London, ON N5V 5H7, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 5H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1775,
+					43.0139
+				]
+			},
+			"bbox": [
+				-81.1790374,
+				43.0127758,
+				-81.1759626,
+				43.0150242
+			]
+		}
+	]
+}

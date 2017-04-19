@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1800 Lawrence Ave W, North York, ON M6L 1E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "826be93346ff4613ae53501441a8c9f7|BN20130522|7.7.0.0|",
+				"addressLine": "1800 Lawrence Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1800 Lawrence Ave W, North York, ON M6L 1E2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rustic",
+				"postalCode": "M6L 1E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50126,
+					43.70362
+				]
+			},
+			"bbox": [
+				-79.502815,
+				43.7024958,
+				-79.499705,
+				43.7047442
+			]
+		}
+	]
+}

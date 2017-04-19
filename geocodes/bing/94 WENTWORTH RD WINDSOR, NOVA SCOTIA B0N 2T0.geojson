@@ -1,0 +1,82 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 6,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Wentworth Rd, Windsor, NS B0N 2T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0ea648eca7941acac7f7de504970cff|BN20130431|7.7.0.0|",
+				"addressLine": "Wentworth Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Hants",
+				"countryRegion": "Canada",
+				"formattedAddress": "Wentworth Rd, Windsor, NS B0N 2T0, Canada",
+				"locality": "West Hants",
+				"neighborhood": "Windsor",
+				"postalCode": "B0N 2T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.05236,
+					44.96924
+				]
+			},
+			"bbox": [
+				-64.11015,
+				44.96356,
+				-64.04334,
+				44.99458
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "94 Wentworth Rd, Windsor, NS B0N 2T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0ea648eca7941acac7f7de504970cff|BN20130431|7.7.0.0|",
+				"addressLine": "94 Wentworth Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Hants",
+				"countryRegion": "Canada",
+				"formattedAddress": "94 Wentworth Rd, Windsor, NS B0N 2T0, Canada",
+				"locality": "Windsor",
+				"postalCode": "B0N 2T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.124535,
+					44.9909867
+				]
+			},
+			"bbox": [
+				-64.1261246,
+				44.9898626,
+				-64.1229455,
+				44.9921109
+			]
+		}
+	]
+}

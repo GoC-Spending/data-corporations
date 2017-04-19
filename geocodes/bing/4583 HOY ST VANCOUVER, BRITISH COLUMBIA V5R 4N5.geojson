@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4583 Hoy St, Vancouver, BC V5R 4N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82c46786487b4941bb3e659e383b7135|BN20280152|7.7.0.0|",
+				"addressLine": "4583 Hoy St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4583 Hoy St, Vancouver, BC V5R 4N5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5R 4N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02566,
+					49.24357
+				]
+			},
+			"bbox": [
+				-123.0273819,
+				49.2424458,
+				-123.0239381,
+				49.2446942
+			]
+		}
+	]
+}

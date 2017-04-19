@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Ontario St, St Catharines, ON L2R 7J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7a800ceb0ab44788c32ea1b810b8d1c|BN20260231|7.7.0.0|",
+				"addressLine": "225 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Ontario St, St Catharines, ON L2R 7J2, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "York-Haig",
+				"postalCode": "L2R 7J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2622,
+					43.16342
+				]
+			},
+			"bbox": [
+				-79.2637412,
+				43.1622958,
+				-79.2606588,
+				43.1645442
+			]
+		}
+	]
+}

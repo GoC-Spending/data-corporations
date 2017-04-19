@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "777 Walkers Line, Burlington, ON L7N 2G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25ab8282592d4b49ab2e53647843064c|BN20130422|7.7.0.0|",
+				"addressLine": "777 Walkers Line",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "777 Walkers Line, Burlington, ON L7N 2G1, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Longmoor",
+				"postalCode": "L7N 2G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78068,
+					43.3628
+				]
+			},
+			"bbox": [
+				-79.7822262,
+				43.3616758,
+				-79.7791338,
+				43.3639242
+			]
+		}
+	]
+}

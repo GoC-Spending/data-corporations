@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8811 Laurel St, Vancouver, BC V6P 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "521c39ce2c9b4b1d9ab54bd4ccf602b5|BN20121764|7.7.0.0|",
+				"addressLine": "8811 Laurel St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8811 Laurel St, Vancouver, BC V6P 3V9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Marpole",
+				"postalCode": "V6P 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1249776,
+					49.2051233
+				]
+			},
+			"bbox": [
+				-123.1266982,
+				49.2039991,
+				-123.123257,
+				49.2062474
+			]
+		}
+	]
+}

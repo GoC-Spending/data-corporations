@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "425 McCartney St, Arnprior, ON K7S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f2c5553975c403d9edf7bd0fcfc5e1d|BN20280152|7.7.0.0|",
+				"addressLine": "425 McCartney St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "425 McCartney St, Arnprior, ON K7S, Canada",
+				"locality": "Arnprior",
+				"postalCode": "K7S 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.34182,
+					45.42506
+				]
+			},
+			"bbox": [
+				-76.3434217,
+				45.4239358,
+				-76.3402183,
+				45.4261842
+			]
+		}
+	]
+}

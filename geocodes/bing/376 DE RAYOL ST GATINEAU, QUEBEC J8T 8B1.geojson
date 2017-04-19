@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "376 Rue de Rayol, Gatineau, QC J8T 8B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e1123525946e4168b770a6759b4e6ea1|BN20130530|7.7.0.0|",
+				"addressLine": "376 Rue de Rayol",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "376 Rue de Rayol, Gatineau, QC J8T 8B1, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier des Riverains",
+				"postalCode": "J8T 8B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72973,
+					45.48969
+				]
+			},
+			"bbox": [
+				-75.7313336,
+				45.4885658,
+				-75.7281264,
+				45.4908142
+			]
+		}
+	]
+}

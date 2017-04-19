@@ -1,0 +1,81 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous"
+				],
+				"name": "720 Rue Brault, Verdun, QC H4H 2B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93a6c2f246924d27b41ddea6aaf612a8|BN20290118|7.7.0.0|",
+				"addressLine": "720 Rue Brault",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "720 Rue Brault, Verdun, QC H4H 2B2, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4H 2B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57529,
+					45.4478
+				]
+			},
+			"bbox": [
+				-73.5768924,
+				45.4466758,
+				-73.5736876,
+				45.4489242
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous"
+				],
+				"name": "720 Avenue Brault, Montreal, QC H4H 2B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93a6c2f246924d27b41ddea6aaf612a8|BN20290118|7.7.0.0|",
+				"addressLine": "720 Avenue Brault",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "720 Avenue Brault, Montreal, QC H4H 2B2, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4H 2B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5743751,
+					45.4477851
+				]
+			},
+			"bbox": [
+				-73.5759775,
+				45.446661,
+				-73.5727728,
+				45.4489093
+			]
+		}
+	]
+}

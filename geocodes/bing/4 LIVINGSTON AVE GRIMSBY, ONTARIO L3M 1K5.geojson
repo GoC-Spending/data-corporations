@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Livingston Ave, Grimsby, ON L3M 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3a0f94609944a419a7d439ed7c82166|BN20240253|7.7.0.0|",
+				"addressLine": "4 Livingston Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Livingston Ave, Grimsby, ON L3M 1K5, Canada",
+				"locality": "Grimsby",
+				"postalCode": "L3M 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56487,
+					43.19565
+				]
+			},
+			"bbox": [
+				-79.566412,
+				43.1945258,
+				-79.563328,
+				43.1967742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "471 College Ave, Winnipeg, MB R2W 1M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22ab7fa664124647a957d832d3c3cfb6|BN20210145|7.7.0.0|",
+				"addressLine": "471 College Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "471 College Ave, Winnipeg, MB R2W 1M7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St Johns",
+				"postalCode": "R2W 1M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1392,
+					49.9218
+				]
+			},
+			"bbox": [
+				-97.140946,
+				49.9206758,
+				-97.137454,
+				49.9229242
+			]
+		}
+	]
+}

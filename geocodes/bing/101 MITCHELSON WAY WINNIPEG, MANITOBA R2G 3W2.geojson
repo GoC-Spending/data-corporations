@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Mitchelson Way, Winnipeg, MB R2G 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5401f8b220ad457fbed26c41b73757bb|BN20240253|7.7.0.0|",
+				"addressLine": "101 Mitchelson Way",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Mitchelson Way, Winnipeg, MB R2G 3W2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Springfield North",
+				"postalCode": "R2G 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.04234,
+					49.94553
+				]
+			},
+			"bbox": [
+				-97.0440869,
+				49.9444058,
+				-97.0405931,
+				49.9466542
+			]
+		}
+	]
+}

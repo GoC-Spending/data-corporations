@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3214 Douglas St, Victoria, BC V8Z 3K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "508e68bbf0754b508ea2e66ee233ba76|BN20130533|7.7.0.0|",
+				"addressLine": "3214 Douglas St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3214 Douglas St, Victoria, BC V8Z 3K6, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8Z 3K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3726999,
+					48.447965
+				]
+			},
+			"bbox": [
+				-123.3743947,
+				48.4468408,
+				-123.3710051,
+				48.4490891
+			]
+		}
+	]
+}

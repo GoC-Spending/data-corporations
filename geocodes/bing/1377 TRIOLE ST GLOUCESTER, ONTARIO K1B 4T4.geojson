@@ -1,0 +1,114 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Gloucester, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac39d1481ebc4fac8395d58687934be9|BN20130621|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gloucester, Ontario, Canada",
+				"locality": "Gloucester"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.5656280517578,
+					45.434944152832
+				]
+			},
+			"bbox": [
+				-75.5778121948242,
+				45.4266586303711,
+				-75.5442733764648,
+				45.4424209594727
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Ottawa, K1B 4T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac39d1481ebc4fac8395d58687934be9|BN20130621|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ottawa, K1B 4T4, Canada",
+				"locality": "Ottawa",
+				"postalCode": "K1B 4T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6313018798828,
+					45.4162788391113
+				]
+			},
+			"bbox": [
+				-75.6386384886529,
+				45.4124161215407,
+				-75.6239652711127,
+				45.420141556682
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Gloucester, Ottawa, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac39d1481ebc4fac8395d58687934be9|BN20130621|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gloucester, Ottawa, Ontario, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6047210693359,
+					45.4279098510742
+				]
+			},
+			"bbox": [
+				-75.6120591894923,
+				45.4240471335035,
+				-75.5973829491796,
+				45.4317725686449
+			]
+		}
+	]
+}

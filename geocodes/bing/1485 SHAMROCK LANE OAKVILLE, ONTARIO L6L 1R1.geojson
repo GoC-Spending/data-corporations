@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1485 Shamrock Ln, Oakville, ON L6L 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49bd6ee3755747a7bc3b481577d98d11|BN20130422|7.7.0.0|",
+				"addressLine": "1485 Shamrock Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1485 Shamrock Ln, Oakville, ON L6L 1R1, Canada",
+				"locality": "Oakville",
+				"neighborhood": "South West Oakville",
+				"postalCode": "L6L 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70101,
+					43.40895
+				]
+			},
+			"bbox": [
+				-79.7025574,
+				43.4078258,
+				-79.6994626,
+				43.4100742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "212 King St W, Cobourg, ON K9A 2N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1bb479e0fd49455eb794d1e408170f9a|BN20300154|7.7.0.0|",
+				"addressLine": "212 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "212 King St W, Cobourg, ON K9A 2N1, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 2N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1745,
+					43.95952
+				]
+			},
+			"bbox": [
+				-78.1760617,
+				43.9583958,
+				-78.1729383,
+				43.9606442
+			]
+		}
+	]
+}

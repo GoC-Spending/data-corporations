@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Elm St, St Thomas, ON N5R 6C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "449fb8e4619f44599c73e4a251da95d4|BN20210145|7.7.0.0|",
+				"addressLine": "80 Elm St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Elm St, St Thomas, ON N5R 6C8, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5R 6C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1908945,
+					42.7647249
+				]
+			},
+			"bbox": [
+				-81.1924257,
+				42.7636007,
+				-81.1893633,
+				42.765849
+			]
+		}
+	]
+}

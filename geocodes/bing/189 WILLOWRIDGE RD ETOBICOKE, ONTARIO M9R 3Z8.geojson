@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "189 Willowridge Rd, Etobicoke, ON M9R 3Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "824f4abf5a954ed0af3f77187889ccf4|BN20130533|7.7.0.0|",
+				"addressLine": "189 Willowridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "189 Willowridge Rd, Etobicoke, ON M9R 3Z8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowridge-Martingrove-Richview",
+				"postalCode": "M9R 3Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57433,
+					43.67627
+				]
+			},
+			"bbox": [
+				-79.5758843,
+				43.6751458,
+				-79.5727757,
+				43.6773942
+			]
+		}
+	]
+}

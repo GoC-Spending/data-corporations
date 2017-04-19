@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Falcon St, London, ON N5W 4Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "87566e0570764a5d9eb826c4af4a6b3a|BN20121763|7.7.0.0|",
+				"addressLine": "105 Falcon St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Falcon St, London, ON N5W 4Z2, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5W 4Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1752,
+					42.9869
+				]
+			},
+			"bbox": [
+				-81.1767368,
+				42.9857758,
+				-81.1736632,
+				42.9880242
+			]
+		}
+	]
+}

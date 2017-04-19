@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "209 Rifle Range Rd, Hamilton, ON L8S 3B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89b5ad581c1e4719baf42a81848f1c34|BN20130431|7.7.0.0|",
+				"addressLine": "209 Rifle Range Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "209 Rifle Range Rd, Hamilton, ON L8S 3B8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ainslie Wood",
+				"postalCode": "L8S 3B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92673,
+					43.24864
+				]
+			},
+			"bbox": [
+				-79.9282733,
+				43.2475158,
+				-79.9251867,
+				43.2497642
+			]
+		}
+	]
+}

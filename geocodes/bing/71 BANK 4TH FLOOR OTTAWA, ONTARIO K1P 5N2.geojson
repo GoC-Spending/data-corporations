@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "71 Rue Bank, Ottawa, ON K1P 5N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6584599b9668444fb672b0a9163d770d|BN20130533|7.7.0.0|",
+				"addressLine": "71 Rue Bank",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "71 Rue Bank, Ottawa, ON K1P 5N2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1P 5N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7008,
+					45.4208799
+				]
+			},
+			"bbox": [
+				-75.7024016,
+				45.4197557,
+				-75.6991984,
+				45.4220041
+			]
+		}
+	]
+}

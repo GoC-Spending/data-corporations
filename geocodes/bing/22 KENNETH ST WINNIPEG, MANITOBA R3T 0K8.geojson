@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Kenneth St, Winnipeg, MB R3T 0K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0e0c23afdc1145a0b10b2aeadd3ac7e2|BN20181720|7.7.0.0|",
+				"addressLine": "22 Kenneth St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Kenneth St, Winnipeg, MB R3T 0K8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Crescent Park",
+				"postalCode": "R3T 0K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1491,
+					49.83852
+				]
+			},
+			"bbox": [
+				-97.150843,
+				49.8373958,
+				-97.147357,
+				49.8396442
+			]
+		}
+	]
+}

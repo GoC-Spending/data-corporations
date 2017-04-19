@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "635 Wilton Grove Rd, London, ON N6N 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f6ec390b07004c3e8c3b1d2ea6ca195d|BN20260231|7.7.0.0|",
+				"addressLine": "635 Wilton Grove Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "635 Wilton Grove Rd, London, ON N6N 1N7, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6N 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2072,
+					42.9198
+				]
+			},
+			"bbox": [
+				-81.2087351,
+				42.9186758,
+				-81.2056649,
+				42.9209242
+			]
+		}
+	]
+}

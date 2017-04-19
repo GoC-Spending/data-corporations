@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "702 Scotland Ave, Winnipeg, MB R3M 1X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9e048ab5e3f4ecb90a36f6826dda8e2|BN20121763|7.7.0.0|",
+				"addressLine": "702 Scotland Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "702 Scotland Ave, Winnipeg, MB R3M 1X5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Earl Grey",
+				"postalCode": "R3M 1X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14863,
+					49.86531
+				]
+			},
+			"bbox": [
+				-97.150374,
+				49.8641858,
+				-97.146886,
+				49.8664342
+			]
+		}
+	]
+}

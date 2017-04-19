@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Alaska Hwy, Northern Rockies, BC V0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "633850764a304012ab3e5ab551996642|BN20130442|7.7.0.0|",
+				"addressLine": "Alaska Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Northern Rockies",
+				"countryRegion": "Canada",
+				"formattedAddress": "Alaska Hwy, Northern Rockies, BC V0C, Canada",
+				"locality": "Northern Rockies",
+				"neighborhood": "Fort Nelson",
+				"postalCode": "V0C 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8879,
+					58.83377
+				]
+			},
+			"bbox": [
+				-123.12532,
+				58.78705,
+				-122.65941,
+				58.90174
+			]
+		}
+	]
+}

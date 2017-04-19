@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7601 MacDonald Rd, Delta, BC V4G 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50a66b2c362c45f888f754b9bcee0b90|BN20130530|7.7.0.0|",
+				"addressLine": "7601 MacDonald Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7601 MacDonald Rd, Delta, BC V4G 1N3, Canada",
+				"locality": "Delta",
+				"postalCode": "V4G 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.03451,
+					49.13623
+				]
+			},
+			"bbox": [
+				-123.0362282,
+				49.1351058,
+				-123.0327918,
+				49.1373542
+			]
+		}
+	]
+}

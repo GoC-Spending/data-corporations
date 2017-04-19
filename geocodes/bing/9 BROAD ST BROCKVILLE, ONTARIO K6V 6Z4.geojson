@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 Broad St, Brockville, ON K6V 6Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2300e2f056f24f0e949e069ed92db9b7|BN20130447|7.7.0.0|",
+				"addressLine": "9 Broad St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 Broad St, Brockville, ON K6V 6Z4, Canada",
+				"locality": "Brockville",
+				"postalCode": "K6V 6Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6822,
+					44.5882099
+				]
+			},
+			"bbox": [
+				-75.6837785,
+				44.5870857,
+				-75.6806215,
+				44.5893341
+			]
+		}
+	]
+}

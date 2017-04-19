@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "118 Rue Conrad, Laval, QC H7N 4H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f808c50574e44b79f8f66b5facd04c6|BN20121763|7.7.0.0|",
+				"addressLine": "118 Rue Conrad",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "118 Rue Conrad, Laval, QC H7N 4H9, Canada",
+				"locality": "Laval",
+				"postalCode": "H7N 4H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.68973,
+					45.55794
+				]
+			},
+			"bbox": [
+				-73.6913355,
+				45.5568158,
+				-73.6881245,
+				45.5590642
+			]
+		}
+	]
+}

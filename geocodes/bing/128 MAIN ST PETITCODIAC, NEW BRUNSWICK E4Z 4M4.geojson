@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "128 Main St, Petitcodiac, NB E4Z 4M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fec665a9f7fc4746b030f0e089112eab|BN20130532|7.7.0.0|",
+				"addressLine": "128 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "128 Main St, Petitcodiac, NB E4Z 4M4, Canada",
+				"locality": "Petitcodiac",
+				"postalCode": "E4Z 4M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.1867,
+					45.92364
+				]
+			},
+			"bbox": [
+				-65.1883161,
+				45.9225158,
+				-65.1850839,
+				45.9247642
+			]
+		}
+	]
+}

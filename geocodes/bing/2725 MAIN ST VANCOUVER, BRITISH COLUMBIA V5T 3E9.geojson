@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2725 Main St, Vancouver, BC V5T 3E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "131a7f9adaaa4b79ba0f594f224e6431|BN20210145|7.7.0.0|",
+				"addressLine": "2725 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2725 Main St, Vancouver, BC V5T 3E9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 3E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1012653,
+					49.2605628
+				]
+			},
+			"bbox": [
+				-123.1029878,
+				49.2594387,
+				-123.0995427,
+				49.261687
+			]
+		}
+	]
+}

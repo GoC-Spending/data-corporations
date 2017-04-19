@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 City Rd, Saint John, NB E2L 3M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b970683c97a7446d9c4e4116fcebefe1|BN20130719|7.7.0.0|",
+				"addressLine": "115 City Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 City Rd, Saint John, NB E2L 3M6, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2L 3M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.0587,
+					45.28066
+				]
+			},
+			"bbox": [
+				-66.0602976,
+				45.2795358,
+				-66.0571024,
+				45.2817842
+			]
+		}
+	]
+}

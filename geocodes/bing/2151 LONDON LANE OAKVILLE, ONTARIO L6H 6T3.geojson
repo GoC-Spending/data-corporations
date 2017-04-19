@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2151 London Ln, Oakville, ON L6H 6T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e45fd372eab44a049319e62ec030665f|BN20130721|7.7.0.0|",
+				"addressLine": "2151 London Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2151 London Ln, Oakville, ON L6H 6T3, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6H 6T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67165,
+					43.51147
+				]
+			},
+			"bbox": [
+				-79.6732,
+				43.5103458,
+				-79.6701,
+				43.5125942
+			]
+		}
+	]
+}

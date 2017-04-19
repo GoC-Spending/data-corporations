@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Muir St, London, ON N5W 4B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6f935c39de749ae88fb8d948e6c17b7|BN20260223|7.7.0.0|",
+				"addressLine": "31 Muir St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Muir St, London, ON N5W 4B8, Canada",
+				"locality": "London",
+				"neighborhood": "East London",
+				"postalCode": "N5W 4B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2104,
+					42.9876999
+				]
+			},
+			"bbox": [
+				-81.2119368,
+				42.9865757,
+				-81.2088632,
+				42.9888241
+			]
+		}
+	]
+}

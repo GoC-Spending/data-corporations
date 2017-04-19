@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "484 Regal Park NE, Calgary, AB T2E 0S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2c3a07ef15544d2be29a5e0c4ced005|BN20160335|7.7.0.0|",
+				"addressLine": "484 Regal Park NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "484 Regal Park NE, Calgary, AB T2E 0S6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Renfrew",
+				"postalCode": "T2E 0S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0361972,
+					51.0609551
+				]
+			},
+			"bbox": [
+				-114.0379858,
+				51.0598309,
+				-114.0344085,
+				51.0620792
+			]
+		}
+	]
+}

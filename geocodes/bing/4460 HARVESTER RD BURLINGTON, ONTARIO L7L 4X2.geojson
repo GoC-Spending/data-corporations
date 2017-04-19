@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4460 Harvester Rd, Burlington, ON L7L 4X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1332a965dbdc48f2bd56a5e875c4240b|BN20130632|7.7.0.0|",
+				"addressLine": "4460 Harvester Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "4460 Harvester Rd, Burlington, ON L7L 4X2, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Longmoor",
+				"postalCode": "L7L 4X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76937,
+					43.3753
+				]
+			},
+			"bbox": [
+				-79.7709166,
+				43.3741758,
+				-79.7678234,
+				43.3764242
+			]
+		}
+	]
+}

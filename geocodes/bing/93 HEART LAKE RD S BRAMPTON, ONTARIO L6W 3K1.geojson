@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "93 Heart Lake Rd S, Brampton, ON L6W 3K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ad9d5845cbf4c69a3c0fa0800f328f1|BN20130423|7.7.0.0|",
+				"addressLine": "93 Heart Lake Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "93 Heart Lake Rd S, Brampton, ON L6W 3K1, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6W 3K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73215,
+					43.69934
+				]
+			},
+			"bbox": [
+				-79.7337049,
+				43.6982158,
+				-79.7305951,
+				43.7004642
+			]
+		}
+	]
+}

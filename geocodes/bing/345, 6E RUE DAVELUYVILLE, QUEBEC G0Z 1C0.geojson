@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "345 6e Rue, Daveluyville, QC G0Z 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0cdaa86b93447e4a89416302709dacc|BN20121763|7.7.0.0|",
+				"addressLine": "345 6e Rue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Arthabaska County",
+				"countryRegion": "Canada",
+				"formattedAddress": "345 6e Rue, Daveluyville, QC G0Z 1C0, Canada",
+				"locality": "Daveluyville",
+				"postalCode": "G0Z 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.143556,
+					46.2107479
+				]
+			},
+			"bbox": [
+				-72.1451805,
+				46.2096238,
+				-72.1419316,
+				46.2118721
+			]
+		}
+	]
+}

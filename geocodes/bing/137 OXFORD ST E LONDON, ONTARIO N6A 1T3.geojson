@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "137 Oxford St E, London, ON N6A 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8387f168b4344d4088d0b9a7e2d83626|BN20200239|7.7.0.0|",
+				"addressLine": "137 Oxford St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "137 Oxford St E, London, ON N6A 1T4, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2562,
+					42.9942
+				]
+			},
+			"bbox": [
+				-81.2577369,
+				42.9930758,
+				-81.2546631,
+				42.9953242
+			]
+		}
+	]
+}

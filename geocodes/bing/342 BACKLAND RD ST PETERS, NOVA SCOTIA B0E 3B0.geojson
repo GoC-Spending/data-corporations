@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "342 Backland Rd, St Peter's, NS B0E 3B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3cdc2f20a9a4a3da10a2bfe135ea811|BN20130530|7.7.0.0|",
+				"addressLine": "342 Backland Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Richmond",
+				"countryRegion": "Canada",
+				"formattedAddress": "342 Backland Rd, St Peter's, NS B0E 3B0, Canada",
+				"locality": "Richmond",
+				"neighborhood": "St Peter's",
+				"postalCode": "B0E 3B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.7639811,
+					45.6826315
+				]
+			},
+			"bbox": [
+				-60.7655901,
+				45.6815074,
+				-60.762372,
+				45.6837557
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Rocky Top Rd, Bancroft, ON K0L 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39c9fa184127471da7b7d4434dd3580d|BN20200137|7.7.0.0|",
+				"addressLine": "67 Rocky Top Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Rocky Top Rd, Bancroft, ON K0L 1C0, Canada",
+				"locality": "Hastings Highlands",
+				"neighborhood": "Bancroft",
+				"postalCode": "K0L 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.8002786,
+					45.1295884
+				]
+			},
+			"bbox": [
+				-77.801872,
+				45.1284642,
+				-77.7986852,
+				45.1307125
+			]
+		}
+	]
+}

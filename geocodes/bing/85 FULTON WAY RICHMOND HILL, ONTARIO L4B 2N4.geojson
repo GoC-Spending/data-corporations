@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "85 Fulton Way, Richmond Hill, ON L4B 2N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18a52b35166e42c9aa929839041c4784|BN20160335|7.7.0.0|",
+				"addressLine": "85 Fulton Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "85 Fulton Way, Richmond Hill, ON L4B 2N4, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4B 2N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37938,
+					43.85118
+				]
+			},
+			"bbox": [
+				-79.3809389,
+				43.8500558,
+				-79.3778211,
+				43.8523042
+			]
+		}
+	]
+}

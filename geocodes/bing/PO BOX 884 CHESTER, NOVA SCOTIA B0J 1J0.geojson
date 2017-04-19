@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Chester, B0J 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "353bf3dba6584f72af2aff7e9cfac3c8|BN20130631|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "Chester, B0J 1J0, Canada",
+				"locality": "Chester",
+				"postalCode": "B0J 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.2301177978516,
+					44.5641479492188
+				]
+			},
+			"bbox": [
+				-64.2373461476192,
+				44.5602852316481,
+				-64.2228894480839,
+				44.5680106667894
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "884",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "353bf3dba6584f72af2aff7e9cfac3c8|BN20130631|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "884",
+				"postalCode": "884"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.109352111816,
+					35.3459815979004
+				]
+			},
+			"bbox": [
+				-105.216766357422,
+				34.5654411315918,
+				-103.001937866211,
+				37.000129699707
+			]
+		}
+	]
+}

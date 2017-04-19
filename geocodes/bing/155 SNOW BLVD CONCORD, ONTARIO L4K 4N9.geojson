@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "155 Snow Blvd, Concord, ON L4K 4N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f8f42caa4d0b42b59ac4461ae13c8b42|BN20130423|7.7.0.0|",
+				"addressLine": "155 Snow Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "155 Snow Blvd, Concord, ON L4K 4N9, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5239299,
+					43.80786
+				]
+			},
+			"bbox": [
+				-79.5254876,
+				43.8067358,
+				-79.5223722,
+				43.8089842
+			]
+		}
+	]
+}

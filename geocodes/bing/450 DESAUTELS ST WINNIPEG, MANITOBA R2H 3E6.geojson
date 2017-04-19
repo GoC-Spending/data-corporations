@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "450 Desautels St, Winnipeg, MB R2H 3E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9436c27598c842e9a5b4d5a5b0f1cc3e|BN20130532|7.7.0.0|",
+				"addressLine": "450 Desautels St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "450 Desautels St, Winnipeg, MB R2H 3E6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Central St Boniface",
+				"postalCode": "R2H 3E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1099185,
+					49.8910452
+				]
+			},
+			"bbox": [
+				-97.1116634,
+				49.889921,
+				-97.1081736,
+				49.8921693
+			]
+		}
+	]
+}

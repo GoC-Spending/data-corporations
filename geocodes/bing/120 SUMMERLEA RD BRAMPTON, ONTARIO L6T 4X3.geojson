@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Summerlea Rd, Brampton, ON L6T 4X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6674e60b1f15476395c53bd8fd472032|BN20130632|7.7.0.0|",
+				"addressLine": "120 Summerlea Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Summerlea Rd, Brampton, ON L6T 4X3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68846,
+					43.72497
+				]
+			},
+			"bbox": [
+				-79.6900156,
+				43.7238458,
+				-79.6869044,
+				43.7260942
+			]
+		}
+	]
+}

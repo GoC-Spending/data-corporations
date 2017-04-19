@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Glendale Ave, London, ON N6J 2H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ae09fb8bf764da3b05c5b636a6558e0|BN20200137|7.7.0.0|",
+				"addressLine": "12 Glendale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Glendale Ave, London, ON N6J 2H8, Canada",
+				"locality": "London",
+				"neighborhood": "Highland",
+				"postalCode": "N6J 2H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2597,
+					42.9429
+				]
+			},
+			"bbox": [
+				-81.2612357,
+				42.9417758,
+				-81.2581643,
+				42.9440242
+			]
+		}
+	]
+}

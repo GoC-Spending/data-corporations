@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Perry St, Nepean, ON K2G 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01a73be316de42bc9cd72b38f0329750|BN20121762|7.7.0.0|",
+				"addressLine": "22 Perry St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Perry St, Nepean, ON K2G 1K9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73745,
+					45.34608
+				]
+			},
+			"bbox": [
+				-75.7390495,
+				45.3449558,
+				-75.7358505,
+				45.3472042
+			]
+		}
+	]
+}

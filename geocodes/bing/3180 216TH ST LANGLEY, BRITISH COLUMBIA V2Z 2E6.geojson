@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3180 216 St, Langley, BC V2Z 2E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a469724aa2aa4a8cbd6290401df3f0ee|BN20130422|7.7.0.0|",
+				"addressLine": "3180 216 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3180 216 St, Langley, BC V2Z 2E6, Canada",
+				"locality": "Langley",
+				"postalCode": "V2Z 2E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.62474,
+					49.05963
+				]
+			},
+			"bbox": [
+				-122.6264555,
+				49.0585058,
+				-122.6230245,
+				49.0607542
+			]
+		}
+	]
+}

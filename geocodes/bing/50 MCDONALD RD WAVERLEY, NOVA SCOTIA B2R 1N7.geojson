@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 McDonald Rd, Waverley, NS B2R 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4f571893d764672be172cd527598edb|BN20240423|7.7.0.0|",
+				"addressLine": "50 McDonald Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 McDonald Rd, Waverley, NS B2R 1N7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Waverley",
+				"postalCode": "B2R 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.60236,
+					44.77727
+				]
+			},
+			"bbox": [
+				-63.6039436,
+				44.7761458,
+				-63.6007764,
+				44.7783942
+			]
+		}
+	]
+}

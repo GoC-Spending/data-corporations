@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "238 1st St E, North Vancouver, BC V7L 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c089945cefa44da088b58800dc0f2efb|BN20260223|7.7.0.0|",
+				"addressLine": "238 1st St E",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "238 1st St E, North Vancouver, BC V7L 1B3, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7L 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0739194,
+					49.3099827
+				]
+			},
+			"bbox": [
+				-123.0756437,
+				49.3088586,
+				-123.0721952,
+				49.3111069
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "813 Cumberland Ave, Burlington, ON L7N 3J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8e9294b09db14ca490f4384eb58c52d3|BN20130522|7.7.0.0|",
+				"addressLine": "813 Cumberland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "813 Cumberland Ave, Burlington, ON L7N 3J7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Dynes",
+				"postalCode": "L7N 3J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78849,
+					43.35492
+				]
+			},
+			"bbox": [
+				-79.790036,
+				43.3537958,
+				-79.786944,
+				43.3560442
+			]
+		}
+	]
+}

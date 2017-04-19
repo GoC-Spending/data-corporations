@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "316 Burland Ave, Winnipeg, MB R2N 2T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "968ea38e5a9f45baa7c9e72efb11ae4e|BN20200137|7.7.0.0|",
+				"addressLine": "316 Burland Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "316 Burland Ave, Winnipeg, MB R2N 2T1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River Park South",
+				"postalCode": "R2N 2T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.10397,
+					49.80589
+				]
+			},
+			"bbox": [
+				-97.1057118,
+				49.8047658,
+				-97.1022282,
+				49.8070142
+			]
+		}
+	]
+}

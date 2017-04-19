@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Atwood, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e2c9c968b594036a1018dd02197454e|BN20121762|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "Atwood, Ontario, Canada",
+				"locality": "Atwood"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0174865722656,
+					43.6698989868164
+				]
+			},
+			"bbox": [
+				-81.0243377685547,
+				43.6627388000488,
+				-81.0105361938477,
+				43.6745414733887
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "North Perth, N0G 1B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e2c9c968b594036a1018dd02197454e|BN20121762|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "North Perth, N0G 1B0, Canada",
+				"locality": "North Perth",
+				"postalCode": "N0G 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0570068359375,
+					43.6564292907715
+				]
+			},
+			"bbox": [
+				-81.0641250301336,
+				43.6525665732008,
+				-81.0498886417414,
+				43.6602920083422
+			]
+		}
+	]
+}

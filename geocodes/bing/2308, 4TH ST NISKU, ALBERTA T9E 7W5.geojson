@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "4 St, Nisku, AB T9E 7W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d7c410f600d49589d2b9413fbd5db0f|BN20130632|7.7.0.0|",
+				"addressLine": "4 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 St, Nisku, AB T9E 7W5, Canada",
+				"locality": "Leduc County",
+				"neighborhood": "Nisku",
+				"postalCode": "T9E 7W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53729,
+					53.34844
+				]
+			},
+			"bbox": [
+				-113.53738,
+				53.30878,
+				-113.52063,
+				53.37731
+			]
+		}
+	]
+}

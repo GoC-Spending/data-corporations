@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "171 Niagara St, Hamilton, ON L8L 6A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b602e8ba2af846269b6faa6ee1033ba7|BN20130620|7.7.0.0|",
+				"addressLine": "171 Niagara St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "171 Niagara St, Hamilton, ON L8L 6A8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector B and Keith",
+				"postalCode": "L8L 6A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84019,
+					43.2703599
+				]
+			},
+			"bbox": [
+				-79.8417339,
+				43.2692357,
+				-79.8386461,
+				43.2714841
+			]
+		}
+	]
+}

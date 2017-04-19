@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "172 Kingston Row, Winnipeg, MB R2M 0T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aefda0a5ab0f495fb4fbe6114c4ac5a4|BN20240423|7.7.0.0|",
+				"addressLine": "172 Kingston Row",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "172 Kingston Row, Winnipeg, MB R2M 0T2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Kingston Crescent",
+				"postalCode": "R2M 0T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1276,
+					49.85383
+				]
+			},
+			"bbox": [
+				-97.1293436,
+				49.8527058,
+				-97.1258564,
+				49.8549542
+			]
+		}
+	]
+}

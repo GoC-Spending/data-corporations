@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2055 Boundary Rd, Vancouver, BC V5M 3Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f39bb48cd69d401c91fc5cddabfbda62|BN20290118|7.7.0.0|",
+				"addressLine": "2055 Boundary Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2055 Boundary Rd, Vancouver, BC V5M 3Z1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5M 3Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02423,
+					49.26631
+				]
+			},
+			"bbox": [
+				-123.0259527,
+				49.2651858,
+				-123.0225073,
+				49.2674342
+			]
+		}
+	]
+}

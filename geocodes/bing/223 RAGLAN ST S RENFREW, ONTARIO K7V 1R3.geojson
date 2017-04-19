@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "223 Raglan St S, Renfrew, ON K7V 1R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f1f60c0b5ff40bebc4e7ea0accfeda5|BN20210145|7.7.0.0|",
+				"addressLine": "223 Raglan St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "223 Raglan St S, Renfrew, ON K7V 1R3, Canada",
+				"locality": "Renfrew",
+				"postalCode": "K7V 1R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.6833509,
+					45.4715086
+				]
+			},
+			"bbox": [
+				-76.6849539,
+				45.4703845,
+				-76.6817478,
+				45.4726328
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2200 Lemery St, Bourget, ON K0A 1E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b8abfa72d984b5e9f45ff92f7a287e2|BN20130719|7.7.0.0|",
+				"addressLine": "2200 Lemery St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "2200 Lemery St, Bourget, ON K0A 1E0, Canada",
+				"locality": "Clarence-Rockland",
+				"neighborhood": "Bourget",
+				"postalCode": "K0A 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.1652685,
+					45.4429268
+				]
+			},
+			"bbox": [
+				-75.1668707,
+				45.4418027,
+				-75.1636663,
+				45.444051
+			]
+		}
+	]
+}

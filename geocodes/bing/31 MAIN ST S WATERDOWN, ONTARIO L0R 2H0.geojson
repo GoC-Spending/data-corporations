@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Main St S, Hamilton, ON L0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a372a67e408f4640a733e02b8855c8bc|BN20130631|7.7.0.0|",
+				"addressLine": "31 Main St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Main St S, Hamilton, ON L0R, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Waterdown",
+				"postalCode": "L0R 2H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89164,
+					43.33279
+				]
+			},
+			"bbox": [
+				-79.8931855,
+				43.3316658,
+				-79.8900945,
+				43.3339142
+			]
+		}
+	]
+}

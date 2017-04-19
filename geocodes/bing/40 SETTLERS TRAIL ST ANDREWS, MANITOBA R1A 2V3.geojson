@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Settlers Trl, St Andrews, MB R1A 2V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fc7a488385a54817812ebd0cff164475|BN20240423|7.7.0.0|",
+				"addressLine": "40 Settlers Trl",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Settlers Trl, St Andrews, MB R1A 2V3, Canada",
+				"locality": "St Andrews",
+				"postalCode": "R1A 2V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0173761,
+					50.0414057
+				]
+			},
+			"bbox": [
+				-97.0191265,
+				50.0402815,
+				-97.0156257,
+				50.0425299
+			]
+		}
+	]
+}

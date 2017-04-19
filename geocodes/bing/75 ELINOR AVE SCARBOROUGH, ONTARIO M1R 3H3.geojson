@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Elinor Ave, Scarborough, ON M1R 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a2632624efb46ac97ab6650c70e73f6|BN20130520|7.7.0.0|",
+				"addressLine": "75 Elinor Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Elinor Ave, Scarborough, ON M1R 3H3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30233,
+					43.74944
+				]
+			},
+			"bbox": [
+				-79.3038862,
+				43.7483158,
+				-79.3007738,
+				43.7505642
+			]
+		}
+	]
+}

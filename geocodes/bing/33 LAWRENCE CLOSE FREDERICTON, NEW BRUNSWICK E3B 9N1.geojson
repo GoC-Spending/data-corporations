@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Lawrence Clos, Fredericton, NB E3B 9N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff4263fcc00e493a9f8cb2a267f57881|BN20130621|7.7.0.0|",
+				"addressLine": "33 Lawrence Clos",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Lawrence Clos, Fredericton, NB E3B 9N1, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 9N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.65514,
+					45.95854
+				]
+			},
+			"bbox": [
+				-66.6567571,
+				45.9574158,
+				-66.6535229,
+				45.9596642
+			]
+		}
+	]
+}

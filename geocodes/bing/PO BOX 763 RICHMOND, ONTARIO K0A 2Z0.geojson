@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Richmond, Ottawa, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b02886d559884c34b5a34cb45706c51c|BN20240423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Richmond, Ottawa, Ontario, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Richmond"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8365478515625,
+					45.1958084106445
+				]
+			},
+			"bbox": [
+				-75.8533325195313,
+				45.1805305480957,
+				-75.8212509155273,
+				45.2060585021973
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "763",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b02886d559884c34b5a34cb45706c51c|BN20240423|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "763",
+				"postalCode": "763"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.7815093994141,
+					33.7777366638184
+				]
+			},
+			"bbox": [
+				-99.9954528808594,
+				33.0964698791504,
+				-97.9475936889648,
+				34.4589996337891
+			]
+		}
+	]
+}

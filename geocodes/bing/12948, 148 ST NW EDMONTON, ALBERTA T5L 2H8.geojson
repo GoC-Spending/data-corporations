@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12948 148 St NW, Edmonton, AB T5L 2H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d1300a6f01d41eb90a95b90e7ed9d0b|BN20130719|7.7.0.0|",
+				"addressLine": "12948 148 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12948 148 St NW, Edmonton, AB T5L 2H8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Bonaventure Industrial",
+				"postalCode": "T5L 2H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57522,
+					53.58812
+				]
+			},
+			"bbox": [
+				-113.5771138,
+				53.5869958,
+				-113.5733262,
+				53.5892442
+			]
+		}
+	]
+}

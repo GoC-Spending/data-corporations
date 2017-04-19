@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1985 Hymus Blvd, Dorval, QC H9P 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "79759b5e01ed40cab5ed778e82598167|BN20130634|7.7.0.0|",
+				"addressLine": "1985 Hymus Blvd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1985 Hymus Blvd, Dorval, QC H9P 1J8, Canada",
+				"locality": "Dorval",
+				"neighborhood": "Dollard-des-Ormeaux",
+				"postalCode": "H9P 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.78113,
+					45.48071
+				]
+			},
+			"bbox": [
+				-73.7827333,
+				45.4795858,
+				-73.7795267,
+				45.4818342
+			]
+		}
+	]
+}

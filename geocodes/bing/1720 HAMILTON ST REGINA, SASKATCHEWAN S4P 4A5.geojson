@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1720 Hamilton St, Regina, SK S4P 4A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fddd76cb197245f19901d18e1c4810e2|BN20121763|7.7.0.0|",
+				"addressLine": "1720 Hamilton St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1720 Hamilton St, Regina, SK S4P 4A5, Canada",
+				"locality": "Regina",
+				"neighborhood": "Downtown Regina",
+				"postalCode": "S4P 4A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.6095841,
+					50.4517293
+				]
+			},
+			"bbox": [
+				-104.6113496,
+				50.4506051,
+				-104.6078185,
+				50.4528535
+			]
+		}
+	]
+}

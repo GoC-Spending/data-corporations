@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "510 Beach Rd, Hamilton, ON L8H 7R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c757e73413444cef96e10c6337c88b17|BN20130422|7.7.0.0|",
+				"addressLine": "510 Beach Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "510 Beach Rd, Hamilton, ON L8H 7R4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector F",
+				"postalCode": "L8H 7R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8027199,
+					43.25593
+				]
+			},
+			"bbox": [
+				-79.8042634,
+				43.2548058,
+				-79.8011764,
+				43.2570542
+			]
+		}
+	]
+}

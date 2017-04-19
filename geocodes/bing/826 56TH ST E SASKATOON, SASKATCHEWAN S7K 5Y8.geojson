@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "826 56th St E, Saskatoon, SK S7K 5Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "11e5b276784d4af386e00b810f618125|BN20320521|7.7.0.0|",
+				"addressLine": "826 56th St E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "826 56th St E, Saskatoon, SK S7K 5Y8, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Hudson Bay Industrial",
+				"postalCode": "S7K 5Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.65355,
+					52.1807
+				]
+			},
+			"bbox": [
+				-106.6553833,
+				52.1795758,
+				-106.6517167,
+				52.1818242
+			]
+		}
+	]
+}

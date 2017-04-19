@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "607 Alexander St, Whitehorse, YT Y1A 2M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb94e05dffbe479990b295b21a7cf52a|BN20130447|7.7.0.0|",
+				"addressLine": "607 Alexander St",
+				"adminDistrict": "YT",
+				"adminDistrict2": "Yukon",
+				"countryRegion": "Canada",
+				"formattedAddress": "607 Alexander St, Whitehorse, YT Y1A 2M2, Canada",
+				"locality": "Whitehorse",
+				"postalCode": "Y1A 2M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-135.06444,
+					60.72159
+				]
+			},
+			"bbox": [
+				-135.0667386,
+				60.7204658,
+				-135.0621414,
+				60.7227142
+			]
+		}
+	]
+}

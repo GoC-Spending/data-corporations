@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6103 Gateway Blvd NW, Edmonton, AB T6H 2H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa9971eddb8b46439d90c8d784ca0d57|BN20171457|7.7.0.0|",
+				"addressLine": "6103 Gateway Blvd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6103 Gateway Blvd NW, Edmonton, AB T6H 2H3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Calgary Trail North",
+				"postalCode": "T6H 2H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49242,
+					53.4993399
+				]
+			},
+			"bbox": [
+				-113.4943099,
+				53.4982157,
+				-113.4905301,
+				53.5004641
+			]
+		}
+	]
+}

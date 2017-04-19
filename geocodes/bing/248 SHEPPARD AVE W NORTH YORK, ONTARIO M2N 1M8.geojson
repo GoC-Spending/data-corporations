@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "248 Sheppard Ave W, North York, ON M2N 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1abbf873d1894543933ac7b474c4107d|BN20130431|7.7.0.0|",
+				"addressLine": "248 Sheppard Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "248 Sheppard Ave W, North York, ON M2N 1N3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42301,
+					43.7590999
+				]
+			},
+			"bbox": [
+				-79.4245664,
+				43.7579757,
+				-79.4214536,
+				43.7602241
+			]
+		}
+	]
+}

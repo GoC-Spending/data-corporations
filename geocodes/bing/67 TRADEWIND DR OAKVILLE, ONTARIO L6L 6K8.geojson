@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Tradewind Dr, Oakville, ON L6L 6K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99cbf99d9ed6464db145bf80ffc444d8|BN20131519|7.7.0.0|",
+				"addressLine": "67 Tradewind Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Tradewind Dr, Oakville, ON L6L 6K8, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Bronte",
+				"postalCode": "L6L 6K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70211,
+					43.40111
+				]
+			},
+			"bbox": [
+				-79.7036572,
+				43.3999858,
+				-79.7005628,
+				43.4022342
+			]
+		}
+	]
+}

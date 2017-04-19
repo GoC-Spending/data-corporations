@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Wasaga Dr, Brampton, ON L6X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4084dc491085490faf037f33edc24eeb|BN20260223|7.7.0.0|",
+				"addressLine": "42 Wasaga Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Wasaga Dr, Brampton, ON L6X, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "L6X 3B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81148,
+					43.6656199
+				]
+			},
+			"bbox": [
+				-79.813034,
+				43.6644957,
+				-79.809926,
+				43.6667441
+			]
+		}
+	]
+}

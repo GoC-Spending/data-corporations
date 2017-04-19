@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2407 104 St NW, Edmonton, AB T6J 4R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a016f52b32b04568a3c186b91fef2163|BN20130422|7.7.0.0|",
+				"addressLine": "2407 104 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2407 104 St NW, Edmonton, AB T6J 4R1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ermineskin",
+				"postalCode": "T6J 4R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49506,
+					53.45515
+				]
+			},
+			"bbox": [
+				-113.4969479,
+				53.4540258,
+				-113.4931721,
+				53.4562742
+			]
+		}
+	]
+}

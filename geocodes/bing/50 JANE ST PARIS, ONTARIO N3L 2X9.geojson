@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Jane St, Paris, ON N3L 2X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44feb58217a94f9a9e6b90fae74042c4|BN20130634|7.7.0.0|",
+				"addressLine": "50 Jane St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Jane St, Paris, ON N3L 2X9, Canada",
+				"locality": "Brant",
+				"neighborhood": "Paris",
+				"postalCode": "N3L 2X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3906499,
+					43.20156
+				]
+			},
+			"bbox": [
+				-80.3921921,
+				43.2004358,
+				-80.3891077,
+				43.2026842
+			]
+		}
+	]
+}

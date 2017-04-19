@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1540 Regent Ave W, Winnipeg, MB R2C 3B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "936200e5e278449fa0e1e0e1d7983254|BN20130721|7.7.0.0|",
+				"addressLine": "1540 Regent Ave W",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1540 Regent Ave W, Winnipeg, MB R2C 3B4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Regent",
+				"postalCode": "R2C 3B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.06017,
+					49.89568
+				]
+			},
+			"bbox": [
+				-97.0619151,
+				49.8945558,
+				-97.0584249,
+				49.8968042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Main St E, Beeton, ON L0G 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54c75adf1322459bb15ec897978f878c|BN20130422|7.7.0.0|",
+				"addressLine": "39 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Main St E, Beeton, ON L0G 1A0, Canada",
+				"locality": "New Tecumseth",
+				"neighborhood": "Beeton",
+				"postalCode": "L0G 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.782069,
+					44.0793328
+				]
+			},
+			"bbox": [
+				-79.7836339,
+				44.0782086,
+				-79.7805042,
+				44.0804569
+			]
+		}
+	]
+}

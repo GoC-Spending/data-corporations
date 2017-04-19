@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "212 Queen St E, Brampton, ON L6V 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "020a8b09f6e9474da1a13f58ba389526|BN20130632|7.7.0.0|",
+				"addressLine": "212 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "212 Queen St E, Brampton, ON L6V 1B7, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6V 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75099,
+					43.69471
+				]
+			},
+			"bbox": [
+				-79.7525448,
+				43.6935858,
+				-79.7494352,
+				43.6958342
+			]
+		}
+	]
+}

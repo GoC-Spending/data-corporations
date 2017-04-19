@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "144 Main St, Truro, NS B2N 4G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b5a669af75440d5a323b34cbfe03f6f|BN20171457|7.7.0.0|",
+				"addressLine": "144 Main St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "144 Main St, Truro, NS B2N 4G9, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Truro",
+				"postalCode": "B2N 4G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.27106,
+					45.37346
+				]
+			},
+			"bbox": [
+				-63.2726603,
+				45.3723358,
+				-63.2694597,
+				45.3745842
+			]
+		}
+	]
+}

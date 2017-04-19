@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "546 Stewart Hill Rd, Halifax, NS B0N 2P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40aebf7714ff4c1095ac3f8fd274ac71|BN20260231|7.7.0.0|",
+				"addressLine": "546 Stewart Hill Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "546 Stewart Hill Rd, Halifax, NS B0N 2P0, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Upper Musquodoboit",
+				"postalCode": "B0N 2P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.94363,
+					45.16348
+				]
+			},
+			"bbox": [
+				-62.9452243,
+				45.1623558,
+				-62.9420357,
+				45.1646042
+			]
+		}
+	]
+}

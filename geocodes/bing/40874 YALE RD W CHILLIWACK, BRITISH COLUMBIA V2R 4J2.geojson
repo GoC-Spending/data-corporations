@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40874 Yale Rd W, Chilliwack, BC V2R 4J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5872ca2e51554e7a9eb81b19ac1d321d|BN20131519|7.7.0.0|",
+				"addressLine": "40874 Yale Rd W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "40874 Yale Rd W, Chilliwack, BC V2R 4J2, Canada",
+				"locality": "Chilliwack",
+				"neighborhood": "Greendale-Cattermole-Yarrow",
+				"postalCode": "V2R 4J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.0920914,
+					49.1255041
+				]
+			},
+			"bbox": [
+				-122.0938092,
+				49.12438,
+				-122.0903736,
+				49.1266283
+			]
+		}
+	]
+}

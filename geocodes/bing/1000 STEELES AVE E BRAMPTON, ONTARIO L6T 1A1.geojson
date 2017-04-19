@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1000 Steeles Ave E, Brampton, ON L6T 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "67eca4ce0ea14c33bb7d99e41c0b864a|BN20121762|7.7.0.0|",
+				"addressLine": "1000 Steeles Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1000 Steeles Ave E, Brampton, ON L6T 1A1, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7091855,
+					43.6881414
+				]
+			},
+			"bbox": [
+				-79.7107401,
+				43.6870173,
+				-79.7076309,
+				43.6892656
+			]
+		}
+	]
+}

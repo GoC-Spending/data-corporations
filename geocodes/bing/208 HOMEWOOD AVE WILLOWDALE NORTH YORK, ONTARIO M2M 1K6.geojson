@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 Homewood Ave, North York, ON M2M 1K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb49c1ff21204fc98b4863b1279b2df7|BN20190653|7.7.0.0|",
+				"addressLine": "208 Homewood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 Homewood Ave, North York, ON M2M 1K6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook West",
+				"postalCode": "M2M 1K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4297,
+					43.78884
+				]
+			},
+			"bbox": [
+				-79.4312572,
+				43.7877158,
+				-79.4281428,
+				43.7899642
+			]
+		}
+	]
+}

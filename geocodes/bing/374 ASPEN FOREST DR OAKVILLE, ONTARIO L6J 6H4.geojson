@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "374 Aspen Forest Dr, Oakville, ON L6J 6H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f31c9b4482664759894cacd64d936b7b|BN20130521|7.7.0.0|",
+				"addressLine": "374 Aspen Forest Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "374 Aspen Forest Dr, Oakville, ON L6J 6H4, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Ford",
+				"postalCode": "L6J 6H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64291,
+					43.48462
+				]
+			},
+			"bbox": [
+				-79.6444594,
+				43.4834958,
+				-79.6413606,
+				43.4857442
+			]
+		}
+	]
+}

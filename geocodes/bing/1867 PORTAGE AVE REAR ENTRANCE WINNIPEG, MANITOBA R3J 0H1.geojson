@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1867 Portage Ave, Winnipeg, MB R3J 0H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28e83320887c47e6b04781169b2bac93|BN20121762|7.7.0.0|",
+				"addressLine": "1867 Portage Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1867 Portage Ave, Winnipeg, MB R3J 0H1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "King Edward",
+				"postalCode": "R3J 0H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21811,
+					49.87895
+				]
+			},
+			"bbox": [
+				-97.2198545,
+				49.8778258,
+				-97.2163655,
+				49.8800742
+			]
+		}
+	]
+}

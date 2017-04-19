@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Briarwood Ave, Mississauga, ON L5G 3N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf82fb9318ff4fcca13761be5e1d99d6|BN20121763|7.7.0.0|",
+				"addressLine": "60 Briarwood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Briarwood Ave, Mississauga, ON L5G 3N6, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Port Credit",
+				"postalCode": "L5G 3N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58089,
+					43.56094
+				]
+			},
+			"bbox": [
+				-79.5824413,
+				43.5598158,
+				-79.5793387,
+				43.5620642
+			]
+		}
+	]
+}

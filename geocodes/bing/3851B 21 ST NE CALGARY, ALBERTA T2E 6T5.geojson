@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3851 21 St NE, Calgary, AB T2E 6T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "86e2cef52f254aa485edf01a5b7561a0|BN20300154|7.7.0.0|",
+				"addressLine": "3851 21 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3851 21 St NE, Calgary, AB T2E 6T5, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 6T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.00851,
+					51.08755
+				]
+			},
+			"bbox": [
+				-114.0102997,
+				51.0864258,
+				-114.0067203,
+				51.0886742
+			]
+		}
+	]
+}

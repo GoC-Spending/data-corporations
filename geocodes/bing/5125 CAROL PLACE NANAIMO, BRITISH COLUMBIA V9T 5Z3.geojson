@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5125 Carol Pl, Nanaimo, BC V9T 5Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dba8d2548e664d4caded3da347579459|BN20260231|7.7.0.0|",
+				"addressLine": "5125 Carol Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "5125 Carol Pl, Nanaimo, BC V9T 5Z3, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9T 5Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.03961,
+					49.21223
+				]
+			},
+			"bbox": [
+				-124.0413308,
+				49.2111058,
+				-124.0378892,
+				49.2133542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Queen St E, Cambridge, ON N3C 2B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "177dd23fa5b84ac3a97ae9267dd3a235|BN20130442|7.7.0.0|",
+				"addressLine": "125 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Queen St E, Cambridge, ON N3C 2B3, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "East Hespeler",
+				"postalCode": "N3C 2B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3071499,
+					43.4341099
+				]
+			},
+			"bbox": [
+				-80.308698,
+				43.4329857,
+				-80.3056018,
+				43.4352341
+			]
+		}
+	]
+}

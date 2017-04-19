@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Jackson Ln, Arnprior, ON K7S 3G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2e194f058e04114b4d496c6856c959f|BN20131519|7.7.0.0|",
+				"addressLine": "21 Jackson Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Jackson Ln, Arnprior, ON K7S 3G8, Canada",
+				"locality": "McNab/Braeside",
+				"neighborhood": "Arnprior",
+				"postalCode": "K7S 3G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.3913199,
+					45.43091
+				]
+			},
+			"bbox": [
+				-76.3929218,
+				45.4297858,
+				-76.389718,
+				45.4320342
+			]
+		}
+	]
+}

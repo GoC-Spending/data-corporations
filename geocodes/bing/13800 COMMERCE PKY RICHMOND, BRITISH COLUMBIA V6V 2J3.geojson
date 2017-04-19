@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13800 Commerce Pkwy, Richmond, BC V6V 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4542dce12ba24305a90bc9e3d6282dd7|BN20210145|7.7.0.0|",
+				"addressLine": "13800 Commerce Pkwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "13800 Commerce Pkwy, Richmond, BC V6V 2J3, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Cambie",
+				"postalCode": "V6V 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0704,
+					49.17543
+				]
+			},
+			"bbox": [
+				-123.0721196,
+				49.1743058,
+				-123.0686804,
+				49.1765542
+			]
+		}
+	]
+}

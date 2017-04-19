@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1022 Bramfield Pl, Brentwood Bay, BC V8M 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d89f8abb566341e982c6ec6014511ed7|BN20190653|7.7.0.0|",
+				"addressLine": "1022 Bramfield Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1022 Bramfield Pl, Brentwood Bay, BC V8M 1A4, Canada",
+				"locality": "Central Saanich",
+				"neighborhood": "Brentwood Bay",
+				"postalCode": "V8M 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4576905,
+					48.5640917
+				]
+			},
+			"bbox": [
+				-123.4593892,
+				48.5629676,
+				-123.4559918,
+				48.5652159
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Oxford St W, London, ON N6H 1T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "183dc8ee3bb0404399741c77236f465a|BN20190653|7.7.0.0|",
+				"addressLine": "530 Oxford St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Oxford St W, London, ON N6H 1T6, Canada",
+				"locality": "London",
+				"neighborhood": "West London",
+				"postalCode": "N6H 1T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2907,
+					42.9836
+				]
+			},
+			"bbox": [
+				-81.2922367,
+				42.9824758,
+				-81.2891633,
+				42.9847242
+			]
+		}
+	]
+}

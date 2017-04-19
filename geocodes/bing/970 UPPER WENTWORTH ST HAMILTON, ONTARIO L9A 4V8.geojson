@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "970 Upper Wentworth St, Hamilton, ON L9A 4V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9efa6b096dff4d1e82c6ace0dfb958ea|BN20260231|7.7.0.0|",
+				"addressLine": "970 Upper Wentworth St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "970 Upper Wentworth St, Hamilton, ON L9A 4V8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Bruleville",
+				"postalCode": "L9A 4V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86582,
+					43.21837
+				]
+			},
+			"bbox": [
+				-79.8673626,
+				43.2172458,
+				-79.8642774,
+				43.2194942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1065 Blue Grouse Way, North Vancouver, BC V7R 4N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1937ee2af3254be687af49e50dcb7768|BN20130620|7.7.0.0|",
+				"addressLine": "1065 Blue Grouse Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1065 Blue Grouse Way, North Vancouver, BC V7R 4N7, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Cleveland",
+				"postalCode": "V7R 4N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10052,
+					49.36333
+				]
+			},
+			"bbox": [
+				-123.1022461,
+				49.3622058,
+				-123.0987939,
+				49.3644542
+			]
+		}
+	]
+}

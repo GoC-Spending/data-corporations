@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11224 143 St NW, Edmonton, AB T5M 1V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b18ce0a9bcd54f4ca90e027056de3ba5|BN20130447|7.7.0.0|",
+				"addressLine": "11224 143 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11224 143 St NW, Edmonton, AB T5M 1V5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Huff Bremner Estate Industrial",
+				"postalCode": "T5M 1V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.56844,
+					53.5615499
+				]
+			},
+			"bbox": [
+				-113.5703326,
+				53.5604257,
+				-113.5665474,
+				53.5626741
+			]
+		}
+	]
+}

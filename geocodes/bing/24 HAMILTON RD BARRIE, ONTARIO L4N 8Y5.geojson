@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Hamilton Rd, Barrie, ON L4N 8Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fd291e57a774301b96eac55a8f4aa9b|BN20160335|7.7.0.0|",
+				"addressLine": "24 Hamilton Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Hamilton Rd, Barrie, ON L4N 8Y5, Canada",
+				"locality": "Barrie",
+				"postalCode": "L4N 8Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67139,
+					44.35765
+				]
+			},
+			"bbox": [
+				-79.6729623,
+				44.3565258,
+				-79.6698177,
+				44.3587742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2720 Front Rd, Windsor, ON N9J 2N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab26be477ce84dc190b0412771325146|BN20181720|7.7.0.0|",
+				"addressLine": "2720 Front Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2720 Front Rd, Windsor, ON N9J 2N5, Canada",
+				"locality": "Lasalle",
+				"neighborhood": "Windsor",
+				"postalCode": "N9J 2N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.0974935,
+					42.2058345
+				]
+			},
+			"bbox": [
+				-83.0990111,
+				42.2047103,
+				-83.0959759,
+				42.2069586
+			]
+		}
+	]
+}

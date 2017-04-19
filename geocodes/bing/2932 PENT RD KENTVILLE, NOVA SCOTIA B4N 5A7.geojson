@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 3,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Kentville, B4N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d51a2b8f7dd4da59809bb86c922b83a|BN20130520|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kentville, B4N, Canada",
+				"locality": "Kentville",
+				"postalCode": "B4N"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.4882736206055,
+					45.069896697998
+				]
+			},
+			"bbox": [
+				-64.6398391723633,
+				45.0358963012695,
+				-64.4136123657227,
+				45.1038932800293
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Kings, B4N 5A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d51a2b8f7dd4da59809bb86c922b83a|BN20130520|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kings, B4N 5A7, Canada",
+				"locality": "Kings",
+				"postalCode": "B4N 5A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.4745712280273,
+					45.0832748413086
+				]
+			},
+			"bbox": [
+				-64.481864954272,
+				45.0794121237379,
+				-64.4672775017827,
+				45.0871375588793
+			]
+		}
+	]
+}

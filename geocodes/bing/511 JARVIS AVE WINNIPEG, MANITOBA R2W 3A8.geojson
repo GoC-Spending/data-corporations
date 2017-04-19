@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "511 Jarvis Ave, Winnipeg, MB R2W 3A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06ca657dc8c54f03882e9dee932d4060|BN20130447|7.7.0.0|",
+				"addressLine": "511 Jarvis Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "511 Jarvis Ave, Winnipeg, MB R2W 3A8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Dufferin Industrial",
+				"postalCode": "R2W 3A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14828,
+					49.9125
+				]
+			},
+			"bbox": [
+				-97.1500257,
+				49.9113758,
+				-97.1465343,
+				49.9136242
+			]
+		}
+	]
+}

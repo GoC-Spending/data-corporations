@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Red Robinway, Toronto, ON M2R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5be3cf70d8c482d87f3a2d377a0afb8|BN20130632|7.7.0.0|",
+				"addressLine": "82 Red Robinway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Red Robinway, Toronto, ON M2R, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Westminster-Branson",
+				"postalCode": "M2R 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44557,
+					43.77228
+				]
+			},
+			"bbox": [
+				-79.4471268,
+				43.7711558,
+				-79.4440132,
+				43.7734042
+			]
+		}
+	]
+}

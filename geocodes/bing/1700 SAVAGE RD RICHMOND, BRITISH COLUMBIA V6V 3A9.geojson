@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1700 Savage Rd, Richmond, BC V6V 3A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcbf43a2e8a040e59593501336d97cce|BN20130634|7.7.0.0|",
+				"addressLine": "1700 Savage Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1700 Savage Rd, Richmond, BC V6V 3A9, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6V 3A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.05742,
+					49.20129
+				]
+			},
+			"bbox": [
+				-123.0591405,
+				49.2001658,
+				-123.0556995,
+				49.2024142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Pike Rd, Oakville, ON L6H 6C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ffae099bbdc64795bd831d79a78c7383|BN20130530|7.7.0.0|",
+				"addressLine": "59 Pike Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Pike Rd, Oakville, ON L6H 6C3, Canada",
+				"locality": "Oakville",
+				"neighborhood": "River Oaks",
+				"postalCode": "L6H 6C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7280399,
+					43.47555
+				]
+			},
+			"bbox": [
+				-79.729589,
+				43.4744258,
+				-79.7264908,
+				43.4766742
+			]
+		}
+	]
+}

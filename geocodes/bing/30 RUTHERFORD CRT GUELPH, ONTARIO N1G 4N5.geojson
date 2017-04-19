@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Rutherford Ct, Guelph, ON N1G 4N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c265b65ed356430f87d304846f151dfb|BN20130530|7.7.0.0|",
+				"addressLine": "30 Rutherford Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Rutherford Ct, Guelph, ON N1G 4N5, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Clairfields/Hanlon Business Park",
+				"postalCode": "N1G 4N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.20482,
+					43.49254
+				]
+			},
+			"bbox": [
+				-80.2063696,
+				43.4914158,
+				-80.2032704,
+				43.4936642
+			]
+		}
+	]
+}

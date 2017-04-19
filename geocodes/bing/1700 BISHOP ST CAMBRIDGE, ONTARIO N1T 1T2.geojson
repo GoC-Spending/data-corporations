@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1700 Bishop St N, Cambridge, ON N1T 1T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "faca2f6ca6374730b1444e6fc1a1a0e2|BN20130431|7.7.0.0|",
+				"addressLine": "1700 Bishop St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1700 Bishop St N, Cambridge, ON N1T 1T2, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Fiddlesticks",
+				"postalCode": "N1T 1T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30323,
+					43.39759
+				]
+			},
+			"bbox": [
+				-80.3047771,
+				43.3964658,
+				-80.3016829,
+				43.3987142
+			]
+		}
+	]
+}

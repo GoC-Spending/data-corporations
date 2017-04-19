@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "193 Givins St, Woodstock, ON N4S 5Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2426b50e1b0b4d1bbe5f154327d3bc95|BN20220145|7.7.0.0|",
+				"addressLine": "193 Givins St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "193 Givins St, Woodstock, ON N4S 5Y8, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 5Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7702449,
+					43.1346486
+				]
+			},
+			"bbox": [
+				-80.7717854,
+				43.1335245,
+				-80.7687044,
+				43.1357728
+			]
+		}
+	]
+}

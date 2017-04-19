@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "835 Victoria St, Prince George, BC V2L 2K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "220c150bcf354c27bae03964c169d0e2|BN20121763|7.7.0.0|",
+				"addressLine": "835 Victoria St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "835 Victoria St, Prince George, BC V2L 2K7, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2L 2K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.75255,
+					53.9138991
+				]
+			},
+			"bbox": [
+				-122.7544586,
+				53.9127749,
+				-122.7506415,
+				53.9150232
+			]
+		}
+	]
+}

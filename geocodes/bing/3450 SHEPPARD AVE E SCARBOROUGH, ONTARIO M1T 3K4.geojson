@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3450 Sheppard Ave E, Scarborough, ON M1T 3K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5fbb0aa9f9e24107bc7a1294a753f007|BN20130719|7.7.0.0|",
+				"addressLine": "3450 Sheppard Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3450 Sheppard Ave E, Scarborough, ON M1T 3K4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Tam O'Shanter-Sullivan",
+				"postalCode": "M1T 3K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30474,
+					43.77969
+				]
+			},
+			"bbox": [
+				-79.306297,
+				43.7785658,
+				-79.303183,
+				43.7808142
+			]
+		}
+	]
+}

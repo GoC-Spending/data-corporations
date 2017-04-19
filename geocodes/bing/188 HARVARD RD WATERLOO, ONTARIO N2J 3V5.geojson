@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "188 Harvard Rd, Waterloo, ON N2J 3V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98441dd92fda45618cd0f548674bbd89|BN20130533|7.7.0.0|",
+				"addressLine": "188 Harvard Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "188 Harvard Rd, Waterloo, ON N2J 3V5, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 3V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5023,
+					43.48101
+				]
+			},
+			"bbox": [
+				-80.5038493,
+				43.4798858,
+				-80.5007507,
+				43.4821342
+			]
+		}
+	]
+}

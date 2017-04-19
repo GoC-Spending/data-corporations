@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3258 Hawthorne Rd, Ottawa, ON K1G 3W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e761dbef15314ce689b3d89682a140a0|BN20130431|7.7.0.0|",
+				"addressLine": "3258 Hawthorne Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3258 Hawthorne Rd, Ottawa, ON K1G 3W9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1G 3W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6014335,
+					45.3810843
+				]
+			},
+			"bbox": [
+				-75.603034,
+				45.3799601,
+				-75.599833,
+				45.3822084
+			]
+		}
+	]
+}

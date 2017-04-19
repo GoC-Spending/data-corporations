@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "417 East Ave, Scarborough, ON M1C 2W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c903fd849d8d4edfac2816718f9cb694|BN20130625|7.7.0.0|",
+				"addressLine": "417 East Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "417 East Ave, Scarborough, ON M1C 2W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1C 2W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1374,
+					43.79545
+				]
+			},
+			"bbox": [
+				-79.1389574,
+				43.7943258,
+				-79.1358426,
+				43.7965742
+			]
+		}
+	]
+}

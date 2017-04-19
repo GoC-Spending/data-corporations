@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1113 Marginal Rd, Halifax, NS B3H 4P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "601868633a66443eaa1a28d637aef5a7|BN20130442|7.7.0.0|",
+				"addressLine": "1113 Marginal Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1113 Marginal Rd, Halifax, NS B3H 4P7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "South End",
+				"postalCode": "B3H 4P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.56615,
+					44.63931
+				]
+			},
+			"bbox": [
+				-63.5677299,
+				44.6381858,
+				-63.5645701,
+				44.6404342
+			]
+		}
+	]
+}

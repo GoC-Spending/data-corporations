@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Craig St, Brantford, ON N3R 7J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e9843d0057d546e995ca832894d4da53|BN20121762|7.7.0.0|",
+				"addressLine": "30 Craig St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Craig St, Brantford, ON N3R 7J1, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 7J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.24871,
+					43.16331
+				]
+			},
+			"bbox": [
+				-80.2502512,
+				43.1621858,
+				-80.2471688,
+				43.1644342
+			]
+		}
+	]
+}

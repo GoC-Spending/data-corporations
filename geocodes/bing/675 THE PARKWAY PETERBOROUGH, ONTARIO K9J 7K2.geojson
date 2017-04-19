@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "675 The Parkway, Peterborough, ON K9J 7K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "262fba8b393a49ae974c700aa6d52467|BN20130520|7.7.0.0|",
+				"addressLine": "675 The Parkway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "675 The Parkway, Peterborough, ON K9J 7K2, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 7K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3418499,
+					44.27596
+				]
+			},
+			"bbox": [
+				-78.34342,
+				44.2748358,
+				-78.3402798,
+				44.2770842
+			]
+		}
+	]
+}

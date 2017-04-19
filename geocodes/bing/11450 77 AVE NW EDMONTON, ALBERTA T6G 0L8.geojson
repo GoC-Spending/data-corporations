@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11450 77 Ave NW, Edmonton, AB T6G 0L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73a303bee5194bf0b57df61f6e25d669|BN20240253|7.7.0.0|",
+				"addressLine": "11450 77 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11450 77 Ave NW, Edmonton, AB T6G 0L8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McKernan",
+				"postalCode": "T6G 0L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.52822,
+					53.51341
+				]
+			},
+			"bbox": [
+				-113.5301105,
+				53.5122858,
+				-113.5263295,
+				53.5145342
+			]
+		}
+	]
+}

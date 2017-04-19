@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1043 Rosser Ave, Brandon, MB R7A 0L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f11b3ef617d479b81e2b8e99f643883|BN20130521|7.7.0.0|",
+				"addressLine": "1043 Rosser Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1043 Rosser Ave, Brandon, MB R7A 0L5, Canada",
+				"locality": "Brandon",
+				"postalCode": "R7A 0L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.95254,
+					49.84861
+				]
+			},
+			"bbox": [
+				-99.9542834,
+				49.8474858,
+				-99.9507966,
+				49.8497342
+			]
+		}
+	]
+}

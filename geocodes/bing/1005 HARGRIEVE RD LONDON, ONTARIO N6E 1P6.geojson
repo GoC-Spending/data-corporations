@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1005 Hargrieve Rd, London, ON N6E 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df8f52a00f6d4a5d8c163eb74e538820|BN20200239|7.7.0.0|",
+				"addressLine": "1005 Hargrieve Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1005 Hargrieve Rd, London, ON N6E 1P6, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6E 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.217,
+					42.9322
+				]
+			},
+			"bbox": [
+				-81.2185354,
+				42.9310758,
+				-81.2154646,
+				42.9333242
+			]
+		}
+	]
+}

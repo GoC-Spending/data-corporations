@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Edmonton, T6R 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27fb008af8064ecaab3bb9bffd4dd6f3|BN20250135|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Edmonton, T6R 2V4, Canada",
+				"locality": "Edmonton",
+				"postalCode": "T6R 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.490371704102,
+					53.5462417602539
+				]
+			},
+			"bbox": [
+				-113.499038898666,
+				53.5423790426832,
+				-113.481704509537,
+				53.5501044778246
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 3,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Edgewood, MD 21085",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27fb008af8064ecaab3bb9bffd4dd6f3|BN20250135|7.7.0.0|",
+				"adminDistrict": "MD",
+				"adminDistrict2": "Harford",
+				"countryRegion": "United States",
+				"formattedAddress": "Edgewood, MD 21085",
+				"locality": "Edgewood",
+				"postalCode": "21085"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.3619689941406,
+					39.4185638427734
+				]
+			},
+			"bbox": [
+				-76.3935165405273,
+				39.389820098877,
+				-76.3112487792969,
+				39.5152473449707
+			]
+		}
+	]
+}

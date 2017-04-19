@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2250 E Hastings St, Vancouver, BC V5L 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "387ac63316e54cf0abccdfe831ca3508|BN20320521|7.7.0.0|",
+				"addressLine": "2250 E Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2250 E Hastings St, Vancouver, BC V5L 1V4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5L 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.058751,
+					49.2810151
+				]
+			},
+			"bbox": [
+				-123.0604742,
+				49.279891,
+				-123.0570278,
+				49.2821393
+			]
+		}
+	]
+}

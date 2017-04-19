@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "546 Hartley Blvd, Milton, ON L9T 6G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74d0e11d4e294ab186e3d8d4c9724ee6|BN20160335|7.7.0.0|",
+				"addressLine": "546 Hartley Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "546 Hartley Blvd, Milton, ON L9T 6G7, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 6G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84998,
+					43.52116
+				]
+			},
+			"bbox": [
+				-79.8515303,
+				43.5200358,
+				-79.8484297,
+				43.5222842
+			]
+		}
+	]
+}

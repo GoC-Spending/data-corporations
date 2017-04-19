@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 Windermere Rd, London, ON N5X 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da59a11839a34b209fdc56155230b1eb|BN20130533|7.7.0.0|",
+				"addressLine": "605 Windermere Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 Windermere Rd, London, ON N5X 2P1, Canada",
+				"locality": "London",
+				"neighborhood": "Masonville",
+				"postalCode": "N5X 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.259,
+					43.0197
+				]
+			},
+			"bbox": [
+				-81.2605376,
+				43.0185758,
+				-81.2574624,
+				43.0208242
+			]
+		}
+	]
+}

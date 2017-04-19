@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1021 Queen St, New Dundee, ON N0B 2E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13c23dd1930a460b860dfd6883d53a3b|BN20130721|7.7.0.0|",
+				"addressLine": "1021 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1021 Queen St, New Dundee, ON N0B 2E0, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "New Dundee",
+				"postalCode": "N0B 2E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5338758,
+					43.3439301
+				]
+			},
+			"bbox": [
+				-80.5354215,
+				43.3428059,
+				-80.53233,
+				43.3450542
+			]
+		}
+	]
+}

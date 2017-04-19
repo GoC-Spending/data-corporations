@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10358 172 St NW, Edmonton, AB T5S 1G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c3741c3507c34d7ea99c45217e80a97c|BN20290118|7.7.0.0|",
+				"addressLine": "10358 172 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10358 172 St NW, Edmonton, AB T5S 1G9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Stone Industrial",
+				"postalCode": "T5S 1G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.61892,
+					53.54672
+				]
+			},
+			"bbox": [
+				-113.620812,
+				53.5455958,
+				-113.617028,
+				53.5478442
+			]
+		}
+	]
+}

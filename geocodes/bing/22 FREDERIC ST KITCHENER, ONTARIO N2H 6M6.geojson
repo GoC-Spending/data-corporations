@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Frederick St, Kitchener, ON N2H 6M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "caf104f67f814be597e021a8e87f8100|CO30323910|7.7.0.0|",
+				"addressLine": "22 Frederick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Frederick St, Kitchener, ON N2H 6M6, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "City Commercial Core",
+				"postalCode": "N2H 6M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.48781,
+					43.45
+				]
+			},
+			"bbox": [
+				-80.4893585,
+				43.4488758,
+				-80.4862615,
+				43.4511242
+			]
+		}
+	]
+}

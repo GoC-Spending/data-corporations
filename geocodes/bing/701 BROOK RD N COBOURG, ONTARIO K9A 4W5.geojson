@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "701 Brook Rd N, Cobourg, ON K9A 4J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c3cd597a6b6a496f97e2b4f9d76669c5|BN20130520|7.7.0.0|",
+				"addressLine": "701 Brook Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "701 Brook Rd N, Cobourg, ON K9A 4J8, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 4J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1521748,
+					43.9778014
+				]
+			},
+			"bbox": [
+				-78.153737,
+				43.9766773,
+				-78.1506127,
+				43.9789256
+			]
+		}
+	]
+}

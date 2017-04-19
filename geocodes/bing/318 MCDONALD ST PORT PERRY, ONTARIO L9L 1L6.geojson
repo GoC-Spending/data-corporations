@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "318 McDonald St, Port Perry, ON L9L 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "389efa918d034c2f9e3f5f12d0b5bc3b|BN20290118|7.7.0.0|",
+				"addressLine": "318 McDonald St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "318 McDonald St, Port Perry, ON L9L 1L6, Canada",
+				"locality": "Scugog",
+				"neighborhood": "Port Perry",
+				"postalCode": "L9L 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9482104,
+					44.1043386
+				]
+			},
+			"bbox": [
+				-78.949776,
+				44.1032144,
+				-78.9466449,
+				44.1054627
+			]
+		}
+	]
+}

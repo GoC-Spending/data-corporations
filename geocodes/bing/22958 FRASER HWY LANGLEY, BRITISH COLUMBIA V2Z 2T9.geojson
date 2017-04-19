@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22958 Fraser Hwy, Langley, BC V2Z 2T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "538f6592adc441d2b4b22e5aa03f98d0|BN20130431|7.7.0.0|",
+				"addressLine": "22958 Fraser Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "22958 Fraser Hwy, Langley, BC V2Z 2T9, Canada",
+				"locality": "Langley",
+				"postalCode": "V2Z 2T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.5874,
+					49.08364
+				]
+			},
+			"bbox": [
+				-122.5891164,
+				49.0825158,
+				-122.5856836,
+				49.0847642
+			]
+		}
+	]
+}

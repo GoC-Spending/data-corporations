@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Upper Mercer St, Kitchener, ON N2A 4N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8953550cf4924879bc015a0f008c305f|BN20181720|7.7.0.0|",
+				"addressLine": "105 Upper Mercer St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Upper Mercer St, Kitchener, ON N2A 4N1, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Grand River South",
+				"postalCode": "N2A 4N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.40542,
+					43.44572
+				]
+			},
+			"bbox": [
+				-80.4069684,
+				43.4445958,
+				-80.4038716,
+				43.4468442
+			]
+		}
+	]
+}

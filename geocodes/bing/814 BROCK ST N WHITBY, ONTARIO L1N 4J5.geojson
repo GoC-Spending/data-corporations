@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "814 Brock St N, Whitby, ON L1N 4J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4013e3469ffe471ca637a55ce44c253f|BN20130442|7.7.0.0|",
+				"addressLine": "814 Brock St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "814 Brock St N, Whitby, ON L1N 4J5, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 4J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94689,
+					43.89002
+				]
+			},
+			"bbox": [
+				-78.9484499,
+				43.8888958,
+				-78.9453301,
+				43.8911442
+			]
+		}
+	]
+}

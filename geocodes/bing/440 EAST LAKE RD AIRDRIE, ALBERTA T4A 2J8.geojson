@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "440 E Lake Rd NE, Airdrie, AB T4A 2J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eccaf248a0434651bbf4587b2f6693ac|BN20190642|7.7.0.0|",
+				"addressLine": "440 E Lake Rd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "440 E Lake Rd NE, Airdrie, AB T4A 2J8, Canada",
+				"locality": "Airdrie",
+				"postalCode": "T4A 2J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.98186,
+					51.28842
+				]
+			},
+			"bbox": [
+				-113.9836575,
+				51.2872958,
+				-113.9800625,
+				51.2895442
+			]
+		}
+	]
+}

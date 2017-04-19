@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "860 Harrington Ct, Burlington, ON L7N 3N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d60dc29c35a477bb213437e742a2de8|BN20260223|7.7.0.0|",
+				"addressLine": "860 Harrington Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "860 Harrington Ct, Burlington, ON L7N 3N4, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Dynes",
+				"postalCode": "L7N 3N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78751,
+					43.35786
+				]
+			},
+			"bbox": [
+				-79.7890561,
+				43.3567358,
+				-79.7859639,
+				43.3589842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "336 Rideau St, Ottawa, ON K1N 5Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0d51d16404946e888356282807f8fcf|BN20130532|7.7.0.0|",
+				"addressLine": "336 Rideau St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "336 Rideau St, Ottawa, ON K1N 5Y5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lower Town",
+				"postalCode": "K1N 5Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68405,
+					45.42916
+				]
+			},
+			"bbox": [
+				-75.6856518,
+				45.4280358,
+				-75.6824482,
+				45.4302842
+			]
+		}
+	]
+}

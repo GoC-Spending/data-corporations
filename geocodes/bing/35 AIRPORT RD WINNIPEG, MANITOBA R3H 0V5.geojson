@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Airport Rd, Winnipeg, MB R3H 0V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e10278aaa96942a1a5a3d5b82b814d4e|BN20130634|7.7.0.0|",
+				"addressLine": "35 Airport Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Airport Rd, Winnipeg, MB R3H 0V5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21728,
+					49.91481
+				]
+			},
+			"bbox": [
+				-97.2190258,
+				49.9136858,
+				-97.2155342,
+				49.9159342
+			]
+		}
+	]
+}

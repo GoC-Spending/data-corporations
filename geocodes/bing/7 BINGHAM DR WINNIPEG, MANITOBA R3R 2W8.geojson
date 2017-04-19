@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Bingham Dr, Winnipeg, MB R3R 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4d0717bd68a47d5bd3abb466beba578|BN20200239|7.7.0.0|",
+				"addressLine": "7 Bingham Dr",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Bingham Dr, Winnipeg, MB R3R 2W8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Betsworth",
+				"postalCode": "R3R 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.31143,
+					49.84999
+				]
+			},
+			"bbox": [
+				-97.3131734,
+				49.8488658,
+				-97.3096866,
+				49.8511142
+			]
+		}
+	]
+}

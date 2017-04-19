@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "647 Portage Ave, Winnipeg, MB R3B 2G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b162b0656bd4aada81e32b76063f4a3|BN20280152|7.7.0.0|",
+				"addressLine": "647 Portage Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "647 Portage Ave, Winnipeg, MB R3B 2G4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Spence",
+				"postalCode": "R3B 2G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15882,
+					49.88867
+				]
+			},
+			"bbox": [
+				-97.1605648,
+				49.8875458,
+				-97.1570752,
+				49.8897942
+			]
+		}
+	]
+}

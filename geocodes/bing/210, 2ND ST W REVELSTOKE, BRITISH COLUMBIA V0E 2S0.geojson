@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 2nd St W, Revelstoke, BC V0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2ad587c4468479389410a21e0a356ca|BN20130631|7.7.0.0|",
+				"addressLine": "210 2nd St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Columbia-Shuswap",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 2nd St W, Revelstoke, BC V0E, Canada",
+				"locality": "Revelstoke",
+				"postalCode": "V0E 2S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.19718,
+					50.99915
+				]
+			},
+			"bbox": [
+				-118.1989663,
+				50.9980258,
+				-118.1953937,
+				51.0002742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 Main St W, Saint John, NB E2M 3H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe3155d1ba09429390c94075e15d813e|BN20130631|7.7.0.0|",
+				"addressLine": "89 Main St W",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 Main St W, Saint John, NB E2M 3H2, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 3H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.09672,
+					45.2569
+				]
+			},
+			"bbox": [
+				-66.098317,
+				45.2557758,
+				-66.095123,
+				45.2580242
+			]
+		}
+	]
+}

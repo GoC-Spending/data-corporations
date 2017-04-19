@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5249 Slocan St, Vancouver, BC V5R 2A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85a7cdbdcaf74a4aa0d6fac057bf9492|BN20130530|7.7.0.0|",
+				"addressLine": "5249 Slocan St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5249 Slocan St, Vancouver, BC V5R 2A8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5R 2A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.05463,
+					49.23696
+				]
+			},
+			"bbox": [
+				-123.0563517,
+				49.2358358,
+				-123.0529083,
+				49.2380842
+			]
+		}
+	]
+}

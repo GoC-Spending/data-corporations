@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Midland St, Winnipeg, MB R3E 3M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39261425aea64fc1a16370a1344d5564|BN20130521|7.7.0.0|",
+				"addressLine": "135 Midland St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Midland St, Winnipeg, MB R3E 3M9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3E 3M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1892,
+					49.91031
+				]
+			},
+			"bbox": [
+				-97.1909456,
+				49.9091858,
+				-97.1874544,
+				49.9114342
+			]
+		}
+	]
+}

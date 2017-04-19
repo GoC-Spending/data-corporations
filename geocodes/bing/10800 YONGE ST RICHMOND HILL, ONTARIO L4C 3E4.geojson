@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10800 Yonge St, Richmond Hill, ON L4C 3E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "51f2597b18624c49b265d1be9daea25e|BN20200239|7.7.0.0|",
+				"addressLine": "10800 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "10800 Yonge St, Richmond Hill, ON L4C 3E4, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4C 3E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44207,
+					43.89106
+				]
+			},
+			"bbox": [
+				-79.4436299,
+				43.8899358,
+				-79.4405101,
+				43.8921842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2002 Cavendish Dr, Burlington, ON L7P 1Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0fe0b96040f4864918ba716a926eede|BN20130521|7.7.0.0|",
+				"addressLine": "2002 Cavendish Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2002 Cavendish Dr, Burlington, ON L7P 1Y7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Brant Hills",
+				"postalCode": "L7P 1Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83663,
+					43.35904
+				]
+			},
+			"bbox": [
+				-79.8381761,
+				43.3579158,
+				-79.8350839,
+				43.3601642
+			]
+		}
+	]
+}

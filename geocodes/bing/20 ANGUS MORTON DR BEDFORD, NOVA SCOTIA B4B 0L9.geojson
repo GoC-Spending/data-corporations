@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Angus Morton Dr, Bedford, NS B4B 0L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef49c7db66184804819597edef0b0fde|BN20130625|7.7.0.0|",
+				"addressLine": "20 Angus Morton Dr",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Angus Morton Dr, Bedford, NS B4B 0L9, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Bedford",
+				"postalCode": "B4B 0L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.69835,
+					44.72461
+				]
+			},
+			"bbox": [
+				-63.6999322,
+				44.7234858,
+				-63.6967678,
+				44.7257342
+			]
+		}
+	]
+}

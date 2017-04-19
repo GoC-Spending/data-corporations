@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1235 S Russell Rd, Russell, ON K4R 1E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d384ce223b8142b09b2f7726510967a3|BN20130521|7.7.0.0|",
+				"addressLine": "1235 S Russell Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "1235 S Russell Rd, Russell, ON K4R 1E5, Canada",
+				"locality": "Russell",
+				"postalCode": "K4R 1E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.353792,
+					45.2499891
+				]
+			},
+			"bbox": [
+				-75.3553888,
+				45.2488649,
+				-75.3521953,
+				45.2511132
+			]
+		}
+	]
+}

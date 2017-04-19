@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3801 Rue Bannantyne, Verdun, QC H4G 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5b9db5528594bbc98bbb4d9aa4d219d|BN20130521|7.7.0.0|",
+				"addressLine": "3801 Rue Bannantyne",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "3801 Rue Bannantyne, Verdun, QC H4G 1B7, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4G 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5761799,
+					45.46628
+				]
+			},
+			"bbox": [
+				-73.5777828,
+				45.4651558,
+				-73.574577,
+				45.4674042
+			]
+		}
+	]
+}

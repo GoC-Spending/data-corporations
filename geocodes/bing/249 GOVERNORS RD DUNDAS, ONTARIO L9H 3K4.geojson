@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "249 Governor's Rd, Dundas, ON L9H 3K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d0ff0196fe845a5acf52b74ec5fc9ee|BN20130621|7.7.0.0|",
+				"addressLine": "249 Governor's Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "249 Governor's Rd, Dundas, ON L9H 3K4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 3K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.96977,
+					43.26026
+				]
+			},
+			"bbox": [
+				-79.9713136,
+				43.2591358,
+				-79.9682264,
+				43.2613842
+			]
+		}
+	]
+}

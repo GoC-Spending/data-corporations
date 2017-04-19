@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "975 Syscon Rd, Burlington, ON L7L 5S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad232dbe4d7d4770bd4cfdc451c092f3|BN20130625|7.7.0.0|",
+				"addressLine": "975 Syscon Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "975 Syscon Rd, Burlington, ON L7L 5S3, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Pinedale",
+				"postalCode": "L7L 5S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7565599,
+					43.39285
+				]
+			},
+			"bbox": [
+				-79.7581069,
+				43.3917258,
+				-79.7550129,
+				43.3939742
+			]
+		}
+	]
+}

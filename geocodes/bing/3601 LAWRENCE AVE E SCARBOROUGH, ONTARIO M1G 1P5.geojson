@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3601 Lawrence Ave E, Scarborough, ON M1G 1P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "41fdf226699840ffb1558cfcb57b530b|BN20220145|7.7.0.0|",
+				"addressLine": "3601 Lawrence Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3601 Lawrence Ave E, Scarborough, ON M1G 1P5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woburn",
+				"postalCode": "M1G 1P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22336,
+					43.75952
+				]
+			},
+			"bbox": [
+				-79.2249165,
+				43.7583958,
+				-79.2218035,
+				43.7606442
+			]
+		}
+	]
+}

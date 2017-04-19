@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "625 11th Ave, Campbell River, BC V9W 4G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d29239a3ffc34fa78f42a3447a4ac113|BN20130620|7.7.0.0|",
+				"addressLine": "625 11th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Strathcona",
+				"countryRegion": "Canada",
+				"formattedAddress": "625 11th Ave, Campbell River, BC V9W 4G5, Canada",
+				"locality": "Campbell River",
+				"postalCode": "V9W 4G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.2482245,
+					50.0261202
+				]
+			},
+			"bbox": [
+				-125.2499743,
+				50.024996,
+				-125.2464746,
+				50.0272443
+			]
+		}
+	]
+}

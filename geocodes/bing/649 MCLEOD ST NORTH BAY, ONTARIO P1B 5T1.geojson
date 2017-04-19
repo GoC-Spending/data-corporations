@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "649 McLeod St, North Bay, ON P1B 5T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a8ec63494d846a7971fb455216b36cc|BN20130631|7.7.0.0|",
+				"addressLine": "649 McLeod St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "649 McLeod St, North Bay, ON P1B 5T1, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Gateway",
+				"postalCode": "P1B 5T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46004,
+					46.32201
+				]
+			},
+			"bbox": [
+				-79.4616678,
+				46.3208858,
+				-79.4584122,
+				46.3231342
+			]
+		}
+	]
+}

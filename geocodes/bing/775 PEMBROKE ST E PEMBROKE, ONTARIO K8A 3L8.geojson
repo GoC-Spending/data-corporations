@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "775 Pembroke St E, Pembroke, ON K8A 3L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2de429ffb4bf4708a1104a8a2e3856c4|BN20121762|7.7.0.0|",
+				"addressLine": "775 Pembroke St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "775 Pembroke St E, Pembroke, ON K8A 3L8, Canada",
+				"locality": "Pembroke",
+				"postalCode": "K8A 3L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0936854,
+					45.826808
+				]
+			},
+			"bbox": [
+				-77.0952987,
+				45.8256839,
+				-77.0920722,
+				45.8279322
+			]
+		}
+	]
+}

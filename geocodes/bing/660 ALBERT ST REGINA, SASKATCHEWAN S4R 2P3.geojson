@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "660 Albert St, Regina, SK S4R 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9fcab210a8b34c5e981715cb023563c5|BN20220145|7.7.0.0|",
+				"addressLine": "660 Albert St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "660 Albert St, Regina, SK S4R 2P3, Canada",
+				"locality": "Regina",
+				"neighborhood": "North Central",
+				"postalCode": "S4R 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.6188899,
+					50.46807
+				]
+			},
+			"bbox": [
+				-104.620656,
+				50.4669458,
+				-104.6171238,
+				50.4691942
+			]
+		}
+	]
+}

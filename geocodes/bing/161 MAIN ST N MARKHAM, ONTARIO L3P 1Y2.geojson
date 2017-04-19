@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "161 Main Street Markham N, Markham, ON L3P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef1854ef6d9d416c8ad9d19d98f9cd8b|BN20130632|7.7.0.0|",
+				"addressLine": "161 Main Street Markham N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "161 Main Street Markham N, Markham, ON L3P, Canada",
+				"locality": "Markham",
+				"postalCode": "L3P 1Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26078,
+					43.87995
+				]
+			},
+			"bbox": [
+				-79.2623396,
+				43.8788258,
+				-79.2592204,
+				43.8810742
+			]
+		}
+	]
+}

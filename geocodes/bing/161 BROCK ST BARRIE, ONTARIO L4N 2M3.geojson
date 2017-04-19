@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "161 Brock St, Barrie, ON L4N 2M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "caf2b138e23d455e8e65adbce2758d94|BN20190642|7.7.0.0|",
+				"addressLine": "161 Brock St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "161 Brock St, Barrie, ON L4N 2M3, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 2M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70423,
+					44.37253
+				]
+			},
+			"bbox": [
+				-79.7058027,
+				44.3714058,
+				-79.7026573,
+				44.3736542
+			]
+		}
+	]
+}

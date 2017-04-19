@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 Samba Dr, North York, ON M9M 2M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74a03bbe8bc341449ed368de7cf3aafc|BN20240423|7.7.0.0|",
+				"addressLine": "9 Samba Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 Samba Dr, North York, ON M9M 2M9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humbermede",
+				"postalCode": "M9M 2M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53531,
+					43.7352
+				]
+			},
+			"bbox": [
+				-79.5368658,
+				43.7340758,
+				-79.5337542,
+				43.7363242
+			]
+		}
+	]
+}

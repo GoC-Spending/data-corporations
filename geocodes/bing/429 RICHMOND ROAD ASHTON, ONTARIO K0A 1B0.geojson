@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "429 Richmond Rd, Ashton, ON K0A 1B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a5d351241614d228c7ca88454aa9b05|BN20130431|7.7.0.0|",
+				"addressLine": "429 Richmond Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "429 Richmond Rd, Ashton, ON K0A 1B0, Canada",
+				"locality": "Beckwith",
+				"neighborhood": "Ashton",
+				"postalCode": "K0A 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.981702,
+					45.097566
+				]
+			},
+			"bbox": [
+				-75.9832946,
+				45.0964419,
+				-75.9801095,
+				45.0986902
+			]
+		}
+	]
+}

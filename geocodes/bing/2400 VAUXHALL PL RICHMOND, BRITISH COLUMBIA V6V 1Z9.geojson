@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2400 Vauxhall Pl, Richmond, BC V6V 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a04a22c708ed44998e484aeda5e3d9da|BN20260231|7.7.0.0|",
+				"addressLine": "2400 Vauxhall Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2400 Vauxhall Pl, Richmond, BC V6V 1Z9, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6V 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0861905,
+					49.1965577
+				]
+			},
+			"bbox": [
+				-123.0879108,
+				49.1954336,
+				-123.0844702,
+				49.1976819
+			]
+		}
+	]
+}

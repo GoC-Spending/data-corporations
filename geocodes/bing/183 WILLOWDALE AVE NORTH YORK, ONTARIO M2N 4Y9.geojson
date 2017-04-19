@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "183 Willowdale Ave, North York, ON M2N 4Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdf80fc862d84656bd8718d495c29eec|BN20290118|7.7.0.0|",
+				"addressLine": "183 Willowdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "183 Willowdale Ave, North York, ON M2N 4Y9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale East",
+				"postalCode": "M2N 4Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4009899,
+					43.7678
+				]
+			},
+			"bbox": [
+				-79.4025466,
+				43.7666758,
+				-79.3994332,
+				43.7689242
+			]
+		}
+	]
+}

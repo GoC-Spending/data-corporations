@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Elliott St, Cambridge, ON N1R 2J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d17d1fdcc3841e3a21db4339522aa19|BN20320521|7.7.0.0|",
+				"addressLine": "130 Elliott St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Elliott St, Cambridge, ON N1R 2J8, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Southwood",
+				"postalCode": "N1R 2J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30526,
+					43.35374
+				]
+			},
+			"bbox": [
+				-80.306806,
+				43.3526158,
+				-80.303714,
+				43.3548642
+			]
+		}
+	]
+}

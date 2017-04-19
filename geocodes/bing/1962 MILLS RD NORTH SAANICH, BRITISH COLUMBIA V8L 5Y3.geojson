@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1962 Mills Rd, North Saanich, BC V8L 5Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e4c472c02b77469284a29aa173e28059|BN20130431|7.7.0.0|",
+				"addressLine": "1962 Mills Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1962 Mills Rd, North Saanich, BC V8L 5Y3, Canada",
+				"locality": "North Saanich",
+				"postalCode": "V8L 5Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4182,
+					48.6556799
+				]
+			},
+			"bbox": [
+				-123.4199018,
+				48.6545557,
+				-123.4164982,
+				48.6568041
+			]
+		}
+	]
+}

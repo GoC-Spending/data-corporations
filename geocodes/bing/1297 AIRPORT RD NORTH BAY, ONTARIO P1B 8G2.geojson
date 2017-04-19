@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1297 Airport Rd, North Bay, ON P1B 8G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fc73cac85944f08b88e859a7a918471|BN20280152|7.7.0.0|",
+				"addressLine": "1297 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "1297 Airport Rd, North Bay, ON P1B 8G2, Canada",
+				"locality": "North Bay",
+				"postalCode": "P1B 8G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42612,
+					46.35311
+				]
+			},
+			"bbox": [
+				-79.4277487,
+				46.3519858,
+				-79.4244913,
+				46.3542342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Cranfield Rd, East York, ON M4B 3H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13324867dcdc4cf0a304fd74d5dd058a|BN20130621|7.7.0.0|",
+				"addressLine": "33 Cranfield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Cranfield Rd, East York, ON M4B 3H2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "O'Connor-Parkview",
+				"postalCode": "M4B 3H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31082,
+					43.71225
+				]
+			},
+			"bbox": [
+				-79.3123752,
+				43.7111258,
+				-79.3092648,
+				43.7133742
+			]
+		}
+	]
+}

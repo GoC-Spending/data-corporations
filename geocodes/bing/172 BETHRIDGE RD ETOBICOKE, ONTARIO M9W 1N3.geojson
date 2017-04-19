@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "172 Bethridge Rd, Etobicoke, ON M9W 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2f5654a02144d81aaedc157d3f72606|BN20130625|7.7.0.0|",
+				"addressLine": "172 Bethridge Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "172 Bethridge Rd, Etobicoke, ON M9W 1N3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5849846,
+					43.7088393
+				]
+			},
+			"bbox": [
+				-79.5865397,
+				43.7077152,
+				-79.5834294,
+				43.7099635
+			]
+		}
+	]
+}

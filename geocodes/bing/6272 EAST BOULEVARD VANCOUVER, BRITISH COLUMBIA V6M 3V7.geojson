@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6272 East Blvd, Vancouver, BC V6M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fd6f3b63d1d4832bd66778b52b53c2b|BN20190653|7.7.0.0|",
+				"addressLine": "6272 East Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6272 East Blvd, Vancouver, BC V6M, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kerrisdale",
+				"postalCode": "V6M 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.154976,
+					49.2291818
+				]
+			},
+			"bbox": [
+				-123.1566974,
+				49.2280576,
+				-123.1532545,
+				49.2303059
+			]
+		}
+	]
+}

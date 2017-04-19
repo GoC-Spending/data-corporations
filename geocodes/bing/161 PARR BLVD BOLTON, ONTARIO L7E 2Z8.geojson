@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "161 Parr Blvd, Bolton, ON L7E 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c94e6a69b25c4f2292d080c76ef798e2|BN20130632|7.7.0.0|",
+				"addressLine": "161 Parr Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "161 Parr Blvd, Bolton, ON L7E 2Z8, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71016,
+					43.84545
+				]
+			},
+			"bbox": [
+				-79.7117187,
+				43.8443258,
+				-79.7086013,
+				43.8465742
+			]
+		}
+	]
+}

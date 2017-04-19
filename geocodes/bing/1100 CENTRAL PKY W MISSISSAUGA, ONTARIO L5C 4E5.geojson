@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1100 Central Pkwy W, Mississauga, ON L5C 4E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7d816dbfedf4d378279ffcf4762a087|BN20130533|7.7.0.0|",
+				"addressLine": "1100 Central Pkwy W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1100 Central Pkwy W, Mississauga, ON L5C 4E5, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Erindale",
+				"postalCode": "L5C 4E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.65679,
+					43.56649
+				]
+			},
+			"bbox": [
+				-79.6583415,
+				43.5653658,
+				-79.6552385,
+				43.5676142
+			]
+		}
+	]
+}

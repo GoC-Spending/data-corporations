@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "355 Woodside Cir SW, Calgary, AB T2W 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8ccdc6063e64435bfb8ed3eb1190f0c|BN20130632|7.7.0.0|",
+				"addressLine": "355 Woodside Cir SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "355 Woodside Cir SW, Calgary, AB T2W 3K2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Woodlands",
+				"postalCode": "T2W 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.11412,
+					50.93781
+				]
+			},
+			"bbox": [
+				-114.1159039,
+				50.9366858,
+				-114.1123361,
+				50.9389342
+			]
+		}
+	]
+}

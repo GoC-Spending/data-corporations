@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "628 Yonge St, Midland, ON L4R 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b9ff0b24cf214a088e67c45adf282db5|BN20130530|7.7.0.0|",
+				"addressLine": "628 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "628 Yonge St, Midland, ON L4R 2E3, Canada",
+				"locality": "Midland",
+				"postalCode": "L4R 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8883664,
+					44.7448434
+				]
+			},
+			"bbox": [
+				-79.8899492,
+				44.7437192,
+				-79.8867837,
+				44.7459675
+			]
+		}
+	]
+}

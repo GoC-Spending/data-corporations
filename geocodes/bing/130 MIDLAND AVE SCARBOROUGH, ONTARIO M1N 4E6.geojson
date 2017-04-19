@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Midland Ave, Scarborough, ON M1N 4E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b9179c3c64714185a9a025f6062e3e9a|BN20121763|7.7.0.0|",
+				"addressLine": "130 Midland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Midland Ave, Scarborough, ON M1N 4E6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Birchcliffe-Cliffside",
+				"postalCode": "M1N 4E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24773,
+					43.7083299
+				]
+			},
+			"bbox": [
+				-79.2492851,
+				43.7072057,
+				-79.2461749,
+				43.7094541
+			]
+		}
+	]
+}

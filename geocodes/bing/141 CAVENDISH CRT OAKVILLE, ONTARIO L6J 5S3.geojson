@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "141 Cavendish Ct, Oakville, ON L6J 5S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b4f70aa72c04d6085b8513d17abe50a|BN20200239|7.7.0.0|",
+				"addressLine": "141 Cavendish Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "141 Cavendish Ct, Oakville, ON L6J 5S3, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Morrison",
+				"postalCode": "L6J 5S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64648,
+					43.46817
+				]
+			},
+			"bbox": [
+				-79.6480289,
+				43.4670458,
+				-79.6449311,
+				43.4692942
+			]
+		}
+	]
+}

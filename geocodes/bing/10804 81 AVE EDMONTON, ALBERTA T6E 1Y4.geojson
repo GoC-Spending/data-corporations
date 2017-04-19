@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10804 81 Ave NW, Edmonton, AB T6E 1Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0ea69bbe1c148c2a2da39fe246e22a0|BN20280152|7.7.0.0|",
+				"addressLine": "10804 81 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10804 81 Ave NW, Edmonton, AB T6E 1Y4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Queen Alexandra",
+				"postalCode": "T6E 1Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.50965,
+					53.51732
+				]
+			},
+			"bbox": [
+				-113.5115407,
+				53.5161958,
+				-113.5077593,
+				53.5184442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1350 Flint Rd, North York, ON M3J 2J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "702a88738cc948788e5afa44b81d9873|BN20130533|7.7.0.0|",
+				"addressLine": "1350 Flint Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1350 Flint Rd, North York, ON M3J 2J7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47881,
+					43.78157
+				]
+			},
+			"bbox": [
+				-79.480367,
+				43.7804458,
+				-79.477253,
+				43.7826942
+			]
+		}
+	]
+}

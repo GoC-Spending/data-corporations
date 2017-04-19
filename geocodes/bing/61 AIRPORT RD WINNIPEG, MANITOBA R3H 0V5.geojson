@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "61 Airport Rd, Winnipeg, MB R3H 0V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd5b2c7a1d734743b1cc18d77844b3b0|BN20200137|7.7.0.0|",
+				"addressLine": "61 Airport Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "61 Airport Rd, Winnipeg, MB R3H 0V5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21736,
+					49.91364
+				]
+			},
+			"bbox": [
+				-97.2191057,
+				49.9125158,
+				-97.2156143,
+				49.9147642
+			]
+		}
+	]
+}

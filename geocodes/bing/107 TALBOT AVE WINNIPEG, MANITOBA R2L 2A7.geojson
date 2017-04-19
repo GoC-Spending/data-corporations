@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Talbot Ave, Winnipeg, MB R2L 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "77f78df18eae4b8185c60668e24256fc|BN20121764|7.7.0.0|",
+				"addressLine": "107 Talbot Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Talbot Ave, Winnipeg, MB R2L 2A7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Glenelm",
+				"postalCode": "R2L 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.11968,
+					49.90983
+				]
+			},
+			"bbox": [
+				-97.1214256,
+				49.9087058,
+				-97.1179344,
+				49.9109542
+			]
+		}
+	]
+}

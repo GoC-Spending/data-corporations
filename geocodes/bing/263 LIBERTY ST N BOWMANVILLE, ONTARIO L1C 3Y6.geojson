@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "263 Liberty St N, Bowmanville, ON L1C 3Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1a22e8e09fb43bd85ba92fa43a13c4d|BN20250135|7.7.0.0|",
+				"addressLine": "263 Liberty St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "263 Liberty St N, Bowmanville, ON L1C 3Y6, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Bowmanville",
+				"postalCode": "L1C 3Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6879875,
+					43.9290057
+				]
+			},
+			"bbox": [
+				-78.6895484,
+				43.9278815,
+				-78.6864266,
+				43.9301298
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "356 Rue Odile, Laval, QC H7R 6A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43deaaaca4924b94988df98d6b4077f0|BN20130620|7.7.0.0|",
+				"addressLine": "356 Rue Odile",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "356 Rue Odile, Laval, QC H7R 6A5, Canada",
+				"locality": "Laval",
+				"postalCode": "H7R 6A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8278,
+					45.56595
+				]
+			},
+			"bbox": [
+				-73.8294057,
+				45.5648258,
+				-73.8261943,
+				45.5670742
+			]
+		}
+	]
+}

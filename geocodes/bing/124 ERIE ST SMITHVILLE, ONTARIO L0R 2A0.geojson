@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 Erie Ave, Smithville, ON L0R 2A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b72cf267d1434dae9f7c68d1e042cdf8|BN20220145|7.7.0.0|",
+				"addressLine": "124 Erie Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 Erie Ave, Smithville, ON L0R 2A0, Canada",
+				"locality": "West Lincoln",
+				"neighborhood": "Smithville",
+				"postalCode": "L0R 2A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54391,
+					43.1004099
+				]
+			},
+			"bbox": [
+				-79.5454496,
+				43.0992857,
+				-79.5423704,
+				43.1015341
+			]
+		}
+	]
+}

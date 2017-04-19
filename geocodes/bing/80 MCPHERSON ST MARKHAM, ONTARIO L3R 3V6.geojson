@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 McPherson St, Markham, ON L3R 3V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "429471d0280343eba869a0911a42bb8a|BN20220145|7.7.0.0|",
+				"addressLine": "80 McPherson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 McPherson St, Markham, ON L3R 3V6, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 3V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33194,
+					43.83293
+				]
+			},
+			"bbox": [
+				-79.3334984,
+				43.8318058,
+				-79.3303816,
+				43.8340542
+			]
+		}
+	]
+}

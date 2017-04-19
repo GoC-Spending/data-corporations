@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4858 Rue Nancy, Pierrefonds, QC H8Z 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c1ea7bfacca45fdbaf93b8297a3ae22|BN20130447|7.7.0.0|",
+				"addressLine": "4858 Rue Nancy",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "4858 Rue Nancy, Pierrefonds, QC H8Z 1Z8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H8Z 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.83111,
+					45.50528
+				]
+			},
+			"bbox": [
+				-73.832714,
+				45.5041558,
+				-73.829506,
+				45.5064042
+			]
+		}
+	]
+}

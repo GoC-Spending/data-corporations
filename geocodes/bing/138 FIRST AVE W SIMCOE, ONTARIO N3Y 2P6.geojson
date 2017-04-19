@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "138 1st Ave W, Norfolk, ON N3Y, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "294b1d0424494e4a9fe32d9a61d9f94f|BN20121762|7.7.0.0|",
+				"addressLine": "138 1st Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "138 1st Ave W, Norfolk, ON N3Y, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Simcoe",
+				"postalCode": "N3Y 2P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31553,
+					42.85011
+				]
+			},
+			"bbox": [
+				-80.3170633,
+				42.8489858,
+				-80.3139967,
+				42.8512342
+			]
+		}
+	]
+}

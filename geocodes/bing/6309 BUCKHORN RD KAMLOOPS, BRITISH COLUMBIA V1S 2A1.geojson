@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Kamloops, V1S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38c69e0ffa194fa89f0d07fd798de3ea|BN20130431|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kamloops, V1S, Canada",
+				"locality": "Kamloops",
+				"postalCode": "V1S"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.411018371582,
+					50.6402397155762
+				]
+			},
+			"bbox": [
+				-120.712699890137,
+				50.6062393188477,
+				-120.31787109375,
+				50.7453918457031
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Thompson-Nicola, V1S 2A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38c69e0ffa194fa89f0d07fd798de3ea|BN20130431|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "Thompson-Nicola, V1S 2A1, Canada",
+				"locality": "Thompson-Nicola",
+				"postalCode": "V1S 2A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.643020629883,
+					50.7037544250488
+				]
+			},
+			"bbox": [
+				-120.651152037756,
+				50.6998917074782,
+				-120.634889222009,
+				50.7076171426195
+			]
+		}
+	]
+}

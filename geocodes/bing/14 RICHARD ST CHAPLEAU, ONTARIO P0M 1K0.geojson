@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14 Richard St, Chapleau, ON P0M 3E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ada497d68b3c4bd39a814649d6bab3ba|BN20210145|7.7.0.0|",
+				"addressLine": "14 Richard St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "14 Richard St, Chapleau, ON P0M 3E0, Canada",
+				"locality": "Chapleau",
+				"postalCode": "P0M 3E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.40984,
+					47.84858
+				]
+			},
+			"bbox": [
+				-83.4115151,
+				47.8474558,
+				-83.4081649,
+				47.8497042
+			]
+		}
+	]
+}

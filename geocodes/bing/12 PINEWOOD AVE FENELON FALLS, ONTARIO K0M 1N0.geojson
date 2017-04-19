@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Pinewood Ave, Fenelon Falls, ON K0M 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "29af3f77d54d42bd94d049b53404f7b7|BN20220145|7.7.0.0|",
+				"addressLine": "12 Pinewood Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Pinewood Ave, Fenelon Falls, ON K0M 1N0, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Fenelon Falls",
+				"postalCode": "K0M 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6692059,
+					44.4877408
+				]
+			},
+			"bbox": [
+				-78.6707817,
+				44.4866166,
+				-78.6676301,
+				44.4888649
+			]
+		}
+	]
+}

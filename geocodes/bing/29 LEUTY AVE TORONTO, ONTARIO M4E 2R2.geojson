@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Leuty Ave, Toronto, ON M4E 2R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a62c363348d04e97868984fa2d8663e4|BN20130532|7.7.0.0|",
+				"addressLine": "29 Leuty Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Leuty Ave, Toronto, ON M4E 2R2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4E 2R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29527,
+					43.66829
+				]
+			},
+			"bbox": [
+				-79.2968241,
+				43.6671658,
+				-79.2937159,
+				43.6694142
+			]
+		}
+	]
+}

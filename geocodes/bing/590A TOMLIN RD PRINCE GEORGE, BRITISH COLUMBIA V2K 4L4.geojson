@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "590 Tomlin Rd, Prince George, BC V2K 4L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6befe71334c54c4db01365d430940242|BN20130431|7.7.0.0|",
+				"addressLine": "590 Tomlin Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "590 Tomlin Rd, Prince George, BC V2K 4L4, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2K 4L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.77572,
+					53.92946
+				]
+			},
+			"bbox": [
+				-122.7776293,
+				53.9283358,
+				-122.7738107,
+				53.9305842
+			]
+		}
+	]
+}

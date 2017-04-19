@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Commerce Park Dr, Barrie, ON L4N 8X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23144faba18d4e729351df738b2c5aa9|BN20280152|7.7.0.0|",
+				"addressLine": "131 Commerce Park Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Commerce Park Dr, Barrie, ON L4N 8X1, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 West",
+				"postalCode": "L4N 8X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69241,
+					44.32419
+				]
+			},
+			"bbox": [
+				-79.6939814,
+				44.3230658,
+				-79.6908386,
+				44.3253142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "613 Marion St, Winnipeg, MB R2J 0K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48ac7fe3c97e4f248aa6d57cce77591a|BN20200137|7.7.0.0|",
+				"addressLine": "613 Marion St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "613 Marion St, Winnipeg, MB R2J 0K2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Mission Industrial",
+				"postalCode": "R2J 0K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.09712,
+					49.88232
+				]
+			},
+			"bbox": [
+				-97.0988646,
+				49.8811958,
+				-97.0953754,
+				49.8834442
+			]
+		}
+	]
+}

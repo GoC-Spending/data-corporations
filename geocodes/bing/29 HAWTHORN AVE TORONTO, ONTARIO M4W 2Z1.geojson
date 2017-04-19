@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Hawthorn Ave, Toronto, ON M4W 2Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c6da9b95cf842988155dd033def6430|BN20130632|7.7.0.0|",
+				"addressLine": "29 Hawthorn Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Hawthorn Ave, Toronto, ON M4W 2Z1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rosedale-Moore Park",
+				"postalCode": "M4W 2Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37024,
+					43.67593
+				]
+			},
+			"bbox": [
+				-79.3717943,
+				43.6748058,
+				-79.3686857,
+				43.6770542
+			]
+		}
+	]
+}

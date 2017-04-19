@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "647 Montreal Rd, Ottawa, ON K1K 0T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64aab6c045e54ae2b35a3de96a61bcb0|BN20130625|7.7.0.0|",
+				"addressLine": "647 Montreal Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "647 Montreal Rd, Ottawa, ON K1K 0T4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Rockcliffe-Manor Park",
+				"postalCode": "K1K 0T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6410938,
+					45.4431647
+				]
+			},
+			"bbox": [
+				-75.642696,
+				45.4420405,
+				-75.6394915,
+				45.4442888
+			]
+		}
+	]
+}

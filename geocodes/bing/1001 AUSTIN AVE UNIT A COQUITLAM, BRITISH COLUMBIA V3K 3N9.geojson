@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1001 Austin Ave, Coquitlam, BC V3K 3N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "872de008547243c8954c3d115aa3a777|BN20130631|7.7.0.0|",
+				"addressLine": "1001 Austin Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1001 Austin Ave, Coquitlam, BC V3K 3N9, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Austin Heights",
+				"postalCode": "V3K 3N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.86722,
+					49.24925
+				]
+			},
+			"bbox": [
+				-122.8689421,
+				49.2481258,
+				-122.8654979,
+				49.2503742
+			]
+		}
+	]
+}

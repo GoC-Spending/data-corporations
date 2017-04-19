@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1212 Stephenson Dr, Burlington, ON L7S 2B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d97f83e7ccb347fa87f741eb4a36b30f|BN20130522|7.7.0.0|",
+				"addressLine": "1212 Stephenson Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1212 Stephenson Dr, Burlington, ON L7S 2B4, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Maple",
+				"postalCode": "L7S 2B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8154,
+					43.3299499
+				]
+			},
+			"bbox": [
+				-79.8169454,
+				43.3288257,
+				-79.8138546,
+				43.3310741
+			]
+		}
+	]
+}

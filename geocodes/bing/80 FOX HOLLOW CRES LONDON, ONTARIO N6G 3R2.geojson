@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Fox Hollow Cres, London, ON N6G 3R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "546fae444a8140e2adf85d2e24f2589a|BN20130632|7.7.0.0|",
+				"addressLine": "80 Fox Hollow Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Fox Hollow Cres, London, ON N6G 3R2, Canada",
+				"locality": "London",
+				"neighborhood": "Medway",
+				"postalCode": "N6G 3R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3142,
+					43.0152
+				]
+			},
+			"bbox": [
+				-81.3157375,
+				43.0140758,
+				-81.3126625,
+				43.0163242
+			]
+		}
+	]
+}

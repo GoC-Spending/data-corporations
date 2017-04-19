@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17740 118 Ave NW, Edmonton, AB T5S 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "666e54c9e034408093866d02ea78e1ea|BN20190653|7.7.0.0|",
+				"addressLine": "17740 118 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17740 118 Ave NW, Edmonton, AB T5S 2W3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Edmiston Industrial",
+				"postalCode": "T5S 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.62674,
+					53.5708
+				]
+			},
+			"bbox": [
+				-113.6286331,
+				53.5696758,
+				-113.6248469,
+				53.5719242
+			]
+		}
+	]
+}

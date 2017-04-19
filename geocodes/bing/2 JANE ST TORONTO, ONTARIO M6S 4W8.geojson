@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Jane St, Toronto, ON M6S 4W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f0df5d348bd4d23b4ea7d274eceb119|BN20200137|7.7.0.0|",
+				"addressLine": "2 Jane St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Jane St, Toronto, ON M6S 4W8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 4W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48487,
+					43.64945
+				]
+			},
+			"bbox": [
+				-79.4864236,
+				43.6483258,
+				-79.4833164,
+				43.6505742
+			]
+		}
+	]
+}

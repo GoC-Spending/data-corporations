@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1221 Sherwin Rd, Winnipeg, MB R3H 0V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ebadac61685846259e047a3127eb8c68|BN20130521|7.7.0.0|",
+				"addressLine": "1221 Sherwin Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1221 Sherwin Rd, Winnipeg, MB R3H 0V1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20992,
+					49.91463
+				]
+			},
+			"bbox": [
+				-97.2116658,
+				49.9135058,
+				-97.2081742,
+				49.9157542
+			]
+		}
+	]
+}

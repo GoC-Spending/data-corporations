@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "730 Talbot St E, Aylmer, ON N5H 2R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25ea605657f0436dba1e693112df36af|BN20130431|7.7.0.0|",
+				"addressLine": "730 Talbot St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "730 Talbot St E, Aylmer, ON N5H 2R1, Canada",
+				"locality": "Aylmer",
+				"postalCode": "N5H 2R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9687305,
+					42.7695697
+				]
+			},
+			"bbox": [
+				-80.9702619,
+				42.7684455,
+				-80.9671992,
+				42.7706938
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "571 Arlington Ave, York, ON M6C 3A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d556734938e431ab0a2df9983d3a72d|BN20200239|7.7.0.0|",
+				"addressLine": "571 Arlington Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "571 Arlington Ave, York, ON M6C 3A6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humewood-Cedarvale",
+				"postalCode": "M6C 3A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43472,
+					43.69494
+				]
+			},
+			"bbox": [
+				-79.4362748,
+				43.6938158,
+				-79.4331652,
+				43.6960642
+			]
+		}
+	]
+}

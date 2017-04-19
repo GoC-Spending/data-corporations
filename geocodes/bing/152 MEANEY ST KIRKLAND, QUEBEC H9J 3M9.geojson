@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "152 Rue Meaney, Kirkland, QC H9J 3M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb25aa3c5e984d68b9bf1a1728bc7022|BN20130520|7.7.0.0|",
+				"addressLine": "152 Rue Meaney",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "152 Rue Meaney, Kirkland, QC H9J 3M9, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9J 3M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.89791,
+					45.44533
+				]
+			},
+			"bbox": [
+				-73.8995123,
+				45.4442058,
+				-73.8963077,
+				45.4464542
+			]
+		}
+	]
+}

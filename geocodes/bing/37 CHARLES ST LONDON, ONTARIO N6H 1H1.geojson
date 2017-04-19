@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Charles St, London, ON N6H 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "655dd88f3b684d9e91bd0e9fdb063304|BN20130721|7.7.0.0|",
+				"addressLine": "37 Charles St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Charles St, London, ON N6H 1H1, Canada",
+				"locality": "London",
+				"neighborhood": "West London",
+				"postalCode": "N6H 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2651999,
+					42.9854
+				]
+			},
+			"bbox": [
+				-81.2667366,
+				42.9842758,
+				-81.2636632,
+				42.9865242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2705 Portage Ave, Winnipeg, MB R3J 0R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ba49b926e414d3c85b5856feaeed55e|BN20130634|7.7.0.0|",
+				"addressLine": "2705 Portage Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "2705 Portage Ave, Winnipeg, MB R3J 0R2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Booth",
+				"postalCode": "R3J 0R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.27202,
+					49.87821
+				]
+			},
+			"bbox": [
+				-97.2737645,
+				49.8770858,
+				-97.2702755,
+				49.8793342
+			]
+		}
+	]
+}

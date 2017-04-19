@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3516 66 Ave SE, Calgary, AB T2C 1P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aaeca624261b4ba99c32ea0138937db8|BN20190642|7.7.0.0|",
+				"addressLine": "3516 66 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3516 66 Ave SE, Calgary, AB T2C 1P3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 1P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9839774,
+					50.9941593
+				]
+			},
+			"bbox": [
+				-113.9857635,
+				50.9930351,
+				-113.9821913,
+				50.9952834
+			]
+		}
+	]
+}

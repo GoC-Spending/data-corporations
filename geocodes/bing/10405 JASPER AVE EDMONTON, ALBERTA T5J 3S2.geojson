@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10405 Jasper Ave NW, Edmonton, AB T5J 3S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0a23f279f7d4de99dcd7feceb945552|BN20130522|7.7.0.0|",
+				"addressLine": "10405 Jasper Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10405 Jasper Ave NW, Edmonton, AB T5J 3S2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 3S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.50014,
+					53.54059
+				]
+			},
+			"bbox": [
+				-113.5020317,
+				53.5394658,
+				-113.4982483,
+				53.5417142
+			]
+		}
+	]
+}

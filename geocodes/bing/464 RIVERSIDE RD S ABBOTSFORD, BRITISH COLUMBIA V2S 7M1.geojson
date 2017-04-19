@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "464 Riverside Rd, Abbotsford, BC V2S 7M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5b712c6b99a4d0d823af110f973d211|BN20130521|7.7.0.0|",
+				"addressLine": "464 Riverside Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "464 Riverside Rd, Abbotsford, BC V2S 7M1, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Highway 11",
+				"postalCode": "V2S 7M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2716651,
+					49.0109862
+				]
+			},
+			"bbox": [
+				-122.273379,
+				49.009862,
+				-122.2699512,
+				49.0121103
+			]
+		}
+	]
+}

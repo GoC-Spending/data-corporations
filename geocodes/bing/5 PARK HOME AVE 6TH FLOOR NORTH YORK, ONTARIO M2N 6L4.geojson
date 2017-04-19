@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Park Home Ave, North York, ON M2N 6L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa56ddee00d44a9cbed4615467d4b57f|BN20300154|7.7.0.0|",
+				"addressLine": "5 Park Home Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Park Home Ave, North York, ON M2N 6L4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Willowdale West",
+				"postalCode": "M2N 6L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41472,
+					43.76855
+				]
+			},
+			"bbox": [
+				-79.4162767,
+				43.7674258,
+				-79.4131633,
+				43.7696742
+			]
+		}
+	]
+}

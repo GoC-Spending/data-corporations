@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "65 Glenburnie Rd, Trenton, ON K8V 5P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c439acb1c52d4493b1c7bc8e0b0e991f|BN20181720|7.7.0.0|",
+				"addressLine": "65 Glenburnie Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "65 Glenburnie Rd, Trenton, ON K8V 5P4, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 5P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.63301,
+					44.10287
+				]
+			},
+			"bbox": [
+				-77.6345755,
+				44.1017458,
+				-77.6314445,
+				44.1039942
+			]
+		}
+	]
+}

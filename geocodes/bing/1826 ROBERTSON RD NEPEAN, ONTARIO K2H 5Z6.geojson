@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1826 Robertson Rd, Nepean, ON K2H 5Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c464f242bb234b29b873f5d4155fe76b|BN20130431|7.7.0.0|",
+				"addressLine": "1826 Robertson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1826 Robertson Rd, Nepean, ON K2H 5Z6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2H 5Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8186301,
+					45.3279244
+				]
+			},
+			"bbox": [
+				-75.820229,
+				45.3268003,
+				-75.8170311,
+				45.3290486
+			]
+		}
+	]
+}

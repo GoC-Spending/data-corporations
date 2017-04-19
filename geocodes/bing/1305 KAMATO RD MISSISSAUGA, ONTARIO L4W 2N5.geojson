@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1305 Kamato Rd, Mississauga, ON L4W 2N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e3f0cb4416642b7bbd3dab1883133fd|BN20130530|7.7.0.0|",
+				"addressLine": "1305 Kamato Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1305 Kamato Rd, Mississauga, ON L4W 2N5, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Dixie",
+				"postalCode": "L4W 2N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.63939,
+					43.6438
+				]
+			},
+			"bbox": [
+				-79.6409435,
+				43.6426758,
+				-79.6378365,
+				43.6449242
+			]
+		}
+	]
+}

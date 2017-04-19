@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3095 Robie St, Halifax, NS B3K 4P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b37561a31c8043a08cee1716cf9168a4|BN20130447|7.7.0.0|",
+				"addressLine": "3095 Robie St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "3095 Robie St, Halifax, NS B3K 4P7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "North End",
+				"postalCode": "B3K 4P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.60207,
+					44.65973
+				]
+			},
+			"bbox": [
+				-63.6036504,
+				44.6586058,
+				-63.6004896,
+				44.6608542
+			]
+		}
+	]
+}

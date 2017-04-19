@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1063 King St W, Hamilton, ON L8S 4S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31de5887d78a4126a3847c9c0b7cfcdd|BN20130719|7.7.0.0|",
+				"addressLine": "1063 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1063 King St W, Hamilton, ON L8S 4S3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Westdale South",
+				"postalCode": "L8S 4S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9076136,
+					43.2610291
+				]
+			},
+			"bbox": [
+				-79.9091572,
+				43.259905,
+				-79.9060699,
+				43.2621533
+			]
+		}
+	]
+}

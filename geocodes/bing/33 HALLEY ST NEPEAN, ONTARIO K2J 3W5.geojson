@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Halley St, Nepean, ON K2J 3W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e96df7db09e4289b480df22288d118d|BN20250135|7.7.0.0|",
+				"addressLine": "33 Halley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Halley St, Nepean, ON K2J 3W5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 3W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.75848,
+					45.26546
+				]
+			},
+			"bbox": [
+				-75.7600772,
+				45.2643358,
+				-75.7568828,
+				45.2665842
+			]
+		}
+	]
+}

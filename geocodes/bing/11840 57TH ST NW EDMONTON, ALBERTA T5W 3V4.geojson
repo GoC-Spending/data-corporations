@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11840 57 St NW, Edmonton, AB T5W 3V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3df14bf202a4f89837040b5fe782048|BN20280152|7.7.0.0|",
+				"addressLine": "11840 57 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11840 57 St NW, Edmonton, AB T5W 3V4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Newton",
+				"postalCode": "T5W 3V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.42958,
+					53.5715999
+				]
+			},
+			"bbox": [
+				-113.4314731,
+				53.5704757,
+				-113.4276869,
+				53.5727241
+			]
+		}
+	]
+}

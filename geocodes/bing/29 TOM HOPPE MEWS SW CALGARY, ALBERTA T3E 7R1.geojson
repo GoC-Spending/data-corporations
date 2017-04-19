@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Tom Hoppe Mews SW, Calgary, AB T3E 7R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da10ab1451b54891a7c0b228865abbcd|BN20190653|7.7.0.0|",
+				"addressLine": "29 Tom Hoppe Mews SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Tom Hoppe Mews SW, Calgary, AB T3E 7R1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Lincoln Park",
+				"postalCode": "T3E 7R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.12948,
+					51.00383
+				]
+			},
+			"bbox": [
+				-114.1312664,
+				51.0027058,
+				-114.1276936,
+				51.0049542
+			]
+		}
+	]
+}

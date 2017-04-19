@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "815 Mayne Rd, Kamloops, BC V2B 6H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d818b38f7d24210a3835151a5aa4334|BN20130621|7.7.0.0|",
+				"addressLine": "815 Mayne Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "815 Mayne Rd, Kamloops, BC V2B 6H4, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "Westsyde",
+				"postalCode": "V2B 6H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.35224,
+					50.7544899
+				]
+			},
+			"bbox": [
+				-120.3540169,
+				50.7533657,
+				-120.3504631,
+				50.7556141
+			]
+		}
+	]
+}

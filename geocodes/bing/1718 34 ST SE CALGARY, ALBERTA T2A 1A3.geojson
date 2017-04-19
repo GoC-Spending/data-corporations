@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1718 34 St SE, Calgary, AB T2A 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "281dd58c32c34651b8f06be31cdc41a4|BN20171457|7.7.0.0|",
+				"addressLine": "1718 34 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1718 34 St SE, Calgary, AB T2A 1A3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Radisson Heights-Albert Park",
+				"postalCode": "T2A 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.98443,
+					51.0387
+				]
+			},
+			"bbox": [
+				-113.9862178,
+				51.0375758,
+				-113.9826422,
+				51.0398242
+			]
+		}
+	]
+}

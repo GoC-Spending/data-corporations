@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5741 Production Way, Langley, BC V3A 4N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d4603d08b01e4b0bb764991fd633d36b|BN20130447|7.7.0.0|",
+				"addressLine": "5741 Production Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5741 Production Way, Langley, BC V3A 4N5, Canada",
+				"locality": "Langley",
+				"neighborhood": "Nicomeki",
+				"postalCode": "V3A 4N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6768714,
+					49.1076182
+				]
+			},
+			"bbox": [
+				-122.6785886,
+				49.106494,
+				-122.6751542,
+				49.1087423
+			]
+		}
+	]
+}

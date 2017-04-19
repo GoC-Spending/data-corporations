@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "774 Baker Cres, Kingston, ON K7M 6P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3b6a691de9440c8bd8efb1b924068e9|BN20121762|7.7.0.0|",
+				"addressLine": "774 Baker Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "774 Baker Cres, Kingston, ON K7M 6P6, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Gardiners",
+				"postalCode": "K7M 6P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.57566,
+					44.2451099
+				]
+			},
+			"bbox": [
+				-76.5772293,
+				44.2439857,
+				-76.5740907,
+				44.2462341
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 N Delta Ave, Burnaby, BC V5B 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2857c3c11369441e9f20f2a108500106|BN20200137|7.7.0.0|",
+				"addressLine": "100 N Delta Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 N Delta Ave, Burnaby, BC V5B 1E6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Capitol Hill",
+				"postalCode": "V5B 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.99147,
+					49.28525
+				]
+			},
+			"bbox": [
+				-122.9931934,
+				49.2841258,
+				-122.9897466,
+				49.2863742
+			]
+		}
+	]
+}

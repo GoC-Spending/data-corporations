@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Whaley Ave, Perth East, ON N0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a804b37f8c564155999778fc37694869|BN20130634|7.7.0.0|",
+				"addressLine": "25 Whaley Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Whaley Ave, Perth East, ON N0K, Canada",
+				"locality": "Perth East",
+				"neighborhood": "Milverton",
+				"postalCode": "N0K 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.91442,
+					43.56749
+				]
+			},
+			"bbox": [
+				-80.9159715,
+				43.5663658,
+				-80.9128685,
+				43.5686142
+			]
+		}
+	]
+}

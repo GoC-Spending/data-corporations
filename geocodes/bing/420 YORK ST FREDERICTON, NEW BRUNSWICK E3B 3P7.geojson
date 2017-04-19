@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "420 York St, Fredericton, NB E3B 3P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4647a36666a4026b7d78eac6f2b5fb8|BN20130625|7.7.0.0|",
+				"addressLine": "420 York St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "420 York St, Fredericton, NB E3B 3P7, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 3P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.64937,
+					45.95554
+				]
+			},
+			"bbox": [
+				-66.650987,
+				45.9544158,
+				-66.647753,
+				45.9566642
+			]
+		}
+	]
+}

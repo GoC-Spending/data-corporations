@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3455 Inverness St, Vancouver, BC V5V 0C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3dd02caa7e543babc755f4f51732ccd|BN20181720|7.7.0.0|",
+				"addressLine": "3455 Inverness St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3455 Inverness St, Vancouver, BC V5V 0C9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5V 0C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.080046,
+					49.2538772
+				]
+			},
+			"bbox": [
+				-123.0817683,
+				49.252753,
+				-123.0783237,
+				49.2550013
+			]
+		}
+	]
+}

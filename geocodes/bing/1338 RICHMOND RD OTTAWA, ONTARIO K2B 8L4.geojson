@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1338 Richmond Rd, Ottawa, ON K2B 8L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e6b114964a5437986c8906380f97c68|BN20130625|7.7.0.0|",
+				"addressLine": "1338 Richmond Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1338 Richmond Rd, Ottawa, ON K2B 8L4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Woodroofe-Lincoln Heights",
+				"postalCode": "K2B 8L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7870895,
+					45.3664074
+				]
+			},
+			"bbox": [
+				-75.7886895,
+				45.3652833,
+				-75.7854894,
+				45.3675316
+			]
+		}
+	]
+}

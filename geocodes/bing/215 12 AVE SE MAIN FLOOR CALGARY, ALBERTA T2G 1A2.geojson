@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "215 12 Ave SE, Calgary, AB T2G 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "203c41eb41fa47549d930bdc6164e76d|BN20171457|7.7.0.0|",
+				"addressLine": "215 12 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "215 12 Ave SE, Calgary, AB T2G 1A2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Victoria Park",
+				"postalCode": "T2G 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05987,
+					51.04104
+				]
+			},
+			"bbox": [
+				-114.0616579,
+				51.0399158,
+				-114.0580821,
+				51.0421642
+			]
+		}
+	]
+}

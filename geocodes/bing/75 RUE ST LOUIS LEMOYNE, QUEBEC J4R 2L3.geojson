@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Rue St-Louis, St-Lambert, QC J4R 2L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af67040b647b4855bbddbb9bb619d9be|BN20240253|7.7.0.0|",
+				"addressLine": "75 Rue St-Louis",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Longueuil",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Rue St-Louis, St-Lambert, QC J4R 2L3, Canada",
+				"locality": "St-Lambert",
+				"postalCode": "J4R 2L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.49797,
+					45.49727
+				]
+			},
+			"bbox": [
+				-73.4995738,
+				45.4961458,
+				-73.4963662,
+				45.4983942
+			]
+		}
+	]
+}

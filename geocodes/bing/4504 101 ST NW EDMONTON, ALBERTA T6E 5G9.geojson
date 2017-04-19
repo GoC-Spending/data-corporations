@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4504 101 St NW, Edmonton, AB T6E 5G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ed675e86f374d53950dde81411f9300|BN20260231|7.7.0.0|",
+				"addressLine": "4504 101 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4504 101 St NW, Edmonton, AB T6E 5G9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Papaschase Industrial",
+				"postalCode": "T6E 5G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48975,
+					53.48337
+				]
+			},
+			"bbox": [
+				-113.4916392,
+				53.4822458,
+				-113.4878608,
+				53.4844942
+			]
+		}
+	]
+}

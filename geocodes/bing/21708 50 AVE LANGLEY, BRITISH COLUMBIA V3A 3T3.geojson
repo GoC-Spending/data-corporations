@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21708 50 Ave, Langley, BC V3A 3T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2554b955b974eb283c4de4802bd4ef5|BN20130422|7.7.0.0|",
+				"addressLine": "21708 50 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "21708 50 Ave, Langley, BC V3A 3T3, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V3A 3T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.62191,
+					49.09237
+				]
+			},
+			"bbox": [
+				-122.6236267,
+				49.0912458,
+				-122.6201933,
+				49.0934942
+			]
+		}
+	]
+}

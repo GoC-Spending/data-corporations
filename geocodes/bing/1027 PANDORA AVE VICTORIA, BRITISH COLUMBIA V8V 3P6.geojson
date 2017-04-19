@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1027 Pandora Ave, Victoria, BC V8V 3P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ca7d623678249ad83fe4c17c2579edb|BN20200137|7.7.0.0|",
+				"addressLine": "1027 Pandora Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1027 Pandora Ave, Victoria, BC V8V 3P6, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Harris Green",
+				"postalCode": "V8V 3P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.35458,
+					48.42674
+				]
+			},
+			"bbox": [
+				-123.3562741,
+				48.4256158,
+				-123.3528859,
+				48.4278642
+			]
+		}
+	]
+}

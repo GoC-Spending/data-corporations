@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "662 Upper Ottawa St, Hamilton, ON L8T 3T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e12af464bf9430499529054006aeaa4|BN20130532|7.7.0.0|",
+				"addressLine": "662 Upper Ottawa St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "662 Upper Ottawa St, Hamilton, ON L8T 3T5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Hampton Heights",
+				"postalCode": "L8T 3T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83116,
+					43.22245
+				]
+			},
+			"bbox": [
+				-79.8327027,
+				43.2213258,
+				-79.8296173,
+				43.2235742
+			]
+		}
+	]
+}

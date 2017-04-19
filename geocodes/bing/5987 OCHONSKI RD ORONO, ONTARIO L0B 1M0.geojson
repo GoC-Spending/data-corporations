@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5987 Ochonski Rd, Orono, ON L0B 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8ada26a54074cb4a034d680d150385e|BN20130719|7.7.0.0|",
+				"addressLine": "5987 Ochonski Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "5987 Ochonski Rd, Orono, ON L0B 1M0, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Orono",
+				"postalCode": "L0B 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6328884,
+					43.9878522
+				]
+			},
+			"bbox": [
+				-78.6344508,
+				43.9867281,
+				-78.6313259,
+				43.9889764
+			]
+		}
+	]
+}

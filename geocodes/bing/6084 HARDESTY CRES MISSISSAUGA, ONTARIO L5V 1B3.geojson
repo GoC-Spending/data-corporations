@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6084 Hardesty Cres, Mississauga, ON L5V 1B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "899113e3fe254065b71215a6d5b018ff|BN20320521|7.7.0.0|",
+				"addressLine": "6084 Hardesty Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6084 Hardesty Cres, Mississauga, ON L5V 1B3, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5V 1B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7084,
+					43.60442
+				]
+			},
+			"bbox": [
+				-79.7099524,
+				43.6032958,
+				-79.7068476,
+				43.6055442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1896 Danforth Ave, Toronto, ON M4C 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6201325943ba4a1a9d3fff0ab908f837|BN20121763|7.7.0.0|",
+				"addressLine": "1896 Danforth Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1896 Danforth Ave, Toronto, ON M4C 1J4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Danforth Village-Toronto",
+				"postalCode": "M4C 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31682,
+					43.68502
+				]
+			},
+			"bbox": [
+				-79.3183745,
+				43.6838958,
+				-79.3152655,
+				43.6861442
+			]
+		}
+	]
+}

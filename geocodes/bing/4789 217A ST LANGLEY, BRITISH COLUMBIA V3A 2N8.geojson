@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4789 217A St, Langley, BC V3A 2N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f336164cc193472ab56373f0fb52a6d2|BN20121764|7.7.0.0|",
+				"addressLine": "4789 217A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4789 217A St, Langley, BC V3A 2N8, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V3A 2N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6211529,
+					49.0892326
+				]
+			},
+			"bbox": [
+				-122.6228695,
+				49.0881085,
+				-122.6194364,
+				49.0903568
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2106 21st Ave, Vernon, BC V1T 8H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9fe757ed54fe42b9a4e3ae46b504d80e|BN20130719|7.7.0.0|",
+				"addressLine": "2106 21st Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2106 21st Ave, Vernon, BC V1T 8H6, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 8H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.25975,
+					50.25681
+				]
+			},
+			"bbox": [
+				-119.2615083,
+				50.2556858,
+				-119.2579917,
+				50.2579342
+			]
+		}
+	]
+}

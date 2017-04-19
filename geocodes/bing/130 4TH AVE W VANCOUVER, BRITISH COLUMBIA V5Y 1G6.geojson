@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 W 4th Ave, Vancouver, BC V5Y 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40f5f8e1d9cf46d48b7904715cd63938|BN20130625|7.7.0.0|",
+				"addressLine": "130 W 4th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 W 4th Ave, Vancouver, BC V5Y 1G6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10795,
+					49.26717
+				]
+			},
+			"bbox": [
+				-123.1096728,
+				49.2660458,
+				-123.1062272,
+				49.2682942
+			]
+		}
+	]
+}

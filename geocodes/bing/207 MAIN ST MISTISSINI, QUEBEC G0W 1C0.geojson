@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "207 Rue Main, Mistissini, QC G0W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91837ddd1628411ebf64026f52b2c00e|BN20130521|7.7.0.0|",
+				"addressLine": "207 Rue Main",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Baie-James",
+				"countryRegion": "Canada",
+				"formattedAddress": "207 Rue Main, Mistissini, QC G0W, Canada",
+				"locality": "Mistissini",
+				"postalCode": "G0W 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8642083,
+					50.4158179
+				]
+			},
+			"bbox": [
+				-73.8659724,
+				50.4146937,
+				-73.8624441,
+				50.416942
+			]
+		}
+	]
+}

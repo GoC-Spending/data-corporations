@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "407 Lanark St, Winnipeg, MB R3N 1L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ae1fee06b2444a68ed911efb233448c|BN20240423|7.7.0.0|",
+				"addressLine": "407 Lanark St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "407 Lanark St, Winnipeg, MB R3N 1L5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Sir John Franklin",
+				"postalCode": "R3N 1L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19898,
+					49.86541
+				]
+			},
+			"bbox": [
+				-97.200724,
+				49.8642858,
+				-97.197236,
+				49.8665342
+			]
+		}
+	]
+}

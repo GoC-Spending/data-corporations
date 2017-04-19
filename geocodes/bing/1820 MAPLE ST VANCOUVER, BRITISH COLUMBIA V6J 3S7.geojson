@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1820 Maple St, Vancouver, BC V6J 3S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2eeac0542ad14522b9c8c41f512e6c0b|BN20171457|7.7.0.0|",
+				"addressLine": "1820 Maple St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1820 Maple St, Vancouver, BC V6J 3S7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kitsilano",
+				"postalCode": "V6J 3S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.15005,
+					49.26948
+				]
+			},
+			"bbox": [
+				-123.1517728,
+				49.2683558,
+				-123.1483272,
+				49.2706042
+			]
+		}
+	]
+}

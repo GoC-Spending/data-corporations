@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "408 Otter Bay, Calgary, AB T3Z 3S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45b3c6c3581d4b49aac1e0ed3d7793c6|BN20220145|7.7.0.0|",
+				"addressLine": "408 Otter Bay",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "408 Otter Bay, Calgary, AB T3Z 3S6, Canada",
+				"locality": "Rocky View County",
+				"neighborhood": "Calgary",
+				"postalCode": "T3Z 3S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.36794,
+					51.1025849
+				]
+			},
+			"bbox": [
+				-114.3697302,
+				51.1014607,
+				-114.3661497,
+				51.1037091
+			]
+		}
+	]
+}

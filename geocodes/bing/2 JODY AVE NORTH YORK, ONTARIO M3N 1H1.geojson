@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Jody Ave, North York, ON M3N 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac3f2acea2e146728a60e70f399acd26|BN20190653|7.7.0.0|",
+				"addressLine": "2 Jody Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Jody Ave, North York, ON M3N 1H1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Glenfield-Jane Heights",
+				"postalCode": "M3N 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5234399,
+					43.74595
+				]
+			},
+			"bbox": [
+				-79.524996,
+				43.7448258,
+				-79.5218838,
+				43.7470742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5230 1 St SW, Calgary, AB T2H 0C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e81f44905bcb490ba1909c58ea57cb74|BN20190653|7.7.0.0|",
+				"addressLine": "5230 1 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5230 1 St SW, Calgary, AB T2H 0C8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2H 0C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06612,
+					51.00751
+				]
+			},
+			"bbox": [
+				-114.0679066,
+				51.0063858,
+				-114.0643334,
+				51.0086342
+			]
+		}
+	]
+}

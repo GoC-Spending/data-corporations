@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13154 137 Ave NW, Edmonton, AB T5L 4Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a04bd8932a5546829f4c8f75ad4b8ba5|BN20130621|7.7.0.0|",
+				"addressLine": "13154 137 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "13154 137 Ave NW, Edmonton, AB T5L 4Z6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Pembina",
+				"postalCode": "T5L 4Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5479816,
+					53.5997049
+				]
+			},
+			"bbox": [
+				-113.5498759,
+				53.5985807,
+				-113.5460872,
+				53.6008291
+			]
+		}
+	]
+}

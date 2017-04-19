@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "235 Martindale Rd, St Catharines, ON L2W 1A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91e0dddcd4654e4a815f3fa521561cd2|BN20190653|7.7.0.0|",
+				"addressLine": "235 Martindale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "235 Martindale Rd, St Catharines, ON L2W 1A5, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Grapeview",
+				"postalCode": "L2W 1A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27427,
+					43.17266
+				]
+			},
+			"bbox": [
+				-79.2758114,
+				43.1715358,
+				-79.2727286,
+				43.1737842
+			]
+		}
+	]
+}

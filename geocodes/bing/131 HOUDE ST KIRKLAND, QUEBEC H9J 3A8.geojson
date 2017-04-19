@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Rue Houde, Kirkland, QC H9J 3A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58e6baf2e79143e09becda7bbba33489|BN20260231|7.7.0.0|",
+				"addressLine": "131 Rue Houde",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Rue Houde, Kirkland, QC H9J 3A8, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9J 3A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.88275,
+					45.45243
+				]
+			},
+			"bbox": [
+				-73.8843525,
+				45.4513058,
+				-73.8811475,
+				45.4535542
+			]
+		}
+	]
+}

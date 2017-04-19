@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "180 Bentley St, Markham, ON L3R 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0fefaf5f0a2142f789c98f8c1e273c1e|BN20130532|7.7.0.0|",
+				"addressLine": "180 Bentley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "180 Bentley St, Markham, ON L3R 3L2, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33394,
+					43.83001
+				]
+			},
+			"bbox": [
+				-79.3354983,
+				43.8288858,
+				-79.3323817,
+				43.8311342
+			]
+		}
+	]
+}

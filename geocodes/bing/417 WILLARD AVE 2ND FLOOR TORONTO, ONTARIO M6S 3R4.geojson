@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "417 Willard Ave, Toronto, ON M6S 3R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "210c23eb4be24a65ae6f27af1dd3f727|BN20130521|7.7.0.0|",
+				"addressLine": "417 Willard Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "417 Willard Ave, Toronto, ON M6S 3R4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 3R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48338,
+					43.6559
+				]
+			},
+			"bbox": [
+				-79.4849338,
+				43.6547758,
+				-79.4818262,
+				43.6570242
+			]
+		}
+	]
+}

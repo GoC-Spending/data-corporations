@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d16c06b75e3940ac80b9771917cf17a0|BN20290118|7.7.0.0|",
+				"addressLine": "200 University Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 3G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.539231,
+					43.4689887
+				]
+			},
+			"bbox": [
+				-80.54078,
+				43.4678645,
+				-80.5376821,
+				43.4701128
+			]
+		}
+	]
+}

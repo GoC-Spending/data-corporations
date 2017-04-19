@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24359 102 Ave, Maple Ridge, BC V2W 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "603235d781c240eaacbeb3db7a08b7dd|BN20130625|7.7.0.0|",
+				"addressLine": "24359 102 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "24359 102 Ave, Maple Ridge, BC V2W 2E3, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2W 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.54714,
+					49.18769
+				]
+			},
+			"bbox": [
+				-122.54886,
+				49.1865658,
+				-122.54542,
+				49.1888142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "595 Plains Rd E, Burlington, ON L7T 2E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9cbc6237773043f6b75ffc22ace8f097|BN20130530|7.7.0.0|",
+				"addressLine": "595 Plains Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "595 Plains Rd E, Burlington, ON L7T 2E6, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Aldershot Central",
+				"postalCode": "L7T 2E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83356,
+					43.32172
+				]
+			},
+			"bbox": [
+				-79.8351052,
+				43.3205958,
+				-79.8320148,
+				43.3228442
+			]
+		}
+	]
+}

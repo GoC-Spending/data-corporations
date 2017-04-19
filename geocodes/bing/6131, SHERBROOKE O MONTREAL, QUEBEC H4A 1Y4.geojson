@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6131 Rue Sherbrooke O, Montreal, QC H4A 1Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "51e5eb32c911434abd951d3081731171|BN20130620|7.7.0.0|",
+				"addressLine": "6131 Rue Sherbrooke O",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "6131 Rue Sherbrooke O, Montreal, QC H4A 1Y4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Notre-Dame-de-Grâce",
+				"postalCode": "H4A 1Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.62227,
+					45.4676199
+				]
+			},
+			"bbox": [
+				-73.6238729,
+				45.4664957,
+				-73.6206671,
+				45.4687441
+			]
+		}
+	]
+}

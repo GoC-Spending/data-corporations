@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 McIntyre St W, North Bay, ON P1B 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ddec8fe0ceaf4713a5ae7bca4da3e29e|BN20121762|7.7.0.0|",
+				"addressLine": "123 McIntyre St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 McIntyre St W, North Bay, ON P1B 2Y5, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Downtown North Bay",
+				"postalCode": "P1B 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46345,
+					46.31127
+				]
+			},
+			"bbox": [
+				-79.4650775,
+				46.3101458,
+				-79.4618225,
+				46.3123942
+			]
+		}
+	]
+}

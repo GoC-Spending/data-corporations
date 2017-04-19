@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "117 Avenue Renaud, Laurierville, QC G0S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ae390b3f18b410fa848471a41bc5732|BN20130521|7.7.0.0|",
+				"addressLine": "117 Avenue Renaud",
+				"adminDistrict": "QC",
+				"adminDistrict2": "L'Érable",
+				"countryRegion": "Canada",
+				"formattedAddress": "117 Avenue Renaud, Laurierville, QC G0S, Canada",
+				"locality": "Laurierville",
+				"postalCode": "G0S 1P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.6576,
+					46.3039599
+				]
+			},
+			"bbox": [
+				-71.6592272,
+				46.3028357,
+				-71.6559728,
+				46.3050841
+			]
+		}
+	]
+}

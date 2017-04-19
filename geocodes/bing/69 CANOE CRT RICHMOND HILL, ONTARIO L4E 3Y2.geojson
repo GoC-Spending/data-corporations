@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "69 Canoe Ct, Richmond Hill, ON L4E 3Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7af9d64c783f40c69149bfc5f0dd753b|BN20181720|7.7.0.0|",
+				"addressLine": "69 Canoe Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "69 Canoe Ct, Richmond Hill, ON L4E 3Y2, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4E 3Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44873,
+					43.94657
+				]
+			},
+			"bbox": [
+				-79.4502913,
+				43.9454458,
+				-79.4471687,
+				43.9476942
+			]
+		}
+	]
+}

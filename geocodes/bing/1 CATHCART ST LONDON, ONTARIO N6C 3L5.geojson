@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Cathcart St, London, ON N6C 3L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bfba8c2fe92b4edf9c14665ddad40f38|BN20181720|7.7.0.0|",
+				"addressLine": "1 Cathcart St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Cathcart St, London, ON N6C 3L5, Canada",
+				"locality": "London",
+				"neighborhood": "South London",
+				"postalCode": "N6C 3L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.254919,
+					42.9720915
+				]
+			},
+			"bbox": [
+				-81.2564554,
+				42.9709673,
+				-81.2533826,
+				42.9732156
+			]
+		}
+	]
+}

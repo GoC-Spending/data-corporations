@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1050 Terminal Ave N, Nanaimo, BC V9S 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90819ff5cd3746c597a061a91aafb3c5|BN20130634|7.7.0.0|",
+				"addressLine": "1050 Terminal Ave N",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1050 Terminal Ave N, Nanaimo, BC V9S 4K4, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9S 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9513881,
+					49.1812987
+				]
+			},
+			"bbox": [
+				-123.9531079,
+				49.1801746,
+				-123.9496683,
+				49.1824229
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1900 Victoria Park Ave, North York, ON M1R 1T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0c19cd286ab43059c9b53177d68b8d1|BN20130621|7.7.0.0|",
+				"addressLine": "1900 Victoria Park Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1900 Victoria Park Ave, North York, ON M1R 1T6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Parkwoods-Donalda",
+				"postalCode": "M1R 1T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31139,
+					43.74427
+				]
+			},
+			"bbox": [
+				-79.3129461,
+				43.7431458,
+				-79.3098339,
+				43.7453942
+			]
+		}
+	]
+}

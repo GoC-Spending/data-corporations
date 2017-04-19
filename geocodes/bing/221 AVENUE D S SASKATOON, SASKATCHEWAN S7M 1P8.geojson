@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 Ave D S, Saskatoon, SK S7M 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "87c7b24838114d96b30fdaeb308eef33|BN20121764|7.7.0.0|",
+				"addressLine": "221 Ave D S",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 Ave D S, Saskatoon, SK S7M 1P8, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Riversdale",
+				"postalCode": "S7M 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.67556,
+					52.1268699
+				]
+			},
+			"bbox": [
+				-106.6773911,
+				52.1257457,
+				-106.6737289,
+				52.1279941
+			]
+		}
+	]
+}

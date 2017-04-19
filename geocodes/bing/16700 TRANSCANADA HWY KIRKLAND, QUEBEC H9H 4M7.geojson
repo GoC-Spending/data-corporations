@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16700 Trans Canada Hwy, Kirkland, QC H9H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e944fe3df584fa4b9d1244620c517db|BN20130532|7.7.0.0|",
+				"addressLine": "16700 Trans Canada Hwy",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "16700 Trans Canada Hwy, Kirkland, QC H9H, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9H 4M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8411678,
+					45.4562708
+				]
+			},
+			"bbox": [
+				-73.8427704,
+				45.4551467,
+				-73.8395652,
+				45.457395
+			]
+		}
+	]
+}

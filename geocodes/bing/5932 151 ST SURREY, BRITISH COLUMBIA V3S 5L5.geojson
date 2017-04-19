@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5932 151 St, Surrey, BC V3S 5L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ef931c998044cb597327a146fb3c92d|BN20300154|7.7.0.0|",
+				"addressLine": "5932 151 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5932 151 St, Surrey, BC V3S 5L5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3S 5L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.80312,
+					49.11013
+				]
+			},
+			"bbox": [
+				-122.8048373,
+				49.1090058,
+				-122.8014027,
+				49.1112542
+			]
+		}
+	]
+}

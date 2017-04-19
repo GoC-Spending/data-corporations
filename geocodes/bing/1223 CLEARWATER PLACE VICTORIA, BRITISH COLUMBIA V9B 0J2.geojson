@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1223 Clearwater Pl, Langford, BC V9B 0J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "202e6150bd7a434bb21c4f21f846bb3b|BN20260223|7.7.0.0|",
+				"addressLine": "1223 Clearwater Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1223 Clearwater Pl, Langford, BC V9B 0J2, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 0J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.529336,
+					48.4436777
+				]
+			},
+			"bbox": [
+				-123.5310306,
+				48.4425535,
+				-123.5276413,
+				48.4448018
+			]
+		}
+	]
+}

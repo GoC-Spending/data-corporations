@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Calgary, T2E 8P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8bde1c383e75475e9d800fd1e8a9942d|BN20121764|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Calgary, T2E 8P9, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 8P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.960327148438,
+					51.1107406616211
+				]
+			},
+			"bbox": [
+				-113.968529950192,
+				51.1068779440504,
+				-113.952124346683,
+				51.1146033791918
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "AdminDivision1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Nebraska",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8bde1c383e75475e9d800fd1e8a9942d|BN20121764|7.7.0.0|",
+				"adminDistrict": "NE",
+				"countryRegion": "United States",
+				"formattedAddress": "Nebraska"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.8111038208008,
+					41.527271270752
+				]
+			},
+			"bbox": [
+				-104.057571411133,
+				40,
+				-95.314453125,
+				43.0032844543457
+			]
+		}
+	]
+}

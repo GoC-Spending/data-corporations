@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1600 Boulevard de Portland, Sherbrooke, QC J1J 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "999400a9ce2a469e96ebdc19041e662f|BN20121764|7.7.0.0|",
+				"addressLine": "1600 Boulevard de Portland",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "1600 Boulevard de Portland, Sherbrooke, QC J1J 1S9, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1J 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.9149599,
+					45.40341
+				]
+			},
+			"bbox": [
+				-71.916561,
+				45.4022858,
+				-71.9133588,
+				45.4045342
+			]
+		}
+	]
+}

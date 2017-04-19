@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 High St, Barrie, ON L4N 5J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c1cb568b969437385370fac98c90409|BN20290118|7.7.0.0|",
+				"addressLine": "49 High St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 High St, Barrie, ON L4N 5J4, Canada",
+				"locality": "Barrie",
+				"neighborhood": "City Center",
+				"postalCode": "L4N 5J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69447,
+					44.38754
+				]
+			},
+			"bbox": [
+				-79.6960431,
+				44.3864158,
+				-79.6928969,
+				44.3886642
+			]
+		}
+	]
+}

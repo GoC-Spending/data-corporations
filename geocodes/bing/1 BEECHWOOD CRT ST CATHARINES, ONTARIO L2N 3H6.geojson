@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Beechwood Ct, St Catharines, ON L2N 3H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abe290b6a558484bb5b7056f155647f3|BN20121762|7.7.0.0|",
+				"addressLine": "1 Beechwood Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Beechwood Ct, St Catharines, ON L2N 3H6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Lakeshore",
+				"postalCode": "L2N 3H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23432,
+					43.21023
+				]
+			},
+			"bbox": [
+				-79.2358624,
+				43.2091058,
+				-79.2327776,
+				43.2113542
+			]
+		}
+	]
+}

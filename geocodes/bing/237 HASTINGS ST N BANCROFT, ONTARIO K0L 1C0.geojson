@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "237 Hastings St N, Bancroft, ON K0L 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa5b5338b8b549d1b47b75fa479ba09f|BN20171457|7.7.0.0|",
+				"addressLine": "237 Hastings St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "237 Hastings St N, Bancroft, ON K0L 1C0, Canada",
+				"locality": "Bancroft",
+				"postalCode": "K0L 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.8626435,
+					45.071694
+				]
+			},
+			"bbox": [
+				-77.8642353,
+				45.0705698,
+				-77.8610518,
+				45.0728181
+			]
+		}
+	]
+}

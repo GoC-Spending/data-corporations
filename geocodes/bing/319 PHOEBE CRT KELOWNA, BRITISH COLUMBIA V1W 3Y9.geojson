@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "319 Phoebe Ct, Kelowna, BC V1W 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8af41f15ff4443d786b3c6badecc7189|BN20300154|7.7.0.0|",
+				"addressLine": "319 Phoebe Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "319 Phoebe Ct, Kelowna, BC V1W 3Y9, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Southwest Mission",
+				"postalCode": "V1W 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.52279,
+					49.79192
+				]
+			},
+			"bbox": [
+				-119.5245313,
+				49.7907958,
+				-119.5210487,
+				49.7930442
+			]
+		}
+	]
+}

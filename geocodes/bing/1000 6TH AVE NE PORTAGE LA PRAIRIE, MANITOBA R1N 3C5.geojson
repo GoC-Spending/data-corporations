@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1000 6th Ave NE, Portage la Prairie, MB R1N 0B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d29c3109ac75466786e01776be10b805|BN20130447|7.7.0.0|",
+				"addressLine": "1000 6th Ave NE",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1000 6th Ave NE, Portage la Prairie, MB R1N 0B4, Canada",
+				"locality": "Portage la Prairie",
+				"postalCode": "R1N 0B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.2742521,
+					49.9811403
+				]
+			},
+			"bbox": [
+				-98.2760003,
+				49.9800162,
+				-98.2725039,
+				49.9822645
+			]
+		}
+	]
+}

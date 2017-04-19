@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4814 Capri Cres, Burlington, ON L7M 0H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d605187dd3c84b94b501f1a36915eccb|BN20130520|7.7.0.0|",
+				"addressLine": "4814 Capri Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "4814 Capri Cres, Burlington, ON L7M 0H9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Alton North",
+				"postalCode": "L7M 0H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81406,
+					43.40623
+				]
+			},
+			"bbox": [
+				-79.8156074,
+				43.4051058,
+				-79.8125126,
+				43.4073542
+			]
+		}
+	]
+}

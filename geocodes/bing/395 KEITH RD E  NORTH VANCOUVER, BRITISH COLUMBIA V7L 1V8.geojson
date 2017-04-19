@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "395 Keith Rd E, North Vancouver, BC V7L 1V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76aa0944907843158c67f66493c3ebfc|BN20130522|7.7.0.0|",
+				"addressLine": "395 Keith Rd E",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "395 Keith Rd E, North Vancouver, BC V7L 1V8, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7L 1V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06378,
+					49.31331
+				]
+			},
+			"bbox": [
+				-123.0655044,
+				49.3121858,
+				-123.0620556,
+				49.3144342
+			]
+		}
+	]
+}

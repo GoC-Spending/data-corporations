@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "64 Barksdale Ave, North York, ON M3H 4S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f2653c48218470aa2e505ef8bc3a0c6|BN20121763|7.7.0.0|",
+				"addressLine": "64 Barksdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "64 Barksdale Ave, North York, ON M3H 4S7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 4S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46285,
+					43.76278
+				]
+			},
+			"bbox": [
+				-79.4644065,
+				43.7616558,
+				-79.4612935,
+				43.7639042
+			]
+		}
+	]
+}

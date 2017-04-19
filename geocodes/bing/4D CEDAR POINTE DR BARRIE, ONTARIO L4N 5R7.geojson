@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0f90f16dcf84b6ea888c08e18c93f31|BN20121762|7.7.0.0|",
+				"addressLine": "4 Cedar Pointe Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 5R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7140303,
+					44.3790288
+				]
+			},
+			"bbox": [
+				-79.7156032,
+				44.3779046,
+				-79.7124575,
+				44.3801529
+			]
+		}
+	]
+}

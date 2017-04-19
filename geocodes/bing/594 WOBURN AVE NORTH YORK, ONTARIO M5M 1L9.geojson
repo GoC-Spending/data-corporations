@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "594 Woburn Ave, North York, ON M5M 1L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e035ddcd25ee49669ca3c3bc947fcf5d|BN20121764|7.7.0.0|",
+				"addressLine": "594 Woburn Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "594 Woburn Ave, North York, ON M5M 1L9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bedford Park-Nortown",
+				"postalCode": "M5M 1L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42359,
+					43.72425
+				]
+			},
+			"bbox": [
+				-79.4251455,
+				43.7231258,
+				-79.4220345,
+				43.7253742
+			]
+		}
+	]
+}

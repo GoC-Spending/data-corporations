@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1533 HWY-11, Hearst, ON P0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0815034f7f224caa961f970b0cd34f23|BN20280152|7.7.0.0|",
+				"addressLine": "1533 HWY-11",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "1533 HWY-11, Hearst, ON P0L, Canada",
+				"locality": "Hearst",
+				"postalCode": "P0L 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.6833874,
+					49.6912053
+				]
+			},
+			"bbox": [
+				-83.6851251,
+				49.6900811,
+				-83.6816497,
+				49.6923294
+			]
+		}
+	]
+}

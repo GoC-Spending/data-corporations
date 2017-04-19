@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "River Rd, Portage la Prairie, MB R1N 3V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca751b73b85b4d1880e7a9003a7a897f|BN20131519|7.7.0.0|",
+				"addressLine": "River Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "River Rd, Portage la Prairie, MB R1N 3V6, Canada",
+				"locality": "Portage la Prairie",
+				"postalCode": "R1N 3V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.27972,
+					49.96145
+				]
+			},
+			"bbox": [
+				-98.28136,
+				49.94872,
+				-98.2685,
+				49.96318
+			]
+		}
+	]
+}

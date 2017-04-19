@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Elise Ter, North York, ON M2R 2X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "168464d148aa4ccb91793c6b376360ae|BN20130447|7.7.0.0|",
+				"addressLine": "32 Elise Ter",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Elise Ter, North York, ON M2R 2X1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook West",
+				"postalCode": "M2R 2X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44038,
+					43.79097
+				]
+			},
+			"bbox": [
+				-79.4419373,
+				43.7898458,
+				-79.4388227,
+				43.7920942
+			]
+		}
+	]
+}

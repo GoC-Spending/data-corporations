@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 Richmond St, Picton, ON K0K 2T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "793518ea1f0149c8902c2658d9045883|BN20290118|7.7.0.0|",
+				"addressLine": "9 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 Richmond St, Picton, ON K0K 2T0, Canada",
+				"locality": "Prince Edward",
+				"neighborhood": "Picton",
+				"postalCode": "K0K 2T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.13472,
+					44.00509
+				]
+			},
+			"bbox": [
+				-77.1362829,
+				44.0039658,
+				-77.1331571,
+				44.0062142
+			]
+		}
+	]
+}

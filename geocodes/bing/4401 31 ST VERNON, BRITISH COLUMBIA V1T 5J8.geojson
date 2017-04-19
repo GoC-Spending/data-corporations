@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4401 31st St, Vernon, BC V1T 5J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32cc6ad4d0c84d69a7fb9829411cda93|BN20130719|7.7.0.0|",
+				"addressLine": "4401 31st St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "4401 31st St, Vernon, BC V1T 5J8, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 5J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.27216,
+					50.27685
+				]
+			},
+			"bbox": [
+				-119.273919,
+				50.2757258,
+				-119.270401,
+				50.2779742
+			]
+		}
+	]
+}

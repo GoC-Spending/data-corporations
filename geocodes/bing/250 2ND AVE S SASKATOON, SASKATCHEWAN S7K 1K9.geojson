@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 2nd Ave S, Saskatoon, SK S7K 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15f50f203bea49ccbf161b2621964658|BN20130719|7.7.0.0|",
+				"addressLine": "250 2nd Ave S",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 2nd Ave S, Saskatoon, SK S7K 1K9, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Central Business District",
+				"postalCode": "S7K 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.66452,
+					52.12611
+				]
+			},
+			"bbox": [
+				-106.6663511,
+				52.1249858,
+				-106.6626889,
+				52.1272342
+			]
+		}
+	]
+}

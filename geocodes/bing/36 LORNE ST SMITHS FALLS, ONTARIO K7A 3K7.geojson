@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Lorne St, Smiths Falls, ON K7A 3K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "429a2c81157242b0adea8cc6ed1d707c|BN20130632|7.7.0.0|",
+				"addressLine": "36 Lorne St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Lorne St, Smiths Falls, ON K7A 3K7, Canada",
+				"locality": "Smiths Falls",
+				"postalCode": "K7A 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.0068735,
+					44.8972903
+				]
+			},
+			"bbox": [
+				-76.0084604,
+				44.8961662,
+				-76.0052865,
+				44.8984145
+			]
+		}
+	]
+}

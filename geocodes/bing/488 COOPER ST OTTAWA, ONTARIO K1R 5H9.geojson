@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "488 Cooper St, Ottawa, ON K1R 5H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea61f65be2e24456944e6ab0dfa1318c|BN20130721|7.7.0.0|",
+				"addressLine": "488 Cooper St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "488 Cooper St, Ottawa, ON K1R 5H9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K1R 5H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6999699,
+					45.41453
+				]
+			},
+			"bbox": [
+				-75.7015713,
+				45.4134058,
+				-75.6983685,
+				45.4156542
+			]
+		}
+	]
+}

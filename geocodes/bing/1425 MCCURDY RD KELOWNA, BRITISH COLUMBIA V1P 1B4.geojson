@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1425 McCurdy Rd E, Kelowna, BC V1P 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3df881c068f7484d9168466f313796aa|BN20130721|7.7.0.0|",
+				"addressLine": "1425 McCurdy Rd E",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1425 McCurdy Rd E, Kelowna, BC V1P 1B4, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Rutland",
+				"postalCode": "V1P 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.36034,
+					49.90852
+				]
+			},
+			"bbox": [
+				-119.3620856,
+				49.9073958,
+				-119.3585944,
+				49.9096442
+			]
+		}
+	]
+}

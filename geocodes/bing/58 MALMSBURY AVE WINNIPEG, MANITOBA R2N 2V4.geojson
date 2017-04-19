@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Malmsbury Ave, Winnipeg, MB R2N 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32ac74f3cc7f46e286830e1ea6eaa0c5|BN20121763|7.7.0.0|",
+				"addressLine": "58 Malmsbury Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Malmsbury Ave, Winnipeg, MB R2N 2V4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River Park South",
+				"postalCode": "R2N 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.11111,
+					49.80504
+				]
+			},
+			"bbox": [
+				-97.1128518,
+				49.8039158,
+				-97.1093682,
+				49.8061642
+			]
+		}
+	]
+}

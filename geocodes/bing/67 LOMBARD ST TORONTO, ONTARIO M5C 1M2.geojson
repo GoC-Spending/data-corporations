@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Lombard St, Toronto, ON M5C 1M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc258096b7844ab3a04ae715e8577190|BN20130532|7.7.0.0|",
+				"addressLine": "67 Lombard St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Lombard St, Toronto, ON M5C 1M2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 1M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37425,
+					43.65182
+				]
+			},
+			"bbox": [
+				-79.3758037,
+				43.6506958,
+				-79.3726963,
+				43.6529442
+			]
+		}
+	]
+}

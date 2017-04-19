@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "515 Rue François, Verdun, QC H3E 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bdf74433b9f410384e05e5460b087a1|BN20130447|7.7.0.0|",
+				"addressLine": "515 Rue François",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "515 Rue François, Verdun, QC H3E 1G5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H3E 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5465399,
+					45.45444
+				]
+			},
+			"bbox": [
+				-73.5481425,
+				45.4533158,
+				-73.5449373,
+				45.4555642
+			]
+		}
+	]
+}

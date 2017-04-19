@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1060 Jayson Ct, Mississauga, ON L4W 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98a68695cae7495fb8f09695bc2341c8|BN20130625|7.7.0.0|",
+				"addressLine": "1060 Jayson Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1060 Jayson Ct, Mississauga, ON L4W 2V5, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Dixie",
+				"postalCode": "L4W 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64624,
+					43.63919
+				]
+			},
+			"bbox": [
+				-79.6477933,
+				43.6380658,
+				-79.6446867,
+				43.6403142
+			]
+		}
+	]
+}

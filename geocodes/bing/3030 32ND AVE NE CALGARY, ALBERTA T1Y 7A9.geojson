@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3030 32 Ave NE, Calgary, AB T1Y 7A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dae6d74345bb474fb4b3e9901a519653|BN20130532|7.7.0.0|",
+				"addressLine": "3030 32 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3030 32 Ave NE, Calgary, AB T1Y 7A9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Horizon",
+				"postalCode": "T1Y 7A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9907383,
+					51.0816849
+				]
+			},
+			"bbox": [
+				-113.9925277,
+				51.0805607,
+				-113.9889488,
+				51.082809
+			]
+		}
+	]
+}

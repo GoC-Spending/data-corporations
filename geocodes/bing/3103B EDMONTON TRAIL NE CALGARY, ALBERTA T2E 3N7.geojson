@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3103 Edmonton Trl NE, Calgary, AB T2E 3N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e15314e228343eb9729734588d6eaf9|BN20220145|7.7.0.0|",
+				"addressLine": "3103 Edmonton Trl NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3103 Edmonton Trl NE, Calgary, AB T2E 3N7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Tuxedo Park",
+				"postalCode": "T2E 3N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05528,
+					51.0798
+				]
+			},
+			"bbox": [
+				-114.0570694,
+				51.0786758,
+				-114.0534906,
+				51.0809242
+			]
+		}
+	]
+}

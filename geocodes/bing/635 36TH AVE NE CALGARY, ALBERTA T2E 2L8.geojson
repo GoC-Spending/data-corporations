@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "635 36 Ave NE, Calgary, AB T2E 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06ac375721604a729656fb65c1c267f1|BN20210145|7.7.0.0|",
+				"addressLine": "635 36 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "635 36 Ave NE, Calgary, AB T2E 2L8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Greenview",
+				"postalCode": "T2E 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.04863,
+					51.08476
+				]
+			},
+			"bbox": [
+				-114.0504196,
+				51.0836358,
+				-114.0468404,
+				51.0858842
+			]
+		}
+	]
+}

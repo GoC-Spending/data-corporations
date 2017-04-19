@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "548 Beatty St, Vancouver, BC V6B 2L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de40f28bdf3141088cf3a9eafd3a2af9|BN20300154|7.7.0.0|",
+				"addressLine": "548 Beatty St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "548 Beatty St, Vancouver, BC V6B 2L3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 2L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1094074,
+					49.2804109
+				]
+			},
+			"bbox": [
+				-123.1111306,
+				49.2792868,
+				-123.1076842,
+				49.2815351
+			]
+		}
+	]
+}

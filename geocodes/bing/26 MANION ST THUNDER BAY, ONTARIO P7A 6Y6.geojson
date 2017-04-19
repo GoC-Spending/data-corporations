@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Manion St, Thunder Bay, ON P7A 6Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2db5aac5f3d945b9806d5410e770f3d7|BN20181720|7.7.0.0|",
+				"addressLine": "26 Manion St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Manion St, Thunder Bay, ON P7A 6Y6, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7A 6Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.21576,
+					48.45214
+				]
+			},
+			"bbox": [
+				-89.2174549,
+				48.4510158,
+				-89.2140651,
+				48.4532642
+			]
+		}
+	]
+}

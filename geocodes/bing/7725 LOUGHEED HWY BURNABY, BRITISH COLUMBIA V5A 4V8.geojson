@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7725 Lougheed Hwy, Burnaby, BC V5A 4V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3a2871a43e6433c91b2f3ad96a72a3c|BN20131519|7.7.0.0|",
+				"addressLine": "7725 Lougheed Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7725 Lougheed Hwy, Burnaby, BC V5A 4V8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lake City",
+				"postalCode": "V5A 4V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9403195,
+					49.2547003
+				]
+			},
+			"bbox": [
+				-122.9420418,
+				49.2535762,
+				-122.9385972,
+				49.2558245
+			]
+		}
+	]
+}

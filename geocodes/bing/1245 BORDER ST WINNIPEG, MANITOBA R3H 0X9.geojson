@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1245 Border St, Winnipeg, MB R3H 0X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f19c59c514f9426784f391af941fcafc|BN20130530|7.7.0.0|",
+				"addressLine": "1245 Border St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1245 Border St, Winnipeg, MB R3H 0X9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20142,
+					49.90763
+				]
+			},
+			"bbox": [
+				-97.2031655,
+				49.9065058,
+				-97.1996745,
+				49.9087542
+			]
+		}
+	]
+}

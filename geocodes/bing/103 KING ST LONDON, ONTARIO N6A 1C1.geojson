@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "103 King St, London, ON N6A 1C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e39dd633723947c08e1081da989c3f05|BN20200137|7.7.0.0|",
+				"addressLine": "103 King St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "103 King St, London, ON N6A 1C1, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2514,
+					42.9816999
+				]
+			},
+			"bbox": [
+				-81.2529366,
+				42.9805757,
+				-81.2498634,
+				42.9828241
+			]
+		}
+	]
+}

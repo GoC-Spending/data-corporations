@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "540 36 St N, Lethbridge, AB T1H 5H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de5743771d164510b13a6918716eec42|BN20121764|7.7.0.0|",
+				"addressLine": "540 36 St N",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "540 36 St N, Lethbridge, AB T1H 5H6, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1H 5H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.78992,
+					49.70749
+				]
+			},
+			"bbox": [
+				-112.7916583,
+				49.7063658,
+				-112.7881817,
+				49.7086142
+			]
+		}
+	]
+}

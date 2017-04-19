@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Oak St, Brantford, ON N3T 2A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63f1dcb239c54f5b8de8e04351b956d1|BN20290118|7.7.0.0|",
+				"addressLine": "48 Oak St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Oak St, Brantford, ON N3T 2A8, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3T 2A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.27338,
+					43.13414
+				]
+			},
+			"bbox": [
+				-80.2749205,
+				43.1330158,
+				-80.2718395,
+				43.1352642
+			]
+		}
+	]
+}

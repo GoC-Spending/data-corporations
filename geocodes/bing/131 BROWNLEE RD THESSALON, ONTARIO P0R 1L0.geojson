@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Brownlee Rd, Thessalon, ON P0R 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c7c3cb94a694b7abb01da11751b9711|BN20121764|7.7.0.0|",
+				"addressLine": "131 Brownlee Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Algoma",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Brownlee Rd, Thessalon, ON P0R 1L0, Canada",
+				"locality": "Huron Shores",
+				"neighborhood": "Thessalon",
+				"postalCode": "P0R 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.4325862,
+					46.2852817
+				]
+			},
+			"bbox": [
+				-83.4342129,
+				46.2841576,
+				-83.4309595,
+				46.2864059
+			]
+		}
+	]
+}

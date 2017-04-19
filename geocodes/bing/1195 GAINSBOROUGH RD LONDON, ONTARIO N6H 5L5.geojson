@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1195 Gainsborough Rd, London, ON N6H 5L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd969d8c768544229684c6ad9cd2bef6|BN20290118|7.7.0.0|",
+				"addressLine": "1195 Gainsborough Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1195 Gainsborough Rd, London, ON N6H 5L5, Canada",
+				"locality": "London",
+				"neighborhood": "Hyde Park",
+				"postalCode": "N6H 5L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3404828,
+					42.9964674
+				]
+			},
+			"bbox": [
+				-81.3420198,
+				42.9953433,
+				-81.3389458,
+				42.9975916
+			]
+		}
+	]
+}

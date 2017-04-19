@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14360 Boulevard de Pierrefonds, Pierrefonds, QC H9H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08b64550ae8c45d3b34652c8d2880e6a|BN20121762|7.7.0.0|",
+				"addressLine": "14360 Boulevard de Pierrefonds",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "14360 Boulevard de Pierrefonds, Pierrefonds, QC H9H, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H9H 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8536157,
+					45.4905664
+				]
+			},
+			"bbox": [
+				-73.8552192,
+				45.4894422,
+				-73.8520121,
+				45.4916905
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 Lapsley Rd, Scarborough, ON M1B 1K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "312b9c18428144afbbfd18cca2b6d3c2|BN20130719|7.7.0.0|",
+				"addressLine": "41 Lapsley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 Lapsley Rd, Scarborough, ON M1B 1K1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Malvern",
+				"postalCode": "M1B 1K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22709,
+					43.79587
+				]
+			},
+			"bbox": [
+				-79.2286474,
+				43.7947458,
+				-79.2255326,
+				43.7969942
+			]
+		}
+	]
+}

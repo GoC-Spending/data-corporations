@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Admiral Pl, Guelph, ON N1G 4N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "51ed7693bb5c428ca7f3c55e43de18e5|BN20130625|7.7.0.0|",
+				"addressLine": "2 Admiral Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Admiral Pl, Guelph, ON N1G 4N4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Clairfields/Hanlon Business Park",
+				"postalCode": "N1G 4N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.20633,
+					43.49008
+				]
+			},
+			"bbox": [
+				-80.2078795,
+				43.4889558,
+				-80.2047805,
+				43.4912042
+			]
+		}
+	]
+}

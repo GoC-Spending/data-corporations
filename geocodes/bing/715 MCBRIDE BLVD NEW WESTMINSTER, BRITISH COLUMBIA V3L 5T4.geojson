@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "715 McBride Blvd, New Westminster, BC V3L 5T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c389e657d74c45e0b9682ebc3c5c3bc3|BN20130621|7.7.0.0|",
+				"addressLine": "715 McBride Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "715 McBride Blvd, New Westminster, BC V3L 5T4, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Glenbrooke South",
+				"postalCode": "V3L 5T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.91009,
+					49.22229
+				]
+			},
+			"bbox": [
+				-122.9118112,
+				49.2211658,
+				-122.9083688,
+				49.2234142
+			]
+		}
+	]
+}

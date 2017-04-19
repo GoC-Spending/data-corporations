@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "416 Pine Glen Rd, Riverview, NB E1B 4J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e30b6099c8a74edca0c7537f54ee2fe4|BN20260223|7.7.0.0|",
+				"addressLine": "416 Pine Glen Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Albert",
+				"countryRegion": "Canada",
+				"formattedAddress": "416 Pine Glen Rd, Riverview, NB E1B 4J6, Canada",
+				"locality": "Riverview",
+				"postalCode": "E1B 4J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.79033,
+					46.0571399
+				]
+			},
+			"bbox": [
+				-64.79195,
+				46.0560157,
+				-64.78871,
+				46.0582641
+			]
+		}
+	]
+}

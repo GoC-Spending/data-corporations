@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "400 University Ave, Toronto, ON M5G 1S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5745f850e0c49c18a206d50e2a1794a|BN20130532|7.7.0.0|",
+				"addressLine": "400 University Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "400 University Ave, Toronto, ON M5G 1S5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kensington-Chinatown",
+				"postalCode": "M5G 1S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38831,
+					43.65349
+				]
+			},
+			"bbox": [
+				-79.3898637,
+				43.6523658,
+				-79.3867563,
+				43.6546142
+			]
+		}
+	]
+}

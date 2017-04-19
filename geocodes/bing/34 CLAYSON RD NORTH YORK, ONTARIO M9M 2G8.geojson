@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Clayson Rd, North York, ON M9M 2G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6371bdcbe1f04f1ca58e3c78aca3e49e|BN20130431|7.7.0.0|",
+				"addressLine": "34 Clayson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Clayson Rd, North York, ON M9M 2G8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Downsview-Roding-CFB",
+				"postalCode": "M9M 2G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52442,
+					43.71952
+				]
+			},
+			"bbox": [
+				-79.5259754,
+				43.7183958,
+				-79.5228646,
+				43.7206442
+			]
+		}
+	]
+}

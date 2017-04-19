@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "158 Anderson Ave, Markham, ON L6E 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8d7a51a215a4b4a96abd9e211ed426a|BN20121763|7.7.0.0|",
+				"addressLine": "158 Anderson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "158 Anderson Ave, Markham, ON L6E 1A9, Canada",
+				"locality": "Markham",
+				"postalCode": "L6E 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2653799,
+					43.90282
+				]
+			},
+			"bbox": [
+				-79.2669401,
+				43.9016958,
+				-79.2638197,
+				43.9039442
+			]
+		}
+	]
+}

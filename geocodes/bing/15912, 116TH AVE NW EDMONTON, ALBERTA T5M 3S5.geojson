@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15912 116 Ave NW, Edmonton, AB T5M 3S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa38a301984b46e2802b32231f27956b|BN20260231|7.7.0.0|",
+				"addressLine": "15912 116 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15912 116 Ave NW, Edmonton, AB T5M 3S5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Alberta Park Industrial",
+				"postalCode": "T5M 3S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.59604,
+					53.56694
+				]
+			},
+			"bbox": [
+				-113.5979329,
+				53.5658158,
+				-113.5941471,
+				53.5680642
+			]
+		}
+	]
+}

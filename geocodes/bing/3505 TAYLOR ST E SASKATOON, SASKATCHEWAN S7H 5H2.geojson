@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3505 Taylor St E, Saskatoon, SK S7H 5H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7b3944958db420ca41ec021fc5d4f3c|BN20160335|7.7.0.0|",
+				"addressLine": "3505 Taylor St E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "3505 Taylor St E, Saskatoon, SK S7H 5H2, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Wildwood",
+				"postalCode": "S7H 5H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.59832,
+					52.10502
+				]
+			},
+			"bbox": [
+				-106.6001502,
+				52.1038958,
+				-106.5964898,
+				52.1061442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Todd Rd, Georgetown, ON L7G 4R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ed4d9322c5d419db0d386fbc1a6b78b|BN20130423|7.7.0.0|",
+				"addressLine": "35 Todd Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Todd Rd, Georgetown, ON L7G 4R8, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9019299,
+					43.65241
+				]
+			},
+			"bbox": [
+				-79.9034836,
+				43.6512858,
+				-79.9003762,
+				43.6535342
+			]
+		}
+	]
+}

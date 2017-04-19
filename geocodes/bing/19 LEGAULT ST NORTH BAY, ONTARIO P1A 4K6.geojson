@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19 Legault St, North Bay, ON P1B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9343cb148b974974841492e43370914b|BN20190642|7.7.0.0|",
+				"addressLine": "19 Legault St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "19 Legault St, North Bay, ON P1B, Canada",
+				"locality": "North Bay",
+				"neighborhood": "West Ferris",
+				"postalCode": "P1B"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4193992,
+					46.2622703
+				]
+			},
+			"bbox": [
+				-79.4210252,
+				46.2611462,
+				-79.4177732,
+				46.2633945
+			]
+		}
+	]
+}

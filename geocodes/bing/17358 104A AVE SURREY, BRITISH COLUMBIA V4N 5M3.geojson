@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17358 104A Ave, Surrey, BC V4N 5M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62ec1f7bc89f46778e3b7ded0c4ba08b|BN20130533|7.7.0.0|",
+				"addressLine": "17358 104A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "17358 104A Ave, Surrey, BC V4N 5M3, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V4N 5M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7423846,
+					49.1925009
+				]
+			},
+			"bbox": [
+				-122.7441048,
+				49.1913767,
+				-122.7406645,
+				49.193625
+			]
+		}
+	]
+}

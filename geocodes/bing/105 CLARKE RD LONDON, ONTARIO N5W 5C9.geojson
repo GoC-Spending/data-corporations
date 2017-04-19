@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Clarke Rd, London, ON N5W 5C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0987f64663e4289aa2dc6dd73e95376|CO30324010|7.7.0.0|",
+				"addressLine": "105 Clarke Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Clarke Rd, London, ON N5W 5C9, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5W 5C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1666712,
+					42.9860208
+				]
+			},
+			"bbox": [
+				-81.1682079,
+				42.9848967,
+				-81.1651345,
+				42.987145
+			]
+		}
+	]
+}

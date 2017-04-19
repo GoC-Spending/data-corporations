@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "379 Bayfield St, Barrie, ON L4M 3C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4a0cd8a6f7145d3b0ab847242e1b52d|BN20130631|7.7.0.0|",
+				"addressLine": "379 Bayfield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "379 Bayfield St, Barrie, ON L4M 3C5, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Bayfield",
+				"postalCode": "L4M 3C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7043,
+					44.40597
+				]
+			},
+			"bbox": [
+				-79.7058736,
+				44.4048458,
+				-79.7027264,
+				44.4070942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10125 102 St NW, Edmonton, AB T5J 3V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a78f02eeffc4024914351dd15182def|BN20130719|7.7.0.0|",
+				"addressLine": "10125 102 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10125 102 St NW, Edmonton, AB T5J 3V8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 3V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49504,
+					53.54124
+				]
+			},
+			"bbox": [
+				-113.4969317,
+				53.5401158,
+				-113.4931483,
+				53.5423642
+			]
+		}
+	]
+}

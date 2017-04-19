@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5820 West St, Halifax, NS B3K 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b53d60dd5db44cc489d37b4e02f5b6e4|BN20200137|7.7.0.0|",
+				"addressLine": "5820 West St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5820 West St, Halifax, NS B3K 1J3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "North End",
+				"postalCode": "B3K 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.59113,
+					44.65223
+				]
+			},
+			"bbox": [
+				-63.5927102,
+				44.6511058,
+				-63.5895498,
+				44.6533542
+			]
+		}
+	]
+}

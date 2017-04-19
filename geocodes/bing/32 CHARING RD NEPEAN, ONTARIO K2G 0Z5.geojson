@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Charing Rd, Nepean, ON K2G 0Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13754b92abd94573bb27ee80518e05ef|BN20130431|7.7.0.0|",
+				"addressLine": "32 Charing Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Charing Rd, Nepean, ON K2G 0Z5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 0Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.76528,
+					45.33097
+				]
+			},
+			"bbox": [
+				-75.7668791,
+				45.3298458,
+				-75.7636809,
+				45.3320942
+			]
+		}
+	]
+}

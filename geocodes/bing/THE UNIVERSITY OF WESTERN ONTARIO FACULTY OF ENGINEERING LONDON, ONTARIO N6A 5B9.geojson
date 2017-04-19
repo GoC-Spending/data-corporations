@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "London, N6A 5B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b5d9ec6afa2f4da8b3147f80e021360c|BN20130634|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "London, N6A 5B9, Canada",
+				"locality": "London",
+				"postalCode": "N6A 5B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2616729736328,
+					43.009334564209
+				]
+			},
+			"bbox": [
+				-81.2687157339616,
+				43.0054718466383,
+				-81.254630213304,
+				43.0131972817797
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "HigherEducationFacility",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "University of Western Ontario, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b5d9ec6afa2f4da8b3147f80e021360c|BN20130634|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "University of Western Ontario, Ontario, Canada",
+				"locality": "London"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2718963623047,
+					43.0082893371582
+				]
+			},
+			"bbox": [
+				-81.2789390028055,
+				43.0044266195875,
+				-81.2648537218039,
+				43.0121520547289
+			]
+		}
+	]
+}

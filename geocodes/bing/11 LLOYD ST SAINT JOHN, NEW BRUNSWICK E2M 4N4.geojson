@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Lloyd St, Saint John, NB E2M 4N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b318f5286f2a4b4ba7532007657f21cd|BN20320521|7.7.0.0|",
+				"addressLine": "11 Lloyd St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Lloyd St, Saint John, NB E2M 4N4, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 4N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.10326,
+					45.25207
+				]
+			},
+			"bbox": [
+				-66.1048568,
+				45.2509458,
+				-66.1016632,
+				45.2531942
+			]
+		}
+	]
+}

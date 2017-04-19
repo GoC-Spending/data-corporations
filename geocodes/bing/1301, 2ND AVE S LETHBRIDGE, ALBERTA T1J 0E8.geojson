@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1301 2 Ave S, Lethbridge, AB T1J 0E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "169b27a9541f4cf5815bc85df27d249e|BN20130719|7.7.0.0|",
+				"addressLine": "1301 2 Ave S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1301 2 Ave S, Lethbridge, AB T1J 0E8, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1J 0E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.8239241,
+					49.6976647
+				]
+			},
+			"bbox": [
+				-112.8256621,
+				49.6965405,
+				-112.8221862,
+				49.6987888
+			]
+		}
+	]
+}

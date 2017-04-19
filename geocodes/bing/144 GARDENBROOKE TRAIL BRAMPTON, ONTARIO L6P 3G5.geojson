@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "144 Gardenbrooke Trl, Brampton, ON L6P 3G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9684b6b2c757452681da90ae555cb690|BN20171457|7.7.0.0|",
+				"addressLine": "144 Gardenbrooke Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "144 Gardenbrooke Trl, Brampton, ON L6P 3G5, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Castlemore Crossing",
+				"postalCode": "L6P 3G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68114,
+					43.79345
+				]
+			},
+			"bbox": [
+				-79.6826973,
+				43.7923258,
+				-79.6795827,
+				43.7945742
+			]
+		}
+	]
+}

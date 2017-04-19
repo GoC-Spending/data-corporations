@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5791 Wellington Road 24, Erin, ON N0B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49f6a2de20254905b406ba30fd79ba3c|BN20200137|7.7.0.0|",
+				"addressLine": "5791 Wellington Road 24",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "5791 Wellington Road 24, Erin, ON N0B, Canada",
+				"locality": "Erin",
+				"neighborhood": "Hillsburgh",
+				"postalCode": "N0B 2K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1298907,
+					43.7805405
+				]
+			},
+			"bbox": [
+				-80.1314477,
+				43.7794164,
+				-80.1283337,
+				43.7816647
+			]
+		}
+	]
+}

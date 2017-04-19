@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9011 145 St NW, Edmonton, AB T5R 0V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "501309198f4d44b796ef194fddff93ca|BN20130632|7.7.0.0|",
+				"addressLine": "9011 145 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9011 145 St NW, Edmonton, AB T5R 0V1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Parkview",
+				"postalCode": "T5R 0V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.56991,
+					53.52351
+				]
+			},
+			"bbox": [
+				-113.5718009,
+				53.5223858,
+				-113.5680191,
+				53.5246342
+			]
+		}
+	]
+}

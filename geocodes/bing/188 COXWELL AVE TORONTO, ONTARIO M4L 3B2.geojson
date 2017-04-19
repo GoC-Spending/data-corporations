@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "188 Coxwell Ave, Toronto, ON M4L 3B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b5c0e8668854142a98147ae0eea2dbe|BN20130422|7.7.0.0|",
+				"addressLine": "188 Coxwell Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "188 Coxwell Ave, Toronto, ON M4L 3B2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Greenwood-Coxwell",
+				"postalCode": "M4L 3B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31879,
+					43.67115
+				]
+			},
+			"bbox": [
+				-79.3203442,
+				43.6700258,
+				-79.3172358,
+				43.6722742
+			]
+		}
+	]
+}

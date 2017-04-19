@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "263 Dixon Rd, Etobicoke, ON M9R 1R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5565e27ddc074f1f871bafe6ad6ad5d1|BN20130522|7.7.0.0|",
+				"addressLine": "263 Dixon Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "263 Dixon Rd, Etobicoke, ON M9R 1R6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kingsview Village-the Westway",
+				"postalCode": "M9R 1R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5487,
+					43.6964
+				]
+			},
+			"bbox": [
+				-79.5502548,
+				43.6952758,
+				-79.5471452,
+				43.6975242
+			]
+		}
+	]
+}

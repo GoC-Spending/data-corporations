@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Emerick Ave, Fort Erie, ON L2A 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b54df04b88124aff82f4c7acfa84c611|BN20220145|7.7.0.0|",
+				"addressLine": "24 Emerick Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Emerick Ave, Fort Erie, ON L2A 2W3, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.91763,
+					42.93335
+				]
+			},
+			"bbox": [
+				-78.9191654,
+				42.9322258,
+				-78.9160946,
+				42.9344742
+			]
+		}
+	]
+}

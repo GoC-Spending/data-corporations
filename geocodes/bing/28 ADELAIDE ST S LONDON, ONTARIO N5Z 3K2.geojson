@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "28 Adelaide St S, London, ON N5Z 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca3818bc077a4e0890c637f17dc133d7|BN20130533|7.7.0.0|",
+				"addressLine": "28 Adelaide St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "28 Adelaide St S, London, ON N5Z 3K2, Canada",
+				"locality": "London",
+				"neighborhood": "Glen Cairn",
+				"postalCode": "N5Z 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2244,
+					42.973
+				]
+			},
+			"bbox": [
+				-81.2259364,
+				42.9718758,
+				-81.2228636,
+				42.9741242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Riverside Ct, Binbrook, ON L0R 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60e258242fd7464380afb66e0c74d6d1|BN20130632|7.7.0.0|",
+				"addressLine": "8 Riverside Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Riverside Ct, Binbrook, ON L0R 1C0, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Binbrook",
+				"postalCode": "L0R 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8043,
+					43.1161
+				]
+			},
+			"bbox": [
+				-79.80584,
+				43.1149758,
+				-79.80276,
+				43.1172242
+			]
+		}
+	]
+}

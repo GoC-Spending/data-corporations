@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "420 Kipling St, Victoria, BC V8S 3J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a4fac4fc2764212b38ba70d37174243|BN20250135|7.7.0.0|",
+				"addressLine": "420 Kipling St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "420 Kipling St, Victoria, BC V8S 3J8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fairfield",
+				"postalCode": "V8S 3J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.34472,
+					48.4151
+				]
+			},
+			"bbox": [
+				-123.3464137,
+				48.4139758,
+				-123.3430263,
+				48.4162242
+			]
+		}
+	]
+}

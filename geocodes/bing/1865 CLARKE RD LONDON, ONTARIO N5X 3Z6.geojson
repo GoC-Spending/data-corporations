@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1865 Clarke Rd, London, ON N5X 3Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f2214cc0c4a4f00b82b07099c2c67de|CO30276239|7.7.0.0|",
+				"addressLine": "1865 Clarke Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1865 Clarke Rd, London, ON N5X 3Z6, Canada",
+				"locality": "London",
+				"neighborhood": "Fanshawe",
+				"postalCode": "N5X 3Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1970676,
+					43.0463315
+				]
+			},
+			"bbox": [
+				-81.1986058,
+				43.0452074,
+				-81.1955293,
+				43.0474557
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2137 Jane St, North York, ON M3M 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0bfabe5ca0b2435f97404cb8c776e1e5|BN20121763|7.7.0.0|",
+				"addressLine": "2137 Jane St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2137 Jane St, North York, ON M3M 1A2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Downsview-Roding-CFB",
+				"postalCode": "M3M 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.50789,
+					43.72012
+				]
+			},
+			"bbox": [
+				-79.5094454,
+				43.7189958,
+				-79.5063346,
+				43.7212442
+			]
+		}
+	]
+}

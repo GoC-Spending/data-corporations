@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4695 Wellington Rd S, London, ON N6E 0A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a04409a30b6f4e979a9088f3570bf543|BN20130631|7.7.0.0|",
+				"addressLine": "4695 Wellington Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4695 Wellington Rd S, London, ON N6E 0A6, Canada",
+				"locality": "London",
+				"neighborhood": "Brockley",
+				"postalCode": "N6E 0A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.207,
+					42.9087767
+				]
+			},
+			"bbox": [
+				-81.2085348,
+				42.9076525,
+				-81.2054652,
+				42.9099008
+			]
+		}
+	]
+}

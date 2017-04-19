@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Cook St, Victoria, BC V8V 3W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "406b8bb8a1f1483097f171a620567a00|BN20190642|7.7.0.0|",
+				"addressLine": "1 Cook St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Cook St, Victoria, BC V8V 3W6, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fairfield",
+				"postalCode": "V8V 3W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3574,
+					48.40816
+				]
+			},
+			"bbox": [
+				-123.3590935,
+				48.4070358,
+				-123.3557065,
+				48.4092842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Crescent Rd, Huntsville, ON P1H 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f1af0d474ce4f1fb1fa700913493581|BN20300154|7.7.0.0|",
+				"addressLine": "1 Crescent Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Crescent Rd, Huntsville, ON P1H 1Z6, Canada",
+				"locality": "Huntsville",
+				"postalCode": "P1H 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24243,
+					45.30945
+				]
+			},
+			"bbox": [
+				-79.2440284,
+				45.3083258,
+				-79.2408316,
+				45.3105742
+			]
+		}
+	]
+}

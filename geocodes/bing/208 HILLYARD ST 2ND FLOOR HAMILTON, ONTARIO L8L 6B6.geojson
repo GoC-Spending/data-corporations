@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 Hillyard St, Hamilton, ON L8L 6B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5bf70396823c4218a72f990ecfa7c1a1|BN20260231|7.7.0.0|",
+				"addressLine": "208 Hillyard St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 Hillyard St, Hamilton, ON L8L 6B6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector B and Keith",
+				"postalCode": "L8L 6B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83788,
+					43.2710099
+				]
+			},
+			"bbox": [
+				-79.8394239,
+				43.2698857,
+				-79.8363361,
+				43.2721341
+			]
+		}
+	]
+}

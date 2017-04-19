@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 W River Rd, Cambridge, ON N1S 2Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "408766f4e02246c786a265b45db80942|BN20130530|7.7.0.0|",
+				"addressLine": "221 W River Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 W River Rd, Cambridge, ON N1S 2Z9, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1S 2Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3212493,
+					43.3393178
+				]
+			},
+			"bbox": [
+				-80.3227949,
+				43.3381936,
+				-80.3197037,
+				43.340442
+			]
+		}
+	]
+}

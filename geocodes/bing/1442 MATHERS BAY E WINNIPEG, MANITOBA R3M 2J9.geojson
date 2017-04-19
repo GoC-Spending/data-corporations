@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1442 Mathers Bay E, Winnipeg, MB R3M 2J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fdee90baf4d405daa9d67f089885f00|BN20130634|7.7.0.0|",
+				"addressLine": "1442 Mathers Bay E",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1442 Mathers Bay E, Winnipeg, MB R3M 2J9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South River Heights",
+				"postalCode": "R3M 2J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1824,
+					49.85263
+				]
+			},
+			"bbox": [
+				-97.1841435,
+				49.8515058,
+				-97.1806565,
+				49.8537542
+			]
+		}
+	]
+}

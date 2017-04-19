@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "815 Bannerman Ave, Winnipeg, MB R2X 1K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c482675ee8ce4d12801bbf7c9c58b47a|BN20130621|7.7.0.0|",
+				"addressLine": "815 Bannerman Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "815 Bannerman Ave, Winnipeg, MB R2X 1K2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Robertson",
+				"postalCode": "R2X 1K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15084,
+					49.93324
+				]
+			},
+			"bbox": [
+				-97.1525864,
+				49.9321158,
+				-97.1490936,
+				49.9343642
+			]
+		}
+	]
+}

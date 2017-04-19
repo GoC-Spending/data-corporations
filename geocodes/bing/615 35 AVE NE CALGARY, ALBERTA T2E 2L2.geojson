@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "615 35 Ave NE, Calgary, AB T2E 2L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6be9f5a453034d26a057af6e21a82344|BN20210145|7.7.0.0|",
+				"addressLine": "615 35 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "615 35 Ave NE, Calgary, AB T2E 2L2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Greenview",
+				"postalCode": "T2E 2L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0497,
+					51.0839
+				]
+			},
+			"bbox": [
+				-114.0514895,
+				51.0827758,
+				-114.0479105,
+				51.0850242
+			]
+		}
+	]
+}

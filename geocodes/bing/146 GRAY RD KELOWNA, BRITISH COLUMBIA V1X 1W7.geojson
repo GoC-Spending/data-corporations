@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "146 Gray Rd, Kelowna, BC V1X 1W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82bf89d90911458a94f3fbc82e08ab6f|BN20130423|7.7.0.0|",
+				"addressLine": "146 Gray Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "146 Gray Rd, Kelowna, BC V1X 1W7, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Rutland",
+				"postalCode": "V1X 1W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.3876935,
+					49.8881395
+				]
+			},
+			"bbox": [
+				-119.3894383,
+				49.8870153,
+				-119.3859487,
+				49.8892637
+			]
+		}
+	]
+}

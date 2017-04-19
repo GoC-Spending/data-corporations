@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "47 Castle Park Blvd, Woodbridge, ON L4H 1V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "672fb3b2e8354c34b25af62ce53cae07|BN20130442|7.7.0.0|",
+				"addressLine": "47 Castle Park Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "47 Castle Park Blvd, Woodbridge, ON L4H 1V3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4H 1V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60953,
+					43.82239
+				]
+			},
+			"bbox": [
+				-79.6110881,
+				43.8212658,
+				-79.6079719,
+				43.8235142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "541 Twin Brooks Bay NW, Edmonton, AB T6J 6X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b3dc1d498814f8d9fd3b1643aab0e1a|BN20190642|7.7.0.0|",
+				"addressLine": "541 Twin Brooks Bay NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "541 Twin Brooks Bay NW, Edmonton, AB T6J 6X3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Twin Brooks",
+				"postalCode": "T6J 6X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53247,
+					53.44285
+				]
+			},
+			"bbox": [
+				-113.5343574,
+				53.4417258,
+				-113.5305826,
+				53.4439742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "297 S Service Rd W, Grimsby, ON L3M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0ac4188f48f41b5ae3ccf77dfcbc72e|BN20130621|7.7.0.0|",
+				"addressLine": "297 S Service Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "297 S Service Rd W, Grimsby, ON L3M, Canada",
+				"locality": "Grimsby",
+				"postalCode": "L3M 1Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58327,
+					43.20287
+				]
+			},
+			"bbox": [
+				-79.5848122,
+				43.2017458,
+				-79.5817278,
+				43.2039942
+			]
+		}
+	]
+}

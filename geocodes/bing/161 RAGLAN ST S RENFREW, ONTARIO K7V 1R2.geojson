@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "161 Raglan St S, Renfrew, ON K7V 1R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "772458c7b589468c8cf54df86b89d839|BN20250135|7.7.0.0|",
+				"addressLine": "161 Raglan St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "161 Raglan St S, Renfrew, ON K7V 1R2, Canada",
+				"locality": "Renfrew",
+				"postalCode": "K7V 1R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.684655,
+					45.472555
+				]
+			},
+			"bbox": [
+				-76.6862581,
+				45.4714308,
+				-76.683052,
+				45.4736791
+			]
+		}
+	]
+}

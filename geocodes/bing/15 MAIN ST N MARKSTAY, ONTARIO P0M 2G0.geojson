@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Main St N, Markstay-Warren, ON P0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44f57cef285d4206b9c78264966b0784|BN20200137|7.7.0.0|",
+				"addressLine": "15 Main St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Main St N, Markstay-Warren, ON P0M, Canada",
+				"locality": "Markstay-Warren",
+				"neighborhood": "Markstay",
+				"postalCode": "P0M 2G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5425426,
+					46.4953225
+				]
+			},
+			"bbox": [
+				-80.5441756,
+				46.4941984,
+				-80.5409096,
+				46.4964467
+			]
+		}
+	]
+}

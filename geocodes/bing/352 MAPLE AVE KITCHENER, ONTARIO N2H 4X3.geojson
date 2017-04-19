@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "352 Maple Ave, Kitchener, ON N2H 4X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec3a9947480740b2ac997645ddd803b2|BN20240253|7.7.0.0|",
+				"addressLine": "352 Maple Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "352 Maple Ave, Kitchener, ON N2H 4X3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Northward",
+				"postalCode": "N2H 4X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.48005,
+					43.47005
+				]
+			},
+			"bbox": [
+				-80.481599,
+				43.4689258,
+				-80.478501,
+				43.4711742
+			]
+		}
+	]
+}

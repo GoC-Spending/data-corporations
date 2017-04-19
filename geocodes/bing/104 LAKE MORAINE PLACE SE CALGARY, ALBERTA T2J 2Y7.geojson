@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 Lake Moraine Pl SE, Calgary, AB T2J 2Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b94ec802fc564fe8a75f3ced0586d592|BN20300154|7.7.0.0|",
+				"addressLine": "104 Lake Moraine Pl SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 Lake Moraine Pl SE, Calgary, AB T2J 2Y7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Lake Bonavista",
+				"postalCode": "T2J 2Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06099,
+					50.9413
+				]
+			},
+			"bbox": [
+				-114.062774,
+				50.9401758,
+				-114.059206,
+				50.9424242
+			]
+		}
+	]
+}

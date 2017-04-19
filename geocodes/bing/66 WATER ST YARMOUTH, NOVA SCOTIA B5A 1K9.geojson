@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "66 Water St, Yarmouth, NS B5A 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bafbba50e28e406db65c09e8a106e028|BN20320521|7.7.0.0|",
+				"addressLine": "66 Water St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Yarmouth",
+				"countryRegion": "Canada",
+				"formattedAddress": "66 Water St, Yarmouth, NS B5A 1K9, Canada",
+				"locality": "Yarmouth",
+				"postalCode": "B5A 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1220948,
+					43.8342052
+				]
+			},
+			"bbox": [
+				-66.1236532,
+				43.8330811,
+				-66.1205364,
+				43.8353294
+			]
+		}
+	]
+}

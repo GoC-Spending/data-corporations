@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3245 Finch Ave E, Scarborough, ON M1W 4C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "985fc82d98404571a43df5468c24c5d1|BN20130533|7.7.0.0|",
+				"addressLine": "3245 Finch Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3245 Finch Ave E, Scarborough, ON M1W 4C1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "L'Amoreaux",
+				"postalCode": "M1W 4C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3199999,
+					43.79534
+				]
+			},
+			"bbox": [
+				-79.3215573,
+				43.7942158,
+				-79.3184425,
+				43.7964642
+			]
+		}
+	]
+}

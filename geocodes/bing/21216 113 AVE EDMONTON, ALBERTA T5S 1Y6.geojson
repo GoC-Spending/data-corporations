@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21216 113 Ave NW, Edmonton, AB T5S 1Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee8d2167402c42a281f9158b6726dc6a|BN20130620|7.7.0.0|",
+				"addressLine": "21216 113 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "21216 113 Ave NW, Edmonton, AB T5S 1Y6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Winterburn Industrial Area East",
+				"postalCode": "T5S 1Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6835,
+					53.56242
+				]
+			},
+			"bbox": [
+				-113.6853927,
+				53.5612958,
+				-113.6816073,
+				53.5635442
+			]
+		}
+	]
+}

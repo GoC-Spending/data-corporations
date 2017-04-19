@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "126 Water St, Port Perry, ON L9L 1B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8497a3cf4c847c088a518d0432d5a88|BN20200239|7.7.0.0|",
+				"addressLine": "126 Water St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "126 Water St, Port Perry, ON L9L 1B9, Canada",
+				"locality": "Scugog",
+				"neighborhood": "Port Perry",
+				"postalCode": "L9L 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94163,
+					44.10403
+				]
+			},
+			"bbox": [
+				-78.9431955,
+				44.1029058,
+				-78.9400645,
+				44.1051542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Clark St, Kapuskasing, ON P5N 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99c05adc67c3409f921f774b532a99a7|BN20130621|7.7.0.0|",
+				"addressLine": "33 Clark St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Clark St, Kapuskasing, ON P5N 1L3, Canada",
+				"locality": "Kapuskasing",
+				"postalCode": "P5N 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.43653,
+					49.4273499
+				]
+			},
+			"bbox": [
+				-82.4382584,
+				49.4262257,
+				-82.4348016,
+				49.4284741
+			]
+		}
+	]
+}

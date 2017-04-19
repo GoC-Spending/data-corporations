@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Pooler Ave, Ottawa, ON K2B 5A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c45097137c154bea8e7e27799d25f3f7|BN20130423|7.7.0.0|",
+				"addressLine": "100 Pooler Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Pooler Ave, Ottawa, ON K2B 5A5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Woodroofe-Lincoln Heights",
+				"postalCode": "K2B 5A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.77733,
+					45.37712
+				]
+			},
+			"bbox": [
+				-75.7789304,
+				45.3759958,
+				-75.7757296,
+				45.3782442
+			]
+		}
+	]
+}

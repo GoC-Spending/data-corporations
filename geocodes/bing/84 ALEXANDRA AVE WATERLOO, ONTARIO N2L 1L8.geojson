@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "84 Alexandra Ave, Waterloo, ON N2L 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6272833678b940ee952556d9dd85cc17|BN20260223|7.7.0.0|",
+				"addressLine": "84 Alexandra Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "84 Alexandra Ave, Waterloo, ON N2L 1L8, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52664,
+					43.45964
+				]
+			},
+			"bbox": [
+				-80.5281887,
+				43.4585158,
+				-80.5250913,
+				43.4607642
+			]
+		}
+	]
+}

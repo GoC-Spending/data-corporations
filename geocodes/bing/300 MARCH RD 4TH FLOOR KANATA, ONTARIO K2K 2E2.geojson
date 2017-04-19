@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 March Rd, Kanata, ON K2K 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "146fb55ea86f4004b0ad027cc9a4c487|BN20130521|7.7.0.0|",
+				"addressLine": "300 March Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 March Rd, Kanata, ON K2K 2E2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.90601,
+					45.33588
+				]
+			},
+			"bbox": [
+				-75.9076092,
+				45.3347558,
+				-75.9044108,
+				45.3370042
+			]
+		}
+	]
+}

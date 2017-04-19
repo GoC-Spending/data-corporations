@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3838 Main St, Vancouver, BC V5V 3N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e029f8df905046e39704c23985d1c6db|BN20130721|7.7.0.0|",
+				"addressLine": "3838 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3838 Main St, Vancouver, BC V5V 3N9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5V 3N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1008651,
+					49.2508028
+				]
+			},
+			"bbox": [
+				-123.1025873,
+				49.2496786,
+				-123.0991429,
+				49.2519269
+			]
+		}
+	]
+}

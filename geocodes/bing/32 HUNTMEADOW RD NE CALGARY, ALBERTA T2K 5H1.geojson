@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Huntmeadow Rd NE, Calgary, AB T2K 5H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ceaaf75fdd0c469aa1302f015008636a|BN20260231|7.7.0.0|",
+				"addressLine": "32 Huntmeadow Rd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Huntmeadow Rd NE, Calgary, AB T2K 5H1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Huntington Hills",
+				"postalCode": "T2K 5H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05533,
+					51.11556
+				]
+			},
+			"bbox": [
+				-114.0571208,
+				51.1144358,
+				-114.0535392,
+				51.1166842
+			]
+		}
+	]
+}

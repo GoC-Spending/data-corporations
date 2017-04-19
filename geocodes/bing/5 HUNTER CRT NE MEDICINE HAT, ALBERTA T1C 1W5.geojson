@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Hunter Ct NE, Medicine Hat, AB T1C 1W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c514e3fa64d9409ab75b79c574a03eba|BN20130521|7.7.0.0|",
+				"addressLine": "5 Hunter Ct NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Hunter Ct NE, Medicine Hat, AB T1C 1W5, Canada",
+				"locality": "Medicine Hat",
+				"postalCode": "T1C 1W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.6777,
+					50.0631
+				]
+			},
+			"bbox": [
+				-110.6794512,
+				50.0619758,
+				-110.6759488,
+				50.0642242
+			]
+		}
+	]
+}

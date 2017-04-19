@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Yellowknife, X1A 3T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4c3e9c4e0f54eb98c517cee4e8b4236|BN20260223|7.7.0.0|",
+				"adminDistrict": "NT",
+				"countryRegion": "Canada",
+				"formattedAddress": "Yellowknife, X1A 3T2, Canada",
+				"locality": "Yellowknife",
+				"postalCode": "X1A 3T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.405006408691,
+					62.4447288513184
+				]
+			},
+			"bbox": [
+				-114.416138227834,
+				62.4408661337477,
+				-114.393874589548,
+				62.448591568889
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Airport",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Yellowknife Airport, Northwest Territories, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4c3e9c4e0f54eb98c517cee4e8b4236|BN20260223|7.7.0.0|",
+				"adminDistrict": "NT",
+				"countryRegion": "Canada",
+				"formattedAddress": "Yellowknife Airport, Northwest Territories, Canada",
+				"locality": "Yellowknife"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.432548522949,
+					62.4697914123535
+				]
+			},
+			"bbox": [
+				-114.443689681352,
+				62.4659286947828,
+				-114.421407364546,
+				62.4736541299242
+			]
+		}
+	]
+}

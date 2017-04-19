@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "136 The East Mall, Toronto, ON M8Z, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "daf0940da8fd480488e61a1b19e66477|BN20130634|7.7.0.0|",
+				"addressLine": "136 The East Mall",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "136 The East Mall, Toronto, ON M8Z, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 5V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.55007,
+					43.62278
+				]
+			},
+			"bbox": [
+				-79.5516229,
+				43.6216558,
+				-79.5485171,
+				43.6239042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "676 Grand Lake Rd, Sydney, NS B1P 5T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60fd7b4e7ce14c32b250a758797fe60a|BN20130620|7.7.0.0|",
+				"addressLine": "676 Grand Lake Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "676 Grand Lake Rd, Sydney, NS B1P 5T6, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 5T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.14647,
+					46.14663
+				]
+			},
+			"bbox": [
+				-60.1480926,
+				46.1455058,
+				-60.1448474,
+				46.1477542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "518 174 St SW, Edmonton, AB T6W 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0e894d08bfb64bf4a6b8a84468a2aa89|BN20130620|7.7.0.0|",
+				"addressLine": "518 174 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "518 174 St SW, Edmonton, AB T6W 2A7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Windermere",
+				"postalCode": "T6W 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.620826,
+					53.4315572
+				]
+			},
+			"bbox": [
+				-113.6227129,
+				53.4304331,
+				-113.6189392,
+				53.4326814
+			]
+		}
+	]
+}

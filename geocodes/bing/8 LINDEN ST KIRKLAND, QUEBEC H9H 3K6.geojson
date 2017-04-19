@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Rue Linden, Kirkland, QC H9H 3K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98eef9c31b9645dd83e3215d30ff5445|BN20200137|7.7.0.0|",
+				"addressLine": "8 Rue Linden",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Rue Linden, Kirkland, QC H9H 3K6, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9H 3K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.86038,
+					45.46107
+				]
+			},
+			"bbox": [
+				-73.8619827,
+				45.4599458,
+				-73.8587773,
+				45.4621942
+			]
+		}
+	]
+}

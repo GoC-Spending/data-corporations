@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4005 2nd Ave, Burnaby, BC V5C 3X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "025b2222396547ffa7eb88f39ec11ccf|BN20130520|7.7.0.0|",
+				"addressLine": "4005 2nd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4005 2nd Ave, Burnaby, BC V5C 3X1, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 3X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0160044,
+					49.2685743
+				]
+			},
+			"bbox": [
+				-123.0177272,
+				49.2674501,
+				-123.0142816,
+				49.2696984
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "590 Brunswick St, Fredericton, NB E3B 1H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea5842d6382549fcb599dc228d894b3c|BN20190642|7.7.0.0|",
+				"addressLine": "590 Brunswick St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "590 Brunswick St, Fredericton, NB E3B 1H5, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.64068,
+					45.95919
+				]
+			},
+			"bbox": [
+				-66.6422971,
+				45.9580658,
+				-66.6390629,
+				45.9603142
+			]
+		}
+	]
+}

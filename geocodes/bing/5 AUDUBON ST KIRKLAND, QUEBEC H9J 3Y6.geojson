@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Rue Audubon, Kirkland, QC H9J 3Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abd384626ed24b59aa00ec9b86ff357f|BN20130530|7.7.0.0|",
+				"addressLine": "5 Rue Audubon",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Rue Audubon, Kirkland, QC H9J 3Y6, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9J 3Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.88601,
+					45.44972
+				]
+			},
+			"bbox": [
+				-73.8876124,
+				45.4485958,
+				-73.8844076,
+				45.4508442
+			]
+		}
+	]
+}

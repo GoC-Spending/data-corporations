@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "480 Railway St, Southampton, ON N0H 2L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2eee32a25d034dcfbd3656a088c32772|BN20200137|7.7.0.0|",
+				"addressLine": "480 Railway St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "480 Railway St, Southampton, ON N0H 2L0, Canada",
+				"locality": "Saugeen Shores",
+				"neighborhood": "Southampton",
+				"postalCode": "N0H 2L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.372043,
+					44.4778623
+				]
+			},
+			"bbox": [
+				-81.3736185,
+				44.4767381,
+				-81.3704675,
+				44.4789864
+			]
+		}
+	]
+}

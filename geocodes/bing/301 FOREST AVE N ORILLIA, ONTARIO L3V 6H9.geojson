@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "301 Forest Ave N, Orillia, ON L3V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b397ea9cca61476499cdd6c6bf793012|BN20130634|7.7.0.0|",
+				"addressLine": "301 Forest Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "301 Forest Ave N, Orillia, ON L3V, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 6H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3976419,
+					44.6063702
+				]
+			},
+			"bbox": [
+				-79.3992209,
+				44.6052461,
+				-79.396063,
+				44.6074944
+			]
+		}
+	]
+}

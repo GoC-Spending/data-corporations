@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6310 202 St, Langley, BC V2Y 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fadec025f8c84e95af09fda744b5c88b|BN20280152|7.7.0.0|",
+				"addressLine": "6310 202 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6310 202 St, Langley, BC V2Y 1N2, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V2Y 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6632,
+					49.11709
+				]
+			},
+			"bbox": [
+				-122.6649175,
+				49.1159658,
+				-122.6614825,
+				49.1182142
+			]
+		}
+	]
+}

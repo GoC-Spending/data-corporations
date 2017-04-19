@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "685 Mt Pleasant Rd, Toronto, ON M4S 2N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e512d8bef8346c5825ebb82ad1e27e2|BN20130631|7.7.0.0|",
+				"addressLine": "685 Mt Pleasant Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "685 Mt Pleasant Rd, Toronto, ON M4S 2N2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38889,
+					43.7059
+				]
+			},
+			"bbox": [
+				-79.3904451,
+				43.7047758,
+				-79.3873349,
+				43.7070242
+			]
+		}
+	]
+}

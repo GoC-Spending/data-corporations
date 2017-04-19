@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "348 Yonge St, Toronto, ON M5B 1S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "458d363124454475aba01bf2e0f8aea0|BN20260231|7.7.0.0|",
+				"addressLine": "348 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "348 Yonge St, Toronto, ON M5B 1S5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5B 1S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3819,
+					43.6580299
+				]
+			},
+			"bbox": [
+				-79.3834538,
+				43.6569057,
+				-79.3803462,
+				43.6591541
+			]
+		}
+	]
+}

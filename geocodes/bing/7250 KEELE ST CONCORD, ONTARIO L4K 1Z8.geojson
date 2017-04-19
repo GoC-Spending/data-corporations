@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7250 Keele St, Concord, ON L4K 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab1d090ed27c49f291cb30c30462501e|BN20130447|7.7.0.0|",
+				"addressLine": "7250 Keele St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "7250 Keele St, Concord, ON L4K 1Z8, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49795,
+					43.7872
+				]
+			},
+			"bbox": [
+				-79.4995072,
+				43.7860758,
+				-79.4963928,
+				43.7883242
+			]
+		}
+	]
+}

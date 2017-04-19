@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Station Rd, Halifax, NS B0J 1T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "909576d9ab6141b5bf0bef779f0b3bd1|BN20130632|7.7.0.0|",
+				"addressLine": "33 Station Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Station Rd, Halifax, NS B0J 1T0, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Hubbards",
+				"postalCode": "B0J 1T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.0635858,
+					44.6404843
+				]
+			},
+			"bbox": [
+				-64.0651657,
+				44.6393602,
+				-64.0620059,
+				44.6416085
+			]
+		}
+	]
+}

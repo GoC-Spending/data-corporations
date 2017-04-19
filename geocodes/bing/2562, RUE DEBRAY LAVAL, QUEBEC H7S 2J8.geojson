@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2562 Rue Debray, Laval, QC H7S 2J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64f4a9c48071454a96a446add0466f1e|BN20200239|7.7.0.0|",
+				"addressLine": "2562 Rue Debray",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2562 Rue Debray, Laval, QC H7S 2J8, Canada",
+				"locality": "Laval",
+				"postalCode": "H7S 2J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7407,
+					45.57776
+				]
+			},
+			"bbox": [
+				-73.7423061,
+				45.5766358,
+				-73.7390939,
+				45.5788842
+			]
+		}
+	]
+}

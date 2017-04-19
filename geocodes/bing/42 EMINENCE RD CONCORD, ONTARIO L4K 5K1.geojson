@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Emminence Rd, Vaughan, ON L4K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8e1e7f7fb4042748cb5d04e185808c7|BN20190653|7.7.0.0|",
+				"addressLine": "42 Emminence Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Emminence Rd, Vaughan, ON L4K, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 5K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48447,
+					43.8334
+				]
+			},
+			"bbox": [
+				-79.4860284,
+				43.8322758,
+				-79.4829116,
+				43.8345242
+			]
+		}
+	]
+}

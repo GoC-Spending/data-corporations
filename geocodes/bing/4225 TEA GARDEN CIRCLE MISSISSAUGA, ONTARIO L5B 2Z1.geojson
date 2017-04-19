@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4225 Tea Garden Cir, Mississauga, ON L5B 2Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc6fa68a6b4f4dee9ba03648ab03881e|BN20130522|7.7.0.0|",
+				"addressLine": "4225 Tea Garden Cir",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "4225 Tea Garden Cir, Mississauga, ON L5B 2Z1, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5B 2Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.65346,
+					43.58153
+				]
+			},
+			"bbox": [
+				-79.6550119,
+				43.5804058,
+				-79.6519081,
+				43.5826542
+			]
+		}
+	]
+}

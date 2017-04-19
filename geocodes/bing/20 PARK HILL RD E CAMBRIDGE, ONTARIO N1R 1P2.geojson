@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Park Hill Rd E, Cambridge, ON N1R 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a0fd03392c444fab3ff448299ea29ca|BN20130631|7.7.0.0|",
+				"addressLine": "20 Park Hill Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Park Hill Rd E, Cambridge, ON N1R 1P2, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Downtown Cambridge",
+				"postalCode": "N1R 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3145399,
+					43.36366
+				]
+			},
+			"bbox": [
+				-80.3160862,
+				43.3625358,
+				-80.3129936,
+				43.3647842
+			]
+		}
+	]
+}

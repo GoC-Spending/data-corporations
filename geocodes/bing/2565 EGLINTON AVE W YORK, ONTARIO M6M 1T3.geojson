@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2565 Eglinton Ave W, York, ON M6M 1T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc977bdd496e4ee2b5b4f3e71191419e|BN20130522|7.7.0.0|",
+				"addressLine": "2565 Eglinton Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2565 Eglinton Ave W, York, ON M6M 1T3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Keelesdale-Eglinton West",
+				"postalCode": "M6M 1T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47311,
+					43.69038
+				]
+			},
+			"bbox": [
+				-79.4746647,
+				43.6892558,
+				-79.4715553,
+				43.6915042
+			]
+		}
+	]
+}

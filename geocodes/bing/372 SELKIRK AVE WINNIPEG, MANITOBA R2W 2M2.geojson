@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "372 Selkirk Ave, Winnipeg, MB R2W 2M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61f24cd7d8bd4ae7b211e378f9af0d91|BN20181720|7.7.0.0|",
+				"addressLine": "372 Selkirk Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "372 Selkirk Ave, Winnipeg, MB R2W 2M2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Lord Selkirk Park",
+				"postalCode": "R2W 2M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14005,
+					49.9138
+				]
+			},
+			"bbox": [
+				-97.1417957,
+				49.9126758,
+				-97.1383043,
+				49.9149242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4200 Midland Ave, Scarborough, ON M1V 4S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3aadf860609c43b28b9e39a21939226b|BN20300154|7.7.0.0|",
+				"addressLine": "4200 Midland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4200 Midland Ave, Scarborough, ON M1V 4S6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 4S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29721,
+					43.82436
+				]
+			},
+			"bbox": [
+				-79.2987681,
+				43.8232358,
+				-79.2956519,
+				43.8254842
+			]
+		}
+	]
+}

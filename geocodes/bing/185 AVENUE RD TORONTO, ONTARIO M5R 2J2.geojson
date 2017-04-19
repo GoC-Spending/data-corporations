@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "185 Avenue Rd, Toronto, ON M5R 2J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7001ad3f3bb4a9891fd7643a19de4b7|BN20130533|7.7.0.0|",
+				"addressLine": "185 Avenue Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "185 Avenue Rd, Toronto, ON M5R 2J2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 2J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39649,
+					43.6752899
+				]
+			},
+			"bbox": [
+				-79.3980443,
+				43.6741657,
+				-79.3949357,
+				43.6764141
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1500 Don Mills Rd, North York, ON M3B 3L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "817f9c860b8d44c3960c45fa71ffd46c|BN20190642|7.7.0.0|",
+				"addressLine": "1500 Don Mills Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1500 Don Mills Rd, North York, ON M3B 3L1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 3L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34756,
+					43.75523
+				]
+			},
+			"bbox": [
+				-79.3491163,
+				43.7541058,
+				-79.3460037,
+				43.7563542
+			]
+		}
+	]
+}

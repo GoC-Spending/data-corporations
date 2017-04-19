@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 John Savage Ave, Dartmouth, NS B3B 2C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd892a8f3aab4394af9f87a1249b0415|BN20260223|7.7.0.0|",
+				"addressLine": "31 John Savage Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 John Savage Ave, Dartmouth, NS B3B 2C9, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3B 2C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57965,
+					44.71655
+				]
+			},
+			"bbox": [
+				-63.581232,
+				44.7154258,
+				-63.578068,
+				44.7176742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "941 Progress Ave, Scarborough, ON M1G 3T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "544f101473a149139b1a898d83167e9b|BN20130620|7.7.0.0|",
+				"addressLine": "941 Progress Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "941 Progress Ave, Scarborough, ON M1G 3T8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woburn",
+				"postalCode": "M1G 3T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2316149,
+					43.78415
+				]
+			},
+			"bbox": [
+				-79.233172,
+				43.7830259,
+				-79.2300578,
+				43.7852742
+			]
+		}
+	]
+}

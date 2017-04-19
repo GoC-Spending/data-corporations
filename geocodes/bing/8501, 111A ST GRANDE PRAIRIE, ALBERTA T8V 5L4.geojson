@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8501 111A St, Grande Prairie, AB T8V 5L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54afe424a31546bc9d338258bdc075c9|BN20280152|7.7.0.0|",
+				"addressLine": "8501 111A St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8501 111A St, Grande Prairie, AB T8V 5L4, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Richmond Industrial Park",
+				"postalCode": "T8V 5L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.83101,
+					55.15729
+				]
+			},
+			"bbox": [
+				-118.8329776,
+				55.1561658,
+				-118.8290424,
+				55.1584142
+			]
+		}
+	]
+}

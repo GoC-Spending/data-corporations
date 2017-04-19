@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Broadway St, Tillsonburg, ON N4G 5A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31d9091de17d4351972edaafa744e518|BN20190642|7.7.0.0|",
+				"addressLine": "200 Broadway St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Broadway St, Tillsonburg, ON N4G 5A7, Canada",
+				"locality": "Tillsonburg",
+				"postalCode": "N4G 5A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7292448,
+					42.8621932
+				]
+			},
+			"bbox": [
+				-80.7307785,
+				42.8610691,
+				-80.7277112,
+				42.8633174
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "367 Spadina Rd, Toronto, ON M5P 2V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab7750ea264b48adbba537ece95ab4d7|BN20131519|7.7.0.0|",
+				"addressLine": "367 Spadina Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "367 Spadina Rd, Toronto, ON M5P 2V7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Casa Loma",
+				"postalCode": "M5P 2V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41182,
+					43.68705
+				]
+			},
+			"bbox": [
+				-79.4133746,
+				43.6859258,
+				-79.4102654,
+				43.6881742
+			]
+		}
+	]
+}

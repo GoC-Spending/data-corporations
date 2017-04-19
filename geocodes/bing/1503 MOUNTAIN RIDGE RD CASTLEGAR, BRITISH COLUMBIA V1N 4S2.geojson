@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1503 Columbia Ave, Castlegar, BC V1N 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa9d74aa079c4e90b7372005790fbcd0|BN20200239|7.7.0.0|",
+				"addressLine": "1503 Columbia Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "1503 Columbia Ave, Castlegar, BC V1N 1H8, Canada",
+				"locality": "Castlegar",
+				"postalCode": "V1N 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.6583086,
+					49.3061913
+				]
+			},
+			"bbox": [
+				-117.6600327,
+				49.3050672,
+				-117.6565844,
+				49.3073155
+			]
+		}
+	]
+}

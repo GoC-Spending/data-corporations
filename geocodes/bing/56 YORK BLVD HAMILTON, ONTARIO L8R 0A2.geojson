@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 York Blvd, Hamilton, ON L8R 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e8c1401abdb48988985fa711dc7c9e5|BN20130431|7.7.0.0|",
+				"addressLine": "56 York Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 York Blvd, Hamilton, ON L8R 0A2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Central Hamilton",
+				"postalCode": "L8R 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.87043,
+					43.25952
+				]
+			},
+			"bbox": [
+				-79.8719736,
+				43.2583958,
+				-79.8688864,
+				43.2606442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5080 George St, Halifax, NS B3J 1M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6535d9a851d948d681122961e1393db0|BN20130423|7.7.0.0|",
+				"addressLine": "5080 George St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5080 George St, Halifax, NS B3J 1M4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Downtown Halifax",
+				"postalCode": "B3J 1M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57169,
+					44.64912
+				]
+			},
+			"bbox": [
+				-63.5732701,
+				44.6479958,
+				-63.5701099,
+				44.6502442
+			]
+		}
+	]
+}

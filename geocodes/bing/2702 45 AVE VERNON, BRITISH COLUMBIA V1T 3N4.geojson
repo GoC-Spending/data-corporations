@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2702 45th Ave, Vernon, BC V1T 3N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "44cee288b4c54cafaded8db4b0a48685|BN20130447|7.7.0.0|",
+				"addressLine": "2702 45th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2702 45th Ave, Vernon, BC V1T 3N4, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 3N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.2669006,
+					50.2776651
+				]
+			},
+			"bbox": [
+				-119.2686596,
+				50.2765409,
+				-119.2651415,
+				50.2787893
+			]
+		}
+	]
+}

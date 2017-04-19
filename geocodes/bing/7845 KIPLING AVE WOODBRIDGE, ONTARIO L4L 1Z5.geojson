@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7845 Kipling Ave, Woodbridge, ON L4L 1Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8585611ca1ce4f618ed1bb1fa9093065|BN20290118|7.7.0.0|",
+				"addressLine": "7845 Kipling Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "7845 Kipling Ave, Woodbridge, ON L4L 1Z4, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 1Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5974899,
+					43.7811
+				]
+			},
+			"bbox": [
+				-79.5990469,
+				43.7799758,
+				-79.5959329,
+				43.7822242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "830 Seymour St, Kamloops, BC V2C 2H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ce75facad5fe4c229d704a173c2015dd|BN20130631|7.7.0.0|",
+				"addressLine": "830 Seymour St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "830 Seymour St, Kamloops, BC V2C 2H5, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "City Center",
+				"postalCode": "V2C 2H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.3208,
+					50.67509
+				]
+			},
+			"bbox": [
+				-120.3225739,
+				50.6739658,
+				-120.3190261,
+				50.6762142
+			]
+		}
+	]
+}

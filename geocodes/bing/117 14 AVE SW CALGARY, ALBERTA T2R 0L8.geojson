@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "117 14 Ave SW, Calgary, AB T2R 0L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "542d4d9e25304096893d4abb3bf345aa|BN20130719|7.7.0.0|",
+				"addressLine": "117 14 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "117 14 Ave SW, Calgary, AB T2R 0L8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Beltline",
+				"postalCode": "T2R 0L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06438,
+					51.03927
+				]
+			},
+			"bbox": [
+				-114.0661678,
+				51.0381458,
+				-114.0625922,
+				51.0403942
+			]
+		}
+	]
+}

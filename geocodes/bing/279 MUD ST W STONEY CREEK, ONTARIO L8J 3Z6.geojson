@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "279 Mud St W, Stoney Creek, ON L8J 3Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7ba67dbdb3b4c698ad2b513e97ff661|BN20130532|7.7.0.0|",
+				"addressLine": "279 Mud St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "279 Mud St W, Stoney Creek, ON L8J 3Z6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8J 3Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8030822,
+					43.1962533
+				]
+			},
+			"bbox": [
+				-79.8046242,
+				43.1951292,
+				-79.8015401,
+				43.1973775
+			]
+		}
+	]
+}

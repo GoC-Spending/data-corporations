@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 McCormick St, Ottawa, ON K1Y 1M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b43068db8d44eae96500bbed482ed78|BN20130447|7.7.0.0|",
+				"addressLine": "1 McCormick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 McCormick St, Ottawa, ON K1Y 1M4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hintonburg-Mechanicsville",
+				"postalCode": "K1Y 1M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7275929,
+					45.4022374
+				]
+			},
+			"bbox": [
+				-75.729194,
+				45.4011132,
+				-75.7259918,
+				45.4033615
+			]
+		}
+	]
+}

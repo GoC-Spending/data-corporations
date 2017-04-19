@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "147 Liberty St, Toronto, ON M6K 3G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3270d52691d44edf888bdca27d3004c3|BN20130719|7.7.0.0|",
+				"addressLine": "147 Liberty St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "147 Liberty St, Toronto, ON M6K 3G3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Parkdale",
+				"postalCode": "M6K 3G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4244499,
+					43.63742
+				]
+			},
+			"bbox": [
+				-79.4260032,
+				43.6362958,
+				-79.4228966,
+				43.6385442
+			]
+		}
+	]
+}

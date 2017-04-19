@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Prada Ct, Brampton, ON L6P 2K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dbbb7c99908648f7a6d89512139fa7d3|BN20220145|7.7.0.0|",
+				"addressLine": "15 Prada Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Prada Ct, Brampton, ON L6P 2K1, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Castlemore",
+				"postalCode": "L6P 2K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75257,
+					43.78712
+				]
+			},
+			"bbox": [
+				-79.7541272,
+				43.7859958,
+				-79.7510128,
+				43.7882442
+			]
+		}
+	]
+}

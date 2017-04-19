@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30440 S Fraser Way, Abbotsford, BC V2T 6L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7479a38db49e4c8a807f2689aa952968|BN20130721|7.7.0.0|",
+				"addressLine": "30440 S Fraser Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "30440 S Fraser Way, Abbotsford, BC V2T 6L4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2T 6L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3769113,
+					49.0531351
+				]
+			},
+			"bbox": [
+				-122.3786267,
+				49.052011,
+				-122.375196,
+				49.0542593
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1950 Montreal Rd, Cornwall, ON K6H 6L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89b1d75decca447b94b7f02a5909448d|BN20130530|7.7.0.0|",
+				"addressLine": "1950 Montreal Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "1950 Montreal Rd, Cornwall, ON K6H 6L2, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6H 6L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.6837565,
+					45.0250909
+				]
+			},
+			"bbox": [
+				-74.685347,
+				45.0239667,
+				-74.682166,
+				45.026215
+			]
+		}
+	]
+}

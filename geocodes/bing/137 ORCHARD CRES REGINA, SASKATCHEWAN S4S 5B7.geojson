@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "137 Orchard Cres, Regina, SK S4S 5B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5cfc15d826044e8a3ba030c2210637d|BN20300154|7.7.0.0|",
+				"addressLine": "137 Orchard Cres",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "137 Orchard Cres, Regina, SK S4S 5B7, Canada",
+				"locality": "Regina",
+				"neighborhood": "Whitmore Park",
+				"postalCode": "S4S 5B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.60374,
+					50.402
+				]
+			},
+			"bbox": [
+				-104.6055037,
+				50.4008758,
+				-104.6019763,
+				50.4031242
+			]
+		}
+	]
+}

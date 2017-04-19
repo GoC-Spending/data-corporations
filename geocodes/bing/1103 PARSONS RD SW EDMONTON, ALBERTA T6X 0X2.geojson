@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1103 Parsons Rd SW, Edmonton, AB T6X 0X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93b73355c2fe4be3a68b779a029e0c04|BN20130530|7.7.0.0|",
+				"addressLine": "1103 Parsons Rd SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1103 Parsons Rd SW, Edmonton, AB T6X 0X2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ellerslie Industrial",
+				"postalCode": "T6X 0X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4784,
+					53.42196
+				]
+			},
+			"bbox": [
+				-113.4802864,
+				53.4208358,
+				-113.4765136,
+				53.4230842
+			]
+		}
+	]
+}

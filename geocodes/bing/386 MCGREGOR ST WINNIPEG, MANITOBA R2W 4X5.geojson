@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "386 McGregor St, Winnipeg, MB R2W 4X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e52f892cdf5d44ee9ab7bd8bc6cad9f5|BN20190653|7.7.0.0|",
+				"addressLine": "386 McGregor St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "386 McGregor St, Winnipeg, MB R2W 4X5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster-Faraday",
+				"postalCode": "R2W 4X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14367,
+					49.92434
+				]
+			},
+			"bbox": [
+				-97.1454161,
+				49.9232158,
+				-97.1419239,
+				49.9254642
+			]
+		}
+	]
+}

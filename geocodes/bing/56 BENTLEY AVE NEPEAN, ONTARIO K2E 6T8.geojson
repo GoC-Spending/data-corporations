@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 Bentley Ave, Nepean, ON K2E 6T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca43e1825b764165a765f441c57cd846|BN20121762|7.7.0.0|",
+				"addressLine": "56 Bentley Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 Bentley Ave, Nepean, ON K2E 6T8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 6T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71695,
+					45.33328
+				]
+			},
+			"bbox": [
+				-75.7185491,
+				45.3321558,
+				-75.7153509,
+				45.3344042
+			]
+		}
+	]
+}

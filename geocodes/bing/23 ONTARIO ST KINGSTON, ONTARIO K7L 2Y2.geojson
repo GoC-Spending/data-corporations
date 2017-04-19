@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Ontario St, Kingston, ON K7L 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4bf1b03774dc48c2a4a19f743f3f7dfa|BN20160335|7.7.0.0|",
+				"addressLine": "23 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Ontario St, Kingston, ON K7L 2Y2, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Sydenham",
+				"postalCode": "K7L 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.48474,
+					44.22413
+				]
+			},
+			"bbox": [
+				-76.4863087,
+				44.2230058,
+				-76.4831713,
+				44.2252542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 Dickins St, Yellowknife, NT X1A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d22e1e805aa452cb8d8db23c8f01d16|BN20190653|7.7.0.0|",
+				"addressLine": "106 Dickins St",
+				"adminDistrict": "NT",
+				"adminDistrict2": "Northwest Territories",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 Dickins St, Yellowknife, NT X1A, Canada",
+				"locality": "Yellowknife",
+				"postalCode": "X1A 2R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.4148478,
+					62.4644514
+				]
+			},
+			"bbox": [
+				-114.4172795,
+				62.4633273,
+				-114.4124162,
+				62.4655756
+			]
+		}
+	]
+}

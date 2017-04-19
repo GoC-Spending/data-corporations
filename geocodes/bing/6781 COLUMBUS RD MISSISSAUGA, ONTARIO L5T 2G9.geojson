@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6781 Columbus Rd, Mississauga, ON L5T 2G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd21afd45c5c4c8687a4166afb3e23a4|BN20130625|7.7.0.0|",
+				"addressLine": "6781 Columbus Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6781 Columbus Rd, Mississauga, ON L5T 2G9, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5T 2G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67141,
+					43.66762
+				]
+			},
+			"bbox": [
+				-79.6729641,
+				43.6664958,
+				-79.6698559,
+				43.6687442
+			]
+		}
+	]
+}

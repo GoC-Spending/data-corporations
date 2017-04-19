@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2255 Coral Reef Pl, Vancouver, BC V5P 4T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6197cda7214c4b62bec3e3563d853683|BN20181720|7.7.0.0|",
+				"addressLine": "2255 Coral Reef Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2255 Coral Reef Pl, Vancouver, BC V5P 4T3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Victoria-Fraserview",
+				"postalCode": "V5P 4T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0608311,
+					49.2067127
+				]
+			},
+			"bbox": [
+				-123.0625518,
+				49.2055886,
+				-123.0591105,
+				49.2078369
+			]
+		}
+	]
+}

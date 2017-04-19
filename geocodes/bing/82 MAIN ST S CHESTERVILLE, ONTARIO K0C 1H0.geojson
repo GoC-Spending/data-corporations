@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Main St S, North Dundas, ON K0C 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b7f7b0a19e04c9799bd26d8dc04a40d|BN20280152|7.7.0.0|",
+				"addressLine": "82 Main St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Main St S, North Dundas, ON K0C 1A0, Canada",
+				"locality": "North Dundas",
+				"neighborhood": "Chesterville",
+				"postalCode": "K0C 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.2267859,
+					45.0990639
+				]
+			},
+			"bbox": [
+				-75.2283784,
+				45.0979398,
+				-75.2251933,
+				45.1001881
+			]
+		}
+	]
+}

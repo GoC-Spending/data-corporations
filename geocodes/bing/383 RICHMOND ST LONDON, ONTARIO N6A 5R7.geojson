@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "383 Richmond St, London, ON N6A 3C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d77daf2b222e4a9eac9d1db37958a4ad|BN20130632|7.7.0.0|",
+				"addressLine": "383 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "383 Richmond St, London, ON N6A 3C4, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 3C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2495,
+					42.9827
+				]
+			},
+			"bbox": [
+				-81.2510367,
+				42.9815758,
+				-81.2479633,
+				42.9838242
+			]
+		}
+	]
+}

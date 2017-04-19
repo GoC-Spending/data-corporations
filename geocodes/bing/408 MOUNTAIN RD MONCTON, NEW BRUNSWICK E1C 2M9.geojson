@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "408 Mountain Rd, Moncton, NB E1C 2M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "badc9645570b44f1840ec3d63953a63d|BN20130620|7.7.0.0|",
+				"addressLine": "408 Mountain Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "408 Mountain Rd, Moncton, NB E1C 2M9, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 2M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.79241,
+					46.09622
+				]
+			},
+			"bbox": [
+				-64.7940311,
+				46.0950958,
+				-64.7907889,
+				46.0973442
+			]
+		}
+	]
+}

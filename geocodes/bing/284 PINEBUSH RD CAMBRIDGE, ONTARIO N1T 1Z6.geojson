@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "284 Pinebush Rd, Cambridge, ON N1T 1Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "644787bf9b584f81b5f6384412d46f51|BN20160335|7.7.0.0|",
+				"addressLine": "284 Pinebush Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "284 Pinebush Rd, Cambridge, ON N1T 1Z6, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Fiddlesticks",
+				"postalCode": "N1T 1Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3014306,
+					43.4128563
+				]
+			},
+			"bbox": [
+				-80.3029781,
+				43.4117322,
+				-80.299883,
+				43.4139805
+			]
+		}
+	]
+}

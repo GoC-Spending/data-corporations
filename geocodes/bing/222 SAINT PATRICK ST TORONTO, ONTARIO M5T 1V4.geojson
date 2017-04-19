@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "222 St Patrick St, Toronto, ON M5T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5befcb79e17149c3a711d8aa8cbd7392|BN20160335|7.7.0.0|",
+				"addressLine": "222 St Patrick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "222 St Patrick St, Toronto, ON M5T, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kensington-Chinatown",
+				"postalCode": "M5T 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39117,
+					43.65572
+				]
+			},
+			"bbox": [
+				-79.3927238,
+				43.6545958,
+				-79.3896162,
+				43.6568442
+			]
+		}
+	]
+}

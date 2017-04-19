@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1220 Knockan Pl, Saanich, BC V8Z 7L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10bfdba99d1a44d9bcc57ea1aebc9f9c|BN20130442|7.7.0.0|",
+				"addressLine": "1220 Knockan Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1220 Knockan Pl, Saanich, BC V8Z 7L5, Canada",
+				"locality": "Saanich",
+				"postalCode": "V8Z 7L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.41341,
+					48.4707999
+				]
+			},
+			"bbox": [
+				-123.4151055,
+				48.4696757,
+				-123.4117145,
+				48.4719241
+			]
+		}
+	]
+}

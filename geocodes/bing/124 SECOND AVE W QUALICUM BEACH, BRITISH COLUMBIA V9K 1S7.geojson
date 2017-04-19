@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 2nd Ave W, Qualicum Beach, BC V9K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "34c5ff68b2684758a25f77d864d1d021|BN20130533|7.7.0.0|",
+				"addressLine": "124 2nd Ave W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 2nd Ave W, Qualicum Beach, BC V9K, Canada",
+				"locality": "Qualicum Beach",
+				"postalCode": "V9K 1S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.44305,
+					49.34693
+				]
+			},
+			"bbox": [
+				-124.4447755,
+				49.3458058,
+				-124.4413245,
+				49.3480542
+			]
+		}
+	]
+}

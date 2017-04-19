@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "809 Wellington St N, Kitchener, ON N2H 5L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d80ea0ac28374559bacfa2b404510aa4|BN20290118|7.7.0.0|",
+				"addressLine": "809 Wellington St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "809 Wellington St N, Kitchener, ON N2H 5L6, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Northward",
+				"postalCode": "N2H 5L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.47563,
+					43.46282
+				]
+			},
+			"bbox": [
+				-80.4771788,
+				43.4616958,
+				-80.4740812,
+				43.4639442
+			]
+		}
+	]
+}

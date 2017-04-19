@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13234 17A Ave, Surrey, BC V4A 6R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1166575e39534d76af6dd2792e9d9bcf|BN20130719|7.7.0.0|",
+				"addressLine": "13234 17A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "13234 17A Ave, Surrey, BC V4A 6R9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V4A 6R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8561961,
+					49.0343501
+				]
+			},
+			"bbox": [
+				-122.8579108,
+				49.0332259,
+				-122.8544815,
+				49.0354742
+			]
+		}
+	]
+}

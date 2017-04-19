@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "599 Wabanaki Dr, Kitchener, ON N2C 2G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f8b589ef97949b7b2cc786931573525|BN20260223|7.7.0.0|",
+				"addressLine": "599 Wabanaki Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "599 Wabanaki Dr, Kitchener, ON N2C 2G3, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Trillium Industrial Park",
+				"postalCode": "N2C 2G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.44481,
+					43.40793
+				]
+			},
+			"bbox": [
+				-80.4463574,
+				43.4068058,
+				-80.4432626,
+				43.4090542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4840 Duncliffe Rd, Richmond, BC V7E 3N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c5efb4a685a46918140c814a9c45acb|BN20171457|7.7.0.0|",
+				"addressLine": "4840 Duncliffe Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4840 Duncliffe Rd, Richmond, BC V7E 3N1, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Steveston",
+				"postalCode": "V7E 3N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17091,
+					49.12717
+				]
+			},
+			"bbox": [
+				-123.1726279,
+				49.1260458,
+				-123.1691921,
+				49.1282942
+			]
+		}
+	]
+}

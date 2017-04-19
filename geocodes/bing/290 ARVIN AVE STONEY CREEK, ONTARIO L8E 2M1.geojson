@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "290 Arvin Ave, Stoney Creek, ON L8E 2M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15465135b8e94ef28a4fba4f73c95481|BN20131519|7.7.0.0|",
+				"addressLine": "290 Arvin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "290 Arvin Ave, Stoney Creek, ON L8E 2M1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 2M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7273172,
+					43.2317193
+				]
+			},
+			"bbox": [
+				-79.7288601,
+				43.2305951,
+				-79.7257743,
+				43.2328434
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "180 Wyatt Rd, Winnipeg, MB R2X 2X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8b0a8b440e64b0f994bc1274c94f112|BN20130631|7.7.0.0|",
+				"addressLine": "180 Wyatt Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "180 Wyatt Rd, Winnipeg, MB R2X 2X6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18365,
+					49.9476
+				]
+			},
+			"bbox": [
+				-97.185397,
+				49.9464758,
+				-97.181903,
+				49.9487242
+			]
+		}
+	]
+}

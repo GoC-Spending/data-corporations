@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "955 Rue Michelin, Laval, QC H7L 5B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30c6e52fff3243b09c6c7e943e24d163|BN20130721|7.7.0.0|",
+				"addressLine": "955 Rue Michelin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "955 Rue Michelin, Laval, QC H7L 5B6, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74235,
+					45.5935
+				]
+			},
+			"bbox": [
+				-73.7439565,
+				45.5923758,
+				-73.7407435,
+				45.5946242
+			]
+		}
+	]
+}

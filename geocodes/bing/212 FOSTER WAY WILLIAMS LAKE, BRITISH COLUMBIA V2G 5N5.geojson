@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "212 Foster Way, Williams Lake, BC V2G 5N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be49a7fffddd44e3b87df2335f8b4ac0|BN20130520|7.7.0.0|",
+				"addressLine": "212 Foster Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cariboo",
+				"countryRegion": "Canada",
+				"formattedAddress": "212 Foster Way, Williams Lake, BC V2G 5N5, Canada",
+				"locality": "Williams Lake",
+				"postalCode": "V2G 5N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.1595957,
+					52.1206494
+				]
+			},
+			"bbox": [
+				-122.1614266,
+				52.1195253,
+				-122.1577649,
+				52.1217736
+			]
+		}
+	]
+}

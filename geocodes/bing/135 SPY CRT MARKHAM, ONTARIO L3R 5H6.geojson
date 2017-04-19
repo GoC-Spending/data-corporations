@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Spy Ct, Markham, ON L3R 5H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6ca45df2f0d48c8b6509e213d37942d|BN20130442|7.7.0.0|",
+				"addressLine": "135 Spy Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Spy Ct, Markham, ON L3R 5H6, Canada",
+				"locality": "Markham",
+				"neighborhood": "Buttonville",
+				"postalCode": "L3R 5H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35429,
+					43.85587
+				]
+			},
+			"bbox": [
+				-79.355849,
+				43.8547458,
+				-79.352731,
+				43.8569942
+			]
+		}
+	]
+}

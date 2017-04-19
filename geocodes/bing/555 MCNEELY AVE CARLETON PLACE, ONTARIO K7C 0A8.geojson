@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "555 McNeely Ave, Carleton Place, ON K7C 0A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a28a07cd9fcd47e3adb7495344c95d55|BN20121764|7.7.0.0|",
+				"addressLine": "555 McNeely Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "555 McNeely Ave, Carleton Place, ON K7C 0A8, Canada",
+				"locality": "Carleton Place",
+				"postalCode": "K7C 0A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1188026,
+					45.1313476
+				]
+			},
+			"bbox": [
+				-76.120396,
+				45.1302235,
+				-76.1172091,
+				45.1324718
+			]
+		}
+	]
+}

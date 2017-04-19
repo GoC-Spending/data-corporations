@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "547 Clarke Rd, London, ON N5V 2E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56dcb023c9634d078993a191aedfdeb5|BN20130522|7.7.0.0|",
+				"addressLine": "547 Clarke Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "547 Clarke Rd, London, ON N5V 2E1, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5V 2E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1798,
+					43.0105999
+				]
+			},
+			"bbox": [
+				-81.1813373,
+				43.0094757,
+				-81.1782627,
+				43.0117241
+			]
+		}
+	]
+}

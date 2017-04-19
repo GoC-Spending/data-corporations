@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "657 Ingram Cres, Gloucester, ON K1J 7A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e1c164d76874b39981f15a6cc3b9b2a|BN20131519|7.7.0.0|",
+				"addressLine": "657 Ingram Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "657 Ingram Cres, Gloucester, ON K1J 7A7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1J 7A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.59883,
+					45.45753
+				]
+			},
+			"bbox": [
+				-75.6004326,
+				45.4564058,
+				-75.5972274,
+				45.4586542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "109 Church St, Sydney Mines, NS B1V 2S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a2ff20aaa2d145c68f1e53fb08715204|BN20130521|7.7.0.0|",
+				"addressLine": "109 Church St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "109 Church St, Sydney Mines, NS B1V 2S3, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney Mines",
+				"postalCode": "B1V 2S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.2154,
+					46.24329
+				]
+			},
+			"bbox": [
+				-60.2170254,
+				46.2421658,
+				-60.2137746,
+				46.2444142
+			]
+		}
+	]
+}

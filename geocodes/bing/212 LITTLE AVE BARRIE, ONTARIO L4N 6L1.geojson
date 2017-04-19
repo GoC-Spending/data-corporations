@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "212 Little Ave, Barrie, ON L4N 6L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b977f25415f48ecb048e3379f8428fe|BN20130520|7.7.0.0|",
+				"addressLine": "212 Little Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "212 Little Ave, Barrie, ON L4N 6L1, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Allandale Heights",
+				"postalCode": "L4N 6L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67389,
+					44.36433
+				]
+			},
+			"bbox": [
+				-79.6754624,
+				44.3632058,
+				-79.6723176,
+				44.3654542
+			]
+		}
+	]
+}

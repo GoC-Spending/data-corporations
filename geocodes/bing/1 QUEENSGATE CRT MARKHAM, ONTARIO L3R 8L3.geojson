@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Queensgate Ct, Markham, ON L3R 8L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d867cec1b5e4a4f9c229308acce8415|BN20130620|7.7.0.0|",
+				"addressLine": "1 Queensgate Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Queensgate Ct, Markham, ON L3R 8L3, Canada",
+				"locality": "Markham",
+				"neighborhood": "Unionville",
+				"postalCode": "L3R 8L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34738,
+					43.8646699
+				]
+			},
+			"bbox": [
+				-79.3489392,
+				43.8635457,
+				-79.3458208,
+				43.8657941
+			]
+		}
+	]
+}

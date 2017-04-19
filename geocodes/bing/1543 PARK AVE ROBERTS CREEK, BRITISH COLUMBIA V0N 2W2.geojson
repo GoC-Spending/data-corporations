@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1543 Park Ave, Roberts Creek, BC V0N 2W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f6c1a9a6d36451fbac5dca9eb39ee51|BN20240423|7.7.0.0|",
+				"addressLine": "1543 Park Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "1543 Park Ave, Roberts Creek, BC V0N 2W2, Canada",
+				"locality": "Sunshine Coast",
+				"neighborhood": "Roberts Creek",
+				"postalCode": "V0N 2W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.67458,
+					49.4378699
+				]
+			},
+			"bbox": [
+				-123.6763087,
+				49.4367457,
+				-123.6728513,
+				49.4389941
+			]
+		}
+	]
+}

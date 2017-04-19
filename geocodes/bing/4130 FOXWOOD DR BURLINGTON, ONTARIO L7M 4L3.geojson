@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4130 Foxwood Dr, Burlington, ON L7M 4L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05b0712a5a494f23af821927501df384|BN20121764|7.7.0.0|",
+				"addressLine": "4130 Foxwood Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "4130 Foxwood Dr, Burlington, ON L7M 4L3, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Tansley",
+				"postalCode": "L7M 4L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.79307,
+					43.37685
+				]
+			},
+			"bbox": [
+				-79.7946166,
+				43.3757258,
+				-79.7915234,
+				43.3779742
+			]
+		}
+	]
+}

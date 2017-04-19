@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "589 Cannon St E, Hamilton, ON L8L 2G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63104767567142dbb298b814f8e5596b|BN20130532|7.7.0.0|",
+				"addressLine": "589 Cannon St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "589 Cannon St E, Hamilton, ON L8L 2G6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Gibson",
+				"postalCode": "L8L 2G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83892,
+					43.2538399
+				]
+			},
+			"bbox": [
+				-79.8404635,
+				43.2527157,
+				-79.8373765,
+				43.2549641
+			]
+		}
+	]
+}

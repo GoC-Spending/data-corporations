@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 River St E, Moose Jaw, SK S6H 0A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55f54a7909834407838ea528a5abbacc|BN20200137|7.7.0.0|",
+				"addressLine": "32 River St E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 River St E, Moose Jaw, SK S6H 0A8, Canada",
+				"locality": "Moose Jaw",
+				"postalCode": "S6H 0A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.5326863,
+					50.3904951
+				]
+			},
+			"bbox": [
+				-105.5344495,
+				50.389371,
+				-105.530923,
+				50.3916193
+			]
+		}
+	]
+}

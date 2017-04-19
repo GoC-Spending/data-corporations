@@ -1,0 +1,44 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "MacLeod Trl SW, Calgary, AB T2H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76597d2caf5d451c9e5dd43129388406|BN20130423|7.7.0.0|",
+				"addressLine": "MacLeod Trl SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "MacLeod Trl SW, Calgary, AB T2H, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2H 0M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.07148,
+					51.00201
+				]
+			},
+			"bbox": [
+				-114.07148,
+				50.99431,
+				-114.06773,
+				51.00866
+			]
+		}
+	]
+}

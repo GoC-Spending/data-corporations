@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17215 Leslie St, Newmarket, ON L3Y 8E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6d147e0bed44bc4bba906190f5da169|BN20130532|7.7.0.0|",
+				"addressLine": "17215 Leslie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "17215 Leslie St, Newmarket, ON L3Y 8E4, Canada",
+				"locality": "Newmarket",
+				"postalCode": "L3Y 8E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4297799,
+					44.05937
+				]
+			},
+			"bbox": [
+				-79.4313442,
+				44.0582458,
+				-79.4282156,
+				44.0604942
+			]
+		}
+	]
+}

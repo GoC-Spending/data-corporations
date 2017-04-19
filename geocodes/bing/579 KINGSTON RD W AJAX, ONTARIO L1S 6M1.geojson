@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "579 Kingston Rd W, Ajax, ON L1S 6M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f1c0c7a3ad1a42d3bd0d04452fffc1b7|BN20131519|7.7.0.0|",
+				"addressLine": "579 Kingston Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "579 Kingston Rd W, Ajax, ON L1S 6M1, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1S 6M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0546543,
+					43.854575
+				]
+			},
+			"bbox": [
+				-79.0562132,
+				43.8534508,
+				-79.0530953,
+				43.8556991
+			]
+		}
+	]
+}

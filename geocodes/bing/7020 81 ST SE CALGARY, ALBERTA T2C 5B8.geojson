@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7020 81 St SE, Calgary, AB T2C 5B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "480d462ed22445e5a62669aafec7c868|BN20130521|7.7.0.0|",
+				"addressLine": "7020 81 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7020 81 St SE, Calgary, AB T2C 5B8, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2C 5B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9171112,
+					50.9887355
+				]
+			},
+			"bbox": [
+				-113.9188971,
+				50.9876114,
+				-113.9153254,
+				50.9898597
+			]
+		}
+	]
+}

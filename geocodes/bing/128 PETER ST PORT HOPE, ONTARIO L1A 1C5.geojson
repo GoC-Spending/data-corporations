@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "128 Peter St, Port Hope, ON L1A 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7583c12bd00f4df48ff02e000478a033|BN20181720|7.7.0.0|",
+				"addressLine": "128 Peter St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "128 Peter St, Port Hope, ON L1A 1C4, Canada",
+				"locality": "Port Hope",
+				"postalCode": "L1A 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.28262,
+					43.9510099
+				]
+			},
+			"bbox": [
+				-78.2841815,
+				43.9498857,
+				-78.2810585,
+				43.9521341
+			]
+		}
+	]
+}

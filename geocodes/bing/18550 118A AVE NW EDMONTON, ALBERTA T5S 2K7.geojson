@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18550 118A Ave NW, Edmonton, AB T5S 2K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20a49ac474d9442181aff7a371a9aab6|BN20290118|7.7.0.0|",
+				"addressLine": "18550 118A Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "18550 118A Ave NW, Edmonton, AB T5S 2K7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "White Industrial",
+				"postalCode": "T5S 2K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.64559,
+					53.57172
+				]
+			},
+			"bbox": [
+				-113.6474831,
+				53.5705958,
+				-113.6436969,
+				53.5728442
+			]
+		}
+	]
+}

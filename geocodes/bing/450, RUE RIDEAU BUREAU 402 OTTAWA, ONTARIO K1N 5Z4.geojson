@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "450 Rue Rideau, Ottawa, ON K1N 5Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64ab5a2bdd9b49f99ce5fbadba0a6d77|BN20130634|7.7.0.0|",
+				"addressLine": "450 Rue Rideau",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "450 Rue Rideau, Ottawa, ON K1N 5Z4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lower Town",
+				"postalCode": "K1N 5Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68037,
+					45.43072
+				]
+			},
+			"bbox": [
+				-75.6819719,
+				45.4295958,
+				-75.6787681,
+				45.4318442
+			]
+		}
+	]
+}

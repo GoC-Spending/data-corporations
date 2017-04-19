@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Carson Ct, Brampton, ON L6T 4P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "33d1165379f941009f4c73c4b7a28b0b|BN20130530|7.7.0.0|",
+				"addressLine": "6 Carson Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Carson Ct, Brampton, ON L6T 4P8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68683,
+					43.73049
+				]
+			},
+			"bbox": [
+				-79.6883857,
+				43.7293658,
+				-79.6852743,
+				43.7316142
+			]
+		}
+	]
+}

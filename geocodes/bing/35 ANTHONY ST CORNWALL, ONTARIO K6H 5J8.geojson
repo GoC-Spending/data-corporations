@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Anthony St, Cornwall, ON K6H 5J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47ca2208c7904f6f9cf282491e65118c|BN20121762|7.7.0.0|",
+				"addressLine": "35 Anthony St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Anthony St, Cornwall, ON K6H 5J8, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6H 5J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.69096,
+					45.02335
+				]
+			},
+			"bbox": [
+				-74.6925504,
+				45.0222258,
+				-74.6893696,
+				45.0244742
+			]
+		}
+	]
+}

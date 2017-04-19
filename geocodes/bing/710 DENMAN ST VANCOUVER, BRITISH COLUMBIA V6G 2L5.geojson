@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "710 Denman St, Vancouver, BC V6G 2L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "829c8f3e3e2242d6b58cbe1f2ae71ea0|BN20250135|7.7.0.0|",
+				"addressLine": "710 Denman St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "710 Denman St, Vancouver, BC V6G 2L5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West End",
+				"postalCode": "V6G 2L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.134461,
+					49.2919557
+				]
+			},
+			"bbox": [
+				-123.1361846,
+				49.2908316,
+				-123.1327373,
+				49.2930799
+			]
+		}
+	]
+}

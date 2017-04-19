@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "398 Dover Rd, Dieppe, NB E1A 7L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "47156241d6604497b99a8db650d02474|BN20130631|7.7.0.0|",
+				"addressLine": "398 Dover Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "398 Dover Rd, Dieppe, NB E1A 7L6, Canada",
+				"locality": "Dieppe",
+				"postalCode": "E1A 7L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.68309,
+					46.04921
+				]
+			},
+			"bbox": [
+				-64.6847097,
+				46.0480858,
+				-64.6814703,
+				46.0503342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Hodsman Rd, Regina, SK S4N 5X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "392a534331534b8eaaa3a11eaca4af4e|BN20130423|7.7.0.0|",
+				"addressLine": "130 Hodsman Rd",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Hodsman Rd, Regina, SK S4N 5X4, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 5X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.57884,
+					50.47887
+				]
+			},
+			"bbox": [
+				-104.5806065,
+				50.4777458,
+				-104.5770735,
+				50.4799942
+			]
+		}
+	]
+}

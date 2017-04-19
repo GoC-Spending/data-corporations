@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 E Wilmot St, Richmond Hill, ON L4B 1C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "71f8d277e6a1426fa5ed917b581920de|BN20121764|7.7.0.0|",
+				"addressLine": "20 E Wilmot St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 E Wilmot St, Richmond Hill, ON L4B 1C8, Canada",
+				"locality": "Richmond Hill",
+				"postalCode": "L4B 1C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3820489,
+					43.8534154
+				]
+			},
+			"bbox": [
+				-79.3836078,
+				43.8522912,
+				-79.38049,
+				43.8545396
+			]
+		}
+	]
+}

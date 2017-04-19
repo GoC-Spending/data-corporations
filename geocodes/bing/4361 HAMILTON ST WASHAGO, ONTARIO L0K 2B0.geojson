@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4361 Hamilton St, Severn, ON L0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "621124e23f3f453bbcc699b11d826199|BN20130532|7.7.0.0|",
+				"addressLine": "4361 Hamilton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "4361 Hamilton St, Severn, ON L0K, Canada",
+				"locality": "Severn",
+				"neighborhood": "Washago",
+				"postalCode": "L0K 2B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33451,
+					44.75056
+				]
+			},
+			"bbox": [
+				-79.3360929,
+				44.7494358,
+				-79.3329271,
+				44.7516842
+			]
+		}
+	]
+}

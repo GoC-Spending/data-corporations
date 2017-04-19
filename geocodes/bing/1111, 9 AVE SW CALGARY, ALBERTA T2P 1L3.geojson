@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1111 9 Ave SW, Calgary, AB T2P 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58e3425779ba4819b5d0fee47bfc206e|BN20130533|7.7.0.0|",
+				"addressLine": "1111 9 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1111 9 Ave SW, Calgary, AB T2P 1L3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Downtown West End",
+				"postalCode": "T2P 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0866311,
+					51.0451302
+				]
+			},
+			"bbox": [
+				-114.0884191,
+				51.044006,
+				-114.0848431,
+				51.0462543
+			]
+		}
+	]
+}

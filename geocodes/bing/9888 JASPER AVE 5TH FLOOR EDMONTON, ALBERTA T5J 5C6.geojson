@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9888 Jasper Ave NW, Edmonton, AB T5J 5C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9e28a7f479f43aebf33fe3714dca242|BN20130620|7.7.0.0|",
+				"addressLine": "9888 Jasper Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9888 Jasper Ave NW, Edmonton, AB T5J 5C6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 5C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48823,
+					53.54158
+				]
+			},
+			"bbox": [
+				-113.4901217,
+				53.5404558,
+				-113.4863383,
+				53.5427042
+			]
+		}
+	]
+}

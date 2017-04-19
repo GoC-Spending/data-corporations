@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12846 146 St NW, Edmonton, AB T5L 2H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "794b76308806411e9a9b9d56420117f1|BN20130442|7.7.0.0|",
+				"addressLine": "12846 146 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12846 146 St NW, Edmonton, AB T5L 2H7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Bonaventure Industrial",
+				"postalCode": "T5L 2H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57247,
+					53.58658
+				]
+			},
+			"bbox": [
+				-113.5743638,
+				53.5854558,
+				-113.5705762,
+				53.5877042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9578 111 Ave NW, Edmonton, AB T5G 0A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4c6f0a68b026401a95afd1f214a4d868|BN20121763|7.7.0.0|",
+				"addressLine": "9578 111 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9578 111 Ave NW, Edmonton, AB T5G 0A7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Alberta Avenue",
+				"postalCode": "T5G 0A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48989,
+					53.55941
+				]
+			},
+			"bbox": [
+				-113.4917825,
+				53.5582858,
+				-113.4879975,
+				53.5605342
+			]
+		}
+	]
+}

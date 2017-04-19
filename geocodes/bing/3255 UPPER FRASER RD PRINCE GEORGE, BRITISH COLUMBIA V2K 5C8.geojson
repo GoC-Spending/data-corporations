@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3255 Upper Fraser Rd, Prince George, BC V2K 5C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a2d1165195ba478ea46101880be8f1a2|BN20130431|7.7.0.0|",
+				"addressLine": "3255 Upper Fraser Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "3255 Upper Fraser Rd, Prince George, BC V2K 5C8, Canada",
+				"locality": "Fraser-Fort George",
+				"neighborhood": "Prince George",
+				"postalCode": "V2K 5C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.49549,
+					53.9581
+				]
+			},
+			"bbox": [
+				-122.4974006,
+				53.9569758,
+				-122.4935794,
+				53.9592242
+			]
+		}
+	]
+}

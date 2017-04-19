@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 James St, Antigonish, NS B2G 1R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63640190520e4c0196bc4cc29fd21b82|BN20290118|7.7.0.0|",
+				"addressLine": "21 James St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Antigonish",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 James St, Antigonish, NS B2G 1R6, Canada",
+				"locality": "Antigonish",
+				"postalCode": "B2G 1R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.0016176,
+					45.6157074
+				]
+			},
+			"bbox": [
+				-62.0032247,
+				45.6145833,
+				-62.0000104,
+				45.6168316
+			]
+		}
+	]
+}

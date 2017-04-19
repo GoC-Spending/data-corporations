@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "595 Bay St, Toronto, ON M5G 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d0ddbc8723645bfbafd0b8692200cab|BN20260223|7.7.0.0|",
+				"addressLine": "595 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "595 Bay St, Toronto, ON M5G 2C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5G 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38326,
+					43.65621
+				]
+			},
+			"bbox": [
+				-79.3848138,
+				43.6550858,
+				-79.3817062,
+				43.6573342
+			]
+		}
+	]
+}

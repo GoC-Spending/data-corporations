@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11345 104 Ave, Grande Prairie, AB T8V 0N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ff83c7bda40426c9ad83ab9d1f0258c|BN20121762|7.7.0.0|",
+				"addressLine": "11345 104 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11345 104 Ave, Grande Prairie, AB T8V 0N7, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Westgate",
+				"postalCode": "T8V 0N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.83556,
+					55.17322
+				]
+			},
+			"bbox": [
+				-118.8375284,
+				55.1720958,
+				-118.8335916,
+				55.1743442
+			]
+		}
+	]
+}

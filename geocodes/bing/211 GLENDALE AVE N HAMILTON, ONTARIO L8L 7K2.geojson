@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "211 Glendale Ave N, Hamilton, ON L8L 7K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2186652aca049368b6f887a85b6ece2|BN20250135|7.7.0.0|",
+				"addressLine": "211 Glendale Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "211 Glendale Ave N, Hamilton, ON L8L 7K2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Crown Point West",
+				"postalCode": "L8L 7K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82396,
+					43.25141
+				]
+			},
+			"bbox": [
+				-79.8255034,
+				43.2502858,
+				-79.8224166,
+				43.2525342
+			]
+		}
+	]
+}

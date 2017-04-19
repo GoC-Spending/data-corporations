@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "651 Edinburgh Dr, Moncton, NB E1E 4E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ef2ee4bd7b54717b44d2d1efec5a3bc|BN20130442|7.7.0.0|",
+				"addressLine": "651 Edinburgh Dr",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "651 Edinburgh Dr, Moncton, NB E1E 4E3, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1E 4E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.84265,
+					46.09076
+				]
+			},
+			"bbox": [
+				-64.8442709,
+				46.0896358,
+				-64.8410291,
+				46.0918842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24249 River Rd, Tache, MB R0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a2926045e111488e9159e834ade42131|BN20130533|7.7.0.0|",
+				"addressLine": "24249 River Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "24249 River Rd, Tache, MB R0A, Canada",
+				"locality": "Tache",
+				"neighborhood": "Lorette",
+				"postalCode": "R0A 0Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.9017973,
+					49.7373818
+				]
+			},
+			"bbox": [
+				-96.9035367,
+				49.7362576,
+				-96.9000579,
+				49.7385059
+			]
+		}
+	]
+}

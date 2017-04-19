@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1704 Bradley Ave SW, Calgary, AB T2W 0Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3334470e40784bdaa303897042eb2ef1|BN20160335|7.7.0.0|",
+				"addressLine": "1704 Bradley Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1704 Bradley Ave SW, Calgary, AB T2W 0Z7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Braeside",
+				"postalCode": "T2W 0Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.09924,
+					50.95882
+				]
+			},
+			"bbox": [
+				-114.1010247,
+				50.9576958,
+				-114.0974553,
+				50.9599442
+			]
+		}
+	]
+}

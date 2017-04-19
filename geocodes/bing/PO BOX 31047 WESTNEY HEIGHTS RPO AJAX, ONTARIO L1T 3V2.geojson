@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Ajax, L1T 3V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8cbea6256b31487aa38cda94b3d2e154|BN20130422|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ajax, L1T 3V2, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1T 3V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0210723876953,
+					43.8507614135742
+				]
+			},
+			"bbox": [
+				-79.0282137312033,
+				43.8468986960035,
+				-79.0139310441873,
+				43.8546241311449
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Perry, GA 31047",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8cbea6256b31487aa38cda94b3d2e154|BN20130422|7.7.0.0|",
+				"adminDistrict": "GA",
+				"adminDistrict2": "Houston",
+				"countryRegion": "United States",
+				"formattedAddress": "Perry, GA 31047",
+				"locality": "Perry",
+				"postalCode": "31047"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.6579284667969,
+					32.503734588623
+				]
+			},
+			"bbox": [
+				-83.7216873168945,
+				32.3730316162109,
+				-83.4825668334961,
+				32.5483283996582
+			]
+		}
+	]
+}

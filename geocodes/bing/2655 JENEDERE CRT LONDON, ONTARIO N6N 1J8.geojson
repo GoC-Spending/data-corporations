@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2655 Jenedere Ct, London, ON N6N 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3fb0dffbd19e44988ce06c8b788da64d|BN20200239|7.7.0.0|",
+				"addressLine": "2655 Jenedere Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2655 Jenedere Ct, London, ON N6N 1J8, Canada",
+				"locality": "London",
+				"neighborhood": "Brockley",
+				"postalCode": "N6N 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.19272,
+					42.91122
+				]
+			},
+			"bbox": [
+				-81.1942549,
+				42.9100958,
+				-81.1911851,
+				42.9123442
+			]
+		}
+	]
+}

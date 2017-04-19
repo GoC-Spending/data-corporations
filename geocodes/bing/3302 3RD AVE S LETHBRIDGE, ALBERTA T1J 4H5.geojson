@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3302 3 Ave S, Lethbridge, AB T1J 4H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "33d4bcd83eaf48e687361a51231e41e6|BN20130634|7.7.0.0|",
+				"addressLine": "3302 3 Ave S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3302 3 Ave S, Lethbridge, AB T1J 4H5, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1J 4H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.7906937,
+					49.6959551
+				]
+			},
+			"bbox": [
+				-112.7924316,
+				49.6948309,
+				-112.7889558,
+				49.6970793
+			]
+		}
+	]
+}

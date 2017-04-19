@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "526 Crawford St, Toronto, ON M6G 3J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9b82b7c422f14be296636d6f97faa673|BN20121763|7.7.0.0|",
+				"addressLine": "526 Crawford St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "526 Crawford St, Toronto, ON M6G 3J8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6G 3J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4205099,
+					43.65828
+				]
+			},
+			"bbox": [
+				-79.4220637,
+				43.6571558,
+				-79.4189561,
+				43.6594042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8210 McIntyre Rd NW, Edmonton, AB T6E 5C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32215eef804141b196f08ddf7ae9b761|BN20290118|7.7.0.0|",
+				"addressLine": "8210 McIntyre Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8210 McIntyre Rd NW, Edmonton, AB T6E 5C4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "McIntyre Industrial",
+				"postalCode": "T6E 5C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.44832,
+					53.4946
+				]
+			},
+			"bbox": [
+				-113.4502097,
+				53.4934758,
+				-113.4464303,
+				53.4957242
+			]
+		}
+	]
+}

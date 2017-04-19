@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "53 Courtland Ave, Concord, ON L4K 3T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e388d4f405e46a787fbd2d511ae60eb|BN20121762|7.7.0.0|",
+				"addressLine": "53 Courtland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "53 Courtland Ave, Concord, ON L4K 3T2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 3T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53092,
+					43.81384
+				]
+			},
+			"bbox": [
+				-79.5324779,
+				43.8127158,
+				-79.5293621,
+				43.8149642
+			]
+		}
+	]
+}

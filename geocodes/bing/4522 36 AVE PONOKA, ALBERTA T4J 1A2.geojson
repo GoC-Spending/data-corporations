@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4522 36 Ave, Ponoka, AB T4J 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8136f4bd5c67497280c5af0525b37bc0|BN20210145|7.7.0.0|",
+				"addressLine": "4522 36 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4522 36 Ave, Ponoka, AB T4J 1A2, Canada",
+				"locality": "Ponoka",
+				"postalCode": "T4J 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57267,
+					52.66436
+				]
+			},
+			"bbox": [
+				-113.5745236,
+				52.6632358,
+				-113.5708164,
+				52.6654842
+			]
+		}
+	]
+}

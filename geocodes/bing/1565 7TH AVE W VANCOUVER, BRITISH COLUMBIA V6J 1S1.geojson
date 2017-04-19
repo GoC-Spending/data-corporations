@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1565 W 7th Ave, Vancouver, BC V6J 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9b43a946d1a47caa4a82de865df80e5|BN20130442|7.7.0.0|",
+				"addressLine": "1565 W 7th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1565 W 7th Ave, Vancouver, BC V6J 1S1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "South Granville",
+				"postalCode": "V6J 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.140374,
+					49.2655243
+				]
+			},
+			"bbox": [
+				-123.1420967,
+				49.2644001,
+				-123.1386513,
+				49.2666484
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2546 Iona Rd, Belfast, PE C0A 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "902c26cc8947485ca93ecb377bd73be2|BN20121762|7.7.0.0|",
+				"addressLine": "2546 Iona Rd",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "2546 Iona Rd, Belfast, PE C0A 1A0, Canada",
+				"locality": "Queens",
+				"neighborhood": "Belfast",
+				"postalCode": "C0A 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.85304,
+					46.08928
+				]
+			},
+			"bbox": [
+				-62.8546609,
+				46.0881558,
+				-62.8514191,
+				46.0904042
+			]
+		}
+	]
+}

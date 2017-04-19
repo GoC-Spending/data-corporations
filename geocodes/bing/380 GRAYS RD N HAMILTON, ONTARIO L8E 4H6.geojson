@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "380 Grays Rd, Hamilton, ON L8E 4H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74de601a89bb4ce5b2bbb741e01f85b1|BN20160335|7.7.0.0|",
+				"addressLine": "380 Grays Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "380 Grays Rd, Hamilton, ON L8E 4H6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 4H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73831,
+					43.23439
+				]
+			},
+			"bbox": [
+				-79.739853,
+				43.2332658,
+				-79.736767,
+				43.2355142
+			]
+		}
+	]
+}

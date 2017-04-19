@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Main St E, Hamilton, ON L8N 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ebc4d1a379514af2a6e2764426b73ffe|BN20171457|7.7.0.0|",
+				"addressLine": "105 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Main St E, Hamilton, ON L8N 1G6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Beasley",
+				"postalCode": "L8N 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8653248,
+					43.254488
+				]
+			},
+			"bbox": [
+				-79.8668682,
+				43.2533639,
+				-79.8637813,
+				43.2556122
+			]
+		}
+	]
+}

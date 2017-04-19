@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 W Pender St, Vancouver, BC V6B 1R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d3fd75dfa3a4cc491db54ec3d578963|BN20260231|7.7.0.0|",
+				"addressLine": "81 W Pender St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 W Pender St, Vancouver, BC V6B 1R3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Chinatown",
+				"postalCode": "V6B 1R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10691,
+					49.28123
+				]
+			},
+			"bbox": [
+				-123.1086332,
+				49.2801058,
+				-123.1051868,
+				49.2823542
+			]
+		}
+	]
+}

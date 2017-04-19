@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Queensway W, Simcoe, ON N3Y 2M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50c3d163daf04d998f2ffb4c10cc910e|BN20220145|7.7.0.0|",
+				"addressLine": "17 Queensway W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Queensway W, Simcoe, ON N3Y 2M7, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Simcoe",
+				"postalCode": "N3Y 2M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3082013,
+					42.8461783
+				]
+			},
+			"bbox": [
+				-80.3097346,
+				42.8450542,
+				-80.3066681,
+				42.8473025
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1110 59A St SW, Edmonton, AB T6X 0T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1231e49f82eb4e95a78cdeb95e5328f5|BN20240423|7.7.0.0|",
+				"addressLine": "1110 59A St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1110 59A St SW, Edmonton, AB T6X 0T2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Walker",
+				"postalCode": "T6X 0T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4326728,
+					53.4232465
+				]
+			},
+			"bbox": [
+				-113.4345593,
+				53.4221223,
+				-113.4307863,
+				53.4243706
+			]
+		}
+	]
+}

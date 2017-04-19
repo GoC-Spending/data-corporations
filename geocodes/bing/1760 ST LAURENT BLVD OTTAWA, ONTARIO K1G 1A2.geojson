@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1760 St Laurent Blvd, Ottawa, ON K1G 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0155a0926b1545ff875ad13725a990d5|BN20130431|7.7.0.0|",
+				"addressLine": "1760 St Laurent Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1760 St Laurent Blvd, Ottawa, ON K1G 1A2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1G 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.62707,
+					45.4046
+				]
+			},
+			"bbox": [
+				-75.6286711,
+				45.4034758,
+				-75.6254689,
+				45.4057242
+			]
+		}
+	]
+}

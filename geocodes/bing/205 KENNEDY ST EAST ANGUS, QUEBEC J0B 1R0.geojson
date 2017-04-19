@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Rue Kennedy, East Angus, QC J0B 1R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8da1e376f7eb4c6ca42e135f6404ec2c|BN20200137|7.7.0.0|",
+				"addressLine": "205 Rue Kennedy",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Le Haut-St-François",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Rue Kennedy, East Angus, QC J0B 1R0, Canada",
+				"locality": "East Angus",
+				"postalCode": "J0B 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.65375,
+					45.49243
+				]
+			},
+			"bbox": [
+				-71.6553536,
+				45.4913058,
+				-71.6521464,
+				45.4935542
+			]
+		}
+	]
+}

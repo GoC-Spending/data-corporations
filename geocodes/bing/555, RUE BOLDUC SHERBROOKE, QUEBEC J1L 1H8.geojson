@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "555 Rue Bolduc, Sherbrooke, QC J1L 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3d61e3f44ce94221a939d6af1b734427|BN20130431|7.7.0.0|",
+				"addressLine": "555 Rue Bolduc",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "555 Rue Bolduc, Sherbrooke, QC J1L 1H8, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1L 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.94839,
+					45.40693
+				]
+			},
+			"bbox": [
+				-71.9499912,
+				45.4058058,
+				-71.9467888,
+				45.4080542
+			]
+		}
+	]
+}

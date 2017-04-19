@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "220 Lesmill Rd, North York, ON M3B 2T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae988e542afb41bb8f5fc37d5626fa12|BN20250135|7.7.0.0|",
+				"addressLine": "220 Lesmill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "220 Lesmill Rd, North York, ON M3B 2T5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M3B 2T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3599,
+					43.7620099
+				]
+			},
+			"bbox": [
+				-79.3614565,
+				43.7608857,
+				-79.3583435,
+				43.7631341
+			]
+		}
+	]
+}

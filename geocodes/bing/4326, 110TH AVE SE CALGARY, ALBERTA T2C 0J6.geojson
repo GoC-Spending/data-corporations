@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4326 110 Ave SE, Calgary, AB T2C 0J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fd67265f393423fa823b963c9b8cf17|BN20260223|7.7.0.0|",
+				"addressLine": "4326 110 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4326 110 Ave SE, Calgary, AB T2C 0J6, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2C 0J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9713817,
+					50.9561762
+				]
+			},
+			"bbox": [
+				-113.9731663,
+				50.955052,
+				-113.9695971,
+				50.9573003
+			]
+		}
+	]
+}

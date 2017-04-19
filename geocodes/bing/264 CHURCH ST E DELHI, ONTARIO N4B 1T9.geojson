@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "264 Church St E, Delhi, ON N4B 1T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "583c55d579a5465c990803ebc92b0276|BN20290118|7.7.0.0|",
+				"addressLine": "264 Church St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "264 Church St E, Delhi, ON N4B 1T9, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Delhi",
+				"postalCode": "N4B 1T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4839499,
+					42.85515
+				]
+			},
+			"bbox": [
+				-80.4854834,
+				42.8540258,
+				-80.4824164,
+				42.8562742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Cockburn St, Perth, ON K7H 2B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9467ec0f7734dacb4f9645bf58bb35d|BN20240253|7.7.0.0|",
+				"addressLine": "58 Cockburn St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Cockburn St, Perth, ON K7H 2B6, Canada",
+				"locality": "Perth",
+				"postalCode": "K7H 2B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.2459117,
+					44.893825
+				]
+			},
+			"bbox": [
+				-76.2474985,
+				44.8927008,
+				-76.2443248,
+				44.8949492
+			]
+		}
+	]
+}

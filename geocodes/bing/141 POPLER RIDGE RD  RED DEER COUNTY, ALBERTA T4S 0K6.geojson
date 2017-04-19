@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "141 Poplar Cres, Springbrook, AB T4S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd2d0784f28d448fa3c37108425d48a4|BN20200137|7.7.0.0|",
+				"addressLine": "141 Poplar Cres",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "141 Poplar Cres, Springbrook, AB T4S, Canada",
+				"locality": "Red Deer County",
+				"neighborhood": "Springbrook",
+				"postalCode": "T4S 0K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.871429,
+					52.1776563
+				]
+			},
+			"bbox": [
+				-113.8732622,
+				52.1765321,
+				-113.8695958,
+				52.1787804
+			]
+		}
+	]
+}

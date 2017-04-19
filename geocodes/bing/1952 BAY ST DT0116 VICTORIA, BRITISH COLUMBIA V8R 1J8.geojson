@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1952 Bay St, Victoria, BC V8R 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba03382bfca64c98a099f9c6c32f67b0|BN20130431|7.7.0.0|",
+				"addressLine": "1952 Bay St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1952 Bay St, Victoria, BC V8R 1J8, Canada",
+				"locality": "Saanich",
+				"neighborhood": "Victoria",
+				"postalCode": "V8R 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3264301,
+					48.4341535
+				]
+			},
+			"bbox": [
+				-123.3281244,
+				48.4330293,
+				-123.3247357,
+				48.4352776
+			]
+		}
+	]
+}

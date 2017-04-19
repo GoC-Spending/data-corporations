@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "179 Boudreauville Rd, Richmond, NS B0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd8c25afb6984c2ab0bb971209a86656|BN20130621|7.7.0.0|",
+				"addressLine": "179 Boudreauville Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Richmond",
+				"countryRegion": "Canada",
+				"formattedAddress": "179 Boudreauville Rd, Richmond, NS B0E, Canada",
+				"locality": "Richmond",
+				"postalCode": "B0E 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.9664535,
+					45.5016008
+				]
+			},
+			"bbox": [
+				-60.9680574,
+				45.5004766,
+				-60.9648496,
+				45.5027249
+			]
+		}
+	]
+}

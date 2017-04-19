@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "146 Water St, Digby, NS B0V 1B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d639ccd4dde847eb9b22f5129e9c1c9e|BN20240423|7.7.0.0|",
+				"addressLine": "146 Water St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Digby",
+				"countryRegion": "Canada",
+				"formattedAddress": "146 Water St, Digby, NS B0V 1B0, Canada",
+				"locality": "Digby",
+				"postalCode": "B0V 1B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.75472,
+					44.62643
+				]
+			},
+			"bbox": [
+				-65.7562995,
+				44.6253058,
+				-65.7531405,
+				44.6275542
+			]
+		}
+	]
+}

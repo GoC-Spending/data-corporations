@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Quarry Rd, Halifax, NS B3N 1X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ceb38c644af402ebac97d51c62b39ab|BN20130721|7.7.0.0|",
+				"addressLine": "33 Quarry Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Quarry Rd, Halifax, NS B3N 1X1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Armdale",
+				"postalCode": "B3N 1X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.63194,
+					44.63431
+				]
+			},
+			"bbox": [
+				-63.6335197,
+				44.6331858,
+				-63.6303603,
+				44.6354342
+			]
+		}
+	]
+}

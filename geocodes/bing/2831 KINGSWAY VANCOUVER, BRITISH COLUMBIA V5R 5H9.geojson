@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2831 Kingsway, Vancouver, BC V5R 5H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5e8518562524a0abaf270bd12833ff1|BN20130530|7.7.0.0|",
+				"addressLine": "2831 Kingsway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2831 Kingsway, Vancouver, BC V5R 5H9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5R 5H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.04676,
+					49.23704
+				]
+			},
+			"bbox": [
+				-123.0484817,
+				49.2359158,
+				-123.0450383,
+				49.2381642
+			]
+		}
+	]
+}

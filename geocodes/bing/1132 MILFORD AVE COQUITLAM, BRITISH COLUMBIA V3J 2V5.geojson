@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1132 Milford Ave, Coquitlam, BC V3J 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bf1b7c2ed374822bdaba61ff3328982|BN20130423|7.7.0.0|",
+				"addressLine": "1132 Milford Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1132 Milford Ave, Coquitlam, BC V3J 2V5, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Central Coquitlam",
+				"postalCode": "V3J 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.86012,
+					49.25867
+				]
+			},
+			"bbox": [
+				-122.8618425,
+				49.2575458,
+				-122.8583975,
+				49.2597942
+			]
+		}
+	]
+}

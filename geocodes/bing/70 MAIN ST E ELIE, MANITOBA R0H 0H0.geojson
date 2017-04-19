@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Main St E, Cartier, MB R0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3704937e16646358bf170d0a87a8f18|BN20121764|7.7.0.0|",
+				"addressLine": "70 Main St E",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Main St E, Cartier, MB R0H, Canada",
+				"locality": "Cartier",
+				"neighborhood": "Elie",
+				"postalCode": "R0H 0H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.7427314,
+					49.9014096
+				]
+			},
+			"bbox": [
+				-97.7444767,
+				49.9002855,
+				-97.7409861,
+				49.9025338
+			]
+		}
+	]
+}

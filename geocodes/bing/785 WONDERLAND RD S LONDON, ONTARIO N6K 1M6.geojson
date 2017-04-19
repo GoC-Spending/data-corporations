@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "785 Wonderland Rd S, London, ON N6K 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e9033d1a77fb4fe8af9dccaf0e6002c1|BN20130620|7.7.0.0|",
+				"addressLine": "785 Wonderland Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "785 Wonderland Rd S, London, ON N6K 1M6, Canada",
+				"locality": "London",
+				"neighborhood": "Westmount",
+				"postalCode": "N6K 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2893007,
+					42.9477812
+				]
+			},
+			"bbox": [
+				-81.2908364,
+				42.946657,
+				-81.2877649,
+				42.9489054
+			]
+		}
+	]
+}

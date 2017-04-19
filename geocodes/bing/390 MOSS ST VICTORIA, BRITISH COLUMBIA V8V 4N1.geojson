@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "390 Moss St, Victoria, BC V8V 4N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b42abdf1eb447d0b8db9349af734ddc|BN20290118|7.7.0.0|",
+				"addressLine": "390 Moss St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "390 Moss St, Victoria, BC V8V 4N1, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fairfield",
+				"postalCode": "V8V 4N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.34911,
+					48.41501
+				]
+			},
+			"bbox": [
+				-123.3508037,
+				48.4138858,
+				-123.3474163,
+				48.4161342
+			]
+		}
+	]
+}

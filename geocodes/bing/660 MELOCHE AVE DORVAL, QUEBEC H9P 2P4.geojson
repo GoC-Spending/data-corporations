@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "660 Avenue Meloche, Dorval, QC H9P 2P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1561a74682f149e996c30748542c46ae|BN20220145|7.7.0.0|",
+				"addressLine": "660 Avenue Meloche",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "660 Avenue Meloche, Dorval, QC H9P 2P4, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9P 2P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72784,
+					45.4544
+				]
+			},
+			"bbox": [
+				-73.7294426,
+				45.4532758,
+				-73.7262374,
+				45.4555242
+			]
+		}
+	]
+}

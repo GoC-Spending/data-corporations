@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "429 Alliance Ave, York, ON M6N 2J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "125c9279d68b4f23a393df6de35460cb|BN20121764|7.7.0.0|",
+				"addressLine": "429 Alliance Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "429 Alliance Ave, York, ON M6N 2J1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rockcliffe-Smythe",
+				"postalCode": "M6N 2J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48683,
+					43.67682
+				]
+			},
+			"bbox": [
+				-79.4883843,
+				43.6756958,
+				-79.4852757,
+				43.6779442
+			]
+		}
+	]
+}

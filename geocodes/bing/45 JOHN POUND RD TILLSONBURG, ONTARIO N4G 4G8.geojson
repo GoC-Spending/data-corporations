@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 John Pound Rd, Tillsonburg, ON N4G 4G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8e4ae53c68944798f6dd3eb56e3edcd|BN20240423|7.7.0.0|",
+				"addressLine": "45 John Pound Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 John Pound Rd, Tillsonburg, ON N4G 4G8, Canada",
+				"locality": "Tillsonburg",
+				"postalCode": "N4G 4G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.72578,
+					42.85307
+				]
+			},
+			"bbox": [
+				-80.7273134,
+				42.8519458,
+				-80.7242466,
+				42.8541942
+			]
+		}
+	]
+}

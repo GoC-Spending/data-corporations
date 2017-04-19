@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "677 Bloor St W, Toronto, ON M6G 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00ee007f1b934f75a47a5934320753b2|BN20130533|7.7.0.0|",
+				"addressLine": "677 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "677 Bloor St W, Toronto, ON M6G 1L3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6G 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41642,
+					43.66376
+				]
+			},
+			"bbox": [
+				-79.417974,
+				43.6626358,
+				-79.414866,
+				43.6648842
+			]
+		}
+	]
+}

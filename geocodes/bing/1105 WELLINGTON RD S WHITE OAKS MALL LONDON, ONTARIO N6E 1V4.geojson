@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1105 Wellington Rd S, London, ON N6E 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6023b13694e349b0948df462aed0bad8|CO30323712|7.7.0.0|",
+				"addressLine": "1105 Wellington Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1105 Wellington Rd S, London, ON N6E 1V4, Canada",
+				"locality": "London",
+				"neighborhood": "White Oaks",
+				"postalCode": "N6E 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2215514,
+					42.9315539
+				]
+			},
+			"bbox": [
+				-81.2230867,
+				42.9304297,
+				-81.220016,
+				42.932678
+			]
+		}
+	]
+}

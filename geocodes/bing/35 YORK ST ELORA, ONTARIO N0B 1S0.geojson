@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 York St W, Elora, ON N0B 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69b5dd133f67460d9612abc0959a602b|BN20130625|7.7.0.0|",
+				"addressLine": "35 York St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 York St W, Elora, ON N0B 1S0, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Elora",
+				"postalCode": "N0B 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4257819,
+					43.6772173
+				]
+			},
+			"bbox": [
+				-80.4273362,
+				43.6760932,
+				-80.4242276,
+				43.6783415
+			]
+		}
+	]
+}

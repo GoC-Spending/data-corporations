@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 Alison Blvd, Fredericton, NB E3C 0A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e025bf4cf53469b9b29f0117cdd7745|BN20160335|7.7.0.0|",
+				"addressLine": "250 Alison Blvd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 Alison Blvd, Fredericton, NB E3C 0A9, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3C 0A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.6314699,
+					45.91721
+				]
+			},
+			"bbox": [
+				-66.6330858,
+				45.9160858,
+				-66.629854,
+				45.9183342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "780 E Cordova St, Vancouver, BC V6A 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b024a301020d4f84bc2c1f61fbd1a5e6|BN20130521|7.7.0.0|",
+				"addressLine": "780 E Cordova St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "780 E Cordova St, Vancouver, BC V6A 1M3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown Eastside",
+				"postalCode": "V6A 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08769,
+					49.2817999
+				]
+			},
+			"bbox": [
+				-123.0894133,
+				49.2806757,
+				-123.0859667,
+				49.2829241
+			]
+		}
+	]
+}

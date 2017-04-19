@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8070 Winston St, Burnaby, BC V5A 2H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3157d40cf37f45cdb4da07b35e3f2fe4|BN20130634|7.7.0.0|",
+				"addressLine": "8070 Winston St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8070 Winston St, Burnaby, BC V5A 2H5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Government Road",
+				"postalCode": "V5A 2H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.93026,
+					49.24757
+				]
+			},
+			"bbox": [
+				-122.9319821,
+				49.2464458,
+				-122.9285379,
+				49.2486942
+			]
+		}
+	]
+}

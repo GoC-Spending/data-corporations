@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 8,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Brackley Point Rd, Charlottetown, PE C1E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8e8508c105e4aaa9af33cd1b7dd2a7c|BN20260223|7.7.0.0|",
+				"addressLine": "Brackley Point Rd",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "Brackley Point Rd, Charlottetown, PE C1E, Canada",
+				"locality": "Charlottetown",
+				"postalCode": "C1E 1Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.13862,
+					46.28861
+				]
+			},
+			"bbox": [
+				-63.13958,
+				46.28551,
+				-63.13763,
+				46.29172
+			]
+		}
+	]
+}

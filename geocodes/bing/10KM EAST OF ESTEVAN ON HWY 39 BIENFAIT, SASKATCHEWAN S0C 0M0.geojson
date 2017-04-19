@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Bienfait, S0C 0M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b06640d472b04d34b041bf3ce3ed4e9d|BN20130532|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Bienfait, S0C 0M0, Canada",
+				"locality": "Bienfait",
+				"postalCode": "S0C 0M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.806541442871,
+					49.1431503295898
+				]
+			},
+			"bbox": [
+				-102.814413827435,
+				49.1392876120192,
+				-102.798669058307,
+				49.1470130471605
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Estevan, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b06640d472b04d34b041bf3ce3ed4e9d|BN20130532|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Estevan, Saskatchewan, Canada",
+				"locality": "Estevan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.994552612305,
+					49.140251159668
+				]
+			},
+			"bbox": [
+				-103.025077819824,
+				49.1171760559082,
+				-102.946922302246,
+				49.1614227294922
+			]
+		}
+	]
+}

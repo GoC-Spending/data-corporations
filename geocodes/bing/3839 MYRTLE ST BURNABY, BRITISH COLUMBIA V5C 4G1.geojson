@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3839 Myrtle St, Burnaby, BC V5C 4G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a70ccb823f24effb8f86894e6eb5591|BN20130423|7.7.0.0|",
+				"addressLine": "3839 Myrtle St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3839 Myrtle St, Burnaby, BC V5C 4G1, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 4G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0189436,
+					49.2601529
+				]
+			},
+			"bbox": [
+				-123.0206661,
+				49.2590287,
+				-123.0172211,
+				49.261277
+			]
+		}
+	]
+}

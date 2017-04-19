@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7703 69 St NW, Edmonton, AB T6B 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65e58f28b0294ff4b78cb7476d2dacfb|BN20130532|7.7.0.0|",
+				"addressLine": "7703 69 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7703 69 St NW, Edmonton, AB T6B 1V4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Girard Industrial",
+				"postalCode": "T6B 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.43279,
+					53.51342
+				]
+			},
+			"bbox": [
+				-113.4346805,
+				53.5122958,
+				-113.4308995,
+				53.5145442
+			]
+		}
+	]
+}

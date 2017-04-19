@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2420 25 St SW, Calgary, AB T3E 1X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d30dd0a1b7ec4b79a31ddc391a08de9b|BN20130632|7.7.0.0|",
+				"addressLine": "2420 25 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2420 25 St SW, Calgary, AB T3E 1X6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Richmond",
+				"postalCode": "T3E 1X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.12063,
+					51.03242
+				]
+			},
+			"bbox": [
+				-114.1224175,
+				51.0312958,
+				-114.1188425,
+				51.0335442
+			]
+		}
+	]
+}

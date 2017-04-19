@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Smith St, St Catharines, ON L2P 3J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a6097e91eca4edc9be4fd6b092e5717|BN20240423|7.7.0.0|",
+				"addressLine": "23 Smith St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Smith St, St Catharines, ON L2P 3J7, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Queenston",
+				"postalCode": "L2P 3J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.21323,
+					43.16669
+				]
+			},
+			"bbox": [
+				-79.2147713,
+				43.1655658,
+				-79.2116887,
+				43.1678142
+			]
+		}
+	]
+}

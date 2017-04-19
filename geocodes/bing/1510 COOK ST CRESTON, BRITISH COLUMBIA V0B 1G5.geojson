@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1510 Cook St, Creston, BC V0B 1G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92d48257f2884bb5b06952baecfde0d5|BN20130533|7.7.0.0|",
+				"addressLine": "1510 Cook St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "1510 Cook St, Creston, BC V0B 1G5, Canada",
+				"locality": "Creston",
+				"postalCode": "V0B 1G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.5079994,
+					49.0948949
+				]
+			},
+			"bbox": [
+				-116.5097161,
+				49.0937707,
+				-116.5062826,
+				49.0960191
+			]
+		}
+	]
+}

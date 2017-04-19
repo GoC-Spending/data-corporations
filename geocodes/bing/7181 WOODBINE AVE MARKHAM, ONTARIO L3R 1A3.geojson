@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7181 Woodbine Ave, Markham, ON L3R 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3cc3c87b1ab84860a742b297c77dfddd|BN20320521|7.7.0.0|",
+				"addressLine": "7181 Woodbine Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "7181 Woodbine Ave, Markham, ON L3R 1A3, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34857,
+					43.8185
+				]
+			},
+			"bbox": [
+				-79.350128,
+				43.8173758,
+				-79.347012,
+				43.8196242
+			]
+		}
+	]
+}

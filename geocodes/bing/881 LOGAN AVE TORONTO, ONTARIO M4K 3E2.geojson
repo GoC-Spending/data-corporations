@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "881 Logan Ave, Toronto, ON M4K 3E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a529e4dde8134ff992036bd356d4a013|BN20130520|7.7.0.0|",
+				"addressLine": "881 Logan Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "881 Logan Ave, Toronto, ON M4K 3E2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "North Riverdale",
+				"postalCode": "M4K 3E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34927,
+					43.67753
+				]
+			},
+			"bbox": [
+				-79.3508243,
+				43.6764058,
+				-79.3477157,
+				43.6786542
+			]
+		}
+	]
+}

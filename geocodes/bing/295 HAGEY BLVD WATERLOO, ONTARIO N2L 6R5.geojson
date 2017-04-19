@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "295 Hagey Blvd, Waterloo, ON N2L 6R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76a81918fb5b400089a18a578c5b2af1|BN20210145|7.7.0.0|",
+				"addressLine": "295 Hagey Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "295 Hagey Blvd, Waterloo, ON N2L 6R5, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 6R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.54907,
+					43.47739
+				]
+			},
+			"bbox": [
+				-80.5506192,
+				43.4762658,
+				-80.5475208,
+				43.4785142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "332 Ave K S, Saskatoon, SK S7M 2E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92f3ead060b54151a3583a337c722e8b|BN20130620|7.7.0.0|",
+				"addressLine": "332 Ave K S",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "332 Ave K S, Saskatoon, SK S7M 2E1, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Riversdale",
+				"postalCode": "S7M 2E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.68543,
+					52.12491
+				]
+			},
+			"bbox": [
+				-106.687261,
+				52.1237858,
+				-106.683599,
+				52.1260342
+			]
+		}
+	]
+}

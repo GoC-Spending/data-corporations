@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2220 Midland Ave, Scarborough, ON M1P 3E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e158f85f513c4a75a5385f58afc59e80|BN20121764|7.7.0.0|",
+				"addressLine": "2220 Midland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2220 Midland Ave, Scarborough, ON M1P 3E6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dorset Park",
+				"postalCode": "M1P 3E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2737574,
+					43.7743049
+				]
+			},
+			"bbox": [
+				-79.2753143,
+				43.7731808,
+				-79.2722006,
+				43.7754291
+			]
+		}
+	]
+}

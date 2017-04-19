@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "250 King George Rd, Brantford, ON N3R 5L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c6c751600c44f2e8474a10b78494b53|BN20210145|7.7.0.0|",
+				"addressLine": "250 King George Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "250 King George Rd, Brantford, ON N3R 5L5, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 5L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2788999,
+					43.17791
+				]
+			},
+			"bbox": [
+				-80.2804415,
+				43.1767858,
+				-80.2773583,
+				43.1790342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Winfield Way, Winnipeg, MB R2R 1V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8abfcf5aec34b569bba5b7227e8961e|BN20280152|7.7.0.0|",
+				"addressLine": "3 Winfield Way",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Winfield Way, Winnipeg, MB R2R 1V8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Omand's Creek Industrial",
+				"postalCode": "R2R 1V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.22559,
+					49.92926
+				]
+			},
+			"bbox": [
+				-97.2273363,
+				49.9281358,
+				-97.2238437,
+				49.9303842
+			]
+		}
+	]
+}

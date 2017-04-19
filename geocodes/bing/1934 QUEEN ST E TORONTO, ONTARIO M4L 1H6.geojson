@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1934 Queen St E, Toronto, ON M4L 1H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8f711bcc67f41adafc25a72529e359c|BN20130632|7.7.0.0|",
+				"addressLine": "1934 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1934 Queen St E, Toronto, ON M4L 1H6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4L 1H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3032999,
+					43.66959
+				]
+			},
+			"bbox": [
+				-79.304854,
+				43.6684658,
+				-79.3017458,
+				43.6707142
+			]
+		}
+	]
+}

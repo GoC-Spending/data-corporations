@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Simcoe St N, Oshawa, ON L1G 4S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf3ea77236a54d1f924212ef01650f64|BN20131519|7.7.0.0|",
+				"addressLine": "111 Simcoe St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Simcoe St N, Oshawa, ON L1G 4S4, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Downtown Oshawa",
+				"postalCode": "L1G 4S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.86436,
+					43.90064
+				]
+			},
+			"bbox": [
+				-78.8659201,
+				43.8995158,
+				-78.8627999,
+				43.9017642
+			]
+		}
+	]
+}

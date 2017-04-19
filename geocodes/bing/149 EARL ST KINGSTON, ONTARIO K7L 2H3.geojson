@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "149 Earl St, Kingston, ON K7L 2H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd0e37d4bc2142e3bbab7995218294cf|BN20250135|7.7.0.0|",
+				"addressLine": "149 Earl St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "149 Earl St, Kingston, ON K7L 2H3, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Sydenham",
+				"postalCode": "K7L 2H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.48856,
+					44.22921
+				]
+			},
+			"bbox": [
+				-76.4901288,
+				44.2280858,
+				-76.4869912,
+				44.2303342
+			]
+		}
+	]
+}

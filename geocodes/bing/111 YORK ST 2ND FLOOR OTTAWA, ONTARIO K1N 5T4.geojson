@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 York St, Ottawa, ON K1N 5T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "403ecd9742694616937eff9257321d3a|BN20130631|7.7.0.0|",
+				"addressLine": "111 York St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 York St, Ottawa, ON K1N 5T4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1N 5T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6906981,
+					45.429236
+				]
+			},
+			"bbox": [
+				-75.6923,
+				45.4281119,
+				-75.6890963,
+				45.4303602
+			]
+		}
+	]
+}

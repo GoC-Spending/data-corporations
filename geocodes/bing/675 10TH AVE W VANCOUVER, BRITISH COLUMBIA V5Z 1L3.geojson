@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "675 W 10th Ave, Vancouver, BC V5Z 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9006f67af30420bbb468b20c45ce6ad|BN20130532|7.7.0.0|",
+				"addressLine": "675 W 10th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "675 W 10th Ave, Vancouver, BC V5Z 1L3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V5Z 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11872,
+					49.26258
+				]
+			},
+			"bbox": [
+				-123.1204426,
+				49.2614558,
+				-123.1169974,
+				49.2637042
+			]
+		}
+	]
+}

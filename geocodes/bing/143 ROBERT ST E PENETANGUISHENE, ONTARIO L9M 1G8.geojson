@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "143 Robert St E, Penetanguishene, ON L9M 1G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3def841e06b43f99fe305b6374098ff|BN20131519|7.7.0.0|",
+				"addressLine": "143 Robert St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "143 Robert St E, Penetanguishene, ON L9M 1G8, Canada",
+				"locality": "Penetanguishene",
+				"postalCode": "L9M 1G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.91746,
+					44.77657
+				]
+			},
+			"bbox": [
+				-79.9190436,
+				44.7754458,
+				-79.9158764,
+				44.7776942
+			]
+		}
+	]
+}

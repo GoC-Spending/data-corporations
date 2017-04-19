@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7540 Jane St, Concord, ON L4K 0A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d93f33b4f5e54643bbaf89ed4e54f911|BN20181720|7.7.0.0|",
+				"addressLine": "7540 Jane St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "7540 Jane St, Concord, ON L4K 0A6, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 0A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52521,
+					43.7904
+				]
+			},
+			"bbox": [
+				-79.5267673,
+				43.7892758,
+				-79.5236527,
+				43.7915242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2931 5 Ave NE, Calgary, AB T2A 6T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "399c124dcf4d4088804e0609a13a01b8|BN20130521|7.7.0.0|",
+				"addressLine": "2931 5 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "2931 5 Ave NE, Calgary, AB T2A 6T8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Franklin",
+				"postalCode": "T2A 6T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9914,
+					51.05594
+				]
+			},
+			"bbox": [
+				-113.9931885,
+				51.0548158,
+				-113.9896115,
+				51.0570642
+			]
+		}
+	]
+}

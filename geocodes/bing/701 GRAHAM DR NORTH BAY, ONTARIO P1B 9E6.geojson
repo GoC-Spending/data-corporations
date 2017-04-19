@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "701 Graham Dr, North Bay, ON P1B 9E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "447ce93351454ba5980e7378c2c89859|BN20130431|7.7.0.0|",
+				"addressLine": "701 Graham Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "701 Graham Dr, North Bay, ON P1B 9E6, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Trout Lake Road",
+				"postalCode": "P1B 9E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4453945,
+					46.3214432
+				]
+			},
+			"bbox": [
+				-79.4470222,
+				46.320319,
+				-79.4437667,
+				46.3225674
+			]
+		}
+	]
+}

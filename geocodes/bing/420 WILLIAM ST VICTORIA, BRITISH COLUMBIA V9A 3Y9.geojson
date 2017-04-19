@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "420 William St, Victoria, BC V9A 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "17a7473fec4b4da0bb165966472d16af|BN20121763|7.7.0.0|",
+				"addressLine": "420 William St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "420 William St, Victoria, BC V9A 3Y9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.38873,
+					48.43105
+				]
+			},
+			"bbox": [
+				-123.3904242,
+				48.4299258,
+				-123.3870358,
+				48.4321742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Roxborough St W, Toronto, ON M5R 1T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8ca59954b7a486f81f30a3ebb70e98a|BN20130533|7.7.0.0|",
+				"addressLine": "2 Roxborough St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Roxborough St W, Toronto, ON M5R 1T8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 1T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39035,
+					43.67825
+				]
+			},
+			"bbox": [
+				-79.3919044,
+				43.6771258,
+				-79.3887956,
+				43.6793742
+			]
+		}
+	]
+}

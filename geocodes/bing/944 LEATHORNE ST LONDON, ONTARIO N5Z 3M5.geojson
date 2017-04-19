@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "944 Leathorne St, London, ON N5Z 3M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bffcc7fe81d74e758609ddb268270394|BN20130625|7.7.0.0|",
+				"addressLine": "944 Leathorne St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "944 Leathorne St, London, ON N5Z 3M5, Canada",
+				"locality": "London",
+				"neighborhood": "Glen Cairn",
+				"postalCode": "N5Z 3M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2146999,
+					42.9626
+				]
+			},
+			"bbox": [
+				-81.216236,
+				42.9614758,
+				-81.2131638,
+				42.9637242
+			]
+		}
+	]
+}

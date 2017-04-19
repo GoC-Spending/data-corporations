@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Harwood Ave N, Ajax, ON L1Z 1L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01517f19eab845acb38fcf8a970aac4e|BN20320521|7.7.0.0|",
+				"addressLine": "165 Harwood Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Harwood Ave N, Ajax, ON L1Z 1L9, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1Z 1L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0249258,
+					43.8675658
+				]
+			},
+			"bbox": [
+				-79.0264851,
+				43.8664416,
+				-79.0233665,
+				43.8686899
+			]
+		}
+	]
+}

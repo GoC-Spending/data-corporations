@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 Rue Brock, Drummondville, QC J2C 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2ef3db99594408f8aa42203e41ed16a|BN20320521|7.7.0.0|",
+				"addressLine": "230 Rue Brock",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Drummond",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 Rue Brock, Drummondville, QC J2C 1M3, Canada",
+				"locality": "Drummondville",
+				"postalCode": "J2C 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.48856,
+					45.88452
+				]
+			},
+			"bbox": [
+				-72.4901749,
+				45.8833958,
+				-72.4869451,
+				45.8856442
+			]
+		}
+	]
+}

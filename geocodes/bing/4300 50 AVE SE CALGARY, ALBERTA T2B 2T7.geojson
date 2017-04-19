@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4300 50 Ave SE, Calgary, AB T2B 2T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50e4bca4c8c147849079dafbd7838cda|BN20130423|7.7.0.0|",
+				"addressLine": "4300 50 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4300 50 Ave SE, Calgary, AB T2B 2T7, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2B 2T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.97223,
+					51.00903
+				]
+			},
+			"bbox": [
+				-113.9740166,
+				51.0079058,
+				-113.9704434,
+				51.0101542
+			]
+		}
+	]
+}

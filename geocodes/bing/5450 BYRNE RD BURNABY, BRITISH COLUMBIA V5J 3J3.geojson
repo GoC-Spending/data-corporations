@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5450 Byrne Rd, Burnaby, BC V5J 3J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b281634ff1354d2d982253c5a6d62b8d|BN20181720|7.7.0.0|",
+				"addressLine": "5450 Byrne Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5450 Byrne Rd, Burnaby, BC V5J 3J3, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 3J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.985027,
+					49.2000888
+				]
+			},
+			"bbox": [
+				-122.9867475,
+				49.1989646,
+				-122.9833066,
+				49.2012129
+			]
+		}
+	]
+}

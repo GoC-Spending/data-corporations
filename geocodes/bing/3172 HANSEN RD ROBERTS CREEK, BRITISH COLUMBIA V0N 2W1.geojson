@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3172 Hansen Rd, Roberts Creek, BC V0N 2W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0971e01e6da04c5b9646bf237ddccf03|BN20130447|7.7.0.0|",
+				"addressLine": "3172 Hansen Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "3172 Hansen Rd, Roberts Creek, BC V0N 2W1, Canada",
+				"locality": "Sunshine Coast",
+				"neighborhood": "Roberts Creek",
+				"postalCode": "V0N 2W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.64538,
+					49.43563
+				]
+			},
+			"bbox": [
+				-123.6471087,
+				49.4345058,
+				-123.6436513,
+				49.4367542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "629 Wellington St, London, ON N6A 3R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92899e2080b84852902852e086d985fd|BN20130442|7.7.0.0|",
+				"addressLine": "629 Wellington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "629 Wellington St, London, ON N6A 3R8, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 3R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2494,
+					42.9923
+				]
+			},
+			"bbox": [
+				-81.2509369,
+				42.9911758,
+				-81.2478631,
+				42.9934242
+			]
+		}
+	]
+}

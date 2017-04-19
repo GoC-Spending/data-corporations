@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Park Ln, Selwyn, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "446eac0d9afc4ca6bf57c7f5f6bba8fc|BN20200137|7.7.0.0|",
+				"addressLine": "26 Park Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Park Ln, Selwyn, ON K0L, Canada",
+				"locality": "Selwyn",
+				"neighborhood": "Curve Lake",
+				"postalCode": "K0L 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3691,
+					44.46112
+				]
+			},
+			"bbox": [
+				-78.370675,
+				44.4599958,
+				-78.367525,
+				44.4622442
+			]
+		}
+	]
+}

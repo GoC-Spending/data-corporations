@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2826 King St E, Hamilton, ON L8G 1J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "981f867378e649ae831f5e410c678340|BN20240253|7.7.0.0|",
+				"addressLine": "2826 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2826 King St E, Hamilton, ON L8G 1J5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Gershome",
+				"postalCode": "L8G 1J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77125,
+					43.21945
+				]
+			},
+			"bbox": [
+				-79.7727926,
+				43.2183258,
+				-79.7697074,
+				43.2205742
+			]
+		}
+	]
+}

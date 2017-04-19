@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Elm Ave, Hanover, MB R0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd38930478fa4a109af8c0626a08a2cf|BN20130721|7.7.0.0|",
+				"addressLine": "59 Elm Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Elm Ave, Hanover, MB R0A, Canada",
+				"locality": "Hanover",
+				"neighborhood": "Grunthal",
+				"postalCode": "R0A 0R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.856314,
+					49.407371
+				]
+			},
+			"bbox": [
+				-96.8580416,
+				49.4062469,
+				-96.8545863,
+				49.4084952
+			]
+		}
+	]
+}

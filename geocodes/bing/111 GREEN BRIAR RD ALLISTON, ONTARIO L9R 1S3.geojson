@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Green Briar Rd, Alliston, ON L9R 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10a70679b53d4cd6af0aff1bb07e19d4|BN20260223|7.7.0.0|",
+				"addressLine": "111 Green Briar Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Green Briar Rd, Alliston, ON L9R 1S3, Canada",
+				"locality": "New Tecumseth",
+				"neighborhood": "Alliston",
+				"postalCode": "L9R 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7964594,
+					44.1591672
+				]
+			},
+			"bbox": [
+				-79.7980264,
+				44.1580431,
+				-79.7948925,
+				44.1602914
+			]
+		}
+	]
+}

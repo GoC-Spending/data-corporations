@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2617 Egan Rd, Ottawa, ON K1V 8M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "044c16ce11bf43f2937d26937dbe1799|BN20130625|7.7.0.0|",
+				"addressLine": "2617 Egan Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2617 Egan Rd, Ottawa, ON K1V 8M9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Riverside Park",
+				"postalCode": "K1V 8M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68759,
+					45.36985
+				]
+			},
+			"bbox": [
+				-75.6891902,
+				45.3687258,
+				-75.6859898,
+				45.3709742
+			]
+		}
+	]
+}

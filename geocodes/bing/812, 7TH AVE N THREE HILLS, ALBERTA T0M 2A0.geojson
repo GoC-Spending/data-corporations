@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "812 7th Ave N, Kelso, WA 98626",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0de97cb8d95b49c3b81d1d112ab70bad|BN20130620|7.7.0.0|",
+				"addressLine": "812 7th Ave N",
+				"adminDistrict": "WA",
+				"adminDistrict2": "Cowlitz",
+				"countryRegion": "United States",
+				"formattedAddress": "812 7th Ave N, Kelso, WA 98626",
+				"locality": "Kelso",
+				"postalCode": "98626"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.904419594682,
+					46.1491625224605
+				]
+			},
+			"bbox": [
+				-122.911853273679,
+				46.1452998048898,
+				-122.896985915686,
+				46.1530252400312
+			]
+		}
+	]
+}

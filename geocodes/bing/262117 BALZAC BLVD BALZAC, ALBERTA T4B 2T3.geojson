@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Balzac, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dcd88cb4cea64801bc95236f9a64334b|BN20130620|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Balzac, Alberta, Canada",
+				"locality": "Balzac"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.006858825684,
+					51.2125587463379
+				]
+			},
+			"bbox": [
+				-114.068482179623,
+				51.1835883633453,
+				-113.945235471745,
+				51.2415291293304
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Calgary, T4B 2T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dcd88cb4cea64801bc95236f9a64334b|BN20130620|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Calgary, T4B 2T3, Canada",
+				"locality": "Calgary",
+				"postalCode": "T4B 2T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.004425048828,
+					51.1826934814453
+				]
+			},
+			"bbox": [
+				-114.012640646518,
+				51.1788307638746,
+				-113.996209451138,
+				51.186556199016
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Kensington Rd, Brampton, ON L6T 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "458dba0589a54ec0aa45ff4eed45f5cb|BN20130721|7.7.0.0|",
+				"addressLine": "15 Kensington Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Kensington Rd, Brampton, ON L6T 3W2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71669,
+					43.72172
+				]
+			},
+			"bbox": [
+				-79.7182455,
+				43.7205958,
+				-79.7151345,
+				43.7228442
+			]
+		}
+	]
+}

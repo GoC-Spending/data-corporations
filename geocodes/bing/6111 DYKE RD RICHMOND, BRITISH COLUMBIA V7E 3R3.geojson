@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6111 Dyke Rd, Richmond, BC V7E 3R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ddc88ce7bb94152bdcc3396f7ca0e2d|BN20290118|7.7.0.0|",
+				"addressLine": "6111 Dyke Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6111 Dyke Rd, Richmond, BC V7E 3R3, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Gilmore",
+				"postalCode": "V7E 3R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1571,
+					49.1166399
+				]
+			},
+			"bbox": [
+				-123.1588175,
+				49.1155157,
+				-123.1553825,
+				49.1177641
+			]
+		}
+	]
+}

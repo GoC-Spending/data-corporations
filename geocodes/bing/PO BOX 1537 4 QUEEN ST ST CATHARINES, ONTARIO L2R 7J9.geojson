@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Queen St, St Catharines, ON L2R 5G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "909dae03de7748c9af756ec76db2f91a|BN20130632|7.7.0.0|",
+				"addressLine": "4 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Queen St, St Catharines, ON L2R 5G3, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Downtown",
+				"postalCode": "L2R 5G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2457,
+					43.15713
+				]
+			},
+			"bbox": [
+				-79.247241,
+				43.1560058,
+				-79.244159,
+				43.1582542
+			]
+		}
+	]
+}

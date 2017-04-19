@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Meredith St, Gore Bay, ON P0P 1H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f6dac206d7541609aa0227b456e5348|BN20121762|7.7.0.0|",
+				"addressLine": "35 Meredith St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Manitoulin",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Meredith St, Gore Bay, ON P0P 1H0, Canada",
+				"locality": "Gore Bay",
+				"postalCode": "P0P 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4645608,
+					45.9161551
+				]
+			},
+			"bbox": [
+				-82.4661766,
+				45.9150309,
+				-82.4629449,
+				45.9172792
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Harbour St, Toronto, ON M5J 1B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b79a297e21f4c3ebdb22036e1878af5|BN20240253|7.7.0.0|",
+				"addressLine": "60 Harbour St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Harbour St, Toronto, ON M5J 1B7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5J 1B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37828,
+					43.64238
+				]
+			},
+			"bbox": [
+				-79.3798334,
+				43.6412558,
+				-79.3767266,
+				43.6435042
+			]
+		}
+	]
+}

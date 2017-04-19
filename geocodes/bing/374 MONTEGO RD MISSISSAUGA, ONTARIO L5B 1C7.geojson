@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "374 Montego Rd, Mississauga, ON L5B 1C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7da98977d475414ca4f3cc24b12442a9|BN20260231|7.7.0.0|",
+				"addressLine": "374 Montego Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "374 Montego Rd, Mississauga, ON L5B 1C7, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5B 1C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.61849,
+					43.5672799
+				]
+			},
+			"bbox": [
+				-79.6200415,
+				43.5661557,
+				-79.6169385,
+				43.5684041
+			]
+		}
+	]
+}

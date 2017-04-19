@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Pelham St, Lunenburg, NS B0J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7cefd1797d7b4f3297f9cd3dbf224bf4|BN20200239|7.7.0.0|",
+				"addressLine": "150 Pelham St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Pelham St, Lunenburg, NS B0J, Canada",
+				"locality": "Lunenburg",
+				"postalCode": "B0J 2C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.30799,
+					44.37651
+				]
+			},
+			"bbox": [
+				-64.3095628,
+				44.3753858,
+				-64.3064172,
+				44.3776342
+			]
+		}
+	]
+}

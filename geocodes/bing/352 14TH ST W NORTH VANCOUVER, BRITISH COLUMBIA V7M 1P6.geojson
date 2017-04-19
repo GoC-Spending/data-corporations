@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "352 14th St W, North Vancouver, BC V7M 1P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e81d77527b47493fa32a1cff8f5effe0|BN20240253|7.7.0.0|",
+				"addressLine": "352 14th St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "352 14th St W, North Vancouver, BC V7M 1P6, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7M 1P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08098,
+					49.32135
+				]
+			},
+			"bbox": [
+				-123.0827046,
+				49.3202258,
+				-123.0792554,
+				49.3224742
+			]
+		}
+	]
+}

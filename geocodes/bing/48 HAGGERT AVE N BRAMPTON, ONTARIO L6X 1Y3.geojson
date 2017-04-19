@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Haggert Ave N, Brampton, ON L6X 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f057cd4d00e2476fb9c29266c40bb333|BN20290118|7.7.0.0|",
+				"addressLine": "48 Haggert Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Haggert Ave N, Brampton, ON L6X 1Y3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6X 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7706199,
+					43.68153
+				]
+			},
+			"bbox": [
+				-79.7721743,
+				43.6804058,
+				-79.7690655,
+				43.6826542
+			]
+		}
+	]
+}

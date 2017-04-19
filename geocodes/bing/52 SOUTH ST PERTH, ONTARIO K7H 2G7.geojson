@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "52 South St, Perth, ON K7H 2G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "931a2489e2df44a986f3bc7a5903d7d1|BN20130521|7.7.0.0|",
+				"addressLine": "52 South St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "52 South St, Perth, ON K7H 2G7, Canada",
+				"locality": "Perth",
+				"postalCode": "K7H 2G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.2418526,
+					44.8910901
+				]
+			},
+			"bbox": [
+				-76.2434394,
+				44.8899659,
+				-76.2402659,
+				44.8922142
+			]
+		}
+	]
+}

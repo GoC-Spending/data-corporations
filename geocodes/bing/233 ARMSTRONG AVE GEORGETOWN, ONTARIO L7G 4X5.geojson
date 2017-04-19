@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "233 Armstrong Ave, Georgetown, ON L7G 4X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bbbe4b11537c46ae845e20757ead6291|BN20240423|7.7.0.0|",
+				"addressLine": "233 Armstrong Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "233 Armstrong Ave, Georgetown, ON L7G 4X5, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.88992,
+					43.65573
+				]
+			},
+			"bbox": [
+				-79.8914738,
+				43.6546058,
+				-79.8883662,
+				43.6568542
+			]
+		}
+	]
+}

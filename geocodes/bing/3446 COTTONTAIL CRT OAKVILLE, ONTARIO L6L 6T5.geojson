@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3446 Cottontail Ct, Oakville, ON L6L 6T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1679c31bf59c45e0b619fea648700776|BN20130532|7.7.0.0|",
+				"addressLine": "3446 Cottontail Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3446 Cottontail Ct, Oakville, ON L6L 6T5, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Bronte",
+				"postalCode": "L6L 6T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72883,
+					43.37769
+				]
+			},
+			"bbox": [
+				-79.7303766,
+				43.3765658,
+				-79.7272834,
+				43.3788142
+			]
+		}
+	]
+}

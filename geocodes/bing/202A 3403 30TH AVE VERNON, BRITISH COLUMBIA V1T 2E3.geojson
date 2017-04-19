@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3403 30th Ave, Vernon, BC V1T 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a812699444a24217b00e1d1e843ffa3c|BN20220145|7.7.0.0|",
+				"addressLine": "3403 30th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "3403 30th Ave, Vernon, BC V1T 2E3, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.2774336,
+					50.2638982
+				]
+			},
+			"bbox": [
+				-119.2791921,
+				50.2627741,
+				-119.275675,
+				50.2650224
+			]
+		}
+	]
+}

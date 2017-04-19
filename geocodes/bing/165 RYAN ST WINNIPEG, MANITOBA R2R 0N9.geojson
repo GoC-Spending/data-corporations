@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Ryan St, Winnipeg, MB R2R 0N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91f0a8358aa24527bdbdfa93655b8ced|BN20250135|7.7.0.0|",
+				"addressLine": "165 Ryan St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Ryan St, Winnipeg, MB R2R 0N9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Omand's Creek Industrial",
+				"postalCode": "R2R 0N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21435,
+					49.92835
+				]
+			},
+			"bbox": [
+				-97.2160963,
+				49.9272258,
+				-97.2126037,
+				49.9294742
+			]
+		}
+	]
+}

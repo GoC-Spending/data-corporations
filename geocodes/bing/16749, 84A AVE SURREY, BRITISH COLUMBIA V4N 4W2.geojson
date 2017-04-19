@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16749 84A Ave, Surrey, BC V4N 4W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3d867b894132485a8068c94e934012ea|BN20290118|7.7.0.0|",
+				"addressLine": "16749 84A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "16749 84A Ave, Surrey, BC V4N 4W2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Fleetwood",
+				"postalCode": "V4N 4W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7585105,
+					49.1564749
+				]
+			},
+			"bbox": [
+				-122.7602294,
+				49.1553507,
+				-122.7567916,
+				49.157599
+			]
+		}
+	]
+}

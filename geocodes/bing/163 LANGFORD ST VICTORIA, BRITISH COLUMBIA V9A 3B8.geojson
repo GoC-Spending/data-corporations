@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "163 Langford St, Victoria, BC V9A 3B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af1c03ab85bb4f17912375f68196edab|BN20200239|7.7.0.0|",
+				"addressLine": "163 Langford St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "163 Langford St, Victoria, BC V9A 3B8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Victoria West",
+				"postalCode": "V9A 3B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3825542,
+					48.4345426
+				]
+			},
+			"bbox": [
+				-123.3842485,
+				48.4334184,
+				-123.3808598,
+				48.4356667
+			]
+		}
+	]
+}

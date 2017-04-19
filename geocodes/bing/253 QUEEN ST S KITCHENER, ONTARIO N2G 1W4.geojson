@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "253 Queen St S, Kitchener, ON N2G 1W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f16327aad4874a16b24d7313ba2e5664|BN20290118|7.7.0.0|",
+				"addressLine": "253 Queen St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "253 Queen St S, Kitchener, ON N2G 1W4, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Cedar Hill",
+				"postalCode": "N2G 1W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4918,
+					43.44677
+				]
+			},
+			"bbox": [
+				-80.4933484,
+				43.4456458,
+				-80.4902516,
+				43.4478942
+			]
+		}
+	]
+}

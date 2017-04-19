@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2526 Davies Ave, Port Coquitlam, BC V3C 4T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a805965cbd0045dcb85a65dbfef594eb|BN20130631|7.7.0.0|",
+				"addressLine": "2526 Davies Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2526 Davies Ave, Port Coquitlam, BC V3C 4T7, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3C 4T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.78308,
+					49.26776
+				]
+			},
+			"bbox": [
+				-122.7848028,
+				49.2666358,
+				-122.7813572,
+				49.2688842
+			]
+		}
+	]
+}

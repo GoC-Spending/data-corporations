@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7719 44A St NW, Edmonton, AB T6B 2R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "685f0bc42fd749db933962a93d91ff7a|BN20130431|7.7.0.0|",
+				"addressLine": "7719 44A St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7719 44A St NW, Edmonton, AB T6B 2R5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Weir Industrial",
+				"postalCode": "T6B 2R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.40905,
+					53.51389
+				]
+			},
+			"bbox": [
+				-113.4109405,
+				53.5127658,
+				-113.4071595,
+				53.5150142
+			]
+		}
+	]
+}

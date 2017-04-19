@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "76 Main St W, Port Colborne, ON L3K 3V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f227c89678a44c6297c3c03fc3de2ac7|BN20130721|7.7.0.0|",
+				"addressLine": "76 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "76 Main St W, Port Colborne, ON L3K 3V2, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 3V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24789,
+					42.9009
+				]
+			},
+			"bbox": [
+				-79.2494246,
+				42.8997758,
+				-79.2463554,
+				42.9020242
+			]
+		}
+	]
+}

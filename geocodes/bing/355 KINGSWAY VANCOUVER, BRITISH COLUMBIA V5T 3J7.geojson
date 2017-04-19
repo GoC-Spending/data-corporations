@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "355 Kingsway, Vancouver, BC V5T 3J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d04bc5770c99479f91313e5da65de1b4|BN20220145|7.7.0.0|",
+				"addressLine": "355 Kingsway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "355 Kingsway, Vancouver, BC V5T 3J7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 3J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0971516,
+					49.2606376
+				]
+			},
+			"bbox": [
+				-123.0988742,
+				49.2595134,
+				-123.0954291,
+				49.2617617
+			]
+		}
+	]
+}

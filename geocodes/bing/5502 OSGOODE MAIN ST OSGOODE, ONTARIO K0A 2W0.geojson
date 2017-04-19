@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5502 Osgoode Main St, Osgoode, ON K0A 2W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a66a6cf6b63c47f5882fd7e257459924|BN20130634|7.7.0.0|",
+				"addressLine": "5502 Osgoode Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5502 Osgoode Main St, Osgoode, ON K0A 2W0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Osgoode",
+				"postalCode": "K0A 2W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61005,
+					45.14398
+				]
+			},
+			"bbox": [
+				-75.6116438,
+				45.1428558,
+				-75.6084562,
+				45.1451042
+			]
+		}
+	]
+}

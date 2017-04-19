@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "320 Hopkins St, Whitby, ON L1N 2B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4fa76ffb83c546e885bb07b2d8c6662c|BN20210145|7.7.0.0|",
+				"addressLine": "320 Hopkins St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "320 Hopkins St, Whitby, ON L1N 2B9, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 2B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9204398,
+					43.8789483
+				]
+			},
+			"bbox": [
+				-78.9219994,
+				43.8778241,
+				-78.9188802,
+				43.8800724
+			]
+		}
+	]
+}

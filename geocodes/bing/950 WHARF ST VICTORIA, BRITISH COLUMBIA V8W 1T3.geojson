@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "950 Wharf St, Victoria, BC V8W 1T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2bc3c89852db46b1a9aaef2c1d224e99|BN20130532|7.7.0.0|",
+				"addressLine": "950 Wharf St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "950 Wharf St, Victoria, BC V8W 1T3, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.37053,
+					48.42363
+				]
+			},
+			"bbox": [
+				-123.372224,
+				48.4225058,
+				-123.368836,
+				48.4247542
+			]
+		}
+	]
+}

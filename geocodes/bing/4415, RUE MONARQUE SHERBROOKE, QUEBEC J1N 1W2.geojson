@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4415 Rue Monarque, Sherbrooke, QC J1N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "98bdfd8023064cbfb9e21038b9215678|BN20210145|7.7.0.0|",
+				"addressLine": "4415 Rue Monarque",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "4415 Rue Monarque, Sherbrooke, QC J1N, Canada",
+				"locality": "Sherbrooke",
+				"neighborhood": "Rock Forest",
+				"postalCode": "J1N 1W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.98682,
+					45.38087
+				]
+			},
+			"bbox": [
+				-71.9884205,
+				45.3797458,
+				-71.9852195,
+				45.3819942
+			]
+		}
+	]
+}

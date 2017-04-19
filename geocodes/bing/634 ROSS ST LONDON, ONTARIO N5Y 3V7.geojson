@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "634 Ross St, London, ON N5Y 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc8e39fec955496daa2f9c4077e93976|BN20260231|7.7.0.0|",
+				"addressLine": "634 Ross St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "634 Ross St, London, ON N5Y 3V7, Canada",
+				"locality": "London",
+				"neighborhood": "Carling",
+				"postalCode": "N5Y 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2366,
+					43.0063
+				]
+			},
+			"bbox": [
+				-81.2381372,
+				43.0051758,
+				-81.2350628,
+				43.0074242
+			]
+		}
+	]
+}

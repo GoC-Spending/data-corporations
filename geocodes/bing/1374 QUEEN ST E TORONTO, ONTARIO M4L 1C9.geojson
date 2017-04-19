@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1374 Queen St E, Toronto, ON M4L 1C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48fbec5526b7427cb51da65b95b2f491|BN20220145|7.7.0.0|",
+				"addressLine": "1374 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1374 Queen St E, Toronto, ON M4L 1C9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Greenwood-Coxwell",
+				"postalCode": "M4L 1C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.32511,
+					43.6645899
+				]
+			},
+			"bbox": [
+				-79.326664,
+				43.6634657,
+				-79.323556,
+				43.6657141
+			]
+		}
+	]
+}

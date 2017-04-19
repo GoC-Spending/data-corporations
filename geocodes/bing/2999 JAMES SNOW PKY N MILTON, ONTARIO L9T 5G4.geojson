@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2999 James Snow Pkwy, Milton, ON L9T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60f0b07f14c04d47a4fc364f9bf32c38|BN20240423|7.7.0.0|",
+				"addressLine": "2999 James Snow Pkwy",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2999 James Snow Pkwy, Milton, ON L9T, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 5G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9128,
+					43.5355599
+				]
+			},
+			"bbox": [
+				-79.9143507,
+				43.5344357,
+				-79.9112493,
+				43.5366841
+			]
+		}
+	]
+}

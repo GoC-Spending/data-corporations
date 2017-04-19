@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10651 Shellbridge Way, Richmond, BC V6X 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "366a9b1281b548efa3271b76cbb446c4|BN20300154|7.7.0.0|",
+				"addressLine": "10651 Shellbridge Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10651 Shellbridge Way, Richmond, BC V6X 2W8, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Cambie",
+				"postalCode": "V6X 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10742,
+					49.18756
+				]
+			},
+			"bbox": [
+				-123.10914,
+				49.1864358,
+				-123.1057,
+				49.1886842
+			]
+		}
+	]
+}

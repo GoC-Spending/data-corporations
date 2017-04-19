@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "106 Back St, Thunder Bay, ON P7J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "29e9f665d6994f5f9ced3af8cebfb092|BN20130423|7.7.0.0|",
+				"addressLine": "106 Back St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "106 Back St, Thunder Bay, ON P7J, Canada",
+				"locality": "Thunder Bay",
+				"neighborhood": "Fort William First Nation",
+				"postalCode": "P7J 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.2692019,
+					48.3563254
+				]
+			},
+			"bbox": [
+				-89.2708936,
+				48.3552013,
+				-89.2675102,
+				48.3574496
+			]
+		}
+	]
+}

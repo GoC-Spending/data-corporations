@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1311 Belcher St, Port Williams, NS B0P 1T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2e90dc68e184e7d95cadfc7bf9e5dca|BN20121763|7.7.0.0|",
+				"addressLine": "1311 Belcher St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "1311 Belcher St, Port Williams, NS B0P 1T0, Canada",
+				"locality": "Kings",
+				"neighborhood": "Port Williams",
+				"postalCode": "B0P 1T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.4167362,
+					45.0920946
+				]
+			},
+			"bbox": [
+				-64.4183286,
+				45.0909704,
+				-64.4151439,
+				45.0932188
+			]
+		}
+	]
+}

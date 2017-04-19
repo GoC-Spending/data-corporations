@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4196 Kane Cres, Burlington, ON L7M 5C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "882865412b2a41fa8e16317ebe73ffb3|BN20130719|7.7.0.0|",
+				"addressLine": "4196 Kane Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "4196 Kane Cres, Burlington, ON L7M 5C1, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Milcroft",
+				"postalCode": "L7M 5C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81111,
+					43.39192
+				]
+			},
+			"bbox": [
+				-79.812657,
+				43.3907958,
+				-79.809563,
+				43.3930442
+			]
+		}
+	]
+}

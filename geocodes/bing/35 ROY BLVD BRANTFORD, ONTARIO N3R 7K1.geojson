@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Roy Blvd, Brantford, ON N3R 7K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "77025d1ef2e046239171e58668526487|BN20240253|7.7.0.0|",
+				"addressLine": "35 Roy Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Roy Blvd, Brantford, ON N3R 7K1, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 7K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2256939,
+					43.1736445
+				]
+			},
+			"bbox": [
+				-80.2272353,
+				43.1725203,
+				-80.2241524,
+				43.1747686
+			]
+		}
+	]
+}

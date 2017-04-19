@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "57 Gauthier St, Alexandria, ON K0C 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "340aacd5233044a49b5a034254bdea77|BN20130422|7.7.0.0|",
+				"addressLine": "57 Gauthier St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "57 Gauthier St, Alexandria, ON K0C 1A0, Canada",
+				"locality": "North Glengarry",
+				"neighborhood": "Alexandria",
+				"postalCode": "K0C 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.63199,
+					45.30203
+				]
+			},
+			"bbox": [
+				-74.6335882,
+				45.3009058,
+				-74.6303918,
+				45.3031542
+			]
+		}
+	]
+}

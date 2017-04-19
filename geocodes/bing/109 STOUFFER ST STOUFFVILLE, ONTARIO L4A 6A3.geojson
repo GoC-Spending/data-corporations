@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "109 Stouffer St, Stouffville, ON L4A 6A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48885bf2459c47adbc03ec4894d0385f|BN20130721|7.7.0.0|",
+				"addressLine": "109 Stouffer St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "109 Stouffer St, Stouffville, ON L4A 6A3, Canada",
+				"locality": "Whitchurch-Stouffville",
+				"neighborhood": "Stouffville",
+				"postalCode": "L4A 6A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2363,
+					43.97177
+				]
+			},
+			"bbox": [
+				-79.237862,
+				43.9706458,
+				-79.234738,
+				43.9728942
+			]
+		}
+	]
+}

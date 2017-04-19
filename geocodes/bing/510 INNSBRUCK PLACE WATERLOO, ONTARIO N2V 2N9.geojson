@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "510 Innsbruck Pl, Waterloo, ON N2V 2N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "314ad5d255964d489103a1098b34aa7a|BN20131519|7.7.0.0|",
+				"addressLine": "510 Innsbruck Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "510 Innsbruck Pl, Waterloo, ON N2V 2N9, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2V 2N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.58427,
+					43.45887
+				]
+			},
+			"bbox": [
+				-80.5858187,
+				43.4577458,
+				-80.5827213,
+				43.4599942
+			]
+		}
+	]
+}

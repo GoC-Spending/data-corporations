@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Campbell Dr, Uxbridge, ON L9P 1H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3dcb5abb61db465f8ddb4e6828742f14|BN20300154|7.7.0.0|",
+				"addressLine": "2 Campbell Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Campbell Dr, Uxbridge, ON L9P 1H6, Canada",
+				"locality": "Uxbridge",
+				"postalCode": "L9P 1H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1264,
+					44.10272
+				]
+			},
+			"bbox": [
+				-79.1279655,
+				44.1015958,
+				-79.1248345,
+				44.1038442
+			]
+		}
+	]
+}

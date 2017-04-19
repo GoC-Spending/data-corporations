@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1401 Princess Ave, Brandon, MB R7A 7L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "67ed12fef5734856b0e26444fff5973b|BN20131519|7.7.0.0|",
+				"addressLine": "1401 Princess Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1401 Princess Ave, Brandon, MB R7A 7L7, Canada",
+				"locality": "Brandon",
+				"postalCode": "R7A 7L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.95729,
+					49.8471199
+				]
+			},
+			"bbox": [
+				-99.9590333,
+				49.8459957,
+				-99.9555467,
+				49.8482441
+			]
+		}
+	]
+}

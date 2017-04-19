@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "440 Desalaberry Ave, Winnipeg, MB R2L 0Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de775422e40f44c8b3445c51b5864566|BN20240423|7.7.0.0|",
+				"addressLine": "440 Desalaberry Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "440 Desalaberry Ave, Winnipeg, MB R2L 0Y7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Chalmers",
+				"postalCode": "R2L 0Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.10593,
+					49.90398
+				]
+			},
+			"bbox": [
+				-97.1076754,
+				49.9028558,
+				-97.1041846,
+				49.9051042
+			]
+		}
+	]
+}

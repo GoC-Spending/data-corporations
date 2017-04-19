@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3050 Howard Ave, Windsor, ON N8X 3Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b948a4b7faa84ecc910a35ca508d4415|BN20190653|7.7.0.0|",
+				"addressLine": "3050 Howard Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3050 Howard Ave, Windsor, ON N8X 3Y7, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Devonshire",
+				"postalCode": "N8X 3Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.0050516,
+					42.2744572
+				]
+			},
+			"bbox": [
+				-83.0065709,
+				42.273333,
+				-83.0035323,
+				42.2755813
+			]
+		}
+	]
+}

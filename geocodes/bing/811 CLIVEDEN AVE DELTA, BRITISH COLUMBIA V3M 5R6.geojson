@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "811 Cliveden Ave, Delta, BC V3M 5R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a89d3bedc453416f836999e1c2e88236|BN20290118|7.7.0.0|",
+				"addressLine": "811 Cliveden Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "811 Cliveden Ave, Delta, BC V3M 5R6, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 5R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.93639,
+					49.17728
+				]
+			},
+			"bbox": [
+				-122.9381096,
+				49.1761558,
+				-122.9346704,
+				49.1784042
+			]
+		}
+	]
+}

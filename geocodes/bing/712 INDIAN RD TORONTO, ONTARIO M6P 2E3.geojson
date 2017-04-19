@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "712 Indian Rd, Toronto, ON M6P 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f5eb779bbb145a8a69def48b112a008|BN20190642|7.7.0.0|",
+				"addressLine": "712 Indian Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "712 Indian Rd, Toronto, ON M6P 2E3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park North",
+				"postalCode": "M6P 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45876,
+					43.66155
+				]
+			},
+			"bbox": [
+				-79.4603139,
+				43.6604258,
+				-79.4572061,
+				43.6626742
+			]
+		}
+	]
+}

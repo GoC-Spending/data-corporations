@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1255 Bay St, Toronto, ON M5R 2A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "405375f2a1a2411dbc482411ddec7a42|BN20130631|7.7.0.0|",
+				"addressLine": "1255 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1255 Bay St, Toronto, ON M5R 2A9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 2A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38976,
+					43.67123
+				]
+			},
+			"bbox": [
+				-79.3913142,
+				43.6701058,
+				-79.3882058,
+				43.6723542
+			]
+		}
+	]
+}

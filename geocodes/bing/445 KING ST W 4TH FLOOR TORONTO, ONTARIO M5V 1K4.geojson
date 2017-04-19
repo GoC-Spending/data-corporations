@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "445 King St W, Toronto, ON M5V 1K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d469f456c8ad4f6a8d3c9a8107a2945c|BN20160335|7.7.0.0|",
+				"addressLine": "445 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "445 King St W, Toronto, ON M5V 1K4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39579,
+					43.64502
+				]
+			},
+			"bbox": [
+				-79.3973435,
+				43.6438958,
+				-79.3942365,
+				43.6461442
+			]
+		}
+	]
+}

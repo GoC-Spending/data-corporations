@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "160 Sheppard Ave W, North York, ON M2N 1M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b75c254020134b0ba7b1cd67039112e6|BN20300154|7.7.0.0|",
+				"addressLine": "160 Sheppard Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "160 Sheppard Ave W, North York, ON M2N 1M8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lansing-Westgate",
+				"postalCode": "M2N 1M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41911,
+					43.75994
+				]
+			},
+			"bbox": [
+				-79.4206665,
+				43.7588158,
+				-79.4175535,
+				43.7610642
+			]
+		}
+	]
+}

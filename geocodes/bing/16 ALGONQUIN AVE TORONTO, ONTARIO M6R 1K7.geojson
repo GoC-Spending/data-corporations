@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Algonquin Ave, Toronto, ON M6R 1K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40040bda000d48dfbbf26db76d252c76|BN20160335|7.7.0.0|",
+				"addressLine": "16 Algonquin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Algonquin Ave, Toronto, ON M6R 1K7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6R 1K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4545,
+					43.64358
+				]
+			},
+			"bbox": [
+				-79.4560535,
+				43.6424558,
+				-79.4529465,
+				43.6447042
+			]
+		}
+	]
+}

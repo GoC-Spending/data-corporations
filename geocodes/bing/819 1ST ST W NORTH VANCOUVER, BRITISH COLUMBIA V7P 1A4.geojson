@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "819 1st St W, North Vancouver, BC V7P 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0db8fd32fc7c4cab83b5b25cb5956c58|BN20160335|7.7.0.0|",
+				"addressLine": "819 1st St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "819 1st St W, North Vancouver, BC V7P 1A4, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7P 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0956281,
+					49.3178956
+				]
+			},
+			"bbox": [
+				-123.0973526,
+				49.3167714,
+				-123.0939036,
+				49.3190197
+			]
+		}
+	]
+}

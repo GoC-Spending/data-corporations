@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1965 Ambassador Dr, Windsor, ON N9C 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "daa8b12d495c485e9236b3857e91f6cd|BN20130721|7.7.0.0|",
+				"addressLine": "1965 Ambassador Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1965 Ambassador Dr, Windsor, ON N9C 3R5, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Sandwich",
+				"postalCode": "N9C 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.05627,
+					42.27852
+				]
+			},
+			"bbox": [
+				-83.0577894,
+				42.2773958,
+				-83.0547506,
+				42.2796442
+			]
+		}
+	]
+}

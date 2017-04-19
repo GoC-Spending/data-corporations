@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4975 Walden St, Vancouver, BC V5W 2V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c00ea40afce4ce391b4ef2831ff121e|BN20240423|7.7.0.0|",
+				"addressLine": "4975 Walden St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4975 Walden St, Vancouver, BC V5W 2V6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5W 2V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10056,
+					49.2398
+				]
+			},
+			"bbox": [
+				-123.1022818,
+				49.2386758,
+				-123.0988382,
+				49.2409242
+			]
+		}
+	]
+}

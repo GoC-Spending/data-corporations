@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "771 39e Avenue, Lachine, QC H8T 2E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eea0dd4e64f8445698a7a09503492c23|BN20300154|7.7.0.0|",
+				"addressLine": "771 39e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "771 39e Avenue, Lachine, QC H8T 2E4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 2E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.70045,
+					45.44405
+				]
+			},
+			"bbox": [
+				-73.7020523,
+				45.4429258,
+				-73.6988477,
+				45.4451742
+			]
+		}
+	]
+}

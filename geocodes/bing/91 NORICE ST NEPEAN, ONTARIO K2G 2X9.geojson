@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Norice St, Nepean, ON K2G 2X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dda0df1ec914415e86b7268e6902ff68|BN20130625|7.7.0.0|",
+				"addressLine": "91 Norice St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Norice St, Nepean, ON K2G 2X9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2G 2X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.74343,
+					45.34434
+				]
+			},
+			"bbox": [
+				-75.7450294,
+				45.3432158,
+				-75.7418306,
+				45.3454642
+			]
+		}
+	]
+}

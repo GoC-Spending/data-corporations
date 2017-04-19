@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "312 Grays Rd, Hamilton, ON L8E 1V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f670f6e5624439c9b281e4b3b7d4dc9|BN20290118|7.7.0.0|",
+				"addressLine": "312 Grays Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "312 Grays Rd, Hamilton, ON L8E 1V5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 1V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7399331,
+					43.2327025
+				]
+			},
+			"bbox": [
+				-79.741476,
+				43.2315784,
+				-79.7383902,
+				43.2338267
+			]
+		}
+	]
+}

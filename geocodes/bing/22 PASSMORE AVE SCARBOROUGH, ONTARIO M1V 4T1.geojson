@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Passmore Ave, Scarborough, ON M1V 4T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a34ed61106a446f0995afbc393c60bd2|BN20260223|7.7.0.0|",
+				"addressLine": "22 Passmore Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Passmore Ave, Scarborough, ON M1V 4T1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 4T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30277,
+					43.81936
+				]
+			},
+			"bbox": [
+				-79.304328,
+				43.8182358,
+				-79.301212,
+				43.8204842
+			]
+		}
+	]
+}

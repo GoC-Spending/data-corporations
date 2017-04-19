@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "284 Union St, Elmira, ON N3B 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65904732f2a644818231b4c60af938cd|BN20130621|7.7.0.0|",
+				"addressLine": "284 Union St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "284 Union St, Elmira, ON N3B 3P2, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Elmira",
+				"postalCode": "N3B 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.55774,
+					43.57928
+				]
+			},
+			"bbox": [
+				-80.5592918,
+				43.5781558,
+				-80.5561882,
+				43.5804042
+			]
+		}
+	]
+}

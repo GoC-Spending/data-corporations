@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "510 Rue Lindbergh, Laval, QC H7P 2N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85e928447e2e4b64b00221275a13d79a|BN20130634|7.7.0.0|",
+				"addressLine": "510 Rue Lindbergh",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "510 Rue Lindbergh, Laval, QC H7P 2N9, Canada",
+				"locality": "Laval",
+				"postalCode": "H7P 2N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7841399,
+					45.58111
+				]
+			},
+			"bbox": [
+				-73.7857461,
+				45.5799858,
+				-73.7825337,
+				45.5822342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Country Hills Lndg NW, Calgary, AB T3K 5P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d23e991b9384d289e75ed0c492434dd|BN20300154|7.7.0.0|",
+				"addressLine": "150 Country Hills Lndg NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Country Hills Lndg NW, Calgary, AB T3K 5P3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Country Hills",
+				"postalCode": "T3K 5P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.07529,
+					51.1426
+				]
+			},
+			"bbox": [
+				-114.0770818,
+				51.1414758,
+				-114.0734982,
+				51.1437242
+			]
+		}
+	]
+}

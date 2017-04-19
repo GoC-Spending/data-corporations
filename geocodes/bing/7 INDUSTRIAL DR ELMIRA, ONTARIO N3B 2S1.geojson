@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Industrial Dr, Elmira, ON N3B 2S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea6b896d8e2544f4b45375a82054b3df|BN20290118|7.7.0.0|",
+				"addressLine": "7 Industrial Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Industrial Dr, Elmira, ON N3B 2S1, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Elmira",
+				"postalCode": "N3B 2S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5607579,
+					43.5909485
+				]
+			},
+			"bbox": [
+				-80.56231,
+				43.5898243,
+				-80.5592058,
+				43.5920727
+			]
+		}
+	]
+}

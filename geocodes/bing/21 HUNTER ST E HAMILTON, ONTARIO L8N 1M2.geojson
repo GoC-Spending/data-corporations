@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Hunter St E, Hamilton, ON L8N 1M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ec48df56602447c9a5d027e1a2d84a4|BN20130532|7.7.0.0|",
+				"addressLine": "21 Hunter St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Hunter St E, Hamilton, ON L8N 1M2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Corktown",
+				"postalCode": "L8N 1M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86866,
+					43.25354
+				]
+			},
+			"bbox": [
+				-79.8702035,
+				43.2524158,
+				-79.8671165,
+				43.2546642
+			]
+		}
+	]
+}

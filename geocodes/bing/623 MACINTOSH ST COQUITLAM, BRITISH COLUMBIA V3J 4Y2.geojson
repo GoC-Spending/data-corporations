@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "623 Macintosh St, Coquitlam, BC V3J 4Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d082604b8bb44b05a6c10ce2b10e6eb2|BN20130532|7.7.0.0|",
+				"addressLine": "623 Macintosh St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "623 Macintosh St, Coquitlam, BC V3J 4Y2, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Central Coquitlam",
+				"postalCode": "V3J 4Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.86537,
+					49.2548699
+				]
+			},
+			"bbox": [
+				-122.8670923,
+				49.2537457,
+				-122.8636477,
+				49.2559941
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Estates Rd, Dartmouth, NS B2Y 4K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db1a1be38635478ea8c34e07caee7225|BN20121764|7.7.0.0|",
+				"addressLine": "30 Estates Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Estates Rd, Dartmouth, NS B2Y 4K7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2Y 4K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.54152,
+					44.6541
+				]
+			},
+			"bbox": [
+				-63.5431003,
+				44.6529758,
+				-63.5399397,
+				44.6552242
+			]
+		}
+	]
+}

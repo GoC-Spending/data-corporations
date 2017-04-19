@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Mackay Cres, Fort McMurray, AB T9H 4T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1b5212b18314b81a5437d587f668bc5|BN20300154|7.7.0.0|",
+				"addressLine": "200 Mackay Cres",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Mackay Cres, Fort McMurray, AB T9H 4T5, Canada",
+				"locality": "Wood Buffalo",
+				"neighborhood": "Fort McMurray",
+				"postalCode": "T9H 4T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.3279687,
+					56.6680943
+				]
+			},
+			"bbox": [
+				-111.3300145,
+				56.6669702,
+				-111.3259229,
+				56.6692185
+			]
+		}
+	]
+}

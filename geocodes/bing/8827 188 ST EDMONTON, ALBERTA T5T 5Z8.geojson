@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8827 188 St NW, Edmonton, AB T5T 5Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76df60b19ff7465f83235f55bafabf04|BN20181720|7.7.0.0|",
+				"addressLine": "8827 188 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "8827 188 St NW, Edmonton, AB T5T 5Z8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Belmead",
+				"postalCode": "T5T 5Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.64739,
+					53.52382
+				]
+			},
+			"bbox": [
+				-113.649281,
+				53.5226958,
+				-113.645499,
+				53.5249442
+			]
+		}
+	]
+}

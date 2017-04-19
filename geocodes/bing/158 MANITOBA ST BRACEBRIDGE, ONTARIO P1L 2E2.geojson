@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "158 Manitoba St, Bracebridge, ON P1L 1Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f697a41958a74f7f86f8a9688b9b4acd|BN20130631|7.7.0.0|",
+				"addressLine": "158 Manitoba St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "158 Manitoba St, Bracebridge, ON P1L 1Z9, Canada",
+				"locality": "Bracebridge",
+				"postalCode": "P1L 1Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31524,
+					45.0432
+				]
+			},
+			"bbox": [
+				-79.316831,
+				45.0420758,
+				-79.313649,
+				45.0443242
+			]
+		}
+	]
+}

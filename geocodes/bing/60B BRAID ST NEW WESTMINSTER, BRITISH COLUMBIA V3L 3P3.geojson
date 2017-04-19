@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Braid St, New Westminster, BC V3L 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5eb151d3b53d4e6db42ec0ec6780827d|BN20130442|7.7.0.0|",
+				"addressLine": "60 Braid St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Braid St, New Westminster, BC V3L 3P3, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Brunette Creek",
+				"postalCode": "V3L 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8805595,
+					49.2303633
+				]
+			},
+			"bbox": [
+				-122.882281,
+				49.2292392,
+				-122.8788381,
+				49.2314875
+			]
+		}
+	]
+}

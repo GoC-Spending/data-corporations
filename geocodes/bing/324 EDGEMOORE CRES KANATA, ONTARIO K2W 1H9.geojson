@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "324 Edgemoore Cres, Kanata, ON K2W 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61f7085dd0664d6db1816e490e1cd567|BN20210145|7.7.0.0|",
+				"addressLine": "324 Edgemoore Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "324 Edgemoore Cres, Kanata, ON K2W 1H9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2W 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.94496,
+					45.3537899
+				]
+			},
+			"bbox": [
+				-75.9465597,
+				45.3526657,
+				-75.9433603,
+				45.3549141
+			]
+		}
+	]
+}

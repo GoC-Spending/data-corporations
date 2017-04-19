@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2929 Barnet Hwy, Coquitlam, BC V3B 5R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0ff48a3fa154096940a5c7a3fd74c7d|BN20130431|7.7.0.0|",
+				"addressLine": "2929 Barnet Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2929 Barnet Hwy, Coquitlam, BC V3B 5R5, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Town Centre",
+				"postalCode": "V3B 5R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8004158,
+					49.2772635
+				]
+			},
+			"bbox": [
+				-122.8021389,
+				49.2761393,
+				-122.7986927,
+				49.2783876
+			]
+		}
+	]
+}

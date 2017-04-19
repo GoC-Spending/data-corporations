@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11322 77 Ave, Delta, BC V4C 1L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f02018ea96844e5084d38911274c7a57|BN20181720|7.7.0.0|",
+				"addressLine": "11322 77 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "11322 77 Ave, Delta, BC V4C 1L9, Canada",
+				"locality": "Delta",
+				"postalCode": "V4C 1L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.90946,
+					49.1429
+				]
+			},
+			"bbox": [
+				-122.9111784,
+				49.1417758,
+				-122.9077416,
+				49.1440242
+			]
+		}
+	]
+}

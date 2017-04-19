@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "122 Middleton St, Brantford, ON N3S 7V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8ad8f9b537441788ce34e06b6cddd2b|BN20240423|7.7.0.0|",
+				"addressLine": "122 Middleton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "122 Middleton St, Brantford, ON N3S 7V7, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 7V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2259038,
+					43.1599029
+				]
+			},
+			"bbox": [
+				-80.2274449,
+				43.1587788,
+				-80.2243627,
+				43.1610271
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1456 Rue de Jaffa, Laval, QC H7P 4K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ece29eae32414688a5c0c1f3a88925f0|BN20260223|7.7.0.0|",
+				"addressLine": "1456 Rue de Jaffa",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1456 Rue de Jaffa, Laval, QC H7P 4K9, Canada",
+				"locality": "Laval",
+				"postalCode": "H7P 4K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.80647,
+					45.60274
+				]
+			},
+			"bbox": [
+				-73.8080768,
+				45.6016158,
+				-73.8048632,
+				45.6038642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Lindsay St S, Lindsay, ON K9V 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d929255558e4ca096727bd131de0b36|BN20260231|7.7.0.0|",
+				"addressLine": "20 Lindsay St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Lindsay St S, Lindsay, ON K9V 2L6, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Lindsay",
+				"postalCode": "K9V 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7340399,
+					44.35586
+				]
+			},
+			"bbox": [
+				-78.7356121,
+				44.3547358,
+				-78.7324677,
+				44.3569842
+			]
+		}
+	]
+}

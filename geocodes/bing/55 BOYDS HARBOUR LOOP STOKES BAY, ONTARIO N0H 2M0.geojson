@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Boyds Harbour Loop, Northern Bruce Peninsula, ON N0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "66f2ec3570ab47668b84664dbb79a537|BN20130634|7.7.0.0|",
+				"addressLine": "55 Boyds Harbour Loop",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Boyds Harbour Loop, Northern Bruce Peninsula, ON N0H, Canada",
+				"locality": "Northern Bruce Peninsula",
+				"neighborhood": "Stokes Bay",
+				"postalCode": "N0H 2M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.4026416,
+					44.985321
+				]
+			},
+			"bbox": [
+				-81.4042309,
+				44.9841969,
+				-81.4010522,
+				44.9864452
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18905 111 Ave NW, Edmonton, AB T5S 2X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f8ce748b1ab24743bf734aa0197ea944|BN20130621|7.7.0.0|",
+				"addressLine": "18905 111 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "18905 111 Ave NW, Edmonton, AB T5S 2X4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "White Industrial",
+				"postalCode": "T5S 2X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.64759,
+					53.55781
+				]
+			},
+			"bbox": [
+				-113.6494825,
+				53.5566858,
+				-113.6456975,
+				53.5589342
+			]
+		}
+	]
+}

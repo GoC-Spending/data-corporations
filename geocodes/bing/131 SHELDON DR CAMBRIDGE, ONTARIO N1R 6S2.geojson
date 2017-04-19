@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Sheldon Dr, Cambridge, ON N1R 6S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee3ed403ef3345e6af630618e6428f0e|BN20130620|7.7.0.0|",
+				"addressLine": "131 Sheldon Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Sheldon Dr, Cambridge, ON N1R 6S2, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 6S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31511,
+					43.40241
+				]
+			},
+			"bbox": [
+				-80.3166573,
+				43.4012858,
+				-80.3135627,
+				43.4035342
+			]
+		}
+	]
+}

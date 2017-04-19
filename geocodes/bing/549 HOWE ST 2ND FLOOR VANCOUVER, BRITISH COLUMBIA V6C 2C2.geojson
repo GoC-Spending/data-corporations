@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "549 Howe St, Vancouver, BC V6C 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6960d27d3aa8411b8c46089d4d3676b5|BN20130521|7.7.0.0|",
+				"addressLine": "549 Howe St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "549 Howe St, Vancouver, BC V6C 2C2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6C 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11698,
+					49.28499
+				]
+			},
+			"bbox": [
+				-123.1187034,
+				49.2838658,
+				-123.1152566,
+				49.2861142
+			]
+		}
+	]
+}

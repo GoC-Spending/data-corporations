@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 W 6th Ave, Vancouver, BC V5Y 1K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a51c645cf8b42058c632f8dbb1dfdae|BN20320521|7.7.0.0|",
+				"addressLine": "101 W 6th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 W 6th Ave, Vancouver, BC V5Y 1K3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10697,
+					49.26587
+				]
+			},
+			"bbox": [
+				-123.1086927,
+				49.2647458,
+				-123.1052473,
+				49.2669942
+			]
+		}
+	]
+}

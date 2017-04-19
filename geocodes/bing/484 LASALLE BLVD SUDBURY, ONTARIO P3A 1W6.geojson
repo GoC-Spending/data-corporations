@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "484 Lasalle Blvd, Sudbury, ON P3A 1W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78394b96049a496c83dbdd4882993b62|BN20130431|7.7.0.0|",
+				"addressLine": "484 Lasalle Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "484 Lasalle Blvd, Sudbury, ON P3A 1W6, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3A 1W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.97406,
+					46.5225099
+				]
+			},
+			"bbox": [
+				-80.9756938,
+				46.5213857,
+				-80.9724262,
+				46.5236341
+			]
+		}
+	]
+}

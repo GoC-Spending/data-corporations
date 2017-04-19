@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Delaware Ave, Toronto, ON M6H 2S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8621aae22f454524ae185a0d5cfdb31c|BN20130422|7.7.0.0|",
+				"addressLine": "29 Delaware Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Delaware Ave, Toronto, ON M6H 2S8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6H 2S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42533,
+					43.6550299
+				]
+			},
+			"bbox": [
+				-79.4268837,
+				43.6539057,
+				-79.4237763,
+				43.6561541
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "194 Weber St E, Kitchener, ON N2H 1E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9228f9e582241339ecaf1027c68ccf0|BN20130530|7.7.0.0|",
+				"addressLine": "194 Weber St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "194 Weber St E, Kitchener, ON N2H 1E4, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Auditorium",
+				"postalCode": "N2H 1E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.47715,
+					43.44751
+				]
+			},
+			"bbox": [
+				-80.4786984,
+				43.4463858,
+				-80.4756016,
+				43.4486342
+			]
+		}
+	]
+}

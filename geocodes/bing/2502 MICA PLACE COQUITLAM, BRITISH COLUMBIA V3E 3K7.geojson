@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2502 Mica Pl, Coquitlam, BC V3E 3K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d66951e44754468a7b829b018f582b6|BN20130447|7.7.0.0|",
+				"addressLine": "2502 Mica Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2502 Mica Pl, Coquitlam, BC V3E 3K7, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Westwood Plateau",
+				"postalCode": "V3E 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.82169,
+					49.30347
+				]
+			},
+			"bbox": [
+				-122.823414,
+				49.3023458,
+				-122.819966,
+				49.3045942
+			]
+		}
+	]
+}

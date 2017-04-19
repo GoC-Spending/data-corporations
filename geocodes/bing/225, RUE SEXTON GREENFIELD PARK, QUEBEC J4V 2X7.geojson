@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Rue Sexton, Greenfield Park, QC J4V 2X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c9cbe41f0974ad9a246342809e5383a|BN20130522|7.7.0.0|",
+				"addressLine": "225 Rue Sexton",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Longueuil",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Rue Sexton, Greenfield Park, QC J4V 2X7, Canada",
+				"locality": "Longueuil",
+				"neighborhood": "Greenfield Park",
+				"postalCode": "J4V 2X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.47211,
+					45.48387
+				]
+			},
+			"bbox": [
+				-73.4737134,
+				45.4827458,
+				-73.4705066,
+				45.4849942
+			]
+		}
+	]
+}

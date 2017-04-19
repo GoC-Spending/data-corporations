@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "190 Beck St, Cambridge, ON N3H 2Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e89409212187416c80ad7557e1eec04e|BN20130530|7.7.0.0|",
+				"addressLine": "190 Beck St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "190 Beck St, Cambridge, ON N3H 2Y3, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Preston Centre",
+				"postalCode": "N3H 2Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3540464,
+					43.3875689
+				]
+			},
+			"bbox": [
+				-80.3555932,
+				43.3864448,
+				-80.3524995,
+				43.3886931
+			]
+		}
+	]
+}

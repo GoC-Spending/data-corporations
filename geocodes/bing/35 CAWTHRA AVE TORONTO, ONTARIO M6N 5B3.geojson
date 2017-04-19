@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Cawthra Ave, Toronto, ON M6N 5B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d38b67a403fd4258af3fc961a3655262|BN20130632|7.7.0.0|",
+				"addressLine": "35 Cawthra Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Cawthra Ave, Toronto, ON M6N 5B3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Junction Area",
+				"postalCode": "M6N 5B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46298,
+					43.66966
+				]
+			},
+			"bbox": [
+				-79.4645341,
+				43.6685358,
+				-79.4614259,
+				43.6707842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1100 Patricia Blvd, Prince George, BC V2L 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81b3e6e1669f4b3e8c2d0adaf0a56615|BN20200137|7.7.0.0|",
+				"addressLine": "1100 Patricia Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "1100 Patricia Blvd, Prince George, BC V2L 3V9, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2L 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.744444,
+					53.9126156
+				]
+			},
+			"bbox": [
+				-122.7463525,
+				53.9114915,
+				-122.7425354,
+				53.9137398
+			]
+		}
+	]
+}

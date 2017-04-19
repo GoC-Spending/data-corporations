@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "333 Vellore Ave, Woodbridge, ON L4H 2Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a0d6f9689f624df382b96f09f9e56c3b|BN20130719|7.7.0.0|",
+				"addressLine": "333 Vellore Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "333 Vellore Ave, Woodbridge, ON L4H 2Z2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4H 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56948,
+					43.838
+				]
+			},
+			"bbox": [
+				-79.5710385,
+				43.8368758,
+				-79.5679215,
+				43.8391242
+			]
+		}
+	]
+}

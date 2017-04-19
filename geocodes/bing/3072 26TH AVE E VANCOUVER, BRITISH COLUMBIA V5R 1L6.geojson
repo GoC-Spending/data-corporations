@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3072 E 26th Ave, Vancouver, BC V5R 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c4852419481414daf5382cfdaa2060f|BN20300154|7.7.0.0|",
+				"addressLine": "3072 E 26th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3072 E 26th Ave, Vancouver, BC V5R 1L6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5R 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0399,
+					49.24682
+				]
+			},
+			"bbox": [
+				-123.041622,
+				49.2456958,
+				-123.038178,
+				49.2479442
+			]
+		}
+	]
+}

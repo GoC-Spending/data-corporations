@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "114 Ansondale Rd, London, ON N6C 5S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95cad579c5b242af985bdc21a55f05dc|CO30276337|7.7.0.0|",
+				"addressLine": "114 Ansondale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "114 Ansondale Rd, London, ON N6C 5S8, Canada",
+				"locality": "London",
+				"neighborhood": "Highland",
+				"postalCode": "N6C 5S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2486,
+					42.9433
+				]
+			},
+			"bbox": [
+				-81.2501357,
+				42.9421758,
+				-81.2470643,
+				42.9444242
+			]
+		}
+	]
+}

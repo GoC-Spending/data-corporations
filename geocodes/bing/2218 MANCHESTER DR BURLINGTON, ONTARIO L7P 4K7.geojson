@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2218 Manchester Dr, Burlington, ON L7P 4K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7a97c1ee45b41358d0b43f4e3d6589e|BN20121763|7.7.0.0|",
+				"addressLine": "2218 Manchester Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2218 Manchester Dr, Burlington, ON L7P 4K7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Brant Hills",
+				"postalCode": "L7P 4K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84353,
+					43.36741
+				]
+			},
+			"bbox": [
+				-79.8450764,
+				43.3662858,
+				-79.8419836,
+				43.3685342
+			]
+		}
+	]
+}

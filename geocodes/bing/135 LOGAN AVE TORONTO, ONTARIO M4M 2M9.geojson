@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Logan Ave, Toronto, ON M4M 2M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1012d4c0e12f441f897421f6d923d98f|BN20121764|7.7.0.0|",
+				"addressLine": "135 Logan Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Logan Ave, Toronto, ON M4M 2M9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Riverdale",
+				"postalCode": "M4M 2M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34088,
+					43.65773
+				]
+			},
+			"bbox": [
+				-79.3424338,
+				43.6566058,
+				-79.3393262,
+				43.6588542
+			]
+		}
+	]
+}

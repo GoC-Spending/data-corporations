@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3224 Kalum St, Terrace, BC V8G 2N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b10202162ae4c73a44ebf2e281ddec1|BN20130530|7.7.0.0|",
+				"addressLine": "3224 Kalum St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Kitimat-Stikine",
+				"countryRegion": "Canada",
+				"formattedAddress": "3224 Kalum St, Terrace, BC V8G 2N1, Canada",
+				"locality": "Terrace",
+				"postalCode": "V8G 2N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-128.5863777,
+					54.5166557
+				]
+			},
+			"bbox": [
+				-128.5883144,
+				54.5155315,
+				-128.5844411,
+				54.5177798
+			]
+		}
+	]
+}

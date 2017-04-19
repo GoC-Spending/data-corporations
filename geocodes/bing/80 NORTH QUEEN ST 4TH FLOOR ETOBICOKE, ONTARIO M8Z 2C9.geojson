@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 N Queen St, Etobicoke, ON M8Z 2C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05403342224642878513eb32bf2141a3|BN20320521|7.7.0.0|",
+				"addressLine": "80 N Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 N Queen St, Etobicoke, ON M8Z 2C9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54267,
+					43.62238
+				]
+			},
+			"bbox": [
+				-79.5442229,
+				43.6212558,
+				-79.5411171,
+				43.6235042
+			]
+		}
+	]
+}

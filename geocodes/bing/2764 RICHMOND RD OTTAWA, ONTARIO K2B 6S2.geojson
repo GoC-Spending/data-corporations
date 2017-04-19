@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2764 Richmond Rd, Ottawa, ON K2B 6S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd27ad3457c744a8814638f930a49c05|BN20131519|7.7.0.0|",
+				"addressLine": "2764 Richmond Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2764 Richmond Rd, Ottawa, ON K2B 6S2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Whitehaven-Queensway Terr North",
+				"postalCode": "K2B 6S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.79351,
+					45.35841
+				]
+			},
+			"bbox": [
+				-75.7951098,
+				45.3572858,
+				-75.7919102,
+				45.3595342
+			]
+		}
+	]
+}

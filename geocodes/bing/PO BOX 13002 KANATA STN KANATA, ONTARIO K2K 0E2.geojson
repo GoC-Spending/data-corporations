@@ -1,0 +1,79 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Kanata, Ottawa, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e0b1ed1d2314164bc174c59c9876e5c|BN20121763|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kanata, Ottawa, Ontario, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9070434570313,
+					45.3017311096191
+				]
+			},
+			"bbox": [
+				-75.9517288208008,
+				45.2698402404785,
+				-75.8357315063477,
+				45.3642501831055
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Ottawa, K2K 0E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e0b1ed1d2314164bc174c59c9876e5c|BN20121763|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ottawa, K2K 0E2, Canada",
+				"locality": "Ottawa",
+				"postalCode": "K2K 0E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9070434570313,
+					45.3017311096191
+				]
+			},
+			"bbox": [
+				-75.9143652302381,
+				45.2978683920485,
+				-75.8997216838244,
+				45.3055938271898
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2055 Prince Charles Rd, Ottawa, ON K2A 3K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c8f1b9009694251acb91051dc1b835e|BN20130447|7.7.0.0|",
+				"addressLine": "2055 Prince Charles Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2055 Prince Charles Rd, Ottawa, ON K2A 3K9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carlingwood-McKellar Pk-Laurentien",
+				"postalCode": "K2A 3K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.76807,
+					45.37621
+				]
+			},
+			"bbox": [
+				-75.7696703,
+				45.3750858,
+				-75.7664697,
+				45.3773342
+			]
+		}
+	]
+}

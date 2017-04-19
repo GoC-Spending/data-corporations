@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Burnett Ave, Winnipeg, MB R2G 1C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "725a1d063ec64a2d9314692ea4f38571|BN20130431|7.7.0.0|",
+				"addressLine": "60 Burnett Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Burnett Ave, Winnipeg, MB R2G 1C1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "McLeod Industrial",
+				"postalCode": "R2G 1C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.06376,
+					49.93118
+				]
+			},
+			"bbox": [
+				-97.0655064,
+				49.9300558,
+				-97.0620136,
+				49.9323042
+			]
+		}
+	]
+}

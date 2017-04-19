@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1745 McPherson Ct, Pickering, ON L1W 3E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "09391aadb6df4c49bacf8bc9f61792e7|BN20320521|7.7.0.0|",
+				"addressLine": "1745 McPherson Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1745 McPherson Ct, Pickering, ON L1W 3E9, Canada",
+				"locality": "Pickering",
+				"postalCode": "L1W 3E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0612714,
+					43.8212448
+				]
+			},
+			"bbox": [
+				-79.0628294,
+				43.8201206,
+				-79.0597133,
+				43.8223689
+			]
+		}
+	]
+}

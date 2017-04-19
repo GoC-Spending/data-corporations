@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "169 Phyllis Ave, Scarborough, ON M1M 1Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "66ae1ae8da8f44f783d557d2757ec1f6|BN20130423|7.7.0.0|",
+				"addressLine": "169 Phyllis Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "169 Phyllis Ave, Scarborough, ON M1M 1Y7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Cliffcrest",
+				"postalCode": "M1M 1Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23183,
+					43.7300899
+				]
+			},
+			"bbox": [
+				-79.2333857,
+				43.7289657,
+				-79.2302743,
+				43.7312141
+			]
+		}
+	]
+}

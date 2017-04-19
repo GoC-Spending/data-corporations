@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "497 Discovery Ave, Kingston, ON K7K 7E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6772e9b56a6a410298fa7dd67d7cd3da|BN20190642|7.7.0.0|",
+				"addressLine": "497 Discovery Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "497 Discovery Ave, Kingston, ON K7K 7E8, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Greenwood Park/St Lawrence South",
+				"postalCode": "K7K 7E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.44222,
+					44.27428
+				]
+			},
+			"bbox": [
+				-76.44379,
+				44.2731558,
+				-76.44065,
+				44.2754042
+			]
+		}
+	]
+}

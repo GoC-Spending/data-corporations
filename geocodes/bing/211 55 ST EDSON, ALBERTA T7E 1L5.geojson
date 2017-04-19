@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "211 55 St, Edson, AB T7E 1L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "79eaf53e31e1414db9e8fa234a301edb|BN20130533|7.7.0.0|",
+				"addressLine": "211 55 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "211 55 St, Edson, AB T7E 1L5, Canada",
+				"locality": "Edson",
+				"postalCode": "T7E 1L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.4428435,
+					53.5788111
+				]
+			},
+			"bbox": [
+				-116.4447369,
+				53.5776869,
+				-116.4409501,
+				53.5799352
+			]
+		}
+	]
+}

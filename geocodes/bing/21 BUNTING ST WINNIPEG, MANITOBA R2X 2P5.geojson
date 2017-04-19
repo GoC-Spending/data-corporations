@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Bunting St, Winnipeg, MB R2X 2P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08690de554714e0d86c76c709052ece4|BN20130533|7.7.0.0|",
+				"addressLine": "21 Bunting St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Bunting St, Winnipeg, MB R2X 2P5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17165,
+					49.93759
+				]
+			},
+			"bbox": [
+				-97.1733966,
+				49.9364658,
+				-97.1699034,
+				49.9387142
+			]
+		}
+	]
+}

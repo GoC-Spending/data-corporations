@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2170 Lougheed Hwy, Kent, BC V0M 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab46e9117fc64927a4fc0a62b4dc9b3f|BN20260223|7.7.0.0|",
+				"addressLine": "2170 Lougheed Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2170 Lougheed Hwy, Kent, BC V0M 1A1, Canada",
+				"locality": "Kent",
+				"postalCode": "V0M 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.90246,
+					49.23345
+				]
+			},
+			"bbox": [
+				-121.9041816,
+				49.2323258,
+				-121.9007384,
+				49.2345742
+			]
+		}
+	]
+}

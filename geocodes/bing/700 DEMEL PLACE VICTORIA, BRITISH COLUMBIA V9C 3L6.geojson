@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "700 Demel Pl, Colwood, BC V9C 3L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bafb53cfb164410b09a4f7238525c86|BN20190653|7.7.0.0|",
+				"addressLine": "700 Demel Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "700 Demel Pl, Colwood, BC V9C 3L6, Canada",
+				"locality": "Colwood",
+				"postalCode": "V9C 3L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5084039,
+					48.4196139
+				]
+			},
+			"bbox": [
+				-123.5100977,
+				48.4184897,
+				-123.5067101,
+				48.420738
+			]
+		}
+	]
+}

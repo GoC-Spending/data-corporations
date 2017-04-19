@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "789 McCallum Rd, Langford, BC V9B 6A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b66b006c06d442de9ebf281e476a3d3f|BN20130620|7.7.0.0|",
+				"addressLine": "789 McCallum Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "789 McCallum Rd, Langford, BC V9B 6A2, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 6A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.50048,
+					48.4594
+				]
+			},
+			"bbox": [
+				-123.5021752,
+				48.4582758,
+				-123.4987848,
+				48.4605242
+			]
+		}
+	]
+}

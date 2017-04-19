@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Presley St, Cobalt, ON P0J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c5b09604f0af4a7cad1fdcb7b197d61e|BN20121762|7.7.0.0|",
+				"addressLine": "1 Presley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Timiskaming",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Presley St, Cobalt, ON P0J, Canada",
+				"locality": "Cobalt",
+				"postalCode": "P0J 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6849017,
+					47.3954433
+				]
+			},
+			"bbox": [
+				-79.6865623,
+				47.3943192,
+				-79.683241,
+				47.3965675
+			]
+		}
+	]
+}

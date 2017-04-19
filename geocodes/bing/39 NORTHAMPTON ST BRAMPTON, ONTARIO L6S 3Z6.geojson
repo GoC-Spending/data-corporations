@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Northampton St, Brampton, ON L6S 3Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "586b12ea23734a3d97b8595a729758c9|BN20121763|7.7.0.0|",
+				"addressLine": "39 Northampton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Northampton St, Brampton, ON L6S 3Z6, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6S 3Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.74779,
+					43.72466
+				]
+			},
+			"bbox": [
+				-79.7493456,
+				43.7235358,
+				-79.7462344,
+				43.7257842
+			]
+		}
+	]
+}

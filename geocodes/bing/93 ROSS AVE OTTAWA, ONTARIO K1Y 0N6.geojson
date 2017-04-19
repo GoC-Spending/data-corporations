@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "93 Ross Ave, Ottawa, ON K1Y 0N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6526e68708c54d0cb239570002464704|BN20190653|7.7.0.0|",
+				"addressLine": "93 Ross Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "93 Ross Ave, Ottawa, ON K1Y 0N6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Island Park",
+				"postalCode": "K1Y 0N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73754,
+					45.39945
+				]
+			},
+			"bbox": [
+				-75.739141,
+				45.3983258,
+				-75.735939,
+				45.4005742
+			]
+		}
+	]
+}

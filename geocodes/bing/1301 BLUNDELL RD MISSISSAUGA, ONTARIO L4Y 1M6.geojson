@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1301 Blundell Rd, Mississauga, ON L4Y 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c317f8d2ad64bcc80bbb191d3ccbc67|BN20200239|7.7.0.0|",
+				"addressLine": "1301 Blundell Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1301 Blundell Rd, Mississauga, ON L4Y 1M6, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4Y 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58373,
+					43.60581
+				]
+			},
+			"bbox": [
+				-79.5852825,
+				43.6046858,
+				-79.5821775,
+				43.6069342
+			]
+		}
+	]
+}

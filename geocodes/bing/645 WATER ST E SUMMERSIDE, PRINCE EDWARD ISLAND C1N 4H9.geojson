@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "645 Water St E, Summerside, PE C1N 4H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "376c84e41d5e4f18b5503d0dc3984958|BN20320521|7.7.0.0|",
+				"addressLine": "645 Water St E",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "645 Water St E, Summerside, PE C1N 4H9, Canada",
+				"locality": "Summerside",
+				"postalCode": "C1N 4H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.76602,
+					46.39531
+				]
+			},
+			"bbox": [
+				-63.76765,
+				46.3941858,
+				-63.76439,
+				46.3964342
+			]
+		}
+	]
+}

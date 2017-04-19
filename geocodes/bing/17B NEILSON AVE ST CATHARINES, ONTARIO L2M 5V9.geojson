@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Neilson Ave, St Catharines, ON L2M 5V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f71203465284ac7a9be22440e7fadab|BN20130632|7.7.0.0|",
+				"addressLine": "17 Neilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Neilson Ave, St Catharines, ON L2M 5V9, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Queenston",
+				"postalCode": "L2M 5V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.21595,
+					43.17189
+				]
+			},
+			"bbox": [
+				-79.2174914,
+				43.1707658,
+				-79.2144086,
+				43.1730142
+			]
+		}
+	]
+}

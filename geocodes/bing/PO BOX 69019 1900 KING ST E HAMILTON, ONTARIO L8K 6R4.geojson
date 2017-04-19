@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1900 King St E, Hamilton, ON L8K 1W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9910f5f641ee4f688be1933867b635e4|BN20300154|7.7.0.0|",
+				"addressLine": "1900 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1900 King St E, Hamilton, ON L8K 1W1, Canada",
+				"locality": "Hamilton",
+				"postalCode": "L8K 1W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80685,
+					43.23105
+				]
+			},
+			"bbox": [
+				-79.8083929,
+				43.2299258,
+				-79.8053071,
+				43.2321742
+			]
+		}
+	]
+}

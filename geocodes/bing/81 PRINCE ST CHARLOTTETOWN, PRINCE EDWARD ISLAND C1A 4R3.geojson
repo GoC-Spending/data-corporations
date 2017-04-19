@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 Prince St, Charlottetown, PE C1A 4R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3268714307ec44d0a2d2511f81711043|BN20190653|7.7.0.0|",
+				"addressLine": "81 Prince St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 Prince St, Charlottetown, PE C1A 4R3, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 4R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12384,
+					46.23524
+				]
+			},
+			"bbox": [
+				-63.1254652,
+				46.2341158,
+				-63.1222148,
+				46.2363642
+			]
+		}
+	]
+}

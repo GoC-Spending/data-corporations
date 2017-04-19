@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Lisgar St, Toronto, ON M6J 0C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b62ab71b269443d83cb32455f88a2a0|BN20130532|7.7.0.0|",
+				"addressLine": "36 Lisgar St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Lisgar St, Toronto, ON M6J 0C7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Little Portugal",
+				"postalCode": "M6J 0C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42332,
+					43.64174
+				]
+			},
+			"bbox": [
+				-79.4248734,
+				43.6406158,
+				-79.4217666,
+				43.6428642
+			]
+		}
+	]
+}

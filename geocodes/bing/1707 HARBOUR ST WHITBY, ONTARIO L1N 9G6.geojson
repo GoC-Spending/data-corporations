@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1707 Harbour St, Whitby, ON L1N 9G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f74417b837e048e6a68ab78b8d945297|BN20260223|7.7.0.0|",
+				"addressLine": "1707 Harbour St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1707 Harbour St, Whitby, ON L1N 9G6, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 9G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9259695,
+					43.8599101
+				]
+			},
+			"bbox": [
+				-78.9275285,
+				43.8587859,
+				-78.9244104,
+				43.8610342
+			]
+		}
+	]
+}

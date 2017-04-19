@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Red Deer, T4G 0H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c06212d20e0e47bea07c44771c57242a|BN20130533|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Red Deer, T4G 0H5, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4G 0H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.980834960938,
+					52.0663185119629
+				]
+			},
+			"bbox": [
+				-113.989212111644,
+				52.0624557943922,
+				-113.972457810231,
+				52.0701812295336
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "River",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Red Deer River, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c06212d20e0e47bea07c44771c57242a|BN20130533|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Red Deer River, Alberta, Canada",
+				"locality": "Alberta"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.869972229004,
+					51.6664695739746
+				]
+			},
+			"bbox": [
+				-115.995643615723,
+				51.5475387573242,
+				-115.703170776367,
+				51.7014694213867
+			]
+		}
+	]
+}

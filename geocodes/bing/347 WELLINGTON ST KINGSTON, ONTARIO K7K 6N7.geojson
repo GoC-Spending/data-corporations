@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "347 Wellington St, Kingston, ON K7K 6N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7c8706e2a3c4ba199c3ae4b054da5ec|BN20190653|7.7.0.0|",
+				"addressLine": "347 Wellington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "347 Wellington St, Kingston, ON K7K 6N7, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Downtown Kingston",
+				"postalCode": "K7K 6N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.48071,
+					44.23622
+				]
+			},
+			"bbox": [
+				-76.482279,
+				44.2350958,
+				-76.479141,
+				44.2373442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Legatto St, Sydney Mines, NS B1V 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d48f592e6223440f8403369d2ab26aba|BN20300154|7.7.0.0|",
+				"addressLine": "165 Legatto St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Legatto St, Sydney Mines, NS B1V 2S6, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney Mines",
+				"postalCode": "B1V 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.23334,
+					46.24519
+				]
+			},
+			"bbox": [
+				-60.2349655,
+				46.2440658,
+				-60.2317145,
+				46.2463142
+			]
+		}
+	]
+}

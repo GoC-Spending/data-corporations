@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Vinyl Ct, Woodbridge, ON L4L 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f360cd9346184c7fa6b98c9c1cf7767d|BN20130442|7.7.0.0|",
+				"addressLine": "51 Vinyl Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Vinyl Ct, Woodbridge, ON L4L 4A3, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5691499,
+					43.76662
+				]
+			},
+			"bbox": [
+				-79.5707065,
+				43.7654958,
+				-79.5675933,
+				43.7677442
+			]
+		}
+	]
+}

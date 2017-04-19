@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2321 Sandy Trl, Innisfil, ON L9S 2G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "442102e21f264cbda6a7621eadca825e|BN20190653|7.7.0.0|",
+				"addressLine": "2321 Sandy Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "2321 Sandy Trl, Innisfil, ON L9S 2G1, Canada",
+				"locality": "Innisfil",
+				"postalCode": "L9S 2G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53865,
+					44.32694
+				]
+			},
+			"bbox": [
+				-79.5402214,
+				44.3258158,
+				-79.5370786,
+				44.3280642
+			]
+		}
+	]
+}

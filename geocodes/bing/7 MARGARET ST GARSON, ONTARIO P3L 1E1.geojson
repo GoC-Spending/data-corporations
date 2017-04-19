@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7 Margaret St, Greater Sudbury, ON P3L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32120904e39a40ffb6476b8ce2d3eecb|BN20121762|7.7.0.0|",
+				"addressLine": "7 Margaret St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "7 Margaret St, Greater Sudbury, ON P3L, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Garson",
+				"postalCode": "P3L 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.8694258,
+					46.5529656
+				]
+			},
+			"bbox": [
+				-80.8710605,
+				46.5518415,
+				-80.8677911,
+				46.5540898
+			]
+		}
+	]
+}

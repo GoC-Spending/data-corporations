@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Hall Cres, Saskatoon, SK S7L 7G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69ddc192d70541de8bf2580c4e612fcf|BN20181720|7.7.0.0|",
+				"addressLine": "110 Hall Cres",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Hall Cres, Saskatoon, SK S7L 7G6, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Westview",
+				"postalCode": "S7L 7G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.7151,
+					52.14497
+				]
+			},
+			"bbox": [
+				-106.7169319,
+				52.1438458,
+				-106.7132681,
+				52.1460942
+			]
+		}
+	]
+}

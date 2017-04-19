@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "646 Meredith Rd, Mill Bay, BC V0R 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0a12ff5b927d43f38113a60f7534fccb|BN20130530|7.7.0.0|",
+				"addressLine": "646 Meredith Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "646 Meredith Rd, Mill Bay, BC V0R 2P3, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Mill Bay",
+				"postalCode": "V0R 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.54773,
+					48.6677
+				]
+			},
+			"bbox": [
+				-123.5494322,
+				48.6665758,
+				-123.5460278,
+				48.6688242
+			]
+		}
+	]
+}

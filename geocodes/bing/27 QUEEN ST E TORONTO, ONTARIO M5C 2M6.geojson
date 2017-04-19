@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Queen St E, Toronto, ON M5C 2M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "174fe6bd6a60404da8cec272171d0171|BN20121762|7.7.0.0|",
+				"addressLine": "27 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Queen St E, Toronto, ON M5C 2M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M5C 2M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3777,
+					43.65251
+				]
+			},
+			"bbox": [
+				-79.3792537,
+				43.6513858,
+				-79.3761463,
+				43.6536342
+			]
+		}
+	]
+}

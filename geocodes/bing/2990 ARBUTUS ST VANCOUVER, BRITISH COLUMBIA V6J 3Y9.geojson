@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2990 Arbutus St, Vancouver, BC V6J 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f733e4a3f79c45a5a31ed110bd7f12bd|BN20280152|7.7.0.0|",
+				"addressLine": "2990 Arbutus St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2990 Arbutus St, Vancouver, BC V6J 3Y9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Arbutus Ridge",
+				"postalCode": "V6J 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.15277,
+					49.25935
+				]
+			},
+			"bbox": [
+				-123.1544925,
+				49.2582258,
+				-123.1510475,
+				49.2604742
+			]
+		}
+	]
+}

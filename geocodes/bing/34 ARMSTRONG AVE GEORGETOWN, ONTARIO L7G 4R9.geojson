@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Armstrong Ave, Georgetown, ON L7G 4R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0fa8961da16f4728bdcc3e85a31d5153|BN20121762|7.7.0.0|",
+				"addressLine": "34 Armstrong Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Armstrong Ave, Georgetown, ON L7G 4R9, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9022344,
+					43.6562851
+				]
+			},
+			"bbox": [
+				-79.9037881,
+				43.655161,
+				-79.9006806,
+				43.6574093
+			]
+		}
+	]
+}

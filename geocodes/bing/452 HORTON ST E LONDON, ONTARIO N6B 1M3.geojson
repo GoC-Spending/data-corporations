@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "452 Horton St E, London, ON N6B 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ac38112428b409f92f15b4bb2b6f9cb|BN20200137|7.7.0.0|",
+				"addressLine": "452 Horton St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "452 Horton St E, London, ON N6B 1M3, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2352,
+					42.9825
+				]
+			},
+			"bbox": [
+				-81.2367366,
+				42.9813758,
+				-81.2336634,
+				42.9836242
+			]
+		}
+	]
+}

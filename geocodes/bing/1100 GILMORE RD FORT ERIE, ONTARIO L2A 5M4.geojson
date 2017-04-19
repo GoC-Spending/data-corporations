@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1100 Gilmore Rd, Fort Erie, ON L2A 5M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6f36d92aa18427db4d8fbd6eae75160|BN20130721|7.7.0.0|",
+				"addressLine": "1100 Gilmore Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "1100 Gilmore Rd, Fort Erie, ON L2A 5M4, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 5M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.95647,
+					42.9213499
+				]
+			},
+			"bbox": [
+				-78.9580051,
+				42.9202257,
+				-78.9549349,
+				42.9224741
+			]
+		}
+	]
+}

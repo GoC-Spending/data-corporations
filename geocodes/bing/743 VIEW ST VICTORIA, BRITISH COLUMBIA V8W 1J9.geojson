@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "743 View St, Victoria, BC V8W 1J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32cf25f8becd429ba4f61416f0de8d29|BN20130621|7.7.0.0|",
+				"addressLine": "743 View St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "743 View St, Victoria, BC V8W 1J9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36376,
+					48.42502
+				]
+			},
+			"bbox": [
+				-123.365454,
+				48.4238958,
+				-123.362066,
+				48.4261442
+			]
+		}
+	]
+}

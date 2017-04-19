@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "76 Everhollow Way SW, Calgary, AB T2Y 4R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "761fbeb1870648baabc0cc447a2f036d|BN20130620|7.7.0.0|",
+				"addressLine": "76 Everhollow Way SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "76 Everhollow Way SW, Calgary, AB T2Y 4R3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Evergreen",
+				"postalCode": "T2Y 4R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.12075,
+					50.91975
+				]
+			},
+			"bbox": [
+				-114.1225332,
+				50.9186258,
+				-114.1189668,
+				50.9208742
+			]
+		}
+	]
+}

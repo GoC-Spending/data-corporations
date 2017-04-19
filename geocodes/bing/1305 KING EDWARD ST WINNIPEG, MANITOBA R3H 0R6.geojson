@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1305 King Edward St, Winnipeg, MB R3H 0R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad7d967ace3647698b9a6c58bb60edcc|BN20190642|7.7.0.0|",
+				"addressLine": "1305 King Edward St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1305 King Edward St, Winnipeg, MB R3H 0R6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20552,
+					49.91247
+				]
+			},
+			"bbox": [
+				-97.2072657,
+				49.9113458,
+				-97.2037743,
+				49.9135942
+			]
+		}
+	]
+}

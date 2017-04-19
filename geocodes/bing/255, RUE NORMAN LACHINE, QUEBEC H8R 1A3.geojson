@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "255 Rue Norman, Lachine, QC H8R 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28a2506af8fc4c9c966f8a9be3ed841b|BN20190642|7.7.0.0|",
+				"addressLine": "255 Rue Norman",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "255 Rue Norman, Lachine, QC H8R 1A3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8R 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.65965,
+					45.4487499
+				]
+			},
+			"bbox": [
+				-73.6612524,
+				45.4476257,
+				-73.6580476,
+				45.4498741
+			]
+		}
+	]
+}

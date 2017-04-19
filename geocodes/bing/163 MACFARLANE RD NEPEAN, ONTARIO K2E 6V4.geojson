@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "163 MacFarlane Rd, Nepean, ON K2E 6V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62525dd281964135ad5c4e4f9b7b2c01|BN20130533|7.7.0.0|",
+				"addressLine": "163 MacFarlane Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "163 MacFarlane Rd, Nepean, ON K2E 6V4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 6V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71569,
+					45.32546
+				]
+			},
+			"bbox": [
+				-75.7172889,
+				45.3243358,
+				-75.7140911,
+				45.3265842
+			]
+		}
+	]
+}

@@ -1,0 +1,107 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "St Denis, Grant No 372, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d69d544b287f44819824d95e72d09208|BN20190653|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "St Denis, Grant No 372, Saskatchewan, Canada",
+				"locality": "Grant No 372",
+				"neighborhood": "St Denis"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.073341369629,
+					52.1583595275879
+				]
+			},
+			"bbox": [
+				-106.081735830031,
+				52.1544968100172,
+				-106.064946909226,
+				52.1622222451586
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "St-Denis, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d69d544b287f44819824d95e72d09208|BN20190653|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "St-Denis, Saskatchewan, Canada",
+				"locality": "St-Denis"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.122940063477,
+					52.1438484191895
+				]
+			},
+			"bbox": [
+				-106.185842561507,
+				52.1148780361969,
+				-106.060037565446,
+				52.172818802182
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "AdminDivision1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "North Rhine-Westphalia, Germany",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d69d544b287f44819824d95e72d09208|BN20190653|7.7.0.0|",
+				"adminDistrict": "NW",
+				"countryRegion": "Germany",
+				"formattedAddress": "North Rhine-Westphalia, Germany"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.56212615966797,
+					51.4797973632813
+				]
+			},
+			"bbox": [
+				5.8656268119812,
+				50.3350982666016,
+				9.4638729095459,
+				52.5284004211426
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "195 Liverpool St, Guelph, ON N1H 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa65892c1521466bac8baf20542db0a8|BN20130625|7.7.0.0|",
+				"addressLine": "195 Liverpool St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "195 Liverpool St, Guelph, ON N1H 2L6, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.26141,
+					43.54325
+				]
+			},
+			"bbox": [
+				-80.2629609,
+				43.5421258,
+				-80.2598591,
+				43.5443742
+			]
+		}
+	]
+}

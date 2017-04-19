@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Kearney St, Guelph, ON N1E 7H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d726f53b72614a85b704e555de269322|BN20130620|7.7.0.0|",
+				"addressLine": "27 Kearney St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Kearney St, Guelph, ON N1E 7H2, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Grange Road",
+				"postalCode": "N1E 7H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.22188,
+					43.5653099
+				]
+			},
+			"bbox": [
+				-80.2234314,
+				43.5641857,
+				-80.2203286,
+				43.5664341
+			]
+		}
+	]
+}

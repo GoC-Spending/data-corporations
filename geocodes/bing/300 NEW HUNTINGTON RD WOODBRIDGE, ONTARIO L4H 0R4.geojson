@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 New Huntington Rd, Woodbridge, ON L4H 0R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fb878d5818e4d64baa8c157b2a59db2|BN20130423|7.7.0.0|",
+				"addressLine": "300 New Huntington Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 New Huntington Rd, Woodbridge, ON L4H 0R4, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4H 0R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64569,
+					43.77649
+				]
+			},
+			"bbox": [
+				-79.6472469,
+				43.7753658,
+				-79.6441331,
+				43.7776142
+			]
+		}
+	]
+}

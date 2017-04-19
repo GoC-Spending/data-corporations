@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1420 97 Ave SW, Calgary, AB T2V 0Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba2aac69efe74825ba498f2b6eaeed0c|BN20190642|7.7.0.0|",
+				"addressLine": "1420 97 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1420 97 Ave SW, Calgary, AB T2V 0Y7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Haysboro",
+				"postalCode": "T2V 0Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.09432,
+					50.96629
+				]
+			},
+			"bbox": [
+				-114.096105,
+				50.9651658,
+				-114.092535,
+				50.9674142
+			]
+		}
+	]
+}

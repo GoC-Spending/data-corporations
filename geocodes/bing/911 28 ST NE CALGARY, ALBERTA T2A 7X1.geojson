@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "911 28 St NE, Calgary, AB T2A 7X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2e588e4c3ff4613b425b43da3118a61|BN20131519|7.7.0.0|",
+				"addressLine": "911 28 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "911 28 St NE, Calgary, AB T2A 7X1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Meridian",
+				"postalCode": "T2A 7X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9934249,
+					51.060631
+				]
+			},
+			"bbox": [
+				-113.9952135,
+				51.0595068,
+				-113.9916363,
+				51.0617551
+			]
+		}
+	]
+}

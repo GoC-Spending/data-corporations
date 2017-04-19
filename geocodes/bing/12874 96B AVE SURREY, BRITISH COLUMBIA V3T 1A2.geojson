@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12874 96B Ave, Surrey, BC V3T 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ef26d084e914a9690fdbb4b8e8bd889|BN20130533|7.7.0.0|",
+				"addressLine": "12874 96B Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12874 96B Ave, Surrey, BC V3T 1A2, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3T 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.86552,
+					49.1784551
+				]
+			},
+			"bbox": [
+				-122.8672396,
+				49.177331,
+				-122.8638003,
+				49.1795793
+			]
+		}
+	]
+}

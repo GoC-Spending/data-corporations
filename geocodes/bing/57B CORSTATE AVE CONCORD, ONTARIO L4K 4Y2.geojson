@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "57 Corstate Ave, Concord, ON L4K 4Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24450e69643949598ba5b32e477f3ebe|BN20190642|7.7.0.0|",
+				"addressLine": "57 Corstate Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "57 Corstate Ave, Concord, ON L4K 4Y2, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Concord",
+				"postalCode": "L4K 4Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53667,
+					43.817
+				]
+			},
+			"bbox": [
+				-79.538228,
+				43.8158758,
+				-79.535112,
+				43.8181242
+			]
+		}
+	]
+}

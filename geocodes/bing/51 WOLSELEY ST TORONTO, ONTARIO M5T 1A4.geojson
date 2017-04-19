@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Wolseley St, Toronto, ON M5T 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0387cfe16a154e2a909a359250914cc8|BN20130621|7.7.0.0|",
+				"addressLine": "51 Wolseley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Wolseley St, Toronto, ON M5T 1A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kensington-Chinatown",
+				"postalCode": "M5T 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40236,
+					43.64817
+				]
+			},
+			"bbox": [
+				-79.4039136,
+				43.6470458,
+				-79.4008064,
+				43.6492942
+			]
+		}
+	]
+}

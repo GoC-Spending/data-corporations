@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1903 Barrington St, Halifax, NS B3J 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1bdfd1574814b0ea39f925c0ac91e0c|BN20130431|7.7.0.0|",
+				"addressLine": "1903 Barrington St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1903 Barrington St, Halifax, NS B3J 3L7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Downtown Halifax",
+				"postalCode": "B3J 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57516,
+					44.65021
+				]
+			},
+			"bbox": [
+				-63.5767402,
+				44.6490858,
+				-63.5735798,
+				44.6513342
+			]
+		}
+	]
+}

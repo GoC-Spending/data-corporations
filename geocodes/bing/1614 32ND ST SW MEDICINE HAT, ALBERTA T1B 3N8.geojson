@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1614 32 St SW, Medicine Hat, AB T1B 3N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c920f7df580a4c1ca1d693479ebf375b|BN20130634|7.7.0.0|",
+				"addressLine": "1614 32 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1614 32 St SW, Medicine Hat, AB T1B 3N8, Canada",
+				"locality": "Medicine Hat",
+				"postalCode": "T1B 3N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.72322,
+					50.00907
+				]
+			},
+			"bbox": [
+				-110.7249692,
+				50.0079458,
+				-110.7214708,
+				50.0101942
+			]
+		}
+	]
+}

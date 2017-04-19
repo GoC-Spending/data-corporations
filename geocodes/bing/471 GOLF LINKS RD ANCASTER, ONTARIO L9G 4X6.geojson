@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "471 Golf Links Rd, Ancaster, ON L9G 4X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cdbf8540f9724273b9e7ad01b255b789|BN20130625|7.7.0.0|",
+				"addressLine": "471 Golf Links Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "471 Golf Links Rd, Ancaster, ON L9G 4X6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9G 4X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.96619,
+					43.2236
+				]
+			},
+			"bbox": [
+				-79.9677327,
+				43.2224758,
+				-79.9646473,
+				43.2247242
+			]
+		}
+	]
+}

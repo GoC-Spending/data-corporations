@@ -1,0 +1,107 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Grand Marais, St Clements, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1899cfef0f0240dc9717de11ef34de74|BN20131519|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Grand Marais, St Clements, Manitoba, Canada",
+				"locality": "St Clements",
+				"neighborhood": "Grand Marais"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.6255493164063,
+					50.5451393127441
+				]
+			},
+			"bbox": [
+				-96.6336533454593,
+				50.5412765951735,
+				-96.6174452873532,
+				50.5490020303148
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Grand Marais, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1899cfef0f0240dc9717de11ef34de74|BN20131519|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Grand Marais, Canada",
+				"locality": "Grand Marais"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.6279983520508,
+					50.5499992370605
+				]
+			},
+			"bbox": [
+				-96.6887525016045,
+				50.521028854068,
+				-96.5672442024971,
+				50.5789696200531
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "347",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1899cfef0f0240dc9717de11ef34de74|BN20131519|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "347",
+				"postalCode": "347"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.7017211914063,
+					28.3503284454346
+				]
+			},
+			"bbox": [
+				-82.1531066894531,
+				27.7395877838135,
+				-80.8615112304688,
+				28.9610691070557
+			]
+		}
+	]
+}

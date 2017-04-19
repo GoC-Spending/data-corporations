@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8743 Commercial St, New Minas, NS B4N 3C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "31232b49f18348bc9d497824a172a72f|BN20280152|7.7.0.0|",
+				"addressLine": "8743 Commercial St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "8743 Commercial St, New Minas, NS B4N 3C4, Canada",
+				"locality": "Kings",
+				"neighborhood": "New Minas",
+				"postalCode": "B4N 3C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.47415,
+					45.07201
+				]
+			},
+			"bbox": [
+				-64.4757418,
+				45.0708858,
+				-64.4725582,
+				45.0731342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "298 Garry St, Winnipeg, MB R3C 1H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c41c02a7851441b9ac9ac28a31ee4bdb|BN20290118|7.7.0.0|",
+				"addressLine": "298 Garry St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "298 Garry St, Winnipeg, MB R3C 1H3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South Portage",
+				"postalCode": "R3C 1H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14109,
+					49.89384
+				]
+			},
+			"bbox": [
+				-97.142835,
+				49.8927158,
+				-97.139345,
+				49.8949642
+			]
+		}
+	]
+}

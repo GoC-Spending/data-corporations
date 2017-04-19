@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Constellation Ct, Etobicoke, ON M9W 1K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07ff4ce3db11480482201a769f864aed|BN20130431|7.7.0.0|",
+				"addressLine": "51 Constellation Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Constellation Ct, Etobicoke, ON M9W 1K4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 1K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5928799,
+					43.69187
+				]
+			},
+			"bbox": [
+				-79.5944346,
+				43.6907458,
+				-79.5913252,
+				43.6929942
+			]
+		}
+	]
+}

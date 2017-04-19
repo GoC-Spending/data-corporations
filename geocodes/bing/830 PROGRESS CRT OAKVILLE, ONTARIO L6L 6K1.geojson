@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "830 Progress Ct, Oakville, ON L6L 6K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "556716d08abf442f9bda4987a6f46777|BN20130532|7.7.0.0|",
+				"addressLine": "830 Progress Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "830 Progress Ct, Oakville, ON L6L 6K1, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6L 6K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7163413,
+					43.427413
+				]
+			},
+			"bbox": [
+				-79.7178892,
+				43.4262888,
+				-79.7147934,
+				43.4285371
+			]
+		}
+	]
+}

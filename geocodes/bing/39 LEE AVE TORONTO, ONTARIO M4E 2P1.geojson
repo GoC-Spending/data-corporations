@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 Lee Ave, Toronto, ON M4E 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "555b98bce8b84f09845d5d6947f935d3|BN20130522|7.7.0.0|",
+				"addressLine": "39 Lee Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 Lee Ave, Toronto, ON M4E 2P1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4E 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29692,
+					43.66856
+				]
+			},
+			"bbox": [
+				-79.2984741,
+				43.6674358,
+				-79.2953659,
+				43.6696842
+			]
+		}
+	]
+}

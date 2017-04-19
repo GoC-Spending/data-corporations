@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "163 Osprey Cres, Kanata, ON K2M 2Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb2c48e18bd741d59609ec1acc643271|BN20260231|7.7.0.0|",
+				"addressLine": "163 Osprey Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "163 Osprey Cres, Kanata, ON K2M 2Z7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2M 2Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.85154,
+					45.29599
+				]
+			},
+			"bbox": [
+				-75.8531381,
+				45.2948658,
+				-75.8499419,
+				45.2971142
+			]
+		}
+	]
+}

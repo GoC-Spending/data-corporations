@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1790 Island Hwy, Colwood, BC V9B 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00aeccb52c514e67afa4e4bfb259c359|BN20210145|7.7.0.0|",
+				"addressLine": "1790 Island Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1790 Island Hwy, Colwood, BC V9B 1H8, Canada",
+				"locality": "Colwood",
+				"postalCode": "V9B 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.46746,
+					48.44598
+				]
+			},
+			"bbox": [
+				-123.4691547,
+				48.4448558,
+				-123.4657653,
+				48.4471042
+			]
+		}
+	]
+}

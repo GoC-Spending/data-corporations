@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1429 17 Ave SW, Calgary, AB T2T 0C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4cd3a215ec8d41f1a66d4f803b0d4e33|BN20250135|7.7.0.0|",
+				"addressLine": "1429 17 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1429 17 Ave SW, Calgary, AB T2T 0C6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Mont Royal",
+				"postalCode": "T2T 0C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.09454,
+					51.03759
+				]
+			},
+			"bbox": [
+				-114.0963277,
+				51.0364658,
+				-114.0927523,
+				51.0387142
+			]
+		}
+	]
+}

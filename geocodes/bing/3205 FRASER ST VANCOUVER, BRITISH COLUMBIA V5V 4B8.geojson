@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3205 Fraser St, Vancouver, BC V5V 4B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b91f6f6424d4ec6b7c881d2e7c8dd74|BN20130431|7.7.0.0|",
+				"addressLine": "3205 Fraser St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3205 Fraser St, Vancouver, BC V5V 4B8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5V 4B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0900947,
+					49.2563486
+				]
+			},
+			"bbox": [
+				-123.0918171,
+				49.2552245,
+				-123.0883724,
+				49.2574728
+			]
+		}
+	]
+}

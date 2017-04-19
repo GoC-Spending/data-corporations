@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Killaly St W, Port Colborne, ON L3K 6A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c46f525462b14148a3c08a8ee5222fc1|BN20130532|7.7.0.0|",
+				"addressLine": "2 Killaly St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Killaly St W, Port Colborne, ON L3K 6A1, Canada",
+				"locality": "Port Colborne",
+				"postalCode": "L3K 6A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25085,
+					42.89153
+				]
+			},
+			"bbox": [
+				-79.2523844,
+				42.8904058,
+				-79.2493156,
+				42.8926542
+			]
+		}
+	]
+}

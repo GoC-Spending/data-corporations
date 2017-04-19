@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "299 Biggs Rd, Pembroke, ON K8A 6W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adbd489c360443c2b988c990ea07dbc7|BN20130532|7.7.0.0|",
+				"addressLine": "299 Biggs Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "299 Biggs Rd, Pembroke, ON K8A 6W7, Canada",
+				"locality": "Laurentian Valley",
+				"neighborhood": "Pembroke",
+				"postalCode": "K8A 6W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.22191,
+					45.8377399
+				]
+			},
+			"bbox": [
+				-77.2235236,
+				45.8366157,
+				-77.2202964,
+				45.8388641
+			]
+		}
+	]
+}

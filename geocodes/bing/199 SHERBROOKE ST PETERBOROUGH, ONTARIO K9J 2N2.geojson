@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "199 Sherbrooke St, Peterborough, ON K9J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e354f51131894457837482a99ed2b2e8|BN20190653|7.7.0.0|",
+				"addressLine": "199 Sherbrooke St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "199 Sherbrooke St, Peterborough, ON K9J, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 2N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.32158,
+					44.30033
+				]
+			},
+			"bbox": [
+				-78.3231507,
+				44.2992058,
+				-78.3200093,
+				44.3014542
+			]
+		}
+	]
+}

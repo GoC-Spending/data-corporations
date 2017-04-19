@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "812 Browns Line, Etobicoke, ON M8W 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e2ed95571b54180b068ee6bb58903eb|BN20190653|7.7.0.0|",
+				"addressLine": "812 Browns Line",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "812 Browns Line, Etobicoke, ON M8W 3W2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Alderwood",
+				"postalCode": "M8W 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54886,
+					43.60931
+				]
+			},
+			"bbox": [
+				-79.5504126,
+				43.6081858,
+				-79.5473074,
+				43.6104342
+			]
+		}
+	]
+}

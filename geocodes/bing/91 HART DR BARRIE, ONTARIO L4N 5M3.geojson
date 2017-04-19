@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Hart Dr, Barrie, ON L4N 5M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "19f497f24e664441bf5ff9c6a5ef46c1|BN20130533|7.7.0.0|",
+				"addressLine": "91 Hart Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Hart Dr, Barrie, ON L4N 5M3, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 5M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71089,
+					44.3774299
+				]
+			},
+			"bbox": [
+				-79.7124628,
+				44.3763057,
+				-79.7093172,
+				44.3785541
+			]
+		}
+	]
+}

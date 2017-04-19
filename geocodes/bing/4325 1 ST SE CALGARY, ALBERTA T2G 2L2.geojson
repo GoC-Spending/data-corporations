@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4325 1 St SE, Calgary, AB T2G 2L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ae9e5f9d3b4a4fdf9e2b7f05e14fdb49|BN20220145|7.7.0.0|",
+				"addressLine": "4325 1 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4325 1 St SE, Calgary, AB T2G 2L2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Alyth-Bonnybrook-Manchester",
+				"postalCode": "T2G 2L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0614544,
+					51.0157767
+				]
+			},
+			"bbox": [
+				-114.0632413,
+				51.0146526,
+				-114.0596675,
+				51.0169009
+			]
+		}
+	]
+}

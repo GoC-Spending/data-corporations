@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "155 Iber Rd, Stittsville, ON K2S 1E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b982d1610e54c7680c5fa676f40d88b|BN20130422|7.7.0.0|",
+				"addressLine": "155 Iber Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "155 Iber Rd, Stittsville, ON K2S 1E7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.9017,
+					45.27492
+				]
+			},
+			"bbox": [
+				-75.9032975,
+				45.2737958,
+				-75.9001025,
+				45.2760442
+			]
+		}
+	]
+}

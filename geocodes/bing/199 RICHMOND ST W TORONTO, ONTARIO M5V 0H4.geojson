@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "199 Richmond St W, Toronto, ON M5V 0H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60d22c9b13d543d5bb4ccd8f333e3e52|BN20181720|7.7.0.0|",
+				"addressLine": "199 Richmond St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "199 Richmond St W, Toronto, ON M5V 0H4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 0H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38837,
+					43.64942
+				]
+			},
+			"bbox": [
+				-79.3899236,
+				43.6482958,
+				-79.3868164,
+				43.6505442
+			]
+		}
+	]
+}

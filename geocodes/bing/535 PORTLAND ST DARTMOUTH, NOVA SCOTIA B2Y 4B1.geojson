@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "535 Portland St, Dartmouth, NS B2Y 4B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0bb0631c5333432b87fcef244d1ef06f|BN20130431|7.7.0.0|",
+				"addressLine": "535 Portland St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "535 Portland St, Dartmouth, NS B2Y 4B1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2Y 4B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5393495,
+					44.6703249
+				]
+			},
+			"bbox": [
+				-63.5409302,
+				44.6692007,
+				-63.5377688,
+				44.671449
+			]
+		}
+	]
+}

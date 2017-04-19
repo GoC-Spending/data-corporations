@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Listowel, N4W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd5488ce55aa4ddd8f58ccf5f9c60c57|BN20181720|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "Listowel, N4W, Canada",
+				"locality": "Listowel",
+				"postalCode": "N4W"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9580841064453,
+					43.7404594421387
+				]
+			},
+			"bbox": [
+				-81.0973892211914,
+				43.6666488647461,
+				-80.7328109741211,
+				43.8142700195313
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "North Perth, N4W 3G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd5488ce55aa4ddd8f58ccf5f9c60c57|BN20181720|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "North Perth, N4W 3G6, Canada",
+				"locality": "North Perth",
+				"postalCode": "N4W 3G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0176010131836,
+					43.7831001281738
+				]
+			},
+			"bbox": [
+				-81.0247342703346,
+				43.7792374106032,
+				-81.0104677560326,
+				43.7869628457445
+			]
+		}
+	]
+}

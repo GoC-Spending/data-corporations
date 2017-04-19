@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Chatham Ave, Toronto, ON M4J 1K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b44ae1ab0a0449d28626dffe772bdfa8|BN20130719|7.7.0.0|",
+				"addressLine": "70 Chatham Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Chatham Ave, Toronto, ON M4J 1K6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Blake-Jones",
+				"postalCode": "M4J 1K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3381,
+					43.67968
+				]
+			},
+			"bbox": [
+				-79.3396544,
+				43.6785558,
+				-79.3365456,
+				43.6808042
+			]
+		}
+	]
+}

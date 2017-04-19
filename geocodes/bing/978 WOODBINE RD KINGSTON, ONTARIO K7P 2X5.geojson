@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "978 Woodbine Rd, Kingston, ON K7P 2X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aa939f77954247d7829ec419b68daa17|BN20181720|7.7.0.0|",
+				"addressLine": "978 Woodbine Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "978 Woodbine Rd, Kingston, ON K7P 2X5, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Westwoods",
+				"postalCode": "K7P 2X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.5904,
+					44.25898
+				]
+			},
+			"bbox": [
+				-76.5919696,
+				44.2578558,
+				-76.5888304,
+				44.2601042
+			]
+		}
+	]
+}

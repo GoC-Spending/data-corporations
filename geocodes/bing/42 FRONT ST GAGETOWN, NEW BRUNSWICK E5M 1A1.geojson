@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Front St, Gagetown, NB E5M 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fafbe79c2d364ecfac2c705e807d07d5|BN20130521|7.7.0.0|",
+				"addressLine": "42 Front St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Front St, Gagetown, NB E5M 1A1, Canada",
+				"locality": "Gagetown",
+				"postalCode": "E5M 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1432899,
+					45.78208
+				]
+			},
+			"bbox": [
+				-66.1449018,
+				45.7809558,
+				-66.141678,
+				45.7832042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4210 Rumble St, Burnaby, BC V5J 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90933e7a1ce943269742561795c3f46c|BN20130522|7.7.0.0|",
+				"addressLine": "4210 Rumble St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4210 Rumble St, Burnaby, BC V5J 1Z8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Sussex-Nelson",
+				"postalCode": "V5J 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.01034,
+					49.21443
+				]
+			},
+			"bbox": [
+				-123.0120609,
+				49.2133058,
+				-123.0086191,
+				49.2155542
+			]
+		}
+	]
+}

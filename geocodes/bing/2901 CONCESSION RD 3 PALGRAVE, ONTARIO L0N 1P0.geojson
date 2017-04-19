@@ -1,0 +1,79 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Palgrave, L0N 1P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "373f98fce1a64f13b82dfe2c0037c923|BN20290118|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "Palgrave, L0N 1P0, Canada",
+				"locality": "Palgrave",
+				"postalCode": "L0N 1P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8331604003906,
+					43.9479141235352
+				]
+			},
+			"bbox": [
+				-79.8403134044282,
+				43.9440514059645,
+				-79.826007396353,
+				43.9517768411058
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Palgrave, Caledon, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "373f98fce1a64f13b82dfe2c0037c923|BN20290118|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "Palgrave, Caledon, Ontario, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Palgrave"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8350982666016,
+					43.9493713378906
+				]
+			},
+			"bbox": [
+				-79.8422514459845,
+				43.9455086203199,
+				-79.8279450872187,
+				43.9532340554613
+			]
+		}
+	]
+}

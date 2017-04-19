@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2444 Bevan Ave, Sidney, BC V8L 5C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "12c6e0e694b348a1bc6356d4eccdb98e|BN20121764|7.7.0.0|",
+				"addressLine": "2444 Bevan Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2444 Bevan Ave, Sidney, BC V8L 5C5, Canada",
+				"locality": "Sidney",
+				"postalCode": "V8L 5C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3985172,
+					48.6477711
+				]
+			},
+			"bbox": [
+				-123.4002187,
+				48.646647,
+				-123.3968157,
+				48.6488953
+			]
+		}
+	]
+}

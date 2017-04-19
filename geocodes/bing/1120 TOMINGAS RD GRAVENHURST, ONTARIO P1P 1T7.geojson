@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1120 Tomingas Rd, Gravenhurst, ON P0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ecd2957ab46748698f102e2e9c790430|BN20200137|7.7.0.0|",
+				"addressLine": "1120 Tomingas Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "1120 Tomingas Rd, Gravenhurst, ON P0C, Canada",
+				"locality": "Gravenhurst",
+				"postalCode": "P0C"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31137,
+					44.91772
+				]
+			},
+			"bbox": [
+				-79.3129575,
+				44.9165958,
+				-79.3097825,
+				44.9188442
+			]
+		}
+	]
+}

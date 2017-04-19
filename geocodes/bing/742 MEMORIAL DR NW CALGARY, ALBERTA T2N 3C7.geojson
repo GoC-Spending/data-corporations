@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "742 Memorial Dr NW, Calgary, AB T2N 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "000e700d37734038803c70de63a22453|BN20130632|7.7.0.0|",
+				"addressLine": "742 Memorial Dr NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "742 Memorial Dr NW, Calgary, AB T2N 3C7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Sunnyside",
+				"postalCode": "T2N 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0775,
+					51.0561
+				]
+			},
+			"bbox": [
+				-114.0792885,
+				51.0549758,
+				-114.0757115,
+				51.0572242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "175 Bloor St E, Toronto, ON M4W 3R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "043c738f083f401bb0b9dda5011736e4|BN20200137|7.7.0.0|",
+				"addressLine": "175 Bloor St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "175 Bloor St E, Toronto, ON M4W 3R8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Church-Yonge Corridor",
+				"postalCode": "M4W 3R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38248,
+					43.67066
+				]
+			},
+			"bbox": [
+				-79.3840342,
+				43.6695358,
+				-79.3809258,
+				43.6717842
+			]
+		}
+	]
+}

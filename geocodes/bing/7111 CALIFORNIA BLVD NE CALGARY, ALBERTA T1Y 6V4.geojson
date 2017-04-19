@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7111 California Blvd NE, Calgary, AB T1Y 6V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc52bde597a64ba9a0dd3e56c674b99f|BN20130520|7.7.0.0|",
+				"addressLine": "7111 California Blvd NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7111 California Blvd NE, Calgary, AB T1Y 6V4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Monterey Park",
+				"postalCode": "T1Y 6V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.92655,
+					51.07148
+				]
+			},
+			"bbox": [
+				-113.9283391,
+				51.0703558,
+				-113.9247609,
+				51.0726042
+			]
+		}
+	]
+}

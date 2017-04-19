@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 The Queensway, Etobicoke, ON M8Y 1J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bea22925b0184cf59a927c64f57f9d82|BN20190642|7.7.0.0|",
+				"addressLine": "150 The Queensway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 The Queensway, Etobicoke, ON M8Y 1J1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Stonegate-Queensway",
+				"postalCode": "M8Y 1J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4839499,
+					43.63076
+				]
+			},
+			"bbox": [
+				-79.485503,
+				43.6296358,
+				-79.4823968,
+				43.6318842
+			]
+		}
+	]
+}

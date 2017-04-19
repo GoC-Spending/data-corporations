@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "94 McGregor St, Winnipeg, MB R2W 4V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f34da2d3c2364f88941ec690b1187ee1|BN20130719|7.7.0.0|",
+				"addressLine": "94 McGregor St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "94 McGregor St, Winnipeg, MB R2W 4V5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Dufferin",
+				"postalCode": "R2W 4V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15075,
+					49.9150599
+				]
+			},
+			"bbox": [
+				-97.1524958,
+				49.9139357,
+				-97.1490042,
+				49.9161841
+			]
+		}
+	]
+}

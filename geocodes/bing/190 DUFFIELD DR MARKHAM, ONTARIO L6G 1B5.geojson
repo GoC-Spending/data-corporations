@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "190 Duffield Dr, Markham, ON L6G 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2bc5403e506439da7ad7852aa3f7503|BN20160335|7.7.0.0|",
+				"addressLine": "190 Duffield Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "190 Duffield Dr, Markham, ON L6G 1B5, Canada",
+				"locality": "Markham",
+				"postalCode": "L6G 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31291,
+					43.84469
+				]
+			},
+			"bbox": [
+				-79.3144687,
+				43.8435658,
+				-79.3113513,
+				43.8458142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Herzberg Rd, Kanata, ON K2K 3B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "458c5f06c8904da2962c13d90b5745f5|BN20210145|7.7.0.0|",
+				"addressLine": "110 Herzberg Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Herzberg Rd, Kanata, ON K2K 3B7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 3B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.89669,
+					45.33547
+				]
+			},
+			"bbox": [
+				-75.8982892,
+				45.3343458,
+				-75.8950908,
+				45.3365942
+			]
+		}
+	]
+}

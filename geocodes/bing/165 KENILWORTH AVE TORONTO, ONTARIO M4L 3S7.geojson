@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Kenilworth Ave, Toronto, ON M4L 3S7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7f2f31d4e154642a74b984e597b4280|BN20160335|7.7.0.0|",
+				"addressLine": "165 Kenilworth Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Kenilworth Ave, Toronto, ON M4L 3S7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4L 3S7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30229,
+					43.67131
+				]
+			},
+			"bbox": [
+				-79.3038442,
+				43.6701858,
+				-79.3007358,
+				43.6724342
+			]
+		}
+	]
+}

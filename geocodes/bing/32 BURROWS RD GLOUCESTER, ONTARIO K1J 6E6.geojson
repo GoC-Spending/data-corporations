@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Burrows Rd, Gloucester, ON K1J 6E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "97cbd7f6c4704c8fae5cadaf3917def6|BN20181720|7.7.0.0|",
+				"addressLine": "32 Burrows Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Burrows Rd, Gloucester, ON K1J 6E6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1J 6E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61964,
+					45.45652
+				]
+			},
+			"bbox": [
+				-75.6212426,
+				45.4553958,
+				-75.6180374,
+				45.4576442
+			]
+		}
+	]
+}

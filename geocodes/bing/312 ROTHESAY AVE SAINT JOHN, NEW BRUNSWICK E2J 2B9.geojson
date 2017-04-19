@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "312 Rothesay Ave, Saint John, NB E2J 2B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e3596c33866349ad857b5802ef9666d5|BN20200137|7.7.0.0|",
+				"addressLine": "312 Rothesay Ave",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "312 Rothesay Ave, Saint John, NB E2J 2B9, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2J 2B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.04161,
+					45.29444
+				]
+			},
+			"bbox": [
+				-66.043208,
+				45.2933158,
+				-66.040012,
+				45.2955642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12540 129 St NW, Edmonton, AB T5L 4R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78ab57b2140443528c451e9ee717b6e3|BN20130621|7.7.0.0|",
+				"addressLine": "12540 129 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12540 129 St NW, Edmonton, AB T5L 4R4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Hagmann Estate Industrial",
+				"postalCode": "T5L 4R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.54518,
+					53.58222
+				]
+			},
+			"bbox": [
+				-113.5470736,
+				53.5810958,
+				-113.5432864,
+				53.5833442
+			]
+		}
+	]
+}

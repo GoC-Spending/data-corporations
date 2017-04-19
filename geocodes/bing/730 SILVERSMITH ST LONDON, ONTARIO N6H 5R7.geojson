@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "730 Silversmith St, London, ON N6H 5R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45dd697dcb654e6d8b8bb41093db45c9|BN20130431|7.7.0.0|",
+				"addressLine": "730 Silversmith St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "730 Silversmith St, London, ON N6H 5R7, Canada",
+				"locality": "London",
+				"neighborhood": "West London",
+				"postalCode": "N6H 5R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3005,
+					42.9852
+				]
+			},
+			"bbox": [
+				-81.3020367,
+				42.9840758,
+				-81.2989633,
+				42.9863242
+			]
+		}
+	]
+}

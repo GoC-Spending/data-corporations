@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Kemptville, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d4ce4d7a487647a49f75dd88a84df48e|BN20130520|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kemptville, Ontario, Canada",
+				"locality": "Kemptville"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6455917358398,
+					45.015941619873
+				]
+			},
+			"bbox": [
+				-75.6640472412109,
+				45.0045700073242,
+				-75.6337738037109,
+				45.030200958252
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "North Grenville, K0G 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d4ce4d7a487647a49f75dd88a84df48e|BN20130520|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "North Grenville, K0G 1J0, Canada",
+				"locality": "North Grenville",
+				"postalCode": "K0G 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6909866333008,
+					44.9899291992188
+				]
+			},
+			"bbox": [
+				-75.6982684727919,
+				44.9860664816481,
+				-75.6837047938097,
+				44.9937919167894
+			]
+		}
+	]
+}

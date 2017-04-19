@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Forest St E, Dunnville, ON N1A 3G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "047fcb88df6b4fc495e941e6731adc75|BN20130631|7.7.0.0|",
+				"addressLine": "205 Forest St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Haldimand",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Forest St E, Dunnville, ON N1A 3G5, Canada",
+				"locality": "Haldimand",
+				"neighborhood": "Dunnville",
+				"postalCode": "N1A 3G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6124721,
+					42.9056578
+				]
+			},
+			"bbox": [
+				-79.6140069,
+				42.9045337,
+				-79.6109374,
+				42.906782
+			]
+		}
+	]
+}

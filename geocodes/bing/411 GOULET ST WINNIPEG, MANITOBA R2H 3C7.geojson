@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "411 Goulet St, Winnipeg, MB R2H 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e996379970064c9799bbe09bffe95c87|BN20160335|7.7.0.0|",
+				"addressLine": "411 Goulet St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "411 Goulet St, Winnipeg, MB R2H 3C7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Central St Boniface",
+				"postalCode": "R2H 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.10836,
+					49.88306
+				]
+			},
+			"bbox": [
+				-97.1101046,
+				49.8819358,
+				-97.1066154,
+				49.8841842
+			]
+		}
+	]
+}

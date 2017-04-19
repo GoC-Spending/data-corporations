@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6298 Arlington St, Vancouver, BC V5S 3N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4eb46981b9e404f835af4b44c9c2e4e|BN20130625|7.7.0.0|",
+				"addressLine": "6298 Arlington St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6298 Arlington St, Vancouver, BC V5S 3N6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Killarney",
+				"postalCode": "V5S 3N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02765,
+					49.22669
+				]
+			},
+			"bbox": [
+				-123.0293713,
+				49.2255658,
+				-123.0259287,
+				49.2278142
+			]
+		}
+	]
+}

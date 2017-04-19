@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "134 Kent St, Charlottetown, PE C1A 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c33e4d21a621425586a937f52254f256|BN20121763|7.7.0.0|",
+				"addressLine": "134 Kent St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "134 Kent St, Charlottetown, PE C1A 1N2, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12809,
+					46.23569
+				]
+			},
+			"bbox": [
+				-63.1297152,
+				46.2345658,
+				-63.1264648,
+				46.2368142
+			]
+		}
+	]
+}

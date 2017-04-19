@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "838 Fennell Ave E, Hamilton, ON L8V 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b213879abf5492bad462970b98f918f|BN20130533|7.7.0.0|",
+				"addressLine": "838 Fennell Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "838 Fennell Ave E, Hamilton, ON L8V 1V6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Macassa",
+				"postalCode": "L8V 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84689,
+					43.22951
+				]
+			},
+			"bbox": [
+				-79.8484329,
+				43.2283858,
+				-79.8453471,
+				43.2306342
+			]
+		}
+	]
+}

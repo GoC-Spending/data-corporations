@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3083 Highvalley Rd, Oakville, ON L6M 5H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc006087b1d44efba9fcc22580de2289|BN20130422|7.7.0.0|",
+				"addressLine": "3083 Highvalley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3083 Highvalley Rd, Oakville, ON L6M 5H4, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Bronte Creek",
+				"postalCode": "L6M 5H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77545,
+					43.43133
+				]
+			},
+			"bbox": [
+				-79.776998,
+				43.4302058,
+				-79.773902,
+				43.4324542
+			]
+		}
+	]
+}

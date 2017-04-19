@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "380 2nd Ave N, Greater Sudbury, ON P3B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b61d782fe524b7e9e02961c5a7b5b8f|BN20250135|7.7.0.0|",
+				"addressLine": "380 2nd Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "380 2nd Ave N, Greater Sudbury, ON P3B, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3B 4A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.93527,
+					46.50223
+				]
+			},
+			"bbox": [
+				-80.9369032,
+				46.5011058,
+				-80.9336368,
+				46.5033542
+			]
+		}
+	]
+}

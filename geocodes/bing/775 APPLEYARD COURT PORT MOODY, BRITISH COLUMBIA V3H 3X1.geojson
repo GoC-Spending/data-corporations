@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "775 Appleyard Ct, Port Moody, BC V3H 3X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fe7ba84f93245e682a518444678771a|BN20260223|7.7.0.0|",
+				"addressLine": "775 Appleyard Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "775 Appleyard Ct, Port Moody, BC V3H 3X1, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 3X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.82669,
+					49.28669
+				]
+			},
+			"bbox": [
+				-122.8284134,
+				49.2855658,
+				-122.8249666,
+				49.2878142
+			]
+		}
+	]
+}

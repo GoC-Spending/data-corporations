@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "315 Mountain Hwy, North Vancouver, BC V7J 2K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42a39acfd3f04425b04c11f5c9f99f06|BN20130721|7.7.0.0|",
+				"addressLine": "315 Mountain Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "315 Mountain Hwy, North Vancouver, BC V7J 2K7, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Lynnmour South",
+				"postalCode": "V7J 2K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.03229,
+					49.3072
+				]
+			},
+			"bbox": [
+				-123.0340142,
+				49.3060758,
+				-123.0305658,
+				49.3083242
+			]
+		}
+	]
+}

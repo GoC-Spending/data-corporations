@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1846 Concession 4 W, Hamilton, ON L0R 2B0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "368fbed554f74ba483adab97c083cb58|BN20220145|7.7.0.0|",
+				"addressLine": "1846 Concession 4 W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1846 Concession 4 W, Hamilton, ON L0R 2B0, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Rockton",
+				"postalCode": "L0R 2B0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.1325761,
+					43.2889236
+				]
+			},
+			"bbox": [
+				-80.1341205,
+				43.2877995,
+				-80.1310318,
+				43.2900478
+			]
+		}
+	]
+}

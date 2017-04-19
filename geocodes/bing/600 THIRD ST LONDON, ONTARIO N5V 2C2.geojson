@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 3rd St, London, ON N5V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25846773429f48c3b5adeac98402876e|CO30276240|7.7.0.0|",
+				"addressLine": "600 3rd St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 3rd St, London, ON N5V, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5V 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1886609,
+					43.0094583
+				]
+			},
+			"bbox": [
+				-81.1901982,
+				43.0083341,
+				-81.1871235,
+				43.0105824
+			]
+		}
+	]
+}

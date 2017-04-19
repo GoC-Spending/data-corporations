@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1219 Johnston Rd, White Rock, BC V4B 3Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ea9f320d65944b2b0466d289f5e9166|BN20240423|7.7.0.0|",
+				"addressLine": "1219 Johnston Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1219 Johnston Rd, White Rock, BC V4B 3Y8, Canada",
+				"locality": "White Rock",
+				"postalCode": "V4B 3Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8013149,
+					49.0241175
+				]
+			},
+			"bbox": [
+				-122.8030292,
+				49.0229934,
+				-122.7996006,
+				49.0252417
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "343 Winona Rd, Stoney Creek, ON L8E 5E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd9599cf3d3a4acaaa92eed397e9aca6|BN20130447|7.7.0.0|",
+				"addressLine": "343 Winona Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "343 Winona Rd, Stoney Creek, ON L8E 5E4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 5E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64905,
+					43.21378
+				]
+			},
+			"bbox": [
+				-79.6505925,
+				43.2126558,
+				-79.6475075,
+				43.2149042
+			]
+		}
+	]
+}

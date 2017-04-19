@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3015 Trafalgar St, London, ON N6M 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb26161cb80747698bea47e8b230644a|CO30323911|7.7.0.0|",
+				"addressLine": "3015 Trafalgar St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3015 Trafalgar St, London, ON N6M 1H1, Canada",
+				"locality": "London",
+				"neighborhood": "Crumlin",
+				"postalCode": "N6M 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.124,
+					43.0054
+				]
+			},
+			"bbox": [
+				-81.1255372,
+				43.0042758,
+				-81.1224628,
+				43.0065242
+			]
+		}
+	]
+}

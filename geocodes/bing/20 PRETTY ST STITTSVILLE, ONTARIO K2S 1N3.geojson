@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Pretty St, Stittsville, ON K2S 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2637f3a548f47e28d5ba29b579443ca|BN20130634|7.7.0.0|",
+				"addressLine": "20 Pretty St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Pretty St, Stittsville, ON K2S 1N3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.91677,
+					45.2567
+				]
+			},
+			"bbox": [
+				-75.918367,
+				45.2555758,
+				-75.915173,
+				45.2578242
+			]
+		}
+	]
+}

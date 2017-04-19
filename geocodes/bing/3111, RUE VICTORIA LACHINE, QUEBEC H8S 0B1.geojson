@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3111 Rue Victoria, Lachine, QC H8S 0B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3bf9d929d91469b85e584a90151bbb7|BN20130423|7.7.0.0|",
+				"addressLine": "3111 Rue Victoria",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "3111 Rue Victoria, Lachine, QC H8S 0B1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8S 0B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.69061,
+					45.43659
+				]
+			},
+			"bbox": [
+				-73.692212,
+				45.4354658,
+				-73.689008,
+				45.4377142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1468 Pembroke St, Victoria, BC V8R 1V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75bdce5d7cc64204a5779dcf7e5d0538|BN20240253|7.7.0.0|",
+				"addressLine": "1468 Pembroke St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1468 Pembroke St, Victoria, BC V8R 1V8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Fernwood",
+				"postalCode": "V8R 1V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3394,
+					48.43134
+				]
+			},
+			"bbox": [
+				-123.3410942,
+				48.4302158,
+				-123.3377058,
+				48.4324642
+			]
+		}
+	]
+}

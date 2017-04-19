@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7425 100 Ave, Peace River, AB T8S 1M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43b2d02982944774b47f2caa70e09d3a|BN20210145|7.7.0.0|",
+				"addressLine": "7425 100 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7425 100 Ave, Peace River, AB T8S 1M5, Canada",
+				"locality": "Peace River",
+				"postalCode": "T8S 1M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.3435887,
+					56.2326551
+				]
+			},
+			"bbox": [
+				-117.3456113,
+				56.2315309,
+				-117.3415662,
+				56.2337793
+			]
+		}
+	]
+}

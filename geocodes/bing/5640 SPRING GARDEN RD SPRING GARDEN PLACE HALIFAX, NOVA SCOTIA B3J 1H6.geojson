@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5640 Spring Garden Rd, Halifax, NS B3J 3M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f69b5e5e6a0b4c48a772587237205df8|BN20130634|7.7.0.0|",
+				"addressLine": "5640 Spring Garden Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "5640 Spring Garden Rd, Halifax, NS B3J 3M7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Downtown Halifax",
+				"postalCode": "B3J 3M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.57804,
+					44.64258
+				]
+			},
+			"bbox": [
+				-63.57962,
+				44.6414558,
+				-63.57646,
+				44.6437042
+			]
+		}
+	]
+}

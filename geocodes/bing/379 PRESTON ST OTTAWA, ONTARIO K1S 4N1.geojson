@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "379 Preston St, Ottawa, ON K1S 4N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00fcc3b39ec14cdca7d98b1deae1bd2d|BN20220145|7.7.0.0|",
+				"addressLine": "379 Preston St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "379 Preston St, Ottawa, ON K1S 4N1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "West Centre Town-Little Italy-Civic",
+				"postalCode": "K1S 4N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70908,
+					45.4005
+				]
+			},
+			"bbox": [
+				-75.710681,
+				45.3993758,
+				-75.707479,
+				45.4016242
+			]
+		}
+	]
+}

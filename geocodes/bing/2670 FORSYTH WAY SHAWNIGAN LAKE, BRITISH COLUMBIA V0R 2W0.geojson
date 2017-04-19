@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2670 Forsyth Way, Shawnigan Lake, BC V0R 2W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "000b9cc30d29422d9ed983aa937417ec|BN20260223|7.7.0.0|",
+				"addressLine": "2670 Forsyth Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2670 Forsyth Way, Shawnigan Lake, BC V0R 2W2, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Shawnigan Lake",
+				"postalCode": "V0R 2W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.6096535,
+					48.6506171
+				]
+			},
+			"bbox": [
+				-123.6113551,
+				48.6494929,
+				-123.6079519,
+				48.6517412
+			]
+		}
+	]
+}

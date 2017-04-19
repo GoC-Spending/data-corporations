@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Dupont St E, Waterloo, ON N2J 2G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "224e65fae43c4571923ea7c02770fcaa|BN20130721|7.7.0.0|",
+				"addressLine": "33 Dupont St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Dupont St E, Waterloo, ON N2J 2G8, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 2G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5205,
+					43.46607
+				]
+			},
+			"bbox": [
+				-80.5220489,
+				43.4649458,
+				-80.5189511,
+				43.4671942
+			]
+		}
+	]
+}

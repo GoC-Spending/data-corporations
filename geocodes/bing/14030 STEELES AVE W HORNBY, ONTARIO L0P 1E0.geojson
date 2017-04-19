@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14030 Steeles Ave, Hornby, ON L0P 1E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f99e8e0753e64b6ca1d7d1eef8504061|BN20190642|7.7.0.0|",
+				"addressLine": "14030 Steeles Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "14030 Steeles Ave, Hornby, ON L0P 1E0, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Hornby",
+				"postalCode": "L0P 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8289099,
+					43.5785399
+				]
+			},
+			"bbox": [
+				-79.8304617,
+				43.5774157,
+				-79.8273581,
+				43.5796641
+			]
+		}
+	]
+}

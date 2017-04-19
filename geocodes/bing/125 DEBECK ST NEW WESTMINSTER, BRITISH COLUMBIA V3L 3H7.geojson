@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Debeck St, New Westminster, BC V3L 3H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43d016ea66a849d887285e74316414c4|BN20130442|7.7.0.0|",
+				"addressLine": "125 Debeck St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Debeck St, New Westminster, BC V3L 3H7, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Sapperton",
+				"postalCode": "V3L 3H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8947394,
+					49.2221349
+				]
+			},
+			"bbox": [
+				-122.8964606,
+				49.2210107,
+				-122.8930182,
+				49.2232591
+			]
+		}
+	]
+}

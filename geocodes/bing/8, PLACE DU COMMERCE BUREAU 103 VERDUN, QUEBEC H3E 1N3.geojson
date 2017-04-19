@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Place du Commerce, Verdun, QC H3E 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "622526e1fe6b41fa9764874642675825|BN20300154|7.7.0.0|",
+				"addressLine": "8 Place du Commerce",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Place du Commerce, Verdun, QC H3E 1N3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H3E 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.54155,
+					45.46897
+				]
+			},
+			"bbox": [
+				-73.543153,
+				45.4678458,
+				-73.539947,
+				45.4700942
+			]
+		}
+	]
+}

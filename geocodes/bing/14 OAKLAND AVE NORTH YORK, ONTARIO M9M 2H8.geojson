@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14 Oakland Ave, North York, ON M9M 2H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8e15f5fd0c94eb79788a21a7e6e99fb|BN20130522|7.7.0.0|",
+				"addressLine": "14 Oakland Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "14 Oakland Ave, North York, ON M9M 2H8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Downsview-Roding-CFB",
+				"postalCode": "M9M 2H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5271999,
+					43.71803
+				]
+			},
+			"bbox": [
+				-79.5287553,
+				43.7169058,
+				-79.5256445,
+				43.7191542
+			]
+		}
+	]
+}

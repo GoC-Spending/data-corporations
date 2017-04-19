@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "184 Queen St W, Brampton, ON L6X 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1dc2256d180d44639e39801e478d4fd0|BN20121763|7.7.0.0|",
+				"addressLine": "184 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "184 Queen St W, Brampton, ON L6X 1A8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6X 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76516,
+					43.68157
+				]
+			},
+			"bbox": [
+				-79.7667144,
+				43.6804458,
+				-79.7636056,
+				43.6826942
+			]
+		}
+	]
+}

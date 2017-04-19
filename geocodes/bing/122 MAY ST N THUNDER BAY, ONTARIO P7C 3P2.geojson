@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "122 May St N, Thunder Bay, ON P7C 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8e08f19158a4fa4b2d3ce319a4424ed|BN20130447|7.7.0.0|",
+				"addressLine": "122 May St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "122 May St N, Thunder Bay, ON P7C 3P2, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7C 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.24524,
+					48.38505
+				]
+			},
+			"bbox": [
+				-89.2469327,
+				48.3839258,
+				-89.2435473,
+				48.3861742
+			]
+		}
+	]
+}

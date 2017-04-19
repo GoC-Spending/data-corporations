@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "355 Victoria Rd N, Guelph, ON N1E 5J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8987a0645b04abbbf53e3bde8a720bd|BN20131519|7.7.0.0|",
+				"addressLine": "355 Victoria Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "355 Victoria Rd N, Guelph, ON N1E 5J6, Canada",
+				"locality": "Guelph",
+				"neighborhood": "General Hospital/Riverside Park",
+				"postalCode": "N1E 5J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25476,
+					43.57486
+				]
+			},
+			"bbox": [
+				-80.2563117,
+				43.5737358,
+				-80.2532083,
+				43.5759842
+			]
+		}
+	]
+}

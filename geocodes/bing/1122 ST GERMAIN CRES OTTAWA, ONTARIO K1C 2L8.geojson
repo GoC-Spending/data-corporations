@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1122 St Germain Cres, Orleans, ON K1C 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "41182e7acf1a49f2a6dff0ff68d11379|BN20210145|7.7.0.0|",
+				"addressLine": "1122 St Germain Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1122 St Germain Cres, Orleans, ON K1C 2L8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Orleans",
+				"postalCode": "K1C 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.54271,
+					45.47598
+				]
+			},
+			"bbox": [
+				-75.5443132,
+				45.4748558,
+				-75.5411068,
+				45.4771042
+			]
+		}
+	]
+}

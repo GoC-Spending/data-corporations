@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "144 Lysander Pl SE, Calgary, AB T2C 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1b8ed88e3d14fb9ad8d8ce77f0ce33a|BN20130423|7.7.0.0|",
+				"addressLine": "144 Lysander Pl SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "144 Lysander Pl SE, Calgary, AB T2C 1L8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Ogden",
+				"postalCode": "T2C 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.01664,
+					50.98857
+				]
+			},
+			"bbox": [
+				-114.0184259,
+				50.9874458,
+				-114.0148541,
+				50.9896942
+			]
+		}
+	]
+}

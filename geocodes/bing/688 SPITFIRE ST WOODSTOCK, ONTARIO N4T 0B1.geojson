@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "688 Spitfire St, Woodstock, ON N4T 0B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e377d41ee4184dc09fbe5700cf3efd3e|BN20121764|7.7.0.0|",
+				"addressLine": "688 Spitfire St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "688 Spitfire St, Woodstock, ON N4T 0B1, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4T 0B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.72242,
+					43.15446
+				]
+			},
+			"bbox": [
+				-80.723961,
+				43.1533358,
+				-80.720879,
+				43.1555842
+			]
+		}
+	]
+}

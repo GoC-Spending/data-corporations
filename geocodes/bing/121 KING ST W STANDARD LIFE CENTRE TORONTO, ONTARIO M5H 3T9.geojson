@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "121 King St W, Toronto, ON M5H 3T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7615e1defd5d473aa4b820eb59bf1df6|BN20280152|7.7.0.0|",
+				"addressLine": "121 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "121 King St W, Toronto, ON M5H 3T9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H 3T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38294,
+					43.64768
+				]
+			},
+			"bbox": [
+				-79.3844936,
+				43.6465558,
+				-79.3813864,
+				43.6488042
+			]
+		}
+	]
+}

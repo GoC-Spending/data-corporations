@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1069 McCallum Rd, Abbotsford, BC V2S 8A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f5bb5722ca1422d814e8c29c4eb891a|BN20200239|7.7.0.0|",
+				"addressLine": "1069 McCallum Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "1069 McCallum Rd, Abbotsford, BC V2S 8A4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2S 8A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2939421,
+					49.0213676
+				]
+			},
+			"bbox": [
+				-122.2956564,
+				49.0202434,
+				-122.2922279,
+				49.0224917
+			]
+		}
+	]
+}

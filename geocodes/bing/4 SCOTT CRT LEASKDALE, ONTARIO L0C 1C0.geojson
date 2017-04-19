@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Scott Ct, Uxbridge, ON L0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb7716ac4ba94f858ead01a30a5c8d8e|BN20300154|7.7.0.0|",
+				"addressLine": "4 Scott Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Scott Ct, Uxbridge, ON L0C, Canada",
+				"locality": "Uxbridge",
+				"neighborhood": "Leaskdale",
+				"postalCode": "L0C 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.15872,
+					44.20164
+				]
+			},
+			"bbox": [
+				-79.1602881,
+				44.2005158,
+				-79.1571519,
+				44.2027642
+			]
+		}
+	]
+}

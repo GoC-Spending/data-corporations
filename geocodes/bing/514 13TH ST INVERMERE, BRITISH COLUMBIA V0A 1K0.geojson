@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "514 13th St, Invermere, BC V0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c9fe2b17e0549cebc9803ee7ee2ccd0|BN20290118|7.7.0.0|",
+				"addressLine": "514 13th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "East Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "514 13th St, Invermere, BC V0A, Canada",
+				"locality": "Invermere",
+				"postalCode": "V0A 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.0256147,
+					50.5038463
+				]
+			},
+			"bbox": [
+				-116.0273821,
+				50.5027221,
+				-116.0238472,
+				50.5049705
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 North St W, Orillia, ON L3V 3S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e3693fc93acc49e7af62260744bbf357|BN20171457|7.7.0.0|",
+				"addressLine": "41 North St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 North St W, Orillia, ON L3V 3S6, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 3S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42952,
+					44.61613
+				]
+			},
+			"bbox": [
+				-79.4310992,
+				44.6150058,
+				-79.4279408,
+				44.6172542
+			]
+		}
+	]
+}

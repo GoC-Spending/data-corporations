@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 N Wind Pl, Scarborough, ON M1S 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad5bfc53c60446c881cd34f54837d1ca|BN20130422|7.7.0.0|",
+				"addressLine": "30 N Wind Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 N Wind Pl, Scarborough, ON M1S 3R5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt North",
+				"postalCode": "M1S 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26517,
+					43.79508
+				]
+			},
+			"bbox": [
+				-79.2667274,
+				43.7939558,
+				-79.2636126,
+				43.7962042
+			]
+		}
+	]
+}

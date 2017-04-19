@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 Prince St, Truro, NS B2N 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "518bc553cc65437ab3a18c11371bbd6c|BN20181720|7.7.0.0|",
+				"addressLine": "605 Prince St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 Prince St, Truro, NS B2N 1G2, Canada",
+				"locality": "Truro",
+				"postalCode": "B2N 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.28311,
+					45.36569
+				]
+			},
+			"bbox": [
+				-63.28471,
+				45.3645658,
+				-63.28151,
+				45.3668142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "143 Dennis St, Rockwood, ON N0B 2K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0725b0797bb84341a2b19cea6429b989|BN20131519|7.7.0.0|",
+				"addressLine": "143 Dennis St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "143 Dennis St, Rockwood, ON N0B 2K0, Canada",
+				"locality": "Guelph/Eramosa",
+				"neighborhood": "Rockwood",
+				"postalCode": "N0B 2K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.14592,
+					43.62107
+				]
+			},
+			"bbox": [
+				-80.1474729,
+				43.6199458,
+				-80.1443671,
+				43.6221942
+			]
+		}
+	]
+}

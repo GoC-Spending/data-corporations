@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7141 67 St NW, Edmonton, AB T6B 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab1a57336a03437eb502d28286358090|BN20130719|7.7.0.0|",
+				"addressLine": "7141 67 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7141 67 St NW, Edmonton, AB T6B 3L7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Davies Industrial East",
+				"postalCode": "T6B 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4303043,
+					53.5079794
+				]
+			},
+			"bbox": [
+				-113.4321945,
+				53.5068552,
+				-113.428414,
+				53.5091035
+			]
+		}
+	]
+}

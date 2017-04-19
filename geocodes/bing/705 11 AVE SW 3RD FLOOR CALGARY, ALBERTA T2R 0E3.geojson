@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "705 11 Ave SW, Calgary, AB T2R 0E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24b2f38b3e8e4c0cb366086093df0d37|BN20130632|7.7.0.0|",
+				"addressLine": "705 11 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "705 11 Ave SW, Calgary, AB T2R 0E3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Beltline",
+				"postalCode": "T2R 0E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0769115,
+					51.0426101
+				]
+			},
+			"bbox": [
+				-114.0786994,
+				51.041486,
+				-114.0751236,
+				51.0437343
+			]
+		}
+	]
+}

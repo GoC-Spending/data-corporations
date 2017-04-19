@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "415 Main St, Temiskaming Shores, ON P0J, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3528dfedcab54a7d8d9b99a8a591a336|BN20290118|7.7.0.0|",
+				"addressLine": "415 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Timiskaming",
+				"countryRegion": "Canada",
+				"formattedAddress": "415 Main St, Temiskaming Shores, ON P0J, Canada",
+				"locality": "Temiskaming Shores",
+				"neighborhood": "Haileybury",
+				"postalCode": "P0J 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6359474,
+					47.4491349
+				]
+			},
+			"bbox": [
+				-79.6376097,
+				47.4480107,
+				-79.634285,
+				47.4502591
+			]
+		}
+	]
+}

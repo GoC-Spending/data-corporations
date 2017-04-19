@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "322 Leroy St, Coquitlam, BC V3K 5K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3972099b54645f3b841f3e8d301b112|BN20240423|7.7.0.0|",
+				"addressLine": "322 Leroy St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "322 Leroy St, Coquitlam, BC V3K 5K6, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cape Horn",
+				"postalCode": "V3K 5K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8357279,
+					49.2403626
+				]
+			},
+			"bbox": [
+				-122.8374497,
+				49.2392384,
+				-122.834006,
+				49.2414867
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Brock Rd S, Puslinch, ON N1H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f9dd6c8726342c297c8acb81e8efe64|BN20130447|7.7.0.0|",
+				"addressLine": "101 Brock Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Brock Rd S, Puslinch, ON N1H, Canada",
+				"locality": "Puslinch",
+				"neighborhood": "Guelph",
+				"postalCode": "N1H 6H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.14251,
+					43.46532
+				]
+			},
+			"bbox": [
+				-80.1440589,
+				43.4641958,
+				-80.1409611,
+				43.4664442
+			]
+		}
+	]
+}

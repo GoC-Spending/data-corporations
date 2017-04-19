@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11816 124 St NW, Edmonton, AB T5L 0M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9128830365024659881e6663bc7a3c89|BN20200137|7.7.0.0|",
+				"addressLine": "11816 124 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11816 124 St NW, Edmonton, AB T5L 0M3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Prince Charles",
+				"postalCode": "T5L 0M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5360949,
+					53.5704909
+				]
+			},
+			"bbox": [
+				-113.5379879,
+				53.5693668,
+				-113.5342019,
+				53.5716151
+			]
+		}
+	]
+}

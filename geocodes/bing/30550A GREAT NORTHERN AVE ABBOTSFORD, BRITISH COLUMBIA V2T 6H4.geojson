@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30550 Great Northern Ave, Abbotsford, BC V2T 6H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa769ab8d1cc4234b72f43067598d411|BN20210145|7.7.0.0|",
+				"addressLine": "30550 Great Northern Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "30550 Great Northern Ave, Abbotsford, BC V2T 6H4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2T 6H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.37717,
+					49.05071
+				]
+			},
+			"bbox": [
+				-122.3788852,
+				49.0495858,
+				-122.3754548,
+				49.0518342
+			]
+		}
+	]
+}

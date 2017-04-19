@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "976 Rue Bergar, Laval, QC H7L 5A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b6ec3f193394668a507e0443ed4f279|BN20130522|7.7.0.0|",
+				"addressLine": "976 Rue Bergar",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "976 Rue Bergar, Laval, QC H7L 5A1, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74401,
+					45.5944
+				]
+			},
+			"bbox": [
+				-73.7456165,
+				45.5932758,
+				-73.7424035,
+				45.5955242
+			]
+		}
+	]
+}

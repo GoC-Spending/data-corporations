@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "280 Consumers Rd, North York, ON M2J 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "550cb3a465564509ad0650f627615131|BN20121763|7.7.0.0|",
+				"addressLine": "280 Consumers Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "280 Consumers Rd, North York, ON M2J 1P8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Henry Farm",
+				"postalCode": "M2J 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3279,
+					43.77088
+				]
+			},
+			"bbox": [
+				-79.3294568,
+				43.7697558,
+				-79.3263432,
+				43.7720042
+			]
+		}
+	]
+}

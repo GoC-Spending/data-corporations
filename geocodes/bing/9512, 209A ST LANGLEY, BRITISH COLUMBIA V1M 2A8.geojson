@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9512 209A St, Langley, BC V1M 2A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a157a3992eae499caff330d6ef8e5da5|BN20300154|7.7.0.0|",
+				"addressLine": "9512 209A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9512 209A St, Langley, BC V1M 2A8, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V1M 2A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6417751,
+					49.1756901
+				]
+			},
+			"bbox": [
+				-122.6434947,
+				49.1745659,
+				-122.6400555,
+				49.1768142
+			]
+		}
+	]
+}

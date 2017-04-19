@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "835 Harrington Ct, Burlington, ON L7N 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e360c893bcac43cf960613d78b0e61c5|BN20130634|7.7.0.0|",
+				"addressLine": "835 Harrington Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "835 Harrington Ct, Burlington, ON L7N 3P3, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Dynes",
+				"postalCode": "L7N 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78512,
+					43.3575299
+				]
+			},
+			"bbox": [
+				-79.7866661,
+				43.3564057,
+				-79.7835739,
+				43.3586541
+			]
+		}
+	]
+}

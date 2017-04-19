@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3250 Beta Ave, Burnaby, BC V5G 4K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac26681ccbf14ffb8784ae9bc6f43258|BN20171457|7.7.0.0|",
+				"addressLine": "3250 Beta Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3250 Beta Ave, Burnaby, BC V5G 4K4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Douglas-Gilpin",
+				"postalCode": "V5G 4K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9979051,
+					49.2550683
+				]
+			},
+			"bbox": [
+				-122.9996274,
+				49.2539441,
+				-122.9961828,
+				49.2561924
+			]
+		}
+	]
+}

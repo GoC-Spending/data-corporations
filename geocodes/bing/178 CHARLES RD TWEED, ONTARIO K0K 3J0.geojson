@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "178 Charles Rd, Tweed, ON K0K 3J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b26210f1a60f4caab322d3e746136773|BN20131519|7.7.0.0|",
+				"addressLine": "178 Charles Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "178 Charles Rd, Tweed, ON K0K 3J0, Canada",
+				"locality": "Tweed",
+				"postalCode": "K0K 3J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.27459,
+					44.4865
+				]
+			},
+			"bbox": [
+				-77.2761657,
+				44.4853758,
+				-77.2730143,
+				44.4876242
+			]
+		}
+	]
+}

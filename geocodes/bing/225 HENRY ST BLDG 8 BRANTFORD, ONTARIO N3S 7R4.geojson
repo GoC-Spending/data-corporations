@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Henry St, Brantford, ON N3S 7R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd48fe14098c4a278d92ca15cdf7c424|BN20130620|7.7.0.0|",
+				"addressLine": "225 Henry St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Henry St, Brantford, ON N3S 7R4, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3S 7R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.236173,
+					43.1558238
+				]
+			},
+			"bbox": [
+				-80.237714,
+				43.1546997,
+				-80.234632,
+				43.156948
+			]
+		}
+	]
+}

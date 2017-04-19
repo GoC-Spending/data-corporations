@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3070 264 St, Aldergrove, BC V4W 3E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6e7102f91674be5bb23b3ce3fe2fc76|BN20210145|7.7.0.0|",
+				"addressLine": "3070 264 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3070 264 St, Aldergrove, BC V4W 3E1, Canada",
+				"locality": "Langley",
+				"neighborhood": "Aldergrove",
+				"postalCode": "V4W 3E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.49199,
+					49.0583
+				]
+			},
+			"bbox": [
+				-122.4937055,
+				49.0571758,
+				-122.4902745,
+				49.0594242
+			]
+		}
+	]
+}

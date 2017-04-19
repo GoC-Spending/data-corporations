@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 Kenilworth Ave N, Hamilton, ON L8H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f90700c133a6468c86843319ecbb743d|BN20160335|7.7.0.0|",
+				"addressLine": "600 Kenilworth Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 Kenilworth Ave N, Hamilton, ON L8H, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector F",
+				"postalCode": "L8H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80052,
+					43.25864
+				]
+			},
+			"bbox": [
+				-79.8020636,
+				43.2575158,
+				-79.7989764,
+				43.2597642
+			]
+		}
+	]
+}

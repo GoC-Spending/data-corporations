@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 York Rd, Guelph, ON N1E 3J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e89dd48ae18042d8845d5c341ad0f29b|BN20130719|7.7.0.0|",
+				"addressLine": "500 York Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 York Rd, Guelph, ON N1E 3J4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Grange Road",
+				"postalCode": "N1E 3J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2228078,
+					43.552889
+				]
+			},
+			"bbox": [
+				-80.2243589,
+				43.5517649,
+				-80.2212567,
+				43.5540132
+			]
+		}
+	]
+}

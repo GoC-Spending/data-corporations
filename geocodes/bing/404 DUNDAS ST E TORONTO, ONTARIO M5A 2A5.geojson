@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "404 Dundas St E, Toronto, ON M5A 2A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdedaed1adeb47f2ad65b5a7513ab5ae|BN20130625|7.7.0.0|",
+				"addressLine": "404 Dundas St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "404 Dundas St E, Toronto, ON M5A 2A5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 2A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3677,
+					43.65931
+				]
+			},
+			"bbox": [
+				-79.3692539,
+				43.6581858,
+				-79.3661461,
+				43.6604342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4620 Boulevard Bourque, Sherbrooke, QC J1N 2A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6a6a33c8550c46399c220391a794a034|BN20130621|7.7.0.0|",
+				"addressLine": "4620 Boulevard Bourque",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "4620 Boulevard Bourque, Sherbrooke, QC J1N 2A8, Canada",
+				"locality": "Sherbrooke",
+				"neighborhood": "Rock Forest",
+				"postalCode": "J1N 2A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.98062,
+					45.3748
+				]
+			},
+			"bbox": [
+				-71.9822203,
+				45.3736758,
+				-71.9790197,
+				45.3759242
+			]
+		}
+	]
+}

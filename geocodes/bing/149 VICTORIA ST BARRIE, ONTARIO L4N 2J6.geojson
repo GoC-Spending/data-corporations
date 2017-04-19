@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "149 Victoria St, Barrie, ON L4N 2J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "331164ab8baa434780d1ceff08745f42|BN20290118|7.7.0.0|",
+				"addressLine": "149 Victoria St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "149 Victoria St, Barrie, ON L4N 2J6, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 2J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69956,
+					44.38019
+				]
+			},
+			"bbox": [
+				-79.7011329,
+				44.3790658,
+				-79.6979871,
+				44.3813142
+			]
+		}
+	]
+}

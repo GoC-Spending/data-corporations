@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2035 Oxford St E, London, ON N5V 2Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c282447f9908490a8d10fda6295253e6|BN20130442|7.7.0.0|",
+				"addressLine": "2035 Oxford St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "2035 Oxford St E, London, ON N5V 2Z7, Canada",
+				"locality": "London",
+				"neighborhood": "Airport",
+				"postalCode": "N5V 2Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1678,
+					43.0193
+				]
+			},
+			"bbox": [
+				-81.1693376,
+				43.0181758,
+				-81.1662624,
+				43.0204242
+			]
+		}
+	]
+}

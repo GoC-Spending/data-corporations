@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "859 Exmouth St, Sarnia, ON N7T 5R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "76d4a1307e994c118e6c082aad0e0c6b|BN20130621|7.7.0.0|",
+				"addressLine": "859 Exmouth St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lambton",
+				"countryRegion": "Canada",
+				"formattedAddress": "859 Exmouth St, Sarnia, ON N7T 5R3, Canada",
+				"locality": "Sarnia",
+				"postalCode": "N7T 5R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.3784595,
+					42.9849277
+				]
+			},
+			"bbox": [
+				-82.3799962,
+				42.9838035,
+				-82.3769228,
+				42.9860518
+			]
+		}
+	]
+}

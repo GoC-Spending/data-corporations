@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "392 Dundas St E, Toronto, ON M5A 2A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1da7bd4b5c1c41d9bfb21a878b796ed0|BN20121762|7.7.0.0|",
+				"addressLine": "392 Dundas St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "392 Dundas St E, Toronto, ON M5A 2A5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 2A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36798,
+					43.65916
+				]
+			},
+			"bbox": [
+				-79.3695339,
+				43.6580358,
+				-79.3664261,
+				43.6602842
+			]
+		}
+	]
+}

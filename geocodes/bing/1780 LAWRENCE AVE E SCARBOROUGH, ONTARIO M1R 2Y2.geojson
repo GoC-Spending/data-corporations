@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1780 Lawrence Ave E, Scarborough, ON M1R 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f420393b3204346b5100c05aea088ed|BN20200239|7.7.0.0|",
+				"addressLine": "1780 Lawrence Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1780 Lawrence Ave E, Scarborough, ON M1R 2Y2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30696,
+					43.74309
+				]
+			},
+			"bbox": [
+				-79.308516,
+				43.7419658,
+				-79.305404,
+				43.7442142
+			]
+		}
+	]
+}

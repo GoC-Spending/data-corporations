@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "121 Sienna Park Bay SW, Calgary, AB T3H 4T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f15ce40c9ee44fa1af8baf074128475c|BN20130533|7.7.0.0|",
+				"addressLine": "121 Sienna Park Bay SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "121 Sienna Park Bay SW, Calgary, AB T3H 4T1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Signal Hill",
+				"postalCode": "T3H 4T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.1825821,
+					51.0281851
+				]
+			},
+			"bbox": [
+				-114.1843695,
+				51.0270609,
+				-114.1807947,
+				51.0293092
+			]
+		}
+	]
+}

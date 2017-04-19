@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "820 Flint Rd, North York, ON M3J 2J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d6bfbc57eb541e69538d659fd1aced5|BN20190642|7.7.0.0|",
+				"addressLine": "820 Flint Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "820 Flint Rd, North York, ON M3J 2J5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48133,
+					43.77484
+				]
+			},
+			"bbox": [
+				-79.4828869,
+				43.7737158,
+				-79.4797731,
+				43.7759642
+			]
+		}
+	]
+}

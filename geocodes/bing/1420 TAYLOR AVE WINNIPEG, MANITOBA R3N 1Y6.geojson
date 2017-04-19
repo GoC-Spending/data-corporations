@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1420 Taylor Ave, Winnipeg, MB R3N 1Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f76d5435f639463ea98a2b0e6875837d|BN20130621|7.7.0.0|",
+				"addressLine": "1420 Taylor Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1420 Taylor Ave, Winnipeg, MB R3N 1Y6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South River Heights",
+				"postalCode": "R3N 1Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1858,
+					49.84999
+				]
+			},
+			"bbox": [
+				-97.1875434,
+				49.8488658,
+				-97.1840566,
+				49.8511142
+			]
+		}
+	]
+}

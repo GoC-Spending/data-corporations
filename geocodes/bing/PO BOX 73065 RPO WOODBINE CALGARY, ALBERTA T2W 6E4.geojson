@@ -1,0 +1,111 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Calgary, T2W 6E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b75ed47563d414babef70b2ffb28e1e|BN20130719|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Calgary, T2W 6E4, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2W 6E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.063018798828,
+					51.0452194213867
+				]
+			},
+			"bbox": [
+				-114.071209994272,
+				51.041356703816,
+				-114.054827603385,
+				51.0490821389574
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Woodbine, Calgary, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b75ed47563d414babef70b2ffb28e1e|BN20130719|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Woodbine, Calgary, Alberta, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Woodbine"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.128868103027,
+					50.9407615661621
+				]
+			},
+			"bbox": [
+				-114.141166687012,
+				50.928638458252,
+				-114.117736816406,
+				50.9504699707031
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Newcastle, OK 73065",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b75ed47563d414babef70b2ffb28e1e|BN20130719|7.7.0.0|",
+				"adminDistrict": "OK",
+				"adminDistrict2": "McClain",
+				"countryRegion": "United States",
+				"formattedAddress": "Newcastle, OK 73065",
+				"locality": "Newcastle",
+				"postalCode": "73065"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.60009765625,
+					35.2547454833984
+				]
+			},
+			"bbox": [
+				-97.6714477539063,
+				35.1166954040527,
+				-97.5116119384766,
+				35.3365287780762
+			]
+		}
+	]
+}

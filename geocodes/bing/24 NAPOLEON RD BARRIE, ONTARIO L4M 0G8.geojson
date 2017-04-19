@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Napoleon Rd, Barrie, ON L4M 0G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7dc4ad467cc4b91867565e093b87fdb|BN20280152|7.7.0.0|",
+				"addressLine": "24 Napoleon Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Napoleon Rd, Barrie, ON L4M 0G8, Canada",
+				"locality": "Oro-Medonte",
+				"neighborhood": "Barrie",
+				"postalCode": "L4M 0G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6383,
+					44.43649
+				]
+			},
+			"bbox": [
+				-79.6398744,
+				44.4353658,
+				-79.6367256,
+				44.4376142
+			]
+		}
+	]
+}

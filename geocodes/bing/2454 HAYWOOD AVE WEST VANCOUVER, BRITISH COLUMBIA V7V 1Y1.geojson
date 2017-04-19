@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2454 Haywood Ave, West Vancouver, BC V7V 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be053e3e6fab45b39880bba7f2594d99|BN20131519|7.7.0.0|",
+				"addressLine": "2454 Haywood Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2454 Haywood Ave, West Vancouver, BC V7V 1Y1, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Dundarave",
+				"postalCode": "V7V 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1808064,
+					49.3354117
+				]
+			},
+			"bbox": [
+				-123.1825316,
+				49.3342876,
+				-123.1790813,
+				49.3365359
+			]
+		}
+	]
+}

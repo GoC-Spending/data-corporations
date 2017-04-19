@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3349 Boyd Rd, Merritt, BC V1K 1J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81346bd2b344408ab051110790849d18|BN20250135|7.7.0.0|",
+				"addressLine": "3349 Boyd Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "3349 Boyd Rd, Merritt, BC V1K 1J3, Canada",
+				"locality": "Merritt",
+				"postalCode": "V1K 1J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.78576,
+					50.1230199
+				]
+			},
+			"bbox": [
+				-120.7875134,
+				50.1218957,
+				-120.7840066,
+				50.1241441
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3359 Bloor St W, Etobicoke, ON M8X 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cfc5951574824740a1c25ba05a83a2a6|BN20220145|7.7.0.0|",
+				"addressLine": "3359 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3359 Bloor St W, Etobicoke, ON M8X 1G2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Stonegate-Queensway",
+				"postalCode": "M8X 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52238,
+					43.6447
+				]
+			},
+			"bbox": [
+				-79.5239335,
+				43.6435758,
+				-79.5208265,
+				43.6458242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "112 Rue Main E, Hawkesbury, ON K6A 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d441643d2e80444d828464b1badff150|BN20130631|7.7.0.0|",
+				"addressLine": "112 Rue Main E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "112 Rue Main E, Hawkesbury, ON K6A 1A3, Canada",
+				"locality": "Hawkesbury",
+				"postalCode": "K6A 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.6111023,
+					45.609366
+				]
+			},
+			"bbox": [
+				-74.6127093,
+				45.6082419,
+				-74.6094954,
+				45.6104902
+			]
+		}
+	]
+}

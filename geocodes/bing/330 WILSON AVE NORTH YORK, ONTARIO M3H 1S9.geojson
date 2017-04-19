@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "330 Wilson Ave, North York, ON M3H 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2e064ed48804412b74a716a0645458d|BN20130621|7.7.0.0|",
+				"addressLine": "330 Wilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "330 Wilson Ave, North York, ON M3H 1S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clanton Park",
+				"postalCode": "M3H 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4373899,
+					43.73694
+				]
+			},
+			"bbox": [
+				-79.4389458,
+				43.7358158,
+				-79.435834,
+				43.7380642
+			]
+		}
+	]
+}

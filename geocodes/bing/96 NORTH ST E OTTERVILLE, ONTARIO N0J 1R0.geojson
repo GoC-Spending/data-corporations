@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "96 North St E, Otterville, ON N0J 1R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0e00a2174cf9469db8a0aba70f3854bb|BN20240253|7.7.0.0|",
+				"addressLine": "96 North St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "96 North St E, Otterville, ON N0J 1R0, Canada",
+				"locality": "Norwich",
+				"neighborhood": "Otterville",
+				"postalCode": "N0J 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5954806,
+					42.9287907
+				]
+			},
+			"bbox": [
+				-80.597016,
+				42.9276665,
+				-80.5939453,
+				42.9299148
+			]
+		}
+	]
+}

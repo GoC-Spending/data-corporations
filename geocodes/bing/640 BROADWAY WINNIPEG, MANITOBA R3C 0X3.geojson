@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "640 Broadway, Winnipeg, MB R3C 0X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "213c79c2064e496582b3453ec2684801|BN20190642|7.7.0.0|",
+				"addressLine": "640 Broadway",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "640 Broadway, Winnipeg, MB R3C 0X3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "West Broadway",
+				"postalCode": "R3C 0X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15675,
+					49.8855099
+				]
+			},
+			"bbox": [
+				-97.1584947,
+				49.8843857,
+				-97.1550053,
+				49.8866341
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "280 Jane St, Toronto, ON M6S 3Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9471e2dcc3ff4b9bb645a8263c52287c|BN20130533|7.7.0.0|",
+				"addressLine": "280 Jane St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "280 Jane St, Toronto, ON M6S 3Z2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 3Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4873999,
+					43.65592
+				]
+			},
+			"bbox": [
+				-79.4889537,
+				43.6547958,
+				-79.4858461,
+				43.6570442
+			]
+		}
+	]
+}

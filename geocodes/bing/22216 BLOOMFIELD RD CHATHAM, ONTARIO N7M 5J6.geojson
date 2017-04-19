@@ -1,0 +1,83 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Bloomfield Rd, Chatham, ON N7M 5J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0437fa286bb14a1fbdc976d1a2e6a354|BN20130423|7.7.0.0|",
+				"addressLine": "Bloomfield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "Bloomfield Rd, Chatham, ON N7M 5J6, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7M 5J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.19619,
+					42.36074
+				]
+			},
+			"bbox": [
+				-82.21678,
+				42.3529399,
+				-82.18664,
+				42.37953
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "22216 Bloomfield Rd, Chatham-Kent, ON N0P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0437fa286bb14a1fbdc976d1a2e6a354|BN20130423|7.7.0.0|",
+				"addressLine": "22216 Bloomfield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "22216 Bloomfield Rd, Chatham-Kent, ON N0P, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Raleigh",
+				"postalCode": "N0P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.18145,
+					42.34816
+				]
+			},
+			"bbox": [
+				-82.182971,
+				42.3470358,
+				-82.179929,
+				42.3492842
+			]
+		}
+	]
+}

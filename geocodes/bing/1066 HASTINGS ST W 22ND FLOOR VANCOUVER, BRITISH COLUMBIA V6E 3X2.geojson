@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1066 W Hastings St, Vancouver, BC V6E 3X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23d4c4eed9ff4a62a8e60861a95bdfcd|BN20121763|7.7.0.0|",
+				"addressLine": "1066 W Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1066 W Hastings St, Vancouver, BC V6E 3X2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6E 3X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11887,
+					49.28736
+				]
+			},
+			"bbox": [
+				-123.1205935,
+				49.2862358,
+				-123.1171465,
+				49.2884842
+			]
+		}
+	]
+}

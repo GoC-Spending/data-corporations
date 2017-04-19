@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Ebb and Flow, Alonsa, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20de716d4fbc450fa18732c874ab9d7f|BN20320521|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ebb and Flow, Alonsa, Manitoba, Canada",
+				"locality": "Alonsa",
+				"neighborhood": "Ebb and Flow"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.0577926635742,
+					51.0373992919922
+				]
+			},
+			"bbox": [
+				-99.0659824766832,
+				51.0335365744215,
+				-99.0496028504653,
+				51.0412620095629
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Ebb and Flow First Nation, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20de716d4fbc450fa18732c874ab9d7f|BN20320521|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ebb and Flow First Nation, Canada",
+				"locality": "Ebb and Flow First Nation"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.015998840332,
+					51.0540008544922
+				]
+			},
+			"bbox": [
+				-99.0774111785334,
+				51.0250304714996,
+				-98.9545865021306,
+				51.0829712374847
+			]
+		}
+	]
+}

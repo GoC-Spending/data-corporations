@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1337 HWY-715, Lower Cambridge, NB E4C 3R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "63ce2182a47641c08734e11e51037364|BN20130442|7.7.0.0|",
+				"addressLine": "1337 HWY-715",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "1337 HWY-715, Lower Cambridge, NB E4C 3R3, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Lower Cambridge",
+				"postalCode": "E4C 3R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.0783033,
+					45.7306678
+				]
+			},
+			"bbox": [
+				-66.0799138,
+				45.7295436,
+				-66.0766929,
+				45.7317919
+			]
+		}
+	]
+}

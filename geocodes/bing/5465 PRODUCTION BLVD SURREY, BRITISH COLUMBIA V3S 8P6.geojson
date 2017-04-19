@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5465 Production Blvd, Surrey, BC V3S 8P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a4664ad1f0440549b4215110bfab3b9|BN20210145|7.7.0.0|",
+				"addressLine": "5465 Production Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5465 Production Blvd, Surrey, BC V3S 8P6, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 8P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.68202,
+					49.10137
+				]
+			},
+			"bbox": [
+				-122.683737,
+				49.1002458,
+				-122.680303,
+				49.1024942
+			]
+		}
+	]
+}

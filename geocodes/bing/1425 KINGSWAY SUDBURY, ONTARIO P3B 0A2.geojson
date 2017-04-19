@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1425 Chemin Kingsway, Greater Sudbury, ON P3B 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f7925f229284011b245203f3e924b91|BN20121763|7.7.0.0|",
+				"addressLine": "1425 Chemin Kingsway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "1425 Chemin Kingsway, Greater Sudbury, ON P3B 0A2, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3B 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9459068,
+					46.5049246
+				]
+			},
+			"bbox": [
+				-80.9475401,
+				46.5038005,
+				-80.9442736,
+				46.5060488
+			]
+		}
+	]
+}

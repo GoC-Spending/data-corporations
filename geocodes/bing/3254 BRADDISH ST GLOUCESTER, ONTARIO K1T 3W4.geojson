@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3254 Braddish St, Gloucester, ON K1T 3W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "11b9377be5444c0dbad2833ef713aefa|BN20250135|7.7.0.0|",
+				"addressLine": "3254 Braddish St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3254 Braddish St, Gloucester, ON K1T 3W4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 3W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6056076,
+					45.3385286
+				]
+			},
+			"bbox": [
+				-75.6072068,
+				45.3374044,
+				-75.6040083,
+				45.3396527
+			]
+		}
+	]
+}

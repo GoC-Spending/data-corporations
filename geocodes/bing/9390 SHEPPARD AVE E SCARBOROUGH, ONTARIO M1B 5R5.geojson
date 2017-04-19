@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9390 Sheppard Ave E, Scarborough, ON M1B 5R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b65e9334779b4598ac4229db786efe76|BN20160335|7.7.0.0|",
+				"addressLine": "9390 Sheppard Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "9390 Sheppard Ave E, Scarborough, ON M1B 5R5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1B 5R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.17588,
+					43.80751
+				]
+			},
+			"bbox": [
+				-79.1774377,
+				43.8063858,
+				-79.1743223,
+				43.8086342
+			]
+		}
+	]
+}

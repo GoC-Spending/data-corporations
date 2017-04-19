@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "801 Front St, Nelson, BC V1L 4B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ac96c47894f4c2babb5d30b70c33de4|BN20200137|7.7.0.0|",
+				"addressLine": "801 Front St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "801 Front St, Nelson, BC V1L 4B8, Canada",
+				"locality": "Nelson",
+				"postalCode": "V1L 4B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.292537,
+					49.4958609
+				]
+			},
+			"bbox": [
+				-117.2942678,
+				49.4947367,
+				-117.2908062,
+				49.496985
+			]
+		}
+	]
+}

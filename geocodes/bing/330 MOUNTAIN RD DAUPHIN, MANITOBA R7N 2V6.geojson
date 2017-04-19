@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "330 Mountain Rd, Dauphin, MB R7N 2V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24f462d5ac5943f598f465ecffe52a6f|BN20280152|7.7.0.0|",
+				"addressLine": "330 Mountain Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "330 Mountain Rd, Dauphin, MB R7N 2V6, Canada",
+				"locality": "Dauphin",
+				"postalCode": "R7N 2V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.03912,
+					51.14659
+				]
+			},
+			"bbox": [
+				-100.040912,
+				51.1454658,
+				-100.037328,
+				51.1477142
+			]
+		}
+	]
+}

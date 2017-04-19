@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "320 St Mary's St, Fredericton, NB E3A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74e1555e83cf4d45a3ca60a907b95756|BN20130719|7.7.0.0|",
+				"addressLine": "320 St Mary's St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "320 St Mary's St, Fredericton, NB E3A, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3A 2S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.6333,
+					45.97928
+				]
+			},
+			"bbox": [
+				-66.6349177,
+				45.9781558,
+				-66.6316823,
+				45.9804042
+			]
+		}
+	]
+}

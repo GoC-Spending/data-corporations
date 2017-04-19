@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3425 2 Ave S, Lethbridge, AB T1J 4V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a8535a6da2d434fb2d659ecccc3305e|BN20300154|7.7.0.0|",
+				"addressLine": "3425 2 Ave S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3425 2 Ave S, Lethbridge, AB T1J 4V1, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1J 4V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.78914,
+					49.69736
+				]
+			},
+			"bbox": [
+				-112.790878,
+				49.6962358,
+				-112.787402,
+				49.6984842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Harbourside Access Rd, Charlottetown, PE C1A 8R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ae06c57dd7942c08fe6f302e80f8658|BN20130631|7.7.0.0|",
+				"addressLine": "1 Harbourside Access Rd",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Harbourside Access Rd, Charlottetown, PE C1A 8R4, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 8R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.1246452,
+					46.2316424
+				]
+			},
+			"bbox": [
+				-63.1262703,
+				46.2305182,
+				-63.1230201,
+				46.2327665
+			]
+		}
+	]
+}

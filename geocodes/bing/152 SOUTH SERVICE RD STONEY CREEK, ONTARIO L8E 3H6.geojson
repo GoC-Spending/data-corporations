@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "152 S Service Rd, Stoney Creek, ON L8E 3H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d67d4b46dc8747e9b507be8b457171ea|BN20130620|7.7.0.0|",
+				"addressLine": "152 S Service Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "152 S Service Rd, Stoney Creek, ON L8E 3H6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 3H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73588,
+					43.24025
+				]
+			},
+			"bbox": [
+				-79.7374231,
+				43.2391258,
+				-79.7343369,
+				43.2413742
+			]
+		}
+	]
+}

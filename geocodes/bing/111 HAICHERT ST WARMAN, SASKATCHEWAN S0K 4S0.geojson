@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Haichert St, Warman, SK S0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15afdf918b1144cf94d4f0068bf9ef4a|BN20121763|7.7.0.0|",
+				"addressLine": "111 Haichert St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Haichert St, Warman, SK S0K, Canada",
+				"locality": "Warman",
+				"postalCode": "S0K 4S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.57689,
+					52.31092
+				]
+			},
+			"bbox": [
+				-106.5787287,
+				52.3097958,
+				-106.5750513,
+				52.3120442
+			]
+		}
+	]
+}

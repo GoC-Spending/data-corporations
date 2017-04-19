@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Beech St W, Whitby, ON L1N 7T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e1114ca095c14b2098b41dbebdec83bc|BN20130431|7.7.0.0|",
+				"addressLine": "500 Beech St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Beech St W, Whitby, ON L1N 7T8, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 7T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.95023,
+					43.8875699
+				]
+			},
+			"bbox": [
+				-78.9517898,
+				43.8864457,
+				-78.9486702,
+				43.8886941
+			]
+		}
+	]
+}

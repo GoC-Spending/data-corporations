@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "440 Passmore Ave, Scarborough, ON M1V 5J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adf9d1bc69cb4679b06fd9b531688985|BN20290118|7.7.0.0|",
+				"addressLine": "440 Passmore Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "440 Passmore Ave, Scarborough, ON M1V 5J8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 5J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25452,
+					43.8303299
+				]
+			},
+			"bbox": [
+				-79.2560783,
+				43.8292057,
+				-79.2529617,
+				43.8314541
+			]
+		}
+	]
+}

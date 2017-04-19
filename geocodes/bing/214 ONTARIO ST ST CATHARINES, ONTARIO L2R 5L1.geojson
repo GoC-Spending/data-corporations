@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "214 Ontario St, St Catharines, ON L2R 5L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2fcb7969acf48f5bedf8234f9aa228c|BN20190653|7.7.0.0|",
+				"addressLine": "214 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "214 Ontario St, St Catharines, ON L2R 5L1, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "York-Haig",
+				"postalCode": "L2R 5L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25812,
+					43.16287
+				]
+			},
+			"bbox": [
+				-79.2596612,
+				43.1617458,
+				-79.2565788,
+				43.1639942
+			]
+		}
+	]
+}

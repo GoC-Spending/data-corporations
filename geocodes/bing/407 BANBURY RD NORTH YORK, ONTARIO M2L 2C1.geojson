@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "407 Banbury Rd, North York, ON M2L 2C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4fed04c5c304746bee0f0c46b09cdf4|BN20130533|7.7.0.0|",
+				"addressLine": "407 Banbury Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "407 Banbury Rd, North York, ON M2L 2C1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M2L 2C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3720699,
+					43.75849
+				]
+			},
+			"bbox": [
+				-79.3736263,
+				43.7573658,
+				-79.3705135,
+				43.7596142
+			]
+		}
+	]
+}

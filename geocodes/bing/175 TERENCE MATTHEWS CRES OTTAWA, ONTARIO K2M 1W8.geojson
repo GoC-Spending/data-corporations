@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "175 Terence Matthews Cres, Kanata, ON K2M 1W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a14d1a1e4954b529d01b2f7a0c54b07|BN20121762|7.7.0.0|",
+				"addressLine": "175 Terence Matthews Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "175 Terence Matthews Cres, Kanata, ON K2M 1W8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2M 1W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8721,
+					45.2854699
+				]
+			},
+			"bbox": [
+				-75.8736978,
+				45.2843457,
+				-75.8705022,
+				45.2865941
+			]
+		}
+	]
+}

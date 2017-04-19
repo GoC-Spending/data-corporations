@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "222 Prescott St, North Grenville, ON K0G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4283ec36c5ca4ab9bd12093fcd6099fa|BN20130422|7.7.0.0|",
+				"addressLine": "222 Prescott St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "222 Prescott St, North Grenville, ON K0G, Canada",
+				"locality": "North Grenville",
+				"neighborhood": "Kemptville",
+				"postalCode": "K0G 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6440301,
+					45.0149049
+				]
+			},
+			"bbox": [
+				-75.6456203,
+				45.0137807,
+				-75.6424399,
+				45.016029
+			]
+		}
+	]
+}

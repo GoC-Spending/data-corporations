@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "52 Power St, Toronto, ON M5A 3A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8728841cac748e0b74f57c0c0dc9882|BN20130447|7.7.0.0|",
+				"addressLine": "52 Power St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "52 Power St, Toronto, ON M5A 3A6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 3A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36311,
+					43.65452
+				]
+			},
+			"bbox": [
+				-79.3646637,
+				43.6533958,
+				-79.3615563,
+				43.6556442
+			]
+		}
+	]
+}

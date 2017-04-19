@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2445 46e Avenue, Lachine, QC H8T 3C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0715722dca5648b48cb7b3c80b13f00f|BN20130423|7.7.0.0|",
+				"addressLine": "2445 46e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2445 46e Avenue, Lachine, QC H8T 3C9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72068,
+					45.46209
+				]
+			},
+			"bbox": [
+				-73.7222828,
+				45.4609658,
+				-73.7190772,
+				45.4632142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14504 123 Ave NW, Edmonton, AB T5L 2Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9eea3a734054926b8e34025438b195b|BN20280152|7.7.0.0|",
+				"addressLine": "14504 123 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14504 123 Ave NW, Edmonton, AB T5L 2Y3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Dominion Industrial",
+				"postalCode": "T5L 2Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57137,
+					53.57735
+				]
+			},
+			"bbox": [
+				-113.5732634,
+				53.5762258,
+				-113.5694766,
+				53.5784742
+			]
+		}
+	]
+}

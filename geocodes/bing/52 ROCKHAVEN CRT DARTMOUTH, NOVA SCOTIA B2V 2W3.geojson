@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "52 Rockhaven Ct, Dartmouth, NS B2V 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c67817663c5840b4ace803064886e36d|BN20260223|7.7.0.0|",
+				"addressLine": "52 Rockhaven Ct",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "52 Rockhaven Ct, Dartmouth, NS B2V 2W3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2V 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.46754,
+					44.64772
+				]
+			},
+			"bbox": [
+				-63.4691201,
+				44.6465958,
+				-63.4659599,
+				44.6488442
+			]
+		}
+	]
+}

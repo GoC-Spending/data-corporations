@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "685 Bloem St, North Bay, ON P1B 4Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adf05426a60e4a6aa6f5170e00d0bb9e|BN20130533|7.7.0.0|",
+				"addressLine": "685 Bloem St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "685 Bloem St, North Bay, ON P1B 4Z5, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Gateway",
+				"postalCode": "P1B 4Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46895,
+					46.32165
+				]
+			},
+			"bbox": [
+				-79.4705778,
+				46.3205258,
+				-79.4673222,
+				46.3227742
+			]
+		}
+	]
+}

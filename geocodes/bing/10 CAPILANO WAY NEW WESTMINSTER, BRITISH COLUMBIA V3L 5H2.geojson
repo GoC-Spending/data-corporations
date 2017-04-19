@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Capilano Way, New Westminster, BC V3L 5H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b275ab94394a404a9af57db1edf9966f|BN20220145|7.7.0.0|",
+				"addressLine": "10 Capilano Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Capilano Way, New Westminster, BC V3L 5H2, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Brunette Creek",
+				"postalCode": "V3L 5H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.884322,
+					49.224134
+				]
+			},
+			"bbox": [
+				-122.8860433,
+				49.2230099,
+				-122.8826008,
+				49.2252582
+			]
+		}
+	]
+}

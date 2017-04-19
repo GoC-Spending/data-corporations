@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Main St, Trent Hills, ON K0K 2M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7e1bfe415df4d4ab2b029140e8067ae|BN20220145|7.7.0.0|",
+				"addressLine": "23 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Main St, Trent Hills, ON K0K 2M0, Canada",
+				"locality": "Trent Hills",
+				"neighborhood": "Warkworth",
+				"postalCode": "K0K 2M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.8859776,
+					44.2012036
+				]
+			},
+			"bbox": [
+				-77.8875457,
+				44.2000794,
+				-77.8844095,
+				44.2023277
+			]
+		}
+	]
+}

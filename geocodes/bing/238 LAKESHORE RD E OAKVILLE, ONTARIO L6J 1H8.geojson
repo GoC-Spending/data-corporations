@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "238 Lakeshore Rd E, Oakville, ON L6J 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13abbaa5bf1346778b1c95086c487ac0|BN20121762|7.7.0.0|",
+				"addressLine": "238 Lakeshore Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "238 Lakeshore Rd E, Oakville, ON L6J 1H8, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Old Oakville",
+				"postalCode": "L6J 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.66721,
+					43.44621
+				]
+			},
+			"bbox": [
+				-79.6687584,
+				43.4450858,
+				-79.6656616,
+				43.4473342
+			]
+		}
+	]
+}

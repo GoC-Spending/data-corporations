@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "405 Kensington Ave, Estevan, SK S4A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fed99ff62604411aa6e3ce7c6779ab07|BN20200239|7.7.0.0|",
+				"addressLine": "405 Kensington Ave",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "405 Kensington Ave, Estevan, SK S4A, Canada",
+				"locality": "Estevan",
+				"postalCode": "S4A 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.9689451,
+					49.14042
+				]
+			},
+			"bbox": [
+				-102.9706634,
+				49.1392959,
+				-102.9672268,
+				49.1415442
+			]
+		}
+	]
+}

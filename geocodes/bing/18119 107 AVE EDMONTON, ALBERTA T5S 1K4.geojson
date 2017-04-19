@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18119 107 Ave NW, Edmonton, AB T5S 1K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd7ac7d0fff547d6a2f58c9f457d521e|BN20260231|7.7.0.0|",
+				"addressLine": "18119 107 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "18119 107 Ave NW, Edmonton, AB T5S 1K4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Wilson Industrial",
+				"postalCode": "T5S 1K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.63399,
+					53.55277
+				]
+			},
+			"bbox": [
+				-113.6358823,
+				53.5516458,
+				-113.6320977,
+				53.5538942
+			]
+		}
+	]
+}

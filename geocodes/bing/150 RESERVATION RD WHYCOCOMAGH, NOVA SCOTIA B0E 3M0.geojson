@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Reservation Rd, Inverness, NS B0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "57f8cb1144b9434fa34c92a9cc24e281|BN20130625|7.7.0.0|",
+				"addressLine": "150 Reservation Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Inverness",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Reservation Rd, Inverness, NS B0E, Canada",
+				"locality": "Inverness",
+				"neighborhood": "Whycocomagh",
+				"postalCode": "B0E 3M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-61.13769,
+					45.97142
+				]
+			},
+			"bbox": [
+				-61.1393074,
+				45.9702958,
+				-61.1360726,
+				45.9725442
+			]
+		}
+	]
+}

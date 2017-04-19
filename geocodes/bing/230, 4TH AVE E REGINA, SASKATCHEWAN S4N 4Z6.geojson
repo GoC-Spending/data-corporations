@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 4th Ave E, Regina, SK S4N 4Z6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c002d928d0264ec98b40e0b64ae8cc92|BN20130522|7.7.0.0|",
+				"addressLine": "230 4th Ave E",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 4th Ave E, Regina, SK S4N 4Z6, Canada",
+				"locality": "Regina",
+				"postalCode": "S4N 4Z6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.57917,
+					50.4634
+				]
+			},
+			"bbox": [
+				-104.5809359,
+				50.4622758,
+				-104.5774041,
+				50.4645242
+			]
+		}
+	]
+}

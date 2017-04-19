@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1015 Green Valley Rd, London, ON N6N 1E4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c6befa70b4ae4d57b76341284c998d4e|BN20130521|7.7.0.0|",
+				"addressLine": "1015 Green Valley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1015 Green Valley Rd, London, ON N6N 1E4, Canada",
+				"locality": "London",
+				"neighborhood": "Brockley",
+				"postalCode": "N6N 1E4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1968,
+					42.921
+				]
+			},
+			"bbox": [
+				-81.1983351,
+				42.9198758,
+				-81.1952649,
+				42.9221242
+			]
+		}
+	]
+}

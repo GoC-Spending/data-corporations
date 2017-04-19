@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Wellington St, Cookstown, ON L0L 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b76a3503fe034a778998bf78ebd5c13f|BN20250135|7.7.0.0|",
+				"addressLine": "1 Wellington St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Wellington St, Cookstown, ON L0L 1L0, Canada",
+				"locality": "Innisfil",
+				"neighborhood": "Cookstown",
+				"postalCode": "L0L 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70254,
+					44.19032
+				]
+			},
+			"bbox": [
+				-79.7041078,
+				44.1891958,
+				-79.7009722,
+				44.1914442
+			]
+		}
+	]
+}

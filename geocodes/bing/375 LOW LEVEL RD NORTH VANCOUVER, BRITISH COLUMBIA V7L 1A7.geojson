@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Low Level Rd, North Vancouver, BC V7L 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "86f8adcb6aca431db90922a8202ebb76|BN20181720|7.7.0.0|",
+				"addressLine": "375 Low Level Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Low Level Rd, North Vancouver, BC V7L 1A7, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7L 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0693444,
+					49.3060244
+				]
+			},
+			"bbox": [
+				-123.0710685,
+				49.3049003,
+				-123.0676203,
+				49.3071486
+			]
+		}
+	]
+}

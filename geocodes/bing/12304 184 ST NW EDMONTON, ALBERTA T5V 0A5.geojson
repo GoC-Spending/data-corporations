@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12304 184 St NW, Edmonton, AB T5V 0A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3c3331fa244b4b7d98d33cd40c449f3b|BN20210145|7.7.0.0|",
+				"addressLine": "12304 184 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12304 184 St NW, Edmonton, AB T5V 0A5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Kinokamau Plains Area",
+				"postalCode": "T5V 0A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6394732,
+					53.5788552
+				]
+			},
+			"bbox": [
+				-113.6413666,
+				53.577731,
+				-113.6375798,
+				53.5799793
+			]
+		}
+	]
+}

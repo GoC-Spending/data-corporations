@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Camor Ct, Scarborough, ON M1C 4V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d04f1ebda4a4e0ea5a2b0b8796183d4|BN20130625|7.7.0.0|",
+				"addressLine": "17 Camor Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Camor Ct, Scarborough, ON M1C 4V6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Highland Creek",
+				"postalCode": "M1C 4V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.17111,
+					43.78768
+				]
+			},
+			"bbox": [
+				-79.1726672,
+				43.7865558,
+				-79.1695528,
+				43.7888042
+			]
+		}
+	]
+}

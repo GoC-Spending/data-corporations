@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "719 Johnson St, Victoria, BC V8W 1M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "897334050cfb4ca7b60b12a9b572100a|BN20121764|7.7.0.0|",
+				"addressLine": "719 Johnson St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "719 Johnson St, Victoria, BC V8W 1M8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.36353,
+					48.42696
+				]
+			},
+			"bbox": [
+				-123.3652241,
+				48.4258358,
+				-123.3618359,
+				48.4280842
+			]
+		}
+	]
+}

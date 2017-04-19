@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2395 Lakewood Dr, Vancouver, BC V5N 4T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61848a0e559648b6a3cc4fe4212420e2|BN20130632|7.7.0.0|",
+				"addressLine": "2395 Lakewood Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2395 Lakewood Dr, Vancouver, BC V5N 4T8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5N 4T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06226,
+					49.26346
+				]
+			},
+			"bbox": [
+				-123.0639826,
+				49.2623358,
+				-123.0605374,
+				49.2645842
+			]
+		}
+	]
+}

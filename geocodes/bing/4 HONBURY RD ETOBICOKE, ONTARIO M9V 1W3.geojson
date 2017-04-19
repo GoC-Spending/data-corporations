@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Honbury Rd, Etobicoke, ON M9V 1W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "90c7d39a79094a57b8a0a963c0aea430|BN20131519|7.7.0.0|",
+				"addressLine": "4 Honbury Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Honbury Rd, Etobicoke, ON M9V 1W3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Thistletown-Beaumond Heights",
+				"postalCode": "M9V 1W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57933,
+					43.74161
+				]
+			},
+			"bbox": [
+				-79.580886,
+				43.7404858,
+				-79.577774,
+				43.7427342
+			]
+		}
+	]
+}

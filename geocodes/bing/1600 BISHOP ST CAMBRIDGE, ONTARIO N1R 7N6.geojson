@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1600 Bishop St N, Cambridge, ON N1R 7N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e3efcc5dce94454a59b3ec46b00c43f|BN20181720|7.7.0.0|",
+				"addressLine": "1600 Bishop St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1600 Bishop St N, Cambridge, ON N1R 7N6, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Greenway-Chaplin",
+				"postalCode": "N1R 7N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.30779,
+					43.3969499
+				]
+			},
+			"bbox": [
+				-80.3093371,
+				43.3958257,
+				-80.3062429,
+				43.3980741
+			]
+		}
+	]
+}

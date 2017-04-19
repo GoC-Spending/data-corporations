@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "824 Winston Churchill Blvd, Oakville, ON L6J 7X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6432159c318841debdc59869bd3b2c02|BN20171457|7.7.0.0|",
+				"addressLine": "824 Winston Churchill Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "824 Winston Churchill Blvd, Oakville, ON L6J 7X2, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Ford",
+				"postalCode": "L6J 7X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64162,
+					43.49322
+				]
+			},
+			"bbox": [
+				-79.6431696,
+				43.4920958,
+				-79.6400704,
+				43.4943442
+			]
+		}
+	]
+}

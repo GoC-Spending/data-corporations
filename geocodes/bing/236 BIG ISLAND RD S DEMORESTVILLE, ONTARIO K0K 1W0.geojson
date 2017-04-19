@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "236 S Big Island Rd, Prince Edward, ON K0K 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2cecbdb1f0574159abe2a9d64e5d3451|BN20130442|7.7.0.0|",
+				"addressLine": "236 S Big Island Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prince Edward",
+				"countryRegion": "Canada",
+				"formattedAddress": "236 S Big Island Rd, Prince Edward, ON K0K 1W0, Canada",
+				"locality": "Prince Edward",
+				"neighborhood": "Demorestville",
+				"postalCode": "K0K 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.2740407,
+					44.0976082
+				]
+			},
+			"bbox": [
+				-77.2756061,
+				44.0964841,
+				-77.2724754,
+				44.0987324
+			]
+		}
+	]
+}

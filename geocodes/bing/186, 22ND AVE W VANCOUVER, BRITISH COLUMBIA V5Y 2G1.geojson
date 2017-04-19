@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "186 W 22nd Ave, Vancouver, BC V5Y 2G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52629456fe7b4fd8a3b02a55a02d060f|BN20130431|7.7.0.0|",
+				"addressLine": "186 W 22nd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "186 W 22nd Ave, Vancouver, BC V5Y 2G1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5Y 2G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10944,
+					49.2507499
+				]
+			},
+			"bbox": [
+				-123.1111622,
+				49.2496257,
+				-123.1077178,
+				49.2518741
+			]
+		}
+	]
+}

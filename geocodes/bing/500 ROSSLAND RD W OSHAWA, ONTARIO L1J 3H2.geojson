@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Rossland Rd W, Oshawa, ON L1J 3H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f2210514fbb4555b6a1ce4acd25ca80|BN20320521|7.7.0.0|",
+				"addressLine": "500 Rossland Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Rossland Rd W, Oshawa, ON L1J 3H2, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Northglen",
+				"postalCode": "L1J 3H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8898392,
+					43.9110687
+				]
+			},
+			"bbox": [
+				-78.8913996,
+				43.9099445,
+				-78.8882788,
+				43.9121928
+			]
+		}
+	]
+}

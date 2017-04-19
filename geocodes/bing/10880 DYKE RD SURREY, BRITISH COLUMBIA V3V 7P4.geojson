@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10880 Dyke Rd, Surrey, BC V3V 7P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4c4931f051f04dc7a495a1beee756530|BN20130423|7.7.0.0|",
+				"addressLine": "10880 Dyke Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10880 Dyke Rd, Surrey, BC V3V 7P4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 7P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8970807,
+					49.1994717
+				]
+			},
+			"bbox": [
+				-122.8988011,
+				49.1983475,
+				-122.8953603,
+				49.2005959
+			]
+		}
+	]
+}

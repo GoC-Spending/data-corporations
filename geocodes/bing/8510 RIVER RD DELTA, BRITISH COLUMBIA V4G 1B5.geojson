@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8510 River Rd, Delta, BC V4G 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b8f67a38d4e4df9bca298e888664fb7|BN20131519|7.7.0.0|",
+				"addressLine": "8510 River Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8510 River Rd, Delta, BC V4G 1B5, Canada",
+				"locality": "Delta",
+				"postalCode": "V4G 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9893506,
+					49.1512057
+				]
+			},
+			"bbox": [
+				-122.9910693,
+				49.1500816,
+				-122.9876319,
+				49.1523299
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "405 The West Mall, Toronto, ON M9C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "953b87e1d0e24516a260400df2b81eeb|BN20160335|7.7.0.0|",
+				"addressLine": "405 The West Mall",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "405 The West Mall, Toronto, ON M9C, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Etobicoke West Mall",
+				"postalCode": "M9C 5J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56743,
+					43.64604
+				]
+			},
+			"bbox": [
+				-79.5689835,
+				43.6449158,
+				-79.5658765,
+				43.6471642
+			]
+		}
+	]
+}

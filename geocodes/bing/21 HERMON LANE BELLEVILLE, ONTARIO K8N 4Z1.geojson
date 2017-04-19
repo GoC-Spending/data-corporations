@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Huron Ln, Belleville, ON K8N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73d946701abe451ca04f605363d08b6f|BN20130530|7.7.0.0|",
+				"addressLine": "21 Huron Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Huron Ln, Belleville, ON K8N, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8N 4Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.3493662,
+					44.1812696
+				]
+			},
+			"bbox": [
+				-77.3509338,
+				44.1801454,
+				-77.3477986,
+				44.1823937
+			]
+		}
+	]
+}

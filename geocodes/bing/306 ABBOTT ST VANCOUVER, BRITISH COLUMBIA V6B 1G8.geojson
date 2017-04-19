@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "306 Abbott St, Vancouver, BC V6B 2K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38c039c8016f451696c15740044dd0ad|BN20260223|7.7.0.0|",
+				"addressLine": "306 Abbott St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "306 Abbott St, Vancouver, BC V6B 2K9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Gastown",
+				"postalCode": "V6B 2K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10663,
+					49.2827
+				]
+			},
+			"bbox": [
+				-123.1083533,
+				49.2815758,
+				-123.1049067,
+				49.2838242
+			]
+		}
+	]
+}

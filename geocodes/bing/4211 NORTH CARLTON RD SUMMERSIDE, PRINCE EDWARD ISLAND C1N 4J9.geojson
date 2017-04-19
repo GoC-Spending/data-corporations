@@ -1,0 +1,115 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 3,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Summerside, C1N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55c1f7f8e181480fabf9c2741c3013c4|BN20171457|7.7.0.0|",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "Summerside, C1N, Canada",
+				"locality": "Summerside",
+				"postalCode": "C1N"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.7034149169922,
+					46.3909568786621
+				]
+			},
+			"bbox": [
+				-63.8468589782715,
+				46.3396911621094,
+				-63.657470703125,
+				46.4422187805176
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Prince, C1N 4J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55c1f7f8e181480fabf9c2741c3013c4|BN20171457|7.7.0.0|",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "Prince, C1N 4J9, Canada",
+				"locality": "Prince",
+				"postalCode": "C1N 4J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.6678352355957,
+					46.3362007141113
+				]
+			},
+			"bbox": [
+				-63.6752942973443,
+				46.3323379965407,
+				-63.6603761738471,
+				46.340063431682
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Summerside, Prince, Prince Edward Island, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55c1f7f8e181480fabf9c2741c3013c4|BN20171457|7.7.0.0|",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "Summerside, Prince, Prince Edward Island, Canada",
+				"locality": "Prince",
+				"neighborhood": "Summerside"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.7333984375,
+					46.4268989562988
+				]
+			},
+			"bbox": [
+				-63.7408698990518,
+				46.4230362387282,
+				-63.7259269759482,
+				46.4307616738695
+			]
+		}
+	]
+}

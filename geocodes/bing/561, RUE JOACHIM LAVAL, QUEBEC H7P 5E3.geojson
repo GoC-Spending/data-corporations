@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "561 Rue Joachim, Laval, QC H7P 5E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cee2d109583a432ba48fd1b6ab190475|BN20131519|7.7.0.0|",
+				"addressLine": "561 Rue Joachim",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "561 Rue Joachim, Laval, QC H7P 5E3, Canada",
+				"locality": "Laval",
+				"postalCode": "H7P 5E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.81815,
+					45.57152
+				]
+			},
+			"bbox": [
+				-73.8197559,
+				45.5703958,
+				-73.8165441,
+				45.5726442
+			]
+		}
+	]
+}

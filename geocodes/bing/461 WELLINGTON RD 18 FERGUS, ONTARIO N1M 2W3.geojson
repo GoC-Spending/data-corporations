@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "461 Wellington Rd 18, Fergus, ON N1M 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e705e8a629bb4a298869ddbe64beca92|BN20300154|7.7.0.0|",
+				"addressLine": "461 Wellington Rd 18",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "461 Wellington Rd 18, Fergus, ON N1M 2W3, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4031467,
+					43.6923451
+				]
+			},
+			"bbox": [
+				-80.4047014,
+				43.691221,
+				-80.401592,
+				43.6934693
+			]
+		}
+	]
+}

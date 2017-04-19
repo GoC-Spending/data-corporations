@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Rue Bachelder, Stanstead, QC J0B 3E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0441a2ba734445d80023fa138211aa1|BN20260231|7.7.0.0|",
+				"addressLine": "10 Rue Bachelder",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Memphrémagog",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Rue Bachelder, Stanstead, QC J0B 3E2, Canada",
+				"locality": "Stanstead",
+				"postalCode": "J0B 3E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.1569832,
+					45.0114167
+				]
+			},
+			"bbox": [
+				-72.1585733,
+				45.0102925,
+				-72.1553931,
+				45.0125408
+			]
+		}
+	]
+}

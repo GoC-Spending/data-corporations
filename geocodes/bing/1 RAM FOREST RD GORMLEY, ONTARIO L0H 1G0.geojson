@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Gormley, L0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99c39e94945c4bd8a598b630057551db|BN20130422|7.7.0.0|",
+				"adminDistrict": "ON",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gormley, L0H, Canada",
+				"locality": "Gormley",
+				"postalCode": "L0H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1638793945313,
+					43.8983917236328
+				]
+			},
+			"bbox": [
+				-79.395866394043,
+				43.8537902832031,
+				-79.0282516479492,
+				44.0109405517578
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Whitchurch-Stouffville, L0H 1G0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99c39e94945c4bd8a598b630057551db|BN20130422|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "Whitchurch-Stouffville, L0H 1G0, Canada",
+				"locality": "Whitchurch-Stouffville",
+				"postalCode": "L0H 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3792724609375,
+					43.9891929626465
+				]
+			},
+			"bbox": [
+				-79.3864304371434,
+				43.9853302450758,
+				-79.3721144847316,
+				43.9930556802172
+			]
+		}
+	]
+}

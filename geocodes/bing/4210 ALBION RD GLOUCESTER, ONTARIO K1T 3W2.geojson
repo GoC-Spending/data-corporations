@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4210 Albion Rd, Gloucester, ON K1T 3W2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8004827e21c4e8db2d9463fe47a959c|BN20130521|7.7.0.0|",
+				"addressLine": "4210 Albion Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "4210 Albion Rd, Gloucester, ON K1T 3W2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 3W2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.62032,
+					45.31344
+				]
+			},
+			"bbox": [
+				-75.6219186,
+				45.3123158,
+				-75.6187214,
+				45.3145642
+			]
+		}
+	]
+}

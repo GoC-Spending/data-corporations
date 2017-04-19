@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "88 Talbot St E, Haldimand, ON N0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "14ed6973249d45ac993e19344eb22c18|BN20121763|7.7.0.0|",
+				"addressLine": "88 Talbot St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Haldimand",
+				"countryRegion": "Canada",
+				"formattedAddress": "88 Talbot St E, Haldimand, ON N0A, Canada",
+				"locality": "Haldimand",
+				"neighborhood": "Cayuga",
+				"postalCode": "N0A 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.84718,
+					42.95304
+				]
+			},
+			"bbox": [
+				-79.8487159,
+				42.9519158,
+				-79.8456441,
+				42.9541642
+			]
+		}
+	]
+}

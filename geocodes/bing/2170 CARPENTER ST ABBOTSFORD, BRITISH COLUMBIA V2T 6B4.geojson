@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2170 Carpenter St, Abbotsford, BC V2T 6B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "36d1875dff0849088a29aa0a7c444ff6|BN20130423|7.7.0.0|",
+				"addressLine": "2170 Carpenter St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2170 Carpenter St, Abbotsford, BC V2T 6B4, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2T 6B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.35655,
+					49.04158
+				]
+			},
+			"bbox": [
+				-122.3582649,
+				49.0404558,
+				-122.3548351,
+				49.0427042
+			]
+		}
+	]
+}

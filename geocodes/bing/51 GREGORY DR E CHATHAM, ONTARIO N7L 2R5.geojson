@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Gregory Dr E, Chatham, ON N7L 2R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1579ae31f36046b6a4bdbf3c2c5a640c|BN20130631|7.7.0.0|",
+				"addressLine": "51 Gregory Dr E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Gregory Dr E, Chatham, ON N7L 2R5, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7L 2R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.20841,
+					42.4267899
+				]
+			},
+			"bbox": [
+				-82.209933,
+				42.4256657,
+				-82.206887,
+				42.4279141
+			]
+		}
+	]
+}

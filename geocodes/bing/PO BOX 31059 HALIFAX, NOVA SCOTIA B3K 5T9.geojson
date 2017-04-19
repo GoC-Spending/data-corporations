@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Halifax, B3K 5T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff7cf8504575497a980bf8b3588325b4|BN20130422|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "Halifax, B3K 5T9, Canada",
+				"locality": "Halifax",
+				"postalCode": "B3K 5T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5765991210938,
+					44.6454696655273
+				]
+			},
+			"bbox": [
+				-63.5838375954512,
+				44.6416069479567,
+				-63.5693606467363,
+				44.649332383098
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Milledgeville, GA 31059",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff7cf8504575497a980bf8b3588325b4|BN20130422|7.7.0.0|",
+				"adminDistrict": "GA",
+				"adminDistrict2": "Baldwin",
+				"countryRegion": "United States",
+				"formattedAddress": "Milledgeville, GA 31059",
+				"locality": "Milledgeville",
+				"postalCode": "31059"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.2262649536133,
+					33.0813522338867
+				]
+			},
+			"bbox": [
+				-83.2324113744326,
+				33.077489516316,
+				-83.220118532794,
+				33.0852149514574
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "425 Edward St N, Thunder Bay, ON P7C 4P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95d5eb21deb54864ba07707291e71f89|BN20280152|7.7.0.0|",
+				"addressLine": "425 Edward St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "425 Edward St N, Thunder Bay, ON P7C 4P7, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7C 4P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.2787114,
+					48.3924291
+				]
+			},
+			"bbox": [
+				-89.2804043,
+				48.391305,
+				-89.2770184,
+				48.3935533
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 MacDonald Ave, Winnipeg, MB R3B 0H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d58ee4675f594638a97eb0466f9e0f7f|BN20130532|7.7.0.0|",
+				"addressLine": "11 MacDonald Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 MacDonald Ave, Winnipeg, MB R3B 0H8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South Point Douglas",
+				"postalCode": "R3B 0H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12567,
+					49.90282
+				]
+			},
+			"bbox": [
+				-97.1274153,
+				49.9016958,
+				-97.1239247,
+				49.9039442
+			]
+		}
+	]
+}

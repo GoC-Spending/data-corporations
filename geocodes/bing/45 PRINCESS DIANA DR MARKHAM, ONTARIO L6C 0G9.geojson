@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Princess Diana Dr, Markham, ON L6C 0G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b07df75d6d4c49bb96ddd90456420da6|BN20131519|7.7.0.0|",
+				"addressLine": "45 Princess Diana Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Princess Diana Dr, Markham, ON L6C 0G9, Canada",
+				"locality": "Markham",
+				"postalCode": "L6C 0G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37233,
+					43.88699
+				]
+			},
+			"bbox": [
+				-79.3738898,
+				43.8858658,
+				-79.3707702,
+				43.8881142
+			]
+		}
+	]
+}

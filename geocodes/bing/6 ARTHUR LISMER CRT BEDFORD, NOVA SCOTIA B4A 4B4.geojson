@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Arthur Lismer Ct, Bedford, NS B4A 4B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e39877cf6d04eb5a2d84b6d428fae0e|BN20130719|7.7.0.0|",
+				"addressLine": "6 Arthur Lismer Ct",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Arthur Lismer Ct, Bedford, NS B4A 4B4, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Bedford",
+				"postalCode": "B4A 4B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.67088,
+					44.71973
+				]
+			},
+			"bbox": [
+				-63.6724621,
+				44.7186058,
+				-63.6692979,
+				44.7208542
+			]
+		}
+	]
+}

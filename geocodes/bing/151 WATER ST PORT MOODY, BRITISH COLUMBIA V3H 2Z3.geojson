@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "151 Water St, Port Moody, BC V3H 2Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5629ef6b172b48a6ab36582ccbf12588|BN20130621|7.7.0.0|",
+				"addressLine": "151 Water St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "151 Water St, Port Moody, BC V3H 2Z3, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 2Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.83505,
+					49.28859
+				]
+			},
+			"bbox": [
+				-122.8367735,
+				49.2874658,
+				-122.8333265,
+				49.2897142
+			]
+		}
+	]
+}

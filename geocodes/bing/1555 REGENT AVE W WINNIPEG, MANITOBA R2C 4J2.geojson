@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1555 Regent Ave W, Winnipeg, MB R2C 4J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ffd5699ffbd480abf26421c9e823c48|BN20121762|7.7.0.0|",
+				"addressLine": "1555 Regent Ave W",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1555 Regent Ave W, Winnipeg, MB R2C 4J2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Regent",
+				"postalCode": "R2C 4J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0611799,
+					49.89729
+				]
+			},
+			"bbox": [
+				-97.062925,
+				49.8961658,
+				-97.0594348,
+				49.8984142
+			]
+		}
+	]
+}

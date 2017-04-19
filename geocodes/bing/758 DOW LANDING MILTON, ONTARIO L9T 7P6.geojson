@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "758 Dow Lndg, Milton, ON L9T 7P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "603c7a4a7f77427bac0d3b4605edcc2e|BN20190642|7.7.0.0|",
+				"addressLine": "758 Dow Lndg",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "758 Dow Lndg, Milton, ON L9T 7P6, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 7P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.85386,
+					43.50634
+				]
+			},
+			"bbox": [
+				-79.8554099,
+				43.5052158,
+				-79.8523101,
+				43.5074642
+			]
+		}
+	]
+}

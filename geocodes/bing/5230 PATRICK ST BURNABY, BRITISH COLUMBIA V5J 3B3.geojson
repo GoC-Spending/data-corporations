@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5230 Patrick St, Burnaby, BC V5J 3B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0af21ef5ae24445afca236fbc1dc306|BN20300154|7.7.0.0|",
+				"addressLine": "5230 Patrick St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5230 Patrick St, Burnaby, BC V5J 3B3, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Clinton-Glenwood",
+				"postalCode": "V5J 3B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.98791,
+					49.20828
+				]
+			},
+			"bbox": [
+				-122.9896307,
+				49.2071558,
+				-122.9861893,
+				49.2094042
+			]
+		}
+	]
+}

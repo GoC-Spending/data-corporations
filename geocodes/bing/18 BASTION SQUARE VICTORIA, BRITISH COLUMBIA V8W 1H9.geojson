@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Bastion Sq, Victoria, BC V8W 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb8e96e15ca842e99a6cf37515291181|BN20130631|7.7.0.0|",
+				"addressLine": "18 Bastion Sq",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Bastion Sq, Victoria, BC V8W 1H9, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3691812,
+					48.4259496
+				]
+			},
+			"bbox": [
+				-123.3708753,
+				48.4248254,
+				-123.3674872,
+				48.4270737
+			]
+		}
+	]
+}

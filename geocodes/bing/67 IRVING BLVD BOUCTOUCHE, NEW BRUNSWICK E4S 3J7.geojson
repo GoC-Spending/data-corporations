@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Irving Blvd, Bouctouche, NB E4S 3J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c3b4d7744be4145bb193d60da550483|BN20130719|7.7.0.0|",
+				"addressLine": "67 Irving Blvd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Irving Blvd, Bouctouche, NB E4S 3J7, Canada",
+				"locality": "Bouctouche",
+				"postalCode": "E4S 3J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7227356,
+					46.4710599
+				]
+			},
+			"bbox": [
+				-64.7243678,
+				46.4699357,
+				-64.7211034,
+				46.472184
+			]
+		}
+	]
+}

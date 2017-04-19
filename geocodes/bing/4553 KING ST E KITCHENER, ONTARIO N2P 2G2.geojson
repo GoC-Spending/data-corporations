@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4553 King St E, Kitchener, ON N2P 2G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20e52436a46b48f2a3a76ba289928817|BN20130442|7.7.0.0|",
+				"addressLine": "4553 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "4553 King St E, Kitchener, ON N2P 2G2, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Pioneer Tower East",
+				"postalCode": "N2P 2G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3874,
+					43.40423
+				]
+			},
+			"bbox": [
+				-80.3889473,
+				43.4031058,
+				-80.3858527,
+				43.4053542
+			]
+		}
+	]
+}

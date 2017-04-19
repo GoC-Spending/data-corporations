@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "560 Westmount Rd N, Waterloo, ON N2L 0A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "84739d42a5104774801e38a69fd6103f|BN20181720|7.7.0.0|",
+				"addressLine": "560 Westmount Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "560 Westmount Rd N, Waterloo, ON N2L 0A9, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 0A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.56647,
+					43.48571
+				]
+			},
+			"bbox": [
+				-80.5680194,
+				43.4845858,
+				-80.5649206,
+				43.4868342
+			]
+		}
+	]
+}

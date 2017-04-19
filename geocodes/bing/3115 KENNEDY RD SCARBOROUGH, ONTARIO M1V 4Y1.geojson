@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3115 Kennedy Rd, Scarborough, ON M1V 4Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff8acf98277d4bb1b089d86bd285b7b6|BN20290118|7.7.0.0|",
+				"addressLine": "3115 Kennedy Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "3115 Kennedy Rd, Scarborough, ON M1V 4Y1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 4Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3014199,
+					43.81187
+				]
+			},
+			"bbox": [
+				-79.3029777,
+				43.8107458,
+				-79.2998621,
+				43.8129942
+			]
+		}
+	]
+}

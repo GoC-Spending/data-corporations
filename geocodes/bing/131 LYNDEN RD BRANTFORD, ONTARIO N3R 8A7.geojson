@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Lynden Rd, Brantford, ON N3R 8A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6bcffea15f67470e838055e877277bfa|BN20130620|7.7.0.0|",
+				"addressLine": "131 Lynden Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Lynden Rd, Brantford, ON N3R 8A7, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 8A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.23672,
+					43.1748
+				]
+			},
+			"bbox": [
+				-80.2382615,
+				43.1736758,
+				-80.2351785,
+				43.1759242
+			]
+		}
+	]
+}

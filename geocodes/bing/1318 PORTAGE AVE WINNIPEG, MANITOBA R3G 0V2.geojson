@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1318 Portage Ave, Winnipeg, MB R3G 0V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d47b7cafa14549f3b136c430a4c83873|BN20130620|7.7.0.0|",
+				"addressLine": "1318 Portage Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1318 Portage Ave, Winnipeg, MB R3G 0V2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Wolseley",
+				"postalCode": "R3G 0V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1891,
+					49.88219
+				]
+			},
+			"bbox": [
+				-97.1908446,
+				49.8810658,
+				-97.1873554,
+				49.8833142
+			]
+		}
+	]
+}

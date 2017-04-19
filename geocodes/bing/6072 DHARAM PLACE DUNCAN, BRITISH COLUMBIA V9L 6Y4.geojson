@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6072 Dharam Pl, Duncan, BC V9L 6Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "edcf82c8430b430d9dfe1ad6d50209c0|BN20240253|7.7.0.0|",
+				"addressLine": "6072 Dharam Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "6072 Dharam Pl, Duncan, BC V9L 6Y4, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.7413761,
+					48.7918092
+				]
+			},
+			"bbox": [
+				-123.7430825,
+				48.7906851,
+				-123.7396697,
+				48.7929334
+			]
+		}
+	]
+}

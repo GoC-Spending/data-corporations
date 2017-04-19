@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6950 King George Blvd, Surrey, BC V3W 4Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adb051b1d8bd4a9dad227231e3f989c8|BN20190653|7.7.0.0|",
+				"addressLine": "6950 King George Blvd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6950 King George Blvd, Surrey, BC V3W 4Z1, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 4Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.84515,
+					49.12938
+				]
+			},
+			"bbox": [
+				-122.846868,
+				49.1282558,
+				-122.843432,
+				49.1305042
+			]
+		}
+	]
+}

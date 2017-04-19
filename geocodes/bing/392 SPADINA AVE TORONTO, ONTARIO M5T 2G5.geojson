@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "392 Spadina Ave, Toronto, ON M5T 2G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "423cd30d61c84a39aa75b98543b6b04f|BN20130721|7.7.0.0|",
+				"addressLine": "392 Spadina Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "392 Spadina Ave, Toronto, ON M5T 2G5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Kensington-Chinatown",
+				"postalCode": "M5T 2G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39942,
+					43.65554
+				]
+			},
+			"bbox": [
+				-79.4009738,
+				43.6544158,
+				-79.3978662,
+				43.6566642
+			]
+		}
+	]
+}

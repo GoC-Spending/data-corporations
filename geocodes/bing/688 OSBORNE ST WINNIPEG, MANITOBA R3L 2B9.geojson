@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "688 Osborne St, Winnipeg, MB R3L 2B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b13c07d23cb24ba7b63988a651b5d038|BN20121762|7.7.0.0|",
+				"addressLine": "688 Osborne St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "688 Osborne St, Winnipeg, MB R3L 2B9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Riverview",
+				"postalCode": "R3L 2B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1319199,
+					49.86248
+				]
+			},
+			"bbox": [
+				-97.1336638,
+				49.8613558,
+				-97.130176,
+				49.8636042
+			]
+		}
+	]
+}

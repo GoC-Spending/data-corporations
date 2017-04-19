@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "945 Sheldon Ct, Burlington, ON L7L 5K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e4059d2aa80f4c7aa6fc6251ce943cc4|BN20181720|7.7.0.0|",
+				"addressLine": "945 Sheldon Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "945 Sheldon Ct, Burlington, ON L7L 5K6, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Pinedale",
+				"postalCode": "L7L 5K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76061,
+					43.38745
+				]
+			},
+			"bbox": [
+				-79.7621569,
+				43.3863258,
+				-79.7590631,
+				43.3885742
+			]
+		}
+	]
+}

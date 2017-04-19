@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4108 14th St, Vernon, BC V1T 8B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fddad57ca02f40aeb7f09615dd5f01a8|BN20200239|7.7.0.0|",
+				"addressLine": "4108 14th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "4108 14th St, Vernon, BC V1T 8B9, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 8B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.2501449,
+					50.2732713
+				]
+			},
+			"bbox": [
+				-119.2519038,
+				50.2721472,
+				-119.248386,
+				50.2743955
+			]
+		}
+	]
+}

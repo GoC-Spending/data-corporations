@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5230 Dundas St W, Etobicoke, ON M9B 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fe35926c9a740f8aaedfd6ac871be26|BN20130520|7.7.0.0|",
+				"addressLine": "5230 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5230 Dundas St W, Etobicoke, ON M9B 1A8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M9B 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53809,
+					43.64026
+				]
+			},
+			"bbox": [
+				-79.5396434,
+				43.6391358,
+				-79.5365366,
+				43.6413842
+			]
+		}
+	]
+}

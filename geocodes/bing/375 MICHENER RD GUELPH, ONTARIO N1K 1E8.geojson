@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "375 Michener Rd, Guelph, ON N1K 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74fa2dd8392146ca9f4da581874a5549|BN20130620|7.7.0.0|",
+				"addressLine": "375 Michener Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "375 Michener Rd, Guelph, ON N1K 1E8, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1K 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31661,
+					43.53273
+				]
+			},
+			"bbox": [
+				-80.3181606,
+				43.5316058,
+				-80.3150594,
+				43.5338542
+			]
+		}
+	]
+}

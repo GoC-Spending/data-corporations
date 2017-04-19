@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7560 5e Avenue, Laval, QC H7R 2Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8e7a1b8e0ae40b78337b6e70a67c489|BN20130423|7.7.0.0|",
+				"addressLine": "7560 5e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "7560 5e Avenue, Laval, QC H7R 2Z2, Canada",
+				"locality": "Laval",
+				"postalCode": "H7R 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8761899,
+					45.53625
+				]
+			},
+			"bbox": [
+				-73.8777948,
+				45.5351258,
+				-73.874585,
+				45.5373742
+			]
+		}
+	]
+}

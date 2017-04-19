@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "890 Yonge St, Toronto, ON M4W 3P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "36cfab72638c458492b0c329fe410c91|BN20250135|7.7.0.0|",
+				"addressLine": "890 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "890 Yonge St, Toronto, ON M4W 3P4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M4W 3P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38831,
+					43.67329
+				]
+			},
+			"bbox": [
+				-79.3898642,
+				43.6721658,
+				-79.3867558,
+				43.6744142
+			]
+		}
+	]
+}

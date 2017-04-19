@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Madison Ave, Toronto, ON M5R 2S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6be8c1b785bc4c79b8f64084ae78988c|BN20130634|7.7.0.0|",
+				"addressLine": "33 Madison Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Madison Ave, Toronto, ON M5R 2S2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 2S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40301,
+					43.66858
+				]
+			},
+			"bbox": [
+				-79.4045641,
+				43.6674558,
+				-79.4014559,
+				43.6697042
+			]
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Onanole, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7cf2ffeb8194498a16ec5a047d7e001|BN20131519|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Onanole, Manitoba, Canada",
+				"locality": "Onanole"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.9686737060547,
+					50.6228485107422
+				]
+			},
+			"bbox": [
+				-100.029521827396,
+				50.5938781277496,
+				-99.9078255847129,
+				50.6518188937347
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Park, R0J 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7cf2ffeb8194498a16ec5a047d7e001|BN20131519|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Park, R0J 1N0, Canada",
+				"locality": "Park",
+				"postalCode": "R0J 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.9686126708984,
+					50.6227912902832
+				]
+			},
+			"bbox": [
+				-99.9767300727424,
+				50.6189285727125,
+				-99.9604952690545,
+				50.6266540078539
+			]
+		}
+	]
+}

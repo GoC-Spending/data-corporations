@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3810 18th Ave, Prince George, BC V2N 4V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f92809f4bcf4d35b2d3becf59f8e01c|BN20130530|7.7.0.0|",
+				"addressLine": "3810 18th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "3810 18th Ave, Prince George, BC V2N 4V5, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2N 4V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7915599,
+					53.9074349
+				]
+			},
+			"bbox": [
+				-122.7934682,
+				53.9063107,
+				-122.7896517,
+				53.908559
+			]
+		}
+	]
+}

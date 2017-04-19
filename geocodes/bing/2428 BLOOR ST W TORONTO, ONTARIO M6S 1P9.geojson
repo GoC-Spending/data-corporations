@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2428 Bloor St W, Toronto, ON M6S 1P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef3755cdc2304e3cbb967bfd4706753f|BN20200137|7.7.0.0|",
+				"addressLine": "2428 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2428 Bloor St W, Toronto, ON M6S 1P9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 1P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4839499,
+					43.64971
+				]
+			},
+			"bbox": [
+				-79.4855035,
+				43.6485858,
+				-79.4823963,
+				43.6508342
+			]
+		}
+	]
+}

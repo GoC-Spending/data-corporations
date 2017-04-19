@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1166 Hyde Park Rd, London, ON N6H 5K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b96fbf3f29ee440c88ef5070b329307d|BN20121764|7.7.0.0|",
+				"addressLine": "1166 Hyde Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1166 Hyde Park Rd, London, ON N6H 5K5, Canada",
+				"locality": "London",
+				"neighborhood": "Hyde Park",
+				"postalCode": "N6H 5K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.32735,
+					42.98786
+				]
+			},
+			"bbox": [
+				-81.3288868,
+				42.9867358,
+				-81.3258132,
+				42.9889842
+			]
+		}
+	]
+}

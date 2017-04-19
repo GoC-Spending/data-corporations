@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c59759c080e4e78ba90f60e534222be|BN20130520|7.7.0.0|",
+				"addressLine": "229 Niagara St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Niagara",
+				"postalCode": "M6J 2L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40879,
+					43.64367
+				]
+			},
+			"bbox": [
+				-79.4103435,
+				43.6425458,
+				-79.4072365,
+				43.6447942
+			]
+		}
+	]
+}

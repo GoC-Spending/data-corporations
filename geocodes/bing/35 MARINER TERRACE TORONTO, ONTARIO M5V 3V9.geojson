@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "35 Mariner Ter, Toronto, ON M5V 3V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "616771b65f794af89e9789785ce7271f|BN20240423|7.7.0.0|",
+				"addressLine": "35 Mariner Ter",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "35 Mariner Ter, Toronto, ON M5V 3V9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 3V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39204,
+					43.6397199
+				]
+			},
+			"bbox": [
+				-79.3935934,
+				43.6385957,
+				-79.3904866,
+				43.6408441
+			]
+		}
+	]
+}

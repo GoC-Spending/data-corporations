@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1218 Redonda St, Springfield, MB R2C 2Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ffc98a69e0948a59b8e7fe69cf54c08|BN20300154|7.7.0.0|",
+				"addressLine": "1218 Redonda St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1218 Redonda St, Springfield, MB R2C 2Z2, Canada",
+				"locality": "Springfield",
+				"postalCode": "R2C 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.9790932,
+					49.9282808
+				]
+			},
+			"bbox": [
+				-96.9808395,
+				49.9271567,
+				-96.977347,
+				49.929405
+			]
+		}
+	]
+}

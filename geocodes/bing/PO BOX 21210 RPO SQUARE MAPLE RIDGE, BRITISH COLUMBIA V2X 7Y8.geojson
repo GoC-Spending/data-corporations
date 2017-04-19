@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Maple Ridge, V2X 7Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56ad79875e5e45d3a01b82315ed2f1a9|BN20130431|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Maple Ridge, V2X 7Y8, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 7Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.605133056641,
+					49.2168617248535
+				]
+			},
+			"bbox": [
+				-122.613017173325,
+				49.2129990072828,
+				-122.597248939956,
+				49.2207244424242
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 6,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Baltimore, MD 21210",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "56ad79875e5e45d3a01b82315ed2f1a9|BN20130431|7.7.0.0|",
+				"adminDistrict": "MD",
+				"adminDistrict2": "Baltimore City",
+				"countryRegion": "United States",
+				"formattedAddress": "Baltimore, MD 21210",
+				"locality": "Baltimore",
+				"postalCode": "21210"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.6391067504883,
+					39.3734397888184
+				]
+			},
+			"bbox": [
+				-76.6508102416992,
+				39.334098815918,
+				-76.6195297241211,
+				39.3820991516113
+			]
+		}
+	]
+}

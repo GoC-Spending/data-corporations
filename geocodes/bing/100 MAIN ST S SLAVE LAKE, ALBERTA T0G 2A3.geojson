@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Main St S, Slave Lake, AB T0G 2A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "403f5ae83db04eb9a8070b0758162f4b|BN20130631|7.7.0.0|",
+				"addressLine": "100 Main St S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Main St S, Slave Lake, AB T0G 2A3, Canada",
+				"locality": "Slave Lake",
+				"postalCode": "T0G 2A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.7718408,
+					55.2816218
+				]
+			},
+			"bbox": [
+				-114.7738146,
+				55.2804976,
+				-114.769867,
+				55.2827459
+			]
+		}
+	]
+}

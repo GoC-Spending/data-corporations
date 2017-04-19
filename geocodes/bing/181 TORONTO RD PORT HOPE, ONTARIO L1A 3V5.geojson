@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "181 Toronto Rd, Port Hope, ON L1A 3V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcb67973adf14ed1a12134d9fa51dea4|BN20190642|7.7.0.0|",
+				"addressLine": "181 Toronto Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "181 Toronto Rd, Port Hope, ON L1A 3V5, Canada",
+				"locality": "Port Hope",
+				"postalCode": "L1A 3V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3233079,
+					43.9605359
+				]
+			},
+			"bbox": [
+				-78.3248696,
+				43.9594118,
+				-78.3217462,
+				43.9616601
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "520 Kingsdale Ave, Kingston, ON K7M 9B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "567db66959b9417f9c5cdbd41b89e14e|BN20171457|7.7.0.0|",
+				"addressLine": "520 Kingsdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "520 Kingsdale Ave, Kingston, ON K7M 9B6, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Meadowbrook",
+				"postalCode": "K7M 9B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.54778,
+					44.24515
+				]
+			},
+			"bbox": [
+				-76.5493493,
+				44.2440258,
+				-76.5462107,
+				44.2462742
+			]
+		}
+	]
+}

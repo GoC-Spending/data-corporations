@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "220 Old North Rd, Huntsville, ON P1H 2J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06a37ac4d73d4bc7ba4b7521bd8caf28|BN20130423|7.7.0.0|",
+				"addressLine": "220 Old North Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "220 Old North Rd, Huntsville, ON P1H 2J4, Canada",
+				"locality": "Huntsville",
+				"postalCode": "P1H 2J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22597,
+					45.36991
+				]
+			},
+			"bbox": [
+				-79.2275702,
+				45.3687858,
+				-79.2243698,
+				45.3710342
+			]
+		}
+	]
+}

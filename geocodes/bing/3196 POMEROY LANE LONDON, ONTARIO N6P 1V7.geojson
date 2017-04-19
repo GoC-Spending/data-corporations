@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3196 Pomeroy Ln, London, ON N6P 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0a9983e607a4468a2274c6048f2793f|BN20130431|7.7.0.0|",
+				"addressLine": "3196 Pomeroy Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3196 Pomeroy Ln, London, ON N6P 1V7, Canada",
+				"locality": "London",
+				"neighborhood": "Talbot",
+				"postalCode": "N6P 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3105999,
+					42.9333
+				]
+			},
+			"bbox": [
+				-81.3121353,
+				42.9321758,
+				-81.3090645,
+				42.9344242
+			]
+		}
+	]
+}

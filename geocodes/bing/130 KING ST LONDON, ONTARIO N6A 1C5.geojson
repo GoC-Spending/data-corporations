@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 King St, London, ON N6A 1C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "87ed4a2aa19148c4842efaedad7d3e24|BN20300154|7.7.0.0|",
+				"addressLine": "130 King St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 King St, London, ON N6A 1C5, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2504,
+					42.9826
+				]
+			},
+			"bbox": [
+				-81.2519366,
+				42.9814758,
+				-81.2488634,
+				42.9837242
+			]
+		}
+	]
+}

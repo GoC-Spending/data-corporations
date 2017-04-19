@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 Braddock Rd, Etobicoke, ON M9W 5H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a90c389574074d0abf45c76933b0f9fd|BN20181720|7.7.0.0|",
+				"addressLine": "41 Braddock Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 Braddock Rd, Etobicoke, ON M9W 5H6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 5H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.58507,
+					43.72104
+				]
+			},
+			"bbox": [
+				-79.5866255,
+				43.7199158,
+				-79.5835145,
+				43.7221642
+			]
+		}
+	]
+}

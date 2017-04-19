@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1330 Burlington St E, Hamilton, ON L8H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f0041f2f9e714582831cf187024c1cab|BN20130530|7.7.0.0|",
+				"addressLine": "1330 Burlington St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1330 Burlington St E, Hamilton, ON L8H, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector E and McAnulty",
+				"postalCode": "L8H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81104,
+					43.25933
+				]
+			},
+			"bbox": [
+				-79.8125836,
+				43.2582058,
+				-79.8094964,
+				43.2604542
+			]
+		}
+	]
+}

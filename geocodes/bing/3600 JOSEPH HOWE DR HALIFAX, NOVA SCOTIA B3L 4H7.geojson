@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3600 Joseph Howe Dr, Halifax, NS B3L 4H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f83813eaa7c453db14c78f573f9b33a|BN20130422|7.7.0.0|",
+				"addressLine": "3600 Joseph Howe Dr",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "3600 Joseph Howe Dr, Halifax, NS B3L 4H7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Fairview",
+				"postalCode": "B3L 4H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.62981,
+					44.65832
+				]
+			},
+			"bbox": [
+				-63.6313904,
+				44.6571958,
+				-63.6282296,
+				44.6594442
+			]
+		}
+	]
+}

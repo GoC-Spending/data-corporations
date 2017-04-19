@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "624 Sheppard Ave W, North York, ON M3H 2S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22d7e043dd3b42928aab68e2574431f2|BN20290118|7.7.0.0|",
+				"addressLine": "624 Sheppard Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "624 Sheppard Ave W, North York, ON M3H 2S1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 2S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4404714,
+					43.7552558
+				]
+			},
+			"bbox": [
+				-79.4420278,
+				43.7541316,
+				-79.4389151,
+				43.7563799
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1011 Adelaide St S, London, ON N6E 1R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "03a8c7c50b6744919c433e6c7ffa02b1|BN20130625|7.7.0.0|",
+				"addressLine": "1011 Adelaide St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1011 Adelaide St S, London, ON N6E 1R4, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6E 1R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2086,
+					42.9323
+				]
+			},
+			"bbox": [
+				-81.2101354,
+				42.9311758,
+				-81.2070646,
+				42.9334242
+			]
+		}
+	]
+}

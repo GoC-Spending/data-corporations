@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "169 Ethel St, Vanier, ON K1L 5X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b2da896d4ab44a69efb82b2e3bc5056|BN20250135|7.7.0.0|",
+				"addressLine": "169 Ethel St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "169 Ethel St, Vanier, ON K1L 5X3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Vanier",
+				"postalCode": "K1L 5X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.66603,
+					45.43811
+				]
+			},
+			"bbox": [
+				-75.6676321,
+				45.4369858,
+				-75.6644279,
+				45.4392342
+			]
+		}
+	]
+}

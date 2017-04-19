@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Lorne Ave, Chatham, ON N7M 6J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e943458376354bf2b4fff3e53c053595|BN20130620|7.7.0.0|",
+				"addressLine": "225 Lorne Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Lorne Ave, Chatham, ON N7M 6J6, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7M 6J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.19055,
+					42.39511
+				]
+			},
+			"bbox": [
+				-82.1920722,
+				42.3939858,
+				-82.1890278,
+				42.3962342
+			]
+		}
+	]
+}

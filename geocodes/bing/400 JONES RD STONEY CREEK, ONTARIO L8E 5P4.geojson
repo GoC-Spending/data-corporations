@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "400 Jones Rd, Stoney Creek, ON L8E 5P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d26581825ff547b995e7d220e62d76d5|BN20130631|7.7.0.0|",
+				"addressLine": "400 Jones Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "400 Jones Rd, Stoney Creek, ON L8E 5P4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 5P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68694,
+					43.22604
+				]
+			},
+			"bbox": [
+				-79.6884828,
+				43.2249158,
+				-79.6853972,
+				43.2271642
+			]
+		}
+	]
+}

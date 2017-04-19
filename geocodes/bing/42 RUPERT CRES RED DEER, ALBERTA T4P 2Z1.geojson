@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Rupert Cres, Red Deer, AB T4P 2Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a910624f513f400f91b8c69e34d9c08e|BN20160335|7.7.0.0|",
+				"addressLine": "42 Rupert Cres",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Rupert Cres, Red Deer, AB T4P 2Z1, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4P 2Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.76299,
+					52.26766
+				]
+			},
+			"bbox": [
+				-113.7648269,
+				52.2665358,
+				-113.7611531,
+				52.2687842
+			]
+		}
+	]
+}

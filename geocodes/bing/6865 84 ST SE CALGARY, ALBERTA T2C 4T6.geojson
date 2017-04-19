@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6865 84 St SE, Calgary, AB T2C 4T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b2e3670abaa3406e9287bced5189fa3e|BN20200239|7.7.0.0|",
+				"addressLine": "6865 84 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6865 84 St SE, Calgary, AB T2C 4T6, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2C 4T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9120649,
+					50.9919669
+				]
+			},
+			"bbox": [
+				-113.9138509,
+				50.9908428,
+				-113.9102789,
+				50.9930911
+			]
+		}
+	]
+}

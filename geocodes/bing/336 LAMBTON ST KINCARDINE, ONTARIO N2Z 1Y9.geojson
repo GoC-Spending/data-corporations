@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "336 Lambton St, Kincardine, ON N2Z 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08a0b914caa14ee98abf242f0df42b96|BN20290118|7.7.0.0|",
+				"addressLine": "336 Lambton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "336 Lambton St, Kincardine, ON N2Z 1Y9, Canada",
+				"locality": "Kincardine",
+				"postalCode": "N2Z 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.63395,
+					44.177
+				]
+			},
+			"bbox": [
+				-81.6355174,
+				44.1758758,
+				-81.6323826,
+				44.1781242
+			]
+		}
+	]
+}

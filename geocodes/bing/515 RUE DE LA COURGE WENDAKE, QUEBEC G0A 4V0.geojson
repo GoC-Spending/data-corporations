@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "515 Rue de la Courge, Quebec, QC G0A 4V0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ed3f9b60b6b4102a07907eed27d563e|BN20130533|7.7.0.0|",
+				"addressLine": "515 Rue de la Courge",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Quebec",
+				"countryRegion": "Canada",
+				"formattedAddress": "515 Rue de la Courge, Quebec, QC G0A 4V0, Canada",
+				"locality": "Quebec",
+				"neighborhood": "Loretteville",
+				"postalCode": "G0A 4V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.35892,
+					46.86818
+				]
+			},
+			"bbox": [
+				-71.3605643,
+				46.8670558,
+				-71.3572757,
+				46.8693042
+			]
+		}
+	]
+}

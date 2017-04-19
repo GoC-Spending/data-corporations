@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1919 94 St NW, Edmonton, AB T6N 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ff312027573145a78698e0bd4c355764|BN20300154|7.7.0.0|",
+				"addressLine": "1919 94 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1919 94 St NW, Edmonton, AB T6N 1E6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Edmonton Research and Development",
+				"postalCode": "T6N 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.46938,
+					53.45069
+				]
+			},
+			"bbox": [
+				-113.4712677,
+				53.4495658,
+				-113.4674923,
+				53.4518142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1683 Church Ave, Winnipeg, MB R2X 2Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2bd4f32c3f04fad9bd0741ac7dc0d57|BN20190653|7.7.0.0|",
+				"addressLine": "1683 Church Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1683 Church Ave, Winnipeg, MB R2X 2Y7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19069,
+					49.94142
+				]
+			},
+			"bbox": [
+				-97.1924367,
+				49.9402958,
+				-97.1889433,
+				49.9425442
+			]
+		}
+	]
+}

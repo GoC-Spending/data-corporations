@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "72 Gamble Ave, East York, ON M4K 2H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f22f33900ab74b05a780d29e56e65c74|BN20130625|7.7.0.0|",
+				"addressLine": "72 Gamble Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "72 Gamble Ave, East York, ON M4K 2H1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Broadview North",
+				"postalCode": "M4K 2H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35207,
+					43.69012
+				]
+			},
+			"bbox": [
+				-79.3536247,
+				43.6889958,
+				-79.3505153,
+				43.6912442
+			]
+		}
+	]
+}

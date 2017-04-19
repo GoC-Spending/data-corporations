@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Seymour St, Nipawin, SK S0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0687ad5790f4351b9f63409507cc10d|BN20130719|7.7.0.0|",
+				"addressLine": "100 Seymour St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Seymour St, Nipawin, SK S0E, Canada",
+				"locality": "Nipawin",
+				"postalCode": "S0E 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.0182349,
+					53.3656604
+				]
+			},
+			"bbox": [
+				-104.0201188,
+				53.3645363,
+				-104.016351,
+				53.3667846
+			]
+		}
+	]
+}

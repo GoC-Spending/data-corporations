@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Baltimore, Hamilton Township, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2625b73a32914913956e7478f3e60d7f|BN20130620|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "Baltimore, Hamilton Township, Ontario, Canada",
+				"locality": "Hamilton Township",
+				"neighborhood": "Baltimore"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1484375,
+					44.0227584838867
+				]
+			},
+			"bbox": [
+				-78.1555995271209,
+				44.018895766316,
+				-78.1412754728791,
+				44.0266212014574
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Hamilton Township, K0K 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2625b73a32914913956e7478f3e60d7f|BN20130620|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "Hamilton Township, K0K 1C0, Canada",
+				"locality": "Hamilton Township",
+				"postalCode": "K0K 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1378021240234,
+					44.0385971069336
+				]
+			},
+			"bbox": [
+				-78.1449660651038,
+				44.0347343893629,
+				-78.1306381829431,
+				44.0424598245043
+			]
+		}
+	]
+}

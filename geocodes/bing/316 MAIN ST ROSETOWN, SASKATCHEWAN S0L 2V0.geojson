@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "316 Main St, Rosetown, SK S0L 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9a6f222e067b49f49bef30908d9d012e|BN20130620|7.7.0.0|",
+				"addressLine": "316 Main St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "316 Main St, Rosetown, SK S0L 1S0, Canada",
+				"locality": "Rosetown",
+				"postalCode": "S0L 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-107.9919867,
+					51.5520711
+				]
+			},
+			"bbox": [
+				-107.9937946,
+				51.5509469,
+				-107.9901788,
+				51.5531952
+			]
+		}
+	]
+}

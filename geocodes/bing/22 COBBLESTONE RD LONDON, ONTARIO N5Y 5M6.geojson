@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Cobblestone Rd, London, ON N5Y 5M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ae9bd03a74f48b087c19d7c6a8b6163|BN20130631|7.7.0.0|",
+				"addressLine": "22 Cobblestone Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Cobblestone Rd, London, ON N5Y 5M6, Canada",
+				"locality": "London",
+				"neighborhood": "Huron Heights",
+				"postalCode": "N5Y 5M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2287,
+					43.0344
+				]
+			},
+			"bbox": [
+				-81.2302379,
+				43.0332758,
+				-81.2271621,
+				43.0355242
+			]
+		}
+	]
+}

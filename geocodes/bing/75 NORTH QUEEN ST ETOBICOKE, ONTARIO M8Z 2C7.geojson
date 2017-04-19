@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 N Queen St, Etobicoke, ON M8Z 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74a0798f3c3c44f7adb1361c037967c8|BN20121764|7.7.0.0|",
+				"addressLine": "75 N Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 N Queen St, Etobicoke, ON M8Z 2C7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53993,
+					43.62192
+				]
+			},
+			"bbox": [
+				-79.5414829,
+				43.6207958,
+				-79.5383771,
+				43.6230442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3610 Rue University, Montreal, QC H3A 0C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50a22ffa816c4d8b8b26649cf3e72196|BN20130447|7.7.0.0|",
+				"addressLine": "3610 Rue University",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "3610 Rue University, Montreal, QC H3A 0C5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Milton-Parc",
+				"postalCode": "H3A 0C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57758,
+					45.50679
+				]
+			},
+			"bbox": [
+				-73.579184,
+				45.5056658,
+				-73.575976,
+				45.5079142
+			]
+		}
+	]
+}

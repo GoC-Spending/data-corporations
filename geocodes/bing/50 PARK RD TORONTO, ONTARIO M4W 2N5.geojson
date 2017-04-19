@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Park Rd, Toronto, ON M4W 2N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fcc35bcf1394ef68e79618df6437eaa|BN20220145|7.7.0.0|",
+				"addressLine": "50 Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Park Rd, Toronto, ON M4W 2N5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rosedale-Moore Park",
+				"postalCode": "M4W 2N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38467,
+					43.67312
+				]
+			},
+			"bbox": [
+				-79.3862242,
+				43.6719958,
+				-79.3831158,
+				43.6742442
+			]
+		}
+	]
+}

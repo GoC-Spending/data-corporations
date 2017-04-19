@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1655 Ash Rd, Saanich, BC V8N 2T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "255748ca160548479a6df6e144ef6cf8|BN20240253|7.7.0.0|",
+				"addressLine": "1655 Ash Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1655 Ash Rd, Saanich, BC V8N 2T2, Canada",
+				"locality": "Saanich",
+				"postalCode": "V8N 2T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.32545,
+					48.49095
+				]
+			},
+			"bbox": [
+				-123.3271462,
+				48.4898258,
+				-123.3237538,
+				48.4920742
+			]
+		}
+	]
+}

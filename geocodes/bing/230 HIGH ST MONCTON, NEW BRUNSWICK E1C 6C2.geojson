@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "230 High St, Moncton, NB E1C 6C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27b32b86e1e144eebc2016b29d1b99f1|BN20200137|7.7.0.0|",
+				"addressLine": "230 High St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "230 High St, Moncton, NB E1C 6C2, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 6C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7921099,
+					46.09162
+				]
+			},
+			"bbox": [
+				-64.7937309,
+				46.0904958,
+				-64.7904889,
+				46.0927442
+			]
+		}
+	]
+}

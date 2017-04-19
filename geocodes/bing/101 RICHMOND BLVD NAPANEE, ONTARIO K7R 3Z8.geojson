@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Richmond Blvd, Napanee, ON K7R 3Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8690ba690f9343a4bbfd06086a60f014|BN20190642|7.7.0.0|",
+				"addressLine": "101 Richmond Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lennox and Addington",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Richmond Blvd, Napanee, ON K7R 3Z8, Canada",
+				"locality": "Greater Napanee",
+				"neighborhood": "Napanee",
+				"postalCode": "K7R 3Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.9574773,
+					44.2630823
+				]
+			},
+			"bbox": [
+				-76.959047,
+				44.2619581,
+				-76.9559075,
+				44.2642064
+			]
+		}
+	]
+}

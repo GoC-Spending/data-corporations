@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 McLaren's Creek Rd, Cameron, ON K0M 1G0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4072eb982a1d4967b4fe4cc9cdc4b2f6|BN20200239|7.7.0.0|",
+				"addressLine": "12 McLaren's Creek Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kawartha Lakes",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 McLaren's Creek Rd, Cameron, ON K0M 1G0, Canada",
+				"locality": "Kawartha Lakes",
+				"neighborhood": "Cameron",
+				"postalCode": "K0M 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.79342,
+					44.39962
+				]
+			},
+			"bbox": [
+				-78.7949934,
+				44.3984958,
+				-78.7918466,
+				44.4007442
+			]
+		}
+	]
+}

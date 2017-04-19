@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "620 Nairn Ave, Winnipeg, MB R2L 0X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23da981449df4c93a58bb073530004f8|BN20130631|7.7.0.0|",
+				"addressLine": "620 Nairn Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "620 Nairn Ave, Winnipeg, MB R2L 0X3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Tyne-Tees",
+				"postalCode": "R2L 0X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.09619,
+					49.9027
+				]
+			},
+			"bbox": [
+				-97.0979353,
+				49.9015758,
+				-97.0944447,
+				49.9038242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4386 Dawson St, Burnaby, BC V5C 4B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "880e81f878b845af88fec90850076f47|BN20130621|7.7.0.0|",
+				"addressLine": "4386 Dawson St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4386 Dawson St, Burnaby, BC V5C 4B6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 4B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0064287,
+					49.2643551
+				]
+			},
+			"bbox": [
+				-123.0081513,
+				49.263231,
+				-123.004706,
+				49.2654793
+			]
+		}
+	]
+}

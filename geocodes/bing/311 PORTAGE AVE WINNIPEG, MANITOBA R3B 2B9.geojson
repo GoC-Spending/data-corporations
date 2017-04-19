@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "311 Portage Ave, Winnipeg, MB R3B 2B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c627729a8af4ed8b8069dc7d4be0b92|BN20130634|7.7.0.0|",
+				"addressLine": "311 Portage Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "311 Portage Ave, Winnipeg, MB R3B 2B9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Portage-Ellice",
+				"postalCode": "R3B 2B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14396,
+					49.8939
+				]
+			},
+			"bbox": [
+				-97.145705,
+				49.8927758,
+				-97.142215,
+				49.8950242
+			]
+		}
+	]
+}

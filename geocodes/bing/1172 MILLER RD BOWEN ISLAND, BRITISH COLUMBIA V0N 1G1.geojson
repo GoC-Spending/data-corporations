@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1172 Miller Rd, Bowen Island, BC V0N 1G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95d32afcd71d48cd91fcf75c7e4093fc|BN20121764|7.7.0.0|",
+				"addressLine": "1172 Miller Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1172 Miller Rd, Bowen Island, BC V0N 1G1, Canada",
+				"locality": "Bowen Island",
+				"postalCode": "V0N 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3323652,
+					49.3882557
+				]
+			},
+			"bbox": [
+				-123.3340922,
+				49.3871315,
+				-123.3306382,
+				49.3893798
+			]
+		}
+	]
+}

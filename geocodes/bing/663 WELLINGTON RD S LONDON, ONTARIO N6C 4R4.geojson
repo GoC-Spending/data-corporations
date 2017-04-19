@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "663 Wellington Rd S, London, ON N6C 4R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c51d7a0135a2449d957319cce6c45ad8|BN20121762|7.7.0.0|",
+				"addressLine": "663 Wellington Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "663 Wellington Rd S, London, ON N6C 4R4, Canada",
+				"locality": "London",
+				"neighborhood": "Highland",
+				"postalCode": "N6C 4R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2292,
+					42.9503
+				]
+			},
+			"bbox": [
+				-81.2307358,
+				42.9491758,
+				-81.2276642,
+				42.9514242
+			]
+		}
+	]
+}

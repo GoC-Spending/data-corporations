@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "44 Lissom Cres, North York, ON M2R 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "435da830ace94f7887d7a3255ebd524a|BN20210145|7.7.0.0|",
+				"addressLine": "44 Lissom Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "44 Lissom Cres, North York, ON M2R 2P1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Newtonbrook West",
+				"postalCode": "M2R 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4447,
+					43.78555
+				]
+			},
+			"bbox": [
+				-79.4462571,
+				43.7844258,
+				-79.4431429,
+				43.7866742
+			]
+		}
+	]
+}

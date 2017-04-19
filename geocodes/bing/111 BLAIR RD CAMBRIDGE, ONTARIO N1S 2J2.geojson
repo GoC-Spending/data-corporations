@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Blair Rd, Cambridge, ON N1S 2J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9cc42ca9026c486c8a89de86d8c3407e|BN20130631|7.7.0.0|",
+				"addressLine": "111 Blair Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Blair Rd, Cambridge, ON N1S 2J2, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1S 2J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3241,
+					43.36422
+				]
+			},
+			"bbox": [
+				-80.3256463,
+				43.3630958,
+				-80.3225537,
+				43.3653442
+			]
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Stratford, N5A 6S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ab155c1972c4c90a9752131848c6a0f|BN20200239|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "Stratford, N5A 6S2, Canada",
+				"locality": "Stratford",
+				"postalCode": "N5A 6S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9597778320313,
+					43.3801765441895
+				]
+			},
+			"bbox": [
+				-80.9668635151817,
+				43.3763138266188,
+				-80.9526921488808,
+				43.3840392617601
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Perth, Western Australia, Australia",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ab155c1972c4c90a9752131848c6a0f|BN20200239|7.7.0.0|",
+				"adminDistrict": "WA",
+				"countryRegion": "Australia",
+				"formattedAddress": "Perth, Western Australia, Australia",
+				"locality": "Perth"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					115.857406616211,
+					-31.9526405334473
+				]
+			},
+			"bbox": [
+				115.206649780273,
+				-32.3013763427734,
+				116.527725219727,
+				-31.6086177825928
+			]
+		}
+	]
+}

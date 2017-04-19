@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "680 Sumas St, Victoria, BC V8T 4S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0bc4551e6ff84a88a4c71c0f382140a6|BN20280152|7.7.0.0|",
+				"addressLine": "680 Sumas St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "680 Sumas St, Victoria, BC V8T 4S6, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Burnside",
+				"postalCode": "V8T 4S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3722015,
+					48.441011
+				]
+			},
+			"bbox": [
+				-123.3738961,
+				48.4398869,
+				-123.370507,
+				48.4421352
+			]
+		}
+	]
+}

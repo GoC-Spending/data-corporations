@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "444 Victoria St, Kamloops, BC V2C 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04b59a2beafd492e89b03749a822918e|BN20280152|7.7.0.0|",
+				"addressLine": "444 Victoria St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "444 Victoria St, Kamloops, BC V2C 2A7, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "City Center",
+				"postalCode": "V2C 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.33061,
+					50.67607
+				]
+			},
+			"bbox": [
+				-120.3323839,
+				50.6749458,
+				-120.3288361,
+				50.6771942
+			]
+		}
+	]
+}

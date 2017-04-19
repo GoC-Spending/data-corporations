@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "104 205 St SW, Edmonton, AB T6M 2S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4b16e6eccbe04242bd95d77ee52175fa|BN20130621|7.7.0.0|",
+				"addressLine": "104 205 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "104 205 St SW, Edmonton, AB T6M 2S3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Rural West",
+				"postalCode": "T6M 2S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.67294,
+					53.43187
+				]
+			},
+			"bbox": [
+				-113.6748269,
+				53.4307458,
+				-113.6710531,
+				53.4329942
+			]
+		}
+	]
+}

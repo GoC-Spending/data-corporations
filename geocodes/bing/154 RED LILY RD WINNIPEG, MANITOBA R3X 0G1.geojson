@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "154 Red Lily Rd, Winnipeg, MB R3X 0G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00cae62965dd4a759d0b307fe03308c1|BN20130521|7.7.0.0|",
+				"addressLine": "154 Red Lily Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "154 Red Lily Rd, Winnipeg, MB R3X 0G1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South St Boniface",
+				"postalCode": "R3X 0G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.03792,
+					49.82916
+				]
+			},
+			"bbox": [
+				-97.0396627,
+				49.8280358,
+				-97.0361773,
+				49.8302842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "979 Bloor St W, Toronto, ON M6H 1L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b18d3f70c1e9401288a34f44617933c0|BN20130422|7.7.0.0|",
+				"addressLine": "979 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "979 Bloor St W, Toronto, ON M6H 1L7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6H 1L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42908,
+					43.66104
+				]
+			},
+			"bbox": [
+				-79.4306339,
+				43.6599158,
+				-79.4275261,
+				43.6621642
+			]
+		}
+	]
+}

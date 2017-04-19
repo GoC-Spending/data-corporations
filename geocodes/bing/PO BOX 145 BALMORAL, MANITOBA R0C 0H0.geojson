@@ -1,0 +1,107 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Balmoral, Rockwood, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df05e370d4454073b6a42c7fb2f3d497|BN20220145|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Balmoral, Rockwood, Manitoba, Canada",
+				"locality": "Rockwood",
+				"neighborhood": "Balmoral"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.3211669921875,
+					50.2636184692383
+				]
+			},
+			"bbox": [
+				-97.3292230300386,
+				50.2597557516676,
+				-97.3131109543364,
+				50.267481186809
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Balmoral, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df05e370d4454073b6a42c7fb2f3d497|BN20220145|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Balmoral, Canada",
+				"locality": "Balmoral"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.3211135864258,
+					50.2566719055176
+				]
+			},
+			"bbox": [
+				-97.3814932612167,
+				50.227701522525,
+				-97.2607339116349,
+				50.2856422885101
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "145",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df05e370d4454073b6a42c7fb2f3d497|BN20220145|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "145",
+				"postalCode": "145"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.2262268066406,
+					43.1199264526367
+				]
+			},
+			"bbox": [
+				-78.3106002807617,
+				42.4434814453125,
+				-76.6718292236328,
+				43.3726692199707
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 10,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Cory Pl, Saskatoon, SK S7M 5G8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "88234215153c4e5ba01b6418d898076b|BN20250135|7.7.0.0|",
+				"addressLine": "Cory Pl",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "Cory Pl, Saskatoon, SK S7M 5G8, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "Park Ridge",
+				"postalCode": "S7M 5G8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.75562,
+					52.12321
+				]
+			},
+			"bbox": [
+				-106.75565,
+				52.12289,
+				-106.75539,
+				52.12324
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "878 57 St, Delta, BC V4L 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b991eac555944caabc6186423ff6722d|BN20130719|7.7.0.0|",
+				"addressLine": "878 57 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "878 57 St, Delta, BC V4L 1Y1, Canada",
+				"locality": "Delta",
+				"neighborhood": "Tsawwassen",
+				"postalCode": "V4L 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06482,
+					49.01883
+				]
+			},
+			"bbox": [
+				-123.0665341,
+				49.0177058,
+				-123.0631059,
+				49.0199542
+			]
+		}
+	]
+}

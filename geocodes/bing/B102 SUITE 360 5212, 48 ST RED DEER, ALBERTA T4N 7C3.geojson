@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5212 48 St, Red Deer, AB T4N 7C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3051dfb311347d1b7b47b0093c57f0e|BN20130521|7.7.0.0|",
+				"addressLine": "5212 48 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5212 48 St, Red Deer, AB T4N 7C3, Canada",
+				"locality": "Red Deer",
+				"neighborhood": "Downtown Red Deer",
+				"postalCode": "T4N 7C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.8185274,
+					52.2672649
+				]
+			},
+			"bbox": [
+				-113.8203643,
+				52.2661407,
+				-113.8166905,
+				52.2683891
+			]
+		}
+	]
+}

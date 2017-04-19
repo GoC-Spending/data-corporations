@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8315 Riverbend Ct, Burnaby, BC V3N 5E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5ad639639e74222bb171c903389c642|BN20260223|7.7.0.0|",
+				"addressLine": "8315 Riverbend Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8315 Riverbend Ct, Burnaby, BC V3N 5E7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V3N 5E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9677825,
+					49.1894365
+				]
+			},
+			"bbox": [
+				-122.9695026,
+				49.1883123,
+				-122.9660625,
+				49.1905606
+			]
+		}
+	]
+}

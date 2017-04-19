@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "530 Cadogan St, Nanaimo, BC V9S 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d577510073334af68bc2d41d819384fe|BN20130422|7.7.0.0|",
+				"addressLine": "530 Cadogan St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "530 Cadogan St, Nanaimo, BC V9S 1T4, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9S 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.95376,
+					49.1811099
+				]
+			},
+			"bbox": [
+				-123.9554798,
+				49.1799857,
+				-123.9520402,
+				49.1822341
+			]
+		}
+	]
+}

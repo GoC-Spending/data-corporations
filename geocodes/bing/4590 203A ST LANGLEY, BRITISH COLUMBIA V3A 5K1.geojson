@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4590 203A St, Langley, BC V3A 5K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "524031357dac48b2a38ed44c2dba7555|BN20190653|7.7.0.0|",
+				"addressLine": "4590 203A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4590 203A St, Langley, BC V3A 5K1, Canada",
+				"locality": "Langley",
+				"neighborhood": "Uplands",
+				"postalCode": "V3A 5K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6597515,
+					49.0857832
+				]
+			},
+			"bbox": [
+				-122.661468,
+				49.084659,
+				-122.6580351,
+				49.0869073
+			]
+		}
+	]
+}

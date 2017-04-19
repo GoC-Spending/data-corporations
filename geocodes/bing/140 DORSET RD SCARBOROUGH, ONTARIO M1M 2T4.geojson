@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Dorset Rd, Scarborough, ON M1M 2T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f38a24d477344d897e1b9673f687c7a|BN20130422|7.7.0.0|",
+				"addressLine": "140 Dorset Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Dorset Rd, Scarborough, ON M1M 2T4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Cliffcrest",
+				"postalCode": "M1M 2T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23467,
+					43.72654
+				]
+			},
+			"bbox": [
+				-79.2362256,
+				43.7254158,
+				-79.2331144,
+				43.7276642
+			]
+		}
+	]
+}

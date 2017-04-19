@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1463 Rue Aylwin, Montreal, QC H1W 3B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38953c17268e4cf68a75dfcfa4866714|BN20121764|7.7.0.0|",
+				"addressLine": "1463 Rue Aylwin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1463 Rue Aylwin, Montreal, QC H1W 3B6, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Mercier-Hochelaga-Maisonneuve",
+				"postalCode": "H1W 3B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.54008,
+					45.54295
+				]
+			},
+			"bbox": [
+				-73.5416851,
+				45.5418258,
+				-73.5384749,
+				45.5440742
+			]
+		}
+	]
+}

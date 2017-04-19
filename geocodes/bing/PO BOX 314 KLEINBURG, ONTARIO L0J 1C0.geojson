@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Kleinburg, Vaughan, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d703b45e74c43c39ba972096a65b498|BN20130620|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "Kleinburg, Vaughan, Ontario, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Kleinburg"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6249618530273,
+					43.8404083251953
+				]
+			},
+			"bbox": [
+				-79.6321019573805,
+				43.8365456076246,
+				-79.6178217486741,
+				43.844271042766
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Vaughan, L0J 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d703b45e74c43c39ba972096a65b498|BN20130620|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "Vaughan, L0J 1C0, Canada",
+				"locality": "Vaughan",
+				"postalCode": "L0J 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6352157592773,
+					43.8531761169434
+				]
+			},
+			"bbox": [
+				-79.6423573918951,
+				43.8493133993727,
+				-79.6280741266596,
+				43.857038834514
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 Dallas Rd, Victoria, BC V8V 0A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c72609e765434880a459ee8bdc34e450|BN20130620|7.7.0.0|",
+				"addressLine": "89 Dallas Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 Dallas Rd, Victoria, BC V8V 0A6, Canada",
+				"locality": "Victoria",
+				"neighborhood": "James Bay",
+				"postalCode": "V8V 0A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3855113,
+					48.4185764
+				]
+			},
+			"bbox": [
+				-123.3872051,
+				48.4174522,
+				-123.3838175,
+				48.4197005
+			]
+		}
+	]
+}

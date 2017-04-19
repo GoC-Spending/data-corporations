@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17010 103 Ave NW, Edmonton, AB T5S 1K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a26c37bacc28422cad1900b5c4b31013|BN20130634|7.7.0.0|",
+				"addressLine": "17010 103 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "17010 103 Ave NW, Edmonton, AB T5S 1K7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Stone Industrial",
+				"postalCode": "T5S 1K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.61695,
+					53.54563
+				]
+			},
+			"bbox": [
+				-113.6188419,
+				53.5445058,
+				-113.6150581,
+				53.5467542
+			]
+		}
+	]
+}

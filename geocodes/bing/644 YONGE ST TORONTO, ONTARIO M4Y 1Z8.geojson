@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "644 Yonge St, Toronto, ON M4Y 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3563f680de74977bb62f76929fbc698|BN20121764|7.7.0.0|",
+				"addressLine": "644 Yonge St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "644 Yonge St, Toronto, ON M4Y 1Z8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M4Y 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3854099,
+					43.66655
+				]
+			},
+			"bbox": [
+				-79.3869639,
+				43.6654258,
+				-79.3838559,
+				43.6676742
+			]
+		}
+	]
+}

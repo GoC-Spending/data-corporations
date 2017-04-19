@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 The West Mall, Toronto, ON M9C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c71ce4d9d33441687b4d8f66dc1b466|BN20130621|7.7.0.0|",
+				"addressLine": "25 The West Mall",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 The West Mall, Toronto, ON M9C, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M9C 5N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.560642,
+					43.6097787
+				]
+			},
+			"bbox": [
+				-79.5621946,
+				43.6086546,
+				-79.5590895,
+				43.6109029
+			]
+		}
+	]
+}

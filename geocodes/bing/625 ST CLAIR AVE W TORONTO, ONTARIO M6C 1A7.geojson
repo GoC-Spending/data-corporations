@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "625 St Clair Ave W, Toronto, ON M6C 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "225c5888db2149cf9002725f95dd1ae8|BN20130522|7.7.0.0|",
+				"addressLine": "625 St Clair Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "625 St Clair Ave W, Toronto, ON M6C 1A7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wychwood",
+				"postalCode": "M6C 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42356,
+					43.68184
+				]
+			},
+			"bbox": [
+				-79.4251144,
+				43.6807158,
+				-79.4220056,
+				43.6829642
+			]
+		}
+	]
+}

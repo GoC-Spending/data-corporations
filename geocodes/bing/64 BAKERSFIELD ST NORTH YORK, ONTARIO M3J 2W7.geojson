@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "64 Bakersfield St, North York, ON M3J 2W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7465c373f7f844dfa16c4ec1df9b44a3|BN20190653|7.7.0.0|",
+				"addressLine": "64 Bakersfield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "64 Bakersfield St, North York, ON M3J 2W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48091,
+					43.75668
+				]
+			},
+			"bbox": [
+				-79.4824664,
+				43.7555558,
+				-79.4793536,
+				43.7578042
+			]
+		}
+	]
+}

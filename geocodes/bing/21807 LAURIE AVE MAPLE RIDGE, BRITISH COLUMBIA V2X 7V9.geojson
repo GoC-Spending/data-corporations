@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21807 Laurie Ave, Maple Ridge, BC V2X 7V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac3a30d6f6eb44af9256d2053f0f3d80|BN20130521|7.7.0.0|",
+				"addressLine": "21807 Laurie Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "21807 Laurie Ave, Maple Ridge, BC V2X 7V9, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2X 7V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.61642,
+					49.21778
+				]
+			},
+			"bbox": [
+				-122.618141,
+				49.2166558,
+				-122.614699,
+				49.2189042
+			]
+		}
+	]
+}

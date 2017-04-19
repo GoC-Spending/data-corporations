@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "600 Sherbourne St, Toronto, ON M4X 1W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e3ca42b686074bc98148d17abd3c2a5c|BN20130719|7.7.0.0|",
+				"addressLine": "600 Sherbourne St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "600 Sherbourne St, Toronto, ON M4X 1W4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "North St James Town",
+				"postalCode": "M4X 1W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37683,
+					43.67162
+				]
+			},
+			"bbox": [
+				-79.3783842,
+				43.6704958,
+				-79.3752758,
+				43.6727442
+			]
+		}
+	]
+}

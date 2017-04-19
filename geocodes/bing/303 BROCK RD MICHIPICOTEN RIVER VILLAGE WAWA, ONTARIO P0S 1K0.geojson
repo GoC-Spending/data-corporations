@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Wawa, P0S 1K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "352aa086451f4f54b702e2da4dbffb17|BN20121764|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Algoma",
+				"countryRegion": "Canada",
+				"formattedAddress": "Wawa, P0S 1K0, Canada",
+				"locality": "Wawa",
+				"postalCode": "P0S 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.8265762329102,
+					47.9326400756836
+				]
+			},
+			"bbox": [
+				-84.8342626150613,
+				47.9287773581129,
+				-84.818889850759,
+				47.9365027932543
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "River",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Michipicoten River, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "352aa086451f4f54b702e2da4dbffb17|BN20121764|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Algoma",
+				"countryRegion": "Canada",
+				"formattedAddress": "Michipicoten River, Ontario, Canada",
+				"locality": "Wawa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.7304763793945,
+					47.9089469909668
+				]
+			},
+			"bbox": [
+				-84.7644805908203,
+				47.8749465942383,
+				-84.6964797973633,
+				47.9429473876953
+			]
+		}
+	]
+}

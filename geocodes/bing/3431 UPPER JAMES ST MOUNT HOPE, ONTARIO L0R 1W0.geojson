@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3431 Upper James St, Mt Hope, ON L0R 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5017d9bfe2a6444c98cf15bb58cb84d6|BN20130530|7.7.0.0|",
+				"addressLine": "3431 Upper James St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3431 Upper James St, Mt Hope, ON L0R 1W0, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Mt Hope",
+				"postalCode": "L0R 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9162,
+					43.14837
+				]
+			},
+			"bbox": [
+				-79.9177408,
+				43.1472458,
+				-79.9146592,
+				43.1494942
+			]
+		}
+	]
+}

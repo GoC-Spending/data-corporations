@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5316 108 St NW, Edmonton, AB T6H 2Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9ef0d53fd7a430a8155b9ddd94355b4|BN20290118|7.7.0.0|",
+				"addressLine": "5316 108 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5316 108 St NW, Edmonton, AB T6H 2Y7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Pleasantview",
+				"postalCode": "T6H 2Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51088,
+					53.49103
+				]
+			},
+			"bbox": [
+				-113.5127695,
+				53.4899058,
+				-113.5089905,
+				53.4921542
+			]
+		}
+	]
+}

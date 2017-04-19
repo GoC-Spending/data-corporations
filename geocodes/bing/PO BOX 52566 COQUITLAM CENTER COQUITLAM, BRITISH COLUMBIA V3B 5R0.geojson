@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 2,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Coquitlam, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b29f56affbe4e14a6008bb1c3255d1e|BN20130431|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Coquitlam, British Columbia, Canada",
+				"locality": "Coquitlam"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.794380187988,
+					49.2849197387695
+				]
+			},
+			"bbox": [
+				-122.893440246582,
+				49.2216033935547,
+				-122.624626159668,
+				49.3516311645508
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Port Coquitlam, V3B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7b29f56affbe4e14a6008bb1c3255d1e|BN20130431|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Port Coquitlam, V3B, Canada",
+				"locality": "Port Coquitlam",
+				"postalCode": "V3B"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.767890930176,
+					49.276065826416
+				]
+			},
+			"bbox": [
+				-122.823822021484,
+				49.2420654296875,
+				-122.700523376465,
+				49.3100662231445
+			]
+		}
+	]
+}

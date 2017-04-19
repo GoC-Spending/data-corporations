@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2332 Queen St, Abbotsford, BC V2T 6J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ccb1c9bed4834b80aeb0add45b38e8c8|BN20260223|7.7.0.0|",
+				"addressLine": "2332 Queen St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2332 Queen St, Abbotsford, BC V2T 6J6, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "South Poplar",
+				"postalCode": "V2T 6J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.36689,
+					49.04453
+				]
+			},
+			"bbox": [
+				-122.368605,
+				49.0434058,
+				-122.365175,
+				49.0456542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1260 Rae St, Regina, SK S4T 2C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "680684c436d146c298f1e7be23b16377|BN20130422|7.7.0.0|",
+				"addressLine": "1260 Rae St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1260 Rae St, Regina, SK S4T 2C1, Canada",
+				"locality": "Regina",
+				"neighborhood": "North Central",
+				"postalCode": "S4T 2C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.62147,
+					50.45872
+				]
+			},
+			"bbox": [
+				-104.6232358,
+				50.4575958,
+				-104.6197042,
+				50.4598442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4384 Rue Breton, Pierrefonds, QC H9H 3B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "52b350c58bec4091bd761020f2828ad4|BN20130632|7.7.0.0|",
+				"addressLine": "4384 Rue Breton",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "4384 Rue Breton, Pierrefonds, QC H9H 3B2, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Pierrefonds",
+				"postalCode": "H9H 3B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.87291,
+					45.46722
+				]
+			},
+			"bbox": [
+				-73.8745129,
+				45.4660958,
+				-73.8713071,
+				45.4683442
+			]
+		}
+	]
+}

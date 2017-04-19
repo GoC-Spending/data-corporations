@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "590 Liverpool Rd, Pickering, ON L1W 1P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d943df6c7f02465ba1a9c88cf6b32c73|BN20260223|7.7.0.0|",
+				"addressLine": "590 Liverpool Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "590 Liverpool Rd, Pickering, ON L1W 1P9, Canada",
+				"locality": "Pickering",
+				"postalCode": "L1W 1P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0809914,
+					43.8138874
+				]
+			},
+			"bbox": [
+				-79.0825493,
+				43.8127633,
+				-79.0794335,
+				43.8150116
+			]
+		}
+	]
+}

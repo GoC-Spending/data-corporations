@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "380 Talbot St, Port McNicoll, ON L0K 1R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07b051beaff241bead18bf31c1e990a5|BN20130532|7.7.0.0|",
+				"addressLine": "380 Talbot St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "380 Talbot St, Port McNicoll, ON L0K 1R0, Canada",
+				"locality": "Tay",
+				"neighborhood": "Port McNicoll",
+				"postalCode": "L0K 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8071264,
+					44.746652
+				]
+			},
+			"bbox": [
+				-79.8087092,
+				44.7455278,
+				-79.8055436,
+				44.7477761
+			]
+		}
+	]
+}

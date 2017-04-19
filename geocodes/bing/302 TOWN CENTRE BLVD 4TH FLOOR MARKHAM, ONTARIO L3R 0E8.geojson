@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "302 Town Centre Blvd, Markham, ON L3R 0E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0468e83a308c4f32b0f3c684cf6e1d36|BN20130522|7.7.0.0|",
+				"addressLine": "302 Town Centre Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "302 Town Centre Blvd, Markham, ON L3R 0E8, Canada",
+				"locality": "Markham",
+				"neighborhood": "Unionville",
+				"postalCode": "L3R 0E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34014,
+					43.85977
+				]
+			},
+			"bbox": [
+				-79.3416991,
+				43.8586458,
+				-79.3385809,
+				43.8608942
+			]
+		}
+	]
+}

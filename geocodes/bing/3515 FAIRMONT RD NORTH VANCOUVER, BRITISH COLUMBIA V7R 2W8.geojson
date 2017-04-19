@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3515 Fairmont Rd, North Vancouver, BC V7R 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4322937873c64560b53168c5f4eb800e|BN20130634|7.7.0.0|",
+				"addressLine": "3515 Fairmont Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3515 Fairmont Rd, North Vancouver, BC V7R 2W8, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Highlands",
+				"postalCode": "V7R 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0923,
+					49.34148
+				]
+			},
+			"bbox": [
+				-123.0940254,
+				49.3403558,
+				-123.0905746,
+				49.3426042
+			]
+		}
+	]
+}

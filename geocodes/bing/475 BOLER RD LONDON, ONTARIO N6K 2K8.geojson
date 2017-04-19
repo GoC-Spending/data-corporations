@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "475 Boler Rd, London, ON N6K 2K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea2b55ab7bb4443083cd20261c9bb93b|BN20220145|7.7.0.0|",
+				"addressLine": "475 Boler Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "475 Boler Rd, London, ON N6K 2K8, Canada",
+				"locality": "London",
+				"neighborhood": "Byron",
+				"postalCode": "N6K 2K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3309,
+					42.9507
+				]
+			},
+			"bbox": [
+				-81.3324359,
+				42.9495758,
+				-81.3293641,
+				42.9518242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Selkirk Ave, Winnipeg, MB R2W 2L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f9a94c65ea504fd1b0c3072e97dbded3|BN20130533|7.7.0.0|",
+				"addressLine": "275 Selkirk Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Selkirk Ave, Winnipeg, MB R2W 2L5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "William Whyte",
+				"postalCode": "R2W 2L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13558,
+					49.91288
+				]
+			},
+			"bbox": [
+				-97.1373257,
+				49.9117558,
+				-97.1338343,
+				49.9140042
+			]
+		}
+	]
+}

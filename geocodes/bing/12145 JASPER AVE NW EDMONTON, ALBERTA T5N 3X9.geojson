@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12145 Jasper Ave NW, Edmonton, AB T5N 3X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2475e293269e4b1086a3d04d7ac87094|BN20260223|7.7.0.0|",
+				"addressLine": "12145 Jasper Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12145 Jasper Ave NW, Edmonton, AB T5N 3X9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "River Valley Victoria",
+				"postalCode": "T5N 3X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5323,
+					53.54073
+				]
+			},
+			"bbox": [
+				-113.5341917,
+				53.5396058,
+				-113.5304083,
+				53.5418542
+			]
+		}
+	]
+}

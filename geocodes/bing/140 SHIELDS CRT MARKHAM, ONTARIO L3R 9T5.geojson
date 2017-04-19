@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "140 Shields Ct, Markham, ON L3R 9T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "715c2d7e767a48958b41eb475598ae1b|BN20121764|7.7.0.0|",
+				"addressLine": "140 Shields Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "140 Shields Ct, Markham, ON L3R 9T5, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 9T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36144,
+					43.8345399
+				]
+			},
+			"bbox": [
+				-79.3629984,
+				43.8334157,
+				-79.3598816,
+				43.8356641
+			]
+		}
+	]
+}

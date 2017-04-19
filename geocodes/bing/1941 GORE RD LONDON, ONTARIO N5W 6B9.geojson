@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1941 Gore Rd, London, ON N5W 6B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e50ae3a7309424bbeba1cd590796cda|BN20130533|7.7.0.0|",
+				"addressLine": "1941 Gore Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1941 Gore Rd, London, ON N5W 6B9, Canada",
+				"locality": "London",
+				"neighborhood": "Hamilton Road",
+				"postalCode": "N5W 6B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1516545,
+					42.9840069
+				]
+			},
+			"bbox": [
+				-81.1531912,
+				42.9828827,
+				-81.1501179,
+				42.985131
+			]
+		}
+	]
+}

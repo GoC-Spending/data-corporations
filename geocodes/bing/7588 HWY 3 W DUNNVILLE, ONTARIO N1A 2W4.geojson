@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Dunnville, N1A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8d3736445aa5458cb521f988754be62a|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Haldimand",
+				"countryRegion": "Canada",
+				"formattedAddress": "Dunnville, N1A, Canada",
+				"locality": "Dunnville",
+				"postalCode": "N1A"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5813903808594,
+					42.9458160400391
+				]
+			},
+			"bbox": [
+				-79.7188186645508,
+				42.8354606628418,
+				-79.4864273071289,
+				43.0146713256836
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Haldimand, N1A 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8d3736445aa5458cb521f988754be62a|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Haldimand",
+				"countryRegion": "Canada",
+				"formattedAddress": "Haldimand, N1A 2W4, Canada",
+				"locality": "Haldimand",
+				"postalCode": "N1A 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6751022338867,
+					42.9345245361328
+				]
+			},
+			"bbox": [
+				-79.6821364339604,
+				42.9306618185621,
+				-79.6680680338131,
+				42.9383872537035
+			]
+		}
+	]
+}

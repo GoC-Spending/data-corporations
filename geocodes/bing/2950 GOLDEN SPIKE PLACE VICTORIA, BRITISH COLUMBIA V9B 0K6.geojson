@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2950 Golden Spike Pl, Langford, BC V9B 0K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62e67842f3cb4b65bef7b80cca44a584|BN20130634|7.7.0.0|",
+				"addressLine": "2950 Golden Spike Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2950 Golden Spike Pl, Langford, BC V9B 0K6, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 0K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.5419088,
+					48.4509943
+				]
+			},
+			"bbox": [
+				-123.5436036,
+				48.4498702,
+				-123.5402139,
+				48.4521185
+			]
+		}
+	]
+}

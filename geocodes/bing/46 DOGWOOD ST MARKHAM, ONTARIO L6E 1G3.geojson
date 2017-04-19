@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "46 Dogwood St, Markham, ON L6E 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "675b316a7fdd4eae8d46fe2bd0b5ee1c|BN20121764|7.7.0.0|",
+				"addressLine": "46 Dogwood St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "46 Dogwood St, Markham, ON L6E 1G3, Canada",
+				"locality": "Markham",
+				"postalCode": "L6E 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27968,
+					43.89482
+				]
+			},
+			"bbox": [
+				-79.28124,
+				43.8936958,
+				-79.27812,
+				43.8959442
+			]
+		}
+	]
+}

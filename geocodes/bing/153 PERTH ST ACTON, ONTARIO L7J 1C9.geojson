@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "153 Perth St, Acton, ON L7J 1C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "992b393cc086473889c66e58a4cb281e|BN20171457|7.7.0.0|",
+				"addressLine": "153 Perth St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "153 Perth St, Acton, ON L7J 1C9, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Acton",
+				"postalCode": "L7J 1C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.03835,
+					43.6345699
+				]
+			},
+			"bbox": [
+				-80.0399032,
+				43.6334457,
+				-80.0367968,
+				43.6356941
+			]
+		}
+	]
+}

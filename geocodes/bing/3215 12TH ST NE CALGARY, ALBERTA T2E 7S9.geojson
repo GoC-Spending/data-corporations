@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3215 12 St NE, Calgary, AB T2E 7S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8d9066002204f77a5ef249c539c1dcd|BN20300154|7.7.0.0|",
+				"addressLine": "3215 12 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3215 12 St NE, Calgary, AB T2E 7S9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Vista Heights",
+				"postalCode": "T2E 7S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0275532,
+					51.0806482
+				]
+			},
+			"bbox": [
+				-114.0293426,
+				51.079524,
+				-114.0257638,
+				51.0817723
+			]
+		}
+	]
+}

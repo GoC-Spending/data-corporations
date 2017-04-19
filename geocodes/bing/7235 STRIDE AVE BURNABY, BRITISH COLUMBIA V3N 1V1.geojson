@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7235 Stride Ave, Burnaby, BC V3N 1V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5b755969fc94b648324e6b2a550146e|BN20130431|7.7.0.0|",
+				"addressLine": "7235 Stride Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7235 Stride Ave, Burnaby, BC V3N 1V1, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Stride Avenue",
+				"postalCode": "V3N 1V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.94922,
+					49.21497
+				]
+			},
+			"bbox": [
+				-122.9509409,
+				49.2138458,
+				-122.9474991,
+				49.2160942
+			]
+		}
+	]
+}

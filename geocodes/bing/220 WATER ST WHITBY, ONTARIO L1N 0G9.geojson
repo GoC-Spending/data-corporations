@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "220 Water St, Whitby, ON L1N 0G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10fffd6f2db9450982dd91300ce170fb|BN20280152|7.7.0.0|",
+				"addressLine": "220 Water St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "220 Water St, Whitby, ON L1N 0G9, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 0G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9288021,
+					43.853702
+				]
+			},
+			"bbox": [
+				-78.9303611,
+				43.8525778,
+				-78.9272432,
+				43.8548261
+			]
+		}
+	]
+}

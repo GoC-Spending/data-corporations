@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11805 149 St NW, Edmonton, AB T5L 2J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9783eda5c4c34eb689489ea016136946|BN20121763|7.7.0.0|",
+				"addressLine": "11805 149 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11805 149 St NW, Edmonton, AB T5L 2J1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Dominion Industrial",
+				"postalCode": "T5L 2J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57751,
+					53.57139
+				]
+			},
+			"bbox": [
+				-113.5794031,
+				53.5702658,
+				-113.5756169,
+				53.5725142
+			]
+		}
+	]
+}

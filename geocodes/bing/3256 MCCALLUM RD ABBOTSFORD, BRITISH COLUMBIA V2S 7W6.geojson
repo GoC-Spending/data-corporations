@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3256 McCallum Rd, Abbotsford, BC V2S 7W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c4f523e3ae2147309ebe1830b4ed487f|BN20130442|7.7.0.0|",
+				"addressLine": "3256 McCallum Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3256 McCallum Rd, Abbotsford, BC V2S 7W6, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Lower Ten Oaks",
+				"postalCode": "V2S 7W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.29207,
+					49.06118
+				]
+			},
+			"bbox": [
+				-122.2937856,
+				49.0600558,
+				-122.2903544,
+				49.0623042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "468 Pleasant Park Rd, Ottawa, ON K1H 5N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df10ab7961c5416b9604caafcb34a190|BN20130533|7.7.0.0|",
+				"addressLine": "468 Pleasant Park Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "468 Pleasant Park Rd, Ottawa, ON K1H 5N1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Billings Bridge-Alta Vista",
+				"postalCode": "K1H 5N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.65198,
+					45.39343
+				]
+			},
+			"bbox": [
+				-75.6535808,
+				45.3923058,
+				-75.6503792,
+				45.3945542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Melanie Dr, Brampton, ON L6T 4K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b81c3d9c7db4f0780ea342b14df7ba5|BN20130721|7.7.0.0|",
+				"addressLine": "15 Melanie Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Melanie Dr, Brampton, ON L6T 4K8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68116,
+					43.70941
+				]
+			},
+			"bbox": [
+				-79.6827152,
+				43.7082858,
+				-79.6796048,
+				43.7105342
+			]
+		}
+	]
+}

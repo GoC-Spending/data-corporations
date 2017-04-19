@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45 Royal Henley Blvd, St Catharines, ON L2N 4S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "84405e8656e54b7ca7aa545c0642b9d6|BN20250135|7.7.0.0|",
+				"addressLine": "45 Royal Henley Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "45 Royal Henley Blvd, St Catharines, ON L2N 4S3, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Lakeport",
+				"postalCode": "L2N 4S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2681,
+					43.19044
+				]
+			},
+			"bbox": [
+				-79.2696419,
+				43.1893158,
+				-79.2665581,
+				43.1915642
+			]
+		}
+	]
+}

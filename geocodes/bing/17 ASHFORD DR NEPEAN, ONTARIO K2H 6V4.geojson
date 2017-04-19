@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Ashford Dr, Nepean, ON K2H 6V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "671f5add2db0434d84cf2a009423d4f3|BN20171457|7.7.0.0|",
+				"addressLine": "17 Ashford Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Ashford Dr, Nepean, ON K2H 6V4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2H 6V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.82002,
+					45.31684
+				]
+			},
+			"bbox": [
+				-75.8216187,
+				45.3157158,
+				-75.8184213,
+				45.3179642
+			]
+		}
+	]
+}

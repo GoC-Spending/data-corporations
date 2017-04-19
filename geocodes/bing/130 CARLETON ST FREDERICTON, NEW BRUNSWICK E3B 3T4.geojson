@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Carleton St, Fredericton, NB E3B 3T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af747aa83067460a9bc6d2e667adea94|BN20130521|7.7.0.0|",
+				"addressLine": "130 Carleton St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Carleton St, Fredericton, NB E3B 3T4, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 3T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.64203,
+					45.96054
+				]
+			},
+			"bbox": [
+				-66.6436471,
+				45.9594158,
+				-66.6404129,
+				45.9616642
+			]
+		}
+	]
+}

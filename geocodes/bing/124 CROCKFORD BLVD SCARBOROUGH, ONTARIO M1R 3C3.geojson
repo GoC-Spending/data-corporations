@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "124 Crockford Blvd, Scarborough, ON M1R 3C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5378557bc9d942339b602e7e820a1f96|BN20280152|7.7.0.0|",
+				"addressLine": "124 Crockford Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "124 Crockford Blvd, Scarborough, ON M1R 3C3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1R 3C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.29107,
+					43.74506
+				]
+			},
+			"bbox": [
+				-79.2926261,
+				43.7439358,
+				-79.2895139,
+				43.7461842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Hugh St, Milton, ON L9T 2C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8d8f4d8fbc34ff187f91b1e21b71549|BN20190642|7.7.0.0|",
+				"addressLine": "16 Hugh St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Hugh St, Milton, ON L9T 2C6, Canada",
+				"locality": "Milton",
+				"postalCode": "L9T 2C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8831812,
+					43.5112246
+				]
+			},
+			"bbox": [
+				-79.8847313,
+				43.5101005,
+				-79.8816312,
+				43.5123488
+			]
+		}
+	]
+}

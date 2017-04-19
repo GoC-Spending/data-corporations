@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "861 Finch Ave, Pickering, ON L1V 1J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d6968cb90ea483487a9c28b7444dd08|BN20181720|7.7.0.0|",
+				"addressLine": "861 Finch Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "861 Finch Ave, Pickering, ON L1V 1J4, Canada",
+				"locality": "Pickering",
+				"postalCode": "L1V 1J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1159799,
+					43.84068
+				]
+			},
+			"bbox": [
+				-79.1175385,
+				43.8395558,
+				-79.1144213,
+				43.8418042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "121 Ruby St, Winnipeg, MB R3G 2E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68fd0814545d416fbc1c1e533d256bb0|BN20200239|7.7.0.0|",
+				"addressLine": "121 Ruby St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "121 Ruby St, Winnipeg, MB R3G 2E1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Wolseley",
+				"postalCode": "R3G 2E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17252,
+					49.88101
+				]
+			},
+			"bbox": [
+				-97.1742646,
+				49.8798858,
+				-97.1707754,
+				49.8821342
+			]
+		}
+	]
+}

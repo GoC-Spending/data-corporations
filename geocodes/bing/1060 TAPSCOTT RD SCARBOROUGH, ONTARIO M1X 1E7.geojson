@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1060 Tapscott Rd, Scarborough, ON M1X 1E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07b3e7fcaa34464fa51e177cafef5995|BN20190653|7.7.0.0|",
+				"addressLine": "1060 Tapscott Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1060 Tapscott Rd, Scarborough, ON M1X 1E7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rouge",
+				"postalCode": "M1X 1E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2441,
+					43.82629
+				]
+			},
+			"bbox": [
+				-79.2456582,
+				43.8251658,
+				-79.2425418,
+				43.8274142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "552 Reed Rd, Gibsons, BC V0N 1V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abb95a6bd2fd434ea6de83e1df0944a1|BN20200137|7.7.0.0|",
+				"addressLine": "552 Reed Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "552 Reed Rd, Gibsons, BC V0N 1V1, Canada",
+				"locality": "Sunshine Coast",
+				"neighborhood": "Gibsons",
+				"postalCode": "V0N 1V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.50054,
+					49.41475
+				]
+			},
+			"bbox": [
+				-123.5022679,
+				49.4136258,
+				-123.4988121,
+				49.4158742
+			]
+		}
+	]
+}

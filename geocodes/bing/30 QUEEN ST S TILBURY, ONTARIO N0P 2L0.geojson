@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Queen St S, Chatham-Kent, ON N0P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d61c2608025047d2b0c1c22c034dc302|BN20130520|7.7.0.0|",
+				"addressLine": "30 Queen St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Queen St S, Chatham-Kent, ON N0P, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Tilbury",
+				"postalCode": "N0P 2L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.43183,
+					42.25785
+				]
+			},
+			"bbox": [
+				-82.4333489,
+				42.2567258,
+				-82.4303111,
+				42.2589742
+			]
+		}
+	]
+}

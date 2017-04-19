@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4290 Osler St, Vancouver, BC V6H 2X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e58f5218c5284ee5bb364f2dfa46f7f2|BN20171457|7.7.0.0|",
+				"addressLine": "4290 Osler St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4290 Osler St, Vancouver, BC V6H 2X5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Shaughnessy",
+				"postalCode": "V6H 2X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12952,
+					49.24742
+				]
+			},
+			"bbox": [
+				-123.1312421,
+				49.2462958,
+				-123.1277979,
+				49.2485442
+			]
+		}
+	]
+}

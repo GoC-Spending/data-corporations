@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "231 Montrose Ave, Toronto, ON M6G 3G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "efbaee04e7104ba08678c19321fe0415|BN20160335|7.7.0.0|",
+				"addressLine": "231 Montrose Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "231 Montrose Ave, Toronto, ON M6G 3G6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6G 3G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41852,
+					43.65657
+				]
+			},
+			"bbox": [
+				-79.4200738,
+				43.6554458,
+				-79.4169662,
+				43.6576942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Kenilworth Ave N, Hamilton, ON L8H 4R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ad3917e2ed734e04891c0ad0530d94bb|BN20240423|7.7.0.0|",
+				"addressLine": "50 Kenilworth Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Kenilworth Ave N, Hamilton, ON L8H 4R3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Homeside",
+				"postalCode": "L8H 4R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80909,
+					43.2416399
+				]
+			},
+			"bbox": [
+				-79.8106332,
+				43.2405157,
+				-79.8075468,
+				43.2427641
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3600 Bainbridge Ave, Burnaby, BC V5A 2T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "090b7d6de684416bbca1832bfa11478c|BN20171457|7.7.0.0|",
+				"addressLine": "3600 Bainbridge Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3600 Bainbridge Ave, Burnaby, BC V5A 2T4, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Government Road",
+				"postalCode": "V5A 2T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9558193,
+					49.2521159
+				]
+			},
+			"bbox": [
+				-122.9575415,
+				49.2509917,
+				-122.9540971,
+				49.25324
+			]
+		}
+	]
+}

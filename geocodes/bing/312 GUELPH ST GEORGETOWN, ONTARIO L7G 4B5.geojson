@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "312 Guelph St, Georgetown, ON L7G 4B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7cef8ad4e82f441a87e9d79ba02fc27a|BN20280152|7.7.0.0|",
+				"addressLine": "312 Guelph St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "312 Guelph St, Georgetown, ON L7G 4B5, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89368,
+					43.6496151
+				]
+			},
+			"bbox": [
+				-79.8952336,
+				43.6484909,
+				-79.8921264,
+				43.6507393
+			]
+		}
+	]
+}

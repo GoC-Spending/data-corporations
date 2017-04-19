@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "447 Moxley Rd, Dundas, ON L9H 5E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f810fbb538d94cf7afa646f36f6181c7|BN20171457|7.7.0.0|",
+				"addressLine": "447 Moxley Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "447 Moxley Rd, Dundas, ON L9H 5E2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 5E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.99623,
+					43.29007
+				]
+			},
+			"bbox": [
+				-79.9977744,
+				43.2889458,
+				-79.9946856,
+				43.2911942
+			]
+		}
+	]
+}

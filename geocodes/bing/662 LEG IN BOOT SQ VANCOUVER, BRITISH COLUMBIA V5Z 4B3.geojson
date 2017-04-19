@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "662 Leg-in-Boot Sq, Vancouver, BC V5Z 4B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58ce000d179a40128cb50bb97424d9b9|BN20290118|7.7.0.0|",
+				"addressLine": "662 Leg-in-Boot Sq",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "662 Leg-in-Boot Sq, Vancouver, BC V5Z 4B3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V5Z 4B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1192476,
+					49.2674594
+				]
+			},
+			"bbox": [
+				-123.1209703,
+				49.2663352,
+				-123.1175248,
+				49.2685836
+			]
+		}
+	]
+}

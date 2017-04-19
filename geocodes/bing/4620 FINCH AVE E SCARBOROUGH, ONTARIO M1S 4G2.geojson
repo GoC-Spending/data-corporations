@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4620 Finch Ave E, Scarborough, ON M1S 4G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "220c8450518a46e5a4d98ce706dc6b18|BN20200137|7.7.0.0|",
+				"addressLine": "4620 Finch Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4620 Finch Ave E, Scarborough, ON M1S 4G2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt North",
+				"postalCode": "M1S 4G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27598,
+					43.80646
+				]
+			},
+			"bbox": [
+				-79.2775377,
+				43.8053358,
+				-79.2744223,
+				43.8075842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1125 Newmarket St, Ottawa, ON K1B 4N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30ffcef9db35419c8d639b2efa6d86ae|BN20130721|7.7.0.0|",
+				"addressLine": "1125 Newmarket St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1125 Newmarket St, Ottawa, ON K1B 4N4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1B 4N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6237676,
+					45.4096
+				]
+			},
+			"bbox": [
+				-75.6253688,
+				45.4084758,
+				-75.6221663,
+				45.4107241
+			]
+		}
+	]
+}

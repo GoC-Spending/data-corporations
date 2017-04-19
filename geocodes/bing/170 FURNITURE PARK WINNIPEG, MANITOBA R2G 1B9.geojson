@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 Furniture Park, Winnipeg, MB R2G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2141458debe545c3ac0df6482a312d8b|BN20121764|7.7.0.0|",
+				"addressLine": "170 Furniture Park",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 Furniture Park, Winnipeg, MB R2G, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "McLeod Industrial",
+				"postalCode": "R2G 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.06126,
+					49.92825
+				]
+			},
+			"bbox": [
+				-97.0630063,
+				49.9271258,
+				-97.0595137,
+				49.9293742
+			]
+		}
+	]
+}

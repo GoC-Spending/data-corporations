@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1890 Rue Southampton, Ottawa, ON K2C 0W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6db0c419194244528cef04b6411a1fe7|BN20250135|7.7.0.0|",
+				"addressLine": "1890 Rue Southampton",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1890 Rue Southampton, Ottawa, ON K2C 0W3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Braemar Park-Bel Air Heights",
+				"postalCode": "K2C 0W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7555299,
+					45.36824
+				]
+			},
+			"bbox": [
+				-75.75713,
+				45.3671158,
+				-75.7539298,
+				45.3693642
+			]
+		}
+	]
+}

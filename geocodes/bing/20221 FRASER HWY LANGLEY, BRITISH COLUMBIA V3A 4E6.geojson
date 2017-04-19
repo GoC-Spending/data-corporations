@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20221 Fraser Hwy, Langley, BC V3A 4E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2fe4e4adf604fe0962d974c4f722ba4|BN20200239|7.7.0.0|",
+				"addressLine": "20221 Fraser Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "20221 Fraser Hwy, Langley, BC V3A 4E7, Canada",
+				"locality": "Langley",
+				"neighborhood": "Nicomeki",
+				"postalCode": "V3A 4E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6627643,
+					49.1063537
+				]
+			},
+			"bbox": [
+				-122.6644814,
+				49.1052296,
+				-122.6610471,
+				49.1074779
+			]
+		}
+	]
+}

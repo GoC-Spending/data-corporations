@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "664 Beddis Rd, Saltspring Island, BC V8K 2E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f649d865fde44e99a087a6d72d154be|BN20181720|7.7.0.0|",
+				"addressLine": "664 Beddis Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "664 Beddis Rd, Saltspring Island, BC V8K 2E5, Canada",
+				"locality": "Capital",
+				"neighborhood": "Saltspring Island",
+				"postalCode": "V8K 2E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4683393,
+					48.8287253
+				]
+			},
+			"bbox": [
+				-123.4700469,
+				48.8276012,
+				-123.4666317,
+				48.8298495
+			]
+		}
+	]
+}

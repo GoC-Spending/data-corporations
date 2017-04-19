@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "76 Biggar Ave, Hamilton, ON L8L 3Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15912c3c50a84b36a75239e949287df5|BN20300154|7.7.0.0|",
+				"addressLine": "76 Biggar Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "76 Biggar Ave, Hamilton, ON L8L 3Z4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector C",
+				"postalCode": "L8L 3Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83063,
+					43.25952
+				]
+			},
+			"bbox": [
+				-79.8321736,
+				43.2583958,
+				-79.8290864,
+				43.2606442
+			]
+		}
+	]
+}

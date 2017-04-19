@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Court St, Edmundston, NB E3V 1S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe002f3e045f4347a602b4cacefebe69|BN20121762|7.7.0.0|",
+				"addressLine": "36 Court St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Madawaska",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Court St, Edmundston, NB E3V 1S3, Canada",
+				"locality": "Edmundston",
+				"postalCode": "E3V 1S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-68.32742,
+					47.36396
+				]
+			},
+			"bbox": [
+				-68.3290797,
+				47.3628358,
+				-68.3257603,
+				47.3650842
+			]
+		}
+	]
+}

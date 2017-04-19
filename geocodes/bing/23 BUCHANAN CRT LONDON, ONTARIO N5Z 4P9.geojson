@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Buchanan Ct, London, ON N5Z 4P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a71c826af5234e8a9e2e2ab1f03aad57|BN20130520|7.7.0.0|",
+				"addressLine": "23 Buchanan Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Buchanan Ct, London, ON N5Z 4P9, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N5Z 4P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1872,
+					42.936
+				]
+			},
+			"bbox": [
+				-81.1887355,
+				42.9348758,
+				-81.1856645,
+				42.9371242
+			]
+		}
+	]
+}

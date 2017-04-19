@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 Woolwich St S, Breslau, ON N0B 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6703fc6e4f3746c29a6cb8783dd77076|BN20320521|7.7.0.0|",
+				"addressLine": "350 Woolwich St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 Woolwich St S, Breslau, ON N0B 1M0, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Breslau",
+				"postalCode": "N0B 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4069583,
+					43.4654687
+				]
+			},
+			"bbox": [
+				-80.4085072,
+				43.4643446,
+				-80.4054095,
+				43.4665929
+			]
+		}
+	]
+}

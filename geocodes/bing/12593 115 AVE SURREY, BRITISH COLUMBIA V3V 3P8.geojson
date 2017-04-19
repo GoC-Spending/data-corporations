@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12593 115 Ave, Surrey, BC V3V 3P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "111a8c1b3a56424ba1e8dc64255bdb32|BN20300154|7.7.0.0|",
+				"addressLine": "12593 115 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12593 115 Ave, Surrey, BC V3V 3P8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 3P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87335,
+					49.21182
+				]
+			},
+			"bbox": [
+				-122.8750708,
+				49.2106958,
+				-122.8716292,
+				49.2129442
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "349 West St N, Orillia, ON L3V 5E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49381b2dbab14121badb6832aec315d5|BN20130423|7.7.0.0|",
+				"addressLine": "349 West St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "349 West St N, Orillia, ON L3V 5E1, Canada",
+				"locality": "Orillia",
+				"postalCode": "L3V 5E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.428518,
+					44.6187148
+				]
+			},
+			"bbox": [
+				-79.4300973,
+				44.6175906,
+				-79.4269387,
+				44.6198389
+			]
+		}
+	]
+}

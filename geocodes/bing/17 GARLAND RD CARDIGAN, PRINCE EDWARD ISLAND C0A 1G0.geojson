@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Garland Rd, Cardigan, PE C0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc43260ef137478a986a6332f60819a7|BN20210145|7.7.0.0|",
+				"addressLine": "17 Garland Rd",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Garland Rd, Cardigan, PE C0A, Canada",
+				"locality": "Kings",
+				"neighborhood": "Cardigan",
+				"postalCode": "C0A 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.63247,
+					46.25181
+				]
+			},
+			"bbox": [
+				-62.6340957,
+				46.2506858,
+				-62.6308443,
+				46.2529342
+			]
+		}
+	]
+}

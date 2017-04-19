@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "44 Bay Lake Rd, Perry, ON P0A 1J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c19a19f2c4174638badf93eea30e3449|BN20130620|7.7.0.0|",
+				"addressLine": "44 Bay Lake Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Parry Sound",
+				"countryRegion": "Canada",
+				"formattedAddress": "44 Bay Lake Rd, Perry, ON P0A 1J0, Canada",
+				"locality": "Perry",
+				"postalCode": "P0A 1J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2594529,
+					45.4959443
+				]
+			},
+			"bbox": [
+				-79.2610566,
+				45.4948201,
+				-79.2578491,
+				45.4970685
+			]
+		}
+	]
+}

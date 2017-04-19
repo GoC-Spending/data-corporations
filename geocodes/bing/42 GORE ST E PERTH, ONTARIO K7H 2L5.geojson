@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Gore St E, Perth, ON K7H 1H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e22be15850e4ef2992c09eefa1428b9|BN20130431|7.7.0.0|",
+				"addressLine": "42 Gore St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Gore St E, Perth, ON K7H 1H5, Canada",
+				"locality": "Perth",
+				"postalCode": "K7H 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.2500841,
+					44.9002228
+				]
+			},
+			"bbox": [
+				-76.2516711,
+				44.8990986,
+				-76.248497,
+				44.9013469
+			]
+		}
+	]
+}

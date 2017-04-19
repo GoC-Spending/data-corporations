@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15055 54A Ave, Surrey, BC V3S 5X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5436e70d5d894f8d9dbb52ea7950bcae|BN20130620|7.7.0.0|",
+				"addressLine": "15055 54A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "15055 54A Ave, Surrey, BC V3S 5X7, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3S 5X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8053821,
+					49.1018581
+				]
+			},
+			"bbox": [
+				-122.8070991,
+				49.1007339,
+				-122.8036651,
+				49.1029823
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Bronte Rd, Thornhill, ON L3T 7H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "723599fc271746abaf6df6d81623c55e|BN20121763|7.7.0.0|",
+				"addressLine": "11 Bronte Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Bronte Rd, Thornhill, ON L3T 7H6, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 7H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38041,
+					43.82483
+				]
+			},
+			"bbox": [
+				-79.3819682,
+				43.8237058,
+				-79.3788518,
+				43.8259542
+			]
+		}
+	]
+}

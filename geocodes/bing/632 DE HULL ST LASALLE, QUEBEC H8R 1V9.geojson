@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "632 Rue de Hull, La Salle, QC H8R 1V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "242bbe6fcc59400682a5768cbf352c87|BN20160335|7.7.0.0|",
+				"addressLine": "632 Rue de Hull",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "632 Rue de Hull, La Salle, QC H8R 1V9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8R 1V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.64236,
+					45.43593
+				]
+			},
+			"bbox": [
+				-73.643962,
+				45.4348058,
+				-73.640758,
+				45.4370542
+			]
+		}
+	]
+}

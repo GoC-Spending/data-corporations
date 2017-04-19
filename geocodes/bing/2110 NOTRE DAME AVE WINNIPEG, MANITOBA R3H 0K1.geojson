@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2110 Notre Dame Ave, Winnipeg, MB R3H 0K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d52f863328cf41f7bc5281c13a8df3d6|BN20130721|7.7.0.0|",
+				"addressLine": "2110 Notre Dame Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "2110 Notre Dame Ave, Winnipeg, MB R3H 0K1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.21279,
+					49.9158199
+				]
+			},
+			"bbox": [
+				-97.2145358,
+				49.9146957,
+				-97.2110442,
+				49.9169441
+			]
+		}
+	]
+}

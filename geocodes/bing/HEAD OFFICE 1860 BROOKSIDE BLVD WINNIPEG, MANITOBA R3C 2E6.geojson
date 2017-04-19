@@ -1,0 +1,44 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Brookside Blvd, Winnipeg, MB R2R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f8fc7dd2f419428b8bbe35562d50e83e|BN20220145|7.7.0.0|",
+				"addressLine": "Brookside Blvd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "Brookside Blvd, Winnipeg, MB R2R, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North Inkster Industrial",
+				"postalCode": "R2R"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2294299,
+					49.95333
+				]
+			},
+			"bbox": [
+				-97.22972,
+				49.94588,
+				-97.2294299,
+				49.96078
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Westwood Ave, Wolfville, NS B4P 2P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81763483a91a4f38b67077698a8a6023|BN20200239|7.7.0.0|",
+				"addressLine": "23 Westwood Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Westwood Ave, Wolfville, NS B4P 2P8, Canada",
+				"locality": "Wolfville",
+				"postalCode": "B4P 2P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.36906,
+					45.08867
+				]
+			},
+			"bbox": [
+				-64.3706523,
+				45.0875458,
+				-64.3674677,
+				45.0897942
+			]
+		}
+	]
+}

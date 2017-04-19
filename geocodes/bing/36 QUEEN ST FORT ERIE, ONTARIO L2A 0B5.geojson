@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "36 Queen St, Fort Erie, ON L2A 0B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b5aa48c47c1490682fa9cc5f3147e46|BN20320521|7.7.0.0|",
+				"addressLine": "36 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "36 Queen St, Fort Erie, ON L2A 0B5, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 0B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.91166,
+					42.9090599
+				]
+			},
+			"bbox": [
+				-78.9131948,
+				42.9079357,
+				-78.9101252,
+				42.9101841
+			]
+		}
+	]
+}

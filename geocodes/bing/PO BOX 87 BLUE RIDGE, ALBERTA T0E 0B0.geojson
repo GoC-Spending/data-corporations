@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Blue Ridge, Woodlands County, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3d12754a2234e2cbcef850ae67302c2|BN20200239|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Blue Ridge, Woodlands County, Alberta, Canada",
+				"locality": "Woodlands County",
+				"neighborhood": "Blue Ridge"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.393119812012,
+					54.1546096801758
+				]
+			},
+			"bbox": [
+				-115.401913885311,
+				54.1507469626051,
+				-115.384325738713,
+				54.1584723977465
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Blue Ridge, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3d12754a2234e2cbcef850ae67302c2|BN20200239|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Blue Ridge, Alberta, Canada",
+				"locality": "Blue Ridge"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.375267028809,
+					54.1285705566406
+				]
+			},
+			"bbox": [
+				-115.441141232081,
+				54.0996001736481,
+				-115.309392825536,
+				54.1575409396332
+			]
+		}
+	]
+}

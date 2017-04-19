@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "41 Byron Ave, Dorchester, ON N0L 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "45573d7fd97c414b9b81cc3a9331321d|BN20130631|7.7.0.0|",
+				"addressLine": "41 Byron Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "41 Byron Ave, Dorchester, ON N0L 1G2, Canada",
+				"locality": "Thames Centre",
+				"neighborhood": "Dorchester",
+				"postalCode": "N0L 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.0612699,
+					42.97948
+				]
+			},
+			"bbox": [
+				-81.0628065,
+				42.9783558,
+				-81.0597333,
+				42.9806042
+			]
+		}
+	]
+}

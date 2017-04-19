@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "203 Kitty Murray Ln, Ancaster, ON L9K 1H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7a8da82297541d29d643f30f89606e7|BN20300154|7.7.0.0|",
+				"addressLine": "203 Kitty Murray Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "203 Kitty Murray Ln, Ancaster, ON L9K 1H7, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9K 1H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.95587,
+					43.21878
+				]
+			},
+			"bbox": [
+				-79.9574126,
+				43.2176558,
+				-79.9543274,
+				43.2199042
+			]
+		}
+	]
+}

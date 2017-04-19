@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Main St, Morrisburg, ON K0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "00c831715b0c4506841587ca8c12bcf2|BN20190642|7.7.0.0|",
+				"addressLine": "91 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Main St, Morrisburg, ON K0C, Canada",
+				"locality": "South Dundas",
+				"neighborhood": "Morrisburg",
+				"postalCode": "K0C 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.18211,
+					44.90123
+				]
+			},
+			"bbox": [
+				-75.1836971,
+				44.9001058,
+				-75.1805229,
+				44.9023542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11009 Jasper Ave NW, Edmonton, AB T5K 0K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2da54c3716b84a259ce48d8aa3cf586d|BN20220145|7.7.0.0|",
+				"addressLine": "11009 Jasper Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11009 Jasper Ave NW, Edmonton, AB T5K 0K6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Oliver",
+				"postalCode": "T5K 0K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51103,
+					53.54072
+				]
+			},
+			"bbox": [
+				-113.5129217,
+				53.5395958,
+				-113.5091383,
+				53.5418442
+			]
+		}
+	]
+}

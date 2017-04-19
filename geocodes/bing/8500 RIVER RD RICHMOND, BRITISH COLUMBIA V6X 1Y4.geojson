@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8500 River Rd, Richmond, BC V6X 1Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e1c19f2fcb484e929e1b0f5b50c10f75|BN20190642|7.7.0.0|",
+				"addressLine": "8500 River Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8500 River Rd, Richmond, BC V6X 1Y4, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6X 1Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.13078,
+					49.19307
+				]
+			},
+			"bbox": [
+				-123.1325002,
+				49.1919458,
+				-123.1290598,
+				49.1941942
+			]
+		}
+	]
+}

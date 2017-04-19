@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4907 Manor St, Vancouver, BC V5R 3Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93a1f493fb744046b7e1ae48b6414ba5|BN20121764|7.7.0.0|",
+				"addressLine": "4907 Manor St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4907 Manor St, Vancouver, BC V5R 3Y1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5R 3Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.04092,
+					49.24067
+				]
+			},
+			"bbox": [
+				-123.0426418,
+				49.2395458,
+				-123.0391982,
+				49.2417942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "150 Consumers Rd, North York, ON M2J 1P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20ec2525543b4f6abfc46c31b9851df5|BN20130423|7.7.0.0|",
+				"addressLine": "150 Consumers Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "150 Consumers Rd, North York, ON M2J 1P9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Henry Farm",
+				"postalCode": "M2J 1P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33128,
+					43.77339
+				]
+			},
+			"bbox": [
+				-79.3328368,
+				43.7722658,
+				-79.3297232,
+				43.7745142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "657 Wilton Grove Rd, London, ON N6N 1N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "22af893693cd414dbcc6e68909c7cc2f|BN20130423|7.7.0.0|",
+				"addressLine": "657 Wilton Grove Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "657 Wilton Grove Rd, London, ON N6N 1N7, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6N 1N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2094008,
+					42.9217931
+				]
+			},
+			"bbox": [
+				-81.210936,
+				42.9206689,
+				-81.2078657,
+				42.9229172
+			]
+		}
+	]
+}

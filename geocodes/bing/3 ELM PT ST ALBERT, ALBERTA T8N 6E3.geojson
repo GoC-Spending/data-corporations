@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3 Elm Pt, St Albert, AB T8N 6E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "21f00c48c8cc4f2fbe8c356e5bf569c5|BN20181720|7.7.0.0|",
+				"addressLine": "3 Elm Pt",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3 Elm Pt, St Albert, AB T8N 6E3, Canada",
+				"locality": "St Albert",
+				"postalCode": "T8N 6E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.61521,
+					53.6531499
+				]
+			},
+			"bbox": [
+				-113.6171068,
+				53.6520257,
+				-113.6133132,
+				53.6542741
+			]
+		}
+	]
+}

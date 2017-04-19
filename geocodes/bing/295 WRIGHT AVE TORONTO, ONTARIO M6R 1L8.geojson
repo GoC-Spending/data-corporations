@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "295 Wright Ave, Toronto, ON M6R 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7cadab07f8774849b92118e6af8ab6fa|BN20130532|7.7.0.0|",
+				"addressLine": "295 Wright Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "295 Wright Ave, Toronto, ON M6R 1L8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6R 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4547599,
+					43.64405
+				]
+			},
+			"bbox": [
+				-79.4563134,
+				43.6429258,
+				-79.4532064,
+				43.6451742
+			]
+		}
+	]
+}

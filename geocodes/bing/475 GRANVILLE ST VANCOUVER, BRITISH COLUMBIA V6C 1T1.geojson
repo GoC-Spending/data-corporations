@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "475 Granville St, Vancouver, BC V6C 1T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ffcde1c8e00f4358aaeb58ee8a76079f|BN20160335|7.7.0.0|",
+				"addressLine": "475 Granville St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "475 Granville St, Vancouver, BC V6C 1T1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6C 1T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1146905,
+					49.2849291
+				]
+			},
+			"bbox": [
+				-123.1164139,
+				49.283805,
+				-123.1129671,
+				49.2860533
+			]
+		}
+	]
+}

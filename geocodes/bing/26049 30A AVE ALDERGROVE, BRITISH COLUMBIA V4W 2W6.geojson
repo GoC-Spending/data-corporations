@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26049 30A Ave, Aldergrove, BC V4W 2W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f93e560d5a04fb19b3b738d61778435|BN20300154|7.7.0.0|",
+				"addressLine": "26049 30A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "26049 30A Ave, Aldergrove, BC V4W 2W6, Canada",
+				"locality": "Langley",
+				"neighborhood": "Aldergrove",
+				"postalCode": "V4W 2W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.5026892,
+					49.057826
+				]
+			},
+			"bbox": [
+				-122.5044047,
+				49.0567019,
+				-122.5009737,
+				49.0589502
+			]
+		}
+	]
+}

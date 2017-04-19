@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "569 W Windsor Rd, North Vancouver, BC V7N 2N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "043c80d7136741fc829dbc24ff538848|BN20130520|7.7.0.0|",
+				"addressLine": "569 W Windsor Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "569 W Windsor Rd, North Vancouver, BC V7N 2N7, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norwood Queens",
+				"postalCode": "V7N 2N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08411,
+					49.3381
+				]
+			},
+			"bbox": [
+				-123.0858352,
+				49.3369758,
+				-123.0823848,
+				49.3392242
+			]
+		}
+	]
+}

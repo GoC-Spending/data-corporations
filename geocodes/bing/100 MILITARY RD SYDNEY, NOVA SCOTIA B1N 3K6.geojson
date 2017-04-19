@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Military Rd, Cape Breton, NS B1N 3K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e9aac35203f445cb203dfae3bf33a1c|BN20320521|7.7.0.0|",
+				"addressLine": "100 Military Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Military Rd, Cape Breton, NS B1N 3K6, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Lingan Road",
+				"postalCode": "B1N 3K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.16717,
+					46.16776
+				]
+			},
+			"bbox": [
+				-60.1687932,
+				46.1666358,
+				-60.1655468,
+				46.1688842
+			]
+		}
+	]
+}

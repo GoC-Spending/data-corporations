@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "596 McKay St, Kingston, ON K7M 5V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "07c36e85d60140cfb0ab32bb16528caf|BN20130621|7.7.0.0|",
+				"addressLine": "596 McKay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Frontenac",
+				"countryRegion": "Canada",
+				"formattedAddress": "596 McKay St, Kingston, ON K7M 5V9, Canada",
+				"locality": "Kingston",
+				"neighborhood": "Gardiners",
+				"postalCode": "K7M 5V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.57658,
+					44.24233
+				]
+			},
+			"bbox": [
+				-76.5781492,
+				44.2412058,
+				-76.5750108,
+				44.2434542
+			]
+		}
+	]
+}

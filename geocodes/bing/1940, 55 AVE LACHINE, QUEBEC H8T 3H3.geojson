@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1940 55e Avenue, Lachine, QC H8T 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "edef2f27d05742a6b5c13e9f870d1d4d|BN20240423|7.7.0.0|",
+				"addressLine": "1940 55e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1940 55e Avenue, Lachine, QC H8T 3H3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72235,
+					45.45685
+				]
+			},
+			"bbox": [
+				-73.7239526,
+				45.4557258,
+				-73.7207474,
+				45.4579742
+			]
+		}
+	]
+}

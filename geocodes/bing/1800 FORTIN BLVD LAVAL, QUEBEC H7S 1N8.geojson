@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1800 Boulevard Fortin, Laval, QC H7S 1N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "16ef81d2eacc408f92d3346b64ab39cf|BN20300154|7.7.0.0|",
+				"addressLine": "1800 Boulevard Fortin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1800 Boulevard Fortin, Laval, QC H7S 1N8, Canada",
+				"locality": "Laval",
+				"postalCode": "H7S 1N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7208799,
+					45.57433
+				]
+			},
+			"bbox": [
+				-73.7224859,
+				45.5732058,
+				-73.7192739,
+				45.5754542
+			]
+		}
+	]
+}

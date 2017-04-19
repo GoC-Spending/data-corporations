@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "83 James Ave, Yorkton, SK S3N 2C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b6149d62da54343961d818734d75823|BN20130632|7.7.0.0|",
+				"addressLine": "83 James Ave",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "83 James Ave, Yorkton, SK S3N 2C3, Canada",
+				"locality": "Yorkton",
+				"postalCode": "S3N 2C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.47592,
+					51.2068299
+				]
+			},
+			"bbox": [
+				-102.4777143,
+				51.2057057,
+				-102.4741257,
+				51.2079541
+			]
+		}
+	]
+}

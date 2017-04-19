@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Glenridge Ave, St Catharines, ON L2T, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "37c6a4561f0c4c56acd53e200a721e35|BN20210145|7.7.0.0|",
+				"addressLine": "500 Glenridge Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Glenridge Ave, St Catharines, ON L2T, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Glenridge",
+				"postalCode": "L2T"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24368,
+					43.12132
+				]
+			},
+			"bbox": [
+				-79.2452201,
+				43.1201958,
+				-79.2421399,
+				43.1224442
+			]
+		}
+	]
+}

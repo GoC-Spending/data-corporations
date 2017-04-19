@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Churchill St, Waterloo, ON N2L 2X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8c9a95ef64046b8a51c11077dd8e378|BN20121763|7.7.0.0|",
+				"addressLine": "10 Churchill St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Churchill St, Waterloo, ON N2L 2X2, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 2X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5519,
+					43.4540099
+				]
+			},
+			"bbox": [
+				-80.5534486,
+				43.4528857,
+				-80.5503514,
+				43.4551341
+			]
+		}
+	]
+}

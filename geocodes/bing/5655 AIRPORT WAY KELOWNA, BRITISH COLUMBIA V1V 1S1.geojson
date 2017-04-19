@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5655 Airport Way, Kelowna, BC V1V 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c076a197eed45f0bca4b3805e36caa5|BN20190642|7.7.0.0|",
+				"addressLine": "5655 Airport Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "5655 Airport Way, Kelowna, BC V1V 1S1, Canada",
+				"locality": "Kelowna",
+				"postalCode": "V1V 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.3819386,
+					49.9536741
+				]
+			},
+			"bbox": [
+				-119.3836858,
+				49.9525499,
+				-119.3801914,
+				49.9547982
+			]
+		}
+	]
+}

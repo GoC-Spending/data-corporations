@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11291 Bridgeport Rd, Richmond, BC V6X 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a8d3933ad22f45f5984ff9ec0b29aaf3|BN20130631|7.7.0.0|",
+				"addressLine": "11291 Bridgeport Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "11291 Bridgeport Rd, Richmond, BC V6X 1T4, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6X 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09867,
+					49.19227
+				]
+			},
+			"bbox": [
+				-123.1003901,
+				49.1911458,
+				-123.0969499,
+				49.1933942
+			]
+		}
+	]
+}

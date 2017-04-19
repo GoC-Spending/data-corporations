@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "580 Walker Ave, Winnipeg, MB R3L 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d1474af5eb64cc699ac5e4a949e6817|BN20240423|7.7.0.0|",
+				"addressLine": "580 Walker Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "580 Walker Ave, Winnipeg, MB R3L 1C4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Lord Roberts",
+				"postalCode": "R3L 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.13786,
+					49.86079
+				]
+			},
+			"bbox": [
+				-97.1396038,
+				49.8596658,
+				-97.1361162,
+				49.8619142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33655 Harris Rd, Abbotsford, BC V4X 1T5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7b826f6c5364d7e9ba57ded10e6431b|BN20130631|7.7.0.0|",
+				"addressLine": "33655 Harris Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "33655 Harris Rd, Abbotsford, BC V4X 1T5, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Matsqui Prarie",
+				"postalCode": "V4X 1T5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.29279,
+					49.10402
+				]
+			},
+			"bbox": [
+				-122.2945071,
+				49.1028958,
+				-122.2910729,
+				49.1051442
+			]
+		}
+	]
+}

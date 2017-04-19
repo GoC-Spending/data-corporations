@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4825 Cannon Cres, Pender Island, BC V0N 2M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0698658797e54b5da12e1d22c734a773|BN20130447|7.7.0.0|",
+				"addressLine": "4825 Cannon Cres",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "4825 Cannon Cres, Pender Island, BC V0N 2M2, Canada",
+				"locality": "Capital",
+				"neighborhood": "Pender Island",
+				"postalCode": "V0N 2M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.2825573,
+					48.7574536
+				]
+			},
+			"bbox": [
+				-123.2842625,
+				48.7563294,
+				-123.2808521,
+				48.7585777
+			]
+		}
+	]
+}

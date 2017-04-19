@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1015 Parker Mountain Rd, Granville Ferry, NS B0S 1K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18a7639f1a054227830caf07092e1f40|BN20130521|7.7.0.0|",
+				"addressLine": "1015 Parker Mountain Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Annapolis",
+				"countryRegion": "Canada",
+				"formattedAddress": "1015 Parker Mountain Rd, Granville Ferry, NS B0S 1K0, Canada",
+				"locality": "Annapolis",
+				"neighborhood": "Granville Ferry",
+				"postalCode": "B0S 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.52592,
+					44.8032899
+				]
+			},
+			"bbox": [
+				-65.5275044,
+				44.8021657,
+				-65.5243356,
+				44.8044141
+			]
+		}
+	]
+}

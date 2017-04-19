@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9225 Rue du Parcours, Anjou, QC H1J 3A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "480c55eab67c41618b8ea570fee11072|BN20210145|7.7.0.0|",
+				"addressLine": "9225 Rue du Parcours",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "9225 Rue du Parcours, Anjou, QC H1J 3A8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 3A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.56527,
+					45.62355
+				]
+			},
+			"bbox": [
+				-73.5668774,
+				45.6224258,
+				-73.5636626,
+				45.6246742
+			]
+		}
+	]
+}

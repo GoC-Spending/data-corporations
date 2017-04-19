@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "324 36 Ave NE, Calgary, AB T2E 2L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "203769e3a11e4f00ac2d647095ccb19d|BN20290118|7.7.0.0|",
+				"addressLine": "324 36 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "324 36 Ave NE, Calgary, AB T2E 2L5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Highland Park",
+				"postalCode": "T2E 2L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05481,
+					51.08514
+				]
+			},
+			"bbox": [
+				-114.0565996,
+				51.0840158,
+				-114.0530204,
+				51.0862642
+			]
+		}
+	]
+}

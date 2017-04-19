@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Danforth Rd E, Cobourg, ON K9A 4J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cdbe9839b6644029b754f84ea24546b1|BN20130521|7.7.0.0|",
+				"addressLine": "Danforth Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "Danforth Rd E, Cobourg, ON K9A 4J9, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 4J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.15829,
+					43.99192
+				]
+			},
+			"bbox": [
+				-78.16385,
+				43.98989,
+				-78.13606,
+				43.99196
+			]
+		}
+	]
+}

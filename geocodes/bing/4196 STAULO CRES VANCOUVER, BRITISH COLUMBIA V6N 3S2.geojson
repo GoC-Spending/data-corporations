@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4196 Staulo Cres, Vancouver, BC V6N 3S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "06b2c37d356e45cfbef0e88b885a3f29|BN20250135|7.7.0.0|",
+				"addressLine": "4196 Staulo Cres",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4196 Staulo Cres, Vancouver, BC V6N 3S2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Dunbar-Southlands",
+				"postalCode": "V6N 3S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.20043,
+					49.22744
+				]
+			},
+			"bbox": [
+				-123.2021514,
+				49.2263158,
+				-123.1987086,
+				49.2285642
+			]
+		}
+	]
+}

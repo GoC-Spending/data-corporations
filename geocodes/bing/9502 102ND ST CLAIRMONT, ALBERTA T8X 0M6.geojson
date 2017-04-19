@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "102 St, Clairmont, AB T0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3bebe1f15704614b9b2d6bb0e6490e5|BN20130442|7.7.0.0|",
+				"addressLine": "102 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 St, Clairmont, AB T0H, Canada",
+				"locality": "Grande Prairie County No 1",
+				"neighborhood": "Clairmont",
+				"postalCode": "T0H"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.80003,
+					55.24172
+				]
+			},
+			"bbox": [
+				-118.80244,
+				55.23131,
+				-118.79993,
+				55.25342
+			]
+		}
+	]
+}

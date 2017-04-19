@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Brigden Gate, Georgetown, ON L7G 0A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c32830d1c3344ebb62afe32e4aea6a3|BN20130634|7.7.0.0|",
+				"addressLine": "5 Brigden Gate",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Brigden Gate, Georgetown, ON L7G 0A3, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 0A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8652165,
+					43.5505432
+				]
+			},
+			"bbox": [
+				-79.8667675,
+				43.549419,
+				-79.8636654,
+				43.5516673
+			]
+		}
+	]
+}

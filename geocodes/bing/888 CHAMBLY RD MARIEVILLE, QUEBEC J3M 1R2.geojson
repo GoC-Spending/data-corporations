@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "888 Rue Chambly, Marieville, QC J3M 1R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24e5c9376acd434c97b0bf6f5f389c74|BN20220145|7.7.0.0|",
+				"addressLine": "888 Rue Chambly",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Rouville",
+				"countryRegion": "Canada",
+				"formattedAddress": "888 Rue Chambly, Marieville, QC J3M 1R2, Canada",
+				"locality": "Marieville",
+				"postalCode": "J3M 1R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.16836,
+					45.43273
+				]
+			},
+			"bbox": [
+				-73.1699619,
+				45.4316058,
+				-73.1667581,
+				45.4338542
+			]
+		}
+	]
+}

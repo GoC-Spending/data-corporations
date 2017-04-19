@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "363 Eugenie St E, Windsor, ON N8X 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60253ca6a2664dbfa730d6f59195d28c|BN20130625|7.7.0.0|",
+				"addressLine": "363 Eugenie St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "363 Eugenie St E, Windsor, ON N8X 2Y2, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Remmington Park",
+				"postalCode": "N8X 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.01319,
+					42.28767
+				]
+			},
+			"bbox": [
+				-83.0147096,
+				42.2865458,
+				-83.0116704,
+				42.2887942
+			]
+		}
+	]
+}

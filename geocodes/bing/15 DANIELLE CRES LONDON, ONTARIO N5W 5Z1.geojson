@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Danielle Cres, London, ON N5W 5Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cccae526248f4deb925fda3a69fd94ba|BN20200137|7.7.0.0|",
+				"addressLine": "15 Danielle Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Danielle Cres, London, ON N5W 5Z1, Canada",
+				"locality": "London",
+				"neighborhood": "Hamilton Road",
+				"postalCode": "N5W 5Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1677,
+					42.9736
+				]
+			},
+			"bbox": [
+				-81.1692364,
+				42.9724758,
+				-81.1661636,
+				42.9747242
+			]
+		}
+	]
+}

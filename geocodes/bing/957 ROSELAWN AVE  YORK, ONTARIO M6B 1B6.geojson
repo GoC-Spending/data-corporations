@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "957 Roselawn Ave, York, ON M6B 1B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "86edc6b87e884e96b0d136c766455b22|BN20130634|7.7.0.0|",
+				"addressLine": "957 Roselawn Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "957 Roselawn Ave, York, ON M6B 1B6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Briar Hill-Belgravia",
+				"postalCode": "M6B 1B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44417,
+					43.7013
+				]
+			},
+			"bbox": [
+				-79.4457249,
+				43.7001758,
+				-79.4426151,
+				43.7024242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1637 Erie St E, Windsor, ON N8Y 1K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e44f4b29aae948b48352694505e6cb7e|BN20130631|7.7.0.0|",
+				"addressLine": "1637 Erie St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1637 Erie St E, Windsor, ON N8Y 1K7, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Walkerville",
+				"postalCode": "N8Y 1K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.0122204,
+					42.3163543
+				]
+			},
+			"bbox": [
+				-83.0137407,
+				42.3152302,
+				-83.0107001,
+				42.3174785
+			]
+		}
+	]
+}

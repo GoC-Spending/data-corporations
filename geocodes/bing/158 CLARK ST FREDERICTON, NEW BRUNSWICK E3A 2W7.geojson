@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "158 Clark St, Fredericton, NB E3A 2W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "36d29e838f1f490791bcdb5d5fa91baf|BN20121763|7.7.0.0|",
+				"addressLine": "158 Clark St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "158 Clark St, Fredericton, NB E3A 2W7, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3A 2W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.6278899,
+					45.96945
+				]
+			},
+			"bbox": [
+				-66.6295073,
+				45.9683258,
+				-66.6262725,
+				45.9705742
+			]
+		}
+	]
+}

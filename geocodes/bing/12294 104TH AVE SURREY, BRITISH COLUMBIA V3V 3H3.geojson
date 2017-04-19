@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12294 104 Ave, Surrey, BC V3V 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ccf01650148498e96d32979aa3801d4|BN20130431|7.7.0.0|",
+				"addressLine": "12294 104 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12294 104 Ave, Surrey, BC V3V 3H3, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Whalley",
+				"postalCode": "V3V 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.88115,
+					49.1917776
+				]
+			},
+			"bbox": [
+				-122.8828701,
+				49.1906535,
+				-122.8794299,
+				49.1929018
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3520 Glenora Rd, Duncan, BC V9L 6S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fba014d6da904bb0b5a43605a5c3d130|BN20131519|7.7.0.0|",
+				"addressLine": "3520 Glenora Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "3520 Glenora Rd, Duncan, BC V9L 6S2, Canada",
+				"locality": "Cowichan Valley",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.7398378,
+					48.7557344
+				]
+			},
+			"bbox": [
+				-123.741543,
+				48.7546103,
+				-123.7381327,
+				48.7568586
+			]
+		}
+	]
+}

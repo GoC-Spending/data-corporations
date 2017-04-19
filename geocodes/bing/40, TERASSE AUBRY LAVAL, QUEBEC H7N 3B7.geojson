@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Terrasse Aubry, Laval, QC H7N 3B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "666a20db46054624a80634db5d40f50f|BN20130522|7.7.0.0|",
+				"addressLine": "40 Terrasse Aubry",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Terrasse Aubry, Laval, QC H7N 3B7, Canada",
+				"locality": "Laval",
+				"postalCode": "H7N 3B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.71113,
+					45.5431
+				]
+			},
+			"bbox": [
+				-73.7127351,
+				45.5419758,
+				-73.7095249,
+				45.5442242
+			]
+		}
+	]
+}

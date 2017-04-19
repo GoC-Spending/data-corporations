@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "701 Rossland Rd E, Whitby, ON L1N 9K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b4ed9ecf31aa4e26815c62aad76f8f0c|BN20130634|7.7.0.0|",
+				"addressLine": "701 Rossland Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "701 Rossland Rd E, Whitby, ON L1N 9K3, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 9K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9398797,
+					43.8996769
+				]
+			},
+			"bbox": [
+				-78.9414398,
+				43.8985527,
+				-78.9383196,
+				43.900801
+			]
+		}
+	]
+}

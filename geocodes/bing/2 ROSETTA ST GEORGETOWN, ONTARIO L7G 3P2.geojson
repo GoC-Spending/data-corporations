@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Rosetta St, Georgetown, ON L7G 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08814aa9fbe74ac08dc2fcf91ecdd6b1|BN20121764|7.7.0.0|",
+				"addressLine": "2 Rosetta St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Rosetta St, Georgetown, ON L7G 3P2, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.91626,
+					43.65675
+				]
+			},
+			"bbox": [
+				-79.9178138,
+				43.6556258,
+				-79.9147062,
+				43.6578742
+			]
+		}
+	]
+}

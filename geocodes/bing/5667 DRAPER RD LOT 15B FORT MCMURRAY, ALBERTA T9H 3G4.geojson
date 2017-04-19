@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5667 Draper Rd, Wood Buffalo, AB T9H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f262761a948d4f6694590a1c21666a5f|BN20130431|7.7.0.0|",
+				"addressLine": "5667 Draper Rd",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5667 Draper Rd, Wood Buffalo, AB T9H, Canada",
+				"locality": "Wood Buffalo",
+				"neighborhood": "Fort McMurray",
+				"postalCode": "T9H 3G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.25949,
+					56.67294
+				]
+			},
+			"bbox": [
+				-111.2615361,
+				56.6718158,
+				-111.2574439,
+				56.6740642
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "173 Main St E, Hawkesbury, ON K6A 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d7ba38520e3245398fb77866bc89f72b|BN20130442|7.7.0.0|",
+				"addressLine": "173 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "173 Main St E, Hawkesbury, ON K6A 1A1, Canada",
+				"locality": "Hawkesbury",
+				"postalCode": "K6A 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.60995,
+					45.60995
+				]
+			},
+			"bbox": [
+				-74.611557,
+				45.6088258,
+				-74.608343,
+				45.6110742
+			]
+		}
+	]
+}

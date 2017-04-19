@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "47 Grandville Ave, York, ON M6N 4T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fef3c0e7b2c4f688eed6e2e4ec1e385|BN20131519|7.7.0.0|",
+				"addressLine": "47 Grandville Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "47 Grandville Ave, York, ON M6N 4T8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rockcliffe-Smythe",
+				"postalCode": "M6N 4T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49522,
+					43.6791
+				]
+			},
+			"bbox": [
+				-79.4967744,
+				43.6779758,
+				-79.4936656,
+				43.6802242
+			]
+		}
+	]
+}

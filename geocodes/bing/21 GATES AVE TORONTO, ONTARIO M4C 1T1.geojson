@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Gates Ave, Toronto, ON M4C 1T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ffef19182c4d47c09a90b2546d5ab007|BN20320521|7.7.0.0|",
+				"addressLine": "21 Gates Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Gates Ave, Toronto, ON M4C 1T1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "East End-Danforth",
+				"postalCode": "M4C 1T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30709,
+					43.6884
+				]
+			},
+			"bbox": [
+				-79.3086446,
+				43.6872758,
+				-79.3055354,
+				43.6895242
+			]
+		}
+	]
+}

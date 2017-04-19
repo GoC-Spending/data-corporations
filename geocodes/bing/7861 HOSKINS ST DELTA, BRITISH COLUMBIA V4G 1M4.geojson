@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7861 Hoskins St, Delta, BC V4G 1M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d4ee5bcbe2846f5a852647a878e5120|BN20181720|7.7.0.0|",
+				"addressLine": "7861 Hoskins St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7861 Hoskins St, Delta, BC V4G 1M4, Canada",
+				"locality": "Delta",
+				"postalCode": "V4G 1M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.999149,
+					49.1444878
+				]
+			},
+			"bbox": [
+				-123.0008675,
+				49.1433636,
+				-122.9974305,
+				49.145612
+			]
+		}
+	]
+}

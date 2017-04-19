@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1310 Old Second Line Rd, Kanata, ON K2W 0J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f71df7df743248dd8dc85103defdfe4a|BN20130634|7.7.0.0|",
+				"addressLine": "1310 Old Second Line Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1310 Old Second Line Rd, Kanata, ON K2W 0J1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2W 0J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.95589,
+					45.35602
+				]
+			},
+			"bbox": [
+				-75.9574898,
+				45.3548958,
+				-75.9542902,
+				45.3571442
+			]
+		}
+	]
+}

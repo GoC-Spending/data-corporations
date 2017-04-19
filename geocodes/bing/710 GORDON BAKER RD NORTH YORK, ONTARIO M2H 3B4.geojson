@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "710 Gordon Baker Rd, North York, ON M2H 3B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cfebb049acc84f82a5f632a5fb0ffb3c|BN20130625|7.7.0.0|",
+				"addressLine": "710 Gordon Baker Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "710 Gordon Baker Rd, North York, ON M2H 3B4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Hillcrest Village",
+				"postalCode": "M2H 3B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34412,
+					43.81003
+				]
+			},
+			"bbox": [
+				-79.3456778,
+				43.8089058,
+				-79.3425622,
+				43.8111542
+			]
+		}
+	]
+}

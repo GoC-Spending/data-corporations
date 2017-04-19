@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Duncan Ave N, Kirkland Lake, ON P2N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e16abb6ff6bf4e49adfaa0ee0f8680c8|BN20130520|7.7.0.0|",
+				"addressLine": "34 Duncan Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Timiskaming",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Duncan Ave N, Kirkland Lake, ON P2N, Canada",
+				"locality": "Kirkland Lake",
+				"postalCode": "P2N 3L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0361999,
+					48.15411
+				]
+			},
+			"bbox": [
+				-80.037885,
+				48.1529858,
+				-80.0345148,
+				48.1552342
+			]
+		}
+	]
+}

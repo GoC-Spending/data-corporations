@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "66 Pleasant Valley Rd, Colchester, NS B0N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62d919dcc268435fafed677544555619|BN20200239|7.7.0.0|",
+				"addressLine": "66 Pleasant Valley Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "66 Pleasant Valley Rd, Colchester, NS B0N, Canada",
+				"locality": "Colchester",
+				"neighborhood": "Brookfield",
+				"postalCode": "B0N 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.283851,
+					45.2528406
+				]
+			},
+			"bbox": [
+				-63.2854478,
+				45.2517164,
+				-63.2822541,
+				45.2539647
+			]
+		}
+	]
+}

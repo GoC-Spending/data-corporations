@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "247 Allan Cres SE, Calgary, AB T2J 0T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1133e693f04475780b8268492453f28|BN20240253|7.7.0.0|",
+				"addressLine": "247 Allan Cres SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "247 Allan Cres SE, Calgary, AB T2J 0T3, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Acadia",
+				"postalCode": "T2J 0T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06682,
+					50.96895
+				]
+			},
+			"bbox": [
+				-114.0686051,
+				50.9678258,
+				-114.0650349,
+				50.9700742
+			]
+		}
+	]
+}

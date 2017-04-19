@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Chapman Ave, East York, ON M4B 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "090c74688228486fbb4f735b92484919|BN20130634|7.7.0.0|",
+				"addressLine": "1 Chapman Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Chapman Ave, East York, ON M4B 1C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "O'Connor-Parkview",
+				"postalCode": "M4B 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30238,
+					43.69987
+				]
+			},
+			"bbox": [
+				-79.3039349,
+				43.6987458,
+				-79.3008251,
+				43.7009942
+			]
+		}
+	]
+}

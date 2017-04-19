@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1004 W 17th St, North Vancouver, BC V7P 3C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53166a79ec614423a748130a16cea533|BN20260223|7.7.0.0|",
+				"addressLine": "1004 W 17th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1004 W 17th St, North Vancouver, BC V7P 3C5, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7P 3C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1012525,
+					49.3248574
+				]
+			},
+			"bbox": [
+				-123.1029773,
+				49.3237332,
+				-123.0995278,
+				49.3259815
+			]
+		}
+	]
+}

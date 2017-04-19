@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1475 55e Avenue, Dorval, QC H9P 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4282a14e3bc94406a844d8b17715a57c|BN20121763|7.7.0.0|",
+				"addressLine": "1475 55e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1475 55e Avenue, Dorval, QC H9P 2W3, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9P 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7226699,
+					45.45262
+				]
+			},
+			"bbox": [
+				-73.7242724,
+				45.4514958,
+				-73.7210674,
+				45.4537442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "52 38th St, Toronto, ON M8W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "044a52ca24e049c5a21852d258e16627|BN20121764|7.7.0.0|",
+				"addressLine": "52 38th St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "52 38th St, Toronto, ON M8W, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Long Branch",
+				"postalCode": "M8W 3M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5386053,
+					43.5908957
+				]
+			},
+			"bbox": [
+				-79.5401574,
+				43.5897715,
+				-79.5370532,
+				43.5920198
+			]
+		}
+	]
+}

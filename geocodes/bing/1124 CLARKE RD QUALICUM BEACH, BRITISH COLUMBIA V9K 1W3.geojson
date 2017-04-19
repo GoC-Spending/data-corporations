@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1124 Clark Rd, Nanaimo District, BC V9K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39b166abdcd24034bc2b569e38d530a3|BN20260223|7.7.0.0|",
+				"addressLine": "1124 Clark Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1124 Clark Rd, Nanaimo District, BC V9K, Canada",
+				"locality": "Nanaimo District",
+				"neighborhood": "Qualicum Beach",
+				"postalCode": "V9K 1W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.4984024,
+					49.2979801
+				]
+			},
+			"bbox": [
+				-124.5001262,
+				49.2968559,
+				-124.4966786,
+				49.2991042
+			]
+		}
+	]
+}

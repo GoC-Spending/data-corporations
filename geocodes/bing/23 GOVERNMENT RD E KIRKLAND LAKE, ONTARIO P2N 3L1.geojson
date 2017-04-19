@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Government Rd E, Kirkland Lake, ON P2N 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2665e670399545bb8d06ac207d77fd02|BN20260231|7.7.0.0|",
+				"addressLine": "23 Government Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Timiskaming",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Government Rd E, Kirkland Lake, ON P2N 1A1, Canada",
+				"locality": "Kirkland Lake",
+				"postalCode": "P2N 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.03117,
+					48.15304
+				]
+			},
+			"bbox": [
+				-80.032855,
+				48.1519158,
+				-80.029485,
+				48.1541642
+			]
+		}
+	]
+}

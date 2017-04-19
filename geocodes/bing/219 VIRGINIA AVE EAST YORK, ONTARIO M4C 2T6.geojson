@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "219 Virginia Ave, East York, ON M4C 2T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91ae037f9ed44b35ac88dc65b1730ce6|BN20240423|7.7.0.0|",
+				"addressLine": "219 Virginia Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "219 Virginia Ave, East York, ON M4C 2T6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woodbine-Lumsden",
+				"postalCode": "M4C 2T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31405,
+					43.69633
+				]
+			},
+			"bbox": [
+				-79.3156048,
+				43.6952058,
+				-79.3124952,
+				43.6974542
+			]
+		}
+	]
+}

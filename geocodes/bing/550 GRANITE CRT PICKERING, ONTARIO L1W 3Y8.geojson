@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 Granite Ct, Pickering, ON L1W 3Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25e32752999f4e2ea115b8d3b51e35fa|BN20181720|7.7.0.0|",
+				"addressLine": "550 Granite Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 Granite Ct, Pickering, ON L1W 3Y8, Canada",
+				"locality": "Pickering",
+				"postalCode": "L1W 3Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.12176,
+					43.81068
+				]
+			},
+			"bbox": [
+				-79.1233178,
+				43.8095558,
+				-79.1202022,
+				43.8118042
+			]
+		}
+	]
+}

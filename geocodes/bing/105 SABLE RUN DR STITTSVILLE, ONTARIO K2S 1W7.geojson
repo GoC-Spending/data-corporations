@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Sable Run Dr, Stittsville, ON K2S 1W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c83369d883b40aebe5f40d9d1dda7ec|BN20240253|7.7.0.0|",
+				"addressLine": "105 Sable Run Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Sable Run Dr, Stittsville, ON K2S 1W7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.93673,
+					45.25783
+				]
+			},
+			"bbox": [
+				-75.938327,
+				45.2567058,
+				-75.935133,
+				45.2589542
+			]
+		}
+	]
+}

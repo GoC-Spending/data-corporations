@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Lisburn Cres, North York, ON M2J 2Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab32d705e70043488424d5fdad6e7999|BN20171457|7.7.0.0|",
+				"addressLine": "25 Lisburn Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Lisburn Cres, North York, ON M2J 2Z4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Don Valley Village",
+				"postalCode": "M2J 2Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34381,
+					43.78183
+				]
+			},
+			"bbox": [
+				-79.345367,
+				43.7807058,
+				-79.342253,
+				43.7829542
+			]
+		}
+	]
+}

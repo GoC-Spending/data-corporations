@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Absolute Ave, Mississauga, ON L4Z 0A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "341291d7d7be4afd915c0a6cc3ae092e|BN20130422|7.7.0.0|",
+				"addressLine": "90 Absolute Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Absolute Ave, Mississauga, ON L4Z 0A3, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "City Centre",
+				"postalCode": "L4Z 0A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.63395,
+					43.59561
+				]
+			},
+			"bbox": [
+				-79.6355022,
+				43.5944858,
+				-79.6323978,
+				43.5967342
+			]
+		}
+	]
+}

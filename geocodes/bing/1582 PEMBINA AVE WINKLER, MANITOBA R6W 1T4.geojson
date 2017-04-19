@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1582 Pembina Ave, Winkler, MB R6W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c35863a7d2f64409b27d7e9bc7894e2b|BN20220145|7.7.0.0|",
+				"addressLine": "1582 Pembina Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1582 Pembina Ave, Winkler, MB R6W, Canada",
+				"locality": "Winkler",
+				"postalCode": "R6W 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.95922,
+					49.17688
+				]
+			},
+			"bbox": [
+				-97.9609396,
+				49.1757558,
+				-97.9575004,
+				49.1780042
+			]
+		}
+	]
+}

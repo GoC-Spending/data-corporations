@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3141 W Broadway, Vancouver, BC V6K 2H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e79adc45944c449fa6b3c34f989c8db1|BN20130721|7.7.0.0|",
+				"addressLine": "3141 W Broadway",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3141 W Broadway, Vancouver, BC V6K 2H2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kitsilano",
+				"postalCode": "V6K 2H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17504,
+					49.26442
+				]
+			},
+			"bbox": [
+				-123.1767627,
+				49.2632958,
+				-123.1733173,
+				49.2655442
+			]
+		}
+	]
+}

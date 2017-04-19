@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "127 Chedoke Ave, Hamilton, ON L8P 4P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f5537fafc1c4b32b18ef6c1c864eeaf|BN20121763|7.7.0.0|",
+				"addressLine": "127 Chedoke Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "127 Chedoke Ave, Hamilton, ON L8P 4P2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Kirkendall South",
+				"postalCode": "L8P 4P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89786,
+					43.24826
+				]
+			},
+			"bbox": [
+				-79.8994033,
+				43.2471358,
+				-79.8963167,
+				43.2493842
+			]
+		}
+	]
+}

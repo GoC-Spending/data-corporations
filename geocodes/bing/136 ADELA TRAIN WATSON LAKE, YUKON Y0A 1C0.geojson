@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "136 Adela Trl, Watson Lake, YT Y0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdf2ccbc261d4ee788940bb7bcd9847c|BN20130522|7.7.0.0|",
+				"addressLine": "136 Adela Trl",
+				"adminDistrict": "YT",
+				"adminDistrict2": "Yukon",
+				"countryRegion": "Canada",
+				"formattedAddress": "136 Adela Trl, Watson Lake, YT Y0A, Canada",
+				"locality": "Watson Lake",
+				"postalCode": "Y0A 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-128.6649436,
+					60.0531813
+				]
+			},
+			"bbox": [
+				-128.6671956,
+				60.0520571,
+				-128.6626917,
+				60.0543054
+			]
+		}
+	]
+}

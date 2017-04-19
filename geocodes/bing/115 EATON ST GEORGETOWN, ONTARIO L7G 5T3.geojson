@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 Eaton St, Georgetown, ON L7G 5T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ca5e9e587364f5793b7a76a67010233|BN20130442|7.7.0.0|",
+				"addressLine": "115 Eaton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 Eaton St, Georgetown, ON L7G 5T3, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 5T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89051,
+					43.63003
+				]
+			},
+			"bbox": [
+				-79.8920631,
+				43.6289058,
+				-79.8889569,
+				43.6311542
+			]
+		}
+	]
+}

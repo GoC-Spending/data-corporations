@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Shuter St, Toronto, ON M5A 1W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5f40d0b7ad0c4434bbbbfe57f6a0be51|BN20130520|7.7.0.0|",
+				"addressLine": "300 Shuter St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Shuter St, Toronto, ON M5A 1W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Moss Park",
+				"postalCode": "M5A 1W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3653,
+					43.65706
+				]
+			},
+			"bbox": [
+				-79.3668538,
+				43.6559358,
+				-79.3637462,
+				43.6581842
+			]
+		}
+	]
+}

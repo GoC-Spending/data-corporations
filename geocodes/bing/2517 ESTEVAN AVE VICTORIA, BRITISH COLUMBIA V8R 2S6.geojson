@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2517 Estevan Ave, Victoria, BC V8R 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b7af2d1466145ed98050153a9a29d8d|BN20190642|7.7.0.0|",
+				"addressLine": "2517 Estevan Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2517 Estevan Ave, Victoria, BC V8R 2S6, Canada",
+				"locality": "Oak Bay",
+				"neighborhood": "Victoria",
+				"postalCode": "V8R 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3079015,
+					48.4373783
+				]
+			},
+			"bbox": [
+				-123.3095959,
+				48.4362542,
+				-123.3062071,
+				48.4385025
+			]
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Winnipeg, R3J 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b830dd27a9c4b63a12f9b67b113eca0|BN20320521|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Winnipeg, R3J 1H8, Canada",
+				"locality": "Winnipeg",
+				"postalCode": "R3J 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.203857421875,
+					49.8863410949707
+				]
+			},
+			"bbox": [
+				-97.2118503294537,
+				49.8824783774,
+				-97.1958645142963,
+				49.8902038125414
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Madison, WI",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b830dd27a9c4b63a12f9b67b113eca0|BN20320521|7.7.0.0|",
+				"adminDistrict": "WI",
+				"adminDistrict2": "Dane",
+				"countryRegion": "United States",
+				"formattedAddress": "Madison, WI",
+				"locality": "Madison"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.3866882324219,
+					43.0729484558105
+				]
+			},
+			"bbox": [
+				-89.5666809082031,
+				42.9980773925781,
+				-89.2468490600586,
+				43.1719245910645
+			]
+		}
+	]
+}

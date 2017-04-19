@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Chopin Blvd, Winnipeg, MB R2G 2C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0a45349a320a4c31ba9215d0d3b0b295|BN20190653|7.7.0.0|",
+				"addressLine": "23 Chopin Blvd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Chopin Blvd, Winnipeg, MB R2G 2C9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River East",
+				"postalCode": "R2G 2C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0535,
+					49.9476
+				]
+			},
+			"bbox": [
+				-97.055247,
+				49.9464758,
+				-97.051753,
+				49.9487242
+			]
+		}
+	]
+}

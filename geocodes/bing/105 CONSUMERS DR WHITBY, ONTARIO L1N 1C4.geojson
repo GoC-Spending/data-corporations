@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Consumers Dr, Whitby, ON L1N 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc058af7ad914084910cef3143be2489|BN20130625|7.7.0.0|",
+				"addressLine": "105 Consumers Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Consumers Dr, Whitby, ON L1N 1C4, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.91841,
+					43.86943
+				]
+			},
+			"bbox": [
+				-78.9199693,
+				43.8683058,
+				-78.9168507,
+				43.8705542
+			]
+		}
+	]
+}

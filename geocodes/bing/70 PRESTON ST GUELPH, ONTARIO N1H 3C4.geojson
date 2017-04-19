@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Preston St, Guelph, ON N1H 3C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eac7eae7eeb94e599f1294b9b6f313d9|BN20131519|7.7.0.0|",
+				"addressLine": "70 Preston St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Preston St, Guelph, ON N1H 3C4, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 3C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25667,
+					43.53758
+				]
+			},
+			"bbox": [
+				-80.2582207,
+				43.5364558,
+				-80.2551193,
+				43.5387042
+			]
+		}
+	]
+}

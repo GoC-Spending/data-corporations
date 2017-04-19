@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1540 Saskatchewan Ave, Winnipeg, MB R3H 0G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8db5edfee0b34704a588819582e818b5|BN20121764|7.7.0.0|",
+				"addressLine": "1540 Saskatchewan Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1540 Saskatchewan Ave, Winnipeg, MB R3H 0G7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20316,
+					49.90553
+				]
+			},
+			"bbox": [
+				-97.2049054,
+				49.9044058,
+				-97.2014146,
+				49.9066542
+			]
+		}
+	]
+}

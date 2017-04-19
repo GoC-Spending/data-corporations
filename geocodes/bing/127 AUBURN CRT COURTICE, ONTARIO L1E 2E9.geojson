@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "127 Auburn Ct, Courtice, ON L1E 2E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fba1a02035546239b8dd2170b12953b|BN20130530|7.7.0.0|",
+				"addressLine": "127 Auburn Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "127 Auburn Ct, Courtice, ON L1E 2E9, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Courtice",
+				"postalCode": "L1E 2E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.80094,
+					43.89945
+				]
+			},
+			"bbox": [
+				-78.8025001,
+				43.8983258,
+				-78.7993799,
+				43.9005742
+			]
+		}
+	]
+}

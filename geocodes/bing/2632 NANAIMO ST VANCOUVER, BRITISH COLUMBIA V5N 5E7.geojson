@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2632 Nanaimo St, Vancouver, BC V5N 5E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd5954ca9e274fe99e618812606295e1|BN20130442|7.7.0.0|",
+				"addressLine": "2632 Nanaimo St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2632 Nanaimo St, Vancouver, BC V5N 5E7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5N 5E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.05621,
+					49.26061
+				]
+			},
+			"bbox": [
+				-123.0579325,
+				49.2594858,
+				-123.0544875,
+				49.2617342
+			]
+		}
+	]
+}

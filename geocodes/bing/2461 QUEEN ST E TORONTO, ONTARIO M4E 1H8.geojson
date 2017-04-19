@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2461 Queen St E, Toronto, ON M4E 1H8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "601a7c9dda184252b4ee8442fba0bde4|BN20130719|7.7.0.0|",
+				"addressLine": "2461 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2461 Queen St E, Toronto, ON M4E 1H8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4E 1H8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28325,
+					43.67337
+				]
+			},
+			"bbox": [
+				-79.2848042,
+				43.6722458,
+				-79.2816958,
+				43.6744942
+			]
+		}
+	]
+}

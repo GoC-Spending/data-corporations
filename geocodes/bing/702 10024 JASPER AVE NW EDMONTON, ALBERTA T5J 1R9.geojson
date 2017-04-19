@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10024 Jasper Ave NW, Edmonton, AB T5J 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "18e07bbad5ad43f6b867f479e9fdf6b0|BN20130719|7.7.0.0|",
+				"addressLine": "10024 Jasper Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10024 Jasper Ave NW, Edmonton, AB T5J 1R9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Downtown",
+				"postalCode": "T5J 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49143,
+					53.54126
+				]
+			},
+			"bbox": [
+				-113.4933217,
+				53.5401358,
+				-113.4895383,
+				53.5423842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7398 132 St, Surrey, BC V3W 4M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "080a8c2024274801b95a9840894f268c|BN20130442|7.7.0.0|",
+				"addressLine": "7398 132 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7398 132 St, Surrey, BC V3W 4M7, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 4M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.85645,
+					49.13752
+				]
+			},
+			"bbox": [
+				-122.8581682,
+				49.1363958,
+				-122.8547318,
+				49.1386442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "265 Larch St, Sudbury, ON P3B 1M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e6259f5c08bb4b789b7aa9e1892c4107|BN20171457|7.7.0.0|",
+				"addressLine": "265 Larch St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "265 Larch St, Sudbury, ON P3B 1M2, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3B 1M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9875,
+					46.49106
+				]
+			},
+			"bbox": [
+				-80.9891328,
+				46.4899358,
+				-80.9858672,
+				46.4921842
+			]
+		}
+	]
+}

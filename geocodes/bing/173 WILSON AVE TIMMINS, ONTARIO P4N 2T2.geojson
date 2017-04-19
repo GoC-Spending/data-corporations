@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "173 Wilson Ave, Timmins, ON P4N 2T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "206af6c6572b4cfc9cd537a51143453b|BN20130631|7.7.0.0|",
+				"addressLine": "173 Wilson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "173 Wilson Ave, Timmins, ON P4N 2T2, Canada",
+				"locality": "Timmins",
+				"postalCode": "P4N 2T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3404005,
+					48.4752651
+				]
+			},
+			"bbox": [
+				-81.3420962,
+				48.4741409,
+				-81.3387048,
+				48.4763893
+			]
+		}
+	]
+}

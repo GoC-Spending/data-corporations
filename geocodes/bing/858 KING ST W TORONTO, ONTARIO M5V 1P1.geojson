@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "858 King St W, Toronto, ON M5V 1P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "74306ca069ef4482baf7792a4938a090|BN20160335|7.7.0.0|",
+				"addressLine": "858 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "858 King St W, Toronto, ON M5V 1P1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Niagara",
+				"postalCode": "M5V 1P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40888,
+					43.64293
+				]
+			},
+			"bbox": [
+				-79.4104334,
+				43.6418058,
+				-79.4073266,
+				43.6440542
+			]
+		}
+	]
+}

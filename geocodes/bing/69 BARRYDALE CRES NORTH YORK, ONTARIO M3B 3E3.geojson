@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "69 Barrydale Cres, North York, ON M3B 3E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5e6c15697ea46e89d6ef77823989b98|BN20130532|7.7.0.0|",
+				"addressLine": "69 Barrydale Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "69 Barrydale Cres, North York, ON M3B 3E3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Banbury-Don Mills",
+				"postalCode": "M3B 3E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36313,
+					43.74916
+				]
+			},
+			"bbox": [
+				-79.3646862,
+				43.7480358,
+				-79.3615738,
+				43.7502842
+			]
+		}
+	]
+}

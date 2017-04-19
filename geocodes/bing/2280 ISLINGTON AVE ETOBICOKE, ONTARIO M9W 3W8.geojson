@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2280 Islington Ave, Etobicoke, ON M9W 3W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fccd37039ff4e87b2581e5785eedc64|BN20130530|7.7.0.0|",
+				"addressLine": "2280 Islington Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2280 Islington Ave, Etobicoke, ON M9W 3W8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Rexdale-Kipling",
+				"postalCode": "M9W 3W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.55555,
+					43.7147
+				]
+			},
+			"bbox": [
+				-79.5571053,
+				43.7135758,
+				-79.5539947,
+				43.7158242
+			]
+		}
+	]
+}

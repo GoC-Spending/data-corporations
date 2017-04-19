@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "118 Albert St, Moncton, NB E1C 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "57117de64d4a484bb785ec6c213fd432|BN20130621|7.7.0.0|",
+				"addressLine": "118 Albert St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "118 Albert St, Moncton, NB E1C 1B2, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.78421,
+					46.08217
+				]
+			},
+			"bbox": [
+				-64.7858307,
+				46.0810458,
+				-64.7825893,
+				46.0832942
+			]
+		}
+	]
+}

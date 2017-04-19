@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3045 9th Line Rd, Metcalfe, ON K0A 2P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bfad079f905944ad99d1a956523bb9c1|BN20190653|7.7.0.0|",
+				"addressLine": "3045 9th Line Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "3045 9th Line Rd, Metcalfe, ON K0A 2P0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Metcalfe",
+				"postalCode": "K0A 2P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.4411,
+					45.22863
+				]
+			},
+			"bbox": [
+				-75.4426962,
+				45.2275058,
+				-75.4395038,
+				45.2297542
+			]
+		}
+	]
+}

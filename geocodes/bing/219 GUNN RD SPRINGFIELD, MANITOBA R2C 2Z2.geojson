@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "219 Gunn Rd, Winnipeg, MB R2C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8bc8e9f96d9841c6abca30c3c9bc9821|BN20160335|7.7.0.0|",
+				"addressLine": "219 Gunn Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "219 Gunn Rd, Winnipeg, MB R2C, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Meadows",
+				"postalCode": "R2C 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0152381,
+					49.9158719
+				]
+			},
+			"bbox": [
+				-97.0169839,
+				49.9147478,
+				-97.0134922,
+				49.9169961
+			]
+		}
+	]
+}

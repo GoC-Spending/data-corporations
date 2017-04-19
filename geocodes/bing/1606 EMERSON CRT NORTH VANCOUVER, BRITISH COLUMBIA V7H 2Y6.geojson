@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1606 Emerson Ct, North Vancouver, BC V7H 2Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2bfd8d8806f24f60b58608945056f591|BN20130533|7.7.0.0|",
+				"addressLine": "1606 Emerson Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1606 Emerson Ct, North Vancouver, BC V7H 2Y6, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "McCartney Woods",
+				"postalCode": "V7H 2Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.99505,
+					49.3212
+				]
+			},
+			"bbox": [
+				-122.9967746,
+				49.3200758,
+				-122.9933254,
+				49.3223242
+			]
+		}
+	]
+}

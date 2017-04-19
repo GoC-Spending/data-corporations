@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3017 6 St SW, Calgary, AB T2S 2M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fead848a8dd848ad8aebdf61a6d05e1e|BN20130422|7.7.0.0|",
+				"addressLine": "3017 6 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3017 6 St SW, Calgary, AB T2S 2M1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Mont Royal",
+				"postalCode": "T2S 2M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.08036,
+					51.02758
+				]
+			},
+			"bbox": [
+				-114.0821474,
+				51.0264558,
+				-114.0785726,
+				51.0287042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "408 Pitt St, Cornwall, ON K6J 3R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40db1dd48e5f4b46be1b09f8136870aa|BN20181720|7.7.0.0|",
+				"addressLine": "408 Pitt St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "408 Pitt St, Cornwall, ON K6J 3R2, Canada",
+				"locality": "Cornwall",
+				"postalCode": "K6J 3R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.73071,
+					45.02144
+				]
+			},
+			"bbox": [
+				-74.7323004,
+				45.0203158,
+				-74.7291196,
+				45.0225642
+			]
+		}
+	]
+}

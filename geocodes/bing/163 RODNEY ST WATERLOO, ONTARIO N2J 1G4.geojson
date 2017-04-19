@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "163 Rodney St, Waterloo, ON N2J 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ef78f226d72429ca6cf0333ee2084ac|BN20190642|7.7.0.0|",
+				"addressLine": "163 Rodney St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "163 Rodney St, Waterloo, ON N2J 1G4, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.50855,
+					43.46484
+				]
+			},
+			"bbox": [
+				-80.5100989,
+				43.4637158,
+				-80.5070011,
+				43.4659642
+			]
+		}
+	]
+}

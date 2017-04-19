@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "649 Leon Ave, Kelowna, BC V1Y 9S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6815863c885f4a39998f0c1283862795|BN20240253|7.7.0.0|",
+				"addressLine": "649 Leon Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "649 Leon Ave, Kelowna, BC V1Y 9S3, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Downtown Kelowna",
+				"postalCode": "V1Y 9S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4892316,
+					49.8843651
+				]
+			},
+			"bbox": [
+				-119.4909763,
+				49.883241,
+				-119.487487,
+				49.8854893
+			]
+		}
+	]
+}

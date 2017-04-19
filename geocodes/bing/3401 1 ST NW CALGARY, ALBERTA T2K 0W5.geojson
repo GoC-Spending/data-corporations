@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3401 1 St NW, Calgary, AB T2K 0W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9c7874beefa494c866c39c972492a99|BN20220145|7.7.0.0|",
+				"addressLine": "3401 1 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3401 1 St NW, Calgary, AB T2K 0W5, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Highland Park",
+				"postalCode": "T2K 0W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06545,
+					51.08232
+				]
+			},
+			"bbox": [
+				-114.0672395,
+				51.0811958,
+				-114.0636605,
+				51.0834442
+			]
+		}
+	]
+}

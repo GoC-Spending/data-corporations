@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Bongard Ave, Nepean, ON K2E 7Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe12ba6c5bb542f4b746af9d7b36ae72|BN20130431|7.7.0.0|",
+				"addressLine": "70 Bongard Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Bongard Ave, Nepean, ON K2E 7Z9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 7Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7144,
+					45.33134
+				]
+			},
+			"bbox": [
+				-75.7159991,
+				45.3302158,
+				-75.7128009,
+				45.3324642
+			]
+		}
+	]
+}

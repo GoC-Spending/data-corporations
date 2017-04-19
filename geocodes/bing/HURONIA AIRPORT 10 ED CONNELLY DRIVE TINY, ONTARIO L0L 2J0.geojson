@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Ed Connelly Dr, Tiny, ON L0L 2J0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "782c95bf250046a79980abbce9225ed9|BN20130522|7.7.0.0|",
+				"addressLine": "10 Ed Connelly Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Ed Connelly Dr, Tiny, ON L0L 2J0, Canada",
+				"locality": "Tiny",
+				"neighborhood": "Perkinsfield",
+				"postalCode": "L0L 2J0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.931603,
+					44.6922928
+				]
+			},
+			"bbox": [
+				-79.9331843,
+				44.6911687,
+				-79.9300216,
+				44.693417
+			]
+		}
+	]
+}

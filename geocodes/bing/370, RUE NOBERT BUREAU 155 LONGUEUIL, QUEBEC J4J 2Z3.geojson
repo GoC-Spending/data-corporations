@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "370 Boulevard Nobert, Longueuil, QC J4J 2Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50a3ca637d774eb89c1ce55788ea1286|BN20130520|7.7.0.0|",
+				"addressLine": "370 Boulevard Nobert",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Longueuil",
+				"countryRegion": "Canada",
+				"formattedAddress": "370 Boulevard Nobert, Longueuil, QC J4J 2Z3, Canada",
+				"locality": "Longueuil",
+				"postalCode": "J4J 2Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.47432,
+					45.52261
+				]
+			},
+			"bbox": [
+				-73.4759245,
+				45.5214858,
+				-73.4727155,
+				45.5237342
+			]
+		}
+	]
+}

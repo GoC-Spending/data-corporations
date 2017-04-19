@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3000 College Dr S, Lethbridge, AB T1K 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "182c4b471cf643ed850c543326188b02|BN20121763|7.7.0.0|",
+				"addressLine": "3000 College Dr S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3000 College Dr S, Lethbridge, AB T1K 1L6, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1K 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.8089959,
+					49.6657068
+				]
+			},
+			"bbox": [
+				-112.8107328,
+				49.6645827,
+				-112.8072591,
+				49.666831
+			]
+		}
+	]
+}

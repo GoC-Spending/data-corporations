@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "188 Browning Ave, Toronto, ON M4K 1W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20bff1d1898747f185c791e2cf93b9f5|BN20121763|7.7.0.0|",
+				"addressLine": "188 Browning Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "188 Browning Ave, Toronto, ON M4K 1W5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Playter Estates-Danforth",
+				"postalCode": "M4K 1W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34912,
+					43.68287
+				]
+			},
+			"bbox": [
+				-79.3506745,
+				43.6817458,
+				-79.3475655,
+				43.6839942
+			]
+		}
+	]
+}

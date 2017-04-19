@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 University Ave, Charlottetown, PE C1A 4P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "030f51439593412cb29d7a9c042d30dd|BN20130719|7.7.0.0|",
+				"addressLine": "550 University Ave",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 University Ave, Charlottetown, PE C1A 4P3, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Mt Edward",
+				"postalCode": "C1A 4P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.1417,
+					46.2569
+				]
+			},
+			"bbox": [
+				-63.1433258,
+				46.2557758,
+				-63.1400742,
+				46.2580242
+			]
+		}
+	]
+}

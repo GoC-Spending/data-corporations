@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "950 Dupont St, Toronto, ON M6H 1Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "259bfdc1199046cfa00220cd3dfa5b31|BN20181720|7.7.0.0|",
+				"addressLine": "950 Dupont St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "950 Dupont St, Toronto, ON M6H 1Z2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6H 1Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43197,
+					43.67011
+				]
+			},
+			"bbox": [
+				-79.4335241,
+				43.6689858,
+				-79.4304159,
+				43.6712342
+			]
+		}
+	]
+}

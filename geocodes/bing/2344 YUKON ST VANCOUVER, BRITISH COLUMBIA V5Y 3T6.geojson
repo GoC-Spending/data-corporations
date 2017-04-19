@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2344 Yukon St, Vancouver, BC V5Y 3T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15302b0d7e9444c9b3dc584fafe1efe0|BN20130631|7.7.0.0|",
+				"addressLine": "2344 Yukon St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2344 Yukon St, Vancouver, BC V5Y 3T6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 3T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1127151,
+					49.2646371
+				]
+			},
+			"bbox": [
+				-123.1144378,
+				49.263513,
+				-123.1109924,
+				49.2657613
+			]
+		}
+	]
+}

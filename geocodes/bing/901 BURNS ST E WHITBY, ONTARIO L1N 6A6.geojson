@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "901 Burns St E, Whitby, ON L1N 0E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9061debc9ec42438d4e6f58d1d7cbb1|BN20130533|7.7.0.0|",
+				"addressLine": "901 Burns St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "901 Burns St E, Whitby, ON L1N 0E6, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 0E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.92531,
+					43.87324
+				]
+			},
+			"bbox": [
+				-78.9268694,
+				43.8721158,
+				-78.9237506,
+				43.8743642
+			]
+		}
+	]
+}

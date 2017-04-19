@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16375 130 Ave NW, Edmonton, AB T5V 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "928ade42c4cd4f679f476c95169b4c05|BN20130520|7.7.0.0|",
+				"addressLine": "16375 130 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "16375 130 Ave NW, Edmonton, AB T5V 1K5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Mistatim Industrial",
+				"postalCode": "T5V 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.60661,
+					53.58884
+				]
+			},
+			"bbox": [
+				-113.6085039,
+				53.5877158,
+				-113.6047161,
+				53.5899642
+			]
+		}
+	]
+}

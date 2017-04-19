@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "432 Queen St E, Toronto, ON M5A 1T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f627787749f246db8a88f5537d4f93f4|BN20121763|7.7.0.0|",
+				"addressLine": "432 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "432 Queen St E, Toronto, ON M5A 1T4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Regent Park",
+				"postalCode": "M5A 1T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36183,
+					43.65638
+				]
+			},
+			"bbox": [
+				-79.3633838,
+				43.6552558,
+				-79.3602762,
+				43.6575042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2220 University Ave E, Waterloo, ON N2K 0A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "62b514d5f71a4a4e9b8fb122962c31eb|BN20131519|7.7.0.0|",
+				"addressLine": "2220 University Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "2220 University Ave E, Waterloo, ON N2K 0A8, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2K 0A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5129354,
+					43.5183359
+				]
+			},
+			"bbox": [
+				-80.5144856,
+				43.5172117,
+				-80.5113852,
+				43.51946
+			]
+		}
+	]
+}

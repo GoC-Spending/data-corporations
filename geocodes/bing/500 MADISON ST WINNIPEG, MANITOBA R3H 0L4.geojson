@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 Madison St, Winnipeg, MB R3H 0L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27b0548f07824871b6e0ca48df13712e|BN20171457|7.7.0.0|",
+				"addressLine": "500 Madison St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 Madison St, Winnipeg, MB R3H 0L4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20429,
+					49.8915999
+				]
+			},
+			"bbox": [
+				-97.2060349,
+				49.8904757,
+				-97.2025451,
+				49.8927241
+			]
+		}
+	]
+}

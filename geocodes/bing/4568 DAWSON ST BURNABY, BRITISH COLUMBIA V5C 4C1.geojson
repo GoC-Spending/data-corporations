@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4568 Dawson St, Burnaby, BC V5C 4C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "73e4e9b9fa25474aa7fb15e16de8993d|BN20320521|7.7.0.0|",
+				"addressLine": "4568 Dawson St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4568 Dawson St, Burnaby, BC V5C 4C1, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Dawson-Delta",
+				"postalCode": "V5C 4C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.002195,
+					49.2643451
+				]
+			},
+			"bbox": [
+				-123.0039177,
+				49.2632209,
+				-123.0004723,
+				49.2654693
+			]
+		}
+	]
+}

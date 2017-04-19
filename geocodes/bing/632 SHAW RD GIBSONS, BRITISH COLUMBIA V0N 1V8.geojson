@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "632 Shaw Rd, Gibsons, BC V0N 1V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53b6721d28854eacbba2bbefd205d473|BN20130625|7.7.0.0|",
+				"addressLine": "632 Shaw Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "632 Shaw Rd, Gibsons, BC V0N 1V8, Canada",
+				"locality": "Gibsons",
+				"postalCode": "V0N 1V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.51855,
+					49.40608
+				]
+			},
+			"bbox": [
+				-123.5202776,
+				49.4049558,
+				-123.5168224,
+				49.4072042
+			]
+		}
+	]
+}

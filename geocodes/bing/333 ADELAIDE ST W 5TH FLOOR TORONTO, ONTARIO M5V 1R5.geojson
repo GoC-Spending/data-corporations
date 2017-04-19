@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "333 Adelaide St W, Toronto, ON M5V 1R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e9eb8bce274b4e35b843da3cf9ea60d9|BN20130632|7.7.0.0|",
+				"addressLine": "333 Adelaide St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "333 Adelaide St W, Toronto, ON M5V 1R5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39336,
+					43.64699
+				]
+			},
+			"bbox": [
+				-79.3949135,
+				43.6458658,
+				-79.3918065,
+				43.6481142
+			]
+		}
+	]
+}

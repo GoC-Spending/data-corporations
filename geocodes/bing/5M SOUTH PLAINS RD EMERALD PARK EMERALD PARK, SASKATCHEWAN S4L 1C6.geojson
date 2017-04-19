@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Emerald Park, Edenwold No 158, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1086062dd3844dffb409336fc6008866|BN20130621|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Emerald Park, Edenwold No 158, Saskatchewan, Canada",
+				"locality": "Edenwold No 158",
+				"neighborhood": "Emerald Park"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.398429870605,
+					50.4424095153809
+				]
+			},
+			"bbox": [
+				-104.406516298439,
+				50.4385467978102,
+				-104.390343442772,
+				50.4462722329515
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "South Plains, TX",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1086062dd3844dffb409336fc6008866|BN20130621|7.7.0.0|",
+				"adminDistrict": "TX",
+				"adminDistrict2": "Floyd",
+				"countryRegion": "United States",
+				"formattedAddress": "South Plains, TX",
+				"locality": "South Plains"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-101.31037902832,
+					34.2272987365723
+				]
+			},
+			"bbox": [
+				-101.357081145739,
+				34.1983283535797,
+				-101.263676910902,
+				34.2562691195648
+			]
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Clinton, N0M 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee2b6c6ac04b4b21b892495007315f14|BN20121764|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "Clinton, N0M 1L0, Canada",
+				"locality": "Clinton",
+				"postalCode": "N0M 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.5396728515625,
+					43.6179618835449
+				]
+			},
+			"bbox": [
+				-81.5467864908991,
+				43.6140991659742,
+				-81.5325592122259,
+				43.6218246011156
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Central Huron, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ee2b6c6ac04b4b21b892495007315f14|BN20121764|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "Central Huron, Ontario, Canada",
+				"locality": "Central Huron"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.6021118164063,
+					43.6461982727051
+				]
+			},
+			"bbox": [
+				-81.7294082641602,
+				43.5479316711426,
+				-81.3361663818359,
+				43.773250579834
+			]
+		}
+	]
+}

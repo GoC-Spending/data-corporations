@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Dee Ave, North York, ON M9N 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f67419d1d604bccb2fca4b0246ccfba|BN20131519|7.7.0.0|",
+				"addressLine": "20 Dee Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Dee Ave, North York, ON M9N 1S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Pelmo Park-Humberlea",
+				"postalCode": "M9N 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53632,
+					43.71116
+				]
+			},
+			"bbox": [
+				-79.5378752,
+				43.7100358,
+				-79.5347648,
+				43.7122842
+			]
+		}
+	]
+}

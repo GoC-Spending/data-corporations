@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "630 Sherbourne Rd, Ottawa, ON K2A 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75fc3b0221c6416a9f2bdcfce6c7246a|BN20121762|7.7.0.0|",
+				"addressLine": "630 Sherbourne Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "630 Sherbourne Rd, Ottawa, ON K2A 3H3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carlingwood-McKellar Pk-Laurentien",
+				"postalCode": "K2A 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.76397,
+					45.3768699
+				]
+			},
+			"bbox": [
+				-75.7655704,
+				45.3757457,
+				-75.7623696,
+				45.3779941
+			]
+		}
+	]
+}

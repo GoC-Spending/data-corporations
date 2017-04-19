@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2302 Setchfield Ave, Langford, BC V9B 6P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4f51491f8f6145349e5ebe2bac13008f|BN20181720|7.7.0.0|",
+				"addressLine": "2302 Setchfield Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2302 Setchfield Ave, Langford, BC V9B 6P1, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 6P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.50886,
+					48.46854
+				]
+			},
+			"bbox": [
+				-123.5105555,
+				48.4674158,
+				-123.5071645,
+				48.4696642
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "321 Cour Centerra, Ottawa, ON K2J 5T9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1475e472640d404293a3249880f9530c|BN20130621|7.7.0.0|",
+				"addressLine": "321 Cour Centerra",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "321 Cour Centerra, Ottawa, ON K2J 5T9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 5T9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72982,
+					45.2436999
+				]
+			},
+			"bbox": [
+				-75.7314166,
+				45.2425757,
+				-75.7282234,
+				45.2448241
+			]
+		}
+	]
+}

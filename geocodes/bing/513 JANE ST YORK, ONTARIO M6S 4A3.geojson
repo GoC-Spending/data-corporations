@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "513 Jane St, York, ON M6S 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3985878efe55420d92b49af23f34c524|BN20130530|7.7.0.0|",
+				"addressLine": "513 Jane St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "513 Jane St, York, ON M6S 4A3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Runnymede-Bloor West Village",
+				"postalCode": "M6S 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48933,
+					43.66217
+				]
+			},
+			"bbox": [
+				-79.4908839,
+				43.6610458,
+				-79.4877761,
+				43.6632942
+			]
+		}
+	]
+}

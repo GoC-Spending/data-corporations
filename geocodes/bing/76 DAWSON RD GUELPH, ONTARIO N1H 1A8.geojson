@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "76 Dawson Rd, Guelph, ON N1H 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe0775c0251e49eeab4e1ac538316e1e|BN20130625|7.7.0.0|",
+				"addressLine": "76 Dawson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "76 Dawson Rd, Guelph, ON N1H 1A8, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1H 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.27829,
+					43.5479399
+				]
+			},
+			"bbox": [
+				-80.279841,
+				43.5468157,
+				-80.276739,
+				43.5490641
+			]
+		}
+	]
+}

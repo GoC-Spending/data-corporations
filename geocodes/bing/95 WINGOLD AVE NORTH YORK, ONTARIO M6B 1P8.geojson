@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Wingold Ave, North York, ON M6B 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85c84e3693824c0091065fe95ad57124|BN20220145|7.7.0.0|",
+				"addressLine": "95 Wingold Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Wingold Ave, North York, ON M6B 1P8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6B 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45934,
+					43.70205
+				]
+			},
+			"bbox": [
+				-79.460895,
+				43.7009258,
+				-79.457785,
+				43.7031742
+			]
+		}
+	]
+}

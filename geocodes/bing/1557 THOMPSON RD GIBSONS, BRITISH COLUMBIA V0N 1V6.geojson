@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1557 Thompson Rd, Gibsons, BC V0N 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bad25ca531ed4e7d91299be43f61bde5|BN20280152|7.7.0.0|",
+				"addressLine": "1557 Thompson Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Sunshine Coast",
+				"countryRegion": "Canada",
+				"formattedAddress": "1557 Thompson Rd, Gibsons, BC V0N 1V6, Canada",
+				"locality": "Sunshine Coast",
+				"neighborhood": "Gibsons",
+				"postalCode": "V0N 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.47748,
+					49.43968
+				]
+			},
+			"bbox": [
+				-123.4792088,
+				49.4385558,
+				-123.4757512,
+				49.4408042
+			]
+		}
+	]
+}

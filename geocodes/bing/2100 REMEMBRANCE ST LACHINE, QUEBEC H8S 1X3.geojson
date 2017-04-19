@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2100 Rue Remembrance, Lachine, QC H8S 1X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd37cfd5b98c4894b064e76ea3e7308b|BN20130431|7.7.0.0|",
+				"addressLine": "2100 Rue Remembrance",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2100 Rue Remembrance, Lachine, QC H8S 1X3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8S 1X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.68384,
+					45.4382
+				]
+			},
+			"bbox": [
+				-73.6854421,
+				45.4370758,
+				-73.6822379,
+				45.4393242
+			]
+		}
+	]
+}

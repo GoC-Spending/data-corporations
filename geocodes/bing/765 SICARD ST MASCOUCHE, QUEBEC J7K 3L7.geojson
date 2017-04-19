@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "765 Rue Sicard, Mascouche, QC J7K 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4402e98ed344ff88fefe184e8d82f1a|BN20130520|7.7.0.0|",
+				"addressLine": "765 Rue Sicard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Les Moulins",
+				"countryRegion": "Canada",
+				"formattedAddress": "765 Rue Sicard, Mascouche, QC J7K 3L7, Canada",
+				"locality": "Mascouche",
+				"postalCode": "J7K 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.5963699,
+					45.7381
+				]
+			},
+			"bbox": [
+				-73.5979806,
+				45.7369758,
+				-73.5947592,
+				45.7392242
+			]
+		}
+	]
+}

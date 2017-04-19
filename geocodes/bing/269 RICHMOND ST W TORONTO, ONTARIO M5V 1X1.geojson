@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "269 Richmond St W, Toronto, ON M5V 1X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9de0911241a44e60903c8e88dbc8fd7a|BN20130532|7.7.0.0|",
+				"addressLine": "269 Richmond St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "269 Richmond St W, Toronto, ON M5V 1X1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39209,
+					43.6485399
+				]
+			},
+			"bbox": [
+				-79.3936436,
+				43.6474157,
+				-79.3905364,
+				43.6496641
+			]
+		}
+	]
+}

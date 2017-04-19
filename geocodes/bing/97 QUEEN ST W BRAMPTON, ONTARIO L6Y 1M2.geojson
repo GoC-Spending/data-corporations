@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "97 Queen St W, Brampton, ON L6Y 1M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6bd7a4e418e94e37815ddd97e6823d83|BN20130423|7.7.0.0|",
+				"addressLine": "97 Queen St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "97 Queen St W, Brampton, ON L6Y 1M2, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6Y 1M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7616199,
+					43.68405
+				]
+			},
+			"bbox": [
+				-79.7631744,
+				43.6829258,
+				-79.7600654,
+				43.6851742
+			]
+		}
+	]
+}

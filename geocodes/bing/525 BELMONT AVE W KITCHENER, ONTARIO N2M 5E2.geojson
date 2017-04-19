@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "525 Belmont Ave W, Kitchener, ON N2M 5E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c011506a8ed4a6a8176631cb93ccf78|BN20130532|7.7.0.0|",
+				"addressLine": "525 Belmont Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "525 Belmont Ave W, Kitchener, ON N2M 5E2, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Victoria Hills",
+				"postalCode": "N2M 5E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.51489,
+					43.44775
+				]
+			},
+			"bbox": [
+				-80.5164384,
+				43.4466258,
+				-80.5133416,
+				43.4488742
+			]
+		}
+	]
+}

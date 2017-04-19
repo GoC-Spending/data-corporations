@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "580 Main St W, Listowel, ON N4W 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bad86dc6991d4309bb9577c2ec06a954|BN20181720|7.7.0.0|",
+				"addressLine": "580 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "580 Main St W, Listowel, ON N4W 1A8, Canada",
+				"locality": "North Perth",
+				"neighborhood": "Listowel",
+				"postalCode": "N4W 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.95993,
+					43.73396
+				]
+			},
+			"bbox": [
+				-80.9614858,
+				43.7328358,
+				-80.9583742,
+				43.7350842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "148 Nature Park Way, Winnipeg, MB R3P 0X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "784cc2ab72f34732b07f375a0887091f|BN20160335|7.7.0.0|",
+				"addressLine": "148 Nature Park Way",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "148 Nature Park Way, Winnipeg, MB R3P 0X7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Tuxedo Industrials",
+				"postalCode": "R3P 0X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2122501,
+					49.8330498
+				]
+			},
+			"bbox": [
+				-97.2139929,
+				49.8319256,
+				-97.2105072,
+				49.8341739
+			]
+		}
+	]
+}

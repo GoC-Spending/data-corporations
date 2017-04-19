@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Elvaston Dr, North York, ON M4A 1N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "267acc84524346819c6f5d7622871ffd|BN20130625|7.7.0.0|",
+				"addressLine": "75 Elvaston Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Elvaston Dr, North York, ON M4A 1N5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Victoria Village",
+				"postalCode": "M4A 1N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31075,
+					43.72975
+				]
+			},
+			"bbox": [
+				-79.3123057,
+				43.7286258,
+				-79.3091943,
+				43.7308742
+			]
+		}
+	]
+}

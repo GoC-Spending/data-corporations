@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "234 Arvin Ave, Stoney Creek, ON L8E 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0992b357fd34a1bad55e3a4ebd67ec0|BN20121763|7.7.0.0|",
+				"addressLine": "234 Arvin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "234 Arvin Ave, Stoney Creek, ON L8E 2L8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.73263,
+					43.2323499
+				]
+			},
+			"bbox": [
+				-79.7341729,
+				43.2312257,
+				-79.7310871,
+				43.2334741
+			]
+		}
+	]
+}

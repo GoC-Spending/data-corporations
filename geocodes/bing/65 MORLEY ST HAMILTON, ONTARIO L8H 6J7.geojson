@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "65 Morley St, Hamilton, ON L8H 3R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3a0fb886bde4db08d8149e42d9bb46f|BN20121764|7.7.0.0|",
+				"addressLine": "65 Morley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "65 Morley St, Hamilton, ON L8H 3R8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Parkview West",
+				"postalCode": "L8H 3R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78154,
+					43.2505
+				]
+			},
+			"bbox": [
+				-79.7830834,
+				43.2493758,
+				-79.7799966,
+				43.2516242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Industrial Rd, Bradford, ON L3Z 3G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d137c997f4e4ab1890382d2c9d29fb6|BN20130719|7.7.0.0|",
+				"addressLine": "100 Industrial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Industrial Rd, Bradford, ON L3Z 3G7, Canada",
+				"locality": "Bradford West Gwillimbury",
+				"neighborhood": "Bradford",
+				"postalCode": "L3Z 3G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5520999,
+					44.1272999
+				]
+			},
+			"bbox": [
+				-79.553666,
+				44.1261757,
+				-79.5505337,
+				44.128424
+			]
+		}
+	]
+}

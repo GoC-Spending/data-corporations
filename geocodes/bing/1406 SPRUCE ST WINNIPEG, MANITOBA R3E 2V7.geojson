@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1406 Spruce St, Winnipeg, MB R3E 2V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "529cc17abe7a434bb060b8150ef41ac5|BN20130532|7.7.0.0|",
+				"addressLine": "1406 Spruce St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1406 Spruce St, Winnipeg, MB R3E 2V7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Sargent Park",
+				"postalCode": "R3E 2V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1863599,
+					49.90888
+				]
+			},
+			"bbox": [
+				-97.1881055,
+				49.9077558,
+				-97.1846143,
+				49.9100042
+			]
+		}
+	]
+}

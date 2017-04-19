@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Charles St, Guelph, ON N1H 2E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "66495d3ac2a946f38fe79e7253e54c44|BN20130423|7.7.0.0|",
+				"addressLine": "12 Charles St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Charles St, Guelph, ON N1H 2E3, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 2E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.25629,
+					43.54883
+				]
+			},
+			"bbox": [
+				-80.257841,
+				43.5477058,
+				-80.254739,
+				43.5499542
+			]
+		}
+	]
+}

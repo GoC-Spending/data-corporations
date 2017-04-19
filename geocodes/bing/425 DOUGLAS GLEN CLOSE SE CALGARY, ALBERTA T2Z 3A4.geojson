@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "425 Douglas Glen Clos SE, Calgary, AB T2Z 3A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "badcf7ea9a144bd8bd4cc741d4200fd9|BN20240253|7.7.0.0|",
+				"addressLine": "425 Douglas Glen Clos SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "425 Douglas Glen Clos SE, Calgary, AB T2Z 3A4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Douglas Glen",
+				"postalCode": "T2Z 3A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.01236,
+					50.9553
+				]
+			},
+			"bbox": [
+				-114.0141446,
+				50.9541758,
+				-114.0105754,
+				50.9564242
+			]
+		}
+	]
+}

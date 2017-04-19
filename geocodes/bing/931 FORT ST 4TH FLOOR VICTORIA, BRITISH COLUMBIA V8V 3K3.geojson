@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "931 Fort St, Victoria, BC V8V 3K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ed7077ded53f4d0c958cc01d3f43d3f7|BN20250135|7.7.0.0|",
+				"addressLine": "931 Fort St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "931 Fort St, Victoria, BC V8V 3K3, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Harris Green",
+				"postalCode": "V8V 3K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.35851,
+					48.42362
+				]
+			},
+			"bbox": [
+				-123.360204,
+				48.4224958,
+				-123.356816,
+				48.4247442
+			]
+		}
+	]
+}

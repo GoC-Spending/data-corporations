@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19 Callender St, Toronto, ON M6R 2H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05f2e309e2574f08af36ca72086de222|BN20190653|7.7.0.0|",
+				"addressLine": "19 Callender St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "19 Callender St, Toronto, ON M6R 2H2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Roncesvalles",
+				"postalCode": "M6R 2H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44225,
+					43.64038
+				]
+			},
+			"bbox": [
+				-79.4438034,
+				43.6392558,
+				-79.4406966,
+				43.6415042
+			]
+		}
+	]
+}

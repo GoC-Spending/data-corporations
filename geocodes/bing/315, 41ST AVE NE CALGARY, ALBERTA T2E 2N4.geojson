@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "315 41 Ave NE, Calgary, AB T2E 2N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f366946161c34408a7cf98b9c9dd34b9|BN20121764|7.7.0.0|",
+				"addressLine": "315 41 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "315 41 Ave NE, Calgary, AB T2E 2N4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Highland Park",
+				"postalCode": "T2E 2N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05649,
+					51.08977
+				]
+			},
+			"bbox": [
+				-114.0582798,
+				51.0886458,
+				-114.0547002,
+				51.0908942
+			]
+		}
+	]
+}

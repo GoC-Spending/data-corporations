@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6201 52 Ave, Bonnyville, AB T9N 2L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27af2fc525914cb093dff6aa562ae581|BN20190642|7.7.0.0|",
+				"addressLine": "6201 52 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6201 52 Ave, Bonnyville, AB T9N 2L7, Canada",
+				"locality": "Bonnyville",
+				"postalCode": "T9N 2L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.7726378,
+					54.2704549
+				]
+			},
+			"bbox": [
+				-110.7745628,
+				54.2693307,
+				-110.7707127,
+				54.271579
+			]
+		}
+	]
+}

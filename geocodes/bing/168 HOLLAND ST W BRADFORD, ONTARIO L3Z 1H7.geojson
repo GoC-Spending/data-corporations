@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "168 Holland St W, Bradford, ON L3Z 1H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "135394decf254aa5b05bea0af20b15eb|BN20260223|7.7.0.0|",
+				"addressLine": "168 Holland St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "168 Holland St W, Bradford, ON L3Z 1H7, Canada",
+				"locality": "Bradford West Gwillimbury",
+				"neighborhood": "Bradford",
+				"postalCode": "L3Z 1H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5711584,
+					44.1127181
+				]
+			},
+			"bbox": [
+				-79.5727242,
+				44.1115939,
+				-79.5695927,
+				44.1138422
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Sherbrooke Rd, Thorburn, NS B0K 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "750debe04830475999dd80ca29dcca67|BN20130422|7.7.0.0|",
+				"addressLine": "Sherbrooke Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Pictou",
+				"countryRegion": "Canada",
+				"formattedAddress": "Sherbrooke Rd, Thorburn, NS B0K 1W0, Canada",
+				"locality": "Pictou County",
+				"neighborhood": "Thorburn",
+				"postalCode": "B0K 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.56907,
+					45.5538
+				]
+			},
+			"bbox": [
+				-62.57425,
+				45.55047,
+				-62.51845,
+				45.55655
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1377 Weston Rd, York, ON M6M 4S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b5c360de4e04407bca8a820540b2b68|BN20190642|7.7.0.0|",
+				"addressLine": "1377 Weston Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1377 Weston Rd, York, ON M6M 4S1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Dennis",
+				"postalCode": "M6M 4S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5002747,
+					43.6912
+				]
+			},
+			"bbox": [
+				-79.5018294,
+				43.6900759,
+				-79.49872,
+				43.6923242
+			]
+		}
+	]
+}

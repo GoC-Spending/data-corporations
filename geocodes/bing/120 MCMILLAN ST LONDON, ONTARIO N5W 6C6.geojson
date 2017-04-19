@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 McMillan St, London, ON N5W 6C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7e1c6f67f6e4f18b7689bd231474fba|BN20171457|7.7.0.0|",
+				"addressLine": "120 McMillan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 McMillan St, London, ON N5W 6C6, Canada",
+				"locality": "London",
+				"neighborhood": "Hamilton Road",
+				"postalCode": "N5W 6C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1534999,
+					42.9778
+				]
+			},
+			"bbox": [
+				-81.1550364,
+				42.9766758,
+				-81.1519634,
+				42.9789242
+			]
+		}
+	]
+}

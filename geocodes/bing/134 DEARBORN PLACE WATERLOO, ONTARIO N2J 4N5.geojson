@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "134 Dearborn Pl, Waterloo, ON N2J 4N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c4433651f044caf845eea398797eac8|BN20130632|7.7.0.0|",
+				"addressLine": "134 Dearborn Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "134 Dearborn Pl, Waterloo, ON N2J 4N5, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 4N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.51714,
+					43.48776
+				]
+			},
+			"bbox": [
+				-80.5186894,
+				43.4866358,
+				-80.5155906,
+				43.4888842
+			]
+		}
+	]
+}

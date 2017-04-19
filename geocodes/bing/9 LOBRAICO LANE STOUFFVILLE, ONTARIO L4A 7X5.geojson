@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9 Lobraico Ln, Stouffville, ON L4A 3W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58e4a05fa9494a4794808af856e6e922|BN20260223|7.7.0.0|",
+				"addressLine": "9 Lobraico Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "9 Lobraico Ln, Stouffville, ON L4A 3W8, Canada",
+				"locality": "Whitchurch-Stouffville",
+				"neighborhood": "Stouffville",
+				"postalCode": "L4A 3W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3171326,
+					44.0216275
+				]
+			},
+			"bbox": [
+				-79.3186959,
+				44.0205034,
+				-79.3155692,
+				44.0227517
+			]
+		}
+	]
+}

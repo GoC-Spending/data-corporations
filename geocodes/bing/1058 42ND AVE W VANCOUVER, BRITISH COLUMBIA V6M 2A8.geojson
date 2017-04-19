@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1058 W 42nd Ave, Vancouver, BC V6M 2A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e63a4cdf53b7468abe5ce8d0ca71d005|BN20200137|7.7.0.0|",
+				"addressLine": "1058 W 42nd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1058 W 42nd Ave, Vancouver, BC V6M 2A8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kerrisdale",
+				"postalCode": "V6M 2A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1296,
+					49.23279
+				]
+			},
+			"bbox": [
+				-123.1313216,
+				49.2316658,
+				-123.1278784,
+				49.2339142
+			]
+		}
+	]
+}

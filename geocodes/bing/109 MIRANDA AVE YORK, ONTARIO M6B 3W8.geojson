@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "109 Miranda Ave, York, ON M6B 3W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7bb373e85e694ddeb26f097221499752|BN20190642|7.7.0.0|",
+				"addressLine": "109 Miranda Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "109 Miranda Ave, York, ON M6B 3W8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Briar Hill-Belgravia",
+				"postalCode": "M6B 3W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4569677,
+					43.6997534
+				]
+			},
+			"bbox": [
+				-79.4585226,
+				43.6986292,
+				-79.4554128,
+				43.7008775
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "346 King St W, Oshawa, ON L1J 2J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb807d70b1834eb5981e7a24472e6453|BN20171457|7.7.0.0|",
+				"addressLine": "346 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "346 King St W, Oshawa, ON L1J 2J9, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "McLaughlin",
+				"postalCode": "L1J 2J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8762308,
+					43.8948336
+				]
+			},
+			"bbox": [
+				-78.8777908,
+				43.8937095,
+				-78.8746708,
+				43.8959578
+			]
+		}
+	]
+}

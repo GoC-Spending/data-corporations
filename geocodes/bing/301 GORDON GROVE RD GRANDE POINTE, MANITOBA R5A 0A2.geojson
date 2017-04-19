@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Grande Pointe, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ff8258e03f54d24bb15ba3b4009a173|BN20171457|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Grande Pointe, Manitoba, Canada",
+				"locality": "Grande Pointe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0441818237305,
+					49.7697982788086
+				]
+			},
+			"bbox": [
+				-97.1039534487541,
+				49.740827895816,
+				-96.9844101987069,
+				49.7987686618011
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Ritchot, R5A 0A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ff8258e03f54d24bb15ba3b4009a173|BN20171457|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ritchot, R5A 0A2, Canada",
+				"locality": "Ritchot",
+				"postalCode": "R5A 0A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0751342773438,
+					49.7248153686523
+				]
+			},
+			"bbox": [
+				-97.083100563191,
+				49.7209526510817,
+				-97.0671679914965,
+				49.728678086223
+			]
+		}
+	]
+}

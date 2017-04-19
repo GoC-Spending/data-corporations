@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13327 133 Ave NW, Edmonton, AB T5L 3S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "328a7d79ba48483f903b38fe90bc4e03|BN20171457|7.7.0.0|",
+				"addressLine": "13327 133 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "13327 133 Ave NW, Edmonton, AB T5L 3S8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Wellington",
+				"postalCode": "T5L 3S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.55218,
+					53.59292
+				]
+			},
+			"bbox": [
+				-113.554074,
+				53.5917958,
+				-113.550286,
+				53.5940442
+			]
+		}
+	]
+}

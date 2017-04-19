@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Edmonton, T5J 4H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "935e30afb62e418eac02a95068d04f25|BN20130530|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Edmonton, T5J 4H5, Canada",
+				"locality": "Edmonton",
+				"postalCode": "T5J 4H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.497192382813,
+					53.5428237915039
+				]
+			},
+			"bbox": [
+				-113.505858877627,
+				53.5389610739332,
+				-113.488525887998,
+				53.5466865090746
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Edmonton, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "935e30afb62e418eac02a95068d04f25|BN20130530|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Edmonton, Alberta, Canada",
+				"locality": "Edmonton"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.490371704102,
+					53.5462417602539
+				]
+			},
+			"bbox": [
+				-114.448127746582,
+				53.198543548584,
+				-112.561729431152,
+				53.8913078308105
+			]
+		}
+	]
+}

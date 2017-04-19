@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6 Nixon Rd, Bolton, ON L7E 1K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db45bc6bd2834e7a83e7ca986c2988f4|BN20130520|7.7.0.0|",
+				"addressLine": "6 Nixon Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "6 Nixon Rd, Bolton, ON L7E 1K3, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 1K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72196,
+					43.86282
+				]
+			},
+			"bbox": [
+				-79.7235192,
+				43.8616958,
+				-79.7204008,
+				43.8639442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3811 North Fraser Way, Burnaby, BC V5J 5J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c1084a572d9e4c15a4a9c6eca9f5e324|BN20130632|7.7.0.0|",
+				"addressLine": "3811 North Fraser Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3811 North Fraser Way, Burnaby, BC V5J 5J2, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Big Bend",
+				"postalCode": "V5J 5J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0183007,
+					49.2014836
+				]
+			},
+			"bbox": [
+				-123.0200212,
+				49.2003595,
+				-123.0165803,
+				49.2026078
+			]
+		}
+	]
+}

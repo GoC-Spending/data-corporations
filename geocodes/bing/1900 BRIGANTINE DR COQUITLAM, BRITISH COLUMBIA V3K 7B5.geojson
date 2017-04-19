@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1900 Brigantine Dr, Coquitlam, BC V3K 7B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cecae66beb8e46ddbe1cf0ba04a07624|BN20200137|7.7.0.0|",
+				"addressLine": "1900 Brigantine Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1900 Brigantine Dr, Coquitlam, BC V3K 7B5, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Mayfair/Pacific Reach",
+				"postalCode": "V3K 7B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.84111,
+					49.22407
+				]
+			},
+			"bbox": [
+				-122.8428312,
+				49.2229458,
+				-122.8393888,
+				49.2251942
+			]
+		}
+	]
+}

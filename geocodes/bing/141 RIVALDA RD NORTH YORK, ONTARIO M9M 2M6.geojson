@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "141 Rivalda Rd, North York, ON M9M 2M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b182a84e62284adeb8f2dc92c254b301|BN20280152|7.7.0.0|",
+				"addressLine": "141 Rivalda Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "141 Rivalda Rd, North York, ON M9M 2M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humbermede",
+				"postalCode": "M9M 2M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53556,
+					43.74497
+				]
+			},
+			"bbox": [
+				-79.5371161,
+				43.7438458,
+				-79.5340039,
+				43.7460942
+			]
+		}
+	]
+}

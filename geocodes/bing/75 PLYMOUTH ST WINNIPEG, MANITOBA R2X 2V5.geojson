@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "75 Plymouth St, Winnipeg, MB R2X 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "185663f6128c4dfa96291748e7374e8f|BN20130520|7.7.0.0|",
+				"addressLine": "75 Plymouth St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "75 Plymouth St, Winnipeg, MB R2X 2V5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1880599,
+					49.93945
+				]
+			},
+			"bbox": [
+				-97.1898066,
+				49.9383258,
+				-97.1863132,
+				49.9405742
+			]
+		}
+	]
+}

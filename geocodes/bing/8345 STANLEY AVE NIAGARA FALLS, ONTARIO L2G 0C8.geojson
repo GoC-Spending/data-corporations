@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8345 Stanley Ave, Niagara Falls, ON L2G 0C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05f687f2ca7744f897578fa7920b9037|BN20181720|7.7.0.0|",
+				"addressLine": "8345 Stanley Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "8345 Stanley Ave, Niagara Falls, ON L2G 0C8, Canada",
+				"locality": "Niagara Falls",
+				"postalCode": "L2G 0C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.08425,
+					43.0558
+				]
+			},
+			"bbox": [
+				-79.0857885,
+				43.0546758,
+				-79.0827115,
+				43.0569242
+			]
+		}
+	]
+}

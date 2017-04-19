@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2025 Rue Michelin, Laval, QC H7L 5B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4cca222d2222469bafc7188d8aa60e7b|BN20290118|7.7.0.0|",
+				"addressLine": "2025 Rue Michelin",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "2025 Rue Michelin, Laval, QC H7L 5B7, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 5B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.75599,
+					45.58568
+				]
+			},
+			"bbox": [
+				-73.7575963,
+				45.5845558,
+				-73.7543837,
+				45.5868042
+			]
+		}
+	]
+}

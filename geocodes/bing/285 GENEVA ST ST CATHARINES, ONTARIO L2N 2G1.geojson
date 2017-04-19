@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "285 Geneva St, St Catharines, ON L2N 2G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68a533c9697947f6a3ac24af63bc4bd4|BN20121764|7.7.0.0|",
+				"addressLine": "285 Geneva St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "285 Geneva St, St Catharines, ON L2N 2G1, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Fairview-Facer",
+				"postalCode": "L2N 2G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2409968,
+					43.1767603
+				]
+			},
+			"bbox": [
+				-79.2425383,
+				43.1756362,
+				-79.2394552,
+				43.1778845
+			]
+		}
+	]
+}

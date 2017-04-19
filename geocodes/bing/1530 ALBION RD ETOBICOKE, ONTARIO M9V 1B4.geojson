@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1530 Albion Rd, Etobicoke, ON M9V 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "424e39e83bee486487e8f26a23cc75b1|BN20130521|7.7.0.0|",
+				"addressLine": "1530 Albion Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1530 Albion Rd, Etobicoke, ON M9V 1B4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Olive-Silverstone-Jamestown",
+				"postalCode": "M9V 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5849457,
+					43.7405538
+				]
+			},
+			"bbox": [
+				-79.5865017,
+				43.7394296,
+				-79.5833898,
+				43.7416779
+			]
+		}
+	]
+}

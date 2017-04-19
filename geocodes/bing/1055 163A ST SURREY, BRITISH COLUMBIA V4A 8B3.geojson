@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1055 163A St, Surrey, BC V4A 8B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "23f8dc0fba9d41fbbdb20db2beb57865|BN20290118|7.7.0.0|",
+				"addressLine": "1055 163A St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1055 163A St, Surrey, BC V4A 8B3, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V4A 8B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7698549,
+					49.0215222
+				]
+			},
+			"bbox": [
+				-122.7715691,
+				49.0203981,
+				-122.7681406,
+				49.0226464
+			]
+		}
+	]
+}

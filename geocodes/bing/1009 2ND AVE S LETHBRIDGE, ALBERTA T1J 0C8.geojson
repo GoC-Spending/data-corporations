@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1009 2 Ave S, Lethbridge, AB T1J 0C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "175efcc99a7649d4816668e964bce69c|BN20250135|7.7.0.0|",
+				"addressLine": "1009 2 Ave S",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1009 2 Ave S, Lethbridge, AB T1J 0C8, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1J 0C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.8322118,
+					49.6973097
+				]
+			},
+			"bbox": [
+				-112.8339498,
+				49.6961855,
+				-112.8304739,
+				49.6984338
+			]
+		}
+	]
+}

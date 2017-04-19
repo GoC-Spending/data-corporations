@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1456 Church Ave, Winnipeg, MB R2X 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "215089ccc4974907970116525e8fc1de|BN20220145|7.7.0.0|",
+				"addressLine": "1456 Church Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1456 Church Ave, Winnipeg, MB R2X 1G4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.17744,
+					49.93806
+				]
+			},
+			"bbox": [
+				-97.1791866,
+				49.9369358,
+				-97.1756934,
+				49.9391842
+			]
+		}
+	]
+}

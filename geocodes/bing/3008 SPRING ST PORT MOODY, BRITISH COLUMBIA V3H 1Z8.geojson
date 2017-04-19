@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3008 Spring St, Port Moody, BC V3H 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "850b11c7d6f54f819487b279b66c897c|BN20320521|7.7.0.0|",
+				"addressLine": "3008 Spring St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3008 Spring St, Port Moody, BC V3H 1Z8, Canada",
+				"locality": "Port Moody",
+				"postalCode": "V3H 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.84414,
+					49.27736
+				]
+			},
+			"bbox": [
+				-122.8458631,
+				49.2762358,
+				-122.8424169,
+				49.2784842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "224 Don Hillock Dr, Aurora, ON L4G 0G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25d998a2c1cf4e2f9a3093ba8f9485c4|BN20320521|7.7.0.0|",
+				"addressLine": "224 Don Hillock Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "224 Don Hillock Dr, Aurora, ON L4G 0G9, Canada",
+				"locality": "Aurora",
+				"postalCode": "L4G 0G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40965,
+					44.01056
+				]
+			},
+			"bbox": [
+				-79.411213,
+				44.0094358,
+				-79.408087,
+				44.0116842
+			]
+		}
+	]
+}

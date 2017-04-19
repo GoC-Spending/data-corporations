@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18 Giffin Rd, Dundas, ON L9H 6S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e4b52d9ed7c04ee4a35fa70f26e7ee67|BN20250135|7.7.0.0|",
+				"addressLine": "18 Giffin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "18 Giffin Rd, Dundas, ON L9H 6S4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 6S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9843999,
+					43.25499
+				]
+			},
+			"bbox": [
+				-79.9859434,
+				43.2538658,
+				-79.9828564,
+				43.2561142
+			]
+		}
+	]
+}

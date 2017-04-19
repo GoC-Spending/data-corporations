@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "351 Broadway St, Lakeshore, ON N0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99aa02c3df4a4b2b968295e6e251fa32|BN20130719|7.7.0.0|",
+				"addressLine": "351 Broadway St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "351 Broadway St, Lakeshore, ON N0R, Canada",
+				"locality": "Lakeshore",
+				"neighborhood": "Belle River",
+				"postalCode": "N0R 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.69944,
+					42.2956999
+				]
+			},
+			"bbox": [
+				-82.7009598,
+				42.2945757,
+				-82.6979202,
+				42.2968241
+			]
+		}
+	]
+}

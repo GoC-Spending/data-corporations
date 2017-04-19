@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8480 Duff St, Vancouver, BC V5P 4V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2609b4daa9b4e4b8be0a6cf9bfe9570|BN20130530|7.7.0.0|",
+				"addressLine": "8480 Duff St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8480 Duff St, Vancouver, BC V5P 4V9, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Victoria-Fraserview",
+				"postalCode": "V5P 4V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0642538,
+					49.2076413
+				]
+			},
+			"bbox": [
+				-123.0659745,
+				49.2065171,
+				-123.0625331,
+				49.2087654
+			]
+		}
+	]
+}

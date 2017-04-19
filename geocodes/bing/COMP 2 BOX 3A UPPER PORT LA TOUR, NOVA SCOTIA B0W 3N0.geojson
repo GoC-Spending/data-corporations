@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Upper Port La Tour, Nova Scotia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7997133ada043d881ef8a2d8f3cfbff|BN20131519|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Shelburne",
+				"countryRegion": "Canada",
+				"formattedAddress": "Upper Port La Tour, Nova Scotia, Canada",
+				"locality": "Upper Port La Tour"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.4700012207031,
+					43.5122184753418
+				]
+			},
+			"bbox": [
+				-65.5232378253032,
+				43.4832480923492,
+				-65.416764616103,
+				43.5411888583344
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Upper Port la Tour, Barrington, Nova Scotia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7997133ada043d881ef8a2d8f3cfbff|BN20131519|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Shelburne",
+				"countryRegion": "Canada",
+				"formattedAddress": "Upper Port la Tour, Barrington, Nova Scotia, Canada",
+				"locality": "Barrington",
+				"neighborhood": "Upper Port la Tour"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.4770965576172,
+					43.5121116638184
+				]
+			},
+			"bbox": [
+				-65.4841977099466,
+				43.5082489462477,
+				-65.4699954052878,
+				43.515974381389
+			]
+		}
+	]
+}

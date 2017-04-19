@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "210 Main St W, Hawkesbury, ON K6A 2H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28d25140f3f842678f25cf2264e99704|BN20130632|7.7.0.0|",
+				"addressLine": "210 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Prescott and Russell",
+				"countryRegion": "Canada",
+				"formattedAddress": "210 Main St W, Hawkesbury, ON K6A 2H6, Canada",
+				"locality": "Hawkesbury",
+				"postalCode": "K6A 2H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.61707,
+					45.60945
+				]
+			},
+			"bbox": [
+				-74.618677,
+				45.6083258,
+				-74.615463,
+				45.6105742
+			]
+		}
+	]
+}

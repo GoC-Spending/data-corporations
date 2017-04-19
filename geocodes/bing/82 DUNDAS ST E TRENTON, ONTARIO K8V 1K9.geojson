@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Dundas St E, Trenton, ON K8V 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "49d5392f1ea8486f8ed110b79ab2b76c|BN20121762|7.7.0.0|",
+				"addressLine": "82 Dundas St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Dundas St E, Trenton, ON K8V 1K9, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.56974,
+					44.10517
+				]
+			},
+			"bbox": [
+				-77.5713055,
+				44.1040458,
+				-77.5681745,
+				44.1062942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4942 Fraser St, Vancouver, BC V5W 2Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3edfe9be975c4da29be577bbf969c589|BN20280152|7.7.0.0|",
+				"addressLine": "4942 Fraser St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4942 Fraser St, Vancouver, BC V5W 2Y8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5W 2Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0901746,
+					49.2398389
+				]
+			},
+			"bbox": [
+				-123.0918964,
+				49.2387147,
+				-123.0884528,
+				49.240963
+			]
+		}
+	]
+}

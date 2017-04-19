@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Simcoe St S, Oshawa, ON L1H 4G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4f60170488c429ca607b7492336fc7c|BN20130442|7.7.0.0|",
+				"addressLine": "21 Simcoe St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Simcoe St S, Oshawa, ON L1H 4G1, Canada",
+				"locality": "Oshawa",
+				"neighborhood": "Central Oshawa",
+				"postalCode": "L1H 4G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.86301,
+					43.8970399
+				]
+			},
+			"bbox": [
+				-78.8645701,
+				43.8959157,
+				-78.8614499,
+				43.8981641
+			]
+		}
+	]
+}

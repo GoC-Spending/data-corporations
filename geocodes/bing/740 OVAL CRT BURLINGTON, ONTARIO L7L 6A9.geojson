@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "740 Oval Ct, Burlington, ON L7L 6A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2f6810172444b06905590acbeff4b64|BN20240423|7.7.0.0|",
+				"addressLine": "740 Oval Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "740 Oval Ct, Burlington, ON L7L 6A9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Pinedale",
+				"postalCode": "L7L 6A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75932,
+					43.37991
+				]
+			},
+			"bbox": [
+				-79.7608667,
+				43.3787858,
+				-79.7577733,
+				43.3810342
+			]
+		}
+	]
+}

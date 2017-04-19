@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Fredrick St, North Cypress, MB R0K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2a2dcd213ec141298f858daa11bf5ffc|BN20130522|7.7.0.0|",
+				"addressLine": "10 Fredrick St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Fredrick St, North Cypress, MB R0K, Canada",
+				"locality": "North Cypress",
+				"postalCode": "R0K 0H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.3482272,
+					49.8439349
+				]
+			},
+			"bbox": [
+				-99.3499704,
+				49.8428107,
+				-99.3464839,
+				49.845059
+			]
+		}
+	]
+}

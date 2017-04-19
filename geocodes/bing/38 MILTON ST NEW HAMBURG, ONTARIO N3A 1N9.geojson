@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Milton St, New Hamburg, ON N3A 1N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01a42a92ff614d9e9031ab780ec0a591|BN20130423|7.7.0.0|",
+				"addressLine": "38 Milton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Milton St, New Hamburg, ON N3A 1N9, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "New Hamburg",
+				"postalCode": "N3A 1N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.71622,
+					43.37721
+				]
+			},
+			"bbox": [
+				-80.7177666,
+				43.3760858,
+				-80.7146734,
+				43.3783342
+			]
+		}
+	]
+}

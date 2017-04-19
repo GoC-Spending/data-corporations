@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Rue Bridge, Ormstown, QC J0S 1K0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65e4a3931f9e4250a973174c401f3caa|BN20130422|7.7.0.0|",
+				"addressLine": "48 Rue Bridge",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Le Haut-St-Laurent",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Rue Bridge, Ormstown, QC J0S 1K0, Canada",
+				"locality": "Ormstown",
+				"postalCode": "J0S 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.99429,
+					45.12454
+				]
+			},
+			"bbox": [
+				-73.9958833,
+				45.1234158,
+				-73.9926967,
+				45.1256642
+			]
+		}
+	]
+}

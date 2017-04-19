@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 Sunnycroft Ct, Hamilton, ON L0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5c37b7cfe45e4058b86c3c83a2dd83c7|BN20130621|7.7.0.0|",
+				"addressLine": "42 Sunnycroft Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 Sunnycroft Ct, Hamilton, ON L0R, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Waterdown",
+				"postalCode": "L0R 2H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89891,
+					43.32651
+				]
+			},
+			"bbox": [
+				-79.9004553,
+				43.3253858,
+				-79.8973647,
+				43.3276342
+			]
+		}
+	]
+}

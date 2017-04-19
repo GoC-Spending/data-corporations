@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Regency Ct, Fall River, NS B2T 1E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f9a77d2df724ff4991abf7caaf6ed36|BN20130520|7.7.0.0|",
+				"addressLine": "1 Regency Ct",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Regency Ct, Fall River, NS B2T 1E7, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Fall River",
+				"postalCode": "B2T 1E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.63249,
+					44.80343
+				]
+			},
+			"bbox": [
+				-63.6340744,
+				44.8023058,
+				-63.6309056,
+				44.8045542
+			]
+		}
+	]
+}

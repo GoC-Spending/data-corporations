@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "730 Rue Salaberry, Laval, QC H7S 1H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ad65362135f47b883ead2f62c585205|BN20130522|7.7.0.0|",
+				"addressLine": "730 Rue Salaberry",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "730 Rue Salaberry, Laval, QC H7S 1H3, Canada",
+				"locality": "Laval",
+				"postalCode": "H7S 1H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7193,
+					45.5777
+				]
+			},
+			"bbox": [
+				-73.7209061,
+				45.5765758,
+				-73.7176939,
+				45.5788242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10404 66 Ave NW, Edmonton, AB T6H 5R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7399314680a4872b58c3270e857c4f3|BN20190653|7.7.0.0|",
+				"addressLine": "10404 66 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10404 66 Ave NW, Edmonton, AB T6H 5R6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Allendale",
+				"postalCode": "T6H 5R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.49811,
+					53.50266
+				]
+			},
+			"bbox": [
+				-113.5,
+				53.5015358,
+				-113.49622,
+				53.5037842
+			]
+		}
+	]
+}

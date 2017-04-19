@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1109 AUT-13 N, Laval, QC H7W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf410750a15444b596854bed6bc685ab|BN20130632|7.7.0.0|",
+				"addressLine": "1109 AUT-13 N",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1109 AUT-13 N, Laval, QC H7W, Canada",
+				"locality": "Laval",
+				"postalCode": "H7W 5J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.78627,
+					45.53484
+				]
+			},
+			"bbox": [
+				-73.7878748,
+				45.5337158,
+				-73.7846652,
+				45.5359642
+			]
+		}
+	]
+}

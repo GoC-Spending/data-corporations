@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5057 2A Ave, Delta, BC V4M 3N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5b80abdb2114b2e9ce53990f79462ce|BN20280152|7.7.0.0|",
+				"addressLine": "5057 2A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5057 2A Ave, Delta, BC V4M 3N6, Canada",
+				"locality": "Delta",
+				"neighborhood": "Tsawwassen",
+				"postalCode": "V4M 3N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0838282,
+					49.0071849
+				]
+			},
+			"bbox": [
+				-123.0855419,
+				49.0060607,
+				-123.0821144,
+				49.0083091
+			]
+		}
+	]
+}

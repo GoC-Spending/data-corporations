@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Queensway W, Simcoe, ON N3Y 2M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b5bd81827a284f398733cd453557489e|BN20130632|7.7.0.0|",
+				"addressLine": "95 Queensway W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Queensway W, Simcoe, ON N3Y 2M8, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Simcoe",
+				"postalCode": "N3Y 2M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31128,
+					42.84551
+				]
+			},
+			"bbox": [
+				-80.3128132,
+				42.8443858,
+				-80.3097468,
+				42.8466342
+			]
+		}
+	]
+}

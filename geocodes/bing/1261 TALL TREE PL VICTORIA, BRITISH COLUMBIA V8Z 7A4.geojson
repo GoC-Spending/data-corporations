@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1261 Tall Tree Pl, Saanich, BC V8Z 7A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "61482fd02f9940d2b4713bd87dfb67ee|BN20290118|7.7.0.0|",
+				"addressLine": "1261 Tall Tree Pl",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1261 Tall Tree Pl, Saanich, BC V8Z 7A4, Canada",
+				"locality": "Saanich",
+				"postalCode": "V8Z 7A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.41716,
+					48.46877
+				]
+			},
+			"bbox": [
+				-123.4188555,
+				48.4676458,
+				-123.4154645,
+				48.4698942
+			]
+		}
+	]
+}

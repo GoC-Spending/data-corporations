@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Norfolk Ave, Cambridge, ON N1R 3V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46a59d563ff9446eb3324bdebb8f38d4|BN20130621|7.7.0.0|",
+				"addressLine": "99 Norfolk Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Norfolk Ave, Cambridge, ON N1R 3V1, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Greenway-Chaplin",
+				"postalCode": "N1R 3V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31156,
+					43.37303
+				]
+			},
+			"bbox": [
+				-80.3131065,
+				43.3719058,
+				-80.3100135,
+				43.3741542
+			]
+		}
+	]
+}

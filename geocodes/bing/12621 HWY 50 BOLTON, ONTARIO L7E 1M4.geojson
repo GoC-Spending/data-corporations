@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12621 HWY-50, Bolton, ON L7E 1M4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d16714d8475f47eab45b484dfdbf9f1c|BN20130431|7.7.0.0|",
+				"addressLine": "12621 HWY-50",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "12621 HWY-50, Bolton, ON L7E 1M4, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Bolton",
+				"postalCode": "L7E 1M4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7115456,
+					43.8605583
+				]
+			},
+			"bbox": [
+				-79.7131047,
+				43.8594341,
+				-79.7099865,
+				43.8616824
+			]
+		}
+	]
+}

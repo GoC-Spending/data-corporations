@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 Pears Ave, Toronto, ON M5R 1S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cbc258c9b219477aa3d96575ed93d73a|BN20240423|7.7.0.0|",
+				"addressLine": "89 Pears Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 Pears Ave, Toronto, ON M5R 1S9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 1S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3958,
+					43.67557
+				]
+			},
+			"bbox": [
+				-79.3973543,
+				43.6744458,
+				-79.3942457,
+				43.6766942
+			]
+		}
+	]
+}

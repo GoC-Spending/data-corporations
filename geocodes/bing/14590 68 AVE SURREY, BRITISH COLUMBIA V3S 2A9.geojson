@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14590 68 Ave, Surrey, BC V3S 2A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6097338114024b0eb779f63e212793eb|BN20130521|7.7.0.0|",
+				"addressLine": "14590 68 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "14590 68 Ave, Surrey, BC V3S 2A9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3S 2A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.81801,
+					49.12617
+				]
+			},
+			"bbox": [
+				-122.8197278,
+				49.1250458,
+				-122.8162922,
+				49.1272942
+			]
+		}
+	]
+}

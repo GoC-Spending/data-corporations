@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "155 York St, London, ON N6A 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de0f26957a3f4ab3b01c5870ed0f0142|BN20240423|7.7.0.0|",
+				"addressLine": "155 York St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "155 York St, London, ON N6A 1A8, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6A 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2487,
+					42.9811
+				]
+			},
+			"bbox": [
+				-81.2502366,
+				42.9799758,
+				-81.2471634,
+				42.9822242
+			]
+		}
+	]
+}

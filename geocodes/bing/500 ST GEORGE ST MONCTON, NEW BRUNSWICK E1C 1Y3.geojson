@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "500 St George St, Moncton, NB E1C 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "93464f8f5bcb4d1c8a3802691e5b9881|BN20130719|7.7.0.0|",
+				"addressLine": "500 St George St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "500 St George St, Moncton, NB E1C 1Y3, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.79449,
+					46.08845
+				]
+			},
+			"bbox": [
+				-64.7961109,
+				46.0873258,
+				-64.7928691,
+				46.0895742
+			]
+		}
+	]
+}

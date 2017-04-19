@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4805 82 Ave NW, Edmonton, AB T6B 0E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cecb5b345fbc452cb150e72ab8c48102|BN20320521|7.7.0.0|",
+				"addressLine": "4805 82 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4805 82 Ave NW, Edmonton, AB T6B 0E5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Morris Industrial",
+				"postalCode": "T6B 0E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4141751,
+					53.5177691
+				]
+			},
+			"bbox": [
+				-113.4160658,
+				53.5166449,
+				-113.4122844,
+				53.5188932
+			]
+		}
+	]
+}

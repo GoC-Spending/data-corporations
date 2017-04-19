@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 12 Ave SW, Calgary, AB T2R 0G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bdc5b12f03bf4c07bd4e148dc5663573|BN20130522|7.7.0.0|",
+				"addressLine": "110 12 Ave SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 12 Ave SW, Calgary, AB T2R 0G7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Beltline",
+				"postalCode": "T2R 0G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06409,
+					51.04162
+				]
+			},
+			"bbox": [
+				-114.0658779,
+				51.0404958,
+				-114.0623021,
+				51.0427442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Beaver St, Glen Williams, ON L7G 3P6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e643dee7f460411a97ff7cdfd0851056|BN20290118|7.7.0.0|",
+				"addressLine": "17 Beaver St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Beaver St, Glen Williams, ON L7G 3P6, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Glen Williams",
+				"postalCode": "L7G 3P6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92588,
+					43.66597
+				]
+			},
+			"bbox": [
+				-79.927434,
+				43.6648458,
+				-79.924326,
+				43.6670942
+			]
+		}
+	]
+}

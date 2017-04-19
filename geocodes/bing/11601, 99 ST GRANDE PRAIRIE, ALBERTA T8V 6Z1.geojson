@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11601 99 St, Grande Prairie, AB T8V 6Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3177db58dfea4c74b1d29dd51d579c01|BN20300154|7.7.0.0|",
+				"addressLine": "11601 99 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11601 99 St, Grande Prairie, AB T8V 6Z1, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Crystal Village",
+				"postalCode": "T8V 6Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.7913536,
+					55.1854959
+				]
+			},
+			"bbox": [
+				-118.7933226,
+				55.1843718,
+				-118.7893846,
+				55.1866201
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "109 Park St S, Peterborough, ON K9J 3R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d8efda9ef864b85824d211608ae280c|BN20130442|7.7.0.0|",
+				"addressLine": "109 Park St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "109 Park St S, Peterborough, ON K9J 3R8, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9J 3R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3237599,
+					44.28901
+				]
+			},
+			"bbox": [
+				-78.3253303,
+				44.2878858,
+				-78.3221895,
+				44.2901342
+			]
+		}
+	]
+}

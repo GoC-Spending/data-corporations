@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2149 Walker Ave, Peterborough, ON K9L 1T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9bc49598842456a9efbc11630235cbc|BN20220145|7.7.0.0|",
+				"addressLine": "2149 Walker Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "2149 Walker Ave, Peterborough, ON K9L 1T6, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9L 1T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.2972,
+					44.3010499
+				]
+			},
+			"bbox": [
+				-78.2987707,
+				44.2999257,
+				-78.2956293,
+				44.3021741
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 Ripley Ave, Toronto, ON M6S 3N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1baadccda2704581bc770ebe9f3d125a|BN20190642|7.7.0.0|",
+				"addressLine": "8 Ripley Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 Ripley Ave, Toronto, ON M6S 3N9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6S 3N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47507,
+					43.63752
+				]
+			},
+			"bbox": [
+				-79.4766233,
+				43.6363958,
+				-79.4735167,
+				43.6386442
+			]
+		}
+	]
+}

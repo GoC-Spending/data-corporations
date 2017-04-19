@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "47 Belcourt Ave, Barrie, ON L4M 4E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a8020611c6c404291ecae635fa426f4|BN20130631|7.7.0.0|",
+				"addressLine": "47 Belcourt Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "47 Belcourt Ave, Barrie, ON L4M 4E5, Canada",
+				"locality": "Barrie",
+				"neighborhood": "Grove East",
+				"postalCode": "L4M 4E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67309,
+					44.40613
+				]
+			},
+			"bbox": [
+				-79.6746636,
+				44.4050058,
+				-79.6715164,
+				44.4072542
+			]
+		}
+	]
+}

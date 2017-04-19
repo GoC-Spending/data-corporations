@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19021 Mitchell Rd, Pitt Meadows, BC V3Y 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b9db20e6f2454a87bdc7332bdbe6a87c|BN20171457|7.7.0.0|",
+				"addressLine": "19021 Mitchell Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19021 Mitchell Rd, Pitt Meadows, BC V3Y 1Y1, Canada",
+				"locality": "Pitt Meadows",
+				"postalCode": "V3Y 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.69463,
+					49.21743
+				]
+			},
+			"bbox": [
+				-122.696351,
+				49.2163058,
+				-122.692909,
+				49.2185542
+			]
+		}
+	]
+}

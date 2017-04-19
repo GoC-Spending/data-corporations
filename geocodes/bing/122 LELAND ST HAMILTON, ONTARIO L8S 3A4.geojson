@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "122 Leland St, Hamilton, ON L8S 3A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a459fb2c48a8441184fc1e512482c055|BN20130620|7.7.0.0|",
+				"addressLine": "122 Leland St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "122 Leland St, Hamilton, ON L8S 3A4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ainslie Wood East",
+				"postalCode": "L8S 3A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92523,
+					43.25165
+				]
+			},
+			"bbox": [
+				-79.9267734,
+				43.2505258,
+				-79.9236866,
+				43.2527742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "152 Strathbury Cir SW, Calgary, AB T3H 1P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd130d3c1088433997cec94271ac14b8|BN20190642|7.7.0.0|",
+				"addressLine": "152 Strathbury Cir SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "152 Strathbury Cir SW, Calgary, AB T3H 1P9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Strathcona Park",
+				"postalCode": "T3H 1P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.17881,
+					51.04955
+				]
+			},
+			"bbox": [
+				-114.1805982,
+				51.0484258,
+				-114.1770218,
+				51.0506742
+			]
+		}
+	]
+}

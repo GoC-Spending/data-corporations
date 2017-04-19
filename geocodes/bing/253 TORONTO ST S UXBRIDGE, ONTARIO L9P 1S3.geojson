@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "253 Toronto St S, Uxbridge, ON L9P 1R1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdc728cfc13341b4b6e4f9f1b17095be|BN20130719|7.7.0.0|",
+				"addressLine": "253 Toronto St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "253 Toronto St S, Uxbridge, ON L9P 1R1, Canada",
+				"locality": "Uxbridge",
+				"postalCode": "L9P 1R1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.12858,
+					44.09639
+				]
+			},
+			"bbox": [
+				-79.1301453,
+				44.0952658,
+				-79.1270147,
+				44.0975142
+			]
+		}
+	]
+}

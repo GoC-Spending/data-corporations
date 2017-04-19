@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21 Toro Rd, North York, ON M3J 2A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39806e04a2ba45179f59b0ea852a96f9|BN20130431|7.7.0.0|",
+				"addressLine": "21 Toro Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "21 Toro Rd, North York, ON M3J 2A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48827,
+					43.75991
+				]
+			},
+			"bbox": [
+				-79.4898265,
+				43.7587858,
+				-79.4867135,
+				43.7610342
+			]
+		}
+	]
+}

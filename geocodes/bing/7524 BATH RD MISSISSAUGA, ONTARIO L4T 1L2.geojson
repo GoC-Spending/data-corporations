@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7524 Bath Rd, Mississauga, ON L4T 1L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a21430b9f8694d1486be13b05c90f4dc|BN20320521|7.7.0.0|",
+				"addressLine": "7524 Bath Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "7524 Bath Rd, Mississauga, ON L4T 1L2, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4T 1L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6581452,
+					43.7117202
+				]
+			},
+			"bbox": [
+				-79.6597004,
+				43.7105961,
+				-79.65659,
+				43.7128444
+			]
+		}
+	]
+}

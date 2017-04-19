@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "152 King St, Fredericton, NB E3B 1C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ea6b7a62fec24ce9a384929d7a9cbe0b|BN20130532|7.7.0.0|",
+				"addressLine": "152 King St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "152 King St, Fredericton, NB E3B 1C9, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 1C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.64999,
+					45.9639499
+				]
+			},
+			"bbox": [
+				-66.6516072,
+				45.9628257,
+				-66.6483728,
+				45.9650741
+			]
+		}
+	]
+}

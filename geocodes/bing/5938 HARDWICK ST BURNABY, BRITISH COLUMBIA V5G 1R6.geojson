@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5938 Hardwick St, Burnaby, BC V5G 1R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e96ac021f4b048fb8905429ac34d8ab0|BN20200239|7.7.0.0|",
+				"addressLine": "5938 Hardwick St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5938 Hardwick St, Burnaby, BC V5G 1R6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Douglas-Gilpin",
+				"postalCode": "V5G 1R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9774925,
+					49.2515751
+				]
+			},
+			"bbox": [
+				-122.9792148,
+				49.2504509,
+				-122.9757703,
+				49.2526993
+			]
+		}
+	]
+}

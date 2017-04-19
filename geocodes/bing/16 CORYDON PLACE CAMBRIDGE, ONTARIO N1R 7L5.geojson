@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Corydon Pl, Cambridge, ON N1R 7L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb103f6fca4a4cbdb2ad273eabd19a3a|BN20121764|7.7.0.0|",
+				"addressLine": "16 Corydon Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Corydon Pl, Cambridge, ON N1R 7L5, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 7L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3135699,
+					43.4018718
+				]
+			},
+			"bbox": [
+				-80.3151172,
+				43.4007476,
+				-80.3120227,
+				43.4029959
+			]
+		}
+	]
+}

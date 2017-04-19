@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "591 Chester Rd, Delta, BC V3M 6G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe930c9a72e640c8b0cfac4262bd1130|BN20130447|7.7.0.0|",
+				"addressLine": "591 Chester Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "591 Chester Rd, Delta, BC V3M 6G7, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 6G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9461877,
+					49.1694224
+				]
+			},
+			"bbox": [
+				-122.947907,
+				49.1682983,
+				-122.9444684,
+				49.1705466
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "624 Parkdale Ave N, Hamilton, ON L8H 5Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef3caa69f5144c8095b52fe8aa133aaa|BN20130634|7.7.0.0|",
+				"addressLine": "624 Parkdale Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "624 Parkdale Ave N, Hamilton, ON L8H 5Z3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Parkview West",
+				"postalCode": "L8H 5Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78431,
+					43.25304
+				]
+			},
+			"bbox": [
+				-79.7858535,
+				43.2519158,
+				-79.7827665,
+				43.2541642
+			]
+		}
+	]
+}

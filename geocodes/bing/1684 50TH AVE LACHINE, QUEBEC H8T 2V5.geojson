@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1684 50e Avenue N, Lachine, QC H8T 2V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24aae1ba4f1e45af83a44ddc1ddd78ee|BN20130530|7.7.0.0|",
+				"addressLine": "1684 50e Avenue N",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1684 50e Avenue N, Lachine, QC H8T 2V5, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 2V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.7158417,
+					45.4547245
+				]
+			},
+			"bbox": [
+				-73.7174443,
+				45.4536003,
+				-73.7142392,
+				45.4558486
+			]
+		}
+	]
+}

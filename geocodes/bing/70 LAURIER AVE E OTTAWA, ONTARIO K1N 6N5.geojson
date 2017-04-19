@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "70 Laurier Ave E, Ottawa, ON K1N 6N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd65eaddec9f45c5baaf444c21c99d8e|BN20130634|7.7.0.0|",
+				"addressLine": "70 Laurier Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "70 Laurier Ave E, Ottawa, ON K1N 6N6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Sandy Hill-Ottawa East-Ottawa U",
+				"postalCode": "K1N 6N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6860851,
+					45.4238381
+				]
+			},
+			"bbox": [
+				-75.6876868,
+				45.422714,
+				-75.6844834,
+				45.4249623
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Thomas St, Alton, ON L7K 0E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "af09458d9d134c47b637f0a9effb4eed|BN20130620|7.7.0.0|",
+				"addressLine": "55 Thomas St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Thomas St, Alton, ON L7K 0E3, Canada",
+				"locality": "Caledon",
+				"neighborhood": "Alton",
+				"postalCode": "L7K 0E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0689,
+					43.86442
+				]
+			},
+			"bbox": [
+				-80.0704592,
+				43.8632958,
+				-80.0673408,
+				43.8655442
+			]
+		}
+	]
+}

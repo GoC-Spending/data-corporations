@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5435 N Service Rd, Burlington, ON L7L 5H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1605555da4a49d9a2eb4e298d20b661|BN20220145|7.7.0.0|",
+				"addressLine": "5435 N Service Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5435 N Service Rd, Burlington, ON L7L 5H7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Corporate",
+				"postalCode": "L7L 5H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76107,
+					43.39454
+				]
+			},
+			"bbox": [
+				-79.7626171,
+				43.3934158,
+				-79.7595229,
+				43.3956642
+			]
+		}
+	]
+}

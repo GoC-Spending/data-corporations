@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "460 Portage Ave, Winnipeg, MB R3C 0E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "048bd7b37ae847d6ab9072a067bc5637|BN20190642|7.7.0.0|",
+				"addressLine": "460 Portage Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "460 Portage Ave, Winnipeg, MB R3C 0E8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Colony",
+				"postalCode": "R3C 0E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15134,
+					49.89022
+				]
+			},
+			"bbox": [
+				-97.1530849,
+				49.8890958,
+				-97.1495951,
+				49.8913442
+			]
+		}
+	]
+}

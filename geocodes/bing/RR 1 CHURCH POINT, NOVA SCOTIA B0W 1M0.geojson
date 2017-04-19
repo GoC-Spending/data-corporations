@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Church Point, B0W 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e324ee1780f48ff9ece91cb7983c345|BN20130625|7.7.0.0|",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Digby",
+				"countryRegion": "Canada",
+				"formattedAddress": "Church Point, B0W 1M0, Canada",
+				"locality": "Church Point",
+				"postalCode": "B0W 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1084594726563,
+					44.2831115722656
+				]
+			},
+			"bbox": [
+				-66.1156531614585,
+				44.2792488546949,
+				-66.101265783854,
+				44.2869742898363
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "AdminDivision1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Roraima, Brazil",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e324ee1780f48ff9ece91cb7983c345|BN20130625|7.7.0.0|",
+				"adminDistrict": "RR",
+				"countryRegion": "Brazil",
+				"formattedAddress": "Roraima, Brazil"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.6574211120605,
+					2.82424998283386
+				]
+			},
+			"bbox": [
+				-64.8135986328125,
+				-1.5964070558548,
+				-58.8705787658691,
+				5.26487684249878
+			]
+		}
+	]
+}

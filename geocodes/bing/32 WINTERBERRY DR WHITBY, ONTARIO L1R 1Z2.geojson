@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Winterberry Dr, Whitby, ON L1R 1Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2c6d6b4f6724dc9b2c5b8f756551e80|BN20130423|7.7.0.0|",
+				"addressLine": "32 Winterberry Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Winterberry Dr, Whitby, ON L1R 1Z2, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1R 1Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.91971,
+					43.90926
+				]
+			},
+			"bbox": [
+				-78.9212704,
+				43.9081358,
+				-78.9181496,
+				43.9103842
+			]
+		}
+	]
+}

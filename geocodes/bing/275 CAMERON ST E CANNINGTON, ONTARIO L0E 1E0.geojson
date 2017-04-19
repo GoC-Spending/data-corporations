@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Cameron St E, Cannington, ON L0E 1E0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9a3c1eb73a84063ba4c6bbee9ed6c08|BN20130621|7.7.0.0|",
+				"addressLine": "275 Cameron St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Cameron St E, Cannington, ON L0E 1E0, Canada",
+				"locality": "Brock",
+				"neighborhood": "Cannington",
+				"postalCode": "L0E 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.02661,
+					44.35271
+				]
+			},
+			"bbox": [
+				-79.0281821,
+				44.3515858,
+				-79.0250379,
+				44.3538342
+			]
+		}
+	]
+}

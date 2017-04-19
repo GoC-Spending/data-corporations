@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "306 Webber Ave, Vancouver, BC V5V 2G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8767a92ea37d4797bdcfe9c5feab6111|BN20131519|7.7.0.0|",
+				"addressLine": "306 Webber Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "306 Webber Ave, Vancouver, BC V5V 2G5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Riley Park",
+				"postalCode": "V5V 2G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.09892,
+					49.24804
+				]
+			},
+			"bbox": [
+				-123.1006421,
+				49.2469158,
+				-123.0971979,
+				49.2491642
+			]
+		}
+	]
+}

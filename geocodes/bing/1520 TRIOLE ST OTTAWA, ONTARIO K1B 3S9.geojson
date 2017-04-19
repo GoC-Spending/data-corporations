@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1520 Triole St, Ottawa, ON K1B 3S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69635cef7a924f66a40040acc514b90f|BN20200239|7.7.0.0|",
+				"addressLine": "1520 Triole St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1520 Triole St, Ottawa, ON K1B 3S9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1B 3S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.62951,
+					45.41256
+				]
+			},
+			"bbox": [
+				-75.6311114,
+				45.4114358,
+				-75.6279086,
+				45.4136842
+			]
+		}
+	]
+}

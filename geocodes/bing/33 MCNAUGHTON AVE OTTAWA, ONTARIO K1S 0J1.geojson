@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 McNaughton Ave, Ottawa, ON K1S 0J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f44901937bc64198ace4cb997895a2b5|BN20130520|7.7.0.0|",
+				"addressLine": "33 McNaughton Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 McNaughton Ave, Ottawa, ON K1S 0J1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Golden Triangle-Old Ottawa East",
+				"postalCode": "K1S 0J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67829,
+					45.40493
+				]
+			},
+			"bbox": [
+				-75.6798911,
+				45.4038058,
+				-75.6766889,
+				45.4060542
+			]
+		}
+	]
+}

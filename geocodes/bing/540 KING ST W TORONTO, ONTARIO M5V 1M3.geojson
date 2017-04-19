@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "540 King St W, Toronto, ON M5V 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e5409d02b30406f8a859eda864daf8b|BN20130634|7.7.0.0|",
+				"addressLine": "540 King St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "540 King St W, Toronto, ON M5V 1M3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39801,
+					43.64515
+				]
+			},
+			"bbox": [
+				-79.3995635,
+				43.6440258,
+				-79.3964565,
+				43.6462742
+			]
+		}
+	]
+}

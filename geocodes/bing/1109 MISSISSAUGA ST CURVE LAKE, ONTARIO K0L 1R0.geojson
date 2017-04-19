@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1109 Mississauga St, Selwyn, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "012d00ece4964ce8885afca630324fec|BN20130522|7.7.0.0|",
+				"addressLine": "1109 Mississauga St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "1109 Mississauga St, Selwyn, ON K0L, Canada",
+				"locality": "Selwyn",
+				"neighborhood": "Curve Lake",
+				"postalCode": "K0L 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3625202,
+					44.4761234
+				]
+			},
+			"bbox": [
+				-78.3640956,
+				44.4749992,
+				-78.3609447,
+				44.4772475
+			]
+		}
+	]
+}

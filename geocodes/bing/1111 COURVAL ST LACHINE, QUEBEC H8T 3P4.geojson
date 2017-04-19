@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1111 Rue Courval, Lachine, QC H8T 3P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e09867bc0ab4fc2add619a4aad0f442|BN20200137|7.7.0.0|",
+				"addressLine": "1111 Rue Courval",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1111 Rue Courval, Lachine, QC H8T 3P4, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.69728,
+					45.46229
+				]
+			},
+			"bbox": [
+				-73.6988828,
+				45.4611658,
+				-73.6956772,
+				45.4634142
+			]
+		}
+	]
+}

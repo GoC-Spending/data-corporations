@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1743 Bayswater St, Vancouver, BC V6K 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c795268b77304461afdf585addfe56e5|BN20130721|7.7.0.0|",
+				"addressLine": "1743 Bayswater St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1743 Bayswater St, Vancouver, BC V6K 4A3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kitsilano",
+				"postalCode": "V6K 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17132,
+					49.27039
+				]
+			},
+			"bbox": [
+				-123.1730429,
+				49.2692658,
+				-123.1695971,
+				49.2715142
+			]
+		}
+	]
+}

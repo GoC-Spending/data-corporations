@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4850 Keele St, North York, ON M3J 3K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6ad4937a89cf425090cf58bd2d3b6e8b|BN20260223|7.7.0.0|",
+				"addressLine": "4850 Keele St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4850 Keele St, North York, ON M3J 3K1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 3K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4952799,
+					43.77878
+				]
+			},
+			"bbox": [
+				-79.4968369,
+				43.7776558,
+				-79.4937229,
+				43.7799042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Antares Dr, Nepean, ON K2E 7V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dbccd4e3f7b14e708b6a059405104436|BN20130631|7.7.0.0|",
+				"addressLine": "29 Antares Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Antares Dr, Nepean, ON K2E 7V2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2E 7V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70895,
+					45.33244
+				]
+			},
+			"bbox": [
+				-75.7105491,
+				45.3313158,
+				-75.7073509,
+				45.3335642
+			]
+		}
+	]
+}

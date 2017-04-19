@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "265 Yorkland Blvd, North York, ON M2J 1S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b5f4fb87bc14616b073e8cd18650020|BN20130521|7.7.0.0|",
+				"addressLine": "265 Yorkland Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "265 Yorkland Blvd, North York, ON M2J 1S5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Henry Farm",
+				"postalCode": "M2J 1S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.33595,
+					43.77334
+				]
+			},
+			"bbox": [
+				-79.3375068,
+				43.7722158,
+				-79.3343932,
+				43.7744642
+			]
+		}
+	]
+}

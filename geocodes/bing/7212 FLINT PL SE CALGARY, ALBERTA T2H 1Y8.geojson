@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7212 Flint Pl SE, Calgary, AB T2H 1Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6002244d8b71487daea64f84d0e292bd|BN20300154|7.7.0.0|",
+				"addressLine": "7212 Flint Pl SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7212 Flint Pl SE, Calgary, AB T2H 1Y8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Fairview",
+				"postalCode": "T2H 1Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.06561,
+					50.98845
+				]
+			},
+			"bbox": [
+				-114.0673959,
+				50.9873258,
+				-114.0638241,
+				50.9895742
+			]
+		}
+	]
+}

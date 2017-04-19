@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7506 43 St, Leduc, AB T9E 7E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27d77dad9c1c464e905583f67aa823d6|BN20260223|7.7.0.0|",
+				"addressLine": "7506 43 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7506 43 St, Leduc, AB T9E 7E8, Canada",
+				"locality": "Leduc",
+				"postalCode": "T9E 7E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5375182,
+					53.2967928
+				]
+			},
+			"bbox": [
+				-113.5393991,
+				53.2956686,
+				-113.5356373,
+				53.2979169
+			]
+		}
+	]
+}

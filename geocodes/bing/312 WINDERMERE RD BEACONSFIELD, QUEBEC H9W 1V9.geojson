@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "312 Windermere Rd, Beaconsfield, QC H9W 1V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8dee9e2332814bfc8fa2545acea793ba|BN20130442|7.7.0.0|",
+				"addressLine": "312 Windermere Rd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "312 Windermere Rd, Beaconsfield, QC H9W 1V9, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 1V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8715562,
+					45.43825
+				]
+			},
+			"bbox": [
+				-73.8731583,
+				45.4371259,
+				-73.8699541,
+				45.4393742
+			]
+		}
+	]
+}

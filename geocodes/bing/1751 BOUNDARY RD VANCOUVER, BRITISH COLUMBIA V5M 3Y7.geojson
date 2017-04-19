@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1751 Boundary Rd, Vancouver, BC V5M 3Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3e9ca39eed134848934e560e16b70d50|BN20130447|7.7.0.0|",
+				"addressLine": "1751 Boundary Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1751 Boundary Rd, Vancouver, BC V5M 3Y7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5M 3Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0238649,
+					49.2688874
+				]
+			},
+			"bbox": [
+				-123.0255877,
+				49.2677633,
+				-123.0221421,
+				49.2700116
+			]
+		}
+	]
+}

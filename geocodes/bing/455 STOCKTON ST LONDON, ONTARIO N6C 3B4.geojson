@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "455 Stockton St, London, ON N6C 3B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d769e3baf97a4080ae6070405d249fdc|BN20210145|7.7.0.0|",
+				"addressLine": "455 Stockton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "455 Stockton St, London, ON N6C 3B4, Canada",
+				"locality": "London",
+				"neighborhood": "White Oaks",
+				"postalCode": "N6C 3B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2413,
+					42.9428
+				]
+			},
+			"bbox": [
+				-81.2428357,
+				42.9416758,
+				-81.2397643,
+				42.9439242
+			]
+		}
+	]
+}

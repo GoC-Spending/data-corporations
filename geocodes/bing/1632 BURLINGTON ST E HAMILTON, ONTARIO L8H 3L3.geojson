@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1632 Burlington St E, Hamilton, ON L8H 3L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d0335af440b74dc0a2e0dd09c44c9f9d|CO30324209|7.7.0.0|",
+				"addressLine": "1632 Burlington St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1632 Burlington St E, Hamilton, ON L8H 3L3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Industrial Sector F",
+				"postalCode": "L8H 3L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7952053,
+					43.2564843
+				]
+			},
+			"bbox": [
+				-79.7967489,
+				43.2553602,
+				-79.7936618,
+				43.2576085
+			]
+		}
+	]
+}

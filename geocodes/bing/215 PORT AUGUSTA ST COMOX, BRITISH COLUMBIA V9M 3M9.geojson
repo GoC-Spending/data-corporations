@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "215 Port Augusta St, Comox, BC V9M 3M9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f6645d574c944599fe3f8bab8d8d236|BN20130521|7.7.0.0|",
+				"addressLine": "215 Port Augusta St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "215 Port Augusta St, Comox, BC V9M 3M9, Canada",
+				"locality": "Comox",
+				"postalCode": "V9M 3M9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.92407,
+					49.67377
+				]
+			},
+			"bbox": [
+				-124.9258071,
+				49.6726458,
+				-124.9223329,
+				49.6748942
+			]
+		}
+	]
+}

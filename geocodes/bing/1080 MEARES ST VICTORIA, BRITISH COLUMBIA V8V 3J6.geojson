@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1080 Meares St, Victoria, BC V8V 3J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "343b77ed0f3a4345bf1be1c96225e929|BN20130431|7.7.0.0|",
+				"addressLine": "1080 Meares St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1080 Meares St, Victoria, BC V8V 3J6, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Harris Green",
+				"postalCode": "V8V 3J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3547961,
+					48.4231714
+				]
+			},
+			"bbox": [
+				-123.3564901,
+				48.4220473,
+				-123.3531022,
+				48.4242956
+			]
+		}
+	]
+}

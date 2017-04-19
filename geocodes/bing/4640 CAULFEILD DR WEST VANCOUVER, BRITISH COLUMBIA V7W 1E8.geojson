@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4640 Caulfeild Dr, West Vancouver, BC V7W 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fea5c1dc072043e8a77350b26f46e5af|BN20280152|7.7.0.0|",
+				"addressLine": "4640 Caulfeild Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4640 Caulfeild Dr, West Vancouver, BC V7W 1E8, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Caulfeild",
+				"postalCode": "V7W 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.24956,
+					49.34591
+				]
+			},
+			"bbox": [
+				-123.2512855,
+				49.3447858,
+				-123.2478345,
+				49.3470342
+			]
+		}
+	]
+}

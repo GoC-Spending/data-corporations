@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6115 30 St NW, Edmonton, AB T6P 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "83683589a85740ff99c035fe39c1d6dd|BN20220145|7.7.0.0|",
+				"addressLine": "6115 30 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6115 30 St NW, Edmonton, AB T6P 1J8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Southeast Industrial",
+				"postalCode": "T6P 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.38627,
+					53.49914
+				]
+			},
+			"bbox": [
+				-113.3881599,
+				53.4980158,
+				-113.3843801,
+				53.5002642
+			]
+		}
+	]
+}

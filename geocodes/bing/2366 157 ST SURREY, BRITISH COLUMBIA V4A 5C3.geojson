@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2366 157 St, Surrey, BC V4A 5C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e5d0f9de590415b96b382aa6dfe8894|BN20181720|7.7.0.0|",
+				"addressLine": "2366 157 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2366 157 St, Surrey, BC V4A 5C3, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V4A 5C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.78722,
+					49.04491
+				]
+			},
+			"bbox": [
+				-122.788935,
+				49.0437858,
+				-122.785505,
+				49.0460342
+			]
+		}
+	]
+}

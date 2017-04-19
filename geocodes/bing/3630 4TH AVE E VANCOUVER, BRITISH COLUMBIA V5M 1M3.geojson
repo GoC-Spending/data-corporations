@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3630 E 4th Ave, Vancouver, BC V5M 1M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c353935aa964d308766dfd43c7336b3|BN20130447|7.7.0.0|",
+				"addressLine": "3630 E 4th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3630 E 4th Ave, Vancouver, BC V5M 1M3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5M 1M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0250265,
+					49.2664615
+				]
+			},
+			"bbox": [
+				-123.0267493,
+				49.2653374,
+				-123.0233038,
+				49.2675857
+			]
+		}
+	]
+}

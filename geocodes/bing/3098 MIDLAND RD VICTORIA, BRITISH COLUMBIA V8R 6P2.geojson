@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3098 Midland Rd, Victoria, BC V8R 6P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b90b83f1069448e4bbff54c3c4690685|BN20181720|7.7.0.0|",
+				"addressLine": "3098 Midland Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "3098 Midland Rd, Victoria, BC V8R 6P2, Canada",
+				"locality": "Oak Bay",
+				"neighborhood": "Victoria",
+				"postalCode": "V8R 6P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.30354,
+					48.44406
+				]
+			},
+			"bbox": [
+				-123.3052347,
+				48.4429358,
+				-123.3018453,
+				48.4451842
+			]
+		}
+	]
+}

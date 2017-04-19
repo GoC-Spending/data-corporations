@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2107 Keele St, York, ON M6M 3Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adecafb73fda4c7b94b716a5c36ae2f3|BN20131519|7.7.0.0|",
+				"addressLine": "2107 Keele St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2107 Keele St, York, ON M6M 3Z3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Beechborough-Greenbrook",
+				"postalCode": "M6M 3Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47454,
+					43.69486
+				]
+			},
+			"bbox": [
+				-79.4760948,
+				43.6937358,
+				-79.4729852,
+				43.6959842
+			]
+		}
+	]
+}

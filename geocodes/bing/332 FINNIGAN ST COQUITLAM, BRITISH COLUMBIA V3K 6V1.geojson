@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "332 Finnigan St, Coquitlam, BC V3K 6V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7be254f1b0043a5ab12f1bbdb600f15|BN20130532|7.7.0.0|",
+				"addressLine": "332 Finnigan St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "332 Finnigan St, Coquitlam, BC V3K 6V1, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cape Horn",
+				"postalCode": "V3K 6V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.83731,
+					49.2407899
+				]
+			},
+			"bbox": [
+				-122.8390318,
+				49.2396657,
+				-122.8355882,
+				49.2419141
+			]
+		}
+	]
+}

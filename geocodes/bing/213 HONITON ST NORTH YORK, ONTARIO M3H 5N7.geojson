@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "213 Honiton St, North York, ON M3H 5N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "60a02b28d951483487ba247d051af6e6|BN20130625|7.7.0.0|",
+				"addressLine": "213 Honiton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "213 Honiton St, North York, ON M3H 5N7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bathurst Manor",
+				"postalCode": "M3H 5N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46168,
+					43.7633
+				]
+			},
+			"bbox": [
+				-79.4632366,
+				43.7621758,
+				-79.4601234,
+				43.7644242
+			]
+		}
+	]
+}

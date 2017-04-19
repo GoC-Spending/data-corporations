@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "45787 Yale Rd W, Chilliwack, BC V2P 2N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d10ec677e8d42de85489ff8c07eaf9c|BN20130431|7.7.0.0|",
+				"addressLine": "45787 Yale Rd W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "45787 Yale Rd W, Chilliwack, BC V2P 2N5, Canada",
+				"locality": "Chilliwack",
+				"neighborhood": "Chilliwack Proper Village West",
+				"postalCode": "V2P 2N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.95984,
+					49.16229
+				]
+			},
+			"bbox": [
+				-121.9615591,
+				49.1611658,
+				-121.9581209,
+				49.1634142
+			]
+		}
+	]
+}

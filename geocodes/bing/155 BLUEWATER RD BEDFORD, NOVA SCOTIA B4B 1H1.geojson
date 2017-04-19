@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "155 Bluewater Rd, Bedford, NS B4B 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f749e8750354c378596c935e6d2f1da|BN20130625|7.7.0.0|",
+				"addressLine": "155 Bluewater Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "155 Bluewater Rd, Bedford, NS B4B 1H1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Bedford",
+				"postalCode": "B4B 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.71248,
+					44.72199
+				]
+			},
+			"bbox": [
+				-63.7140621,
+				44.7208658,
+				-63.7108979,
+				44.7231142
+			]
+		}
+	]
+}

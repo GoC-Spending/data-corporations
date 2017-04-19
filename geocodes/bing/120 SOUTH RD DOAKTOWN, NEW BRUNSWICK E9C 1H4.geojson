@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 South Rd, Doaktown, NB E9C 1H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "758a04ac793349b8a4223c55fb3f4b90|BN20250135|7.7.0.0|",
+				"addressLine": "120 South Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 South Rd, Doaktown, NB E9C 1H2, Canada",
+				"locality": "Doaktown",
+				"postalCode": "E9C 1H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.1140447,
+					46.5562374
+				]
+			},
+			"bbox": [
+				-66.1156795,
+				46.5551132,
+				-66.1124099,
+				46.5573615
+			]
+		}
+	]
+}

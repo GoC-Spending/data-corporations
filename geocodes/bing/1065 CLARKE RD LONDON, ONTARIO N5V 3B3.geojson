@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1065 Clarke Rd, London, ON N5V 3B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4312af3793c648eeaa63a32b4b882190|BN20121764|7.7.0.0|",
+				"addressLine": "1065 Clarke Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1065 Clarke Rd, London, ON N5V 3B3, Canada",
+				"locality": "London",
+				"neighborhood": "Huron Heights",
+				"postalCode": "N5V 3B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1864,
+					43.025
+				]
+			},
+			"bbox": [
+				-81.1879377,
+				43.0238758,
+				-81.1848623,
+				43.0261242
+			]
+		}
+	]
+}

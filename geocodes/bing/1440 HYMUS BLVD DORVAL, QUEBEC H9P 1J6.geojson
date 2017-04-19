@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1440 Hymus Blvd, Dorval, QC H9P 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8eb77bf32cd04d22a8d0ee34d79f4cdf|BN20130620|7.7.0.0|",
+				"addressLine": "1440 Hymus Blvd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1440 Hymus Blvd, Dorval, QC H9P 1J6, Canada",
+				"locality": "Dorval",
+				"neighborhood": "Dollard-des-Ormeaux",
+				"postalCode": "H9P 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.77096,
+					45.48504
+				]
+			},
+			"bbox": [
+				-73.7725634,
+				45.4839158,
+				-73.7693566,
+				45.4861642
+			]
+		}
+	]
+}

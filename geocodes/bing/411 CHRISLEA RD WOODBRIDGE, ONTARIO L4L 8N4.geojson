@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "411 Chrislea Rd, Woodbridge, ON L4L 8N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f52aebdeb684173af697e317c8fce08|BN20200137|7.7.0.0|",
+				"addressLine": "411 Chrislea Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "411 Chrislea Rd, Woodbridge, ON L4L 8N4, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Woodbridge",
+				"postalCode": "L4L 8N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54429,
+					43.8012299
+				]
+			},
+			"bbox": [
+				-79.5458475,
+				43.8001057,
+				-79.5427325,
+				43.8023541
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "55 Queen St S, New Tecumseth, ON L0G 1T0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50be9412314d46f9863f8b2ae61f0775|BN20260231|7.7.0.0|",
+				"addressLine": "55 Queen St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 Queen St S, New Tecumseth, ON L0G 1T0, Canada",
+				"locality": "New Tecumseth",
+				"neighborhood": "Tottenham",
+				"postalCode": "L0G 1T0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8048613,
+					44.0200193
+				]
+			},
+			"bbox": [
+				-79.8064246,
+				44.0188951,
+				-79.803298,
+				44.0211434
+			]
+		}
+	]
+}

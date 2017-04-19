@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1024 Santana Rd NW, Calgary, AB T3K 3M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fb299558cde44aa83d7a6188a98e361|BN20190642|7.7.0.0|",
+				"addressLine": "1024 Santana Rd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1024 Santana Rd NW, Calgary, AB T3K 3M2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Sandstone Valley",
+				"postalCode": "T3K 3M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.08545,
+					51.13664
+				]
+			},
+			"bbox": [
+				-114.0872416,
+				51.1355158,
+				-114.0836584,
+				51.1377642
+			]
+		}
+	]
+}

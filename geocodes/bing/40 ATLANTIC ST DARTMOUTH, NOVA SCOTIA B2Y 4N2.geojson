@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Atlantic St, Dartmouth, NS B2Y 4N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dbd0968759424da78ceb3516a69e72ab|BN20130632|7.7.0.0|",
+				"addressLine": "40 Atlantic St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Atlantic St, Dartmouth, NS B2Y 4N2, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B2Y 4N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.53953,
+					44.65274
+				]
+			},
+			"bbox": [
+				-63.5411102,
+				44.6516158,
+				-63.5379498,
+				44.6538642
+			]
+		}
+	]
+}

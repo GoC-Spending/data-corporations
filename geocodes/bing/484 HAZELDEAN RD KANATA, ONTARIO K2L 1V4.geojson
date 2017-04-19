@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "484 Hazeldean Rd, Kanata, ON K2L 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46ff0177268447a1aa3c487c9899f853|BN20130431|7.7.0.0|",
+				"addressLine": "484 Hazeldean Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "484 Hazeldean Rd, Kanata, ON K2L 1V4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2L 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.8905285,
+					45.2965537
+				]
+			},
+			"bbox": [
+				-75.8921266,
+				45.2954296,
+				-75.8889305,
+				45.2976779
+			]
+		}
+	]
+}

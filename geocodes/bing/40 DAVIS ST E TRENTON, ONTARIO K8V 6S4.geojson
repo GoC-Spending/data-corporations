@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Davis St E, Trenton, ON K8V 6S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9aea156a0f6f45bda8c12a57521be83a|BN20260231|7.7.0.0|",
+				"addressLine": "40 Davis St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Davis St E, Trenton, ON K8V 6S4, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 6S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.5947397,
+					44.1146509
+				]
+			},
+			"bbox": [
+				-77.5963055,
+				44.1135267,
+				-77.5931739,
+				44.115775
+			]
+		}
+	]
+}

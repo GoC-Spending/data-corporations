@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Winston Rd, Markham, ON L3R 7E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d6dee3f18a7c4e39b841aa4bbca627ab|BN20130533|7.7.0.0|",
+				"addressLine": "15 Winston Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Winston Rd, Markham, ON L3R 7E3, Canada",
+				"locality": "Markham",
+				"neighborhood": "North Milliken",
+				"postalCode": "L3R 7E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28864,
+					43.82967
+				]
+			},
+			"bbox": [
+				-79.2901983,
+				43.8285458,
+				-79.2870817,
+				43.8307942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2082 Kipling Ave, Etobicoke, ON M9W 4J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ec0df746f91f473d8f393cd8707757fe|BN20200137|7.7.0.0|",
+				"addressLine": "2082 Kipling Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2082 Kipling Ave, Etobicoke, ON M9W 4J9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 4J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.56908,
+					43.71543
+				]
+			},
+			"bbox": [
+				-79.5706353,
+				43.7143058,
+				-79.5675247,
+				43.7165542
+			]
+		}
+	]
+}

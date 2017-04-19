@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "79 Dearham Wood, Scarborough, ON M1E 1S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15f67e02d8a145c68f1e4552703609b9|BN20130632|7.7.0.0|",
+				"addressLine": "79 Dearham Wood",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "79 Dearham Wood, Scarborough, ON M1E 1S5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Guildwood",
+				"postalCode": "M1E 1S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1864,
+					43.75321
+				]
+			},
+			"bbox": [
+				-79.1879563,
+				43.7520858,
+				-79.1848437,
+				43.7543342
+			]
+		}
+	]
+}

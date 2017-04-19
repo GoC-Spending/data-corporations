@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "426 21 Ave NE, Calgary, AB T2E 1S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4228540441de40e3a102f417f10350a7|BN20130721|7.7.0.0|",
+				"addressLine": "426 21 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "426 21 Ave NE, Calgary, AB T2E 1S6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Williston Heights-Mountview",
+				"postalCode": "T2E 1S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05462,
+					51.0718
+				]
+			},
+			"bbox": [
+				-114.0564091,
+				51.0706758,
+				-114.0528309,
+				51.0729242
+			]
+		}
+	]
+}

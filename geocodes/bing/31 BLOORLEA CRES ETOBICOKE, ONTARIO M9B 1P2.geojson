@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Bloorlea Cres, Etobicoke, ON M9B 1P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2bf845f3ed5466d95cc35b58a274baa|BN20130422|7.7.0.0|",
+				"addressLine": "31 Bloorlea Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Bloorlea Cres, Etobicoke, ON M9B 1P2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M9B 1P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.55379,
+					43.63833
+				]
+			},
+			"bbox": [
+				-79.5553433,
+				43.6372058,
+				-79.5522367,
+				43.6394542
+			]
+		}
+	]
+}

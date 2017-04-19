@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "513 Soudan Ave, Toronto, ON M4S 1X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b039859bc3534a1680defc2577c6381a|BN20121762|7.7.0.0|",
+				"addressLine": "513 Soudan Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "513 Soudan Ave, Toronto, ON M4S 1X1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 1X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3828,
+					43.70723
+				]
+			},
+			"bbox": [
+				-79.3843551,
+				43.7061058,
+				-79.3812449,
+				43.7083542
+			]
+		}
+	]
+}

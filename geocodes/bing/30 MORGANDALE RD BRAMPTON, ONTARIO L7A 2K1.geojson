@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Morgandale Rd, Brampton, ON L7A 2K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01337afcbdf342bcb385a07f9639d21f|BN20130634|7.7.0.0|",
+				"addressLine": "30 Morgandale Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Morgandale Rd, Brampton, ON L7A 2K1, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L7A 2K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81796,
+					43.6837
+				]
+			},
+			"bbox": [
+				-79.8195145,
+				43.6825758,
+				-79.8164055,
+				43.6848242
+			]
+		}
+	]
+}

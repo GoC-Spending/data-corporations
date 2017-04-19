@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Shannon Cir SW, Calgary, AB T2Y 2K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a289712b07954125ae5db02facb4eff8|BN20181720|7.7.0.0|",
+				"addressLine": "33 Shannon Cir SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Shannon Cir SW, Calgary, AB T2Y 2K4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Shawnessy",
+				"postalCode": "T2Y 2K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.08762,
+					50.91192
+				]
+			},
+			"bbox": [
+				-114.0894029,
+				50.9107958,
+				-114.0858371,
+				50.9130442
+			]
+		}
+	]
+}

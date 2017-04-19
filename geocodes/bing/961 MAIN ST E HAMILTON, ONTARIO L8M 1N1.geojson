@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "961 Main St E, Hamilton, ON L8M 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2499a41844cf4e46bcb6fc19f1d98b47|BN20300154|7.7.0.0|",
+				"addressLine": "961 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "961 Main St E, Hamilton, ON L8M 1N1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stipley",
+				"postalCode": "L8M 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83001,
+					43.24528
+				]
+			},
+			"bbox": [
+				-79.8315533,
+				43.2441558,
+				-79.8284667,
+				43.2464042
+			]
+		}
+	]
+}

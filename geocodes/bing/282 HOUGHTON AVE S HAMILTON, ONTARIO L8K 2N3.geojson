@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "282 Houghton Ave S, Hamilton, ON L8K 2N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6551dd5710764963ad7c1b39249a9160|BN20190642|7.7.0.0|",
+				"addressLine": "282 Houghton Ave S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "282 Houghton Ave S, Hamilton, ON L8K 2N3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Delta East",
+				"postalCode": "L8K 2N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.81735,
+					43.23351
+				]
+			},
+			"bbox": [
+				-79.818893,
+				43.2323858,
+				-79.815807,
+				43.2346342
+			]
+		}
+	]
+}

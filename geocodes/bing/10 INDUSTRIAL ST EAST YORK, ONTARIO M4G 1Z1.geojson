@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Industrial St, East York, ON M4G 1Z1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92aa976c83de469b8351965400c6cd08|BN20130442|7.7.0.0|",
+				"addressLine": "10 Industrial St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Industrial St, East York, ON M4G 1Z1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Thorncliffe Park",
+				"postalCode": "M4G 1Z1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36079,
+					43.70779
+				]
+			},
+			"bbox": [
+				-79.3623451,
+				43.7066658,
+				-79.3592349,
+				43.7089142
+			]
+		}
+	]
+}

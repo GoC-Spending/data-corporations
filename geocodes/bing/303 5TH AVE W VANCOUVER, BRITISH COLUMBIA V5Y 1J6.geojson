@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "303 W 5th Ave, Vancouver, BC V5Y 1J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8fd4ec5cf39a4334af0be697abf0167a|BN20131519|7.7.0.0|",
+				"addressLine": "303 W 5th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "303 W 5th Ave, Vancouver, BC V5Y 1J6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1110693,
+					49.2667353
+				]
+			},
+			"bbox": [
+				-123.112792,
+				49.2656112,
+				-123.1093466,
+				49.2678595
+			]
+		}
+	]
+}

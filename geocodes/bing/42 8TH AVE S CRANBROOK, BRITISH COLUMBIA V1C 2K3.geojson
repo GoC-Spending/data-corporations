@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42 8th Ave S, Cranbrook, BC V1C 2K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6535ae8976f462390186d3084ffcad5|BN20130520|7.7.0.0|",
+				"addressLine": "42 8th Ave S",
+				"adminDistrict": "BC",
+				"adminDistrict2": "East Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "42 8th Ave S, Cranbrook, BC V1C 2K3, Canada",
+				"locality": "Cranbrook",
+				"postalCode": "V1C 2K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.76996,
+					49.51042
+				]
+			},
+			"bbox": [
+				-115.7716913,
+				49.5092958,
+				-115.7682287,
+				49.5115442
+			]
+		}
+	]
+}

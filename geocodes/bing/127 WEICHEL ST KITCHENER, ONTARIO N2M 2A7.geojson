@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "127 Weichel St, Kitchener, ON N2M 2A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d01907f5a0a45beb8341427624bd85a|BN20290118|7.7.0.0|",
+				"addressLine": "127 Weichel St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "127 Weichel St, Kitchener, ON N2M 2A7, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Victoria Hills",
+				"postalCode": "N2M 2A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.52086,
+					43.44064
+				]
+			},
+			"bbox": [
+				-80.5224082,
+				43.4395158,
+				-80.5193118,
+				43.4417642
+			]
+		}
+	]
+}

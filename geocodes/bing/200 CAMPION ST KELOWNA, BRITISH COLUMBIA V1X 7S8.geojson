@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Campion St, Kelowna, BC V1X 7S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94c838a576534b349e399fbf08d3d1a5|BN20130522|7.7.0.0|",
+				"addressLine": "200 Campion St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Campion St, Kelowna, BC V1X 7S8, Canada",
+				"locality": "Kelowna",
+				"postalCode": "V1X 7S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.40399,
+					49.9157
+				]
+			},
+			"bbox": [
+				-119.4057358,
+				49.9145758,
+				-119.4022442,
+				49.9168242
+			]
+		}
+	]
+}

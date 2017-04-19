@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "225 Duncan Mill Rd, North York, ON M3B 3K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "467623e5ae55489b8f41f7f95a29375f|BN20260231|7.7.0.0|",
+				"addressLine": "225 Duncan Mill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "225 Duncan Mill Rd, North York, ON M3B 3K9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M3B 3K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3526399,
+					43.76143
+				]
+			},
+			"bbox": [
+				-79.3541964,
+				43.7603058,
+				-79.3510834,
+				43.7625542
+			]
+		}
+	]
+}

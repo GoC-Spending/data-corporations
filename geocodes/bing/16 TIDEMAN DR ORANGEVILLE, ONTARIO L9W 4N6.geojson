@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Tideman Dr, Orangeville, ON L9W 4N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92f069f1ca754ec58423ceb7dee302f4|BN20200239|7.7.0.0|",
+				"addressLine": "16 Tideman Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Dufferin",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Tideman Dr, Orangeville, ON L9W 4N6, Canada",
+				"locality": "Orangeville",
+				"postalCode": "L9W 4N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.11432,
+					43.91181
+				]
+			},
+			"bbox": [
+				-80.1158804,
+				43.9106858,
+				-80.1127596,
+				43.9129342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "435 King St N, Waterloo, ON N2J 2Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ae27c021a5c41c9847a583668906dc8|BN20121763|7.7.0.0|",
+				"addressLine": "435 King St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "435 King St N, Waterloo, ON N2J 2Z5, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2J 2Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5284099,
+					43.48719
+				]
+			},
+			"bbox": [
+				-80.5299593,
+				43.4860658,
+				-80.5268605,
+				43.4883142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17552 56A Ave, Surrey, BC V3S 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ed05e5e6e6e4fae9b13297049d64691|BN20130634|7.7.0.0|",
+				"addressLine": "17552 56A Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "17552 56A Ave, Surrey, BC V3S 1G3, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Cloverdale",
+				"postalCode": "V3S 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7365657,
+					49.1049751
+				]
+			},
+			"bbox": [
+				-122.7382829,
+				49.103851,
+				-122.7348486,
+				49.1060993
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9801 105 St, Grande Prairie, AB T8V 4Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "24f3531cc95b4a8b8fb6687fad14f005|BN20210145|7.7.0.0|",
+				"addressLine": "9801 105 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9801 105 St, Grande Prairie, AB T8V 4Y8, Canada",
+				"locality": "Grande Prairie",
+				"neighborhood": "Westside Park",
+				"postalCode": "T8V 4Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.8105452,
+					55.1690055
+				]
+			},
+			"bbox": [
+				-118.8125134,
+				55.1678814,
+				-118.808577,
+				55.1701297
+			]
+		}
+	]
+}

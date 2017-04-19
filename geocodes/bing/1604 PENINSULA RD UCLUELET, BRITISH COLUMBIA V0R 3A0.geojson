@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1604 Peninsula Rd, Ucluelet, BC V0R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "671f0237fb2b430d803a2720193dc33c|BN20130422|7.7.0.0|",
+				"addressLine": "1604 Peninsula Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Alberni-Clayoquot",
+				"countryRegion": "Canada",
+				"formattedAddress": "1604 Peninsula Rd, Ucluelet, BC V0R, Canada",
+				"locality": "Ucluelet",
+				"postalCode": "V0R 3A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.5466492,
+					48.9416643
+				]
+			},
+			"bbox": [
+				-125.5483607,
+				48.9405401,
+				-125.5449377,
+				48.9427884
+			]
+		}
+	]
+}

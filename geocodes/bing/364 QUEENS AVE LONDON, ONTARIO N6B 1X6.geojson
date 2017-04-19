@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "364 Queens Ave, London, ON N6B 1X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca19d874b483483ca83af1c41d167d8a|BN20190653|7.7.0.0|",
+				"addressLine": "364 Queens Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "364 Queens Ave, London, ON N6B 1X6, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 1X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2422,
+					42.9876
+				]
+			},
+			"bbox": [
+				-81.2437368,
+				42.9864758,
+				-81.2406632,
+				42.9887242
+			]
+		}
+	]
+}

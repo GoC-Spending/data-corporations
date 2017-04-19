@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4575 Blakie Rd, London, ON N6L 1P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "797c0e8cc5aa4b37b7182f367cee620b|BN20160335|7.7.0.0|",
+				"addressLine": "4575 Blakie Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4575 Blakie Rd, London, ON N6L 1P8, Canada",
+				"locality": "London",
+				"neighborhood": "Longwoods",
+				"postalCode": "N6L 1P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2647999,
+					42.9177
+				]
+			},
+			"bbox": [
+				-81.2663349,
+				42.9165758,
+				-81.2632649,
+				42.9188242
+			]
+		}
+	]
+}

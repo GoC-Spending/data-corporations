@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10706 155 St NW, Edmonton, AB T5P 2M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c2accd57b3404f0b9cd68f658a0e5fbc|BN20130719|7.7.0.0|",
+				"addressLine": "10706 155 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10706 155 St NW, Edmonton, AB T5P 2M6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "High Park",
+				"postalCode": "T5P 2M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.58883,
+					53.55136
+				]
+			},
+			"bbox": [
+				-113.5907222,
+				53.5502358,
+				-113.5869378,
+				53.5524842
+			]
+		}
+	]
+}

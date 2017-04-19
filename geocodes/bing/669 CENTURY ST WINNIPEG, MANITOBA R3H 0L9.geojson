@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "669 Century St, Winnipeg, MB R3H 0L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc01e11d2f7c4ec2a572a3855a433421|BN20130431|7.7.0.0|",
+				"addressLine": "669 Century St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "669 Century St, Winnipeg, MB R3H 0L9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2022,
+					49.89637
+				]
+			},
+			"bbox": [
+				-97.2039451,
+				49.8952458,
+				-97.2004549,
+				49.8974942
+			]
+		}
+	]
+}

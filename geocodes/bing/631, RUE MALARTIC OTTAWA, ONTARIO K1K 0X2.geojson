@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "631 Avenue Malartic, Ottawa, ON K1K 0X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d10c4cda78546fba705bc8994461213|BN20130530|7.7.0.0|",
+				"addressLine": "631 Avenue Malartic",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "631 Avenue Malartic, Ottawa, ON K1K 0X2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Cummings",
+				"postalCode": "K1K 0X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6447,
+					45.44036
+				]
+			},
+			"bbox": [
+				-75.6463022,
+				45.4392358,
+				-75.6430978,
+				45.4414842
+			]
+		}
+	]
+}

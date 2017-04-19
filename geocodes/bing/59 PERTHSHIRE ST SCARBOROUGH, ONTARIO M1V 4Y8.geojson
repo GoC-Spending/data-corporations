@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "59 Perthshire St, Scarborough, ON M1V 4Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef570bba15b14dc2950b7f5c835479a4|BN20130625|7.7.0.0|",
+				"addressLine": "59 Perthshire St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "59 Perthshire St, Scarborough, ON M1V 4Y8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "L'Amoreaux",
+				"postalCode": "M1V 4Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30172,
+					43.80833
+				]
+			},
+			"bbox": [
+				-79.3032777,
+				43.8072058,
+				-79.3001623,
+				43.8094542
+			]
+		}
+	]
+}

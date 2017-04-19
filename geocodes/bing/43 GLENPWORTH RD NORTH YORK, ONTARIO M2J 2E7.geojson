@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "43 Glentworth Rd, North York, ON M2J 2E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e952b2963dd41ab836db461667a0418|BN20320521|7.7.0.0|",
+				"addressLine": "43 Glentworth Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "43 Glentworth Rd, North York, ON M2J 2E7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Don Valley Village",
+				"postalCode": "M2J 2E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.35739,
+					43.77584
+				]
+			},
+			"bbox": [
+				-79.3589469,
+				43.7747158,
+				-79.3558331,
+				43.7769642
+			]
+		}
+	]
+}

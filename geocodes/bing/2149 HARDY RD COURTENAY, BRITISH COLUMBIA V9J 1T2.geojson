@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Courtenay, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4bd4795453d497da558b7ce114d53ed|BN20121764|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "Courtenay, British Columbia, Canada",
+				"locality": "Courtenay"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.993171691895,
+					49.6866989135742
+				]
+			},
+			"bbox": [
+				-125.032615661621,
+				49.6472282409668,
+				-124.932975769043,
+				49.7409400939941
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Comox, V9J 1T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4bd4795453d497da558b7ce114d53ed|BN20121764|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "Comox, V9J 1T2, Canada",
+				"locality": "Comox",
+				"postalCode": "V9J 1T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.191062927246,
+					49.8650131225586
+				]
+			},
+			"bbox": [
+				-125.199052305839,
+				49.8611504049879,
+				-125.183073548653,
+				49.8688758401293
+			]
+		}
+	]
+}

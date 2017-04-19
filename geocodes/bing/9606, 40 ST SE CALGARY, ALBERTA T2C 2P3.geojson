@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9606 40 St SE, Calgary, AB T2C 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aae76a2fa0184d3987e87c545f5826ec|BN20290118|7.7.0.0|",
+				"addressLine": "9606 40 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9606 40 St SE, Calgary, AB T2C 2P3, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2C 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9756245,
+					50.9671928
+				]
+			},
+			"bbox": [
+				-113.9774095,
+				50.9660686,
+				-113.9738394,
+				50.9683169
+			]
+		}
+	]
+}

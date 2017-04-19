@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "202 Quelch St, Winnipeg, MB R3E 2W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "11d510b5dbac4177aa7b739dc4195edd|BN20130423|7.7.0.0|",
+				"addressLine": "202 Quelch St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "202 Quelch St, Winnipeg, MB R3E 2W1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Weston",
+				"postalCode": "R3E 2W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18423,
+					49.91753
+				]
+			},
+			"bbox": [
+				-97.1859759,
+				49.9164058,
+				-97.1824841,
+				49.9186542
+			]
+		}
+	]
+}

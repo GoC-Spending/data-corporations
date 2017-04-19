@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1401 Charlotte Rd, North Vancouver, BC V7J 1H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fc562bc488a44ae49308cdb6cef3c1c9|BN20190642|7.7.0.0|",
+				"addressLine": "1401 Charlotte Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1401 Charlotte Rd, North Vancouver, BC V7J 1H1, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Lynnmour South",
+				"postalCode": "V7J 1H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0346093,
+					49.3095851
+				]
+			},
+			"bbox": [
+				-123.0363335,
+				49.3084609,
+				-123.0328851,
+				49.3107093
+			]
+		}
+	]
+}

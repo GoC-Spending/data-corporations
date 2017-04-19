@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "168 Arthur St, Truro, NS B2N 1Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dc521743ad534d41aa1c9d36fa56a2c9|BN20320521|7.7.0.0|",
+				"addressLine": "168 Arthur St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Colchester",
+				"countryRegion": "Canada",
+				"formattedAddress": "168 Arthur St, Truro, NS B2N 1Y4, Canada",
+				"locality": "Truro",
+				"postalCode": "B2N 1Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.28057,
+					45.36146
+				]
+			},
+			"bbox": [
+				-63.2821699,
+				45.3603358,
+				-63.2789701,
+				45.3625842
+			]
+		}
+	]
+}

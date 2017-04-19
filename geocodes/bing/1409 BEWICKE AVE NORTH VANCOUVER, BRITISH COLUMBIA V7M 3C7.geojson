@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1409 Bewicke Ave, North Vancouver, BC V7M 3C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b9d87afa6fc04f4c8640e8f94d588260|BN20121762|7.7.0.0|",
+				"addressLine": "1409 Bewicke Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1409 Bewicke Ave, North Vancouver, BC V7M 3C7, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7M 3C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.091534,
+					49.3214321
+				]
+			},
+			"bbox": [
+				-123.0932586,
+				49.3203079,
+				-123.0898093,
+				49.3225562
+			]
+		}
+	]
+}

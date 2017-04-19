@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "91 Rossdale Way SE, Medicine Hat, AB T1B 1X5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9654279bed2c41a3b49a5d08e235f018|BN20130631|7.7.0.0|",
+				"addressLine": "91 Rossdale Way SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "91 Rossdale Way SE, Medicine Hat, AB T1B 1X5, Canada",
+				"locality": "Medicine Hat",
+				"postalCode": "T1B 1X5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.62712,
+					50.0088
+				]
+			},
+			"bbox": [
+				-110.6288692,
+				50.0076758,
+				-110.6253708,
+				50.0099242
+			]
+		}
+	]
+}

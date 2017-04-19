@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "751 Rue Marion, Joliette, QC J6E 8S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0aaeb6c69d54a7886a7a150e775b6b1|BN20130625|7.7.0.0|",
+				"addressLine": "751 Rue Marion",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Joliette",
+				"countryRegion": "Canada",
+				"formattedAddress": "751 Rue Marion, Joliette, QC J6E 8S3, Canada",
+				"locality": "Joliette",
+				"postalCode": "J6E 8S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.4436,
+					46.00589
+				]
+			},
+			"bbox": [
+				-73.4452185,
+				46.0047658,
+				-73.4419815,
+				46.0070142
+			]
+		}
+	]
+}

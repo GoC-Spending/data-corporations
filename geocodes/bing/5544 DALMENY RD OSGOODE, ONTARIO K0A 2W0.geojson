@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5544 Dalmeny Rd, Osgoode, ON K0A 2W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f283027491c4359bc7b8b001c953487|BN20250135|7.7.0.0|",
+				"addressLine": "5544 Dalmeny Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5544 Dalmeny Rd, Osgoode, ON K0A 2W0, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Osgoode",
+				"postalCode": "K0A 2W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.59361,
+					45.11829
+				]
+			},
+			"bbox": [
+				-75.5952031,
+				45.1171658,
+				-75.5920169,
+				45.1194142
+			]
+		}
+	]
+}

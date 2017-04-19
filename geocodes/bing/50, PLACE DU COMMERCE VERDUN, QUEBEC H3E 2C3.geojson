@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Place du Commerce, Verdun, QC H3E 2C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a2423f68828b4d5eaedd2799c1062951|BN20260231|7.7.0.0|",
+				"addressLine": "50 Place du Commerce",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Place du Commerce, Verdun, QC H3E 2C3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H3E 2C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.54516,
+					45.46746
+				]
+			},
+			"bbox": [
+				-73.5467629,
+				45.4663358,
+				-73.5435571,
+				45.4685842
+			]
+		}
+	]
+}

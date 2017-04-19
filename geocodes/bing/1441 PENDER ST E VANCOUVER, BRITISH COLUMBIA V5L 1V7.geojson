@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1441 E Pender St, Vancouver, BC V5L 1V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eb41201ffcf44745becce8b71e0a1833|BN20290118|7.7.0.0|",
+				"addressLine": "1441 E Pender St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1441 E Pender St, Vancouver, BC V5L 1V7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5L 1V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07464,
+					49.28061
+				]
+			},
+			"bbox": [
+				-123.0763632,
+				49.2794858,
+				-123.0729168,
+				49.2817342
+			]
+		}
+	]
+}

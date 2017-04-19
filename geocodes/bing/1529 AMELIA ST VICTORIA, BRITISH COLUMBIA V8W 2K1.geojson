@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1529 Amelia St, Victoria, BC V8W 2K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3452a19a27f94ba0a08bde59b70f691c|BN20130632|7.7.0.0|",
+				"addressLine": "1529 Amelia St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1529 Amelia St, Victoria, BC V8W 2K1, Canada",
+				"locality": "Victoria",
+				"neighborhood": "North Park",
+				"postalCode": "V8W 2K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3601,
+					48.42847
+				]
+			},
+			"bbox": [
+				-123.3617941,
+				48.4273458,
+				-123.3584059,
+				48.4295942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2515 Bank St, Ottawa, ON K1V 0Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e15f36e4562c4bd5a2ac1cbcea964844|BN20210145|7.7.0.0|",
+				"addressLine": "2515 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2515 Bank St, Ottawa, ON K1V 0Y4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "South Keys-Heron Gate-Greenboro",
+				"postalCode": "K1V 0Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6437763,
+					45.3540414
+				]
+			},
+			"bbox": [
+				-75.645376,
+				45.3529172,
+				-75.6421766,
+				45.3551655
+			]
+		}
+	]
+}

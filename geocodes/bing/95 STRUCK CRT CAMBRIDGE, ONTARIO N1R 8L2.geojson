@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "95 Struck Ct, Cambridge, ON N1R 8L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e05e955f523d427a93ccecdb385f4d75|BN20200239|7.7.0.0|",
+				"addressLine": "95 Struck Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "95 Struck Ct, Cambridge, ON N1R 8L2, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N1R 8L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.31255,
+					43.41186
+				]
+			},
+			"bbox": [
+				-80.3140975,
+				43.4107358,
+				-80.3110025,
+				43.4129842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "570 Yates St, Victoria, BC V8W 1K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "466e113f66724a04bd2a643c9501c67a|BN20260231|7.7.0.0|",
+				"addressLine": "570 Yates St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "570 Yates St, Victoria, BC V8W 1K8, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 1K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3678388,
+					48.4267497
+				]
+			},
+			"bbox": [
+				-123.3695329,
+				48.4256255,
+				-123.3661448,
+				48.4278738
+			]
+		}
+	]
+}

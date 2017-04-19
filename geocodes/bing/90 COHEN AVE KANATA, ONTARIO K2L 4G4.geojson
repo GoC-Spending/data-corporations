@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Cohen Ave, Kanata, ON K2L 4G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8b16201d1d7e41478de20ef3bd388acb|BN20210145|7.7.0.0|",
+				"addressLine": "90 Cohen Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Cohen Ave, Kanata, ON K2L 4G4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2L 4G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.88576,
+					45.31608
+				]
+			},
+			"bbox": [
+				-75.8873586,
+				45.3149558,
+				-75.8841614,
+				45.3172042
+			]
+		}
+	]
+}

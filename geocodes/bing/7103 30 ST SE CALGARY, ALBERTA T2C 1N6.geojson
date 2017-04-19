@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7103 30 St SE, Calgary, AB T2C 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "38894c8d9e9f4e2b92e8ca1006f2bfd1|BN20210145|7.7.0.0|",
+				"addressLine": "7103 30 St SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7103 30 St SE, Calgary, AB T2C 1N6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.9840567,
+					50.9908305
+				]
+			},
+			"bbox": [
+				-113.9858427,
+				50.9897063,
+				-113.9822708,
+				50.9919546
+			]
+		}
+	]
+}

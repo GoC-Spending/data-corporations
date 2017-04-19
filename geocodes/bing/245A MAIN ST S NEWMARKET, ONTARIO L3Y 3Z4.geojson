@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "245 Main St S, Newmarket, ON L3Y 3Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c90e5fa36c674a6ea96902eb3ed4ad2e|BN20171457|7.7.0.0|",
+				"addressLine": "245 Main St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "245 Main St S, Newmarket, ON L3Y 3Z4, Canada",
+				"locality": "Newmarket",
+				"postalCode": "L3Y 3Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45619,
+					44.05201
+				]
+			},
+			"bbox": [
+				-79.4577541,
+				44.0508858,
+				-79.4546259,
+				44.0531342
+			]
+		}
+	]
+}

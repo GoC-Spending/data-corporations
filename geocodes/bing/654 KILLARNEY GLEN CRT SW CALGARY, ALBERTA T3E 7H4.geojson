@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "654 Killarney Glen Ct SW, Calgary, AB T3E 7H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "362a4e6b15d846fea52ebbcc2483ca25|BN20160335|7.7.0.0|",
+				"addressLine": "654 Killarney Glen Ct SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "654 Killarney Glen Ct SW, Calgary, AB T3E 7H4, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Killarney",
+				"postalCode": "T3E 7H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.132403,
+					51.0266327
+				]
+			},
+			"bbox": [
+				-114.1341903,
+				51.0255086,
+				-114.1306157,
+				51.0277569
+			]
+		}
+	]
+}

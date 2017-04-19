@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2501 Spruce St, Vancouver, BC V6H 2P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "057d981f3ef14e7385744b61c7ab513e|BN20300154|7.7.0.0|",
+				"addressLine": "2501 Spruce St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2501 Spruce St, Vancouver, BC V6H 2P8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Fairview",
+				"postalCode": "V6H 2P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12926,
+					49.2631299
+				]
+			},
+			"bbox": [
+				-123.1309826,
+				49.2620057,
+				-123.1275374,
+				49.2642541
+			]
+		}
+	]
+}

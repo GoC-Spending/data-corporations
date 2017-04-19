@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "54 4th St, Chatham-Kent, ON N7M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8906cfb62abd42f6ac3b8272a470b0f0|BN20131519|7.7.0.0|",
+				"addressLine": "54 4th St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Chatham-Kent",
+				"countryRegion": "Canada",
+				"formattedAddress": "54 4th St, Chatham-Kent, ON N7M, Canada",
+				"locality": "Chatham-Kent",
+				"neighborhood": "Chatham",
+				"postalCode": "N7M 2G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.1871213,
+					42.4045848
+				]
+			},
+			"bbox": [
+				-82.1886437,
+				42.4034606,
+				-82.1855989,
+				42.4057089
+			]
+		}
+	]
+}

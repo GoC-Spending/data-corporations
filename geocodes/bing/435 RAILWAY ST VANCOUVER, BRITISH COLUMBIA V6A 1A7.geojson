@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "435 Railway St, Vancouver, BC V6A 1A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb0185fec8194cbe95b8fab6c352d84a|BN20260223|7.7.0.0|",
+				"addressLine": "435 Railway St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "435 Railway St, Vancouver, BC V6A 1A7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown Eastside",
+				"postalCode": "V6A 1A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0944924,
+					49.2851249
+				]
+			},
+			"bbox": [
+				-123.0962158,
+				49.2840007,
+				-123.092769,
+				49.286249
+			]
+		}
+	]
+}

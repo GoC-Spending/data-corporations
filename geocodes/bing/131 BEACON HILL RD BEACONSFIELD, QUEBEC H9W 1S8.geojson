@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Beacon Hill Rd, Beaconsfield, QC H9W 1S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "974496a0adb544c8b181660760501da5|BN20121764|7.7.0.0|",
+				"addressLine": "131 Beacon Hill Rd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Beacon Hill Rd, Beaconsfield, QC H9W 1S8, Canada",
+				"locality": "Beaconsfield",
+				"postalCode": "H9W 1S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.83967,
+					45.44148
+				]
+			},
+			"bbox": [
+				-73.8412722,
+				45.4403558,
+				-73.8380678,
+				45.4426042
+			]
+		}
+	]
+}

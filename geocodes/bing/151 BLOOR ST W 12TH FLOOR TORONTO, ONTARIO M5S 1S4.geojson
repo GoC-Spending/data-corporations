@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "151 Bloor St W, Toronto, ON M5S 1S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0cbd9d1562124846ad3c39a548e5bced|BN20121764|7.7.0.0|",
+				"addressLine": "151 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "151 Bloor St W, Toronto, ON M5S 1S4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5S 1S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39312,
+					43.66861
+				]
+			},
+			"bbox": [
+				-79.3946741,
+				43.6674858,
+				-79.3915659,
+				43.6697342
+			]
+		}
+	]
+}

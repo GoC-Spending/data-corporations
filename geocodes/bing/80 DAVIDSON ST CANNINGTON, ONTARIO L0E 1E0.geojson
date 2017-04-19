@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Davidson St, Brock, ON L0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1e19c33c3af4d1eb7e29e05a1322f95|BN20260223|7.7.0.0|",
+				"addressLine": "80 Davidson St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Davidson St, Brock, ON L0E, Canada",
+				"locality": "Brock",
+				"neighborhood": "Cannington",
+				"postalCode": "L0E 1E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0331099,
+					44.34681
+				]
+			},
+			"bbox": [
+				-79.0346819,
+				44.3456858,
+				-79.0315379,
+				44.3479342
+			]
+		}
+	]
+}

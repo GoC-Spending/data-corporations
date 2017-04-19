@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1045 Dunford Ave, Langford, BC V9B 2S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f6b058928c57431ea9db69fada882722|BN20121762|7.7.0.0|",
+				"addressLine": "1045 Dunford Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "1045 Dunford Ave, Langford, BC V9B 2S4, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 2S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.51745,
+					48.44633
+				]
+			},
+			"bbox": [
+				-123.5191447,
+				48.4452058,
+				-123.5157553,
+				48.4474542
+			]
+		}
+	]
+}

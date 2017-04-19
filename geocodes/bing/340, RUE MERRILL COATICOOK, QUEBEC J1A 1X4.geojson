@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "340 Rue Merrill, Coaticook, QC J1A 1X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "290e7d827248444784ad420afe3e59bf|BN20130447|7.7.0.0|",
+				"addressLine": "340 Rue Merrill",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Coaticook",
+				"countryRegion": "Canada",
+				"formattedAddress": "340 Rue Merrill, Coaticook, QC J1A 1X4, Canada",
+				"locality": "Coaticook",
+				"postalCode": "J1A 1X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.8105782,
+					45.1258747
+				]
+			},
+			"bbox": [
+				-71.8121715,
+				45.1247505,
+				-71.8089849,
+				45.1269988
+			]
+		}
+	]
+}

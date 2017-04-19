@@ -1,0 +1,110 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Ingleside, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bf615584564490c95e1ef95d1f4aa3e|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "Ingleside, Ontario, Canada",
+				"locality": "Ingleside"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.9868316650391,
+					44.9957885742188
+				]
+			},
+			"bbox": [
+				-75.0065231323242,
+				44.9902305603027,
+				-74.9780578613281,
+				45.0033416748047
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "South Stormont, K0C 1M0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bf615584564490c95e1ef95d1f4aa3e|BN20130423|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "South Stormont, K0C 1M0, Canada",
+				"locality": "South Stormont",
+				"postalCode": "K0C 1M0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.049934387207,
+					44.9790229797363
+				]
+			},
+			"bbox": [
+				-75.0572148416735,
+				44.9751602621657,
+				-75.0426539327406,
+				44.982885697307
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode2",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "370",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3bf615584564490c95e1ef95d1f4aa3e|BN20130423|7.7.0.0|",
+				"countryRegion": "United States",
+				"formattedAddress": "370",
+				"postalCode": "370"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.1225051879883,
+					35.9656143188477
+				]
+			},
+			"bbox": [
+				-88.0706024169922,
+				35.2529296875,
+				-85.8098754882813,
+				36.6782989501953
+			]
+		}
+	]
+}

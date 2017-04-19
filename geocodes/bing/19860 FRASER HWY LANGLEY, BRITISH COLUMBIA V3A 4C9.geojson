@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19860 Fraser Hwy, Langley, BC V3A 4C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef60a8e4c3414bc9afc09850e9f89024|BN20260223|7.7.0.0|",
+				"addressLine": "19860 Fraser Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19860 Fraser Hwy, Langley, BC V3A 4C9, Canada",
+				"locality": "Langley",
+				"neighborhood": "Nicomeki",
+				"postalCode": "V3A 4C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6728876,
+					49.1106138
+				]
+			},
+			"bbox": [
+				-122.6746049,
+				49.1094897,
+				-122.6711703,
+				49.111738
+			]
+		}
+	]
+}

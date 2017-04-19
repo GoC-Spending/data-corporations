@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "110 Cumberland St, Toronto, ON M5R 3V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8652c2e061a48ada84fe1d89c05adc3|BN20210145|7.7.0.0|",
+				"addressLine": "110 Cumberland St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "110 Cumberland St, Toronto, ON M5R 3V5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 3V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39155,
+					43.67036
+				]
+			},
+			"bbox": [
+				-79.3931041,
+				43.6692358,
+				-79.3899959,
+				43.6714842
+			]
+		}
+	]
+}

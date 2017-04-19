@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Cedar St, Brockville, ON K6V 5N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fe422977e4141aaa3d884406f10fd37|BN20130632|7.7.0.0|",
+				"addressLine": "37 Cedar St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Cedar St, Brockville, ON K6V 5N9, Canada",
+				"locality": "Brockville",
+				"postalCode": "K6V 5N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69874,
+					44.58369
+				]
+			},
+			"bbox": [
+				-75.7003184,
+				44.5825658,
+				-75.6971616,
+				44.5848142
+			]
+		}
+	]
+}

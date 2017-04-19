@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6775 Wellington Road 34, Cambridge, ON N3C 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27f5baaae4df46a8b8623d68e350fa42|BN20240423|7.7.0.0|",
+				"addressLine": "6775 Wellington Road 34",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "6775 Wellington Road 34, Cambridge, ON N3C 2V4, Canada",
+				"locality": "Puslinch",
+				"neighborhood": "Cambridge",
+				"postalCode": "N3C 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2362053,
+					43.4478014
+				]
+			},
+			"bbox": [
+				-80.2377537,
+				43.4466772,
+				-80.2346568,
+				43.4489256
+			]
+		}
+	]
+}

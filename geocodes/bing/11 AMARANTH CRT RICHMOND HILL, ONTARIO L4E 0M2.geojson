@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11 Amaranth Ct, Richmond Hill, ON L4E 0M2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1ef27e98e5ba46dd8bf59a533d3d4228|BN20130447|7.7.0.0|",
+				"addressLine": "11 Amaranth Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "11 Amaranth Ct, Richmond Hill, ON L4E 0M2, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Jefferson",
+				"postalCode": "L4E 0M2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47072,
+					43.92307
+				]
+			},
+			"bbox": [
+				-79.4722807,
+				43.9219458,
+				-79.4691593,
+				43.9241942
+			]
+		}
+	]
+}

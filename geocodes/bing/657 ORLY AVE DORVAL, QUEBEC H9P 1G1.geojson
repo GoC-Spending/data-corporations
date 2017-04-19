@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "657 Avenue Orly, Dorval, QC H9P 1G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e11dcc8861b424085929b910846616d|BN20130422|7.7.0.0|",
+				"addressLine": "657 Avenue Orly",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "657 Avenue Orly, Dorval, QC H9P 1G1, Canada",
+				"locality": "Dorval",
+				"postalCode": "H9P 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.73091,
+					45.45378
+				]
+			},
+			"bbox": [
+				-73.7325125,
+				45.4526558,
+				-73.7293075,
+				45.4549042
+			]
+		}
+	]
+}

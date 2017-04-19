@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "217 King Edward Ave, East York, ON M4C 5J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "30d165c704dd4b4aa7304362a20fb56d|BN20121762|7.7.0.0|",
+				"addressLine": "217 King Edward Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "217 King Edward Ave, East York, ON M4C 5J9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woodbine-Lumsden",
+				"postalCode": "M4C 5J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.31267,
+					43.69414
+				]
+			},
+			"bbox": [
+				-79.3142248,
+				43.6930158,
+				-79.3111152,
+				43.6952642
+			]
+		}
+	]
+}

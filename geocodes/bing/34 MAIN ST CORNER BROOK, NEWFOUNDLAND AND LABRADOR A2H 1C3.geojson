@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "34 Main St, Corner Brook, NL A2H 1C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4fe698245a54c078a6059b19293c1ee|BN20130521|7.7.0.0|",
+				"addressLine": "34 Main St",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "34 Main St, Corner Brook, NL A2H 1C3, Canada",
+				"locality": "Corner Brook",
+				"postalCode": "A2H 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-57.9444,
+					48.95387
+				]
+			},
+			"bbox": [
+				-57.9461119,
+				48.9527458,
+				-57.9426881,
+				48.9549942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3400 Ontario St, Windsor, ON N8Y 1N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c7124800c7014f70ab9030660516f07f|BN20130520|7.7.0.0|",
+				"addressLine": "3400 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3400 Ontario St, Windsor, ON N8Y 1N9, Canada",
+				"locality": "Windsor",
+				"neighborhood": "East Windsor",
+				"postalCode": "N8Y 1N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.99196,
+					42.32045
+				]
+			},
+			"bbox": [
+				-82.9934804,
+				42.3193258,
+				-82.9904396,
+				42.3215742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7232 Rue Cordner, La Salle, QC H8N 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b90daf3fa2c248cfba40beda01e9b094|BN20130522|7.7.0.0|",
+				"addressLine": "7232 Rue Cordner",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "7232 Rue Cordner, La Salle, QC H8N 2W8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "La Salle",
+				"postalCode": "H8N 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.6235,
+					45.44498
+				]
+			},
+			"bbox": [
+				-73.6251023,
+				45.4438558,
+				-73.6218977,
+				45.4461042
+			]
+		}
+	]
+}

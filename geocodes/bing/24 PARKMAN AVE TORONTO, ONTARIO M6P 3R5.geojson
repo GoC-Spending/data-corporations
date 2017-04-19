@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Parkman Ave, Toronto, ON M6P 3R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "64ddda0950f54f29bf9ae0615f0d4e1d|BN20320521|7.7.0.0|",
+				"addressLine": "24 Parkman Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Parkman Ave, Toronto, ON M6P 3R5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6P 3R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4531499,
+					43.6644999
+				]
+			},
+			"bbox": [
+				-79.4547039,
+				43.6633757,
+				-79.4515959,
+				43.6656241
+			]
+		}
+	]
+}

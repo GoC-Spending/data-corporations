@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "88 McGilvray St, Guelph, ON N1G, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8003a43fac474c4cbeb46b2b1edd2544|BN20130632|7.7.0.0|",
+				"addressLine": "88 McGilvray St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "88 McGilvray St, Guelph, ON N1G, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Old University",
+				"postalCode": "N1G 2W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2361494,
+					43.527101
+				]
+			},
+			"bbox": [
+				-80.2376998,
+				43.5259769,
+				-80.2345989,
+				43.5282252
+			]
+		}
+	]
+}

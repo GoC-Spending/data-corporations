@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Polar Bear Pl, Brampton, ON L6R 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "772633a75f484b5fa5ede544389b8c3b|BN20190642|7.7.0.0|",
+				"addressLine": "24 Polar Bear Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Polar Bear Pl, Brampton, ON L6R 3L7, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Springdale",
+				"postalCode": "L6R 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75244,
+					43.77261
+				]
+			},
+			"bbox": [
+				-79.7539968,
+				43.7714858,
+				-79.7508832,
+				43.7737342
+			]
+		}
+	]
+}

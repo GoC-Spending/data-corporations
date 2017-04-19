@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Bellair St, Toronto, ON M5R 3T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "871ea57718e642afa15346a40fcf3b88|BN20320521|7.7.0.0|",
+				"addressLine": "10 Bellair St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Bellair St, Toronto, ON M5R 3T8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 3T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39087,
+					43.66974
+				]
+			},
+			"bbox": [
+				-79.3924241,
+				43.6686158,
+				-79.3893159,
+				43.6708642
+			]
+		}
+	]
+}

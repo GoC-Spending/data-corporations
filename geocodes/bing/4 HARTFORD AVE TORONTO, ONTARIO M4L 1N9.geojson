@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Hartford Ave, Toronto, ON M4L 1N9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "416496e56e3d4149bb11eaef4bd169ad|BN20280152|7.7.0.0|",
+				"addressLine": "4 Hartford Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Hartford Ave, Toronto, ON M4L 1N9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4L 1N9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30643,
+					43.6718199
+				]
+			},
+			"bbox": [
+				-79.3079842,
+				43.6706957,
+				-79.3048758,
+				43.6729441
+			]
+		}
+	]
+}

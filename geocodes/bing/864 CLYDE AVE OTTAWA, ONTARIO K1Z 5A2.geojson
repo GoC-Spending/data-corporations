@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "864 Clyde Ave, Ottawa, ON K1Z 5A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa5ddff4b1fd41c0aa6d50fc0e518aec|BN20160335|7.7.0.0|",
+				"addressLine": "864 Clyde Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "864 Clyde Ave, Ottawa, ON K1Z 5A2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Carlingwood West-Glabar Park",
+				"postalCode": "K1Z 5A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.74911,
+					45.37699
+				]
+			},
+			"bbox": [
+				-75.7507104,
+				45.3758658,
+				-75.7475096,
+				45.3781142
+			]
+		}
+	]
+}

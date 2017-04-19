@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Rue Perras, La Prairie, QC J5R 5Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9500c381be5243cdb93ee5598df55d2f|BN20130521|7.7.0.0|",
+				"addressLine": "100 Rue Perras",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Roussillon",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Rue Perras, La Prairie, QC J5R 5Y4, Canada",
+				"locality": "La Prairie",
+				"neighborhood": "La Magdeleine",
+				"postalCode": "J5R 5Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.47179,
+					45.40484
+				]
+			},
+			"bbox": [
+				-73.4733911,
+				45.4037158,
+				-73.4701889,
+				45.4059642
+			]
+		}
+	]
+}

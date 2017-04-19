@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3400 Landmark Rd, Burlington, ON L7M 1S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a562a7a1b7314823891c65308eac05b8|BN20130423|7.7.0.0|",
+				"addressLine": "3400 Landmark Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3400 Landmark Rd, Burlington, ON L7M 1S8, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Palmer",
+				"postalCode": "L7M 1S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.79774,
+					43.36616
+				]
+			},
+			"bbox": [
+				-79.7992863,
+				43.3650358,
+				-79.7961937,
+				43.3672842
+			]
+		}
+	]
+}

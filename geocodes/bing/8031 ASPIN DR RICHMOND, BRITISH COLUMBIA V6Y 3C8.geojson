@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8031 Aspin Dr, Richmond, BC V6Y 3C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b38eef2490ef452e847ac2412e5508d9|BN20130520|7.7.0.0|",
+				"addressLine": "8031 Aspin Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8031 Aspin Dr, Richmond, BC V6Y 3C8, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Broadmoor",
+				"postalCode": "V6Y 3C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11671,
+					49.15518
+				]
+			},
+			"bbox": [
+				-123.1184289,
+				49.1540558,
+				-123.1149911,
+				49.1563042
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "601 Patterson St W, Cranbrook, BC V1C 6T3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a66e818fca5544daae7a445b40f8dc77|BN20130423|7.7.0.0|",
+				"addressLine": "601 Patterson St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "East Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "601 Patterson St W, Cranbrook, BC V1C 6T3, Canada",
+				"locality": "Cranbrook",
+				"postalCode": "V1C 6T3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.786077,
+					49.5100626
+				]
+			},
+			"bbox": [
+				-115.7878083,
+				49.5089384,
+				-115.7843457,
+				49.5111867
+			]
+		}
+	]
+}

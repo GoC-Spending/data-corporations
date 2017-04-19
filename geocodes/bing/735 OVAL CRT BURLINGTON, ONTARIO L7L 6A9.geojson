@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "735 Oval Ct, Burlington, ON L7L 6A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78b4b335b2f0445e840d19e12dc654e2|BN20130522|7.7.0.0|",
+				"addressLine": "735 Oval Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "735 Oval Ct, Burlington, ON L7L 6A9, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Pinedale",
+				"postalCode": "L7L 6A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.75826,
+					43.38067
+				]
+			},
+			"bbox": [
+				-79.7598067,
+				43.3795458,
+				-79.7567133,
+				43.3817942
+			]
+		}
+	]
+}

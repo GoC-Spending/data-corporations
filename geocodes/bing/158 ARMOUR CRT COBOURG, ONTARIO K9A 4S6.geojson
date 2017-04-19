@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "158 Armour Ct, Cobourg, ON K9A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4d292d5c4a643ba9156a2a853525eec|BN20130520|7.7.0.0|",
+				"addressLine": "158 Armour Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "158 Armour Ct, Cobourg, ON K9A, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 4S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1862699,
+					43.95638
+				]
+			},
+			"bbox": [
+				-78.1878315,
+				43.9552558,
+				-78.1847083,
+				43.9575042
+			]
+		}
+	]
+}

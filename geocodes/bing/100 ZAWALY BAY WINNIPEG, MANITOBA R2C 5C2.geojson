@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 Zawaly Bay, Winnipeg, MB R2C 5C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81967d41bcaa47c19331f6c6fc7dd59e|BN20250135|7.7.0.0|",
+				"addressLine": "100 Zawaly Bay",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 Zawaly Bay, Winnipeg, MB R2C 5C2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Canterbury Park",
+				"postalCode": "R2C 5C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.97019,
+					49.90139
+				]
+			},
+			"bbox": [
+				-96.9719353,
+				49.9002658,
+				-96.9684447,
+				49.9025142
+			]
+		}
+	]
+}

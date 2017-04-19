@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 10,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Chadwick Ct, North Vancouver, BC V7M 3K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f64b1011ba7b4a44a3ad5058b18cfa41|BN20260223|7.7.0.0|",
+				"addressLine": "Chadwick Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Chadwick Ct, North Vancouver, BC V7M 3K1, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7M 3K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08367,
+					49.3108
+				]
+			},
+			"bbox": [
+				-123.08387,
+				49.3106,
+				-123.08341,
+				49.31112
+			]
+		}
+	]
+}

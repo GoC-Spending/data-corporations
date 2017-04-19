@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 6,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Streetsville, Mississauga, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cef658f640f341d881e8f87cf6062176|BN20171457|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "Streetsville, Mississauga, Ontario, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Streetsville"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.716796875,
+					43.5839385986328
+				]
+			},
+			"bbox": [
+				-79.7333908081055,
+				43.5588111877441,
+				-79.6852264404297,
+				43.5975914001465
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Mississauga, L5M 2B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cef658f640f341d881e8f87cf6062176|BN20171457|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "Mississauga, L5M 2B9, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5M 2B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.6453475952148,
+					43.5869102478027
+				]
+			},
+			"bbox": [
+				-79.6524575643668,
+				43.5830475302321,
+				-79.6382376260629,
+				43.5907729653734
+			]
+		}
+	]
+}

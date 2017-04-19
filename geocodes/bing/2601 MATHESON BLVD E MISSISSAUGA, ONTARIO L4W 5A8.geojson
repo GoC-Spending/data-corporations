@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2601 Matheson Blvd E, Mississauga, ON L4W 5A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3df19418d8134520ba5e1653fb530af4|BN20260231|7.7.0.0|",
+				"addressLine": "2601 Matheson Blvd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "2601 Matheson Blvd E, Mississauga, ON L4W 5A8, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Dixie",
+				"postalCode": "L4W 5A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60037,
+					43.65963
+				]
+			},
+			"bbox": [
+				-79.6019239,
+				43.6585058,
+				-79.5988161,
+				43.6607542
+			]
+		}
+	]
+}

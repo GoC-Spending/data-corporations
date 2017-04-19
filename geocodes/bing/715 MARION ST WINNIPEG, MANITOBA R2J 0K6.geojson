@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "715 Marion St, Winnipeg, MB R2J 0K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adc4c1739ee54385b0aedf89421e4743|BN20130721|7.7.0.0|",
+				"addressLine": "715 Marion St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "715 Marion St, Winnipeg, MB R2J 0K6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Mission Industrial",
+				"postalCode": "R2J 0K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.09139,
+					49.88208
+				]
+			},
+			"bbox": [
+				-97.0931346,
+				49.8809558,
+				-97.0896454,
+				49.8832042
+			]
+		}
+	]
+}

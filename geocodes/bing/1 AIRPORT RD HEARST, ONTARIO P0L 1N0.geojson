@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Airport Rd, Hearst, ON P0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "275b55206e024dce9ace0463a0836181|BN20320521|7.7.0.0|",
+				"addressLine": "1 Airport Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Cochrane",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Airport Rd, Hearst, ON P0L, Canada",
+				"locality": "Hearst",
+				"postalCode": "P0L 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.6932,
+					49.7090699
+				]
+			},
+			"bbox": [
+				-83.6949384,
+				49.7079457,
+				-83.6914616,
+				49.7101941
+			]
+		}
+	]
+}

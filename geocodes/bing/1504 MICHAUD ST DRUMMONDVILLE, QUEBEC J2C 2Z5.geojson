@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1504 Rue Jean-Berchmans-Michaud, Drummondville, QC J2C 2Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "72eb1c1155d8416dabbd19f33ec69560|BN20130422|7.7.0.0|",
+				"addressLine": "1504 Rue Jean-Berchmans-Michaud",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Drummond",
+				"countryRegion": "Canada",
+				"formattedAddress": "1504 Rue Jean-Berchmans-Michaud, Drummondville, QC J2C 2Z5, Canada",
+				"locality": "Drummondville",
+				"postalCode": "J2C 2Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.53385,
+					45.8926
+				]
+			},
+			"bbox": [
+				-72.5354651,
+				45.8914758,
+				-72.5322349,
+				45.8937242
+			]
+		}
+	]
+}

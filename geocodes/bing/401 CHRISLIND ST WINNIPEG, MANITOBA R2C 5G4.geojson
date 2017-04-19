@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "401 Chrislind St, Winnipeg, MB R2C 5G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7f381d914104a66b3be35afbe3d12de|BN20130447|7.7.0.0|",
+				"addressLine": "401 Chrislind St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "401 Chrislind St, Winnipeg, MB R2C 5G4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Regent",
+				"postalCode": "R2C 5G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.02912,
+					49.8975099
+				]
+			},
+			"bbox": [
+				-97.0308652,
+				49.8963857,
+				-97.0273748,
+				49.8986341
+			]
+		}
+	]
+}

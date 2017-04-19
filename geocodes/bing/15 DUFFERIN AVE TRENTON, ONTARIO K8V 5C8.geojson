@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Dufferin Ave, Trenton, ON K8V 5C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "578746a0a7f14a488ed91ce8be8d8df8|BN20130532|7.7.0.0|",
+				"addressLine": "15 Dufferin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Dufferin Ave, Trenton, ON K8V 5C8, Canada",
+				"locality": "Quinte West",
+				"neighborhood": "Trenton",
+				"postalCode": "K8V 5C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.5770182,
+					44.0866539
+				]
+			},
+			"bbox": [
+				-77.5785832,
+				44.0855297,
+				-77.5754531,
+				44.087778
+			]
+		}
+	]
+}

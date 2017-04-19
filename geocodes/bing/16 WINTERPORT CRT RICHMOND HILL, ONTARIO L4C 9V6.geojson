@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "16 Winterport Ct, Richmond Hill, ON L4C 9V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d1dac8a20b0240d6a0cf0c52202821ae|BN20190642|7.7.0.0|",
+				"addressLine": "16 Winterport Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "16 Winterport Ct, Richmond Hill, ON L4C 9V6, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Richvale",
+				"postalCode": "L4C 9V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45558,
+					43.8473
+				]
+			},
+			"bbox": [
+				-79.4571387,
+				43.8461758,
+				-79.4540213,
+				43.8484242
+			]
+		}
+	]
+}

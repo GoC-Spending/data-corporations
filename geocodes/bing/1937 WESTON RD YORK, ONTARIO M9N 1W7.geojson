@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1937 Weston Rd, York, ON M9N 1W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d2f00aa938a4949b7261e0a2fce8ecc|BN20130632|7.7.0.0|",
+				"addressLine": "1937 Weston Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1937 Weston Rd, York, ON M9N 1W7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Weston",
+				"postalCode": "M9N 1W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.51742,
+					43.70074
+				]
+			},
+			"bbox": [
+				-79.5189749,
+				43.6996158,
+				-79.5158651,
+				43.7018642
+			]
+		}
+	]
+}

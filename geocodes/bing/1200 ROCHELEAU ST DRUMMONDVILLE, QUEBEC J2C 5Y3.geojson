@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1200 Rue Rocheleau, Drummondville, QC J2C 5Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "379e5e4ffa7c432f921afc47cd2965a8|BN20130721|7.7.0.0|",
+				"addressLine": "1200 Rue Rocheleau",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Drummond",
+				"countryRegion": "Canada",
+				"formattedAddress": "1200 Rue Rocheleau, Drummondville, QC J2C 5Y3, Canada",
+				"locality": "Drummondville",
+				"postalCode": "J2C 5Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.5280613,
+					45.8684944
+				]
+			},
+			"bbox": [
+				-72.5296757,
+				45.8673703,
+				-72.5264468,
+				45.8696186
+			]
+		}
+	]
+}

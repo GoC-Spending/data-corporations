@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Keith Rd, Bracebridge, ON P1L 0A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "58a3a736b2a64b4bb8c64897f44ce62a|BN20130621|7.7.0.0|",
+				"addressLine": "50 Keith Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Keith Rd, Bracebridge, ON P1L 0A1, Canada",
+				"locality": "Bracebridge",
+				"postalCode": "P1L 0A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30799,
+					45.01988
+				]
+			},
+			"bbox": [
+				-79.3095803,
+				45.0187558,
+				-79.3063997,
+				45.0210042
+			]
+		}
+	]
+}

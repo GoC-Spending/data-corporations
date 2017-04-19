@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3956 29 St NE, Calgary, AB T1Y 6B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e9721284bd24c9abce316557554a795|BN20130634|7.7.0.0|",
+				"addressLine": "3956 29 St NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3956 29 St NE, Calgary, AB T1Y 6B6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Horizon",
+				"postalCode": "T1Y 6B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.99093,
+					51.0883899
+				]
+			},
+			"bbox": [
+				-113.9927197,
+				51.0872657,
+				-113.9891403,
+				51.0895141
+			]
+		}
+	]
+}

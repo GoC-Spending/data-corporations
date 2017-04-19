@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Dawson Rd, Guelph, ON N1H 5V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0fa7b91063bb4c95912028da6414cd6f|BN20130625|7.7.0.0|",
+				"addressLine": "48 Dawson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Dawson Rd, Guelph, ON N1H 5V1, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1H 5V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.27583,
+					43.54574
+				]
+			},
+			"bbox": [
+				-80.2773809,
+				43.5446158,
+				-80.2742791,
+				43.5468642
+			]
+		}
+	]
+}

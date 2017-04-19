@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Hazelton St, Leamington, ON N8H 1B8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1c84113399d6488fb1ce2d0440722618|BN20130521|7.7.0.0|",
+				"addressLine": "50 Hazelton St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Hazelton St, Leamington, ON N8H 1B8, Canada",
+				"locality": "Leamington",
+				"postalCode": "N8H 1B8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.60315,
+					42.05628
+				]
+			},
+			"bbox": [
+				-82.604664,
+				42.0551558,
+				-82.601636,
+				42.0574042
+			]
+		}
+	]
+}

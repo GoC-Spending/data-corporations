@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1471 St James St, Winnipeg, MB R3H 0W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5ef2c3339ba44678839706f1a9d232fb|BN20121762|7.7.0.0|",
+				"addressLine": "1471 St James St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1471 St James St, Winnipeg, MB R3H 0W9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.19842,
+					49.9096
+				]
+			},
+			"bbox": [
+				-97.2001656,
+				49.9084758,
+				-97.1966744,
+				49.9107242
+			]
+		}
+	]
+}

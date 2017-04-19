@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "La Vallee, P0W 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd64e305948b42bd88155178664c84cc|BN20290118|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Rainy River",
+				"countryRegion": "Canada",
+				"formattedAddress": "La Vallee, P0W 1C0, Canada",
+				"locality": "La Vallee",
+				"postalCode": "P0W 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.654899597168,
+					48.560188293457
+				]
+			},
+			"bbox": [
+				-93.6626808614823,
+				48.5563255758864,
+				-93.6471183328536,
+				48.5640510110277
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Devlin, La Vallee, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd64e305948b42bd88155178664c84cc|BN20290118|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Rainy River",
+				"countryRegion": "Canada",
+				"formattedAddress": "Devlin, La Vallee, Ontario, Canada",
+				"locality": "La Vallee",
+				"neighborhood": "Devlin"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.6707916259766,
+					48.6603088378906
+				]
+			},
+			"bbox": [
+				-93.6785883321079,
+				48.6564461203199,
+				-93.6629949198452,
+				48.6641715554613
+			]
+		}
+	]
+}

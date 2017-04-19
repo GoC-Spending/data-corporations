@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "893 56e Avenue, Lachine, QC H8T 3C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a03dc90bd7084a209e895de9af2501bf|BN20130522|7.7.0.0|",
+				"addressLine": "893 56e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "893 56e Avenue, Lachine, QC H8T 3C1, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.72139,
+					45.44667
+				]
+			},
+			"bbox": [
+				-73.7229923,
+				45.4455458,
+				-73.7197877,
+				45.4477942
+			]
+		}
+	]
+}

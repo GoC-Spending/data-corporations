@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1267 Barton St E, Hamilton, ON L8H 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a50218698c82466384ef5543430998de|BN20260223|7.7.0.0|",
+				"addressLine": "1267 Barton St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1267 Barton St E, Hamilton, ON L8H 2V4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Crown Point East",
+				"postalCode": "L8H 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8087548,
+					43.2499529
+				]
+			},
+			"bbox": [
+				-79.8102982,
+				43.2488288,
+				-79.8072114,
+				43.2510771
+			]
+		}
+	]
+}

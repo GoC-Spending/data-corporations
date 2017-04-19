@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4345 Rue Robitaille, Sherbrooke, QC J1L 2K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8832bfdb1a8e4cffaebf2b3614cbe408|BN20130620|7.7.0.0|",
+				"addressLine": "4345 Rue Robitaille",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Sherbrooke",
+				"countryRegion": "Canada",
+				"formattedAddress": "4345 Rue Robitaille, Sherbrooke, QC J1L 2K2, Canada",
+				"locality": "Sherbrooke",
+				"postalCode": "J1L 2K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.97124,
+					45.39093
+				]
+			},
+			"bbox": [
+				-71.9728408,
+				45.3898058,
+				-71.9696392,
+				45.3920542
+			]
+		}
+	]
+}

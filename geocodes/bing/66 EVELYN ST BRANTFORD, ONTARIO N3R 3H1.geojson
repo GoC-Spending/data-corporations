@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "66 Evelyn St, Brantford, ON N3R 3H1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5d41bf5fa2de41c79f3684226a5ab643|BN20250135|7.7.0.0|",
+				"addressLine": "66 Evelyn St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "66 Evelyn St, Brantford, ON N3R 3H1, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 3H1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.27009,
+					43.17374
+				]
+			},
+			"bbox": [
+				-80.2716314,
+				43.1726158,
+				-80.2685486,
+				43.1748642
+			]
+		}
+	]
+}

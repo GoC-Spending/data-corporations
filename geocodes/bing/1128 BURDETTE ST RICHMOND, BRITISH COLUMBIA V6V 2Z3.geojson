@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1128 Burdette St, Richmond, BC V6V 2Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c3e256a2f7dd4f32b3b7808f342c69f7|BN20130522|7.7.0.0|",
+				"addressLine": "1128 Burdette St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1128 Burdette St, Richmond, BC V6V 2Z3, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6V 2Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.06298,
+					49.20201
+				]
+			},
+			"bbox": [
+				-123.0647005,
+				49.2008858,
+				-123.0612595,
+				49.2031342
+			]
+		}
+	]
+}

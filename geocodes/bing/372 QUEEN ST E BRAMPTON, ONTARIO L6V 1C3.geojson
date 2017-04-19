@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "372 Queen St E, Brampton, ON L6X, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a120205428714a40bb3f7669e0f2a34d|BN20220145|7.7.0.0|",
+				"addressLine": "372 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "372 Queen St E, Brampton, ON L6X, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6X"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.74115,
+					43.70428
+				]
+			},
+			"bbox": [
+				-79.742705,
+				43.7031558,
+				-79.739595,
+				43.7054042
+			]
+		}
+	]
+}

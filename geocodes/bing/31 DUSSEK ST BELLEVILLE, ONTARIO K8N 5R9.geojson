@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "31 Dussek St, Belleville, ON K8N 5R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42989cda1d0c46c38c42fba6b6c41ad0|BN20130719|7.7.0.0|",
+				"addressLine": "31 Dussek St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "31 Dussek St, Belleville, ON K8N 5R9, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8N 5R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.36905,
+					44.1786699
+				]
+			},
+			"bbox": [
+				-77.3706175,
+				44.1775457,
+				-77.3674825,
+				44.1797941
+			]
+		}
+	]
+}

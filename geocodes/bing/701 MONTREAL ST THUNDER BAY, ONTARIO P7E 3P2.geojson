@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "701 Montreal St, Thunder Bay, ON P7E 3P2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4e461f6d1f204f3f90fce9a29d69a6d3|BN20240423|7.7.0.0|",
+				"addressLine": "701 Montreal St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "701 Montreal St, Thunder Bay, ON P7E 3P2, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7E 3P2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.2921999,
+					48.35852
+				]
+			},
+			"bbox": [
+				-89.2938917,
+				48.3573958,
+				-89.2905081,
+				48.3596442
+			]
+		}
+	]
+}

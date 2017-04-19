@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48 Jarvis St, Fort Erie, ON L2A 2S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1288c6bd8dcd4ec2982e899d4faf1ddb|BN20290118|7.7.0.0|",
+				"addressLine": "48 Jarvis St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "48 Jarvis St, Fort Erie, ON L2A 2S4, Canada",
+				"locality": "Fort Erie",
+				"postalCode": "L2A 2S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.916486,
+					42.9299208
+				]
+			},
+			"bbox": [
+				-78.9180214,
+				42.9287967,
+				-78.9149507,
+				42.931045
+			]
+		}
+	]
+}

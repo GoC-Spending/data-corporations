@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1451 Hopkins St, Whitby, ON L1N 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f9b762ab996b498bb3364c67ffd3db7a|BN20300154|7.7.0.0|",
+				"addressLine": "1451 Hopkins St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "1451 Hopkins St, Whitby, ON L1N 2C2, Canada",
+				"locality": "Whitby",
+				"postalCode": "L1N 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9165215,
+					43.8709707
+				]
+			},
+			"bbox": [
+				-78.9180809,
+				43.8698465,
+				-78.9149622,
+				43.8720948
+			]
+		}
+	]
+}

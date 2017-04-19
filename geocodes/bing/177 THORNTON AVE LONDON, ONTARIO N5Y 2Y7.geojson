@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "177 Thornton Ave, London, ON N5Y 2Y7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "373944e640e4447d9ba28e834d499fd8|BN20190653|7.7.0.0|",
+				"addressLine": "177 Thornton Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "177 Thornton Ave, London, ON N5Y 2Y7, Canada",
+				"locality": "London",
+				"neighborhood": "North London",
+				"postalCode": "N5Y 2Y7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2482,
+					43.0055
+				]
+			},
+			"bbox": [
+				-81.2497372,
+				43.0043758,
+				-81.2466628,
+				43.0066242
+			]
+		}
+	]
+}

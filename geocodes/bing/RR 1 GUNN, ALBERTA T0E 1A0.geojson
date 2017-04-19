@@ -1,0 +1,107 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Gunn, Lac Ste Anne County, Alberta, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8abd3cc129a14b7cb3b04c72e419bcaa|BN20130719|7.7.0.0|",
+				"adminDistrict": "AB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gunn, Lac Ste Anne County, Alberta, Canada",
+				"locality": "Lac Ste Anne County",
+				"neighborhood": "Gunn"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.340362548828,
+					53.7303504943848
+				]
+			},
+			"bbox": [
+				-114.349067648967,
+				53.7264877768141,
+				-114.331657448689,
+				53.7342132119554
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "AdminDivision1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Roraima, Brazil",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8abd3cc129a14b7cb3b04c72e419bcaa|BN20130719|7.7.0.0|",
+				"adminDistrict": "RR",
+				"countryRegion": "Brazil",
+				"formattedAddress": "Roraima, Brazil"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.6574211120605,
+					2.82424998283386
+				]
+			},
+			"bbox": [
+				-64.8135986328125,
+				-1.5964070558548,
+				-58.8705787658691,
+				5.26487684249878
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Gunn, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8abd3cc129a14b7cb3b04c72e419bcaa|BN20130719|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gunn, Canada",
+				"locality": "Gunn"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.343597412109,
+					53.7268981933594
+				]
+			},
+			"bbox": [
+				-114.408841369047,
+				53.6979278103668,
+				-114.278353455172,
+				53.7558685763519
+			]
+		}
+	]
+}

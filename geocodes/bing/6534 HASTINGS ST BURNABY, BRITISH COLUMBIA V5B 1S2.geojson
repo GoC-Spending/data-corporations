@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6534 Hastings St, Burnaby, BC V5B 1S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b572e395a5f4d09a428181afb2d594d|BN20130625|7.7.0.0|",
+				"addressLine": "6534 Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "6534 Hastings St, Burnaby, BC V5B 1S2, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lochdale",
+				"postalCode": "V5B 1S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9681235,
+					49.2801451
+				]
+			},
+			"bbox": [
+				-122.9698467,
+				49.279021,
+				-122.9664003,
+				49.2812693
+			]
+		}
+	]
+}

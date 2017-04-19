@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12861 170 St NW, Edmonton, AB T5V 1L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da4dbe9de5c74fd1a9cf51c76dd23b12|BN20200137|7.7.0.0|",
+				"addressLine": "12861 170 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12861 170 St NW, Edmonton, AB T5V 1L8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Kinokamau Plains Area",
+				"postalCode": "T5V 1L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.61448,
+					53.58838
+				]
+			},
+			"bbox": [
+				-113.6163738,
+				53.5872558,
+				-113.6125862,
+				53.5895042
+			]
+		}
+	]
+}

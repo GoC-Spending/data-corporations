@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "275 Clarence St, Brampton, ON L6W 3R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c34568bb303547709a60cc34a17e5efd|BN20130521|7.7.0.0|",
+				"addressLine": "275 Clarence St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "275 Clarence St, Brampton, ON L6W 3R3, Canada",
+				"locality": "Brampton",
+				"postalCode": "L6W 3R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7342152,
+					43.6910367
+				]
+			},
+			"bbox": [
+				-79.7357699,
+				43.6899126,
+				-79.7326605,
+				43.6921609
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7979 Enterprise St, Burnaby, BC V5A 1V5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c12ed90005a849758bcca966fdff0b77|BN20130620|7.7.0.0|",
+				"addressLine": "7979 Enterprise St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7979 Enterprise St, Burnaby, BC V5A 1V5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lake City",
+				"postalCode": "V5A 1V5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9314016,
+					49.2556543
+				]
+			},
+			"bbox": [
+				-122.9331239,
+				49.2545301,
+				-122.9296792,
+				49.2567784
+			]
+		}
+	]
+}

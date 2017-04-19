@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "215 High St, Carleton Place, ON K7C 1W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3ef343893c540558f3680c3b817847a|BN20130423|7.7.0.0|",
+				"addressLine": "215 High St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "215 High St, Carleton Place, ON K7C 1W8, Canada",
+				"locality": "Carleton Place",
+				"postalCode": "K7C 1W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.15464,
+					45.13749
+				]
+			},
+			"bbox": [
+				-76.1562336,
+				45.1363658,
+				-76.1530464,
+				45.1386142
+			]
+		}
+	]
+}

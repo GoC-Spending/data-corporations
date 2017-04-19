@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "883 Cunningham Rd, Victoria, BC V9A 4M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1fd09ce092a94f4185c7142f01fca634|BN20121762|7.7.0.0|",
+				"addressLine": "883 Cunningham Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "883 Cunningham Rd, Victoria, BC V9A 4M7, Canada",
+				"locality": "Esquimalt",
+				"neighborhood": "Victoria",
+				"postalCode": "V9A 4M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4204255,
+					48.4410825
+				]
+			},
+			"bbox": [
+				-123.42212,
+				48.4399583,
+				-123.4187309,
+				48.4422066
+			]
+		}
+	]
+}

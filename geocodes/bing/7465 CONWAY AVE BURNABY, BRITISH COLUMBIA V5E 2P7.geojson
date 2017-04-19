@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7465 Conway Ave, Burnaby, BC V5E 2P7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f7f0d1fbe29d440ca0d46c90ba0b66d3|BN20130521|7.7.0.0|",
+				"addressLine": "7465 Conway Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7465 Conway Ave, Burnaby, BC V5E 2P7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Kingsway-Beresford",
+				"postalCode": "V5E 2P7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9687473,
+					49.2161057
+				]
+			},
+			"bbox": [
+				-122.9704683,
+				49.2149815,
+				-122.9670263,
+				49.2172299
+			]
+		}
+	]
+}

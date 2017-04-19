@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "208 Telson Rd, Markham, ON L3R 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c280d87ac7304609b966e212991850dc|BN20181720|7.7.0.0|",
+				"addressLine": "208 Telson Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "208 Telson Rd, Markham, ON L3R 1E6, Canada",
+				"locality": "Markham",
+				"postalCode": "L3R 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3380188,
+					43.8210367
+				]
+			},
+			"bbox": [
+				-79.3395769,
+				43.8199126,
+				-79.3364608,
+				43.8221609
+			]
+		}
+	]
+}

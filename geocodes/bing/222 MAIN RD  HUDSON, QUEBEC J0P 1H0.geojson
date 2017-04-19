@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "222 Main Rd, Hudson, QC J0P 1H0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd19c00ac98e4b04a7590852c9d25472|BN20130521|7.7.0.0|",
+				"addressLine": "222 Main Rd",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Vaudreuil-Soulanges",
+				"countryRegion": "Canada",
+				"formattedAddress": "222 Main Rd, Hudson, QC J0P 1H0, Canada",
+				"locality": "Hudson",
+				"neighborhood": "Como-Est",
+				"postalCode": "J0P 1H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1095716,
+					45.4490418
+				]
+			},
+			"bbox": [
+				-74.111174,
+				45.4479176,
+				-74.1079692,
+				45.4501659
+			]
+		}
+	]
+}

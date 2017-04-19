@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "118 Sydney St, Charlottetown, PE C1A 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe1ef1ab7ecb4d9e838d5a484c14ddb0|BN20320521|7.7.0.0|",
+				"addressLine": "118 Sydney St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "118 Sydney St, Charlottetown, PE C1A 1G4, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Queens Square",
+				"postalCode": "C1A 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.12618,
+					46.23335
+				]
+			},
+			"bbox": [
+				-63.1278051,
+				46.2322258,
+				-63.1245549,
+				46.2344742
+			]
+		}
+	]
+}

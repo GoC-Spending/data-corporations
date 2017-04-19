@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "165 Rue Wellington, Gatineau, QC J8X 2J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0790705df13d45f59cc2ef2d2b72447d|BN20131519|7.7.0.0|",
+				"addressLine": "165 Rue Wellington",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "165 Rue Wellington, Gatineau, QC J8X 2J3, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Hull",
+				"postalCode": "J8X 2J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.71723,
+					45.42638
+				]
+			},
+			"bbox": [
+				-75.7188318,
+				45.4252558,
+				-75.7156282,
+				45.4275042
+			]
+		}
+	]
+}

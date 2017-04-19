@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "666 Vaughan Rd, York, ON M6E 2Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7cfd414b1a7c43f5bf397e30f8870ed4|BN20260223|7.7.0.0|",
+				"addressLine": "666 Vaughan Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "666 Vaughan Rd, York, ON M6E 2Y5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Oakwood Village",
+				"postalCode": "M6E 2Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4430299,
+					43.69323
+				]
+			},
+			"bbox": [
+				-79.4445846,
+				43.6921058,
+				-79.4414752,
+				43.6943542
+			]
+		}
+	]
+}

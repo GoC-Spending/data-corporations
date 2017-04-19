@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "102 Main St E, Listowel, ON N4W 2B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "984aee548f8049eb964a6394d184618d|BN20130520|7.7.0.0|",
+				"addressLine": "102 Main St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 Main St E, Listowel, ON N4W 2B6, Canada",
+				"locality": "North Perth",
+				"neighborhood": "Listowel",
+				"postalCode": "N4W 2B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9528566,
+					43.7312674
+				]
+			},
+			"bbox": [
+				-80.9544123,
+				43.7301432,
+				-80.9513009,
+				43.7323915
+			]
+		}
+	]
+}

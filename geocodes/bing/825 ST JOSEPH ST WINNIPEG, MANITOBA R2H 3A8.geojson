@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "825 St Joseph St, Winnipeg, MB R2H 3A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bbbc8b2627ed488c99346ceb2b263eef|BN20190653|7.7.0.0|",
+				"addressLine": "825 St Joseph St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "825 St Joseph St, Winnipeg, MB R2H 3A8, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North St Boniface",
+				"postalCode": "R2H 3A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12604,
+					49.89735
+				]
+			},
+			"bbox": [
+				-97.1277851,
+				49.8962258,
+				-97.1242949,
+				49.8984742
+			]
+		}
+	]
+}

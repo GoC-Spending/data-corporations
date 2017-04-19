@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3551 River Rd W, Delta, BC V4K 3N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a62be39720d14b12a003d3da1037ce54|BN20130431|7.7.0.0|",
+				"addressLine": "3551 River Rd W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3551 River Rd W, Delta, BC V4K 3N2, Canada",
+				"locality": "Delta",
+				"postalCode": "V4K 3N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12479,
+					49.08228
+				]
+			},
+			"bbox": [
+				-123.1265063,
+				49.0811558,
+				-123.1230737,
+				49.0834042
+			]
+		}
+	]
+}

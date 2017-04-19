@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Belvedere Ave, Charlottetown, PE C1A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "779da4d7b1ae4849bf582f8bd14b0d1c|BN20320521|7.7.0.0|",
+				"addressLine": "101 Belvedere Ave",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Belvedere Ave, Charlottetown, PE C1A, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Mt Edward",
+				"postalCode": "C1A 7N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.1350237,
+					46.2534975
+				]
+			},
+			"bbox": [
+				-63.1366494,
+				46.2523734,
+				-63.1333979,
+				46.2546217
+			]
+		}
+	]
+}

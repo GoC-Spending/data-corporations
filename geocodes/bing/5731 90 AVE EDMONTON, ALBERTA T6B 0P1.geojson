@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5731 90 Ave NW, Edmonton, AB T6B 0P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89b6b100658c44e19f5611b99a8a4441|BN20130631|7.7.0.0|",
+				"addressLine": "5731 90 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5731 90 Ave NW, Edmonton, AB T6B 0P1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Kenilworth",
+				"postalCode": "T6B 0P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.42478,
+					53.5233
+				]
+			},
+			"bbox": [
+				-113.4266709,
+				53.5221758,
+				-113.4228891,
+				53.5244242
+			]
+		}
+	]
+}

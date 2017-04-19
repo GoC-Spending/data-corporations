@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2231 McCullough Rd, Nanaimo, BC V9S 4M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "397cafe153be4c09bf90da8a15cf8a6f|BN20260231|7.7.0.0|",
+				"addressLine": "2231 McCullough Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "2231 McCullough Rd, Nanaimo, BC V9S 4M7, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9S 4M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9798061,
+					49.1933479
+				]
+			},
+			"bbox": [
+				-123.9815263,
+				49.1922238,
+				-123.9780859,
+				49.1944721
+			]
+		}
+	]
+}

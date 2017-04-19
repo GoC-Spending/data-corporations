@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1771 Queen St E, Brampton, ON L6T 4S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adbade17f3914552beb4a375d3d1d6ad|BN20260231|7.7.0.0|",
+				"addressLine": "1771 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1771 Queen St E, Brampton, ON L6T 4S3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71635,
+					43.72478
+				]
+			},
+			"bbox": [
+				-79.7179056,
+				43.7236558,
+				-79.7147944,
+				43.7259042
+			]
+		}
+	]
+}

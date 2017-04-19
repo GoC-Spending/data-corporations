@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Union St, Smiths Falls, ON K7A 5C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "20a5d38b46614fcab3cc86019ca9b8b7|BN20130632|7.7.0.0|",
+				"addressLine": "38 Union St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Union St, Smiths Falls, ON K7A 5C4, Canada",
+				"locality": "Smiths Falls",
+				"postalCode": "K7A 5C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.0232,
+					44.91177
+				]
+			},
+			"bbox": [
+				-76.0247873,
+				44.9106458,
+				-76.0216127,
+				44.9128942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Covington Bay NE, Calgary, AB T3K 4A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fca71bc775c04651a0435f955c7c453b|BN20121764|7.7.0.0|",
+				"addressLine": "105 Covington Bay NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Covington Bay NE, Calgary, AB T3K 4A9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Coventry Hills",
+				"postalCode": "T3K 4A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.04138,
+					51.1574
+				]
+			},
+			"bbox": [
+				-114.0431724,
+				51.1562758,
+				-114.0395876,
+				51.1585242
+			]
+		}
+	]
+}

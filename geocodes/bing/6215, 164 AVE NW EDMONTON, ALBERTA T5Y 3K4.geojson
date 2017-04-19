@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6215 164 Ave NW, Edmonton, AB T5Y 3K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b704442acb04ab4b31b8b4e45de0b31|BN20240253|7.7.0.0|",
+				"addressLine": "6215 164 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6215 164 Ave NW, Edmonton, AB T5Y 3K4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Matt Berry",
+				"postalCode": "T5Y 3K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.43776,
+					53.6257499
+				]
+			},
+			"bbox": [
+				-113.4396555,
+				53.6246257,
+				-113.4358645,
+				53.6268741
+			]
+		}
+	]
+}

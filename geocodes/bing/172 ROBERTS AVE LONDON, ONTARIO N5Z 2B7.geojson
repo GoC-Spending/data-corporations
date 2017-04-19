@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "172 Roberts Ave, London, ON N5Z 2B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f6200aca4154e6690e5351b5eb8a436|BN20260231|7.7.0.0|",
+				"addressLine": "172 Roberts Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "172 Roberts Ave, London, ON N5Z 2B7, Canada",
+				"locality": "London",
+				"neighborhood": "Hamilton Road",
+				"postalCode": "N5Z 2B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2185,
+					42.984
+				]
+			},
+			"bbox": [
+				-81.2200367,
+				42.9828758,
+				-81.2169633,
+				42.9851242
+			]
+		}
+	]
+}

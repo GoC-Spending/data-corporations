@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "825 Admirals Rd, Victoria, BC V9A 2P1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c7d284ffdfb4e5b8c052db8d25b6b68|BN20130625|7.7.0.0|",
+				"addressLine": "825 Admirals Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "825 Admirals Rd, Victoria, BC V9A 2P1, Canada",
+				"locality": "Esquimalt",
+				"neighborhood": "Victoria",
+				"postalCode": "V9A 2P1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4197695,
+					48.4373214
+				]
+			},
+			"bbox": [
+				-123.4214639,
+				48.4361972,
+				-123.418075,
+				48.4384456
+			]
+		}
+	]
+}

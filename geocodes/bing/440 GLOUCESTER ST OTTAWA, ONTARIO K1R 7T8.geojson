@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "440 Gloucester St, Ottawa, ON K1R 7T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e83a44d80af4bafa46a33a109c29d2c|BN20131519|7.7.0.0|",
+				"addressLine": "440 Gloucester St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "440 Gloucester St, Ottawa, ON K1R 7T8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K1R 7T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7064264,
+					45.4145618
+				]
+			},
+			"bbox": [
+				-75.7080278,
+				45.4134376,
+				-75.7048249,
+				45.4156859
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "221 Water St, Summerside, PE C1N 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1abafcc040bd47ef800c49e8ade0cea9|BN20250135|7.7.0.0|",
+				"addressLine": "221 Water St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Prince",
+				"countryRegion": "Canada",
+				"formattedAddress": "221 Water St, Summerside, PE C1N 1B4, Canada",
+				"locality": "Summerside",
+				"postalCode": "C1N 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.7892722,
+					46.391428
+				]
+			},
+			"bbox": [
+				-63.7909021,
+				46.3903038,
+				-63.7876424,
+				46.3925521
+			]
+		}
+	]
+}

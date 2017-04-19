@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2662 Austin Ave, Coquitlam, BC V3K 6C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f40330dd929b411799cfa8da9ab6e74f|BN20121764|7.7.0.0|",
+				"addressLine": "2662 Austin Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2662 Austin Ave, Coquitlam, BC V3K 6C4, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Cape Horn",
+				"postalCode": "V3K 6C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.81749,
+					49.24876
+				]
+			},
+			"bbox": [
+				-122.8192121,
+				49.2476358,
+				-122.8157679,
+				49.2498842
+			]
+		}
+	]
+}

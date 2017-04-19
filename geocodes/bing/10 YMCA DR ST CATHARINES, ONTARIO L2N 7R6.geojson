@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 YMCA Dr, St Catharines, ON L2N 7R6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "70e6177e706d4ecda4ccd07172cf47c9|BN20171457|7.7.0.0|",
+				"addressLine": "10 YMCA Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 YMCA Dr, St Catharines, ON L2N 7R6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Fairview-Facer",
+				"postalCode": "L2N 7R6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24899,
+					43.17965
+				]
+			},
+			"bbox": [
+				-79.2505316,
+				43.1785258,
+				-79.2474484,
+				43.1807742
+			]
+		}
+	]
+}

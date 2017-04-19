@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Michael Cowpland Dr, Kanata, ON K2M 2E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9833fa5fcdb411687875eb5e158a7ab|BN20190642|7.7.0.0|",
+				"addressLine": "135 Michael Cowpland Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Michael Cowpland Dr, Kanata, ON K2M 2E9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2M 2E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.87057,
+					45.28569
+				]
+			},
+			"bbox": [
+				-75.8721678,
+				45.2845658,
+				-75.8689722,
+				45.2868142
+			]
+		}
+	]
+}

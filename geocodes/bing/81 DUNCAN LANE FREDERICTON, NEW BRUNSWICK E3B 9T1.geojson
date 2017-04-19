@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "81 Duncan Ln, Fredericton, NB E3B 9T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6c47c7887a294c70af04fdc448042d14|BN20190642|7.7.0.0|",
+				"addressLine": "81 Duncan Ln",
+				"adminDistrict": "NB",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "81 Duncan Ln, Fredericton, NB E3B 9T1, Canada",
+				"locality": "Fredericton",
+				"postalCode": "E3B 9T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.69539,
+					45.96019
+				]
+			},
+			"bbox": [
+				-66.6970071,
+				45.9590658,
+				-66.6937729,
+				45.9613142
+			]
+		}
+	]
+}

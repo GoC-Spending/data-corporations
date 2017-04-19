@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1171 Russell St, Thunder Bay, ON P7B 5M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9c3616be6c4240219b61ece9bde6c894|BN20210145|7.7.0.0|",
+				"addressLine": "1171 Russell St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "1171 Russell St, Thunder Bay, ON P7B 5M6, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7B 5M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.25359,
+					48.40155
+				]
+			},
+			"bbox": [
+				-89.2552832,
+				48.4004258,
+				-89.2518968,
+				48.4026742
+			]
+		}
+	]
+}

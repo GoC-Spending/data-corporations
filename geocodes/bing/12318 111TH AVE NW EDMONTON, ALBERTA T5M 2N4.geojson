@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12318 111 Ave NW, Edmonton, AB T5M 2N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6b8d5af60b504c6e8cdc7d0cd3d7cc9c|BN20130530|7.7.0.0|",
+				"addressLine": "12318 111 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "12318 111 Ave NW, Edmonton, AB T5M 2N4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Inglewood",
+				"postalCode": "T5M 2N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53467,
+					53.55929
+				]
+			},
+			"bbox": [
+				-113.5365625,
+				53.5581658,
+				-113.5327775,
+				53.5604142
+			]
+		}
+	]
+}

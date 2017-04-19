@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12540 Bridgeport Rd, Richmond, BC V6V 1J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e0e2325ea1a440a8279c9a0a563d313|BN20320521|7.7.0.0|",
+				"addressLine": "12540 Bridgeport Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12540 Bridgeport Rd, Richmond, BC V6V 1J5, Canada",
+				"locality": "Richmond",
+				"neighborhood": "East Cambie",
+				"postalCode": "V6V 1J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08458,
+					49.19161
+				]
+			},
+			"bbox": [
+				-123.0863001,
+				49.1904858,
+				-123.0828599,
+				49.1927342
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "460 Harry Walker Pkwy S, Newmarket, ON L3Y 8E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6cf976044c64bbbbdd27962b8bc8ccb|BN20260231|7.7.0.0|",
+				"addressLine": "460 Harry Walker Pkwy S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "460 Harry Walker Pkwy S, Newmarket, ON L3Y 8E3, Canada",
+				"locality": "Newmarket",
+				"postalCode": "L3Y 8E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.42269,
+					44.05068
+				]
+			},
+			"bbox": [
+				-79.4242541,
+				44.0495558,
+				-79.4211259,
+				44.0518042
+			]
+		}
+	]
+}

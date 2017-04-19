@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "883 Alder St S, Campbell River, BC V9W 1Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "67e38298eb6f4ec3b4de8ac3de380d99|BN20130431|7.7.0.0|",
+				"addressLine": "883 Alder St S",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Strathcona",
+				"countryRegion": "Canada",
+				"formattedAddress": "883 Alder St S, Campbell River, BC V9W 1Z4, Canada",
+				"locality": "Campbell River",
+				"postalCode": "V9W 1Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.23241,
+					49.99051
+				]
+			},
+			"bbox": [
+				-125.2341585,
+				49.9893858,
+				-125.2306615,
+				49.9916342
+			]
+		}
+	]
+}

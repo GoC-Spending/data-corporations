@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1589 CR-8, Trent Hills, ON K0L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a348bde8536a45deacf77f32b3ce9fd1|BN20200239|7.7.0.0|",
+				"addressLine": "1589 CR-8",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "1589 CR-8, Trent Hills, ON K0L, Canada",
+				"locality": "Trent Hills",
+				"neighborhood": "Campbellford",
+				"postalCode": "K0L 2H0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.7397869,
+					44.2753513
+				]
+			},
+			"bbox": [
+				-77.7413569,
+				44.2742272,
+				-77.7382168,
+				44.2764755
+			]
+		}
+	]
+}

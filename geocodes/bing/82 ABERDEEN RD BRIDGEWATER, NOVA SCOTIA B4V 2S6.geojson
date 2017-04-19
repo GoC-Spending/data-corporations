@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "82 Aberdeen Rd, Bridgewater, NS B4V 2S6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b58de96b78e4f86b1ccc680d65d4273|BN20190642|7.7.0.0|",
+				"addressLine": "82 Aberdeen Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Lunenburg",
+				"countryRegion": "Canada",
+				"formattedAddress": "82 Aberdeen Rd, Bridgewater, NS B4V 2S6, Canada",
+				"locality": "Bridgewater",
+				"postalCode": "B4V 2S6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.5174895,
+					44.3824414
+				]
+			},
+			"bbox": [
+				-64.5190625,
+				44.3813172,
+				-64.5159166,
+				44.3835655
+			]
+		}
+	]
+}

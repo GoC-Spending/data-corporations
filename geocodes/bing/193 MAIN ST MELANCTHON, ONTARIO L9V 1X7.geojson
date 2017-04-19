@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "193 Main St, Melancthon, ON L0N, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e1bdedc22b74d39a42a15508446f85f|BN20130530|7.7.0.0|",
+				"addressLine": "193 Main St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Dufferin",
+				"countryRegion": "Canada",
+				"formattedAddress": "193 Main St, Melancthon, ON L0N, Canada",
+				"locality": "Melancthon",
+				"neighborhood": "Horning's Mills",
+				"postalCode": "L0N"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2050596,
+					44.1551863
+				]
+			},
+			"bbox": [
+				-80.2066264,
+				44.1540621,
+				-80.2034927,
+				44.1563104
+			]
+		}
+	]
+}

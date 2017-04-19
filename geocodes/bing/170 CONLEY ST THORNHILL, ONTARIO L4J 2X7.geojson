@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 Conley St, Thornhill, ON L4J 2X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "624c16e0e05440fba7417e616ee71bbf|BN20130620|7.7.0.0|",
+				"addressLine": "170 Conley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 Conley St, Thornhill, ON L4J 2X7, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 2X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45994,
+					43.7918499
+				]
+			},
+			"bbox": [
+				-79.4614973,
+				43.7907257,
+				-79.4583827,
+				43.7929741
+			]
+		}
+	]
+}

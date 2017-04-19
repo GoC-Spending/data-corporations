@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "130 Rue Denault, Kirkland, QC H9J 3X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f3fb988467e6441a80eb874c6e8800ee|BN20130721|7.7.0.0|",
+				"addressLine": "130 Rue Denault",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "130 Rue Denault, Kirkland, QC H9J 3X2, Canada",
+				"locality": "Kirkland",
+				"postalCode": "H9J 3X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.87039,
+					45.45714
+				]
+			},
+			"bbox": [
+				-73.8719926,
+				45.4560158,
+				-73.8687874,
+				45.4582642
+			]
+		}
+	]
+}

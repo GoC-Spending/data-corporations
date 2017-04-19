@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1200 Dundas St, Woodstock, ON N4S 7V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fccac7fdf8144b988b3fd8921a83b42|BN20190642|7.7.0.0|",
+				"addressLine": "1200 Dundas St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Oxford",
+				"countryRegion": "Canada",
+				"formattedAddress": "1200 Dundas St, Woodstock, ON N4S 7V9, Canada",
+				"locality": "Woodstock",
+				"postalCode": "N4S 7V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7211501,
+					43.1351059
+				]
+			},
+			"bbox": [
+				-80.7226906,
+				43.1339817,
+				-80.7196096,
+				43.1362301
+			]
+		}
+	]
+}

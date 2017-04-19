@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "St Marys, N4X 1C6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ddbeedb1b884be0807cf0d8a3211253|BN20171457|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Perth",
+				"countryRegion": "Canada",
+				"formattedAddress": "St Marys, N4X 1C6, Canada",
+				"locality": "St Marys",
+				"postalCode": "N4X 1C6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1341781616211,
+					43.2467994689941
+				]
+			},
+			"bbox": [
+				-81.1412483129027,
+				43.2429367514235,
+				-81.1271080103395,
+				43.2506621865648
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Portsmouth, VA 23703",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2ddbeedb1b884be0807cf0d8a3211253|BN20171457|7.7.0.0|",
+				"adminDistrict": "VA",
+				"adminDistrict2": "Portsmouth",
+				"countryRegion": "United States",
+				"formattedAddress": "Portsmouth, VA 23703",
+				"locality": "Portsmouth",
+				"postalCode": "23703"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.4025726318359,
+					36.8729972839355
+				]
+			},
+			"bbox": [
+				-76.4201965332031,
+				36.8394813537598,
+				-76.3385009765625,
+				36.9247093200684
+			]
+		}
+	]
+}

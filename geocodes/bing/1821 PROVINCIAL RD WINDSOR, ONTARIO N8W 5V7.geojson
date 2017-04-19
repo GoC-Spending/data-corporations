@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1821 Provincial Rd, Windsor, ON N8W 5V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "383d4d8d38144a3c9d8a27f028991646|BN20181720|7.7.0.0|",
+				"addressLine": "1821 Provincial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1821 Provincial Rd, Windsor, ON N8W 5V7, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Devonshire",
+				"postalCode": "N8W 5V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.97341,
+					42.25541
+				]
+			},
+			"bbox": [
+				-82.9749288,
+				42.2542858,
+				-82.9718912,
+				42.2565342
+			]
+		}
+	]
+}

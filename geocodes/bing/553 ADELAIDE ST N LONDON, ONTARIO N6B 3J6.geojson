@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "553 Adelaide St N, London, ON N6B 3J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d2d81bb9f3f345e9be43e19ad896a443|BN20130422|7.7.0.0|",
+				"addressLine": "553 Adelaide St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "553 Adelaide St N, London, ON N6B 3J6, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 3J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2341,
+					42.9933
+				]
+			},
+			"bbox": [
+				-81.2356369,
+				42.9921758,
+				-81.2325631,
+				42.9944242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "311 Brock Rd S, Puslinch, ON N1H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dead9eddc7ab4dc5a3a1f84f93ad228c|BN20130522|7.7.0.0|",
+				"addressLine": "311 Brock Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "311 Brock Rd S, Puslinch, ON N1H, Canada",
+				"locality": "Puslinch",
+				"neighborhood": "Guelph",
+				"postalCode": "N1H 6H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.12925,
+					43.45595
+				]
+			},
+			"bbox": [
+				-80.1307986,
+				43.4548258,
+				-80.1277014,
+				43.4570742
+			]
+		}
+	]
+}

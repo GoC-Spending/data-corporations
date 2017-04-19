@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2677 Bank St, Gloucester, ON K1T 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a30e544550c4dbdb9bffb8b94925d0d|BN20130447|7.7.0.0|",
+				"addressLine": "2677 Bank St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2677 Bank St, Gloucester, ON K1T 1N1, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6353199,
+					45.3531199
+				]
+			},
+			"bbox": [
+				-75.6369196,
+				45.3519957,
+				-75.6337202,
+				45.3542441
+			]
+		}
+	]
+}

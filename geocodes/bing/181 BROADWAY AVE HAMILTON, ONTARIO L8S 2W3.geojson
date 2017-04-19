@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "181 Broadway Ave, Hamilton, ON L8S 2W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd0c96e8dd62427f92ca68e5bac895f9|BN20171457|7.7.0.0|",
+				"addressLine": "181 Broadway Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "181 Broadway Ave, Hamilton, ON L8S 2W3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ainslie Wood East",
+				"postalCode": "L8S 2W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.92041,
+					43.25218
+				]
+			},
+			"bbox": [
+				-79.9219534,
+				43.2510558,
+				-79.9188666,
+				43.2533042
+			]
+		}
+	]
+}

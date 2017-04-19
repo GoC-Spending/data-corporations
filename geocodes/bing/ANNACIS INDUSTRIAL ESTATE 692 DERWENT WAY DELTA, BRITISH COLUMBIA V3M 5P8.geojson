@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "692 Derwent Way, Delta, BC V3M 5P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "beac2c232a5f45d4bd12cfa7975a07d7|BN20121764|7.7.0.0|",
+				"addressLine": "692 Derwent Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "692 Derwent Way, Delta, BC V3M 5P8, Canada",
+				"locality": "Delta",
+				"postalCode": "V3M 5P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9307535,
+					49.1779685
+				]
+			},
+			"bbox": [
+				-122.9324732,
+				49.1768444,
+				-122.9290339,
+				49.1790927
+			]
+		}
+	]
+}

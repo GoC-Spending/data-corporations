@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Van Lang Pvt, Ottawa, ON K1Z 1A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a877d0b5c77d464c960edc3e96f9c6db|BN20260223|7.7.0.0|",
+				"addressLine": "30 Van Lang Pvt",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Van Lang Pvt, Ottawa, ON K1Z 1A4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Westboro",
+				"postalCode": "K1Z 1A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.754907,
+					45.3956041
+				]
+			},
+			"bbox": [
+				-75.7565079,
+				45.39448,
+				-75.7533062,
+				45.3967283
+			]
+		}
+	]
+}

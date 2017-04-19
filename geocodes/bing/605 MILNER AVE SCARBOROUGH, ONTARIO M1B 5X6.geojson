@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 Milner Ave, Scarborough, ON M1B 5X6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c14bc8cf9234da7a4b13239b4043c85|BN20240253|7.7.0.0|",
+				"addressLine": "605 Milner Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 Milner Ave, Scarborough, ON M1B 5X6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Malvern",
+				"postalCode": "M1B 5X6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.22081,
+					43.79433
+				]
+			},
+			"bbox": [
+				-79.2223674,
+				43.7932058,
+				-79.2192526,
+				43.7954542
+			]
+		}
+	]
+}

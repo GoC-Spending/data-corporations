@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Fraser Heights, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d09cf3ae93b84af5b69bd5344c1b715c|BN20130530|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Fraser Heights, British Columbia, Canada",
+				"locality": "Fraser Heights"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.780326843262,
+					49.1996803283691
+				]
+			},
+			"bbox": [
+				-122.839407203302,
+				49.1707099453766,
+				-122.721246483222,
+				49.2286507113617
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Drumright, OK 74030",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d09cf3ae93b84af5b69bd5344c1b715c|BN20130530|7.7.0.0|",
+				"adminDistrict": "OK",
+				"adminDistrict2": "Creek",
+				"countryRegion": "United States",
+				"formattedAddress": "Drumright, OK 74030",
+				"locality": "Drumright",
+				"postalCode": "74030"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.6041641235352,
+					35.9889640808105
+				]
+			},
+			"bbox": [
+				-96.6430969238281,
+				35.7704887390137,
+				-96.4651565551758,
+				36.1637191772461
+			]
+		}
+	]
+}

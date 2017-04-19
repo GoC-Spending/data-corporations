@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Vulcan St, Etobicoke, ON M9W 1L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc1d8fcf5da94e54bd6f8177743761fc|BN20260231|7.7.0.0|",
+				"addressLine": "2 Vulcan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Vulcan St, Etobicoke, ON M9W 1L2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 1L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57786,
+					43.70561
+				]
+			},
+			"bbox": [
+				-79.5794151,
+				43.7044858,
+				-79.5763049,
+				43.7067342
+			]
+		}
+	]
+}

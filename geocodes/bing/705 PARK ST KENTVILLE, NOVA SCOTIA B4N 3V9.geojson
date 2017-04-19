@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "705 Park St, Kentville, NS B4N 3V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78a5aafd5dea4c38992705bb8984dba2|BN20130520|7.7.0.0|",
+				"addressLine": "705 Park St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "705 Park St, Kentville, NS B4N 3V7, Canada",
+				"locality": "Kentville",
+				"postalCode": "B4N 3V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.54342,
+					45.07477
+				]
+			},
+			"bbox": [
+				-64.5450119,
+				45.0736458,
+				-64.5418281,
+				45.0758942
+			]
+		}
+	]
+}

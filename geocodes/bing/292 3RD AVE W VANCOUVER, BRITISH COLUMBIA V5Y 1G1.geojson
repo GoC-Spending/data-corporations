@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "292 W 3rd Ave, Vancouver, BC V5Y 1G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca19873fd3074395be115e6ebe95df27|BN20130631|7.7.0.0|",
+				"addressLine": "292 W 3rd Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "292 W 3rd Ave, Vancouver, BC V5Y 1G1, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1105429,
+					49.2682551
+				]
+			},
+			"bbox": [
+				-123.1122657,
+				49.267131,
+				-123.1088201,
+				49.2693793
+			]
+		}
+	]
+}

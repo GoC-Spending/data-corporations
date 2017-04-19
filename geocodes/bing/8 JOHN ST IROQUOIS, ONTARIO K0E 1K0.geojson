@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8 John St, Iroquois, ON K0E, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91acca60c7f742a5b1bce8202da7af8e|BN20130721|7.7.0.0|",
+				"addressLine": "8 John St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Stormont, Dundas and Glengarry",
+				"countryRegion": "Canada",
+				"formattedAddress": "8 John St, Iroquois, ON K0E, Canada",
+				"locality": "South Dundas",
+				"neighborhood": "Iroquois",
+				"postalCode": "K0E 1K0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.31887,
+					44.84823
+				]
+			},
+			"bbox": [
+				-75.3204556,
+				44.8471058,
+				-75.3172844,
+				44.8493542
+			]
+		}
+	]
+}

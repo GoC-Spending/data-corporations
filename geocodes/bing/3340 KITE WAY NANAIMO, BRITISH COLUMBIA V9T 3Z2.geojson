@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3340 Kite Way, Nanaimo, BC V9T 3Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a7eb984cc78a4bd784568a2148942b9a|BN20190642|7.7.0.0|",
+				"addressLine": "3340 Kite Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "3340 Kite Way, Nanaimo, BC V9T 3Z2, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9T 3Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.94896,
+					49.21841
+				]
+			},
+			"bbox": [
+				-123.9506811,
+				49.2172858,
+				-123.9472389,
+				49.2195342
+			]
+		}
+	]
+}

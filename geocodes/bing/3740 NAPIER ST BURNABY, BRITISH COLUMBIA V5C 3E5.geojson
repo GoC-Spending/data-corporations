@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3740 Napier St, Burnaby, BC V5C 3E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a2d7b865faa44156ad2b36ef43251aa7|BN20190653|7.7.0.0|",
+				"addressLine": "3740 Napier St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3740 Napier St, Burnaby, BC V5C 3E5, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "West Central Valley",
+				"postalCode": "V5C 3E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0223154,
+					49.2747215
+				]
+			},
+			"bbox": [
+				-123.0240384,
+				49.2735973,
+				-123.0205924,
+				49.2758456
+			]
+		}
+	]
+}

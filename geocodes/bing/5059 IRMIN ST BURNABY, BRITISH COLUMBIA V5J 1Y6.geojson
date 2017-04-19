@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5059 Irmin St, Burnaby, BC V5J 1Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8d627672d1b14f52adb535af27504119|BN20190642|7.7.0.0|",
+				"addressLine": "5059 Irmin St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5059 Irmin St, Burnaby, BC V5J 1Y6, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Sussex-Nelson",
+				"postalCode": "V5J 1Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9913941,
+					49.2156933
+				]
+			},
+			"bbox": [
+				-122.9931151,
+				49.2145692,
+				-122.9896731,
+				49.2168175
+			]
+		}
+	]
+}

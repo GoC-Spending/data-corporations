@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Breen Cres, North York, ON M2P 1Z7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ec2f222d8c24385a91218763127b0c5|BN20130631|7.7.0.0|",
+				"addressLine": "10 Breen Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Breen Cres, North York, ON M2P 1Z7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M2P 1Z7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39302,
+					43.75036
+				]
+			},
+			"bbox": [
+				-79.3945762,
+				43.7492358,
+				-79.3914638,
+				43.7514842
+			]
+		}
+	]
+}

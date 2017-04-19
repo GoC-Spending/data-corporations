@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "101 Fanshawe Dr, Brampton, ON L6Z 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e14587ca38ea41f98f7a4747f576359c|BN20130431|7.7.0.0|",
+				"addressLine": "101 Fanshawe Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "101 Fanshawe Dr, Brampton, ON L6Z 1A8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L6Z 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80106,
+					43.73065
+				]
+			},
+			"bbox": [
+				-79.8026157,
+				43.7295258,
+				-79.7995043,
+				43.7317742
+			]
+		}
+	]
+}

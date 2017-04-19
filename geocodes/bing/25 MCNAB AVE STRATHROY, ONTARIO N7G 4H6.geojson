@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 McNab St, Strathroy, ON N7G 4H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "635661921855455b98aed421c460f668|BN20130522|7.7.0.0|",
+				"addressLine": "25 McNab St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 McNab St, Strathroy, ON N7G 4H6, Canada",
+				"locality": "Strathroy-Caradoc",
+				"neighborhood": "Strathroy",
+				"postalCode": "N7G 4H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.6128585,
+					42.9619119
+				]
+			},
+			"bbox": [
+				-81.6143946,
+				42.9607877,
+				-81.6113223,
+				42.963036
+			]
+		}
+	]
+}

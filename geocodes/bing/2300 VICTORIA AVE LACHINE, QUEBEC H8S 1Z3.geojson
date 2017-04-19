@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2300 Rue Victoria, Lachine, QC H8S 1Z3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "302a03b3e1b0415facfb620de7b0c874|BN20280152|7.7.0.0|",
+				"addressLine": "2300 Rue Victoria",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "2300 Rue Victoria, Lachine, QC H8S 1Z3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8S 1Z3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.6853299,
+					45.43601
+				]
+			},
+			"bbox": [
+				-73.6869319,
+				45.4348858,
+				-73.6837279,
+				45.4371342
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19705 Fraser Hwy, Langley, BC V3A 7E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68939ca8db6a43d9b357d0f85eeee7ce|BN20130631|7.7.0.0|",
+				"addressLine": "19705 Fraser Hwy",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19705 Fraser Hwy, Langley, BC V3A 7E9, Canada",
+				"locality": "Langley",
+				"neighborhood": "Willowbrook",
+				"postalCode": "V3A 7E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6773617,
+					49.1129692
+				]
+			},
+			"bbox": [
+				-122.6790791,
+				49.1118451,
+				-122.6756443,
+				49.1140934
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7851 Alderbridge Way, Richmond, BC V6X 2A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8289a6ea10c425f8dc25224e89fabf0|BN20250135|7.7.0.0|",
+				"addressLine": "7851 Alderbridge Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7851 Alderbridge Way, Richmond, BC V6X 2A4, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Richmond Centre",
+				"postalCode": "V6X 2A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1401435,
+					49.176612
+				]
+			},
+			"bbox": [
+				-123.1418631,
+				49.1754879,
+				-123.1384239,
+				49.1777362
+			]
+		}
+	]
+}

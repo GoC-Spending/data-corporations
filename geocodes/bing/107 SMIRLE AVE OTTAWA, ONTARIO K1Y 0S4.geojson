@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "107 Smirle Ave, Ottawa, ON K1Y 0S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f04097ead9e04aabb92a5ba0d952c37e|BN20131519|7.7.0.0|",
+				"addressLine": "107 Smirle Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "107 Smirle Ave, Ottawa, ON K1Y 0S4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Island Park",
+				"postalCode": "K1Y 0S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73555,
+					45.40005
+				]
+			},
+			"bbox": [
+				-75.737151,
+				45.3989258,
+				-75.733949,
+				45.4011742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11907 125 St NW, Edmonton, AB T5L 0S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08ed7ed14596402cbc3aa330938c5d94|BN20121763|7.7.0.0|",
+				"addressLine": "11907 125 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11907 125 St NW, Edmonton, AB T5L 0S3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Prince Charles",
+				"postalCode": "T5L 0S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.53728,
+					53.5722499
+				]
+			},
+			"bbox": [
+				-113.5391731,
+				53.5711257,
+				-113.5353869,
+				53.5733741
+			]
+		}
+	]
+}

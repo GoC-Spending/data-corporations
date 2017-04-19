@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "369 Grafton St, Charlottetown, PE C1A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a826d02883384288abb43fddccd8e0d1|BN20121763|7.7.0.0|",
+				"addressLine": "369 Grafton St",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "369 Grafton St, Charlottetown, PE C1A, Canada",
+				"locality": "Charlottetown",
+				"neighborhood": "Belvedere",
+				"postalCode": "C1A 1M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.11597,
+					46.24172
+				]
+			},
+			"bbox": [
+				-63.1175954,
+				46.2405958,
+				-63.1143446,
+				46.2428442
+			]
+		}
+	]
+}

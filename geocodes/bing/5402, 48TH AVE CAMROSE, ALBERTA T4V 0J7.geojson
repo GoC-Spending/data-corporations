@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5402 48 Ave, Camrose, AB T4V 0J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d33e358f7d004dd29965ea3fa3c75342|BN20300154|7.7.0.0|",
+				"addressLine": "5402 48 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5402 48 Ave, Camrose, AB T4V 0J7, Canada",
+				"locality": "Camrose",
+				"postalCode": "T4V 0J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.8320482,
+					53.0181849
+				]
+			},
+			"bbox": [
+				-112.8339169,
+				53.0170607,
+				-112.8301795,
+				53.019309
+			]
+		}
+	]
+}

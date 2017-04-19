@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "39 York St, Moncton, NB E1C 2Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2e1802ffcb9a49edbc8708b2d57baaae|BN20130447|7.7.0.0|",
+				"addressLine": "39 York St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Westmorland",
+				"countryRegion": "Canada",
+				"formattedAddress": "39 York St, Moncton, NB E1C 2Y3, Canada",
+				"locality": "Moncton",
+				"postalCode": "E1C 2Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.79413,
+					46.09509
+				]
+			},
+			"bbox": [
+				-64.7957511,
+				46.0939658,
+				-64.7925089,
+				46.0962142
+			]
+		}
+	]
+}

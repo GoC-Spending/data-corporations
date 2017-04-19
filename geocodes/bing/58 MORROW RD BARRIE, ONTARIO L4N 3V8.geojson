@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Morrow Rd, Barrie, ON L4N 3V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9b42a5fb3b940c99736ff01bc6313c8|BN20130520|7.7.0.0|",
+				"addressLine": "58 Morrow Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Morrow Rd, Barrie, ON L4N 3V8, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 3V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70305,
+					44.36178
+				]
+			},
+			"bbox": [
+				-79.7046224,
+				44.3606558,
+				-79.7014776,
+				44.3629042
+			]
+		}
+	]
+}

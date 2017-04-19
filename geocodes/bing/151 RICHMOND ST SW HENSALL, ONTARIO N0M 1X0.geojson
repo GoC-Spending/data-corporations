@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "151 Richmond St SW, Bluewater, ON N0M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1aeecd16bd104eb29b2d01d71f3cdb8d|BN20280152|7.7.0.0|",
+				"addressLine": "151 Richmond St SW",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "151 Richmond St SW, Bluewater, ON N0M, Canada",
+				"locality": "Bluewater",
+				"neighborhood": "Hensall",
+				"postalCode": "N0M 1X0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.5087442,
+					43.4324206
+				]
+			},
+			"bbox": [
+				-81.5102922,
+				43.4312965,
+				-81.5071961,
+				43.4335448
+			]
+		}
+	]
+}

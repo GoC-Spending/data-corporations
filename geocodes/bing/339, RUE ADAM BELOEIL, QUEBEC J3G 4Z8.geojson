@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "339 Rue Adam, Beloeil, QC J3G 4Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2bd715cdd8b84b498d628e129d2112d9|BN20130530|7.7.0.0|",
+				"addressLine": "339 Rue Adam",
+				"adminDistrict": "QC",
+				"adminDistrict2": "La Vallée-du-Richelieu",
+				"countryRegion": "Canada",
+				"formattedAddress": "339 Rue Adam, Beloeil, QC J3G 4Z8, Canada",
+				"locality": "Beloeil",
+				"postalCode": "J3G 4Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.22649,
+					45.567
+				]
+			},
+			"bbox": [
+				-73.2280958,
+				45.5658758,
+				-73.2248842,
+				45.5681242
+			]
+		}
+	]
+}

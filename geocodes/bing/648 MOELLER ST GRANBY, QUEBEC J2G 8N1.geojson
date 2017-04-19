@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "648 Rue Moeller, Granby, QC J2G 8N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fdb1f682c1534215acd73b655882d835|BN20190653|7.7.0.0|",
+				"addressLine": "648 Rue Moeller",
+				"adminDistrict": "QC",
+				"adminDistrict2": "La Haute-Yamaska",
+				"countryRegion": "Canada",
+				"formattedAddress": "648 Rue Moeller, Granby, QC J2G 8N1, Canada",
+				"locality": "Granby",
+				"postalCode": "J2G 8N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.7519499,
+					45.39068
+				]
+			},
+			"bbox": [
+				-72.7535506,
+				45.3895558,
+				-72.7503492,
+				45.3918042
+			]
+		}
+	]
+}

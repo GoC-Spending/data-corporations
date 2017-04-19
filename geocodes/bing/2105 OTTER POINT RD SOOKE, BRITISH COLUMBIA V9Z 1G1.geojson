@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2105 Otter Point Rd, Sooke, BC V9Z, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6cd794bab018406197dab97096c14265|BN20160335|7.7.0.0|",
+				"addressLine": "2105 Otter Point Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "2105 Otter Point Rd, Sooke, BC V9Z, Canada",
+				"locality": "Sooke",
+				"postalCode": "V9Z 1G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.7253712,
+					48.3800609
+				]
+			},
+			"bbox": [
+				-123.7270637,
+				48.3789368,
+				-123.7236786,
+				48.3811851
+			]
+		}
+	]
+}

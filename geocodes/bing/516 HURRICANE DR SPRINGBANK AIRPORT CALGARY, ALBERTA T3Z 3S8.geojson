@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "516 Hurricane Dr, Calgary, AB T3Z 3S8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5138fb2398384b159451ba86f948cb2c|BN20130632|7.7.0.0|",
+				"addressLine": "516 Hurricane Dr",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "516 Hurricane Dr, Calgary, AB T3Z 3S8, Canada",
+				"locality": "Rocky View County",
+				"neighborhood": "Calgary",
+				"postalCode": "T3Z 3S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.36665,
+					51.09748
+				]
+			},
+			"bbox": [
+				-114.3684401,
+				51.0963558,
+				-114.3648599,
+				51.0986042
+			]
+		}
+	]
+}

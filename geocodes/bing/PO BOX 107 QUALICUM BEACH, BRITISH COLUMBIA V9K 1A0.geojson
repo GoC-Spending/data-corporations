@@ -1,0 +1,78 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 5,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Qualicum Beach, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c34fe37934084d02a10b53d3f35562d1|BN20130625|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Qualicum Beach, British Columbia, Canada",
+				"locality": "Qualicum Beach"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.444343566895,
+					49.347728729248
+				]
+			},
+			"bbox": [
+				-124.486763000488,
+				49.3355407714844,
+				-124.381240844727,
+				49.3623199462891
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Qualicum Beach, Nanaimo, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c34fe37934084d02a10b53d3f35562d1|BN20130625|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "Qualicum Beach, Nanaimo, British Columbia, Canada",
+				"locality": "Nanaimo",
+				"neighborhood": "Qualicum Beach"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.495002746582,
+					49.3608016967773
+				]
+			},
+			"bbox": [
+				-124.502909912102,
+				49.3569389792067,
+				-124.487095581062,
+				49.364664414348
+			]
+		}
+	]
+}

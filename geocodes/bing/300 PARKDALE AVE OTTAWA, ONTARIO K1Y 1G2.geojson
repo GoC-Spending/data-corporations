@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "300 Parkdale Ave, Ottawa, ON K1Y 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ef12927158d9413793e32c2d9ab649db|BN20200239|7.7.0.0|",
+				"addressLine": "300 Parkdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "300 Parkdale Ave, Ottawa, ON K1Y 1G2, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Hintonburg-Mechanicsville",
+				"postalCode": "K1Y 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.73115,
+					45.40346
+				]
+			},
+			"bbox": [
+				-75.7327511,
+				45.4023358,
+				-75.7295489,
+				45.4045842
+			]
+		}
+	]
+}

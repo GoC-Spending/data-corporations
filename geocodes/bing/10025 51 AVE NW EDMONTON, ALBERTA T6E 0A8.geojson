@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10025 51 Ave NW, Edmonton, AB T6E 0A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e0b57c5af104d75b74262330971301e|BN20130423|7.7.0.0|",
+				"addressLine": "10025 51 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10025 51 Ave NW, Edmonton, AB T6E 0A8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Papaschase Industrial",
+				"postalCode": "T6E 0A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48902,
+					53.48701
+				]
+			},
+			"bbox": [
+				-113.4909093,
+				53.4858858,
+				-113.4871307,
+				53.4881342
+			]
+		}
+	]
+}

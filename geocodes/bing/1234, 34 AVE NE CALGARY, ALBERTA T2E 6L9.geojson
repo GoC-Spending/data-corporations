@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1234 34 Ave NE, Calgary, AB T2E 6L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46d0435713f74aa4a881aeb54709b791|BN20130719|7.7.0.0|",
+				"addressLine": "1234 34 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1234 34 Ave NE, Calgary, AB T2E 6L9, Canada",
+				"locality": "Calgary",
+				"postalCode": "T2E 6L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0323324,
+					51.083693
+				]
+			},
+			"bbox": [
+				-114.0341219,
+				51.0825688,
+				-114.0305429,
+				51.0848171
+			]
+		}
+	]
+}

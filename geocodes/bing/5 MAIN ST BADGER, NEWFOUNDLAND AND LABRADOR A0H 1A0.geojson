@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Main St, Badger, NL A0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de173bbed08d482f9c401889e4e1526d|BN20260231|7.7.0.0|",
+				"addressLine": "5 Main St",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Main St, Badger, NL A0H, Canada",
+				"locality": "Badger",
+				"postalCode": "A0H 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-56.0353965,
+					48.9804818
+				]
+			},
+			"bbox": [
+				-56.0371093,
+				48.9793576,
+				-56.0336837,
+				48.9816059
+			]
+		}
+	]
+}

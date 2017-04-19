@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1810 Ellice Ave, Winnipeg, MB R3H 0B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d17c954bcda40d3910ddd70b00f6cbd|BN20130522|7.7.0.0|",
+				"addressLine": "1810 Ellice Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1810 Ellice Ave, Winnipeg, MB R3H 0B7, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3H 0B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.2116099,
+					49.89417
+				]
+			},
+			"bbox": [
+				-97.2133549,
+				49.8930458,
+				-97.2098649,
+				49.8952942
+			]
+		}
+	]
+}

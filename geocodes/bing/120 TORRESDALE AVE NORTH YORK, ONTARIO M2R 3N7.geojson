@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Torresdale Ave, North York, ON M2R 3N7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4ad8e38b21d340a696dfce744b112c58|BN20131519|7.7.0.0|",
+				"addressLine": "120 Torresdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Torresdale Ave, North York, ON M2R 3N7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Westminster-Branson",
+				"postalCode": "M2R 3N7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45416,
+					43.77776
+				]
+			},
+			"bbox": [
+				-79.4557169,
+				43.7766358,
+				-79.4526031,
+				43.7788842
+			]
+		}
+	]
+}

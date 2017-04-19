@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "849 Watson Ave, Windsor, ON N8S 3S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "12a66c3892b847ba92d26743021985b9|BN20240423|7.7.0.0|",
+				"addressLine": "849 Watson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "849 Watson Ave, Windsor, ON N8S 3S9, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Riverside",
+				"postalCode": "N8S 3S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.93992,
+					42.33234
+				]
+			},
+			"bbox": [
+				-82.9414407,
+				42.3312158,
+				-82.9383993,
+				42.3334642
+			]
+		}
+	]
+}

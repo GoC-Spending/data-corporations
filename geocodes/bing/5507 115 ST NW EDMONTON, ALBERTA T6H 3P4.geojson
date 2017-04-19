@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5507 115 St NW, Edmonton, AB T6H 3P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10e818415c4e42b68eb078d18bb387c0|BN20210145|7.7.0.0|",
+				"addressLine": "5507 115 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5507 115 St NW, Edmonton, AB T6H 3P4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Lendrum Place",
+				"postalCode": "T6H 3P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.52836,
+					53.49198
+				]
+			},
+			"bbox": [
+				-113.5302495,
+				53.4908558,
+				-113.5264705,
+				53.4931042
+			]
+		}
+	]
+}

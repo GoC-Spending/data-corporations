@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "38 Mt Robson Clos SE, Calgary, AB T2Z 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "db9cb81442934887b60539999d7c0699|BN20220145|7.7.0.0|",
+				"addressLine": "38 Mt Robson Clos SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "38 Mt Robson Clos SE, Calgary, AB T2Z 2E2, Canada",
+				"locality": "Calgary",
+				"neighborhood": "McKenzie Lake",
+				"postalCode": "T2Z 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.98712,
+					50.91036
+				]
+			},
+			"bbox": [
+				-113.9889029,
+				50.9092358,
+				-113.9853371,
+				50.9114842
+			]
+		}
+	]
+}

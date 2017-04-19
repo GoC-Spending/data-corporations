@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11915 156 St NW, Edmonton, AB T5V 1E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f87a874bafd4eb8aecb93060359285d|BN20320521|7.7.0.0|",
+				"addressLine": "11915 156 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11915 156 St NW, Edmonton, AB T5V 1E8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Mitchell Industrial",
+				"postalCode": "T5V 1E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.58923,
+					53.57266
+				]
+			},
+			"bbox": [
+				-113.5911231,
+				53.5715358,
+				-113.5873369,
+				53.5737842
+			]
+		}
+	]
+}

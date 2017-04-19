@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Glencoe Dr, Mt Pearl, NL A1N 4S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f36a36663db478596a3262e9d7b9321|BN20130530|7.7.0.0|",
+				"addressLine": "50 Glencoe Dr",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Glencoe Dr, Mt Pearl, NL A1N 4S9, Canada",
+				"locality": "Mt Pearl",
+				"postalCode": "A1N 4S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-52.8425825,
+					47.5236307
+				]
+			},
+			"bbox": [
+				-52.8442472,
+				47.5225066,
+				-52.8409178,
+				47.5247549
+			]
+		}
+	]
+}

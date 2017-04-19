@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "127 Keith Rd, Bracebridge, ON P1L 0A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c221cf818234b59bcd19796d14f896a|BN20250135|7.7.0.0|",
+				"addressLine": "127 Keith Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "127 Keith Rd, Bracebridge, ON P1L 0A1, Canada",
+				"locality": "Bracebridge",
+				"postalCode": "P1L 0A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30923,
+					45.01627
+				]
+			},
+			"bbox": [
+				-79.3108202,
+				45.0151458,
+				-79.3076398,
+				45.0173942
+			]
+		}
+	]
+}

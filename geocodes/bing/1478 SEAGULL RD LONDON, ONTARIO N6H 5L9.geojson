@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1478 Seagull Rd, London, ON N6H 5L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c14ef80ac62d42a18acd11fb6742f409|BN20250135|7.7.0.0|",
+				"addressLine": "1478 Seagull Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1478 Seagull Rd, London, ON N6H 5L9, Canada",
+				"locality": "London",
+				"neighborhood": "Hyde Park",
+				"postalCode": "N6H 5L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.33879,
+					43.00763
+				]
+			},
+			"bbox": [
+				-81.3403273,
+				43.0065058,
+				-81.3372527,
+				43.0087542
+			]
+		}
+	]
+}

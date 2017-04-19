@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "77 Sheffield St, North York, ON M6M 3E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "250dbd811f644c45a18fa798d98da94d|BN20210145|7.7.0.0|",
+				"addressLine": "77 Sheffield St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "77 Sheffield St, North York, ON M6M 3E9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Brookhaven-Amesbury",
+				"postalCode": "M6M 3E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47096,
+					43.70719
+				]
+			},
+			"bbox": [
+				-79.4725151,
+				43.7060658,
+				-79.4694049,
+				43.7083142
+			]
+		}
+	]
+}

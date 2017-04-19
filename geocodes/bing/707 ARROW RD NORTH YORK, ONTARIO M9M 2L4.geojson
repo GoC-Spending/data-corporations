@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "707 Arrow Rd, North York, ON M9M 2L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "96a50a86fe264e59a9797852f9b59947|BN20131519|7.7.0.0|",
+				"addressLine": "707 Arrow Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "707 Arrow Rd, North York, ON M9M 2L4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humbermede",
+				"postalCode": "M9M 2L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53021,
+					43.74805
+				]
+			},
+			"bbox": [
+				-79.5317662,
+				43.7469258,
+				-79.5286538,
+				43.7491742
+			]
+		}
+	]
+}

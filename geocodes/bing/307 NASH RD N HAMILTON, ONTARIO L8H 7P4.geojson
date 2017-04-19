@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "307 Nash Rd N, Hamilton, ON L8H 7P4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f4243436fac442b1b3a6289e761874bd|BN20260223|7.7.0.0|",
+				"addressLine": "307 Nash Rd N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "307 Nash Rd N, Hamilton, ON L8H 7P4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Nashdale",
+				"postalCode": "L8H 7P4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7697503,
+					43.2406691
+				]
+			},
+			"bbox": [
+				-79.7712935,
+				43.2395449,
+				-79.7682072,
+				43.2417932
+			]
+		}
+	]
+}

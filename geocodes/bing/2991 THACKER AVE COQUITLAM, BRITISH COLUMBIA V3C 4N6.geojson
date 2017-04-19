@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2991 Thacker Ave, Coquitlam, BC V3C 4N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65eca35246a94db3987381db0d71d85e|BN20130632|7.7.0.0|",
+				"addressLine": "2991 Thacker Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2991 Thacker Ave, Coquitlam, BC V3C 4N6, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Ranch Park",
+				"postalCode": "V3C 4N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.79531,
+					49.26554
+				]
+			},
+			"bbox": [
+				-122.7970327,
+				49.2644158,
+				-122.7935873,
+				49.2666642
+			]
+		}
+	]
+}

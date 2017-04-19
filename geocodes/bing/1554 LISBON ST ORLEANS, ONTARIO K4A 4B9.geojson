@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1554 Lisbon St, Orleans, ON K4A 4B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b7d12e68d2544eb3b0d6e39b06a952d9|BN20220145|7.7.0.0|",
+				"addressLine": "1554 Lisbon St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1554 Lisbon St, Orleans, ON K4A 4B9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Orleans",
+				"postalCode": "K4A 4B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.46906,
+					45.47626
+				]
+			},
+			"bbox": [
+				-75.4706632,
+				45.4751358,
+				-75.4674568,
+				45.4773842
+			]
+		}
+	]
+}

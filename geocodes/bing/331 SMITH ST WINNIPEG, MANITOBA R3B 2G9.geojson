@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "331 Smith St, Winnipeg, MB R3B 2G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0a82d5195cf47ffb5613bb0c0705844|BN20130442|7.7.0.0|",
+				"addressLine": "331 Smith St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "331 Smith St, Winnipeg, MB R3B 2G9, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Portage-Ellice",
+				"postalCode": "R3B 2G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14239,
+					49.89509
+				]
+			},
+			"bbox": [
+				-97.1441351,
+				49.8939658,
+				-97.1406449,
+				49.8962142
+			]
+		}
+	]
+}

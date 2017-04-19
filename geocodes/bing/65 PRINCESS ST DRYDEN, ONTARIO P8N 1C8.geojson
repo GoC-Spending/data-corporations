@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "65 Princess St, Dryden, ON P8N 1C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "efa0861aac734f20b62b9ce8fecaf7df|BN20130522|7.7.0.0|",
+				"addressLine": "65 Princess St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Kenora",
+				"countryRegion": "Canada",
+				"formattedAddress": "65 Princess St, Dryden, ON P8N 1C8, Canada",
+				"locality": "Dryden",
+				"postalCode": "P8N 1C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-92.83724,
+					49.78351
+				]
+			},
+			"bbox": [
+				-92.838981,
+				49.7823858,
+				-92.835499,
+				49.7846342
+			]
+		}
+	]
+}

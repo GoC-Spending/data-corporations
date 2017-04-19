@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "94 Maple Ln, Ottawa, ON K1M 1H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b892978a5b64d868fa4badc083b4ac2|BN20181720|7.7.0.0|",
+				"addressLine": "94 Maple Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "94 Maple Ln, Ottawa, ON K1M 1H5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Lindenlea-New Edinburgh",
+				"postalCode": "K1M 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67459,
+					45.44649
+				]
+			},
+			"bbox": [
+				-75.6761923,
+				45.4453658,
+				-75.6729877,
+				45.4476142
+			]
+		}
+	]
+}

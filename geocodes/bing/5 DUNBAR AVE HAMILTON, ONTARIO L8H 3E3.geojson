@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Dunbar Ave, Hamilton, ON L8H 3E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b8d7fe85ff6645b4820f9f38d3055e3b|BN20130621|7.7.0.0|",
+				"addressLine": "5 Dunbar Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Dunbar Ave, Hamilton, ON L8H 3E3, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Homeside",
+				"postalCode": "L8H 3E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80441,
+					43.25199
+				]
+			},
+			"bbox": [
+				-79.8059534,
+				43.2508658,
+				-79.8028666,
+				43.2531142
+			]
+		}
+	]
+}

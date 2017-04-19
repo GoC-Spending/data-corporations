@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7904 Gateway Blvd NW, Edmonton, AB T6E 6C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b99cb0f52daa45d9ba49b4cac4327c10|BN20200137|7.7.0.0|",
+				"addressLine": "7904 Gateway Blvd NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "7904 Gateway Blvd NW, Edmonton, AB T6E 6C3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "CPR West",
+				"postalCode": "T6E 6C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4947809,
+					53.5156795
+				]
+			},
+			"bbox": [
+				-113.4966715,
+				53.5145554,
+				-113.4928903,
+				53.5168037
+			]
+		}
+	]
+}

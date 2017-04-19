@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Fisher Branch, R0C 0Z0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91ce0316f6b243b7ac8b3801d3fbfa1d|BN20200239|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Fisher Branch, R0C 0Z0, Canada",
+				"locality": "Fisher Branch",
+				"postalCode": "R0C 0Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.6184463500977,
+					51.0825996398926
+				]
+			},
+			"bbox": [
+				-97.6266441616631,
+				51.0787369223219,
+				-97.6102485385322,
+				51.0864623574633
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Fisher Branch, Fisher, Manitoba, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91ce0316f6b243b7ac8b3801d3fbfa1d|BN20200239|7.7.0.0|",
+				"adminDistrict": "MB",
+				"countryRegion": "Canada",
+				"formattedAddress": "Fisher Branch, Fisher, Manitoba, Canada",
+				"locality": "Fisher",
+				"neighborhood": "Fisher Branch"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.6184463500977,
+					51.0825996398926
+				]
+			},
+			"bbox": [
+				-97.6266441616631,
+				51.0787369223219,
+				-97.6102485385322,
+				51.0864623574633
+			]
+		}
+	]
+}

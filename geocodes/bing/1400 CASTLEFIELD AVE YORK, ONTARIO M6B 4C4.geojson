@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1400 Castlefield Ave, York, ON M6B 4N4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d3fffa74bc54644ad29b3b2a55a68d5|BN20130533|7.7.0.0|",
+				"addressLine": "1400 Castlefield Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1400 Castlefield Ave, York, ON M6B 4N4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Briar Hill-Belgravia",
+				"postalCode": "M6B 4N4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.46515,
+					43.69892
+				]
+			},
+			"bbox": [
+				-79.4667049,
+				43.6977958,
+				-79.4635951,
+				43.7000442
+			]
+		}
+	]
+}

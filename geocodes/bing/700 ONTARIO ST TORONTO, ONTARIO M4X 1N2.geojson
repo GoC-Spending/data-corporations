@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "700 Ontario St, Toronto, ON M4X 1N2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e05cfffb029147e8aec44eb3ba78c47b|BN20290118|7.7.0.0|",
+				"addressLine": "700 Ontario St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "700 Ontario St, Toronto, ON M4X 1N2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "North St James Town",
+				"postalCode": "M4X 1N2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37354,
+					43.67014
+				]
+			},
+			"bbox": [
+				-79.3750941,
+				43.6690158,
+				-79.3719859,
+				43.6712642
+			]
+		}
+	]
+}

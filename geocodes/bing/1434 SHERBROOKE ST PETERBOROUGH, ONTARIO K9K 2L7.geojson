@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1434 Sherbrooke St, Peterborough, ON K9K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d6fd4638a88340fd8c2a3e631de36233|BN20320521|7.7.0.0|",
+				"addressLine": "1434 Sherbrooke St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peterborough",
+				"countryRegion": "Canada",
+				"formattedAddress": "1434 Sherbrooke St, Peterborough, ON K9K, Canada",
+				"locality": "Peterborough",
+				"postalCode": "K9K 2L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.3625138,
+					44.2917609
+				]
+			},
+			"bbox": [
+				-78.3640843,
+				44.2906368,
+				-78.3609433,
+				44.2928851
+			]
+		}
+	]
+}

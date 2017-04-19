@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "400 Victoria Ave E, Thunder Bay, ON P7C 1A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e20f8ee28e949ba953cc196b8614ec4|BN20130634|7.7.0.0|",
+				"addressLine": "400 Victoria Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "400 Victoria Ave E, Thunder Bay, ON P7C 1A5, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7C 1A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.24391,
+					48.38395
+				]
+			},
+			"bbox": [
+				-89.2456027,
+				48.3828258,
+				-89.2422173,
+				48.3850742
+			]
+		}
+	]
+}

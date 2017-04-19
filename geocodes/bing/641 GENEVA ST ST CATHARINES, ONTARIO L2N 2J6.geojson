@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "641 Geneva St, St Catharines, ON L2N 2J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "947b19c6135d4ac5bc5f1484301f514b|BN20260223|7.7.0.0|",
+				"addressLine": "641 Geneva St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "641 Geneva St, St Catharines, ON L2N 2J6, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Lakeshore",
+				"postalCode": "L2N 2J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2427,
+					43.20718
+				]
+			},
+			"bbox": [
+				-79.2442423,
+				43.2060558,
+				-79.2411577,
+				43.2083042
+			]
+		}
+	]
+}

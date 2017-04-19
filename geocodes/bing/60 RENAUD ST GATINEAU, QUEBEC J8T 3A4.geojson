@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Rue Renaud, Gatineau, QC J8T 3A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bcd811ebcd50443f93eb54e51d6dad6e|BN20121763|7.7.0.0|",
+				"addressLine": "60 Rue Renaud",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Rue Renaud, Gatineau, QC J8T 3A4, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier des Riverains",
+				"postalCode": "J8T 3A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.68796,
+					45.47406
+				]
+			},
+			"bbox": [
+				-75.6895631,
+				45.4729358,
+				-75.6863569,
+				45.4751842
+			]
+		}
+	]
+}

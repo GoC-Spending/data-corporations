@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "109 Paramount Rd, Winnipeg, MB R2X 2W6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "709d4a0e29474780a717f035a4094977|BN20130521|7.7.0.0|",
+				"addressLine": "109 Paramount Rd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "109 Paramount Rd, Winnipeg, MB R2X 2W6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Inkster Industrial Park",
+				"postalCode": "R2X 2W6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.1923735,
+					49.9500481
+				]
+			},
+			"bbox": [
+				-97.1941205,
+				49.9489239,
+				-97.1906264,
+				49.9511722
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "460 Higgins Ave, Winnipeg, MB R3A 1S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ca676c35726b4daca7bd63c0dd2ae434|BN20200137|7.7.0.0|",
+				"addressLine": "460 Higgins Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "460 Higgins Ave, Winnipeg, MB R3A 1S5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Logan-CPR",
+				"postalCode": "R3A 1S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14507,
+					49.90715
+				]
+			},
+			"bbox": [
+				-97.1468155,
+				49.9060258,
+				-97.1433245,
+				49.9082742
+			]
+		}
+	]
+}

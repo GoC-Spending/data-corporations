@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "25 Invicta Ct, London, ON N6E 2T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d0cb24f1d4043dbb4c51527c989a082|BN20130522|7.7.0.0|",
+				"addressLine": "25 Invicta Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "25 Invicta Ct, London, ON N6E 2T4, Canada",
+				"locality": "London",
+				"neighborhood": "Westminster",
+				"postalCode": "N6E 2T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2026,
+					42.9334
+				]
+			},
+			"bbox": [
+				-81.2041354,
+				42.9322758,
+				-81.2010646,
+				42.9345242
+			]
+		}
+	]
+}

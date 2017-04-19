@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 Iber Rd, Stittsville, ON K2S 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "be36980d60b042209e43cf569c2ab886|BN20250135|7.7.0.0|",
+				"addressLine": "27 Iber Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 Iber Rd, Stittsville, ON K2S 1E6, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.90851,
+					45.28138
+				]
+			},
+			"bbox": [
+				-75.9101077,
+				45.2802558,
+				-75.9069123,
+				45.2825042
+			]
+		}
+	]
+}

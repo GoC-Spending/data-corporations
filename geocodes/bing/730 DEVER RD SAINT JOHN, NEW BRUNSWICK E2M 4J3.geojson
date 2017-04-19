@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "730 Dever Rd, Saint John, NB E2M 4J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd6abf4b81804502b2f6d74d37e0bb36|BN20130423|7.7.0.0|",
+				"addressLine": "730 Dever Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Saint John",
+				"countryRegion": "Canada",
+				"formattedAddress": "730 Dever Rd, Saint John, NB E2M 4J3, Canada",
+				"locality": "Saint John",
+				"postalCode": "E2M 4J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.10954,
+					45.2572
+				]
+			},
+			"bbox": [
+				-66.111137,
+				45.2560758,
+				-66.107943,
+				45.2583242
+			]
+		}
+	]
+}

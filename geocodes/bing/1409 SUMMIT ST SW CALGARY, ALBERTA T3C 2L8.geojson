@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1409 Summit St SW, Calgary, AB T3C 2L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "92f19ae7f7d74bdaaae9549b3efbfcc1|BN20130530|7.7.0.0|",
+				"addressLine": "1409 Summit St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1409 Summit St SW, Calgary, AB T3C 2L8, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Scarboro",
+				"postalCode": "T3C 2L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.11123,
+					51.04042
+				]
+			},
+			"bbox": [
+				-114.1130179,
+				51.0392958,
+				-114.1094421,
+				51.0415442
+			]
+		}
+	]
+}

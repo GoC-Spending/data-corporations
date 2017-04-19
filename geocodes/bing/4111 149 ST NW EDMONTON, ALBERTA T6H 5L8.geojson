@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4111 149 St NW, Edmonton, AB T6H 5L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c37d6c89e3d040bf9d7d3042c2660e7d|BN20130521|7.7.0.0|",
+				"addressLine": "4111 149 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "4111 149 St NW, Edmonton, AB T6H 5L8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ramsay Heights",
+				"postalCode": "T6H 5L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57975,
+					53.4788799
+				]
+			},
+			"bbox": [
+				-113.581639,
+				53.4777557,
+				-113.577861,
+				53.4800041
+			]
+		}
+	]
+}

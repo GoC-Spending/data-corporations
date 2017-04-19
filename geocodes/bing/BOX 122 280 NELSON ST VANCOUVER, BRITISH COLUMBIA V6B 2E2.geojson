@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "122 Nelson St, Vancouver, BC V6B 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "adc46757802f4369bf5e7d0a8ac55c91|BN20130522|7.7.0.0|",
+				"addressLine": "122 Nelson St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "122 Nelson St, Vancouver, BC V6B 2E2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Yaletown",
+				"postalCode": "V6B 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1175447,
+					49.2755682
+				]
+			},
+			"bbox": [
+				-123.1192677,
+				49.274444,
+				-123.1158217,
+				49.2766923
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "655 Cedarille Way SW, Calgary, AB T2W 2G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a606b2b6236742dea8fc59e366c1e045|BN20130530|7.7.0.0|",
+				"addressLine": "655 Cedarille Way SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "655 Cedarille Way SW, Calgary, AB T2W 2G9, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Cedarbrae",
+				"postalCode": "T2W 2G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.13558,
+					50.96107
+				]
+			},
+			"bbox": [
+				-114.1373648,
+				50.9599458,
+				-114.1337952,
+				50.9621942
+			]
+		}
+	]
+}

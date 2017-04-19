@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "621 Jig St, North Grenville, ON K0G 1S0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bd3f9d2e55624ec9a68eb90e5066b5b1|BN20131519|7.7.0.0|",
+				"addressLine": "621 Jig St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "621 Jig St, North Grenville, ON K0G 1S0, Canada",
+				"locality": "North Grenville",
+				"postalCode": "K0G 1S0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7077951,
+					44.8997629
+				]
+			},
+			"bbox": [
+				-75.7093821,
+				44.8986387,
+				-75.7062081,
+				44.900887
+			]
+		}
+	]
+}

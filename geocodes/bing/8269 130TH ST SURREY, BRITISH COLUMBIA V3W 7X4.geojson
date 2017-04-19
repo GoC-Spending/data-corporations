@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8269 130 St, Surrey, BC V3W 7X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6faa50e692074b74ad93e8b4d8944d2d|BN20171457|7.7.0.0|",
+				"addressLine": "8269 130 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8269 130 St, Surrey, BC V3W 7X4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 7X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8625,
+					49.15283
+				]
+			},
+			"bbox": [
+				-122.8642188,
+				49.1517058,
+				-122.8607812,
+				49.1539542
+			]
+		}
+	]
+}

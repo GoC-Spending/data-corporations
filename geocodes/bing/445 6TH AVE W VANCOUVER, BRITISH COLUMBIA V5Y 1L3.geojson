@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "445 W 6th Ave, Vancouver, BC V5Y 1L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7e366b3ae5d541ceae7308ec0fea3843|BN20130632|7.7.0.0|",
+				"addressLine": "445 W 6th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "445 W 6th Ave, Vancouver, BC V5Y 1L3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5Y 1L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.11387,
+					49.26599
+				]
+			},
+			"bbox": [
+				-123.1155927,
+				49.2648658,
+				-123.1121473,
+				49.2671142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Evergreen Ct, Strathroy, ON N7G 4C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b1d6caefdb514d94a01f9e5d6663f48d|BN20130447|7.7.0.0|",
+				"addressLine": "10 Evergreen Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Evergreen Ct, Strathroy, ON N7G 4C7, Canada",
+				"locality": "Adelaide Metcalfe",
+				"neighborhood": "Strathroy",
+				"postalCode": "N7G 4C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.6341878,
+					42.9689933
+				]
+			},
+			"bbox": [
+				-81.6357241,
+				42.9678692,
+				-81.6326515,
+				42.9701175
+			]
+		}
+	]
+}

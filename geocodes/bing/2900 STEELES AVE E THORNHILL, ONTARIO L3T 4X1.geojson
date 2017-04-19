@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2900 Steeles Ave E, Thornhill, ON L3T 4X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "da7772c3ab5e4ac8a7bdba1897b5baa4|BN20130530|7.7.0.0|",
+				"addressLine": "2900 Steeles Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "2900 Steeles Ave E, Thornhill, ON L3T 4X1, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 4X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3586905,
+					43.8118604
+				]
+			},
+			"bbox": [
+				-79.3602483,
+				43.8107362,
+				-79.3571327,
+				43.8129845
+			]
+		}
+	]
+}

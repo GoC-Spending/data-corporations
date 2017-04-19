@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7570 Conrad St, Burnaby, BC V5A 2H7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "08ee9663c1694df2bb8e88d0f29541af|BN20130721|7.7.0.0|",
+				"addressLine": "7570 Conrad St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "7570 Conrad St, Burnaby, BC V5A 2H7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Government Road",
+				"postalCode": "V5A 2H7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9427,
+					49.24566
+				]
+			},
+			"bbox": [
+				-122.944422,
+				49.2445358,
+				-122.940978,
+				49.2467842
+			]
+		}
+	]
+}

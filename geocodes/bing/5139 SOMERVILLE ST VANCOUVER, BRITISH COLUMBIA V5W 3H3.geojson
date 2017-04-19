@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5139 Somerville St, Vancouver, BC V5W 3H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b3aa59305ad64715ac9452707e44ed6d|BN20181720|7.7.0.0|",
+				"addressLine": "5139 Somerville St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5139 Somerville St, Vancouver, BC V5W 3H3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Kensington-Cedar Cottage",
+				"postalCode": "V5W 3H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.08611,
+					49.23802
+				]
+			},
+			"bbox": [
+				-123.0878317,
+				49.2368958,
+				-123.0843883,
+				49.2391442
+			]
+		}
+	]
+}

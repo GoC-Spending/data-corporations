@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3334 Wonderland Rd S, London, ON N6L 1A6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c74cfc31ae25491c82ed9903a7c728d6|CO30275838|7.7.0.0|",
+				"addressLine": "3334 Wonderland Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3334 Wonderland Rd S, London, ON N6L 1A6, Canada",
+				"locality": "London",
+				"neighborhood": "Bostwick",
+				"postalCode": "N6L 1A6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2788,
+					42.9303
+				]
+			},
+			"bbox": [
+				-81.2803353,
+				42.9291758,
+				-81.2772647,
+				42.9314242
+			]
+		}
+	]
+}

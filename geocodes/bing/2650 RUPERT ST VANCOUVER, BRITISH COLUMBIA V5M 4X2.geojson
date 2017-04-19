@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2650 Rupert St, Vancouver, BC V5M 4X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "067a9b2292cb476c8651bb811c34dc5e|BN20130532|7.7.0.0|",
+				"addressLine": "2650 Rupert St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2650 Rupert St, Vancouver, BC V5M 4X2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5M 4X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.03256,
+					49.26136
+				]
+			},
+			"bbox": [
+				-123.0342825,
+				49.2602358,
+				-123.0308375,
+				49.2624842
+			]
+		}
+	]
+}

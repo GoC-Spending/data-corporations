@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4560 Valley Cres, Prince George, BC V2M 5L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d8a42202d0a4c9490ad1f871146ccf4|BN20300154|7.7.0.0|",
+				"addressLine": "4560 Valley Cres",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "4560 Valley Cres, Prince George, BC V2M 5L7, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2M 5L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.81445,
+					53.91901
+				]
+			},
+			"bbox": [
+				-122.8163588,
+				53.9178858,
+				-122.8125412,
+				53.9201342
+			]
+		}
+	]
+}

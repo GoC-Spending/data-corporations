@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "760 Darroch Way, Fergus, ON N1M 3R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dd99b79bcb9d4f04b9ac00e27d08cb98|BN20171457|7.7.0.0|",
+				"addressLine": "760 Darroch Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "760 Darroch Way, Fergus, ON N1M 3R9, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 3R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.35901,
+					43.70482
+				]
+			},
+			"bbox": [
+				-80.360565,
+				43.7036958,
+				-80.357455,
+				43.7059442
+			]
+		}
+	]
+}

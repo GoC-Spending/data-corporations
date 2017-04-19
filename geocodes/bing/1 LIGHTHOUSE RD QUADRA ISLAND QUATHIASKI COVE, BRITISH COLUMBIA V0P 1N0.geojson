@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Quathiaski Cove, V0P 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c771637e354045b49af9677fd2e2adb8|BN20130631|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Strathcona",
+				"countryRegion": "Canada",
+				"formattedAddress": "Quathiaski Cove, V0P 1N0, Canada",
+				"locality": "Quathiaski Cove",
+				"postalCode": "V0P 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.209190368652,
+					50.0420074462891
+				]
+			},
+			"bbox": [
+				-125.217209161665,
+				50.0381447287184,
+				-125.20117157564,
+				50.0458701638597
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 1,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Island",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Quadra Island, British Columbia, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c771637e354045b49af9677fd2e2adb8|BN20130631|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Strathcona",
+				"countryRegion": "Canada",
+				"formattedAddress": "Quadra Island, British Columbia, Canada",
+				"locality": "Strathcona"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-125.252952575684,
+					50.1810264587402
+				]
+			},
+			"bbox": [
+				-125.383583068848,
+				49.9948806762695,
+				-125.138381958008,
+				50.3087005615234
+			]
+		}
+	]
+}

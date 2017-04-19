@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 Tomlin Cres, Richmond Hill, ON L4C 7T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8c218f633404c33a916d13628e1d97b|BN20190642|7.7.0.0|",
+				"addressLine": "49 Tomlin Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 Tomlin Cres, Richmond Hill, ON L4C 7T1, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Richvale",
+				"postalCode": "L4C 7T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45818,
+					43.8626
+				]
+			},
+			"bbox": [
+				-79.4597391,
+				43.8614758,
+				-79.4566209,
+				43.8637242
+			]
+		}
+	]
+}

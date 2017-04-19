@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "201 Pine St, Nanaimo, BC V9R 2B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d357639088a8462fbe4105e012ce49a4|BN20280152|7.7.0.0|",
+				"addressLine": "201 Pine St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "201 Pine St, Nanaimo, BC V9R 2B5, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 2B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.95152,
+					49.1663
+				]
+			},
+			"bbox": [
+				-123.9532392,
+				49.1651758,
+				-123.9498008,
+				49.1674242
+			]
+		}
+	]
+}

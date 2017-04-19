@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "976 Price Rd, Parksville, BC V9P 2C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6327e8238a134d6da53e95b19cd159d7|BN20260231|7.7.0.0|",
+				"addressLine": "976 Price Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "976 Price Rd, Parksville, BC V9P 2C9, Canada",
+				"locality": "Nanaimo District",
+				"neighborhood": "Parksville",
+				"postalCode": "V9P 2C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.3567473,
+					49.3031474
+				]
+			},
+			"bbox": [
+				-124.3584713,
+				49.3020233,
+				-124.3550233,
+				49.3042716
+			]
+		}
+	]
+}

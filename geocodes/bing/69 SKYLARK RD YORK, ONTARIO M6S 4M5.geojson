@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "69 Skylark Rd, York, ON M6S 4M5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba1520eea058413ba1838c9810c9fc53|BN20130621|7.7.0.0|",
+				"addressLine": "69 Skylark Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "69 Skylark Rd, York, ON M6S 4M5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lambton Baby Point",
+				"postalCode": "M6S 4M5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49702,
+					43.66445
+				]
+			},
+			"bbox": [
+				-79.498574,
+				43.6633258,
+				-79.495466,
+				43.6655742
+			]
+		}
+	]
+}

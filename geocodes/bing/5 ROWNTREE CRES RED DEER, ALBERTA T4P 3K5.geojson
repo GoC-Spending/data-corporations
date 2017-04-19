@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Rowntree Cres, Red Deer, AB T4P 3K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "69581f8146974366860a80ff1724c8bf|BN20130532|7.7.0.0|",
+				"addressLine": "5 Rowntree Cres",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Rowntree Cres, Red Deer, AB T4P 3K5, Canada",
+				"locality": "Red Deer",
+				"postalCode": "T4P 3K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.75875,
+					52.27025
+				]
+			},
+			"bbox": [
+				-113.760587,
+				52.2691258,
+				-113.756913,
+				52.2713742
+			]
+		}
+	]
+}

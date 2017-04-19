@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2223 Bowman Rd, Ottawa, ON K1H 6V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05fa4daf2ae54931a1d1ce1d6290742d|BN20200239|7.7.0.0|",
+				"addressLine": "2223 Bowman Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "2223 Bowman Rd, Ottawa, ON K1H 6V4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Playfair Park-Lynda Park-Guildwood",
+				"postalCode": "K1H 6V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6414099,
+					45.3867
+				]
+			},
+			"bbox": [
+				-75.6430105,
+				45.3855758,
+				-75.6398093,
+				45.3878242
+			]
+		}
+	]
+}

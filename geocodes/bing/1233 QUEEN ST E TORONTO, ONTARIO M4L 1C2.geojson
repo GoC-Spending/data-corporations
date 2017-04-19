@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1233 Queen St E, Toronto, ON M4L 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abab4d81a6dc4194a54498dc5692b602|BN20250135|7.7.0.0|",
+				"addressLine": "1233 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1233 Queen St E, Toronto, ON M4L 1C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Greenwood-Coxwell",
+				"postalCode": "M4L 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.32989,
+					43.66308
+				]
+			},
+			"bbox": [
+				-79.331444,
+				43.6619558,
+				-79.328336,
+				43.6642042
+			]
+		}
+	]
+}

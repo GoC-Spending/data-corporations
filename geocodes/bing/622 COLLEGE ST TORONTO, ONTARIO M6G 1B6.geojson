@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "622 College St, Toronto, ON M6G 1B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3ab7efc6a76d40e592a0f3a5d99676b2|BN20130621|7.7.0.0|",
+				"addressLine": "622 College St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "622 College St, Toronto, ON M6G 1B6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6G 1B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41493,
+					43.65532
+				]
+			},
+			"bbox": [
+				-79.4164838,
+				43.6541958,
+				-79.4133762,
+				43.6564442
+			]
+		}
+	]
+}

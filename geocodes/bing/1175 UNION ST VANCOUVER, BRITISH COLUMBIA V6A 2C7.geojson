@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1175 Union St, Vancouver, BC V6A 2C7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d73feaa8f5f04eaf8171695caf4fdc41|BN20171457|7.7.0.0|",
+				"addressLine": "1175 Union St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1175 Union St, Vancouver, BC V6A 2C7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A 2C7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07973,
+					49.27757
+				]
+			},
+			"bbox": [
+				-123.0814531,
+				49.2764458,
+				-123.0780069,
+				49.2786942
+			]
+		}
+	]
+}

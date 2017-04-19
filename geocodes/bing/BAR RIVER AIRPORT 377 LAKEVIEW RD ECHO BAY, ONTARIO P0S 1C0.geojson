@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "377 Lakeview Rd, Echo Bay, ON P0S 1C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3b0c06ed3af549119d14b217f7f37b3e|BN20121762|7.7.0.0|",
+				"addressLine": "377 Lakeview Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Algoma",
+				"countryRegion": "Canada",
+				"formattedAddress": "377 Lakeview Rd, Echo Bay, ON P0S 1C0, Canada",
+				"locality": "MacDonald",
+				"neighborhood": "Echo Bay",
+				"postalCode": "P0S 1C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.0369351,
+					46.4899968
+				]
+			},
+			"bbox": [
+				-84.0385679,
+				46.4888726,
+				-84.0353023,
+				46.4911209
+			]
+		}
+	]
+}

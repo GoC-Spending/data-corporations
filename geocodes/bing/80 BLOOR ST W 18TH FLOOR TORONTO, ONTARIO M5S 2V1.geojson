@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Bloor St W, Toronto, ON M5S 2V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b0a842b9d6d5413b9d18c40b5ba94a50|BN20130447|7.7.0.0|",
+				"addressLine": "80 Bloor St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Bloor St W, Toronto, ON M5S 2V1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5S 2V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39016,
+					43.66988
+				]
+			},
+			"bbox": [
+				-79.3917141,
+				43.6687558,
+				-79.3886059,
+				43.6710042
+			]
+		}
+	]
+}

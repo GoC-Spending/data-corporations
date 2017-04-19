@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "102 Ellington St, Winnipeg, MB R2R 0V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7654ebc0d3cf49269dcd8217bd46a1ad|BN20320521|7.7.0.0|",
+				"addressLine": "102 Ellington St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "102 Ellington St, Winnipeg, MB R2R 0V1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Tyndall Park",
+				"postalCode": "R2R 0V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20125,
+					49.93426
+				]
+			},
+			"bbox": [
+				-97.2029965,
+				49.9331358,
+				-97.1995035,
+				49.9353842
+			]
+		}
+	]
+}

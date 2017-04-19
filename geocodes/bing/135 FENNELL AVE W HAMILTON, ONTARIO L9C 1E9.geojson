@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "135 Fennell Ave W, Hamilton, ON L9C 0E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b21bc553e8c247e3bd3c1064466c7fbd|BN20130721|7.7.0.0|",
+				"addressLine": "135 Fennell Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "135 Fennell Ave W, Hamilton, ON L9C 0E5, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Mohawk",
+				"postalCode": "L9C 0E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.88522,
+					43.23913
+				]
+			},
+			"bbox": [
+				-79.8867631,
+				43.2380058,
+				-79.8836769,
+				43.2402542
+			]
+		}
+	]
+}

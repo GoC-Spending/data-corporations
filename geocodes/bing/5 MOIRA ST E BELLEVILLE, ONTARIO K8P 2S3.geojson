@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5 Moira St E, Belleville, ON K8P 2S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "716fedb963d24cbc8da427453f5f15b9|BN20130632|7.7.0.0|",
+				"addressLine": "5 Moira St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hastings",
+				"countryRegion": "Canada",
+				"formattedAddress": "5 Moira St E, Belleville, ON K8P 2S3, Canada",
+				"locality": "Belleville",
+				"postalCode": "K8P 2S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.38632,
+					44.17019
+				]
+			},
+			"bbox": [
+				-77.3878873,
+				44.1690658,
+				-77.3847527,
+				44.1713142
+			]
+		}
+	]
+}

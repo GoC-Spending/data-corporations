@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "99 Augustus St, St Andrews, NB E5B 2E9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d3dcdb509c204bddb5a5eff1574ec360|BN20210145|7.7.0.0|",
+				"addressLine": "99 Augustus St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Charlotte",
+				"countryRegion": "Canada",
+				"formattedAddress": "99 Augustus St, St Andrews, NB E5B 2E9, Canada",
+				"locality": "St Andrews",
+				"postalCode": "E5B 2E9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-67.0451027,
+					45.0723793
+				]
+			},
+			"bbox": [
+				-67.0466945,
+				45.0712551,
+				-67.0435109,
+				45.0735034
+			]
+		}
+	]
+}

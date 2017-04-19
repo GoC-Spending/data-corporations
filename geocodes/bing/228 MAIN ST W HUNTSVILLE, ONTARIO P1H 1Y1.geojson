@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "228 Main St W, Huntsville, ON P1H 1Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05dbc6c2312f4032826c7a2b819e4ab0|BN20130530|7.7.0.0|",
+				"addressLine": "228 Main St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "228 Main St W, Huntsville, ON P1H 1Y1, Canada",
+				"locality": "Huntsville",
+				"postalCode": "P1H 1Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24181,
+					45.3147499
+				]
+			},
+			"bbox": [
+				-79.2434086,
+				45.3136257,
+				-79.2402114,
+				45.3158741
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3535 Crowley Dr, Vancouver, BC V5R 6G5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "aedcbb08bbcc48608246c4af9d0f9dd6|BN20181720|7.7.0.0|",
+				"addressLine": "3535 Crowley Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3535 Crowley Dr, Vancouver, BC V5R 6G5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Renfrew-Collingwood",
+				"postalCode": "V5R 6G5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02984,
+					49.23659
+				]
+			},
+			"bbox": [
+				-123.0315617,
+				49.2354658,
+				-123.0281183,
+				49.2377142
+			]
+		}
+	]
+}

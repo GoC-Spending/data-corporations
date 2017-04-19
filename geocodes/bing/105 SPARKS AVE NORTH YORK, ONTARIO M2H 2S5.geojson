@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "105 Sparks Ave, North York, ON M2H 2S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d32994b66b4745e99998274dc3cb3b57|BN20220145|7.7.0.0|",
+				"addressLine": "105 Sparks Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "105 Sparks Ave, North York, ON M2H 2S5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Hillcrest Village",
+				"postalCode": "M2H 2S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34349,
+					43.80686
+				]
+			},
+			"bbox": [
+				-79.3450477,
+				43.8057358,
+				-79.3419323,
+				43.8079842
+			]
+		}
+	]
+}

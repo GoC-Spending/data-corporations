@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1673 Richmond St, London, ON N6G 2N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0937ac9c5ef44709b1b8e4f44ba5e013|BN20320521|7.7.0.0|",
+				"addressLine": "1673 Richmond St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1673 Richmond St, London, ON N6G 2N3, Canada",
+				"locality": "London",
+				"neighborhood": "Masonville",
+				"postalCode": "N6G 2N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2831999,
+					43.0256
+				]
+			},
+			"bbox": [
+				-81.2847376,
+				43.0244758,
+				-81.2816622,
+				43.0267242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "630 5th St, Nanaimo, BC V9R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "803b04f4ff42415992596c49e2cee325|BN20130520|7.7.0.0|",
+				"addressLine": "630 5th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "630 5th St, Nanaimo, BC V9R, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 1P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.95866,
+					49.15526
+				]
+			},
+			"bbox": [
+				-123.9603789,
+				49.1541358,
+				-123.9569411,
+				49.1563842
+			]
+		}
+	]
+}

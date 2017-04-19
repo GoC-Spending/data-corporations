@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "18427 78 Ave NW, Edmonton, AB T5T 5X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f5b1d3da60f043d19643ed0f86df8ac4|BN20200239|7.7.0.0|",
+				"addressLine": "18427 78 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "18427 78 Ave NW, Edmonton, AB T5T 5X3, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Lymburn",
+				"postalCode": "T5T 5X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.6426,
+					53.5111599
+				]
+			},
+			"bbox": [
+				-113.6444904,
+				53.5100357,
+				-113.6407096,
+				53.5122841
+			]
+		}
+	]
+}

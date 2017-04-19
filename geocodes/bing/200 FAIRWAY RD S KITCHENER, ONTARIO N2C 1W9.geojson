@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Fairway Rd S, Kitchener, ON N2C 1W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85c93bf9b0bc40e9b6b730e975886ee6|BN20130621|7.7.0.0|",
+				"addressLine": "200 Fairway Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Fairway Rd S, Kitchener, ON N2C 1W9, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Vanier",
+				"postalCode": "N2C 1W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4362655,
+					43.4232856
+				]
+			},
+			"bbox": [
+				-80.4378132,
+				43.4221615,
+				-80.4347177,
+				43.4244098
+			]
+		}
+	]
+}

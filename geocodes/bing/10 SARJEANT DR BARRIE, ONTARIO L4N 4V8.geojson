@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Sarjeant Dr, Barrie, ON L4N 4V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2fa7267574bf47e6b5b046e56faec588|BN20130721|7.7.0.0|",
+				"addressLine": "10 Sarjeant Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Sarjeant Dr, Barrie, ON L4N 4V8, Canada",
+				"locality": "Barrie",
+				"neighborhood": "400 North",
+				"postalCode": "L4N 4V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71584,
+					44.37618
+				]
+			},
+			"bbox": [
+				-79.7174128,
+				44.3750558,
+				-79.7142672,
+				44.3773042
+			]
+		}
+	]
+}

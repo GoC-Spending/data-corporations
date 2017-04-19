@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33055 6th Ave, Mission, BC V2V 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1fd1c978adaa4a14ba86dd8ede242a2d|BN20121762|7.7.0.0|",
+				"addressLine": "33055 6th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "33055 6th Ave, Mission, BC V2V 1Z8, Canada",
+				"locality": "Mission",
+				"postalCode": "V2V 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3081746,
+					49.1390637
+				]
+			},
+			"bbox": [
+				-122.3098929,
+				49.1379395,
+				-122.3064563,
+				49.1401879
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "370 Main St, Hampton, NB E5N 6C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "19ecbb0a019846359bf6fb7750979cde|BN20250135|7.7.0.0|",
+				"addressLine": "370 Main St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "370 Main St, Hampton, NB E5N 6C1, Canada",
+				"locality": "Hampton",
+				"postalCode": "E5N 6C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.8363,
+					45.51542
+				]
+			},
+			"bbox": [
+				-65.8379043,
+				45.5142958,
+				-65.8346957,
+				45.5165442
+			]
+		}
+	]
+}

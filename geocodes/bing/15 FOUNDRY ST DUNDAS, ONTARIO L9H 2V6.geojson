@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Foundry St, Dundas, ON L9H 2V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa9282a5230548759142c82c2c4db1d1|BN20160335|7.7.0.0|",
+				"addressLine": "15 Foundry St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Foundry St, Dundas, ON L9H 2V6, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Dundas",
+				"postalCode": "L9H 2V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.95793,
+					43.26596
+				]
+			},
+			"bbox": [
+				-79.9594738,
+				43.2648358,
+				-79.9563862,
+				43.2670842
+			]
+		}
+	]
+}

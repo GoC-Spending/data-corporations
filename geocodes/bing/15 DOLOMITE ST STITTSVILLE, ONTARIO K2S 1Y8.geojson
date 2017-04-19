@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Dolomite St, Stittsville, ON K2S 1Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a915cd0a040c4008ad9dcd3de830cf06|BN20130621|7.7.0.0|",
+				"addressLine": "15 Dolomite St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Dolomite St, Stittsville, ON K2S 1Y8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Stittsville",
+				"postalCode": "K2S 1Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.90624,
+					45.273
+				]
+			},
+			"bbox": [
+				-75.9078374,
+				45.2718758,
+				-75.9046426,
+				45.2741242
+			]
+		}
+	]
+}

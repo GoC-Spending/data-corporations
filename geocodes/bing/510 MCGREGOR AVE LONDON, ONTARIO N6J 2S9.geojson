@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "510 McGregor Ave, London, ON N6J 2S9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd3929d45ce54bc981d444db789ed7ad|BN20220145|7.7.0.0|",
+				"addressLine": "510 McGregor Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "510 McGregor Ave, London, ON N6J 2S9, Canada",
+				"locality": "London",
+				"neighborhood": "Southcrest",
+				"postalCode": "N6J 2S9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2617,
+					42.9574
+				]
+			},
+			"bbox": [
+				-81.263236,
+				42.9562758,
+				-81.260164,
+				42.9585242
+			]
+		}
+	]
+}

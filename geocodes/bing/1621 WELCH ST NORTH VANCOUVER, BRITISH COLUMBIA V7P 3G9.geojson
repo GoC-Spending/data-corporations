@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1621 Welch St, North Vancouver, BC V7P 3G9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3829078f1b3341d89fa56f3543ae5ca9|BN20130532|7.7.0.0|",
+				"addressLine": "1621 Welch St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1621 Welch St, North Vancouver, BC V7P 3G9, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Norgate",
+				"postalCode": "V7P 3G9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1163659,
+					49.317514
+				]
+			},
+			"bbox": [
+				-123.1180904,
+				49.3163899,
+				-123.1146414,
+				49.3186382
+			]
+		}
+	]
+}

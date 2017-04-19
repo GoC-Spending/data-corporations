@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8155 Dallas Dr, Kamloops, BC V2C 6X2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe94ca33211a4b36abe69831bd8a095c|BN20121762|7.7.0.0|",
+				"addressLine": "8155 Dallas Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Thompson-Nicola",
+				"countryRegion": "Canada",
+				"formattedAddress": "8155 Dallas Dr, Kamloops, BC V2C 6X2, Canada",
+				"locality": "Kamloops",
+				"neighborhood": "Campbell Creek",
+				"postalCode": "V2C 6X2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.1068791,
+					50.6566425
+				]
+			},
+			"bbox": [
+				-120.1086523,
+				50.6555184,
+				-120.1051059,
+				50.6577667
+			]
+		}
+	]
+}

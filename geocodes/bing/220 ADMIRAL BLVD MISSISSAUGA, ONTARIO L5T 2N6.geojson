@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "220 Admiral Blvd, Mississauga, ON L5T 2N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ecf13e4b52234affa0b07eefd56e06aa|BN20130533|7.7.0.0|",
+				"addressLine": "220 Admiral Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "220 Admiral Blvd, Mississauga, ON L5T 2N6, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L5T 2N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69618,
+					43.64685
+				]
+			},
+			"bbox": [
+				-79.6977335,
+				43.6457258,
+				-79.6946265,
+				43.6479742
+			]
+		}
+	]
+}

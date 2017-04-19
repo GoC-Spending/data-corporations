@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "523 South St, London, ON N6B 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c7208a77201440db6cb8adea6f128e0|CO30276243|7.7.0.0|",
+				"addressLine": "523 South St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "523 South St, London, ON N6B 1C4, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.23,
+					42.978
+				]
+			},
+			"bbox": [
+				-81.2315365,
+				42.9768758,
+				-81.2284635,
+				42.9791242
+			]
+		}
+	]
+}

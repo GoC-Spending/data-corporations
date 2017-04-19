@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2880 Trimble St, Vancouver, BC V6R 4L4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a155bdf2ec1049af8b121d9195a6e58a|BN20130625|7.7.0.0|",
+				"addressLine": "2880 Trimble St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2880 Trimble St, Vancouver, BC V6R 4L4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "West Point Grey",
+				"postalCode": "V6R 4L4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.20597,
+					49.26129
+				]
+			},
+			"bbox": [
+				-123.2076925,
+				49.2601658,
+				-123.2042475,
+				49.2624142
+			]
+		}
+	]
+}

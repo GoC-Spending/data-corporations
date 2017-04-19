@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1475 Cabana Rd E, Windsor, ON N8W 5W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5dcfc63f72bf404baa15a2310f81fe84|BN20130620|7.7.0.0|",
+				"addressLine": "1475 Cabana Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1475 Cabana Rd E, Windsor, ON N8W 5W8, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Devonshire",
+				"postalCode": "N8W 5W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.9795625,
+					42.2610843
+				]
+			},
+			"bbox": [
+				-82.9810814,
+				42.2599602,
+				-82.9780435,
+				42.2622085
+			]
+		}
+	]
+}

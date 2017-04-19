@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1102 17th St W, Saskatoon, SK S7M 3Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3530ff75baef41c19f19b951500ab78b|BN20260223|7.7.0.0|",
+				"addressLine": "1102 17th St W",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1102 17th St W, Saskatoon, SK S7M 3Y3, Canada",
+				"locality": "Saskatoon",
+				"neighborhood": "West Industrial",
+				"postalCode": "S7M 3Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.68638,
+					52.12183
+				]
+			},
+			"bbox": [
+				-106.6882109,
+				52.1207058,
+				-106.6845491,
+				52.1229542
+			]
+		}
+	]
+}

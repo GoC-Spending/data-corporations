@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1328 Clifton St, Winnipeg, MB R3E 2V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01a1a388af7d4ade878cad08e4c39c4d|BN20130530|7.7.0.0|",
+				"addressLine": "1328 Clifton St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1328 Clifton St, Winnipeg, MB R3E 2V2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Sargent Park",
+				"postalCode": "R3E 2V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18496,
+					49.90543
+				]
+			},
+			"bbox": [
+				-97.1867054,
+				49.9043058,
+				-97.1832146,
+				49.9065542
+			]
+		}
+	]
+}

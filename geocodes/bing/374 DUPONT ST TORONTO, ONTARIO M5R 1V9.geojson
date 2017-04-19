@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "374 Dupont St, Toronto, ON M5R 1V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7ddc960576724e0daaac089299a0830a|BN20171457|7.7.0.0|",
+				"addressLine": "374 Dupont St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "374 Dupont St, Toronto, ON M5R 1V9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 1V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41046,
+					43.67434
+				]
+			},
+			"bbox": [
+				-79.4120142,
+				43.6732158,
+				-79.4089058,
+				43.6754642
+			]
+		}
+	]
+}

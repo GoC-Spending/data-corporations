@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "293 Clements Rd W, Ajax, ON L1S 3W7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d956ed2f79734e5fa00378aed3cf9403|BN20130625|7.7.0.0|",
+				"addressLine": "293 Clements Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "293 Clements Rd W, Ajax, ON L1S 3W7, Canada",
+				"locality": "Ajax",
+				"postalCode": "L1S 3W7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.0254099,
+					43.83307
+				]
+			},
+			"bbox": [
+				-79.0269683,
+				43.8319458,
+				-79.0238515,
+				43.8341942
+			]
+		}
+	]
+}

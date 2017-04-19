@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "619 Queenston Rd, Cambridge, ON N3H 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9ba6c3fbb6d74beeb20efe64b37f3f77|BN20200137|7.7.0.0|",
+				"addressLine": "619 Queenston Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "619 Queenston Rd, Cambridge, ON N3H 3K2, Canada",
+				"locality": "Cambridge",
+				"neighborhood": "Preston Centre",
+				"postalCode": "N3H 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.36001,
+					43.39568
+				]
+			},
+			"bbox": [
+				-80.3615571,
+				43.3945558,
+				-80.3584629,
+				43.3968042
+			]
+		}
+	]
+}

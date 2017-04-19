@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "435 Canfor Ave, New Westminster, BC V3L 5H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de8090e9b7114ba5bb086e817ce56a9a|BN20290118|7.7.0.0|",
+				"addressLine": "435 Canfor Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "435 Canfor Ave, New Westminster, BC V3L 5H5, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Brunette Creek",
+				"postalCode": "V3L 5H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8800328,
+					49.2282759
+				]
+			},
+			"bbox": [
+				-122.8817542,
+				49.2271517,
+				-122.8783114,
+				49.2294001
+			]
+		}
+	]
+}

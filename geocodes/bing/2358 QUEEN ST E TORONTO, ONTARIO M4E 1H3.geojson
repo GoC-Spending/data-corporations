@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2358 Queen St E, Toronto, ON M4E 1H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1bc22d95219f440eb6627c8131dd6608|BN20260223|7.7.0.0|",
+				"addressLine": "2358 Queen St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2358 Queen St E, Toronto, ON M4E 1H3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "The Beaches",
+				"postalCode": "M4E 1H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28162,
+					43.67404
+				]
+			},
+			"bbox": [
+				-79.2831742,
+				43.6729158,
+				-79.2800658,
+				43.6751642
+			]
+		}
+	]
+}

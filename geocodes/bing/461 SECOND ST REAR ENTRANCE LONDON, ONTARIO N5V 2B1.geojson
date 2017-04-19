@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "461 2nd St, London, ON N5V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d4963d123def4fbeb44e6a6fa7e01d9e|BN20320521|7.7.0.0|",
+				"addressLine": "461 2nd St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "461 2nd St, London, ON N5V, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5V 2B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1923756,
+					43.0056376
+				]
+			},
+			"bbox": [
+				-81.1939128,
+				43.0045134,
+				-81.1908384,
+				43.0067617
+			]
+		}
+	]
+}

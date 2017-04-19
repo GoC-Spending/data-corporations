@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "175 Hess St N, Hamilton, ON L8R 2T1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "15d0385f31154e2d93a776668bce7cc7|BN20130632|7.7.0.0|",
+				"addressLine": "175 Hess St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "175 Hess St N, Hamilton, ON L8R 2T1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Central Hamilton",
+				"postalCode": "L8R 2T1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8750735,
+					43.2644135
+				]
+			},
+			"bbox": [
+				-79.8766173,
+				43.2632893,
+				-79.8735298,
+				43.2655376
+			]
+		}
+	]
+}

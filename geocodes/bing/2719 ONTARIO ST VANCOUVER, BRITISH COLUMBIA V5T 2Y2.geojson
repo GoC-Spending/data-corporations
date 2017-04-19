@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2719 Ontario St, Vancouver, BC V5T 2Y2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "59096fe7209c475a8fdd731ab4961592|BN20130625|7.7.0.0|",
+				"addressLine": "2719 Ontario St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2719 Ontario St, Vancouver, BC V5T 2Y2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 2Y2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10526,
+					49.26083
+				]
+			},
+			"bbox": [
+				-123.1069825,
+				49.2597058,
+				-123.1035375,
+				49.2619542
+			]
+		}
+	]
+}

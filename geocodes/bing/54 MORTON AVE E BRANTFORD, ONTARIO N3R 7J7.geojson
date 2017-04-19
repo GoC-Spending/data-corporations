@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "54 Morton Ave E, Brantford, ON N3R 7J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9d65f27006974562969217f83590f448|BN20190642|7.7.0.0|",
+				"addressLine": "54 Morton Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "54 Morton Ave E, Brantford, ON N3R 7J7, Canada",
+				"locality": "Brantford",
+				"postalCode": "N3R 7J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2473951,
+					43.1597829
+				]
+			},
+			"bbox": [
+				-80.2489362,
+				43.1586587,
+				-80.245854,
+				43.1609071
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "331 Hawkhill Pl NW, Calgary, AB T3G 3H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "50575291d6584073affae759467bdbe1|BN20130631|7.7.0.0|",
+				"addressLine": "331 Hawkhill Pl NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "331 Hawkhill Pl NW, Calgary, AB T3G 3H6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Hawkwood",
+				"postalCode": "T3G 3H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.16156,
+					51.13152
+				]
+			},
+			"bbox": [
+				-114.1633514,
+				51.1303958,
+				-114.1597686,
+				51.1326442
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "98 Worthington Ave, Brampton, ON L7A 2A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "84d4c8184faa4250b133c2c3de098c8c|BN20130431|7.7.0.0|",
+				"addressLine": "98 Worthington Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "98 Worthington Ave, Brampton, ON L7A 2A4, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Heart Lake",
+				"postalCode": "L7A 2A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.82158,
+					43.6854299
+				]
+			},
+			"bbox": [
+				-79.8231345,
+				43.6843057,
+				-79.8200255,
+				43.6865541
+			]
+		}
+	]
+}

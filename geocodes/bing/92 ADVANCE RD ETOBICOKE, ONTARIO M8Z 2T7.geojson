@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "92 Advance Rd, Etobicoke, ON M8Z 2T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "abf915a219d04e57acde468242ebd891|BN20220145|7.7.0.0|",
+				"addressLine": "92 Advance Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "92 Advance Rd, Etobicoke, ON M8Z 2T7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52256,
+					43.6355
+				]
+			},
+			"bbox": [
+				-79.5241132,
+				43.6343758,
+				-79.5210068,
+				43.6366242
+			]
+		}
+	]
+}

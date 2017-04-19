@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1150 Northside Rd, Burlington, ON L7M 1W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "28810f9931624beab178fb30a0114a37|BN20131519|7.7.0.0|",
+				"addressLine": "1150 Northside Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1150 Northside Rd, Burlington, ON L7M 1W8, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Palmer",
+				"postalCode": "L7M 1W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.80523,
+					43.35911
+				]
+			},
+			"bbox": [
+				-79.8067762,
+				43.3579858,
+				-79.8036838,
+				43.3602342
+			]
+		}
+	]
+}

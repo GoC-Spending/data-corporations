@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "843 McKenzie Rd, Kelowna, BC V1X 2B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fd63fd0614c49c08f991a7bc0ba2172|BN20130719|7.7.0.0|",
+				"addressLine": "843 McKenzie Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "843 McKenzie Rd, Kelowna, BC V1X 2B4, Canada",
+				"locality": "Kelowna",
+				"neighborhood": "Rutland",
+				"postalCode": "V1X 2B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.37048,
+					49.89133
+				]
+			},
+			"bbox": [
+				-119.3722249,
+				49.8902058,
+				-119.3687351,
+				49.8924542
+			]
+		}
+	]
+}

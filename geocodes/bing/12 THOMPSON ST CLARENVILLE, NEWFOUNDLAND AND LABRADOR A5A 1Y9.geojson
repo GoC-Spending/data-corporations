@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Thompson St, Clarenville, NL A5A 1Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fb5dea5b5f3540eb947a5265cda4cab0|BN20190653|7.7.0.0|",
+				"addressLine": "12 Thompson St",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Thompson St, Clarenville, NL A5A 1Y9, Canada",
+				"locality": "Clarenville",
+				"postalCode": "A5A 1Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-53.9791823,
+					48.1631307
+				]
+			},
+			"bbox": [
+				-53.9808677,
+				48.1620066,
+				-53.977497,
+				48.1642549
+			]
+		}
+	]
+}

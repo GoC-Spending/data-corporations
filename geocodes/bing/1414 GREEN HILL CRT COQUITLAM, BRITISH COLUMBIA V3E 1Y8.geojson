@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1414 Greenhill Ct, Coquitlam, BC V3E 1Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0b3a1d0062124796a9d31b66876606d2|BN20130423|7.7.0.0|",
+				"addressLine": "1414 Greenhill Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1414 Greenhill Ct, Coquitlam, BC V3E 1Y8, Canada",
+				"locality": "Coquitlam",
+				"neighborhood": "Eagle Ridge",
+				"postalCode": "V3E 1Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.8106,
+					49.2930599
+				]
+			},
+			"bbox": [
+				-122.8123237,
+				49.2919357,
+				-122.8088763,
+				49.2941841
+			]
+		}
+	]
+}

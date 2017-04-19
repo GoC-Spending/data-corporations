@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1155 N Service Rd W, Oakville, ON L6M 3E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7fe9a219ed124210b448715a1ff6eaed|BN20181720|7.7.0.0|",
+				"addressLine": "1155 N Service Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1155 N Service Rd W, Oakville, ON L6M 3E3, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Glen Abbey",
+				"postalCode": "L6M 3E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.71445,
+					43.43568
+				]
+			},
+			"bbox": [
+				-79.7159981,
+				43.4345558,
+				-79.7129019,
+				43.4368042
+			]
+		}
+	]
+}

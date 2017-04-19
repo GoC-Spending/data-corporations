@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9327 35 Ave NW, Edmonton, AB T6E 5R5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b225456dec074b9ba19d101bfa4f656c|BN20130521|7.7.0.0|",
+				"addressLine": "9327 35 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "9327 35 Ave NW, Edmonton, AB T6E 5R5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Strathcona Industrial Park",
+				"postalCode": "T6E 5R5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.47417,
+					53.46821
+				]
+			},
+			"bbox": [
+				-113.4760585,
+				53.4670858,
+				-113.4722815,
+				53.4693342
+			]
+		}
+	]
+}

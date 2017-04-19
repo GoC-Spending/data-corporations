@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3490 Bridgeway St, Vancouver, BC V5K, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e9318273ebc46ca9a059df83038c8af|BN20130632|7.7.0.0|",
+				"addressLine": "3490 Bridgeway St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3490 Bridgeway St, Vancouver, BC V5K, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Hastings-Sunrise",
+				"postalCode": "V5K 1B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0288062,
+					49.2903304
+				]
+			},
+			"bbox": [
+				-123.0305297,
+				49.2892062,
+				-123.0270826,
+				49.2914545
+			]
+		}
+	]
+}

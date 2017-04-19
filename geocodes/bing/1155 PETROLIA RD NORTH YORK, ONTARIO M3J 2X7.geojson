@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1155 Petrolia Rd, North York, ON M3J 2X7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "750d76852a294758b2f3fdfe8235628f|BN20130423|7.7.0.0|",
+				"addressLine": "1155 Petrolia Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1155 Petrolia Rd, North York, ON M3J 2X7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48927,
+					43.78141
+				]
+			},
+			"bbox": [
+				-79.490827,
+				43.7802858,
+				-79.487713,
+				43.7825342
+			]
+		}
+	]
+}

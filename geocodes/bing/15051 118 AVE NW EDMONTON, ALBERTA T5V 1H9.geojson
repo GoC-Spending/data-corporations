@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15051 118 Ave NW, Edmonton, AB T5V 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8ab9fde21e4f4a3e864331aa80c1bb41|BN20130423|7.7.0.0|",
+				"addressLine": "15051 118 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "15051 118 Ave NW, Edmonton, AB T5V 1H9, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Garside Industrial",
+				"postalCode": "T5V 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.58007,
+					53.57005
+				]
+			},
+			"bbox": [
+				-113.581963,
+				53.5689258,
+				-113.578177,
+				53.5711742
+			]
+		}
+	]
+}

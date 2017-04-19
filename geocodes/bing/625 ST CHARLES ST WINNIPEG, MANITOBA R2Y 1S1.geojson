@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "625 St Charles St, Winnipeg, MB R2Y 1S1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "02f8a3a0acd14895999dd0330db983c4|BN20121762|7.7.0.0|",
+				"addressLine": "625 St Charles St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "625 St Charles St, Winnipeg, MB R2Y 1S1, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Buchanan",
+				"postalCode": "R2Y 1S1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.32043,
+					49.88204
+				]
+			},
+			"bbox": [
+				-97.3221746,
+				49.8809158,
+				-97.3186854,
+				49.8831642
+			]
+		}
+	]
+}

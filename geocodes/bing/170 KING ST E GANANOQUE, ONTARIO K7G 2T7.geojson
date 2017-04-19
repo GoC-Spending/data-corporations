@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 King St E, Gananoque, ON K7G 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "78afd7303f644822a6ccbed32ba225e8|BN20130533|7.7.0.0|",
+				"addressLine": "170 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 King St E, Gananoque, ON K7G 1G2, Canada",
+				"locality": "Gananoque",
+				"postalCode": "K7G 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1613154,
+					44.3305414
+				]
+			},
+			"bbox": [
+				-76.1628869,
+				44.3294172,
+				-76.1597438,
+				44.3316655
+			]
+		}
+	]
+}

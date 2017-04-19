@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Fisher St, King City, ON L7B 1G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d67a08c7c2e49ff842ac93f50bd78ee|BN20130442|7.7.0.0|",
+				"addressLine": "22 Fisher St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Fisher St, King City, ON L7B 1G3, Canada",
+				"locality": "King",
+				"neighborhood": "King City",
+				"postalCode": "L7B 1G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52549,
+					43.92856
+				]
+			},
+			"bbox": [
+				-79.5270509,
+				43.9274358,
+				-79.5239291,
+				43.9296842
+			]
+		}
+	]
+}

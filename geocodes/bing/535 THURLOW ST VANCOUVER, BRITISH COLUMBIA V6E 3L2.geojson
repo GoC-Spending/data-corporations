@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "535 Thurlow St, Vancouver, BC V6E 3L2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6dae0ad157b147b9b1bfb744989bd8c5|BN20130530|7.7.0.0|",
+				"addressLine": "535 Thurlow St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "535 Thurlow St, Vancouver, BC V6E 3L2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6E 3L2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12137,
+					49.28714
+				]
+			},
+			"bbox": [
+				-123.1230934,
+				49.2860158,
+				-123.1196466,
+				49.2882642
+			]
+		}
+	]
+}

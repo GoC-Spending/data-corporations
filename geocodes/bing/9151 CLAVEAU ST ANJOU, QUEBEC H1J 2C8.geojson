@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9151 Rue Claveau, Anjou, QC H1J 2C8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cf4863773150437db3f935cf4bb4d054|BN20290118|7.7.0.0|",
+				"addressLine": "9151 Rue Claveau",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "9151 Rue Claveau, Anjou, QC H1J 2C8, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Anjou",
+				"postalCode": "H1J 2C8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57003,
+					45.6113
+				]
+			},
+			"bbox": [
+				-73.571637,
+				45.6101758,
+				-73.568423,
+				45.6124242
+			]
+		}
+	]
+}

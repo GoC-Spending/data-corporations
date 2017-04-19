@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Laurier Ave W, Ottawa, ON K1A 6M7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0357c2f7de1146138d1e67d3b46b26d0|BN20130521|7.7.0.0|",
+				"addressLine": "200 Laurier Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Laurier Ave W, Ottawa, ON K1A 6M7, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1A 6M7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6958904,
+					45.4196848
+				]
+			},
+			"bbox": [
+				-75.697492,
+				45.4185606,
+				-75.6942889,
+				45.4208089
+			]
+		}
+	]
+}

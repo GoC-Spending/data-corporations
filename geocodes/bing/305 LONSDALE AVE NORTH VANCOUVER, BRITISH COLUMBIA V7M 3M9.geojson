@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "305 Lonsdale Ave, North Vancouver, BC V7M 2G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d716d9555840490a82e13010c8cfcd03|BN20130621|7.7.0.0|",
+				"addressLine": "305 Lonsdale Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "305 Lonsdale Ave, North Vancouver, BC V7M 2G3, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7M 2G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.07704,
+					49.31403
+				]
+			},
+			"bbox": [
+				-123.0787644,
+				49.3129058,
+				-123.0753156,
+				49.3151542
+			]
+		}
+	]
+}

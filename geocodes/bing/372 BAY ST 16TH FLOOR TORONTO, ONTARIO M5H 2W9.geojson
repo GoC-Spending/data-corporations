@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "372 Bay St, Toronto, ON M5H 2W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ace71ae772a6429ca82bef43242e4880|BN20290118|7.7.0.0|",
+				"addressLine": "372 Bay St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "372 Bay St, Toronto, ON M5H 2W9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H 2W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3815,
+					43.65095
+				]
+			},
+			"bbox": [
+				-79.3830536,
+				43.6498258,
+				-79.3799464,
+				43.6520742
+			]
+		}
+	]
+}

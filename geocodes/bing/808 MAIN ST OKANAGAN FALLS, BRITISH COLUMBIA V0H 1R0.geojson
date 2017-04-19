@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "808 Main St, Okanagan-Similkameen, BC V0H, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f6cfbb4099ec40dca456a593c0436352|BN20130521|7.7.0.0|",
+				"addressLine": "808 Main St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Okanagan-Similkameen",
+				"countryRegion": "Canada",
+				"formattedAddress": "808 Main St, Okanagan-Similkameen, BC V0H, Canada",
+				"locality": "Okanagan-Similkameen",
+				"neighborhood": "Okanagan Falls",
+				"postalCode": "V0H 1R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.57168,
+					49.3454453
+				]
+			},
+			"bbox": [
+				-119.5734055,
+				49.3443211,
+				-119.5699545,
+				49.3465694
+			]
+		}
+	]
+}

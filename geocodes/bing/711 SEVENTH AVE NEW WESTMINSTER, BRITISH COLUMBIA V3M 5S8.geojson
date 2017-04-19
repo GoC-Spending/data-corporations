@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "711 7th Ave, New Westminster, BC V3M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0ece3160a124bd6aed05cc10c7d884b|BN20240423|7.7.0.0|",
+				"addressLine": "711 7th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "711 7th Ave, New Westminster, BC V3M, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Uptown",
+				"postalCode": "V3M 5S8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.924047,
+					49.2134699
+				]
+			},
+			"bbox": [
+				-122.9257679,
+				49.2123458,
+				-122.9223261,
+				49.2145941
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10543 109 St, Westlock, AB T7P 1A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0d69c4fd752e44668c086f418f17f5ff|BN20130719|7.7.0.0|",
+				"addressLine": "10543 109 St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10543 109 St, Westlock, AB T7P 1A9, Canada",
+				"locality": "Westlock",
+				"postalCode": "T7P 1A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.84399,
+					54.16305
+				]
+			},
+			"bbox": [
+				-113.84591,
+				54.1619258,
+				-113.84207,
+				54.1641742
+			]
+		}
+	]
+}

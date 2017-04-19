@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1805 Rue Berlier, Laval, QC H7L 3S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d30ca2b37ee4bd1a159d114f0009e6b|BN20130521|7.7.0.0|",
+				"addressLine": "1805 Rue Berlier",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1805 Rue Berlier, Laval, QC H7L 3S4, Canada",
+				"locality": "Laval",
+				"postalCode": "H7L 3S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.74628,
+					45.58329
+				]
+			},
+			"bbox": [
+				-73.7478862,
+				45.5821658,
+				-73.7446738,
+				45.5844142
+			]
+		}
+	]
+}

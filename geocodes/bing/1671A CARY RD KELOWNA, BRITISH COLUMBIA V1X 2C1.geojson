@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1671 Cary Rd, Kelowna, BC V1X 2C1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de5ed44feddf4fe382c20a15299aa31c|BN20121764|7.7.0.0|",
+				"addressLine": "1671 Cary Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Central Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "1671 Cary Rd, Kelowna, BC V1X 2C1, Canada",
+				"locality": "Kelowna",
+				"postalCode": "V1X 2C1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.4221144,
+					49.891295
+				]
+			},
+			"bbox": [
+				-119.4238593,
+				49.8901708,
+				-119.4203694,
+				49.8924191
+			]
+		}
+	]
+}

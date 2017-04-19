@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12841 85 Ave, Surrey, BC V3W 0K8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3a8efa7a3260420ca758efab602eb17f|BN20181720|7.7.0.0|",
+				"addressLine": "12841 85 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "12841 85 Ave, Surrey, BC V3W 0K8, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 0K8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.86677,
+					49.1576499
+				]
+			},
+			"bbox": [
+				-122.8684889,
+				49.1565257,
+				-122.8650511,
+				49.1587741
+			]
+		}
+	]
+}

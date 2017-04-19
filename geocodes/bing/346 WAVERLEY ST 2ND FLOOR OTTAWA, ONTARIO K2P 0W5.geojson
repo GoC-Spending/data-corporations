@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "346 Waverley St, Ottawa, ON K2P 0W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f110cfca12a4278a236473512abf962|BN20131519|7.7.0.0|",
+				"addressLine": "346 Waverley St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "346 Waverley St, Ottawa, ON K2P 0W5, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K2P 0W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69273,
+					45.4136
+				]
+			},
+			"bbox": [
+				-75.6943314,
+				45.4124758,
+				-75.6911286,
+				45.4147242
+			]
+		}
+	]
+}

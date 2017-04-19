@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "73 Wilson St W, Ancaster, ON L9G 1N1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1e5a6697d7a340b39617eeabcd4e5a4e|BN20290118|7.7.0.0|",
+				"addressLine": "73 Wilson St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "73 Wilson St W, Ancaster, ON L9G 1N1, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Ancaster",
+				"postalCode": "L9G 1N1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.99037,
+					43.21652
+				]
+			},
+			"bbox": [
+				-79.9919125,
+				43.2153958,
+				-79.9888275,
+				43.2176442
+			]
+		}
+	]
+}

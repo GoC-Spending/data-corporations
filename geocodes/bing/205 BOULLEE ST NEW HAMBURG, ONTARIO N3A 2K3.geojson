@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "205 Boullee St, New Hamburg, ON N3A 2K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "188b2b30e2244ae2b4c33bd3bd8a83a7|BN20130521|7.7.0.0|",
+				"addressLine": "205 Boullee St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "205 Boullee St, New Hamburg, ON N3A 2K3, Canada",
+				"locality": "Wilmot",
+				"neighborhood": "New Hamburg",
+				"postalCode": "N3A 2K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7020259,
+					43.3796655
+				]
+			},
+			"bbox": [
+				-80.7035726,
+				43.3785414,
+				-80.7004793,
+				43.3807897
+			]
+		}
+	]
+}

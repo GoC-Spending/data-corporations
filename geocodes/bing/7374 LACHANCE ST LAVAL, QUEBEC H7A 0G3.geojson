@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "7374 Rue Lachance, Laval, QC H7A 0G3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "716847fffbfd4842a246127097f89c25|BN20130721|7.7.0.0|",
+				"addressLine": "7374 Rue Lachance",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "7374 Rue Lachance, Laval, QC H7A 0G3, Canada",
+				"locality": "Laval",
+				"neighborhood": "Duvernay-Est",
+				"postalCode": "H7A 0G3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.60822,
+					45.65397
+				]
+			},
+			"bbox": [
+				-73.6098283,
+				45.6528458,
+				-73.6066117,
+				45.6550942
+			]
+		}
+	]
+}

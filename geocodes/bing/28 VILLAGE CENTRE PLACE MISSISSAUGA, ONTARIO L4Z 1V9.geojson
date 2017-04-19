@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "28 Village Centre Pl, Mississauga, ON L4Z 1V9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f207aa250cbc46edb4d94a5609b25082|BN20130533|7.7.0.0|",
+				"addressLine": "28 Village Centre Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "28 Village Centre Pl, Mississauga, ON L4Z 1V9, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Village Centre",
+				"postalCode": "L4Z 1V9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.64214,
+					43.60038
+				]
+			},
+			"bbox": [
+				-79.6436923,
+				43.5992558,
+				-79.6405877,
+				43.6015042
+			]
+		}
+	]
+}

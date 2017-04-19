@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "178 Mary St, Hamilton, ON L8L 4V8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f98fe32bb9e34b9a90e7a5554aa7eef7|BN20130634|7.7.0.0|",
+				"addressLine": "178 Mary St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "178 Mary St, Hamilton, ON L8L 4V8, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Beasley",
+				"postalCode": "L8L 4V8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86152,
+					43.26011
+				]
+			},
+			"bbox": [
+				-79.8630636,
+				43.2589858,
+				-79.8599764,
+				43.2612342
+			]
+		}
+	]
+}

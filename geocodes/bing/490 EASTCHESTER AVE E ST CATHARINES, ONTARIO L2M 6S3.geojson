@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "490 Eastchester Ave E, St Catharines, ON L2M 6S3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a75f9563ad914fb8afbd789ff7355773|BN20130530|7.7.0.0|",
+				"addressLine": "490 Eastchester Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "490 Eastchester Ave E, St Catharines, ON L2M 6S3, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Queenston",
+				"postalCode": "L2M 6S3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.20243,
+					43.1689
+				]
+			},
+			"bbox": [
+				-79.2039713,
+				43.1677758,
+				-79.2008887,
+				43.1700242
+			]
+		}
+	]
+}

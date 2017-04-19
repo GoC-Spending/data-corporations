@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "44 Joshua Ct, Thornhill, ON L4J 8B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2879e70a3635446289883099b4a5a260|BN20130522|7.7.0.0|",
+				"addressLine": "44 Joshua Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "44 Joshua Ct, Thornhill, ON L4J 8B6, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Thornhill",
+				"postalCode": "L4J 8B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.43084,
+					43.80532
+				]
+			},
+			"bbox": [
+				-79.4323977,
+				43.8041958,
+				-79.4292823,
+				43.8064442
+			]
+		}
+	]
+}

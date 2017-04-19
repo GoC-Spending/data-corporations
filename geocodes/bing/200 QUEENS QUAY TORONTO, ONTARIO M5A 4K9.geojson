@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Queens Quay E, Toronto, ON M5A 4K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bb1ac0035aa844208b3acfc02fcf96ae|BN20300154|7.7.0.0|",
+				"addressLine": "200 Queens Quay E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Queens Quay E, Toronto, ON M5A 4K9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5A 4K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36336,
+					43.64621
+				]
+			},
+			"bbox": [
+				-79.3649135,
+				43.6450858,
+				-79.3618065,
+				43.6473342
+			]
+		}
+	]
+}

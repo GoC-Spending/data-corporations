@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "405 14 Ave NE, Calgary, AB T2E 1E6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dfadee7b4e9e41d8901d1602d18fdf07|BN20130442|7.7.0.0|",
+				"addressLine": "405 14 Ave NE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "405 14 Ave NE, Calgary, AB T2E 1E6, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Renfrew",
+				"postalCode": "T2E 1E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.05576,
+					51.06477
+				]
+			},
+			"bbox": [
+				-114.0575488,
+				51.0636458,
+				-114.0539712,
+				51.0658942
+			]
+		}
+	]
+}

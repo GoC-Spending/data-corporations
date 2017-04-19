@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2 Keewatin Ave, Toronto, ON M4P 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b8f331a5ab9413f9b1e4e7b650b3cff|BN20130621|7.7.0.0|",
+				"addressLine": "2 Keewatin Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "2 Keewatin Ave, Toronto, ON M4P 1Z8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4P 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3991999,
+					43.71248
+				]
+			},
+			"bbox": [
+				-79.4007551,
+				43.7113558,
+				-79.3976447,
+				43.7136042
+			]
+		}
+	]
+}

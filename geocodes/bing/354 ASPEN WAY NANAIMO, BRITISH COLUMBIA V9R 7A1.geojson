@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "354 Aspen Way, Nanaimo, BC V9R 7A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e7e54fdc910f4e89808dcb8160a6fe18|BN20260231|7.7.0.0|",
+				"addressLine": "354 Aspen Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "354 Aspen Way, Nanaimo, BC V9R 7A1, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 7A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.93749,
+					49.13948
+				]
+			},
+			"bbox": [
+				-123.9392083,
+				49.1383558,
+				-123.9357717,
+				49.1406042
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3412 110 St NW, Edmonton, AB T6J 2V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75fdc1e750994ffd899b2883b9a830bd|BN20320521|7.7.0.0|",
+				"addressLine": "3412 110 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3412 110 St NW, Edmonton, AB T6J 2V7, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Duggan",
+				"postalCode": "T6J 2V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51456,
+					53.46661
+				]
+			},
+			"bbox": [
+				-113.5164484,
+				53.4654858,
+				-113.5126716,
+				53.4677342
+			]
+		}
+	]
+}

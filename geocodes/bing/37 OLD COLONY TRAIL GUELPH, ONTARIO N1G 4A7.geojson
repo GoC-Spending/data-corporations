@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Old Colony Trl, Guelph, ON N1G 4A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e156b4bbadca4a05ab36225d615334e5|BN20121762|7.7.0.0|",
+				"addressLine": "37 Old Colony Trl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Old Colony Trl, Guelph, ON N1G 4A7, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Dovercliffe Park/Kortright Hills",
+				"postalCode": "N1G 4A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.24064,
+					43.51
+				]
+			},
+			"bbox": [
+				-80.24219,
+				43.5088758,
+				-80.23909,
+				43.5111242
+			]
+		}
+	]
+}

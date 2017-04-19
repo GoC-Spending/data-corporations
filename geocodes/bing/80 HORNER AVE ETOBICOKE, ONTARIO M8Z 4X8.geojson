@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "80 Horner Ave, Etobicoke, ON M8Z 4X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43ced2bf7b974b94b96674ff221875ce|BN20130620|7.7.0.0|",
+				"addressLine": "80 Horner Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "80 Horner Ave, Etobicoke, ON M8Z 4X8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mimico",
+				"postalCode": "M8Z 4X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5175,
+					43.6137
+				]
+			},
+			"bbox": [
+				-79.5190527,
+				43.6125758,
+				-79.5159473,
+				43.6148242
+			]
+		}
+	]
+}

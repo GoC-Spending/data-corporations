@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1945 Sutherland Ave, North Vancouver, BC V7L 4C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e5cb69b686e74c24befb587dc2987505|BN20320521|7.7.0.0|",
+				"addressLine": "1945 Sutherland Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1945 Sutherland Ave, North Vancouver, BC V7L 4C4, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7L 4C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.05494,
+					49.32667
+				]
+			},
+			"bbox": [
+				-123.0566648,
+				49.3255458,
+				-123.0532152,
+				49.3277942
+			]
+		}
+	]
+}

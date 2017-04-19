@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Points North Landing, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0aebbea46ade4faab2d412b385c25df1|BN20130423|7.7.0.0|",
+				"countryRegion": "Canada",
+				"formattedAddress": "Points North Landing, Canada",
+				"locality": "Points North Landing"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.082496643066,
+					58.276668548584
+				]
+			},
+			"bbox": [
+				-104.155897739027,
+				58.2476981655914,
+				-104.009095547106,
+				58.3056389315765
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Wollaston Lake, Saskatchewan, Saskatchewan, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0aebbea46ade4faab2d412b385c25df1|BN20130423|7.7.0.0|",
+				"adminDistrict": "SK",
+				"countryRegion": "Canada",
+				"formattedAddress": "Wollaston Lake, Saskatchewan, Saskatchewan, Canada",
+				"locality": "Saskatchewan",
+				"neighborhood": "Wollaston Lake"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-103.161781311035,
+					58.1029586791992
+				]
+			},
+			"bbox": [
+				-103.17152731019,
+				58.0990959616285,
+				-103.15203531188,
+				58.1068213967699
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "443 3rd St W, North Vancouver, BC V7M 1G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc81e1a59b74427f815100ccad5c529b|BN20171457|7.7.0.0|",
+				"addressLine": "443 3rd St W",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "443 3rd St W, North Vancouver, BC V7M 1G6, Canada",
+				"locality": "North Vancouver",
+				"postalCode": "V7M 1G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0888861,
+					49.3184501
+				]
+			},
+			"bbox": [
+				-123.0906106,
+				49.3173259,
+				-123.0871615,
+				49.3195742
+			]
+		}
+	]
+}

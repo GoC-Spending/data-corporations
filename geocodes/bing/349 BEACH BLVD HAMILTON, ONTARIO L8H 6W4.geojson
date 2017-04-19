@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "349 Beach Blvd, Hamilton, ON L8H 6W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d04fddb6b70941b4a399cb7b5120cf7d|BN20210145|7.7.0.0|",
+				"addressLine": "349 Beach Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "349 Beach Blvd, Hamilton, ON L8H 6W4, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Hamilton Beach C",
+				"postalCode": "L8H 6W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.77828,
+					43.27246
+				]
+			},
+			"bbox": [
+				-79.7798239,
+				43.2713358,
+				-79.7767361,
+				43.2735842
+			]
+		}
+	]
+}

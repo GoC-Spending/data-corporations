@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "777 Douglas St, Victoria, BC V8W 2B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "81f8786c30a142f3bd241e3016e9aec1|BN20130431|7.7.0.0|",
+				"addressLine": "777 Douglas St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "777 Douglas St, Victoria, BC V8W 2B5, Canada",
+				"locality": "Victoria",
+				"neighborhood": "Downtown Victoria",
+				"postalCode": "V8W 2B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.3659266,
+					48.4216907
+				]
+			},
+			"bbox": [
+				-123.3676205,
+				48.4205665,
+				-123.3642327,
+				48.4228148
+			]
+		}
+	]
+}

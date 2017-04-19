@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3330 Moffat Rd, Newcastle, ON L1B 1L9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f31e18cdc1bb49038af52226b5077891|BN20160335|7.7.0.0|",
+				"addressLine": "3330 Moffat Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "3330 Moffat Rd, Newcastle, ON L1B 1L9, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Newcastle",
+				"postalCode": "L1B 1L9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.5830558,
+					43.9453945
+				]
+			},
+			"bbox": [
+				-78.5846171,
+				43.9442704,
+				-78.5814945,
+				43.9465187
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3027 Harvester Rd, Burlington, ON L7N 3G7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89823cd0dd69455689974c1364083c0b|BN20130521|7.7.0.0|",
+				"addressLine": "3027 Harvester Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "3027 Harvester Rd, Burlington, ON L7N 3G7, Canada",
+				"locality": "Burlington",
+				"neighborhood": "Dynes",
+				"postalCode": "L7N 3G7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.8003899,
+					43.35164
+				]
+			},
+			"bbox": [
+				-79.8019359,
+				43.3505158,
+				-79.7988439,
+				43.3527642
+			]
+		}
+	]
+}

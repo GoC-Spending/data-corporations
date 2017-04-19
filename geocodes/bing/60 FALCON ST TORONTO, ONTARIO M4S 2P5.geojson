@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Falcon St, Toronto, ON M4S 2P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8056ba34616f429aa3780a5592538f70|BN20160335|7.7.0.0|",
+				"addressLine": "60 Falcon St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Falcon St, Toronto, ON M4S 2P5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 2P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38737,
+					43.70798
+				]
+			},
+			"bbox": [
+				-79.3889251,
+				43.7068558,
+				-79.3858149,
+				43.7091042
+			]
+		}
+	]
+}

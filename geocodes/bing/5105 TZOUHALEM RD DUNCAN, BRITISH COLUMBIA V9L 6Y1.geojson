@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5105 Tzouhalem Rd, Duncan, BC V9L 6Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "490fccfe98a849b9bec712636081b02a|BN20130621|7.7.0.0|",
+				"addressLine": "5105 Tzouhalem Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Cowichan Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "5105 Tzouhalem Rd, Duncan, BC V9L 6Y1, Canada",
+				"locality": "North Cowichan",
+				"neighborhood": "Duncan",
+				"postalCode": "V9L 6Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.6544594,
+					48.7574079
+				]
+			},
+			"bbox": [
+				-123.6561646,
+				48.7562838,
+				-123.6527542,
+				48.7585321
+			]
+		}
+	]
+}

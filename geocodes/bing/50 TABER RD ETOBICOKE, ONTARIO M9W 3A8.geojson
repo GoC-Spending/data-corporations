@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Taber Rd, Etobicoke, ON M9W 3A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "247a0404233344a6b0475ef241dce00a|BN20290118|7.7.0.0|",
+				"addressLine": "50 Taber Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Taber Rd, Etobicoke, ON M9W 3A8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 3A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.57937,
+					43.71807
+				]
+			},
+			"bbox": [
+				-79.5809254,
+				43.7169458,
+				-79.5778146,
+				43.7191942
+			]
+		}
+	]
+}

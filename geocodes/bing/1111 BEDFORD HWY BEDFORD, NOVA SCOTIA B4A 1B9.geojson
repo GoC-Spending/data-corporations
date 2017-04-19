@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1111 Bedford Hwy, Bedford, NS B4A 1B9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4747ef15ed5c4fd7a71a4c47d0a0917f|BN20181720|7.7.0.0|",
+				"addressLine": "1111 Bedford Hwy",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "1111 Bedford Hwy, Bedford, NS B4A 1B9, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Bedford",
+				"postalCode": "B4A 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.67227,
+					44.71961
+				]
+			},
+			"bbox": [
+				-63.6738521,
+				44.7184858,
+				-63.6706879,
+				44.7207342
+			]
+		}
+	]
+}

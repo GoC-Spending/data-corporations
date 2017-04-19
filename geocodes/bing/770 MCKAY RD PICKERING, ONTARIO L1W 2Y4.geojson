@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "770 McKay Rd, Pickering, ON L1W 2Y4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2d812d0f638d4b4baba4f6add71f4246|BN20240423|7.7.0.0|",
+				"addressLine": "770 McKay Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "770 McKay Rd, Pickering, ON L1W 2Y4, Canada",
+				"locality": "Pickering",
+				"postalCode": "L1W 2Y4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.05804,
+					43.81879
+				]
+			},
+			"bbox": [
+				-79.059598,
+				43.8176658,
+				-79.056482,
+				43.8199142
+			]
+		}
+	]
+}

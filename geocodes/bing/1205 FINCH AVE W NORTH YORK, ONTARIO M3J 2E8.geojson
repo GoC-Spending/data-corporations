@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1205 Finch Ave W, North York, ON M3J 2E8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ae3d34cf8da408081d2a6cb4fecd72f|BN20131519|7.7.0.0|",
+				"addressLine": "1205 Finch Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1205 Finch Ave W, North York, ON M3J 2E8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 2E8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4839,
+					43.7643
+				]
+			},
+			"bbox": [
+				-79.4854566,
+				43.7631758,
+				-79.4823434,
+				43.7654242
+			]
+		}
+	]
+}

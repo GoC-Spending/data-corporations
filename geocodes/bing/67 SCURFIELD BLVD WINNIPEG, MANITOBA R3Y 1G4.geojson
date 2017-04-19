@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Scurfield Blvd, Winnipeg, MB R3Y 1G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7273129a5c13434689dffd775e175113|BN20130632|7.7.0.0|",
+				"addressLine": "67 Scurfield Blvd",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Scurfield Blvd, Winnipeg, MB R3Y 1G4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "West Fort Garry Industrial",
+				"postalCode": "R3Y 1G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18812,
+					49.81884
+				]
+			},
+			"bbox": [
+				-97.1898623,
+				49.8177158,
+				-97.1863777,
+				49.8199642
+			]
+		}
+	]
+}

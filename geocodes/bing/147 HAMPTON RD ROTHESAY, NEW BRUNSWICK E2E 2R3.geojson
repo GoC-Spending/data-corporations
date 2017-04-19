@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "147 Hampton Rd, Rothesay, NB E2E 2R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cd38a383eccd4ac19b95d85662e514a9|BN20121762|7.7.0.0|",
+				"addressLine": "147 Hampton Rd",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Kings",
+				"countryRegion": "Canada",
+				"formattedAddress": "147 Hampton Rd, Rothesay, NB E2E 2R3, Canada",
+				"locality": "Rothesay",
+				"postalCode": "E2E 2R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.97736,
+					45.40108
+				]
+			},
+			"bbox": [
+				-65.978961,
+				45.3999558,
+				-65.975759,
+				45.4022042
+			]
+		}
+	]
+}

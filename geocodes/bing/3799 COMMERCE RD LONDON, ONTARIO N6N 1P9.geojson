@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3799 Commerce Rd, London, ON N6N 1P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "294ba739c1ca4b838d2b651172d48750|CO30323910|7.7.0.0|",
+				"addressLine": "3799 Commerce Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3799 Commerce Rd, London, ON N6N 1P9, Canada",
+				"locality": "London",
+				"neighborhood": "Highbury",
+				"postalCode": "N6N 1P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1693,
+					42.9353
+				]
+			},
+			"bbox": [
+				-81.1708355,
+				42.9341758,
+				-81.1677645,
+				42.9364242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "73 Six Point Rd, Etobicoke, ON M8Z 2X3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d5489e57078c4f60adf4efc60b262740|BN20130431|7.7.0.0|",
+				"addressLine": "73 Six Point Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "73 Six Point Rd, Etobicoke, ON M8Z 2X3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8Z 2X3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52361,
+					43.63598
+				]
+			},
+			"bbox": [
+				-79.5251633,
+				43.6348558,
+				-79.5220567,
+				43.6371042
+			]
+		}
+	]
+}

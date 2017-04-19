@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "244 Glenforest Rd, Toronto, ON M4N 2A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cdeceb59ffe34470ba7b864056079bd6|BN20190642|7.7.0.0|",
+				"addressLine": "244 Glenforest Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "244 Glenforest Rd, Toronto, ON M4N 2A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lawrence Park North",
+				"postalCode": "M4N 2A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39568,
+					43.7321
+				]
+			},
+			"bbox": [
+				-79.3972357,
+				43.7309758,
+				-79.3941243,
+				43.7332242
+			]
+		}
+	]
+}

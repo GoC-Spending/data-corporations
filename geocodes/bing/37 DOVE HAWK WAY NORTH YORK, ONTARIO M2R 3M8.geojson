@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "37 Dove Hawkway, Toronto, ON M2R, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "121d52896a874576b7b3c487d16d8ffd|BN20131519|7.7.0.0|",
+				"addressLine": "37 Dove Hawkway",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "37 Dove Hawkway, Toronto, ON M2R, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Westminster-Branson",
+				"postalCode": "M2R 3M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45707,
+					43.78936
+				]
+			},
+			"bbox": [
+				-79.4586272,
+				43.7882358,
+				-79.4555128,
+				43.7904842
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2160 Sussex Ln, Prince George, BC V2K 3K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7edc8cd7109c47b089ddbf545025dc6c|BN20240253|7.7.0.0|",
+				"addressLine": "2160 Sussex Ln",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "2160 Sussex Ln, Prince George, BC V2K 3K9, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2K 3K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.79006,
+					53.97503
+				]
+			},
+			"bbox": [
+				-122.7919714,
+				53.9739058,
+				-122.7881486,
+				53.9761542
+			]
+		}
+	]
+}

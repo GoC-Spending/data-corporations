@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1716 Cook St, Vancouver, BC V5Y 3J6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c18a3ae7b8434f4a845d62252f77afe3|BN20121762|7.7.0.0|",
+				"addressLine": "1716 Cook St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1716 Cook St, Vancouver, BC V5Y 3J6, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Southeast False Creek",
+				"postalCode": "V5Y 3J6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1104578,
+					49.2697425
+				]
+			},
+			"bbox": [
+				-123.1121806,
+				49.2686183,
+				-123.1087349,
+				49.2708666
+			]
+		}
+	]
+}

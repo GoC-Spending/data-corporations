@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "22 Westmount Rd, Guelph, ON N1H 5H2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a14468253d124573964fc467af2b6ae5|BN20130423|7.7.0.0|",
+				"addressLine": "22 Westmount Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "22 Westmount Rd, Guelph, ON N1H 5H2, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Downtown/Exhibition Park",
+				"postalCode": "N1H 5H2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.26542,
+					43.54663
+				]
+			},
+			"bbox": [
+				-80.266971,
+				43.5455058,
+				-80.263869,
+				43.5477542
+			]
+		}
+	]
+}

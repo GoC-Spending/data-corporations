@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1393 Perez Cres, Gloucester, ON K1J 8V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0965994a0ce744d29d137e2c1d321a63|BN20290118|7.7.0.0|",
+				"addressLine": "1393 Perez Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1393 Perez Cres, Gloucester, ON K1J 8V3, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1J 8V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6241085,
+					45.4276869
+				]
+			},
+			"bbox": [
+				-75.6257103,
+				45.4265627,
+				-75.6225067,
+				45.428811
+			]
+		}
+	]
+}

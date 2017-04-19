@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "570 Industrial Ave, Ottawa, ON K1G 0Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fcfead97f68146b6a19cce2298daa95d|BN20200137|7.7.0.0|",
+				"addressLine": "570 Industrial Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "570 Industrial Ave, Ottawa, ON K1G 0Y9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Elmvale-Eastway-Riverview",
+				"postalCode": "K1G 0Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6439662,
+					45.4112871
+				]
+			},
+			"bbox": [
+				-75.6455675,
+				45.4101629,
+				-75.6423649,
+				45.4124112
+			]
+		}
+	]
+}

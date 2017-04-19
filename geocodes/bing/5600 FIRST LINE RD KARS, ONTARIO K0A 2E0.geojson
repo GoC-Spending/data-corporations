@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5600 1st Line Rd, Ottawa, ON K0A, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3845338ccc35405f80acc4a9ec2db71e|BN20130632|7.7.0.0|",
+				"addressLine": "5600 1st Line Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "5600 1st Line Rd, Ottawa, ON K0A, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Manotick",
+				"postalCode": "K0A 2E0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.7086099,
+					45.21122
+				]
+			},
+			"bbox": [
+				-75.7102056,
+				45.2100958,
+				-75.7070142,
+				45.2123442
+			]
+		}
+	]
+}

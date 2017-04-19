@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "27 1st St E, Woolwich, ON N3B, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d2ee91ecb524f1ba8593c074b4d7aed|BN20300154|7.7.0.0|",
+				"addressLine": "27 1st St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "27 1st St E, Woolwich, ON N3B, Canada",
+				"locality": "Woolwich",
+				"neighborhood": "Elmira",
+				"postalCode": "N3B 2E6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5556,
+					43.59111
+				]
+			},
+			"bbox": [
+				-80.5571521,
+				43.5899858,
+				-80.5540479,
+				43.5922342
+			]
+		}
+	]
+}

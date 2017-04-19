@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1530 46e Avenue, Lachine, QC H8T 3J9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "82ed2735fd1344eca02446e3acb5907e|BN20260223|7.7.0.0|",
+				"addressLine": "1530 46e Avenue",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "1530 46e Avenue, Lachine, QC H8T 3J9, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Lachine",
+				"postalCode": "H8T 3J9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.70877,
+					45.45411
+				]
+			},
+			"bbox": [
+				-73.7103725,
+				45.4529858,
+				-73.7071675,
+				45.4552342
+			]
+		}
+	]
+}

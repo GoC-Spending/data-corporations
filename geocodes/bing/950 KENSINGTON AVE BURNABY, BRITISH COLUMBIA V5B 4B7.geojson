@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "950 Kensington Ave, Burnaby, BC V5B 4B7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a129f3107f214a58be4aae8c228a6196|BN20130631|7.7.0.0|",
+				"addressLine": "950 Kensington Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "950 Kensington Ave, Burnaby, BC V5B 4B7, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Lochdale",
+				"postalCode": "V5B 4B7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.96964,
+					49.27578
+				]
+			},
+			"bbox": [
+				-122.9713631,
+				49.2746558,
+				-122.9679169,
+				49.2769042
+			]
+		}
+	]
+}

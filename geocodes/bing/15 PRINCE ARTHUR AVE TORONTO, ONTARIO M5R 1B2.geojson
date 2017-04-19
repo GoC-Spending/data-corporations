@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15 Prince Arthur Ave, Toronto, ON M5R 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b39b9a23890b43c6aa9cd60ef154d3a1|BN20130632|7.7.0.0|",
+				"addressLine": "15 Prince Arthur Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "15 Prince Arthur Ave, Toronto, ON M5R 1B2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Annex",
+				"postalCode": "M5R 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.39574,
+					43.66941
+				]
+			},
+			"bbox": [
+				-79.3972941,
+				43.6682858,
+				-79.3941859,
+				43.6705342
+			]
+		}
+	]
+}

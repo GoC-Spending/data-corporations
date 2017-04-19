@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "71 Blake St E, Goderich, ON N7A 1C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "79ef1e4eb8404b9db956bc2daec19dd0|BN20190642|7.7.0.0|",
+				"addressLine": "71 Blake St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "71 Blake St E, Goderich, ON N7A 1C9, Canada",
+				"locality": "Goderich",
+				"postalCode": "N7A 1C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.70769,
+					43.73565
+				]
+			},
+			"bbox": [
+				-81.7092458,
+				43.7345258,
+				-81.7061342,
+				43.7367742
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Water St, Campbellton, NB E3N 1B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "574fcfe54dec4efcb0e69e65e7460c8b|BN20190642|7.7.0.0|",
+				"addressLine": "123 Water St",
+				"adminDistrict": "NB",
+				"adminDistrict2": "Restigouche",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Water St, Campbellton, NB E3N 1B2, Canada",
+				"locality": "Campbellton",
+				"postalCode": "E3N 1B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.67583,
+					48.0068399
+				]
+			},
+			"bbox": [
+				-66.6775102,
+				48.0057157,
+				-66.6741498,
+				48.0079641
+			]
+		}
+	]
+}

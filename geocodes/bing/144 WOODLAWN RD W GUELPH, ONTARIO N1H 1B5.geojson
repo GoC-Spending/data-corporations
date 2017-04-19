@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "144 Woodlawn Rd W, Guelph, ON N1H 1B5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c8f809cf07bd4226ba2ef3694e3397ae|BN20121763|7.7.0.0|",
+				"addressLine": "144 Woodlawn Rd W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "144 Woodlawn Rd W, Guelph, ON N1H 1B5, Canada",
+				"locality": "Guelph",
+				"neighborhood": "Willow West/Sugarbush",
+				"postalCode": "N1H 1B5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.28744,
+					43.55672
+				]
+			},
+			"bbox": [
+				-80.2889912,
+				43.5555958,
+				-80.2858888,
+				43.5578442
+			]
+		}
+	]
+}

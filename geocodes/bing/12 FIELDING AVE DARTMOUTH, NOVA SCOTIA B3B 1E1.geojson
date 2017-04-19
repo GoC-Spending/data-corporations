@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "12 Fielding Ave, Dartmouth, NS B3B 1E1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0c59c84baa8b425cae9a0e0ec59fd4d0|BN20130442|7.7.0.0|",
+				"addressLine": "12 Fielding Ave",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "12 Fielding Ave, Dartmouth, NS B3B 1E1, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3B 1E1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.60017,
+					44.7049499
+				]
+			},
+			"bbox": [
+				-63.6017517,
+				44.7038257,
+				-63.5985883,
+				44.7060741
+			]
+		}
+	]
+}

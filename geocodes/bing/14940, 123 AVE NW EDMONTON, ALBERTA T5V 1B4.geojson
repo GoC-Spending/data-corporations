@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "14940 123 Ave NW, Edmonton, AB T5V 1B4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6f7b4a75be7249d9beb7d7ea3b7662fa|BN20190642|7.7.0.0|",
+				"addressLine": "14940 123 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "14940 123 Ave NW, Edmonton, AB T5V 1B4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Gagnon Estate Industrial",
+				"postalCode": "T5V 1B4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.57997,
+					53.57707
+				]
+			},
+			"bbox": [
+				-113.5818633,
+				53.5759458,
+				-113.5780767,
+				53.5781942
+			]
+		}
+	]
+}

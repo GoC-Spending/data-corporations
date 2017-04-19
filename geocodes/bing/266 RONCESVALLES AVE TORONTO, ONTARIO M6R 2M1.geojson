@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "266 Roncesvalles Ave, Toronto, ON M6R 2M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9aa3281212f14e7c97f31916d751ebd2|BN20131519|7.7.0.0|",
+				"addressLine": "266 Roncesvalles Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "266 Roncesvalles Ave, Toronto, ON M6R 2M1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "High Park-Swansea",
+				"postalCode": "M6R 2M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44956,
+					43.64693
+				]
+			},
+			"bbox": [
+				-79.4511135,
+				43.6458058,
+				-79.4480065,
+				43.6480542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "585 Middlefield Rd, Scarborough, ON M1V 4Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a4f5344c5c1d4c95b4a9f8f624e11314|BN20171457|7.7.0.0|",
+				"addressLine": "585 Middlefield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "585 Middlefield Rd, Scarborough, ON M1V 4Y5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Milliken",
+				"postalCode": "M1V 4Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.25739,
+					43.81129
+				]
+			},
+			"bbox": [
+				-79.2589478,
+				43.8101658,
+				-79.2558322,
+				43.8124142
+			]
+		}
+	]
+}

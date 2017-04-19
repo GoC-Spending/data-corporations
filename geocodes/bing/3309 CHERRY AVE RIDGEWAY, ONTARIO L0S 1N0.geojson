@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3309 Cherry Ave, Ridgeway, ON L0S 1N0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a5b22104db6e461faa083eea30769d53|BN20130520|7.7.0.0|",
+				"addressLine": "3309 Cherry Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "3309 Cherry Ave, Ridgeway, ON L0S 1N0, Canada",
+				"locality": "Fort Erie",
+				"neighborhood": "Ridgeway",
+				"postalCode": "L0S 1N0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.03879,
+					42.90017
+				]
+			},
+			"bbox": [
+				-79.0403246,
+				42.8990458,
+				-79.0372554,
+				42.9012942
+			]
+		}
+	]
+}

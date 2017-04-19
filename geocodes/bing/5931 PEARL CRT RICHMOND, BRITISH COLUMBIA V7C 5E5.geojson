@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5931 Pearl Ct, Richmond, BC V7C 5E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de0f67794e024aef8db688c1684052ea|BN20130719|7.7.0.0|",
+				"addressLine": "5931 Pearl Ct",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "5931 Pearl Ct, Richmond, BC V7C 5E5, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Thompson",
+				"postalCode": "V7C 5E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.16378,
+					49.16718
+				]
+			},
+			"bbox": [
+				-123.1654993,
+				49.1660558,
+				-123.1620607,
+				49.1683042
+			]
+		}
+	]
+}

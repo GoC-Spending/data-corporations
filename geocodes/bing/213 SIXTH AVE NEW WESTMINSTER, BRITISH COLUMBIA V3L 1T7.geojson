@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "213 6th Ave, New Westminster, BC V3L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8d2f45d85be24b47af71c20e3228e3e2|BN20200137|7.7.0.0|",
+				"addressLine": "213 6th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "213 6th Ave, New Westminster, BC V3L, Canada",
+				"locality": "New Westminster",
+				"neighborhood": "Glenbrooke North",
+				"postalCode": "V3L 1T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.9143143,
+					49.2165783
+				]
+			},
+			"bbox": [
+				-122.9160353,
+				49.2154542,
+				-122.9125933,
+				49.2177025
+			]
+		}
+	]
+}

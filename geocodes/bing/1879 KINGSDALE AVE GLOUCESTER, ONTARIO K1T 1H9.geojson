@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1879 Kingsdale Ave, Gloucester, ON K1T 1H9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "13710d741da9499c9a0442ed255a9108|BN20130533|7.7.0.0|",
+				"addressLine": "1879 Kingsdale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "1879 Kingsdale Ave, Gloucester, ON K1T 1H9, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Gloucester",
+				"postalCode": "K1T 1H9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.61775,
+					45.35175
+				]
+			},
+			"bbox": [
+				-75.6193496,
+				45.3506258,
+				-75.6161504,
+				45.3528742
+			]
+		}
+	]
+}

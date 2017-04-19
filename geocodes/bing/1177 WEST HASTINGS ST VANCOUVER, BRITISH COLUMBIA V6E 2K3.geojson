@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1177 W Hastings St, Vancouver, BC V6E 2K3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ac5e6d47ed4f434b975a1b4649c68233|BN20130621|7.7.0.0|",
+				"addressLine": "1177 W Hastings St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1177 W Hastings St, Vancouver, BC V6E 2K3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6E 2K3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12198,
+					49.2888499
+				]
+			},
+			"bbox": [
+				-123.1237035,
+				49.2877257,
+				-123.1202565,
+				49.2899741
+			]
+		}
+	]
+}

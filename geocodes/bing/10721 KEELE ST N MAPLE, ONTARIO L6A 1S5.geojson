@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10721 Keele St, Maple, ON L6A 3Y9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a6f244e8fd64e95bdd4fb3b649ff06e|BN20121763|7.7.0.0|",
+				"addressLine": "10721 Keele St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "10721 Keele St, Maple, ON L6A 3Y9, Canada",
+				"locality": "Vaughan",
+				"neighborhood": "Maple",
+				"postalCode": "L6A 3Y9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.51566,
+					43.87288
+				]
+			},
+			"bbox": [
+				-79.5172194,
+				43.8717558,
+				-79.5141006,
+				43.8740042
+			]
+		}
+	]
+}

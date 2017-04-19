@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "750 Division St, Cobourg, ON K9A 5V7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f86243a820e448f080d3e0e3ff0e05f9|BN20121762|7.7.0.0|",
+				"addressLine": "750 Division St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "750 Division St, Cobourg, ON K9A 5V7, Canada",
+				"locality": "Cobourg",
+				"postalCode": "K9A 5V7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1705635,
+					43.9716245
+				]
+			},
+			"bbox": [
+				-78.1721255,
+				43.9705003,
+				-78.1690015,
+				43.9727486
+			]
+		}
+	]
+}

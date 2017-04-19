@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "118 Tower Hill Rd, Richmond Hill, ON L4E 0K6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "05f3342cfabb4fb3969cb7b3d2c23c2e|BN20320521|7.7.0.0|",
+				"addressLine": "118 Tower Hill Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "118 Tower Hill Rd, Richmond Hill, ON L4E 0K6, Canada",
+				"locality": "Richmond Hill",
+				"neighborhood": "Jefferson",
+				"postalCode": "L4E 0K6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44949,
+					43.9144
+				]
+			},
+			"bbox": [
+				-79.4510505,
+				43.9132758,
+				-79.4479295,
+				43.9155242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Automatic Rd, Brampton, ON L6S 5N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "889e22f3715a4225a1bf29239d29f0ab|BN20130423|7.7.0.0|",
+				"addressLine": "30 Automatic Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Automatic Rd, Brampton, ON L6S 5N8, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Castlemore",
+				"postalCode": "L6S 5N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.70971,
+					43.76038
+				]
+			},
+			"bbox": [
+				-79.7112665,
+				43.7592558,
+				-79.7081535,
+				43.7615042
+			]
+		}
+	]
+}

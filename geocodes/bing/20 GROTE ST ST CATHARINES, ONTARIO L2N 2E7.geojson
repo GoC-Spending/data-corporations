@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "20 Grote St, St Catharines, ON L2N 2E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "868709bda62243bd8fe925ed2456fdf8|BN20130632|7.7.0.0|",
+				"addressLine": "20 Grote St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "20 Grote St, St Catharines, ON L2N 2E7, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Fairview-Facer",
+				"postalCode": "L2N 2E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23955,
+					43.17739
+				]
+			},
+			"bbox": [
+				-79.2410915,
+				43.1762658,
+				-79.2380085,
+				43.1785142
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "13387 72 Ave, Surrey, BC V3W 2N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a83b35a03ac84fdc91c338ddb96b231d|BN20130620|7.7.0.0|",
+				"addressLine": "13387 72 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "13387 72 Ave, Surrey, BC V3W 2N5, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3W 2N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.85213,
+					49.13382
+				]
+			},
+			"bbox": [
+				-122.8538481,
+				49.1326958,
+				-122.8504119,
+				49.1349442
+			]
+		}
+	]
+}

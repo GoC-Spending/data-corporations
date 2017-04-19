@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "910 Hampton Ct NW, Edmonton, AB T6R 2S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8dd26ef1c8224bb79523c59f2d659223|BN20200137|7.7.0.0|",
+				"addressLine": "910 Hampton Ct NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "910 Hampton Ct NW, Edmonton, AB T6R 2S2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Haddow",
+				"postalCode": "T6R 2S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.59978,
+					53.45968
+				]
+			},
+			"bbox": [
+				-113.6016681,
+				53.4585558,
+				-113.5978919,
+				53.4608042
+			]
+		}
+	]
+}

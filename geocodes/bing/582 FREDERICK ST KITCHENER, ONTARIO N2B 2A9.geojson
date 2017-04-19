@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "582 Frederick St, Kitchener, ON N2B 2A9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9bffe37103a2430e90a1f7ff147a86df|BN20130532|7.7.0.0|",
+				"addressLine": "582 Frederick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "582 Frederick St, Kitchener, ON N2B 2A9, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Rosemount",
+				"postalCode": "N2B 2A9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.46799,
+					43.46037
+				]
+			},
+			"bbox": [
+				-80.4695387,
+				43.4592458,
+				-80.4664413,
+				43.4614942
+			]
+		}
+	]
+}

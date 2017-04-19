@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "264 4th Ave, Ottawa, ON K1S, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b093b45d930e40e18b42a7141f87eb00|BN20130423|7.7.0.0|",
+				"addressLine": "264 4th Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "264 4th Ave, Ottawa, ON K1S, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Glebe-Dows Lake",
+				"postalCode": "K1S 2M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69769,
+					45.39802
+				]
+			},
+			"bbox": [
+				-75.699291,
+				45.3968958,
+				-75.696089,
+				45.3991442
+			]
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "RoadBlock",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "RTE-116, Danville, QC J0A 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb168ddbad894a649f42d06966e46c51|BN20130533|7.7.0.0|",
+				"addressLine": "RTE-116",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Les Sources",
+				"countryRegion": "Canada",
+				"formattedAddress": "RTE-116, Danville, QC J0A 1A0, Canada",
+				"locality": "Danville",
+				"postalCode": "J0A 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.0320874,
+					45.8450271
+				]
+			},
+			"bbox": [
+				-72.07912,
+				45.7333,
+				-72.00295,
+				45.84919
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "55 RTE-116, Kingsey Falls, QC J0A 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cb168ddbad894a649f42d06966e46c51|BN20130533|7.7.0.0|",
+				"addressLine": "55 RTE-116",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Arthabaska County",
+				"countryRegion": "Canada",
+				"formattedAddress": "55 RTE-116, Kingsey Falls, QC J0A 1A0, Canada",
+				"locality": "Kingsey Falls",
+				"postalCode": "J0A 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.0358436,
+					45.8519142
+				]
+			},
+			"bbox": [
+				-72.0374576,
+				45.85079,
+				-72.0342296,
+				45.8530383
+			]
+		}
+	]
+}

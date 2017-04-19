@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "330 Philip Lee Dr, Winnipeg, MB R3W 0J4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "343acf0336fd4153a58e62860f069465|BN20130520|7.7.0.0|",
+				"addressLine": "330 Philip Lee Dr",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "330 Philip Lee Dr, Winnipeg, MB R3W 0J4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Peguis",
+				"postalCode": "R3W 0J4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.0480406,
+					49.9091058
+				]
+			},
+			"bbox": [
+				-97.0497862,
+				49.9079817,
+				-97.046295,
+				49.91023
+			]
+		}
+	]
+}

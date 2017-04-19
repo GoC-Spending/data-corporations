@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Hastings, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6421b828b4449ab8ad032232063d5db|BN20131519|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "Hastings, Ontario, Canada",
+				"locality": "Hastings"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.9566192626953,
+					44.3092803955078
+				]
+			},
+			"bbox": [
+				-77.9636535644531,
+				44.2998085021973,
+				-77.9480514526367,
+				44.3145599365234
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Trent Hills, K0L 1Y0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a6421b828b4449ab8ad032232063d5db|BN20131519|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Northumberland",
+				"countryRegion": "Canada",
+				"formattedAddress": "Trent Hills, K0L 1Y0, Canada",
+				"locality": "Trent Hills",
+				"postalCode": "K0L 1Y0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.9175415039063,
+					44.3062477111816
+				]
+			},
+			"bbox": [
+				-77.9247380270575,
+				44.302384993611,
+				-77.910344980755,
+				44.3101104287523
+			]
+		}
+	]
+}

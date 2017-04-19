@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Baker Rd, Brampton, ON L6T 4E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0c9d442756b49aea9d77689290739d2|BN20220145|7.7.0.0|",
+				"addressLine": "4 Baker Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Baker Rd, Brampton, ON L6T 4E3, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6T 4E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.69771,
+					43.73176
+				]
+			},
+			"bbox": [
+				-79.6992657,
+				43.7306358,
+				-79.6961543,
+				43.7328842
+			]
+		}
+	]
+}

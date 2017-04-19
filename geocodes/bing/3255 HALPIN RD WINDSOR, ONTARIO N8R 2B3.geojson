@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3255 Halpin Rd, Windsor, ON N8R 2B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e9c39781770f471e88cd3cc36da36971|BN20240423|7.7.0.0|",
+				"addressLine": "3255 Halpin Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3255 Halpin Rd, Windsor, ON N8R 2B3, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Forest Glade",
+				"postalCode": "N8R 2B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.90945,
+					42.30359
+				]
+			},
+			"bbox": [
+				-82.91097,
+				42.3024658,
+				-82.90793,
+				42.3047142
+			]
+		}
+	]
+}

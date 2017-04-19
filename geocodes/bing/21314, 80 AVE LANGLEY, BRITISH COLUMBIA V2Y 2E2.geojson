@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "21314 80 Ave, Langley, BC V2Y 2E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75de9657f0c841cc8747521b6f271c07|BN20260231|7.7.0.0|",
+				"addressLine": "21314 80 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "21314 80 Ave, Langley, BC V2Y 2E2, Canada",
+				"locality": "Langley",
+				"neighborhood": "Langley",
+				"postalCode": "V2Y 2E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6319,
+					49.14663
+				]
+			},
+			"bbox": [
+				-122.6336186,
+				49.1455058,
+				-122.6301814,
+				49.1477542
+			]
+		}
+	]
+}

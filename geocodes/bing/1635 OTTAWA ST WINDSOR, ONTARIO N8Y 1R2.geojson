@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1635 Ottawa St, Windsor, ON N8Y 1R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "556c738d97b2483f88f72d53cb93f075|BN20300154|7.7.0.0|",
+				"addressLine": "1635 Ottawa St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1635 Ottawa St, Windsor, ON N8Y 1R2, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Walkerville",
+				"postalCode": "N8Y 1R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.0086292,
+					42.310975
+				]
+			},
+			"bbox": [
+				-83.0101494,
+				42.3098509,
+				-83.0071091,
+				42.3120992
+			]
+		}
+	]
+}

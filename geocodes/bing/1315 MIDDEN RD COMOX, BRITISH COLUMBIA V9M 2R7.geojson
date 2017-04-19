@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1315 Midden Rd, Comox, BC V9M 2R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "905deb6c5c8043e6a20956567e28bef3|BN20121762|7.7.0.0|",
+				"addressLine": "1315 Midden Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Comox Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "1315 Midden Rd, Comox, BC V9M 2R7, Canada",
+				"locality": "Comox Valley",
+				"neighborhood": "Comox",
+				"postalCode": "V9M 2R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.9073735,
+					49.6700679
+				]
+			},
+			"bbox": [
+				-124.9091105,
+				49.6689438,
+				-124.9056365,
+				49.6711921
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23370 Fishermans Rd, Maple Ridge, BC V2W, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9f170192d3774ca7b78fed5d796c7f9f|BN20171457|7.7.0.0|",
+				"addressLine": "23370 Fishermans Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "23370 Fishermans Rd, Maple Ridge, BC V2W, Canada",
+				"locality": "Maple Ridge",
+				"postalCode": "V2W 1B9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.57517,
+					49.18876
+				]
+			},
+			"bbox": [
+				-122.57689,
+				49.1876358,
+				-122.57345,
+				49.1898842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "108 Royal York Rd, Etobicoke, ON M8V 2V1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "159f7ecaf2ec4bd78fa5df43d62cab0d|BN20130631|7.7.0.0|",
+				"addressLine": "108 Royal York Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "108 Royal York Rd, Etobicoke, ON M8V 2V1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mimico",
+				"postalCode": "M8V 2V1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.49515,
+					43.60797
+				]
+			},
+			"bbox": [
+				-79.4967025,
+				43.6068458,
+				-79.4935975,
+				43.6090942
+			]
+		}
+	]
+}

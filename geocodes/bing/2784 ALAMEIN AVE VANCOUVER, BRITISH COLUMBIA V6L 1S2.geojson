@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2784 Alamein Ave, Vancouver, BC V6L 1S2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab8d328fb5524f3f8919e2e70f978928|BN20181720|7.7.0.0|",
+				"addressLine": "2784 Alamein Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2784 Alamein Ave, Vancouver, BC V6L 1S2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Arbutus Ridge",
+				"postalCode": "V6L 1S2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1672893,
+					49.2499351
+				]
+			},
+			"bbox": [
+				-123.1690115,
+				49.248811,
+				-123.1655672,
+				49.2510593
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "48421 Range Road 42, Brazeau County, AB T0C, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fd22eb273c2548f39a8e9cce7c91319e|BN20130631|7.7.0.0|",
+				"addressLine": "48421 Range Road 42",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "48421 Range Road 42, Brazeau County, AB T0C, Canada",
+				"locality": "Brazeau County",
+				"postalCode": "T0C 0P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.4889951,
+					53.1688804
+				]
+			},
+			"bbox": [
+				-114.4908704,
+				53.1677562,
+				-114.4871198,
+				53.1700045
+			]
+		}
+	]
+}

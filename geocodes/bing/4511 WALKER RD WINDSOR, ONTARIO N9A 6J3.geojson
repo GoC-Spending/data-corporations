@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4511 Walker Rd, Windsor, ON N8W 3T6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9099928ebb0a4599a863bc36a7e3b19e|BN20240253|7.7.0.0|",
+				"addressLine": "4511 Walker Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "4511 Walker Rd, Windsor, ON N8W 3T6, Canada",
+				"locality": "Windsor",
+				"neighborhood": "Devonshire",
+				"postalCode": "N8W 3T6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.96456,
+					42.25368
+				]
+			},
+			"bbox": [
+				-82.9660788,
+				42.2525558,
+				-82.9630412,
+				42.2548042
+			]
+		}
+	]
+}

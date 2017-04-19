@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "421 Eglinton Ave E, Toronto, ON M4P 1M6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95df1ca917f3422484e32b8f62f005c0|BN20181720|7.7.0.0|",
+				"addressLine": "421 Eglinton Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "421 Eglinton Ave E, Toronto, ON M4P 1M6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4P 1M6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3836,
+					43.7095
+				]
+			},
+			"bbox": [
+				-79.3851552,
+				43.7083758,
+				-79.3820448,
+				43.7106242
+			]
+		}
+	]
+}

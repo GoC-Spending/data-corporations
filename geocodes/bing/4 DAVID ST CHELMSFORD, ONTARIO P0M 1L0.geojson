@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 David St, Chelmsford, ON P0M 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1f2d98b7da2f48a5987a0fe31c3bae34|BN20130442|7.7.0.0|",
+				"addressLine": "4 David St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 David St, Chelmsford, ON P0M 1L0, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Chelmsford",
+				"postalCode": "P0M 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2031499,
+					46.5810699
+				]
+			},
+			"bbox": [
+				-81.2047854,
+				46.5799457,
+				-81.2015144,
+				46.5821941
+			]
+		}
+	]
+}

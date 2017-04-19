@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "398 McCann Rd, Carleton Place, ON K7C 0C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "661db0889bca435cbd46ba92982964dc|BN20181720|7.7.0.0|",
+				"addressLine": "398 McCann Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Lanark",
+				"countryRegion": "Canada",
+				"formattedAddress": "398 McCann Rd, Carleton Place, ON K7C 0C5, Canada",
+				"locality": "Beckwith",
+				"neighborhood": "Carleton Place",
+				"postalCode": "K7C 0C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.19819,
+					45.11014
+				]
+			},
+			"bbox": [
+				-76.1997829,
+				45.1090158,
+				-76.1965971,
+				45.1112642
+			]
+		}
+	]
+}

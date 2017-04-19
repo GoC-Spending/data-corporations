@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Norfolk, N0E 1Z0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6458cce987bc4d49a2310a192b3500c5|BN20250135|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "Norfolk, N0E 1Z0, Canada",
+				"locality": "Norfolk",
+				"postalCode": "N0E 1Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3580551147461,
+					42.9806861877441
+				]
+			},
+			"bbox": [
+				-80.3650945930608,
+				42.9768234701735,
+				-80.3510156364314,
+				42.9845489053148
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Neighborhood",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Wilsonville, Norfolk, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6458cce987bc4d49a2310a192b3500c5|BN20250135|7.7.0.0|",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Norfolk",
+				"countryRegion": "Canada",
+				"formattedAddress": "Wilsonville, Norfolk, Ontario, Canada",
+				"locality": "Norfolk",
+				"neighborhood": "Wilsonville"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3176574707031,
+					42.9954299926758
+				]
+			},
+			"bbox": [
+				-80.324698637495,
+				42.9915672751051,
+				-80.3106163039112,
+				42.9992927102465
+			]
+		}
+	]
+}

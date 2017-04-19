@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "201 Selby St, Nanaimo, BC V9R 2R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "43197e0731d34c448b0bc27b4d224d43|BN20260223|7.7.0.0|",
+				"addressLine": "201 Selby St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "201 Selby St, Nanaimo, BC V9R 2R2, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 2R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.94369,
+					49.16637
+				]
+			},
+			"bbox": [
+				-123.9454092,
+				49.1652458,
+				-123.9419708,
+				49.1674942
+			]
+		}
+	]
+}

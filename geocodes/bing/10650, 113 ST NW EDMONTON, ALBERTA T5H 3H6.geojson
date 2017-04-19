@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10650 113 St NW, Edmonton, AB T5H 3H6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "68f507c9ca6f4782938d4333b9299c15|BN20130520|7.7.0.0|",
+				"addressLine": "10650 113 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10650 113 St NW, Edmonton, AB T5H 3H6, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Queen Mary Park",
+				"postalCode": "T5H 3H6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.51619,
+					53.55125
+				]
+			},
+			"bbox": [
+				-113.5180822,
+				53.5501258,
+				-113.5142978,
+				53.5523742
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Vancouver, V6E 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b91b45161144b37b6cc05fc97652d17|BN20130447|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Vancouver, V6E 3P3, Canada",
+				"locality": "Vancouver",
+				"postalCode": "V6E 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.113357543945,
+					49.2603797912598
+				]
+			},
+			"bbox": [
+				-123.121248609661,
+				49.2565170736891,
+				-123.105466478229,
+				49.2642425088304
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "New York, NY 11102",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5b91b45161144b37b6cc05fc97652d17|BN20130447|7.7.0.0|",
+				"adminDistrict": "NY",
+				"countryRegion": "United States",
+				"formattedAddress": "New York, NY 11102",
+				"locality": "New York",
+				"postalCode": "11102"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.9242782592773,
+					40.7710266113281
+				]
+			},
+			"bbox": [
+				-73.9378814697266,
+				40.7631988525391,
+				-73.914306640625,
+				40.7783584594727
+			]
+		}
+	]
+}

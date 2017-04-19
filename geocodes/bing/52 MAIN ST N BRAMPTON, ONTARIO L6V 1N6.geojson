@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "52 Main St N, Brampton, ON L6V 1N6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "89c5d96ac421408496a38e0c16f8d439|BN20121764|7.7.0.0|",
+				"addressLine": "52 Main St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "52 Main St N, Brampton, ON L6V 1N6, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Downtown Brampton",
+				"postalCode": "L6V 1N6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.76069,
+					43.68673
+				]
+			},
+			"bbox": [
+				-79.7622446,
+				43.6856058,
+				-79.7591354,
+				43.6878542
+			]
+		}
+	]
+}

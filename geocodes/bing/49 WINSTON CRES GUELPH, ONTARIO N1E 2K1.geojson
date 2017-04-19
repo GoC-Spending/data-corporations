@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "49 Winston Cres, Guelph, ON N1E 2K1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27239b40a646446dbc7d06262fadc754|BN20300154|7.7.0.0|",
+				"addressLine": "49 Winston Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "49 Winston Cres, Guelph, ON N1E 2K1, Canada",
+				"locality": "Guelph",
+				"neighborhood": "St Georges/St Patricks",
+				"postalCode": "N1E 2K1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2430399,
+					43.55485
+				]
+			},
+			"bbox": [
+				-80.2445911,
+				43.5537258,
+				-80.2414887,
+				43.5559742
+			]
+		}
+	]
+}

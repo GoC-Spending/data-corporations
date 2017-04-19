@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "678 Harper St, Prince George, BC V2M 2W5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7cc852e2ccbd44908fbdb51cb50d5a14|BN20130625|7.7.0.0|",
+				"addressLine": "678 Harper St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "678 Harper St, Prince George, BC V2M 2W5, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2M 2W5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.7765951,
+					53.9189044
+				]
+			},
+			"bbox": [
+				-122.7785039,
+				53.9177802,
+				-122.7746863,
+				53.9200285
+			]
+		}
+	]
+}

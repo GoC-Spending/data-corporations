@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "222 Victoria St S, Kitchener, ON N2G 2C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5a4f37b03e224ebab94896ac144288c2|BN20130625|7.7.0.0|",
+				"addressLine": "222 Victoria St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "222 Victoria St S, Kitchener, ON N2G 2C2, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Cherry Hill",
+				"postalCode": "N2G 2C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.50462,
+					43.44682
+				]
+			},
+			"bbox": [
+				-80.5061684,
+				43.4456958,
+				-80.5030716,
+				43.4479442
+			]
+		}
+	]
+}

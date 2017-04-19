@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "453 Laurier Ave E, Ottawa, ON K1N 6R4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e75bd560797f43108d7eb4e348cdd2eb|BN20210145|7.7.0.0|",
+				"addressLine": "453 Laurier Ave E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "453 Laurier Ave E, Ottawa, ON K1N 6R4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Sandy Hill-Ottawa East-Ottawa U",
+				"postalCode": "K1N 6R4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67471,
+					45.4291
+				]
+			},
+			"bbox": [
+				-75.6763118,
+				45.4279758,
+				-75.6731082,
+				45.4302242
+			]
+		}
+	]
+}

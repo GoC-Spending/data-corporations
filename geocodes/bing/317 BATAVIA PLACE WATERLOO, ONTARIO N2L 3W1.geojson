@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "317 Batavia Pl, Waterloo, ON N2L 3W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f95dd235e24a491880a27bb6a8e32e58|BN20121764|7.7.0.0|",
+				"addressLine": "317 Batavia Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "317 Batavia Pl, Waterloo, ON N2L 3W1, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 3W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.53596,
+					43.47707
+				]
+			},
+			"bbox": [
+				-80.5375092,
+				43.4759458,
+				-80.5344108,
+				43.4781942
+			]
+		}
+	]
+}

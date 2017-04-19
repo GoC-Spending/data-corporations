@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "345 Rue Marion, Repentigny, QC J5Z 4W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9e9afad4d7e4a779123c9316c7eb0f1|BN20300154|7.7.0.0|",
+				"addressLine": "345 Rue Marion",
+				"adminDistrict": "QC",
+				"adminDistrict2": "L'Assomption",
+				"countryRegion": "Canada",
+				"formattedAddress": "345 Rue Marion, Repentigny, QC J5Z 4W8, Canada",
+				"locality": "Repentigny",
+				"neighborhood": "Le Gardeur",
+				"postalCode": "J5Z 4W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.48641,
+					45.75705
+				]
+			},
+			"bbox": [
+				-73.4880212,
+				45.7559258,
+				-73.4847988,
+				45.7581742
+			]
+		}
+	]
+}

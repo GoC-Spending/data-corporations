@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1930 Derry Rd E, Mississauga, ON L5S 1E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2c46db62a19645a1ba6bb38d3c63b01b|BN20130625|7.7.0.0|",
+				"addressLine": "1930 Derry Rd E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "1930 Derry Rd E, Mississauga, ON L5S 1E2, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Toronto Pearson Int'l Airport",
+				"postalCode": "L5S 1E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.66357,
+					43.68345
+				]
+			},
+			"bbox": [
+				-79.6651245,
+				43.6823258,
+				-79.6620155,
+				43.6845742
+			]
+		}
+	]
+}

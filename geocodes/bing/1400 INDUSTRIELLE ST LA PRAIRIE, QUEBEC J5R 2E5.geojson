@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1400 Rue Industrielle, La Prairie, QC J5R 2E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95eb454868404d8eab52a15cffd83dcd|BN20130634|7.7.0.0|",
+				"addressLine": "1400 Rue Industrielle",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Roussillon",
+				"countryRegion": "Canada",
+				"formattedAddress": "1400 Rue Industrielle, La Prairie, QC J5R 2E5, Canada",
+				"locality": "La Prairie",
+				"postalCode": "J5R 2E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.4977688,
+					45.3999894
+				]
+			},
+			"bbox": [
+				-73.4993698,
+				45.3988652,
+				-73.4961678,
+				45.4011135
+			]
+		}
+	]
+}

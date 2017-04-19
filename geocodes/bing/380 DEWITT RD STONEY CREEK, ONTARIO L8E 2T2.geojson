@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "380 Dewitt Rd, Stoney Creek, ON L8E 2T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "40d0f83fb7764e11b7b5416ca9262427|BN20130634|7.7.0.0|",
+				"addressLine": "380 Dewitt Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "380 Dewitt Rd, Stoney Creek, ON L8E 2T2, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Stoney Creek",
+				"postalCode": "L8E 2T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.7067299,
+					43.2288799
+				]
+			},
+			"bbox": [
+				-79.7082727,
+				43.2277557,
+				-79.7051871,
+				43.2300041
+			]
+		}
+	]
+}

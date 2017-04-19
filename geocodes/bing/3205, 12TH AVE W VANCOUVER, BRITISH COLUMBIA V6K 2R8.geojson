@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3205 W 12th Ave, Vancouver, BC V6K 2R8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91f72d24bc8748b18316412924c97e8a|BN20130431|7.7.0.0|",
+				"addressLine": "3205 W 12th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "3205 W 12th Ave, Vancouver, BC V6K 2R8, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Arbutus Ridge",
+				"postalCode": "V6K 2R8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.17623,
+					49.26176
+				]
+			},
+			"bbox": [
+				-123.1779526,
+				49.2606358,
+				-123.1745074,
+				49.2628842
+			]
+		}
+	]
+}

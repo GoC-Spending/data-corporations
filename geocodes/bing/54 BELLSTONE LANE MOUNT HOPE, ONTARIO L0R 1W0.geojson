@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "54 Bellstone Ln, Mt Hope, ON L0R 1W0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d9e1d5f95f648d1b36c0896fe3c255a|BN20220145|7.7.0.0|",
+				"addressLine": "54 Bellstone Ln",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Hamilton",
+				"countryRegion": "Canada",
+				"formattedAddress": "54 Bellstone Ln, Mt Hope, ON L0R 1W0, Canada",
+				"locality": "Hamilton",
+				"neighborhood": "Mt Hope",
+				"postalCode": "L0R 1W0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.9285699,
+					43.20233
+				]
+			},
+			"bbox": [
+				-79.9301121,
+				43.2012058,
+				-79.9270277,
+				43.2034542
+			]
+		}
+	]
+}

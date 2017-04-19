@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "450 Erb St W, Waterloo, ON N2T 1H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "daa69f6a94234e2cbca9bbc5ddf6e84f|BN20130632|7.7.0.0|",
+				"addressLine": "450 Erb St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "450 Erb St W, Waterloo, ON N2T 1H4, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2T 1H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.55594,
+					43.45292
+				]
+			},
+			"bbox": [
+				-80.5574885,
+				43.4517958,
+				-80.5543915,
+				43.4540442
+			]
+		}
+	]
+}

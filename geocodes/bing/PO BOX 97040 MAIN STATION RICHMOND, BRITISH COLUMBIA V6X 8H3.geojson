@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Richmond, V6X 8H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d42d0f87a9242f68c4d7ad88fe0baf7|BN20131519|7.7.0.0|",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "Richmond, V6X 8H3, Canada",
+				"locality": "Richmond",
+				"postalCode": "V6X 8H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.136642456055,
+					49.1633491516113
+				]
+			},
+			"bbox": [
+				-123.144518050751,
+				49.1594864340407,
+				-123.128766861358,
+				49.167211869182
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 2,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Mosier, OR 97040",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d42d0f87a9242f68c4d7ad88fe0baf7|BN20131519|7.7.0.0|",
+				"adminDistrict": "OR",
+				"adminDistrict2": "Wasco",
+				"countryRegion": "United States",
+				"formattedAddress": "Mosier, OR 97040",
+				"locality": "Mosier",
+				"postalCode": "97040"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.393829345703,
+					45.6825561523438
+				]
+			},
+			"bbox": [
+				-121.441848754883,
+				45.5200805664063,
+				-121.308517456055,
+				45.704948425293
+			]
+		}
+	]
+}

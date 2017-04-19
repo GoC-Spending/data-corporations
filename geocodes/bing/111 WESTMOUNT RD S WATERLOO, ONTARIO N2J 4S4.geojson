@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "111 Westmount Rd S, Waterloo, ON N2L 2L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99a49752e37b46aabf740a351ded9954|BN20130423|7.7.0.0|",
+				"addressLine": "111 Westmount Rd S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "111 Westmount Rd S, Waterloo, ON N2L 2L6, Canada",
+				"locality": "Waterloo",
+				"postalCode": "N2L 2L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5299,
+					43.45378
+				]
+			},
+			"bbox": [
+				-80.5314486,
+				43.4526558,
+				-80.5283514,
+				43.4549042
+			]
+		}
+	]
+}

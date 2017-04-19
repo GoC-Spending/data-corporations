@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "542 Keele St, Toronto, ON M6N 3E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a6b9eaf516c45ffafd8cbe30d87066b|BN20130431|7.7.0.0|",
+				"addressLine": "542 Keele St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "542 Keele St, Toronto, ON M6N 3E2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Junction Area",
+				"postalCode": "M6N 3E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4673399,
+					43.6702
+				]
+			},
+			"bbox": [
+				-79.468894,
+				43.6690758,
+				-79.4657858,
+				43.6713242
+			]
+		}
+	]
+}

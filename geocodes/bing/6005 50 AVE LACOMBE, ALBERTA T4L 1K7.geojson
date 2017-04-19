@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "6005 50 Ave, Lacombe, AB T4L 1K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe6100fee62d41fb84cf64a541b22193|BN20290118|7.7.0.0|",
+				"addressLine": "6005 50 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "6005 50 Ave, Lacombe, AB T4L 1K7, Canada",
+				"locality": "Lacombe",
+				"postalCode": "T4L 1K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.7519082,
+					52.4629549
+				]
+			},
+			"bbox": [
+				-113.7537532,
+				52.4618307,
+				-113.7500631,
+				52.464079
+			]
+		}
+	]
+}

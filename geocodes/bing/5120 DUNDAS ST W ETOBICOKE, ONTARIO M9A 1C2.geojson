@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5120 Dundas St W, Etobicoke, ON M9A 1C2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7d088678ddc04dcc8b3ed192a37e0a43|BN20130532|7.7.0.0|",
+				"addressLine": "5120 Dundas St W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "5120 Dundas St W, Etobicoke, ON M9A 1C2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M9A 1C2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.53314,
+					43.64454
+				]
+			},
+			"bbox": [
+				-79.5346935,
+				43.6434158,
+				-79.5315865,
+				43.6456642
+			]
+		}
+	]
+}

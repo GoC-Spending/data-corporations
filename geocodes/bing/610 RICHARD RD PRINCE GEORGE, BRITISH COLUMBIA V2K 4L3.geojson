@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "610 Richard Rd, Prince George, BC V2K 4L3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b67adbb80b114868875979b8ef4e4441|BN20130719|7.7.0.0|",
+				"addressLine": "610 Richard Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser-Fort George",
+				"countryRegion": "Canada",
+				"formattedAddress": "610 Richard Rd, Prince George, BC V2K 4L3, Canada",
+				"locality": "Prince George",
+				"postalCode": "V2K 4L3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.77656,
+					53.92982
+				]
+			},
+			"bbox": [
+				-122.7784693,
+				53.9286958,
+				-122.7746507,
+				53.9309442
+			]
+		}
+	]
+}

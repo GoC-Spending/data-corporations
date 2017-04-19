@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1275 Highbury Ave N, London, ON N5Y 1A8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39cf01d637fa4e1885e40d6722c10f1a|BN20131519|7.7.0.0|",
+				"addressLine": "1275 Highbury Ave N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "1275 Highbury Ave N, London, ON N5Y 1A8, Canada",
+				"locality": "London",
+				"neighborhood": "Huron Heights",
+				"postalCode": "N5Y 1A8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2155603,
+					43.0197124
+				]
+			},
+			"bbox": [
+				-81.2170978,
+				43.0185882,
+				-81.2140227,
+				43.0208365
+			]
+		}
+	]
+}

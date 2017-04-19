@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "15151 64 Ave, Surrey, BC V3S 1X9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a928a3af53b547d381e0ad870d1e33b0|BN20130431|7.7.0.0|",
+				"addressLine": "15151 64 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "15151 64 Ave, Surrey, BC V3S 1X9, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Newton",
+				"postalCode": "V3S 1X9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.80237,
+					49.11923
+				]
+			},
+			"bbox": [
+				-122.8040876,
+				49.1181058,
+				-122.8006524,
+				49.1203542
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19787 56 Ave, Langley, BC V3A 3X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "825243fc946d41bdad71bd58a78e6a48|BN20130533|7.7.0.0|",
+				"addressLine": "19787 56 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19787 56 Ave, Langley, BC V3A 3X8, Canada",
+				"locality": "Langley",
+				"neighborhood": "Nicomeki",
+				"postalCode": "V3A 3X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6737621,
+					49.1045249
+				]
+			},
+			"bbox": [
+				-122.6754792,
+				49.1034007,
+				-122.672045,
+				49.105649
+			]
+		}
+	]
+}

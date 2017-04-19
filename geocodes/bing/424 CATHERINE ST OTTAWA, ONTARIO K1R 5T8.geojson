@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "424 Catherine St, Ottawa, ON K1R 5T8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6e6c19d9807a43a7ab14b6426fd20d77|BN20130620|7.7.0.0|",
+				"addressLine": "424 Catherine St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "424 Catherine St, Ottawa, ON K1R 5T8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Centretown-Downtown",
+				"postalCode": "K1R 5T8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.69945,
+					45.4062
+				]
+			},
+			"bbox": [
+				-75.7010512,
+				45.4050758,
+				-75.6978488,
+				45.4073242
+			]
+		}
+	]
+}

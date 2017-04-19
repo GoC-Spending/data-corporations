@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 Centennial Rd, Kitchener, ON N2B 3G1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d384f33c951a442a816843e6bb0af327|BN20130521|7.7.0.0|",
+				"addressLine": "10 Centennial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 Centennial Rd, Kitchener, ON N2B 3G1, Canada",
+				"locality": "Kitchener",
+				"neighborhood": "Grand River North",
+				"postalCode": "N2B 3G1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.43266,
+					43.47157
+				]
+			},
+			"bbox": [
+				-80.434209,
+				43.4704458,
+				-80.431111,
+				43.4726942
+			]
+		}
+	]
+}

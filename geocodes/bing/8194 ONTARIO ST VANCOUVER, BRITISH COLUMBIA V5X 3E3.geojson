@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "8194 Ontario St, Vancouver, BC V5X 3E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "111f837d7af44e878e60e662b6556228|BN20210145|7.7.0.0|",
+				"addressLine": "8194 Ontario St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "8194 Ontario St, Vancouver, BC V5X 3E3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Sunset",
+				"postalCode": "V5X 3E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.10623,
+					49.21073
+				]
+			},
+			"bbox": [
+				-123.1079508,
+				49.2096058,
+				-123.1045092,
+				49.2118542
+			]
+		}
+	]
+}

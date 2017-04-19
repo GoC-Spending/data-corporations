@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "182 E 15th Ave, Vancouver, BC V5T 4R3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fe500989e6344ad29413268feb37c05c|BN20320521|7.7.0.0|",
+				"addressLine": "182 E 15th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "182 E 15th Ave, Vancouver, BC V5T 4R3, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Mt Pleasant",
+				"postalCode": "V5T 4R3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1015325,
+					49.2573751
+				]
+			},
+			"bbox": [
+				-123.1032549,
+				49.256251,
+				-123.0998101,
+				49.2584993
+			]
+		}
+	]
+}

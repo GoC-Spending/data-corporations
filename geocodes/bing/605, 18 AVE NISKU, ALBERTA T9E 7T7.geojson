@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "605 18 Ave, Nisku, AB T9E 7T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e8123209d3be48f49ea81766d7f3f1a0|BN20240253|7.7.0.0|",
+				"addressLine": "605 18 Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "605 18 Ave, Nisku, AB T9E 7T7, Canada",
+				"locality": "Leduc County",
+				"neighborhood": "Nisku",
+				"postalCode": "T9E 7T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.5221,
+					53.33254
+				]
+			},
+			"bbox": [
+				-113.5239825,
+				53.3314158,
+				-113.5202175,
+				53.3336642
+			]
+		}
+	]
+}

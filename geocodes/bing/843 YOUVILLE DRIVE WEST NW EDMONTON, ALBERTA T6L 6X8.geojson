@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "843 Youville Drive West NW, Edmonton, AB T6L 6X8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "91421054bee142e98b09b9e96f494b16|BN20260223|7.7.0.0|",
+				"addressLine": "843 Youville Drive West NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "843 Youville Drive West NW, Edmonton, AB T6L 6X8, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Tawa",
+				"postalCode": "T6L 6X8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4297794,
+					53.4640637
+				]
+			},
+			"bbox": [
+				-113.4316677,
+				53.4629395,
+				-113.4278911,
+				53.4651878
+			]
+		}
+	]
+}

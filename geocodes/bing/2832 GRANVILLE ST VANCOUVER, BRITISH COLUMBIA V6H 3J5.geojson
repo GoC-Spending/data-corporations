@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2832 Granville St, Vancouver, BC V6H 3J5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c51d1c085cce4afda8f03420ff50c349|BN20130532|7.7.0.0|",
+				"addressLine": "2832 Granville St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "2832 Granville St, Vancouver, BC V6H 3J5, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "South Granville",
+				"postalCode": "V6H 3J5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.13828,
+					49.26016
+				]
+			},
+			"bbox": [
+				-123.1400025,
+				49.2590358,
+				-123.1365575,
+				49.2612842
+			]
+		}
+	]
+}

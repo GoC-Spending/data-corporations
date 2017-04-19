@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "68 Pellan Way, Kanata, ON K2K 1J8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f2c657b242ea4c29be1dd2f3f3eb17c3|BN20130521|7.7.0.0|",
+				"addressLine": "68 Pellan Way",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "68 Pellan Way, Kanata, ON K2K 1J8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Kanata",
+				"postalCode": "K2K 1J8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.90686,
+					45.3283
+				]
+			},
+			"bbox": [
+				-75.908459,
+				45.3271758,
+				-75.905261,
+				45.3294242
+			]
+		}
+	]
+}

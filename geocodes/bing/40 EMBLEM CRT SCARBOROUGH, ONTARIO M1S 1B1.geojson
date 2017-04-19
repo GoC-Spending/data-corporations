@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Emblem Ct, Scarborough, ON M1S 1B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "df82013a84b34c55af4ac764a6e684a8|BN20300154|7.7.0.0|",
+				"addressLine": "40 Emblem Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Emblem Ct, Scarborough, ON M1S 1B1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Agincourt South-Malvern West",
+				"postalCode": "M1S 1B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.27877,
+					43.77766
+				]
+			},
+			"bbox": [
+				-79.2803269,
+				43.7765358,
+				-79.2772131,
+				43.7787842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "467 Woburn Ave, North York, ON M5M 1L6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "063e8145402e4d3a8e3de878b0e0cd74|BN20160335|7.7.0.0|",
+				"addressLine": "467 Woburn Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "467 Woburn Ave, North York, ON M5M 1L6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bedford Park-Nortown",
+				"postalCode": "M5M 1L6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41877,
+					43.72479
+				]
+			},
+			"bbox": [
+				-79.4203256,
+				43.7236658,
+				-79.4172144,
+				43.7259142
+			]
+		}
+	]
+}

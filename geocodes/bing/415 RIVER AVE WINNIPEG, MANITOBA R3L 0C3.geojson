@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "415 River Ave, Winnipeg, MB R3L 0C3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c50fe1a56ad145c4ae9d8c0bd7f29ba0|BN20190653|7.7.0.0|",
+				"addressLine": "415 River Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "415 River Ave, Winnipeg, MB R3L 0C3, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "River-Osborne",
+				"postalCode": "R3L 0C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14472,
+					49.88003
+				]
+			},
+			"bbox": [
+				-97.1464645,
+				49.8789058,
+				-97.1429755,
+				49.8811542
+			]
+		}
+	]
+}

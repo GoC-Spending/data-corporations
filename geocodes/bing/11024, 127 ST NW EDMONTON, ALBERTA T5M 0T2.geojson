@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "11024 127 St NW, Edmonton, AB T5M 0T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "27b44e5ffbc541c9b9b1e68af43d0dff|BN20130632|7.7.0.0|",
+				"addressLine": "11024 127 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "11024 127 St NW, Edmonton, AB T5M 0T2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Westmount",
+				"postalCode": "T5M 0T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.54165,
+					53.55804
+				]
+			},
+			"bbox": [
+				-113.5435425,
+				53.5569158,
+				-113.5397575,
+				53.5591642
+			]
+		}
+	]
+}

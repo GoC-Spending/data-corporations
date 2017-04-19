@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "115 Hollowbrook Dr, Nepean, ON K2J 5N8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4debc475970740f4afa5a785939d4247|BN20250135|7.7.0.0|",
+				"addressLine": "115 Hollowbrook Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "115 Hollowbrook Dr, Nepean, ON K2J 5N8, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Nepean",
+				"postalCode": "K2J 5N8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.72821,
+					45.2745
+				]
+			},
+			"bbox": [
+				-75.7298075,
+				45.2733758,
+				-75.7266125,
+				45.2756242
+			]
+		}
+	]
+}

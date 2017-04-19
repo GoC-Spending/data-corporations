@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "200 Broadway St, St Catharines, ON L2M, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f9b940c78df6433b980cbd97d6629b0c|BN20240423|7.7.0.0|",
+				"addressLine": "200 Broadway St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Niagara",
+				"countryRegion": "Canada",
+				"formattedAddress": "200 Broadway St, St Catharines, ON L2M, Canada",
+				"locality": "St Catharines",
+				"neighborhood": "Port Weller",
+				"postalCode": "L2M 7W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2123293,
+					43.2267479
+				]
+			},
+			"bbox": [
+				-79.2138721,
+				43.2256238,
+				-79.2107865,
+				43.2278721
+			]
+		}
+	]
+}

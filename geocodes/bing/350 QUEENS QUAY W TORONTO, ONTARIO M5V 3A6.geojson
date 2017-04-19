@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 Queens Quay W, Toronto, ON M5V 3A7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4bff5a9a322640c18b1a2012741990b8|BN20130423|7.7.0.0|",
+				"addressLine": "350 Queens Quay W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 Queens Quay W, Toronto, ON M5V 3A7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Waterfront Communities-the Island",
+				"postalCode": "M5V 3A7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38911,
+					43.63868
+				]
+			},
+			"bbox": [
+				-79.3906633,
+				43.6375558,
+				-79.3875567,
+				43.6398042
+			]
+		}
+	]
+}

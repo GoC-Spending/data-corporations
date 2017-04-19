@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1935 Leslie St, North York, ON M3B 2M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "46bca179391e42f68b2e06926623633a|BN20260223|7.7.0.0|",
+				"addressLine": "1935 Leslie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1935 Leslie St, North York, ON M3B 2M3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "St Andrews-Windfields",
+				"postalCode": "M3B 2M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.36069,
+					43.75765
+				]
+			},
+			"bbox": [
+				-79.3622464,
+				43.7565258,
+				-79.3591336,
+				43.7587742
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3432 Warley Ct, Mississauga, ON L5B 4C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "de9a65add0ed49d690963a9c7a4ae575|BN20130632|7.7.0.0|",
+				"addressLine": "3432 Warley Ct",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "3432 Warley Ct, Mississauga, ON L5B 4C5, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Cooksville",
+				"postalCode": "L5B 4C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.63952,
+					43.57875
+				]
+			},
+			"bbox": [
+				-79.6410718,
+				43.5776258,
+				-79.6379682,
+				43.5798742
+			]
+		}
+	]
+}

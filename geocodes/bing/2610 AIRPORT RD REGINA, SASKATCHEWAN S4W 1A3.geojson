@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2610 Airport Rd, Regina, SK S4W 1A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2df0c69b18fc48bd92757c72bbb8fad6|BN20121763|7.7.0.0|",
+				"addressLine": "2610 Airport Rd",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "2610 Airport Rd, Regina, SK S4W 1A3, Canada",
+				"locality": "Regina",
+				"postalCode": "S4W 1A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.6523772,
+					50.4372237
+				]
+			},
+			"bbox": [
+				-104.6541421,
+				50.4360995,
+				-104.6506122,
+				50.4383478
+			]
+		}
+	]
+}

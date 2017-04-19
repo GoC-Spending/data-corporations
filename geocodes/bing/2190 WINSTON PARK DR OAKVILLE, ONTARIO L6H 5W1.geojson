@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2190 Winston Park Dr, Oakville, ON L6H 5W1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e2bc413b5dbe46cca3eb70e1248b7685|BN20320521|7.7.0.0|",
+				"addressLine": "2190 Winston Park Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "2190 Winston Park Dr, Oakville, ON L6H 5W1, Canada",
+				"locality": "Oakville",
+				"postalCode": "L6H 5W1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.67497,
+					43.50976
+				]
+			},
+			"bbox": [
+				-79.67652,
+				43.5086358,
+				-79.67342,
+				43.5108842
+			]
+		}
+	]
+}

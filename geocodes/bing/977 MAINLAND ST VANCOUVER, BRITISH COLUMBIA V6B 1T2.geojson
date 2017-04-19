@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "977 Mainland St, Vancouver, BC V6B 1T2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d39c77993364478803c6677854b18c0|BN20130423|7.7.0.0|",
+				"addressLine": "977 Mainland St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "977 Mainland St, Vancouver, BC V6B 1T2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Downtown",
+				"postalCode": "V6B 1T2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.118169,
+					49.2773807
+				]
+			},
+			"bbox": [
+				-123.1198921,
+				49.2762566,
+				-123.1164459,
+				49.2785049
+			]
+		}
+	]
+}

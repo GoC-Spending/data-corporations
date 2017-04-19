@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "89 Quail Valley Cres, Thornhill, ON L3T 4P9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3694fcbed6b34073a117e6739b448610|BN20290118|7.7.0.0|",
+				"addressLine": "89 Quail Valley Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "89 Quail Valley Cres, Thornhill, ON L3T 4P9, Canada",
+				"locality": "Markham",
+				"neighborhood": "Thornhill",
+				"postalCode": "L3T 4P9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37055,
+					43.81022
+				]
+			},
+			"bbox": [
+				-79.3721078,
+				43.8090958,
+				-79.3689922,
+				43.8113442
+			]
+		}
+	]
+}

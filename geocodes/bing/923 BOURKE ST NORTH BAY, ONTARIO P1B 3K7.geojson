@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "923 Bourke St, North Bay, ON P1B 3K7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0be48615f6974bd0a9a544d5cf17b36a|BN20121762|7.7.0.0|",
+				"addressLine": "923 Bourke St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Nipissing",
+				"countryRegion": "Canada",
+				"formattedAddress": "923 Bourke St, North Bay, ON P1B 3K7, Canada",
+				"locality": "North Bay",
+				"neighborhood": "Pinewood",
+				"postalCode": "P1B 3K7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47242,
+					46.32149
+				]
+			},
+			"bbox": [
+				-79.4740478,
+				46.3203658,
+				-79.4707922,
+				46.3226142
+			]
+		}
+	]
+}

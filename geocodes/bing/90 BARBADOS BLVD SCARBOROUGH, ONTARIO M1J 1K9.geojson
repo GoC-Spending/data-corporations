@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "90 Barbados Blvd, Scarborough, ON M1J 1K9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c35ade8abdd448f7b3f94996dcf93b9a|BN20250135|7.7.0.0|",
+				"addressLine": "90 Barbados Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "90 Barbados Blvd, Scarborough, ON M1J 1K9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Eglinton East",
+				"postalCode": "M1J 1K9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.24003,
+					43.73513
+				]
+			},
+			"bbox": [
+				-79.2415858,
+				43.7340058,
+				-79.2384742,
+				43.7362542
+			]
+		}
+	]
+}

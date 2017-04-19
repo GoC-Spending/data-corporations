@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Armstrong Ave, Georgetown, ON L7G 4R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1b8f722980f240278f7829a99528c4b5|BN20130447|7.7.0.0|",
+				"addressLine": "60 Armstrong Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Armstrong Ave, Georgetown, ON L7G 4R9, Canada",
+				"locality": "Halton Hills",
+				"neighborhood": "Georgetown",
+				"postalCode": "L7G 4R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.89519,
+					43.65518
+				]
+			},
+			"bbox": [
+				-79.8967438,
+				43.6540558,
+				-79.8936362,
+				43.6563042
+			]
+		}
+	]
+}

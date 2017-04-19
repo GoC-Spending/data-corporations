@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Dawson, Y0B 1G0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b5b2428b84b4754939619bf490ff95e|BN20121762|7.7.0.0|",
+				"adminDistrict": "YT",
+				"adminDistrict2": "Yukon",
+				"countryRegion": "Canada",
+				"formattedAddress": "Dawson, Y0B 1G0, Canada",
+				"locality": "Dawson",
+				"postalCode": "Y0B 1G0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-139.431259155273,
+					64.0624313354492
+				]
+			},
+			"bbox": [
+				-139.443032534475,
+				64.0585686178785,
+				-139.419485776072,
+				64.0662940530199
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 4,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Lot 21, Prince Edward Island, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2b5b2428b84b4754939619bf490ff95e|BN20121762|7.7.0.0|",
+				"adminDistrict": "PE",
+				"adminDistrict2": "Queens",
+				"countryRegion": "Canada",
+				"formattedAddress": "Lot 21, Prince Edward Island, Canada",
+				"locality": "Lot 21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.4830017089844,
+					46.4169998168945
+				]
+			},
+			"bbox": [
+				-63.5390017314892,
+				46.388029433902,
+				-63.4270016864796,
+				46.4459701998871
+			]
+		}
+	]
+}

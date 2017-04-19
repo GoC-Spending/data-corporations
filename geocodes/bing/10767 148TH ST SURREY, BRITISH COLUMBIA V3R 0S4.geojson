@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10767 148 St, Surrey, BC V3R 0S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "322f35409608489ba4f5b55e4d1b30f1|BN20130422|7.7.0.0|",
+				"addressLine": "10767 148 St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "10767 148 St, Surrey, BC V3R 0S4, Canada",
+				"locality": "Surrey",
+				"neighborhood": "Guildford",
+				"postalCode": "V3R 0S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.81274,
+					49.19805
+				]
+			},
+			"bbox": [
+				-122.8144603,
+				49.1969258,
+				-122.8110197,
+				49.1991742
+			]
+		}
+	]
+}

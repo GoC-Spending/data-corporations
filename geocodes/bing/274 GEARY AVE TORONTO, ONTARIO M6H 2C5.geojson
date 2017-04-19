@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "274 Geary Ave, Toronto, ON M6H 2C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b45d2f260f794d49b705f37fe1f24041|BN20130721|7.7.0.0|",
+				"addressLine": "274 Geary Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "274 Geary Ave, Toronto, ON M6H 2C5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Dovercourt-Wallace Emerson-Junction",
+				"postalCode": "M6H 2C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.44071,
+					43.66952
+				]
+			},
+			"bbox": [
+				-79.4422641,
+				43.6683958,
+				-79.4391559,
+				43.6706442
+			]
+		}
+	]
+}

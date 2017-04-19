@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "268 Wyse Rd, Dartmouth, NS B3A 1N3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "2752b962ee3943d080bc1492298b660a|BN20190653|7.7.0.0|",
+				"addressLine": "268 Wyse Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "268 Wyse Rd, Dartmouth, NS B3A 1N3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3A 1N3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.5864447,
+					44.6759586
+				]
+			},
+			"bbox": [
+				-63.5880256,
+				44.6748344,
+				-63.5848638,
+				44.6770827
+			]
+		}
+	]
+}

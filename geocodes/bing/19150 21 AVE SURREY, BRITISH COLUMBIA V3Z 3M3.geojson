@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "19150 21 Ave, Surrey, BC V3Z 3M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "65cc0600b77b46898489ae601a1e6d53|BN20280152|7.7.0.0|",
+				"addressLine": "19150 21 Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "19150 21 Ave, Surrey, BC V3Z 3M3, Canada",
+				"locality": "Surrey",
+				"neighborhood": "South Surrey",
+				"postalCode": "V3Z 3M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.69309,
+					49.04003
+				]
+			},
+			"bbox": [
+				-122.6948049,
+				49.0389058,
+				-122.6913751,
+				49.0411542
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1061 Henry St, Wellesley, ON N0B 2R0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "676693965c3b45558b18d2453be8de94|BN20130530|7.7.0.0|",
+				"addressLine": "1061 Henry St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "1061 Henry St, Wellesley, ON N0B 2R0, Canada",
+				"locality": "Wellesley",
+				"postalCode": "N0B 2R0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.7591621,
+					43.4780012
+				]
+			},
+			"bbox": [
+				-80.7607113,
+				43.4768771,
+				-80.7576129,
+				43.4791254
+			]
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Princeton, N0J 1V0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "491ca1bf4f604dc5b84e15cf540f4fb8|BN20130442|7.7.0.0|",
+				"adminDistrict": "ON",
+				"countryRegion": "Canada",
+				"formattedAddress": "Princeton, N0J 1V0, Canada",
+				"locality": "Princeton",
+				"postalCode": "N0J 1V0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5251083374023,
+					43.1683959960938
+				]
+			},
+			"bbox": [
+				-80.5321694081017,
+				43.1645332785231,
+				-80.518047266703,
+				43.1722587136644
+			]
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "PopulatedPlace",
+				"matchCodes": [
+					"UpHierarchy"
+				],
+				"name": "Princeton, Ontario, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "491ca1bf4f604dc5b84e15cf540f4fb8|BN20130442|7.7.0.0|",
+				"adminDistrict": "ON",
+				"countryRegion": "Canada",
+				"formattedAddress": "Princeton, Ontario, Canada",
+				"locality": "Princeton"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5283203125,
+					43.1698303222656
+				]
+			},
+			"bbox": [
+				-80.5345993041992,
+				43.1635398864746,
+				-80.5195693969727,
+				43.1775894165039
+			]
+		}
+	]
+}

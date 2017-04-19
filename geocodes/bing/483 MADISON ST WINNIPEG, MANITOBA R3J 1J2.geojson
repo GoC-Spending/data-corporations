@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "483 Madison St, Winnipeg, MB R3J 1J2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "42ed43d88de34b39805b95dd5ed828f6|BN20160335|7.7.0.0|",
+				"addressLine": "483 Madison St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "483 Madison St, Winnipeg, MB R3J 1J2, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "St James Industrial",
+				"postalCode": "R3J 1J2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.20316,
+					49.88936
+				]
+			},
+			"bbox": [
+				-97.2049049,
+				49.8882358,
+				-97.2014151,
+				49.8904842
+			]
+		}
+	]
+}

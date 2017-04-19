@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "64 Prust Ave, Toronto, ON M4L 2M8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "85d68d841ccb43b0bc045060d4f0d4c2|BN20190653|7.7.0.0|",
+				"addressLine": "64 Prust Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "64 Prust Ave, Toronto, ON M4L 2M8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "South Riverdale",
+				"postalCode": "M4L 2M8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3315,
+					43.67185
+				]
+			},
+			"bbox": [
+				-79.3330542,
+				43.6707258,
+				-79.3299458,
+				43.6729742
+			]
+		}
+	]
+}

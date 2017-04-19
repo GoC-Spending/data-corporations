@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "828 Baker St, Cranbrook, BC V1C 1A2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e390fbd62374da7afc89a157e9cee48|BN20240423|7.7.0.0|",
+				"addressLine": "828 Baker St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "East Kootenay",
+				"countryRegion": "Canada",
+				"formattedAddress": "828 Baker St, Cranbrook, BC V1C 1A2, Canada",
+				"locality": "Cranbrook",
+				"postalCode": "V1C 1A2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.76858,
+					49.5125
+				]
+			},
+			"bbox": [
+				-115.7703114,
+				49.5113758,
+				-115.7668486,
+				49.5136242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10041 82 Ave NW, Edmonton, AB T6E 1Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9b857144048d4fdab16da3c1e772e3d5|BN20240253|7.7.0.0|",
+				"addressLine": "10041 82 Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10041 82 Ave NW, Edmonton, AB T6E 1Z2, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Ritchie",
+				"postalCode": "T6E 1Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4904,
+					53.51776
+				]
+			},
+			"bbox": [
+				-113.4922907,
+				53.5166358,
+				-113.4885093,
+				53.5188842
+			]
+		}
+	]
+}

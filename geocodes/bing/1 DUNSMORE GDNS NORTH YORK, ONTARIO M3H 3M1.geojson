@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Dunsmore Gdns, North York, ON M3H 3M1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a1c44383beae47b7b2cc47eae40ac50b|BN20130533|7.7.0.0|",
+				"addressLine": "1 Dunsmore Gdns",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Dunsmore Gdns, North York, ON M3H 3M1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clanton Park",
+				"postalCode": "M3H 3M1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45336,
+					43.7493399
+				]
+			},
+			"bbox": [
+				-79.4549162,
+				43.7482157,
+				-79.4518038,
+				43.7504641
+			]
+		}
+	]
+}

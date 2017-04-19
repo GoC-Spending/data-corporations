@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "154 King St E, Gananoque, ON K7G 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "01e42d73fd0e4049850f7c4e667bcfb7|BN20130520|7.7.0.0|",
+				"addressLine": "154 King St E",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Leeds and Grenville",
+				"countryRegion": "Canada",
+				"formattedAddress": "154 King St E, Gananoque, ON K7G 1G2, Canada",
+				"locality": "Gananoque",
+				"postalCode": "K7G 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1618,
+					44.3304
+				]
+			},
+			"bbox": [
+				-76.1633715,
+				44.3292758,
+				-76.1602285,
+				44.3315242
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "588 Hansen Ave, Langford, BC V9B 5V2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3945df2da2cd421498af452249211267|BN20290118|7.7.0.0|",
+				"addressLine": "588 Hansen Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Capital",
+				"countryRegion": "Canada",
+				"formattedAddress": "588 Hansen Ave, Langford, BC V9B 5V2, Canada",
+				"locality": "Langford",
+				"postalCode": "V9B 5V2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.4914568,
+					48.4640892
+				]
+			},
+			"bbox": [
+				-123.4931522,
+				48.4629651,
+				-123.4897615,
+				48.4652134
+			]
+		}
+	]
+}

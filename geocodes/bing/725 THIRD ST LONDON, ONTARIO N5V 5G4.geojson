@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "725 3rd St, London, ON N5V, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8f51d329bde147e18bf22b5b9e601143|BN20280152|7.7.0.0|",
+				"addressLine": "725 3rd St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "725 3rd St, London, ON N5V, Canada",
+				"locality": "London",
+				"neighborhood": "Huron Heights",
+				"postalCode": "N5V 5G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1909428,
+					43.0153211
+				]
+			},
+			"bbox": [
+				-81.1924802,
+				43.014197,
+				-81.1894053,
+				43.0164453
+			]
+		}
+	]
+}

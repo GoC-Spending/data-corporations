@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "2190 McCallum Rd, Abbotsford, BC V2S 3P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ab4f130a475c45fabbe8f6021837e27a|BN20130521|7.7.0.0|",
+				"addressLine": "2190 McCallum Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Fraser Valley",
+				"countryRegion": "Canada",
+				"formattedAddress": "2190 McCallum Rd, Abbotsford, BC V2S 3P3, Canada",
+				"locality": "Abbotsford",
+				"neighborhood": "Highway 11",
+				"postalCode": "V2S 3P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.2932451,
+					49.0416204
+				]
+			},
+			"bbox": [
+				-122.29496,
+				49.0404963,
+				-122.2915302,
+				49.0427446
+			]
+		}
+	]
+}

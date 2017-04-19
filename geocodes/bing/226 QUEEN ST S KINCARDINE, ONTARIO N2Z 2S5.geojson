@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "226 Queen St, Kincardine, ON N2Z 2S5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4592711f1a9a42eeaab9a1648a02d31b|BN20130522|7.7.0.0|",
+				"addressLine": "226 Queen St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Bruce",
+				"countryRegion": "Canada",
+				"formattedAddress": "226 Queen St, Kincardine, ON N2Z 2S5, Canada",
+				"locality": "Kincardine",
+				"postalCode": "N2Z 2S5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.6459772,
+					44.1632477
+				]
+			},
+			"bbox": [
+				-81.6475443,
+				44.1621235,
+				-81.6444101,
+				44.1643718
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "321 Wallace St, Nanaimo, BC V9R 5B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0ef172f7dbf54ee3915372246b796693|BN20171457|7.7.0.0|",
+				"addressLine": "321 Wallace St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Nanaimo",
+				"countryRegion": "Canada",
+				"formattedAddress": "321 Wallace St, Nanaimo, BC V9R 5B6, Canada",
+				"locality": "Nanaimo",
+				"postalCode": "V9R 5B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.9395384,
+					49.1654274
+				]
+			},
+			"bbox": [
+				-123.9412577,
+				49.1643033,
+				-123.9378192,
+				49.1665516
+			]
+		}
+	]
+}

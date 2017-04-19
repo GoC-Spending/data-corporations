@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "96 Campbell Rd, Fruitvale, BC V0G 1L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "eefa919615dd445b842a397c9271df7f|BN20260231|7.7.0.0|",
+				"addressLine": "96 Campbell Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Kootenay Boundary",
+				"countryRegion": "Canada",
+				"formattedAddress": "96 Campbell Rd, Fruitvale, BC V0G 1L1, Canada",
+				"locality": "Kootenay Boundary",
+				"neighborhood": "Fruitvale",
+				"postalCode": "V0G 1L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.53058,
+					49.1169
+				]
+			},
+			"bbox": [
+				-117.5322975,
+				49.1157758,
+				-117.5288625,
+				49.1180242
+			]
+		}
+	]
+}

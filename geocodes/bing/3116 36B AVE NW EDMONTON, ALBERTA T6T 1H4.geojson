@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3116 36B Ave NW, Edmonton, AB T6T 1H4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3f04dd06af914faa961f2af7f5a89e6c|BN20130721|7.7.0.0|",
+				"addressLine": "3116 36B Ave NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3116 36B Ave NW, Edmonton, AB T6T 1H4, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Wild Rose",
+				"postalCode": "T6T 1H4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.38721,
+					53.47133
+				]
+			},
+			"bbox": [
+				-113.3890986,
+				53.4702058,
+				-113.3853214,
+				53.4724542
+			]
+		}
+	]
+}

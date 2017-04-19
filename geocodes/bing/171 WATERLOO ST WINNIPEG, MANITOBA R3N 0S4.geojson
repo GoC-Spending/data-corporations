@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "171 Waterloo St, Winnipeg, MB R3N 0S4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b69b44c7aaaa47c8a41b33ffb745df15|BN20121763|7.7.0.0|",
+				"addressLine": "171 Waterloo St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "171 Waterloo St, Winnipeg, MB R3N 0S4, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "North River Heights",
+				"postalCode": "R3N 0S4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.18423,
+					49.87344
+				]
+			},
+			"bbox": [
+				-97.1859743,
+				49.8723158,
+				-97.1824857,
+				49.8745642
+			]
+		}
+	]
+}

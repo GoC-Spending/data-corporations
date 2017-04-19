@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "131 Lake Rd, Bowmanville, ON L1C 4P8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "66f031c7ad8c4c2088c87e64f8d0f223|BN20121763|7.7.0.0|",
+				"addressLine": "131 Lake Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Durham",
+				"countryRegion": "Canada",
+				"formattedAddress": "131 Lake Rd, Bowmanville, ON L1C 4P8, Canada",
+				"locality": "Clarington",
+				"neighborhood": "Bowmanville",
+				"postalCode": "L1C 4P8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6678699,
+					43.89749
+				]
+			},
+			"bbox": [
+				-78.66943,
+				43.8963658,
+				-78.6663098,
+				43.8986142
+			]
+		}
+	]
+}

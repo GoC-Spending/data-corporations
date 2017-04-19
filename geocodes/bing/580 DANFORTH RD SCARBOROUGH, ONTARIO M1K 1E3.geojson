@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "580 Danforth Rd, Scarborough, ON M1K 1E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "f9ff2386d3a446c3b8dea2e4ef1bea2d|BN20130634|7.7.0.0|",
+				"addressLine": "580 Danforth Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "580 Danforth Rd, Scarborough, ON M1K 1E3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Clairlea-Birchmount",
+				"postalCode": "M1K 1E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26319,
+					43.71149
+				]
+			},
+			"bbox": [
+				-79.2647452,
+				43.7103658,
+				-79.2616348,
+				43.7126142
+			]
+		}
+	]
+}

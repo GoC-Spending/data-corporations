@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1337 Creekside Dr, Oakville, ON L6H 4Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "083f5523fa6347488b9eb37d50b6e11c|BN20130631|7.7.0.0|",
+				"addressLine": "1337 Creekside Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Halton",
+				"countryRegion": "Canada",
+				"formattedAddress": "1337 Creekside Dr, Oakville, ON L6H 4Y3, Canada",
+				"locality": "Oakville",
+				"neighborhood": "Joshua Creek",
+				"postalCode": "L6H 4Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.68971,
+					43.48845
+				]
+			},
+			"bbox": [
+				-79.6912595,
+				43.4873258,
+				-79.6881605,
+				43.4895742
+			]
+		}
+	]
+}

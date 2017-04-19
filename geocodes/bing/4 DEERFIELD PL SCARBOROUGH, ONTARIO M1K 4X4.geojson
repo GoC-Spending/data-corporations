@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4 Deerfield Pl, Scarborough, ON M1K 4X4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "55cbb824e71a48bc8dd8c898c6758011|BN20220145|7.7.0.0|",
+				"addressLine": "4 Deerfield Pl",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "4 Deerfield Pl, Scarborough, ON M1K 4X4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bendale",
+				"postalCode": "M1K 4X4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.2578,
+					43.7445499
+				]
+			},
+			"bbox": [
+				-79.2593561,
+				43.7434257,
+				-79.2562439,
+				43.7456741
+			]
+		}
+	]
+}

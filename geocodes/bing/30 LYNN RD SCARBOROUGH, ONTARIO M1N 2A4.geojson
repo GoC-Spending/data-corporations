@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "30 Lynn Rd, Scarborough, ON M1N 2A4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "4d4f7d0711404d4db6190c52716d7289|BN20121763|7.7.0.0|",
+				"addressLine": "30 Lynn Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "30 Lynn Rd, Scarborough, ON M1N 2A4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Birchcliffe-Cliffside",
+				"postalCode": "M1N 2A4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.272,
+					43.68917
+				]
+			},
+			"bbox": [
+				-79.2735546,
+				43.6880458,
+				-79.2704454,
+				43.6902942
+			]
+		}
+	]
+}

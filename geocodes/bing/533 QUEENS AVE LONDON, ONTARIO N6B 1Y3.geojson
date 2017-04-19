@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "533 Queens Ave, London, ON N6B 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7f48a9a808be46bface18cd4ab663125|BN20130521|7.7.0.0|",
+				"addressLine": "533 Queens Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "533 Queens Ave, London, ON N6B 1Y3, Canada",
+				"locality": "London",
+				"neighborhood": "Central London",
+				"postalCode": "N6B 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.235,
+					42.9889
+				]
+			},
+			"bbox": [
+				-81.2365368,
+				42.9877758,
+				-81.2334632,
+				42.9900242
+			]
+		}
+	]
+}

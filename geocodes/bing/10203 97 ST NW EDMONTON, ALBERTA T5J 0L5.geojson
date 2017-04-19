@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10203 97 St NW, Edmonton, AB T5J 0L5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04d9238956b342feafc45381e644acc7|BN20240423|7.7.0.0|",
+				"addressLine": "10203 97 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "10203 97 St NW, Edmonton, AB T5J 0L5, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Boyle Street",
+				"postalCode": "T5J 0L5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48588,
+					53.54436
+				]
+			},
+			"bbox": [
+				-113.4877719,
+				53.5432358,
+				-113.4839881,
+				53.5454842
+			]
+		}
+	]
+}

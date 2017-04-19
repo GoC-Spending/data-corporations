@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "405 Dalhousie St, Ottawa, ON K1N 9K4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ccebe38734a14d5c88fd911491722174|BN20200137|7.7.0.0|",
+				"addressLine": "405 Dalhousie St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "405 Dalhousie St, Ottawa, ON K1N 9K4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Byward Market-Parliament Hill",
+				"postalCode": "K1N 9K4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6894318,
+					45.4270632
+				]
+			},
+			"bbox": [
+				-75.6910336,
+				45.4259391,
+				-75.68783,
+				45.4281874
+			]
+		}
+	]
+}

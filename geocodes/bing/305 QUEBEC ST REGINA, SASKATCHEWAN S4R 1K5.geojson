@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "305 Quebec St, Regina, SK S4R 1K5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "95dec5f706dc45d2882151d4fd9a8cce|BN20130632|7.7.0.0|",
+				"addressLine": "305 Quebec St",
+				"adminDistrict": "SK",
+				"adminDistrict2": "Saskatchewan",
+				"countryRegion": "Canada",
+				"formattedAddress": "305 Quebec St, Regina, SK S4R 1K5, Canada",
+				"locality": "Regina",
+				"neighborhood": "Northeast Regina",
+				"postalCode": "S4R 1K5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.59591,
+					50.47388
+				]
+			},
+			"bbox": [
+				-104.5976763,
+				50.4727558,
+				-104.5941437,
+				50.4750042
+			]
+		}
+	]
+}

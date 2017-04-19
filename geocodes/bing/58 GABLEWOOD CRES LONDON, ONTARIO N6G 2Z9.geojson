@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Gablewood Cres, London, ON N6G 2Z9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a3821ffe74f04dd7a5b758e4f5673fff|BN20130533|7.7.0.0|",
+				"addressLine": "58 Gablewood Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Gablewood Cres, London, ON N6G 2Z9, Canada",
+				"locality": "London",
+				"neighborhood": "Medway",
+				"postalCode": "N6G 2Z9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3175,
+					43.0097
+				]
+			},
+			"bbox": [
+				-81.3190373,
+				43.0085758,
+				-81.3159627,
+				43.0108242
+			]
+		}
+	]
+}

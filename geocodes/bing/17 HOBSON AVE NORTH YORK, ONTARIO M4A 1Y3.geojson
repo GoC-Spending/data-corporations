@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "17 Hobson Ave, North York, ON M4A 1Y3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8a130bb6aa5447dbbc1390baece5bde6|BN20320521|7.7.0.0|",
+				"addressLine": "17 Hobson Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "17 Hobson Ave, North York, ON M4A 1Y3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Victoria Village",
+				"postalCode": "M4A 1Y3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.30655,
+					43.71992
+				]
+			},
+			"bbox": [
+				-79.3081054,
+				43.7187958,
+				-79.3049946,
+				43.7210442
+			]
+		}
+	]
+}

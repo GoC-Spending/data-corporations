@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1410 4 St SW, Calgary, AB T2R 0Y1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "3fac1b38404845c0937e1f80e20e0b4c|BN20240253|7.7.0.0|",
+				"addressLine": "1410 4 St SW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1410 4 St SW, Calgary, AB T2R 0Y1, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Beltline",
+				"postalCode": "T2R 0Y1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.07128,
+					51.03934
+				]
+			},
+			"bbox": [
+				-114.0730678,
+				51.0382158,
+				-114.0694922,
+				51.0404642
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1200 Rue de Royan, Laval, QC H7N 6E7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a27212d867ff4b5a9aada9155f9244f7|BN20220145|7.7.0.0|",
+				"addressLine": "1200 Rue de Royan",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Laval",
+				"countryRegion": "Canada",
+				"formattedAddress": "1200 Rue de Royan, Laval, QC H7N 6E7, Canada",
+				"locality": "Laval",
+				"postalCode": "H7N 6E7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.71001,
+					45.56168
+				]
+			},
+			"bbox": [
+				-73.7116156,
+				45.5605558,
+				-73.7084044,
+				45.5628042
+			]
+		}
+	]
+}

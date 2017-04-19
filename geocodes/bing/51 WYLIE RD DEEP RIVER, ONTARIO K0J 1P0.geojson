@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Wylie Rd, Deep River, ON K0J 1P0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bc70f31ce2e6499e893da507f9a0a888|BN20190653|7.7.0.0|",
+				"addressLine": "51 Wylie Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Renfrew",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Wylie Rd, Deep River, ON K0J 1P0, Canada",
+				"locality": "Deep River",
+				"postalCode": "K0J 1P0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.4926545,
+					46.0865382
+				]
+			},
+			"bbox": [
+				-77.4942753,
+				46.0854141,
+				-77.4910337,
+				46.0876624
+			]
+		}
+	]
+}

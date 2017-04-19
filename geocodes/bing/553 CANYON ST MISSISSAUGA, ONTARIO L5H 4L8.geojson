@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "553 Canyon St, Mississauga, ON L5H 4L8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "505712ffdd774a4dad1c61ab54a83c7b|BN20130423|7.7.0.0|",
+				"addressLine": "553 Canyon St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "553 Canyon St, Mississauga, ON L5H 4L8, Canada",
+				"locality": "Mississauga",
+				"neighborhood": "Lorne Park",
+				"postalCode": "L5H 4L8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.60254,
+					43.54739
+				]
+			},
+			"bbox": [
+				-79.604091,
+				43.5462658,
+				-79.600989,
+				43.5485142
+			]
+		}
+	]
+}

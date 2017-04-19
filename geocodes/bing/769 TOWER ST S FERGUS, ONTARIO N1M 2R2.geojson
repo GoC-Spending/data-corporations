@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "769 Tower St S, Fergus, ON N1M 2R2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e0fe88e0a52a41a186865c783abcca05|BN20160335|7.7.0.0|",
+				"addressLine": "769 Tower St S",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "769 Tower St S, Fergus, ON N1M 2R2, Canada",
+				"locality": "Centre Wellington",
+				"neighborhood": "Fergus",
+				"postalCode": "N1M 2R2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.3709499,
+					43.69812
+				]
+			},
+			"bbox": [
+				-80.3725048,
+				43.6969958,
+				-80.369395,
+				43.6992442
+			]
+		}
+	]
+}

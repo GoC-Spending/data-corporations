@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Cattrick St, Mississauga, ON L4T 1H5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "e526b98938b3487888995f00fad32fed|BN20190642|7.7.0.0|",
+				"addressLine": "50 Cattrick St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Cattrick St, Mississauga, ON L4T 1H5, Canada",
+				"locality": "Mississauga",
+				"postalCode": "L4T 1H5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.65198,
+					43.7026899
+				]
+			},
+			"bbox": [
+				-79.653535,
+				43.7015657,
+				-79.650425,
+				43.7038141
+			]
+		}
+	]
+}

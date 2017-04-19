@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1795 St Clair Ave W, Toronto, ON M6N 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6d7d5894de38457da716e0fb3e337d98|BN20130621|7.7.0.0|",
+				"addressLine": "1795 St Clair Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1795 St Clair Ave W, Toronto, ON M6N 1J7, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Weston-Pellam Park",
+				"postalCode": "M6N 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4626,
+					43.67326
+				]
+			},
+			"bbox": [
+				-79.4641542,
+				43.6721358,
+				-79.4610458,
+				43.6743842
+			]
+		}
+	]
+}

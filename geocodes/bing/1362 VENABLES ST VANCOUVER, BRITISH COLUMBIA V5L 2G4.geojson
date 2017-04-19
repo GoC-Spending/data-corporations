@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1362 Venables St, Vancouver, BC V5L 2G4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1aa96749a64048ecab05138d039a302f|BN20320521|7.7.0.0|",
+				"addressLine": "1362 Venables St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1362 Venables St, Vancouver, BC V5L 2G4, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Grandview-Woodland",
+				"postalCode": "V5L 2G4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0763,
+					49.27648
+				]
+			},
+			"bbox": [
+				-123.0780231,
+				49.2753558,
+				-123.0745769,
+				49.2776042
+			]
+		}
+	]
+}

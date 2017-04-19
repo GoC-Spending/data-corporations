@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "840 James Ave, Beausejour, MB R0E 0C0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0077576b26e34a90a7ac2c4f87fd31e7|BN20220145|7.7.0.0|",
+				"addressLine": "840 James Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "840 James Ave, Beausejour, MB R0E 0C0, Canada",
+				"locality": "Beausejour",
+				"postalCode": "R0E 0C0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.4985956,
+					50.0540787
+				]
+			},
+			"bbox": [
+				-96.5003465,
+				50.0529546,
+				-96.4968448,
+				50.0552029
+			]
+		}
+	]
+}

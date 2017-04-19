@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1387 Haywood Ave, West Vancouver, BC V7T 1V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0dd5a6f8cbbf439c9eba4e987fa313e9|BN20130447|7.7.0.0|",
+				"addressLine": "1387 Haywood Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1387 Haywood Ave, West Vancouver, BC V7T 1V4, Canada",
+				"locality": "West Vancouver",
+				"neighborhood": "Ambleside",
+				"postalCode": "V7T 1V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.15378,
+					49.33383
+				]
+			},
+			"bbox": [
+				-123.1555051,
+				49.3327058,
+				-123.1520549,
+				49.3349542
+			]
+		}
+	]
+}

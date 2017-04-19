@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "516 Balliol St, Toronto, ON M4S 1E3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25f1ac6f30384f5f864b6bbfea8aee53|BN20130620|7.7.0.0|",
+				"addressLine": "516 Balliol St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "516 Balliol St, Toronto, ON M4S 1E3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Mt Pleasant East",
+				"postalCode": "M4S 1E3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38111,
+					43.70065
+				]
+			},
+			"bbox": [
+				-79.3826649,
+				43.6995258,
+				-79.3795551,
+				43.7017742
+			]
+		}
+	]
+}

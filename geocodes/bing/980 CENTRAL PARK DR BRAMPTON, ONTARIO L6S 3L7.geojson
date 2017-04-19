@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "980 Central Park Dr, Brampton, ON L6S 3L7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6bf4527608be47558f5e7006289222a4|BN20160335|7.7.0.0|",
+				"addressLine": "980 Central Park Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Peel",
+				"countryRegion": "Canada",
+				"formattedAddress": "980 Central Park Dr, Brampton, ON L6S 3L7, Canada",
+				"locality": "Brampton",
+				"neighborhood": "Bramalea",
+				"postalCode": "L6S 3L7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.72035,
+					43.73357
+				]
+			},
+			"bbox": [
+				-79.7219058,
+				43.7324458,
+				-79.7187942,
+				43.7346942
+			]
+		}
+	]
+}

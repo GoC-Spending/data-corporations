@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "459 Industrial Rd, London, ON N5V 3E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "99f11c109b204da1bfde87fb1d7aef26|BN20130533|7.7.0.0|",
+				"addressLine": "459 Industrial Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "459 Industrial Rd, London, ON N5V 3E5, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5V 3E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1603089,
+					43.011864
+				]
+			},
+			"bbox": [
+				-81.1618463,
+				43.0107398,
+				-81.1587715,
+				43.0129881
+			]
+		}
+	]
+}

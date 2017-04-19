@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "33 Haas Rd, Etobicoke, ON M9W 3A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a50260279cc84ae9a411e5f12db2b17e|BN20130520|7.7.0.0|",
+				"addressLine": "33 Haas Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "33 Haas Rd, Etobicoke, ON M9W 3A1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "West Humber-Clairville",
+				"postalCode": "M9W 3A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5771,
+					43.71742
+				]
+			},
+			"bbox": [
+				-79.5786554,
+				43.7162958,
+				-79.5755446,
+				43.7185442
+			]
+		}
+	]
+}

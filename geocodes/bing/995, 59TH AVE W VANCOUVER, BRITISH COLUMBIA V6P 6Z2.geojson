@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "995 W 59th Ave, Vancouver, BC V6P 6Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a9c5f16dcb4741f39de7f8ae35675cf9|BN20130721|7.7.0.0|",
+				"addressLine": "995 W 59th Ave",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "995 W 59th Ave, Vancouver, BC V6P 6Z2, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Marpole",
+				"postalCode": "V6P 6Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.1292014,
+					49.2172649
+				]
+			},
+			"bbox": [
+				-123.1309224,
+				49.2161407,
+				-123.1274803,
+				49.218389
+			]
+		}
+	]
+}

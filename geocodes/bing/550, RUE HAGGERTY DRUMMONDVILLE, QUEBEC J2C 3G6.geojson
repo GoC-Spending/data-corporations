@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "550 Rue Haggerty, Drummondville, QC J2C 3G6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "538e6f19d9324271b4131317fedaa7ed|BN20280152|7.7.0.0|",
+				"addressLine": "550 Rue Haggerty",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Drummond",
+				"countryRegion": "Canada",
+				"formattedAddress": "550 Rue Haggerty, Drummondville, QC J2C 3G6, Canada",
+				"locality": "Drummondville",
+				"postalCode": "J2C 3G6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.51351,
+					45.88474
+				]
+			},
+			"bbox": [
+				-72.5151249,
+				45.8836158,
+				-72.5118951,
+				45.8858642
+			]
+		}
+	]
+}

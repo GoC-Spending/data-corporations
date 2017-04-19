@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 7,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Postcode1",
+				"matchCodes": [
+					"Ambiguous",
+					"UpHierarchy"
+				],
+				"name": "Gatineau, J8P 7Z5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b92b2d3e75c0455cb17286c83ca9ff16|BN20130442|7.7.0.0|",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "Gatineau, J8P 7Z5, Canada",
+				"locality": "Gatineau",
+				"postalCode": "J8P 7Z5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.6641006469727,
+					45.4841690063477
+				]
+			},
+			"bbox": [
+				-75.6714460907736,
+				45.480306288777,
+				-75.6567552031717,
+				45.4880317239183
+			]
+		}
+	]
+}

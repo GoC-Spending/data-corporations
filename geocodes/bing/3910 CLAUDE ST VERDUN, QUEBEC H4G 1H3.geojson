@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3910 Rue Claude, Verdun, QC H4G 1H3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "ba67fdd7fcd44cf1b5c5b582993702ec|BN20130520|7.7.0.0|",
+				"addressLine": "3910 Rue Claude",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Montreal",
+				"countryRegion": "Canada",
+				"formattedAddress": "3910 Rue Claude, Verdun, QC H4G 1H3, Canada",
+				"locality": "Montreal",
+				"neighborhood": "Verdun",
+				"postalCode": "H4G 1H3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57302,
+					45.46498
+				]
+			},
+			"bbox": [
+				-73.5746229,
+				45.4638558,
+				-73.5714171,
+				45.4661042
+			]
+		}
+	]
+}

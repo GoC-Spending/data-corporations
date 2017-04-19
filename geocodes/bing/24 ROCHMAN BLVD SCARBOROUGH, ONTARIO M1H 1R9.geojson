@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "24 Rochman Blvd, Scarborough, ON M1H 1R9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d8a99391d1c44b59b789bb3a3748aae0|BN20181720|7.7.0.0|",
+				"addressLine": "24 Rochman Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "24 Rochman Blvd, Scarborough, ON M1H 1R9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Woburn",
+				"postalCode": "M1H 1R9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.23405,
+					43.76041
+				]
+			},
+			"bbox": [
+				-79.2356065,
+				43.7592858,
+				-79.2324935,
+				43.7615342
+			]
+		}
+	]
+}

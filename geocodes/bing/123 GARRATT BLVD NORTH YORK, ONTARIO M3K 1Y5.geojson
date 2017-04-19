@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "123 Garratt Blvd, North York, ON M3K 1Y5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "fa0a3cd0244446b282650090d5332a95|BN20131519|7.7.0.0|",
+				"addressLine": "123 Garratt Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "123 Garratt Blvd, North York, ON M3K 1Y5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Downsview-Roding-CFB",
+				"postalCode": "M3K 1Y5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.47029,
+					43.73448
+				]
+			},
+			"bbox": [
+				-79.4718458,
+				43.7333558,
+				-79.4687342,
+				43.7356042
+			]
+		}
+	]
+}

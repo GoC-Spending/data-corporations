@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "223 Otter St, Banff, AB T1L, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "04994ef420c8488ba47ef782019f3efe|BN20130721|7.7.0.0|",
+				"addressLine": "223 Otter St",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "223 Otter St, Banff, AB T1L, Canada",
+				"locality": "Banff",
+				"postalCode": "T1L 1C3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.56653,
+					51.17738
+				]
+			},
+			"bbox": [
+				-115.5683232,
+				51.1762558,
+				-115.5647368,
+				51.1785042
+			]
+		}
+	]
+}

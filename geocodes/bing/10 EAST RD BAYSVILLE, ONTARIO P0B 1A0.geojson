@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "10 East Rd, Baysville, ON P0B 1A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "53193879c90a470d93d9448e7c9813c0|BN20320521|7.7.0.0|",
+				"addressLine": "10 East Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Muskoka",
+				"countryRegion": "Canada",
+				"formattedAddress": "10 East Rd, Baysville, ON P0B 1A0, Canada",
+				"locality": "Lake of Bays",
+				"neighborhood": "Baysville",
+				"postalCode": "P0B 1A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.1111899,
+					45.1518299
+				]
+			},
+			"bbox": [
+				-79.1127839,
+				45.1507057,
+				-79.1095959,
+				45.1529541
+			]
+		}
+	]
+}

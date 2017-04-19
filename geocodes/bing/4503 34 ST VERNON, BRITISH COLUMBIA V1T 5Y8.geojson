@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4503 34th St, Vernon, BC V1T 5Y8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5eae3402107a4be4a81a76393220310b|BN20130521|7.7.0.0|",
+				"addressLine": "4503 34th St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "North Okanagan",
+				"countryRegion": "Canada",
+				"formattedAddress": "4503 34th St, Vernon, BC V1T 5Y8, Canada",
+				"locality": "Vernon",
+				"postalCode": "V1T 5Y8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.27541,
+					50.27897
+				]
+			},
+			"bbox": [
+				-119.2771691,
+				50.2778458,
+				-119.2736509,
+				50.2800942
+			]
+		}
+	]
+}

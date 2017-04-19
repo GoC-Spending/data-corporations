@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "158 Willow St, Paris, ON N3L 0C5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9fe6370f8e2249eea7a37ed029fdf677|BN20130625|7.7.0.0|",
+				"addressLine": "158 Willow St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Brant",
+				"countryRegion": "Canada",
+				"formattedAddress": "158 Willow St, Paris, ON N3L 0C5, Canada",
+				"locality": "Brant",
+				"neighborhood": "Paris",
+				"postalCode": "N3L 0C5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.37752,
+					43.20165
+				]
+			},
+			"bbox": [
+				-80.3790622,
+				43.2005258,
+				-80.3759778,
+				43.2027742
+			]
+		}
+	]
+}

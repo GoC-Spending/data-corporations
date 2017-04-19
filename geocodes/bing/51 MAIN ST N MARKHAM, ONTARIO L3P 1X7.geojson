@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "51 Main Street Markham N, Markham, ON L3P, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "634e8ad2883f476cb5401536881bc24e|BN20220145|7.7.0.0|",
+				"addressLine": "51 Main Street Markham N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "York",
+				"countryRegion": "Canada",
+				"formattedAddress": "51 Main Street Markham N, Markham, ON L3P, Canada",
+				"locality": "Markham",
+				"postalCode": "L3P 1X7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.26001,
+					43.87604
+				]
+			},
+			"bbox": [
+				-79.2615695,
+				43.8749158,
+				-79.2584505,
+				43.8771642
+			]
+		}
+	]
+}

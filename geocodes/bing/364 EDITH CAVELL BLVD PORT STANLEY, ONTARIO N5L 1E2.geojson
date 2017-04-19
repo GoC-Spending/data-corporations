@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "364 Edith Cavell Blvd, Port Stanley, ON N5L 1E2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c0029461a17543009b115504b49901ab|BN20130520|7.7.0.0|",
+				"addressLine": "364 Edith Cavell Blvd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "364 Edith Cavell Blvd, Port Stanley, ON N5L 1E2, Canada",
+				"locality": "Central Elgin",
+				"neighborhood": "Port Stanley",
+				"postalCode": "N5L 1E2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2273481,
+					42.6623197
+				]
+			},
+			"bbox": [
+				-81.2288768,
+				42.6611955,
+				-81.2258193,
+				42.6634439
+			]
+		}
+	]
+}

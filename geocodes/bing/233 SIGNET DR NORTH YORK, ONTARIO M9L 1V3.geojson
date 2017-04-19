@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "233 Signet Dr, North York, ON M9L 1V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "704a3348e0784fb6b67afd182095f97b|BN20121762|7.7.0.0|",
+				"addressLine": "233 Signet Dr",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "233 Signet Dr, North York, ON M9L 1V3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Humber Summit",
+				"postalCode": "M9L 1V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54071,
+					43.7666899
+				]
+			},
+			"bbox": [
+				-79.5422666,
+				43.7655657,
+				-79.5391534,
+				43.7678141
+			]
+		}
+	]
+}

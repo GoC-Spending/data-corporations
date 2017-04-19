@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "100 University Ave, Toronto, ON M5J 1V6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5950d09086f34ccfbf35c0966daf33e8|BN20130634|7.7.0.0|",
+				"addressLine": "100 University Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "100 University Ave, Toronto, ON M5J 1V6, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5J 1V6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38497,
+					43.64726
+				]
+			},
+			"bbox": [
+				-79.3865235,
+				43.6461358,
+				-79.3834165,
+				43.6483842
+			]
+		}
+	]
+}

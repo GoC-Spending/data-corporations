@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "893 Alice Ave, Thunder Bay, ON P7G 1X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1d717fe710ed4d21a987fdd2e5b61413|BN20130530|7.7.0.0|",
+				"addressLine": "893 Alice Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Thunder Bay",
+				"countryRegion": "Canada",
+				"formattedAddress": "893 Alice Ave, Thunder Bay, ON P7G 1X1, Canada",
+				"locality": "Thunder Bay",
+				"postalCode": "P7G 1X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.30765,
+					48.49492
+				]
+			},
+			"bbox": [
+				-89.3093464,
+				48.4937958,
+				-89.3059536,
+				48.4960442
+			]
+		}
+	]
+}

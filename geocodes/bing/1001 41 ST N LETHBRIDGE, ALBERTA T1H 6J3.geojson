@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1001 41 St N, Lethbridge, AB T1H 6J3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "25cf8d12a451439e8f488429851ff4e7|BN20130522|7.7.0.0|",
+				"addressLine": "1001 41 St N",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "1001 41 St N, Lethbridge, AB T1H 6J3, Canada",
+				"locality": "Lethbridge",
+				"postalCode": "T1H 6J3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.78005,
+					49.71397
+				]
+			},
+			"bbox": [
+				-112.7817885,
+				49.7128458,
+				-112.7783115,
+				49.7150942
+			]
+		}
+	]
+}

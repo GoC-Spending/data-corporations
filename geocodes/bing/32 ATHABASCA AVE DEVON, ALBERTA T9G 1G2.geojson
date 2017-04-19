@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "32 Athabasca Ave, Devon, AB T9G 1G2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "37a8b38c48c343aba2584494fbd3d345|BN20130719|7.7.0.0|",
+				"addressLine": "32 Athabasca Ave",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "32 Athabasca Ave, Devon, AB T9G 1G2, Canada",
+				"locality": "Devon",
+				"postalCode": "T9G 1G2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.729275,
+					53.3659449
+				]
+			},
+			"bbox": [
+				-113.731159,
+				53.3648207,
+				-113.7273911,
+				53.3670691
+			]
+		}
+	]
+}

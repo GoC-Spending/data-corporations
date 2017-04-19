@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3513 78 Ave SE, Calgary, AB T2C 1J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9af9ad0082b04483b711f899691641e3|BN20130447|7.7.0.0|",
+				"addressLine": "3513 78 Ave SE",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "3513 78 Ave SE, Calgary, AB T2C 1J7, Canada",
+				"locality": "Calgary",
+				"neighborhood": "Foothills",
+				"postalCode": "T2C 1J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.98531,
+					50.98271
+				]
+			},
+			"bbox": [
+				-113.9870956,
+				50.9815858,
+				-113.9835244,
+				50.9838342
+			]
+		}
+	]
+}

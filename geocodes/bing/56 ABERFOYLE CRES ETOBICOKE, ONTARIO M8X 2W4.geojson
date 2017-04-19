@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "56 Aberfoyle Cres, Etobicoke, ON M8X 2W4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d9b99bd1bc9a467aa37eb9e8fed13076|BN20130442|7.7.0.0|",
+				"addressLine": "56 Aberfoyle Cres",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "56 Aberfoyle Cres, Etobicoke, ON M8X 2W4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Islington-City Centre West",
+				"postalCode": "M8X 2W4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.52292,
+					43.64603
+				]
+			},
+			"bbox": [
+				-79.5244735,
+				43.6449058,
+				-79.5213665,
+				43.6471542
+			]
+		}
+	]
+}

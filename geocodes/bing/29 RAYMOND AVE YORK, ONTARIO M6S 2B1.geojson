@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "29 Raymond Ave, York, ON M6S 2B1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "10e93eccf3664f1b8d86b1ffe54dc974|BN20220145|7.7.0.0|",
+				"addressLine": "29 Raymond Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "29 Raymond Ave, York, ON M6S 2B1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Lambton Baby Point",
+				"postalCode": "M6S 2B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48912,
+					43.65632
+				]
+			},
+			"bbox": [
+				-79.4906738,
+				43.6551958,
+				-79.4875662,
+				43.6574442
+			]
+		}
+	]
+}

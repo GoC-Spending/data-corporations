@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "4142 Rumble St, Burnaby, BC V5J 1Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "940b74dceb504935ad692ea830ccbacd|BN20320521|7.7.0.0|",
+				"addressLine": "4142 Rumble St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "4142 Rumble St, Burnaby, BC V5J 1Z8, Canada",
+				"locality": "Burnaby",
+				"neighborhood": "Sussex-Nelson",
+				"postalCode": "V5J 1Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.01169,
+					49.21451
+				]
+			},
+			"bbox": [
+				-123.0134109,
+				49.2133858,
+				-123.0099691,
+				49.2156342
+			]
+		}
+	]
+}

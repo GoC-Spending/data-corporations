@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1300 Finch Ave W, North York, ON M3J 3K2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "451dc64722e24b67ba25a01cc0504493|BN20250135|7.7.0.0|",
+				"addressLine": "1300 Finch Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1300 Finch Ave W, North York, ON M3J 3K2, Canada",
+				"locality": "Toronto",
+				"neighborhood": "York University Heights",
+				"postalCode": "M3J 3K2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.48984,
+					43.76484
+				]
+			},
+			"bbox": [
+				-79.4913966,
+				43.7637158,
+				-79.4882834,
+				43.7659642
+			]
+		}
+	]
+}

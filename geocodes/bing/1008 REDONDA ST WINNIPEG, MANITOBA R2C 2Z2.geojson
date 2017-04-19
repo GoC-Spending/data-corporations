@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1008 Redonda St, Springfield, MB R2C 2Z2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cdb750c37d2a41a9a81eed8a0894806e|BN20290118|7.7.0.0|",
+				"addressLine": "1008 Redonda St",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "1008 Redonda St, Springfield, MB R2C 2Z2, Canada",
+				"locality": "Springfield",
+				"postalCode": "R2C 2Z2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.9791777,
+					49.9233743
+				]
+			},
+			"bbox": [
+				-96.9809238,
+				49.9222502,
+				-96.9774316,
+				49.9244985
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "472 Dufferin Ave, Winnipeg, MB R2W 2Y6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94f59a03317d4f7b9525f56a10e22328|BN20200239|7.7.0.0|",
+				"addressLine": "472 Dufferin Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "472 Dufferin Ave, Winnipeg, MB R2W 2Y6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Dufferin Industrial",
+				"postalCode": "R2W 2Y6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14662,
+					49.9125299
+				]
+			},
+			"bbox": [
+				-97.1483657,
+				49.9114057,
+				-97.1448743,
+				49.9136541
+			]
+		}
+	]
+}

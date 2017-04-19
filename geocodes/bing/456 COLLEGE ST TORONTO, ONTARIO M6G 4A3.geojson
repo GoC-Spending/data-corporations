@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "456 College St, Toronto, ON M6G 4A3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cef6da2d531847c4b12760126a414ba3|BN20300154|7.7.0.0|",
+				"addressLine": "456 College St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "456 College St, Toronto, ON M6G 4A3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Palmerston-Little Italy",
+				"postalCode": "M6G 4A3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.40833,
+					43.6566199
+				]
+			},
+			"bbox": [
+				-79.4098838,
+				43.6554957,
+				-79.4067762,
+				43.6577441
+			]
+		}
+	]
+}

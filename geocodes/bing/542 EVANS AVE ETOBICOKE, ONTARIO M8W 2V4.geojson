@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "542 Evans Ave, Etobicoke, ON M8W 2V4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "54d59d60b7ca4b1abbdf25c554d44f3a|BN20130422|7.7.0.0|",
+				"addressLine": "542 Evans Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "542 Evans Ave, Etobicoke, ON M8W 2V4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Alderwood",
+				"postalCode": "M8W 2V4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.54263,
+					43.61347
+				]
+			},
+			"bbox": [
+				-79.5441827,
+				43.6123458,
+				-79.5410773,
+				43.6145942
+			]
+		}
+	]
+}

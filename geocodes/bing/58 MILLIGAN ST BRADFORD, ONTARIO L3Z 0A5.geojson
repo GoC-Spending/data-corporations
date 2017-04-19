@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "58 Milligan St, Bradford, ON L3Z 0A5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "b2699a57a58e42dabec5878c86b0cd14|BN20260223|7.7.0.0|",
+				"addressLine": "58 Milligan St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "58 Milligan St, Bradford, ON L3Z 0A5, Canada",
+				"locality": "Bradford West Gwillimbury",
+				"neighborhood": "Bradford",
+				"postalCode": "L3Z 0A5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.5857988,
+					44.0976334
+				]
+			},
+			"bbox": [
+				-79.5873641,
+				44.0965093,
+				-79.5842334,
+				44.0987576
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1149 Grant St, Vancouver, BC V6A 2J7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7c06912e2b1a4800a773f8f71ee75a01|BN20200137|7.7.0.0|",
+				"addressLine": "1149 Grant St",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1149 Grant St, Vancouver, BC V6A 2J7, Canada",
+				"locality": "Vancouver",
+				"neighborhood": "Strathcona",
+				"postalCode": "V6A 2J7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.0791203,
+					49.2716349
+				]
+			},
+			"bbox": [
+				-123.0808433,
+				49.2705107,
+				-123.0773974,
+				49.272759
+			]
+		}
+	]
+}

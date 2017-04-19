@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "705 Fountain St N, Cambridge, ON N3H 4R7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "643035ebc0d04f98b943ba50e03464ac|BN20121762|7.7.0.0|",
+				"addressLine": "705 Fountain St N",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Waterloo",
+				"countryRegion": "Canada",
+				"formattedAddress": "705 Fountain St N, Cambridge, ON N3H 4R7, Canada",
+				"locality": "Cambridge",
+				"postalCode": "N3H 4R7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.37087,
+					43.40672
+				]
+			},
+			"bbox": [
+				-80.3724174,
+				43.4055958,
+				-80.3693226,
+				43.4078442
+			]
+		}
+	]
+}

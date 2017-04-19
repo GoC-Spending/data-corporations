@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "67 Juneau Rd, Victoria Harbour, ON L0K 2A0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "48f8c49d053b4e20b42270332d7ef5f3|BN20320521|7.7.0.0|",
+				"addressLine": "67 Juneau Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Simcoe",
+				"countryRegion": "Canada",
+				"formattedAddress": "67 Juneau Rd, Victoria Harbour, ON L0K 2A0, Canada",
+				"locality": "Tay",
+				"neighborhood": "Victoria Harbour",
+				"postalCode": "L0K 2A0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.78135,
+					44.75545
+				]
+			},
+			"bbox": [
+				-79.782933,
+				44.7543258,
+				-79.779767,
+				44.7565742
+			]
+		}
+	]
+}

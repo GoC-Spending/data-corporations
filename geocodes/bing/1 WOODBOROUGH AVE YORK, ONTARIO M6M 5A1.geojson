@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1 Woodborough Ave, York, ON M6M 5A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "497d5777dae54398b1ed3230189ab77a|BN20160335|7.7.0.0|",
+				"addressLine": "1 Woodborough Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "1 Woodborough Ave, York, ON M6M 5A1, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Beechborough-Greenbrook",
+				"postalCode": "M6M 5A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4666699,
+					43.69587
+				]
+			},
+			"bbox": [
+				-79.4682247,
+				43.6947458,
+				-79.4651151,
+				43.6969942
+			]
+		}
+	]
+}

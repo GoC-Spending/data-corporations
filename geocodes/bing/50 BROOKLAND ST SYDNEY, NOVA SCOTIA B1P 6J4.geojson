@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "50 Brookland St, Sydney, NS B1P 5B2, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "32fb69f20bdb418a956966c83144f013|BN20130422|7.7.0.0|",
+				"addressLine": "50 Brookland St",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "50 Brookland St, Sydney, NS B1P 5B2, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 5B2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.18902,
+					46.13348
+				]
+			},
+			"bbox": [
+				-60.1906422,
+				46.1323558,
+				-60.1873978,
+				46.1346042
+			]
+		}
+	]
+}

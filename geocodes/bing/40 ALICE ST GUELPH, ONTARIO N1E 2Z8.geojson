@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "40 Alice St, Guelph, ON N1E 2Z8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "bf8a1a81e81a4162b38d16c9da34aff6|BN20130631|7.7.0.0|",
+				"addressLine": "40 Alice St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Wellington",
+				"countryRegion": "Canada",
+				"formattedAddress": "40 Alice St, Guelph, ON N1E 2Z8, Canada",
+				"locality": "Guelph",
+				"neighborhood": "St Georges/St Patricks",
+				"postalCode": "N1E 2Z8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.23852,
+					43.54637
+				]
+			},
+			"bbox": [
+				-80.2400709,
+				43.5452458,
+				-80.2369691,
+				43.5474942
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "120 Rue de Melbourne, Gatineau, QC J8T 8L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "cc6052936edd4199aad4adad62f63afb|BN20121762|7.7.0.0|",
+				"addressLine": "120 Rue de Melbourne",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Gatineau",
+				"countryRegion": "Canada",
+				"formattedAddress": "120 Rue de Melbourne, Gatineau, QC J8T 8L1, Canada",
+				"locality": "Gatineau",
+				"neighborhood": "Quartier des Riverains",
+				"postalCode": "J8T 8L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.67568,
+					45.47969
+				]
+			},
+			"bbox": [
+				-75.6772833,
+				45.4785658,
+				-75.6740767,
+				45.4808142
+			]
+		}
+	]
+}

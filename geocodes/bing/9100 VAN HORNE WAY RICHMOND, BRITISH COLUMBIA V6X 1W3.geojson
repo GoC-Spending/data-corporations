@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "9100 Van Horne Way, Richmond, BC V6X 1W3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "c9165a680cd54da3a794efbe3d1083af|BN20130533|7.7.0.0|",
+				"addressLine": "9100 Van Horne Way",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "9100 Van Horne Way, Richmond, BC V6X 1W3, Canada",
+				"locality": "Richmond",
+				"neighborhood": "Bridgeport",
+				"postalCode": "V6X 1W3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12404,
+					49.1946299
+				]
+			},
+			"bbox": [
+				-123.1257602,
+				49.1935057,
+				-123.1223198,
+				49.1957541
+			]
+		}
+	]
+}

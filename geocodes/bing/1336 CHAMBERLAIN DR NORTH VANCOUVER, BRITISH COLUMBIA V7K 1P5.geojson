@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1336 Chamberlain Dr, North Vancouver, BC V7K 1P5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "94f12ef3d9b8441b8b340b382e05e73e|BN20130530|7.7.0.0|",
+				"addressLine": "1336 Chamberlain Dr",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1336 Chamberlain Dr, North Vancouver, BC V7K 1P5, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Central Lynn",
+				"postalCode": "V7K 1P5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.03686,
+					49.34563
+				]
+			},
+			"bbox": [
+				-123.0385855,
+				49.3445058,
+				-123.0351345,
+				49.3467542
+			]
+		}
+	]
+}

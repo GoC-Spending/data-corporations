@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "85 Main St N, Deer Lake, NL A8A 1X1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "39b39eff10fd4cfbb56224e2a6ac0c1e|BN20200239|7.7.0.0|",
+				"addressLine": "85 Main St N",
+				"adminDistrict": "NL",
+				"adminDistrict2": "Newfoundland and Labrador",
+				"countryRegion": "Canada",
+				"formattedAddress": "85 Main St N, Deer Lake, NL A8A 1X1, Canada",
+				"locality": "Deer Lake",
+				"postalCode": "A8A 1X1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-57.4195204,
+					49.172645
+				]
+			},
+			"bbox": [
+				-57.4212398,
+				49.1715208,
+				-57.4178009,
+				49.1737691
+			]
+		}
+	]
+}

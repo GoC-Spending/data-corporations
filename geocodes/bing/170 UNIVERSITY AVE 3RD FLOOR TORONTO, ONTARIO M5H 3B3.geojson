@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "170 University Ave, Toronto, ON M5H 3B3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "14e6c71709ba476cb4f8d701cbf53903|BN20131519|7.7.0.0|",
+				"addressLine": "170 University Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "170 University Ave, Toronto, ON M5H 3B3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Bay Street Corridor",
+				"postalCode": "M5H 3B3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.38573,
+					43.6486
+				]
+			},
+			"bbox": [
+				-79.3872836,
+				43.6474758,
+				-79.3841764,
+				43.6497242
+			]
+		}
+	]
+}

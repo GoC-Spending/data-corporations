@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "518 Grand Lake Rd, Sydney, NS B1P 5T4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "a58de5ccd1bc4f96bfdd081d8a838155|BN20260231|7.7.0.0|",
+				"addressLine": "518 Grand Lake Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Cape Breton",
+				"countryRegion": "Canada",
+				"formattedAddress": "518 Grand Lake Rd, Sydney, NS B1P 5T4, Canada",
+				"locality": "Cape Breton",
+				"neighborhood": "Sydney",
+				"postalCode": "B1P 5T4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.1545528,
+					46.1460876
+				]
+			},
+			"bbox": [
+				-60.1561754,
+				46.1449634,
+				-60.1529303,
+				46.1472117
+			]
+		}
+	]
+}

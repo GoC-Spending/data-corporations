@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "261 Rue Brossard, Delson, QC J5B 1W9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "7a6b79177e4d4c13a49964414507559c|BN20130634|7.7.0.0|",
+				"addressLine": "261 Rue Brossard",
+				"adminDistrict": "QC",
+				"adminDistrict2": "Roussillon",
+				"countryRegion": "Canada",
+				"formattedAddress": "261 Rue Brossard, Delson, QC J5B 1W9, Canada",
+				"locality": "Delson",
+				"neighborhood": "La Tortue",
+				"postalCode": "J5B 1W9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.52242,
+					45.36923
+				]
+			},
+			"bbox": [
+				-73.5240201,
+				45.3681058,
+				-73.5208199,
+				45.3703542
+			]
+		}
+	]
+}

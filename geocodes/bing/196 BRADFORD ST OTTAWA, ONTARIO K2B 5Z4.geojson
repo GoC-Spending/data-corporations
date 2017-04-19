@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "196 Bradford St, Ottawa, ON K2B 5Z4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "9e2774ff6922432dbfad96c56e997684|BN20190642|7.7.0.0|",
+				"addressLine": "196 Bradford St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Ottawa",
+				"countryRegion": "Canada",
+				"formattedAddress": "196 Bradford St, Ottawa, ON K2B 5Z4, Canada",
+				"locality": "Ottawa",
+				"neighborhood": "Britannia Bay-Britannia Park",
+				"postalCode": "K2B 5Z4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.79903,
+					45.36718
+				]
+			},
+			"bbox": [
+				-75.8006301,
+				45.3660558,
+				-75.7974299,
+				45.3683042
+			]
+		}
+	]
+}

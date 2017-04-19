@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "26 Forest Rd, Dartmouth, NS B3A 2M3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "459ff66af8aa4d44b5f06931cbbb148e|BN20190653|7.7.0.0|",
+				"addressLine": "26 Forest Rd",
+				"adminDistrict": "NS",
+				"adminDistrict2": "Halifax",
+				"countryRegion": "Canada",
+				"formattedAddress": "26 Forest Rd, Dartmouth, NS B3A 2M3, Canada",
+				"locality": "Halifax",
+				"neighborhood": "Dartmouth",
+				"postalCode": "B3A 2M3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.56699,
+					44.67931
+				]
+			},
+			"bbox": [
+				-63.568571,
+				44.6781858,
+				-63.565409,
+				44.6804342
+			]
+		}
+	]
+}

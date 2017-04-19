@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "463 Nightingale Ave, London, ON N5W 4C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8c0dc3630280459aaed89078b2608326|BN20130631|7.7.0.0|",
+				"addressLine": "463 Nightingale Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "463 Nightingale Ave, London, ON N5W 4C4, Canada",
+				"locality": "London",
+				"neighborhood": "East London",
+				"postalCode": "N5W 4C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.2133,
+					42.9958
+				]
+			},
+			"bbox": [
+				-81.214837,
+				42.9946758,
+				-81.211763,
+				42.9969242
+			]
+		}
+	]
+}

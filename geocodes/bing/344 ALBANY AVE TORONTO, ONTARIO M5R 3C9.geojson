@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "344 Albany Ave, Toronto, ON M5R 3C9, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "791595867cc04a5b9f917544d09a7bbc|BN20131519|7.7.0.0|",
+				"addressLine": "344 Albany Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "344 Albany Ave, Toronto, ON M5R 3C9, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Casa Loma",
+				"postalCode": "M5R 3C9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.41476,
+					43.67638
+				]
+			},
+			"bbox": [
+				-79.4163143,
+				43.6752558,
+				-79.4132057,
+				43.6775042
+			]
+		}
+	]
+}

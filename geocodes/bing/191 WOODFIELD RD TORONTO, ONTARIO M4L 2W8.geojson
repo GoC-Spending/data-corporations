@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "191 Woodfield Rd, Toronto, ON M4L 2W8, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "232662ec197c40f4b3ff2e9605e00825|BN20130620|7.7.0.0|",
+				"addressLine": "191 Woodfield Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "191 Woodfield Rd, Toronto, ON M4L 2W8, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Greenwood-Coxwell",
+				"postalCode": "M4L 2W8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.32262,
+					43.66926
+				]
+			},
+			"bbox": [
+				-79.3241741,
+				43.6681358,
+				-79.3210659,
+				43.6703842
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "352 Mountain St, Sudbury, ON P3B 2T7, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "dea438700021456ab2382184bf1ff6c3|BN20130632|7.7.0.0|",
+				"addressLine": "352 Mountain St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Greater Sudbury",
+				"countryRegion": "Canada",
+				"formattedAddress": "352 Mountain St, Sudbury, ON P3B 2T7, Canada",
+				"locality": "Greater Sudbury",
+				"neighborhood": "Sudbury",
+				"postalCode": "P3B 2T7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.9810894,
+					46.5006001
+				]
+			},
+			"bbox": [
+				-80.9827225,
+				46.4994759,
+				-80.9794563,
+				46.5017242
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "125 Higgins Ave, Winnipeg, MB R3B 0B6, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "096c6221f3364c08b11d985b6b4a4bb9|BN20130632|7.7.0.0|",
+				"addressLine": "125 Higgins Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "125 Higgins Ave, Winnipeg, MB R3B 0B6, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "South Point Douglas",
+				"postalCode": "R3B 0B6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12733,
+					49.9041799
+				]
+			},
+			"bbox": [
+				-97.1290754,
+				49.9030557,
+				-97.1255846,
+				49.9053041
+			]
+		}
+	]
+}

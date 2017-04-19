@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "950 Lawrence Ave W, North York, ON M6A 1C4, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "133d2b25aaa1480f8a6f70531d53b400|BN20130719|7.7.0.0|",
+				"addressLine": "950 Lawrence Ave W",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "950 Lawrence Ave W, North York, ON M6A 1C4, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Yorkdale-Glen Park",
+				"postalCode": "M6A 1C4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.45668,
+					43.7138332
+				]
+			},
+			"bbox": [
+				-79.4582353,
+				43.712709,
+				-79.4551247,
+				43.7149573
+			]
+		}
+	]
+}
