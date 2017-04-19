@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5420 Walker Rd, Tecumseh, ON N0R 1L0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "797927ae5b70476d9d61c844393a478e|BN20300154|7.7.0.0|",
+				"addressLine": "5420 Walker Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Essex",
+				"countryRegion": "Canada",
+				"formattedAddress": "5420 Walker Rd, Tecumseh, ON N0R 1L0, Canada",
+				"locality": "Tecumseh",
+				"neighborhood": "Oldcastle",
+				"postalCode": "N0R 1L0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.9637807,
+					42.2328904
+				]
+			},
+			"bbox": [
+				-82.9652989,
+				42.2317663,
+				-82.9622624,
+				42.2340146
+			]
+		}
+	]
+}

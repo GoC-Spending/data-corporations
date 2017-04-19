@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "5820 97 St NW, Edmonton, AB T6E 3J1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "0f5611da12a74daabec5ca12797ec0c3|BN20240253|7.7.0.0|",
+				"addressLine": "5820 97 St NW",
+				"adminDistrict": "AB",
+				"adminDistrict2": "Alberta",
+				"countryRegion": "Canada",
+				"formattedAddress": "5820 97 St NW, Edmonton, AB T6E 3J1, Canada",
+				"locality": "Edmonton",
+				"neighborhood": "Coronet Industrial",
+				"postalCode": "T6E 3J1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.4806,
+					53.49428
+				]
+			},
+			"bbox": [
+				-113.4824896,
+				53.4931558,
+				-113.4787104,
+				53.4954042
+			]
+		}
+	]
+}

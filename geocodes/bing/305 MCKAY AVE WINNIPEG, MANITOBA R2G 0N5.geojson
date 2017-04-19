@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "305 McKay Ave, Winnipeg, MB R2G 0N5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "d79ebd4cc8764449b1fdbd9c84153616|BN20130521|7.7.0.0|",
+				"addressLine": "305 McKay Ave",
+				"adminDistrict": "MB",
+				"adminDistrict2": "Manitoba",
+				"countryRegion": "Canada",
+				"formattedAddress": "305 McKay Ave, Winnipeg, MB R2G 0N5, Canada",
+				"locality": "Winnipeg",
+				"neighborhood": "Rossmere-A",
+				"postalCode": "R2G 0N5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.08211,
+					49.94095
+				]
+			},
+			"bbox": [
+				-97.0838567,
+				49.9398258,
+				-97.0803633,
+				49.9420742
+			]
+		}
+	]
+}

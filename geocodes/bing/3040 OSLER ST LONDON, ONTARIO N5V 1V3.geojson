@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "3040 Osler St, London, ON N5V 1V3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "75a5bf2c5d804fe199dc92ba7a9546c0|BN20130422|7.7.0.0|",
+				"addressLine": "3040 Osler St",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Middlesex",
+				"countryRegion": "Canada",
+				"formattedAddress": "3040 Osler St, London, ON N5V 1V3, Canada",
+				"locality": "London",
+				"neighborhood": "Argyle",
+				"postalCode": "N5V 1V3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1578246,
+					43.0120662
+				]
+			},
+			"bbox": [
+				-81.159362,
+				43.010942,
+				-81.1562872,
+				43.0131903
+			]
+		}
+	]
+}

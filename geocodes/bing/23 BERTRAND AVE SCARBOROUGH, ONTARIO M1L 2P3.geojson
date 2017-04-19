@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "23 Bertrand Ave, Scarborough, ON M1L 2P3, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "1961652f93d848778f750f97b569f9f5|BN20130620|7.7.0.0|",
+				"addressLine": "23 Bertrand Ave",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "23 Bertrand Ave, Scarborough, ON M1L 2P3, Canada",
+				"locality": "Toronto",
+				"neighborhood": "Wexford-Maryvale",
+				"postalCode": "M1L 2P3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.28572,
+					43.73299
+				]
+			},
+			"bbox": [
+				-79.2872758,
+				43.7318658,
+				-79.2841642,
+				43.7341142
+			]
+		}
+	]
+}

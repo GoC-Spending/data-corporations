@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "60 Northline Rd, Toronto, ON M4B 3E5, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "8dba2550cbf04655afc4115191d24146|BN20121763|7.7.0.0|",
+				"addressLine": "60 Northline Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Toronto",
+				"countryRegion": "Canada",
+				"formattedAddress": "60 Northline Rd, Toronto, ON M4B 3E5, Canada",
+				"locality": "Toronto",
+				"neighborhood": "O'Connor-Parkview",
+				"postalCode": "M4B 3E5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3112,
+					43.7157
+				]
+			},
+			"bbox": [
+				-79.3127553,
+				43.7145758,
+				-79.3096447,
+				43.7168242
+			]
+		}
+	]
+}

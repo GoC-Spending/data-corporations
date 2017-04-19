@@ -1,0 +1,42 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "350 S Edgeware Rd, St Thomas, ON N5P 4L1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "6fea0b3de51b4f8d9ed29cd38284936f|BN20130422|7.7.0.0|",
+				"addressLine": "350 S Edgeware Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Elgin",
+				"countryRegion": "Canada",
+				"formattedAddress": "350 S Edgeware Rd, St Thomas, ON N5P 4L1, Canada",
+				"locality": "St Thomas",
+				"postalCode": "N5P 4L1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.1608113,
+					42.7929006
+				]
+			},
+			"bbox": [
+				-81.1623432,
+				42.7917765,
+				-81.1592793,
+				42.7940248
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "1870 Harbour Rd, North Vancouver, BC V7H 1A1, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "5e4f6ddc49984f388eba5580db5a20d3|BN20130625|7.7.0.0|",
+				"addressLine": "1870 Harbour Rd",
+				"adminDistrict": "BC",
+				"adminDistrict2": "Greater Vancouver",
+				"countryRegion": "Canada",
+				"formattedAddress": "1870 Harbour Rd, North Vancouver, BC V7H 1A1, Canada",
+				"locality": "North Vancouver District",
+				"neighborhood": "Maplewood",
+				"postalCode": "V7H 1A1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.02129,
+					49.30265
+				]
+			},
+			"bbox": [
+				-123.023014,
+				49.3015258,
+				-123.019566,
+				49.3037742
+			]
+		}
+	]
+}

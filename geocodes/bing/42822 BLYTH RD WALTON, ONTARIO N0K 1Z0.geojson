@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"confidence": 9,
+				"authenticationResultCode": "ValidCredentials",
+				"brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+				"copyright": "Copyright © 2017 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+				"entityType": "Address",
+				"matchCodes": [
+					"Good"
+				],
+				"name": "42822 Blyth Rd, Walton, ON N0K 1Z0, Canada",
+				"statusCode": 200,
+				"statusDescription": "OK",
+				"traceId": "647e6223cd6b4ec4995ea398d07a3378|BN20200239|7.7.0.0|",
+				"addressLine": "42822 Blyth Rd",
+				"adminDistrict": "ON",
+				"adminDistrict2": "Huron",
+				"countryRegion": "Canada",
+				"formattedAddress": "42822 Blyth Rd, Walton, ON N0K 1Z0, Canada",
+				"locality": "Huron East",
+				"neighborhood": "Walton",
+				"postalCode": "N0K 1Z0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.29222,
+					43.67406
+				]
+			},
+			"bbox": [
+				-81.2937742,
+				43.6729358,
+				-81.2906658,
+				43.6751842
+			]
+		}
+	]
+}
