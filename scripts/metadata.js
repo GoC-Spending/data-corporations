@@ -3,10 +3,10 @@ const path = require('path')
 const ProgressBar = require('progress')
 
 // User Input
-const folder = path.join(__dirname, 'html')
+const corporationPath = path.join(__dirname, '..', 'html')
 
 // Create Writer
-const writer = fs.createWriteStream(path.join(__dirname, 'data', 'corporations.json'))
+const writer = fs.createWriteStream(path.join(__dirname, '..', 'data', 'corporations.json'))
 writer.write('[\n')
 
 /**
@@ -106,7 +106,7 @@ function parseHTML (html, filename) {
 
 // Loop each HTML
 let count = 0
-const filenames = fs.readdirSync(folder)
+const filenames = fs.readdirSync(corporationPath)
 const bar = new ProgressBar('  processing [:bar] :percent :current/:total', {
   complete: '=',
   incomplete: ' ',
@@ -116,7 +116,7 @@ const bar = new ProgressBar('  processing [:bar] :percent :current/:total', {
 
 for (const filename of filenames) {
   if (filename.match(/\.html/)) {
-    const html = fs.readFileSync(path.join(folder, filename), 'utf-8')
+    const html = fs.readFileSync(path.join(corporationPath, filename), 'utf-8')
     const results = parseHTML(html, filename)
     results.filename = filename
 

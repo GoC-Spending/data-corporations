@@ -14,7 +14,7 @@ const headers = {
 }
 const timeout = 10000
 const statusPath = path.join(__dirname, 'status.json')
-const corporationPath = path.join(__dirname, 'html')
+const corporationPath = path.join(__dirname, '..', 'html')
 
 /**
  * Login it to receive session credentials
